@@ -97,3 +97,10 @@ jobs:
         run: python3 src/build_graph.py --check
       - name: STATUS.md must be current
         run: corpus-generate-status --config _meta/corpus.yml --output STATUS.md --check
+      # _meta/series.json is derived from the committed report text, so it falls behind the
+      # moment a document is added or re-ingested -- and nothing else would notice. The
+      # series is what an agent actually queries; a stale one answers with numbers that no
+      # longer match the documents they cite, which is wrong in the most credible-looking
+      # way available.
+      - name: Derived KPM series must be current
+        run: python3 src/build_series.py --check
