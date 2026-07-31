@@ -1,0 +1,279 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-boli-2017
+title: Labor and Industries, Bureau of — Annual Performance Progress Report, Reporting Year 2017
+doc_type: performance_report
+citation: APPR LABOR-AND-INDUSTRIES-BUR 2017
+authority_level: agency_report
+issuing_body: Labor and Industries, Bureau of
+agency: Labor and Industries, Bureau of
+agency_code: null
+reporting_year: '2017'
+year_source: document
+filename_year: '2017'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_BOLI-2017.pdf
+source_filename: APPR_BOLI-2017.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 4c4a79e1fa71213ce516a53f1809c720e7adfd822f825049065df8939b3c6d54
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: 'missing expected anchors: Data Collection Period'
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2017
+---
+
+## At a glance
+
+**APPR LABOR-AND-INDUSTRIES-BUR 2017** — Labor and Industries, Bureau of, Reporting Year 2017
+
+- Agency: Labor and Industries, Bureau of
+- Reporting year: 2017 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_BOLI-2017.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Labor and Industries, Bureau of
+Annual Performance Progress Report
+Reporting Year 2017
+Published: 9/11/2017 9:49:45 AM
+KPM #  Approved Key Performance Measures (KPMs)
+1  CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or
+"excellent": overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+2  Timely Processing of Civil Rights Complaints - Percentage of target met for timely: intake, completion of perfected charge,
+initial interview and investigation (composite measure).
+3  Timely Processing of Wage and Hour Complaints - Percentage of target met for timely: intake and jurisdiction
+determination; demand letter, investigation: Composite measure.
+4  WHD - Percentage of WSF claims processed within fewer than 30 days.
+5  WHD - Percentage of PWR investigations completed within 90 days.
+6  ATD - Number of apprentices receiving journey level certificates.
+7  ATD - Number of newly registered apprentices.
+8  Apprenticeship Participation - Percentage of new apprenticeship participants who are minorities.
+9  Administrative Prosecution Unit (APU) - Percentage of cases scheduled for hearing within 30 days of assignment to APU.
+10  TA - Percentage of employer technical assistance calls or emails returned no later than the next business day.
+11  Prevailing Wage Rate Pre-determinations - Response time for requests by public agencies concerning potential coverage of
+projects under state Prevailing Wage laws.
+Performance Summary Green Yellow Red
+= Target to -5% = Target -6% to -15% = Target > -15%
+Summary Stats: 90.91% 9.09% 0%
+KPM #1  CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or
+"excellent": overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+Report Year  2013  2014  2015  2016  2017
+Overall
+Actual  100  95  89  91  93
+Target  100  100  100  100  100
+Accuracy
+Actual  No Data  No Data  No Data  95  94
+Target  100  100  100  100  100
+Availability of Information
+Actual  No Data  No Data  No Data  89  89
+Target  100  100  100  100  100
+Expertise
+Actual  No Data  No Data  No Data  94  96
+Target  100  100  100  100  100
+Helpfulness
+Actual  No Data  No Data  No Data  90  93
+Target  100  100  100  100  100
+Timeliness
+Actual  No Data  No Data  No Data  94  95
+Target  100  100  100  100  100
+How Are We Doing
+BOLI's Technical Assistance for Employers program (TA) educates and advises employers on civil rights, wage and hour, and
+other employment laws. The unit provides employers with free telephone and email access to technical assistance; maintains and
+updates website information such as fact sheets and "FAQs"; provides public and customized seminars throughout the state on a
+variety of topics to help employers ensure they are in compliance with employment laws; designs and sells composite employment
+law posters; and researches, writes and publishes employer handbooks on a variety of employment law-related topics.
+TA is primarily funded and reliant on fees collected from conducting employer seminars and customized on-site trainings, and sales
+of employer handbooks and composite posters. Each year, TA responds to approximately 18,000 telephone and email inquiries
+from employers; services that are very time-consuming but generate no revenue to support the positions in the unit. The
+unit responds to most employer telephone calls immediately as they are received and maintains a high performance rating by
+employers rating their satisfaction in a customer survey as "good" or "excellent." Despite its limited resources and competing
+priorities to generate revenue to support the program while maintaining free telephone and email technical assistance to employers,
+BOLI's Technical Assistance for Employers ("TA") program consistently receives high ratings from customers.
+Factors Affecting Results
+Five (5.0) FTE Training and Development Specialist 2 positions have been legislatively authorized for TA, however, only one of
+these positions is funded with General Funds; the others are OF positions supported by revenue the unit is able to generate
+through the provision of seminars and sales of handbooks and posters, which is not sufficient to reliably fund the four OF positions
+and unit's manager (also Other Funded) on a full-time basis. The availability of staff to provide one-on-one technical assistance
+services to employers free of charge while generating revenue is an ongoing challenge for the unit. Due to these competing
+priorities and demand for telephone/email services, the unit has been unable to generate sufficient revenue to support one OF
+position in the unit, further straining the ability of the remaining four positions to meet customer demand for services. In addition, the
+workload of the unit has been significantly expanded by the legislative enactment and expansion of several major labor laws
+including minimum wage, sick time, pay equity and employee scheduling laws, among others.
+KPM #2  Timely Processing of Civil Rights Complaints - Percentage of target met for timely: intake, completion of perfected charge,
+initial interview and investigation (composite measure).
+* Upward Trend = positive result
+Report Year  2013  2014  2015  2016  2017
+Percentage of target met for timely: intake, completion of perfected charge, initial
+interview and investigation
+Actual  71.50%  72.50%  86%  85%  86.75%
+Target  72%  72%  72%  72%  72%
+How Are We Doing
+The Civil Rights Division significantly exceeded its composite performance measure of providing timely intake services, drafting
+perfected charges, conducting initial interviews and completing investigations in FY 2017, increasing its performance over the
+previous year.
+Factors Affecting Results
+A third Intake Officer position established during the 2013-2015 biennium greatly enhanced the division's ability to meet its
+performance goals in the timely drafting of perfected charges, and stable funding for investigative staff during the 2015-2017
+biennium contributed to the division's ability to meet its investigative goals.
+KPM #3  Timely Processing of Wage and Hour Complaints - Percentage of target met for timely: intake and jurisdiction
+determination; demand letter, investigation: Composite measure.
+* Upward Trend = positive result
+Report Year  2013  2014  2015  2016  2017
+Timely Processing of Wage and Hour Complaints: Percentage of target met for timely:
+intake and jurisdiction determination; demand letter, investigation: Composite
+measure.
+Actual  85.17%  87%  84.36%  83.20%  82.16%
+Target  80%  80%  80%  80%  80%
+How Are We Doing
+The Wage and Hour Division exceeded its targets in all three "phases" of this composite KPM in FY 2017. Demand letters to
+employers were sent in less than 12 days 92.3% of the time; 100% of wage claims received were assigned for investigation within
+30 days; and 54.5% of its wage claim investigations were completed within 35 days.
+Factors Affecting Results
+The single most critical factor in the division's wage claim performance is the availability of trained staff to process and investigate
+wage claims. In order to resolve wage claims efficiently and expediently, the division requires adequate compliance and support
+resources to maintain service levels.
+KPM #4  WHD - Percentage of WSF claims processed within fewer than 30 days.
+* Upward Trend = positive result
+Report Year  2013  2014  2015  2016  2017
+WHD: Percentage of Wage Security Fund Claims Processed within 30 Days
+Actual  86.80  86.70  89.70  87  96.40
+Target  75  75  75  80  80
+How Are We Doing
+The Wage and Hour Division significantly exceeded its performance goal of processing 80% of Wage Security Fund claims
+received within 30 days in FY 2017 by processing 96.4% of claims received in this period of time; representing a 9.4% increase
+over the previous year.
+Factors Affecting Results
+As with other types of wage claims received and processed by the division, the single most critical factor in the division's Wage
+Security Fund wage claim performance is the availability of trained staff to process and investigate wage claims. In order to resolve
+wage claims efficiently and expediently, the division requires adequate resources to retain compliance and support staff and
+maintain service levels.
+KPM #5  WHD - Percentage of PWR investigations completed within 90 days.
+* Upward Trend = positive result
+Report Year  2013  2014  2015  2016  2017
+Wage and Hour Division: Percentage of PWR Investigations Completed within 90 Days
+Actual  53.50  57.50  47.20  54  66.40
+Target  64  64  64  65  65
+How Are We Doing
+The Wage and Hour Division exceeded its performance goal of completing 64% of Prevailing Wage Rate (PWR) investigations
+within 90 days in FY 2017 by completing 66.4% of its PWR investigations during this period, representing a 12.4% increase over
+the previous year.
+Factors Affecting Results
+As with all types of investigations conducted by the division, the primary factor in the timeliness of completing PWR investigations is
+the availability of trained staff to conduct such investigations. PWR investigations typically involve a lengthy examination of payroll
+records for work performed by contractors on public works projects. The time required to obtain such documents, carefully review
+them and resolve any wage issues discovered during the investigation affect the division's ability to conduct timely investigations.
+Staff become more proficient in efficiently conducting these investigations with experience and training.
+KPM #6  ATD - Number of apprentices receiving journey level certificates.
+* Upward Trend = positive result
+Report Year  2013  2014  2015  2016  2017
+Apprenticeship and Training Division: Number of Apprentices Receiving Journey Level
+Certificates
+Actual  1,189  860  805  973  1,250
+Target  1,280  1,280  1,280  1,200  1,200
+How Are We Doing
+The Apprenticeship and Training Division (ATD) exceeded its goal of 1,200 apprentices receiving journey level certificates in FY
+2017 by 50; representing a 28% increase over the previous year.
+Factors Affecting Results
+Between 2004 and 2014, an average of approximately 1,200 apprentices received their journey level certificates each year.
+Beginning in November 2008, the number of total apprenticeship registrations gradually fell as the Great Recession eroded
+employment opportunities. Accordingly, new apprentice registrations remained stagnant until approximately July 2013, when a
+rebounding economy resulted in an increased demand for registered apprentices.
+In FY 2015, apprentice completions reached their lowest point in 16 years, with 860 individuals receiving journey level certificates.
+Completions increased in 973 in FY 2016, showing a gradual increase as anticipated, resulting from the gradual increase in the
+number of new registrations starting in 2013 as the economy recovered, spurring more employment.
+KPM #7  ATD - Number of newly registered apprentices.
+* Upward Trend = positive result
+Report Year  2013  2014  2015  2016  2017
+ATD: Number of Newly Registered Apprentices
+Actual  2,141  2,851  2,507  2,997  3,786
+Target  2,200  2,200  2,200  2,200  2,200
+How Are We Doing
+The Apprenticeship and Training Division significantly exceeded its goal of 2200 new apprentice registrations in FY 2017 with 3786
+new registrations; an increase of 26% over the previous year.
+Factors Affecting Results
+The economic acceleration the state experienced in 2013 has continued to gradually build and shows no side of deterioration in the
+short term. Statewide job growth is currently at its strongest since 2006 and in turn, employers are hiring more apprentices to
+address new work and replace its aging workforce.
+KPM #8  Apprenticeship Participation - Percentage of new apprenticeship participants who are minorities.
+* Upward Trend = positive result
+Report Year  2013  2014  2015  2016  2017
+ATD: Percentage of Minority Apprentices
+Actual  16.30%  16.01%  19.94%  20.72%  18.41%
+Target  15%  15%  15%  15%  15%
+How Are We Doing
+ATD exceeded its goal of 15% of all new registered apprentices coming from protected class minority groups with 18.41% of
+registered apprentices in FY 2017 being minorities.
+Factors Affecting Results
+Success in attaining minority participation goals are primarily the result of the efforts of ATD staff in providing technical assistance
+to apprenticeship programs on strategies for recruiting and retaining minorities.
+KPM #9  Administrative Prosecution Unit (APU) - Percentage of cases scheduled for hearing within 30 days of assignment to APU.
+* Upward Trend = positive result
+Report Year  2013  2014  2015  2016  2017
+Percentage of cases scheduled for hearing within 30 days of assignment to APU.
+Actual  No Data  No Data  85  98  97
+Target  TBD  TBD  75  75  75
+How Are We Doing
+The Administrative Prosecution Unit (APU) continues to exceed its performance goal of scheduling a date for an administrative
+(contested case) hearing within 30 days of receipt of the case by the unit. Ninety-seven percent of the cases referred to the APU
+during FY 2017 were scheduled for hearing within 30 days of receipt.
+Factors Affecting Results
+The primary factors affecting results for this KPM are maintaining stable and experienced staffing and the overall caseload of the
+unit.
+KPM #10  TA - Percentage of employer technical assistance calls or emails returned no later than the next business day.
+* Upward Trend = positive result
+Report Year  2013  2014  2015  2016  2017
+TA: Percentage of calls responded to within two business days.
+Actual  98%  98%  100%  99%  100%
+Target  95%  95%  95%  95%  95%
+How Are We Doing
+BOLI succeeded in responding to all employer telephone calls and emails received within two business days in FY 2017, achieving
+100% of this performance goal.
+Factors Affecting Results
+As indicated in the discussion of KPM#1, BOLI's Technical Assistance for Employers program (TA) educates and advises
+employers on civil rights, wage and hour, and other employment laws. The unit provides employers with free telephone and email
+access to technical assistance; maintains and updates website information such as fact sheets and "FAQs"; provides public and
+customized seminars throughout the state on a variety of topics to help employers ensure they are in compliance with employment
+laws; designs and sells composite employment law posters; and researches, writes and publishes employer handbooks on a
+variety of employment law-related topics. TA is primarily funded and reliant on fees collected from conducting employer seminars
+and customized on-site trainings, and sales of employer handbooks and composite posters. Each year, TA responds to
+approximately 18,000 telephone and email inquiries from employers; services that are very time-consuming but generate no
+revenue to support the positions in the unit. The unit responds to most employer telephone calls immediately as they are received
+and maintains a high performance rating by employers rating their satisfaction in a customer survey as "good" or "excellent."
+Five (5.0) FTE Training and Development Specialist 2 positions have been legislatively authorized for TA, however, only one of
+these positions is funded with General Funds; the others are OF positions supported by revenue the unit is able to generate
+through the provision of seminars and sales of handbooks and posters, which is not sufficient to reliably fund the four OF positions
+and unit's manager (also Other Funded) on a full-time basis.
+KPM #11  Prevailing Wage Rate Pre-determinations - Response time for requests by public agencies concerning potential coverage
+of projects under state Prevailing Wage laws.
+* Upward Trend = positive result
+Report Year  2013  2014  2015  2016  2017
+Wage and Hour Division: Percentage of PWR Predeterminations Processed within 15 days
+Actual  100  100  100  97.10  97.40
+Target  92  92  92  92  92
+How Are We Doing
+The Wage and Hour Division has prioritized its procesing of prevailing wage determinations requests. As a result, the division has
+consistently exceeded its target of issuing determinations within 15 days, issuing determinations 97.4% of the time within this
+period in FY 2017.
+Factors Affecting Results
+Maintaining a sufficient number of experienced staff persons with knowledge of the prevailing wage rate regulations has enabled
+the division to efficienctly and expeditiously issue project determinations.

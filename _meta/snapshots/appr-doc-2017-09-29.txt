@@ -1,0 +1,516 @@
+Corrections, Department of
+Annual Performance Progress Report
+Reporting Year 2017
+Published: 9/29/2017 11:23:32 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+Percentage of inmates in compliance with 40-hour work/education requirements of the constitution (Ballot Measure 17). -
+Oregon Corrections Plan (OCP) Compliance - Percentage of high- and medium-risk inmates that complete a program prioritized on their corrections plan.
+Percent of offenders on post-prison supervision convicted of a felony within three years of release from prison. -
+The rate of Class 1 assaults on individual staff per month (rate per 1000 employees). -
+The rate of inmate walk-a-ways from outside work crews per month. -
+Reduce all Energy Usage - Reduce the annual average electricity, propane, geothermal, diesel and natural gas usage.
+Measure on a monthly kBtu/square foot basis.
+Number of inmates sanctioned for Level 1 misconducts (monthly average/1,000 inmates). -
+The number of escapes per year from secure-custody facilities (armed perimeter). -
+The number of escapes from DOC unarmed perimeter facilities. -
+Percent of inmates who successfully complete transitional leave. -
+Customer Service - Percent of customers rating their satisfaction with the agency customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+Percent of total inmate care encounters that occur offsite. -
+Number of workers compensation time loss days per 100 employees on a fiscal year basis. -
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+61.54%
+15.38%
+23.08%
+red
+green
+yellow
+KPM #1
+Percentage of inmates in compliance with 40-hour work/education requirements of the constitution (Ballot Measure 17). -
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Compliance with M17
+Actual
+66.48%
+66.34%
+66.68%
+69%
+70.17%
+Target
+80%
+80%
+80%
+80%
+80%
+How Are We Doing
+The Department did not meet its target for this reporting period, but did increase the percentage of Ballot Measure 17 compliant inmates slightly, from 69% to 70% in 2016-2017. Although not
+meeting the full 40 hour requirement for compliance, a majority of inmates have engaged in some type of work/education activity. It is becoming difficult to reach the target for a variety of reasons.
+To work on an outside work crew, inmates must be minimum custody and meet strict criteria to ensure public safety. The Department must also find a balance in prioritizing case management to
+support work opportunities, treatment, and education – all of which can be part of an inmate’s corrections plan. Oregon Corrections Enterprises (OCE) works in partnership with the Department of
+Corrections by providing work opportunities that, as much as possible, mirror real world employment experiences.
+Factors Affecting Results
+Institution maintenance, janitorial work, kitchen help, garment factory, and laundry are examples of work that count toward the 40 hour requirement. Programs such as education and alcohol and
+drug treatment qualify, but also cause conflicts with scheduling and take priority over work crew assignments. The average monthly population, number of exempt inmates and the number of inmate
+jobs needed to support institution operations remained relatively unchanged. The Department increased the percentage of Ballot Measure 17 compliant inmates slightly in 2016-2017, however,
+limited funding for programs will not reach all those in need. The continued restriction of not allowing sex offenders on outside work crews reduces the number of available inmates to work on these
+types of crews. Previous data suggests that a higher number of inmates in the past were reported in compliance when in fact they did not meet the full 40 hour requirement. Efforts have begun to
+correct this reporting. Some work opportunities, such as outside work crews are limited by the amount of funding that public entities have available to finance those activities. The number of inmates
+that were used to assist Oregon Department of Forestry in their fire-fighting efforts increased during the extremely heavy 2016-2017 fire season. The number of inmate work days for fire-fighting
+efforts was 3,231, only one-third of the previous reporting period due to weather conditions which negated fire danger. Oregon Corrections Enterprises (OCE) continued to work on expansion of
+work opportunities offered, yet continued to struggle to have enough correctional officer staffing to support expansion efforts. Despite the difficulties, OCE averaged just over 1,400 inmates
+participating in its programs, an increase of six percent. While the two entities add positions every year, the inmate population growth inhibits the Department’s ability to increase the percentage
+assigned to qualifying assignments.
+KPM #2
+Oregon Corrections Plan (OCP) Compliance - Percentage of high- and medium-risk inmates that complete a program prioritized on their corrections plan.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2013
+2014
+2015
+2016
+2017
+High & Medium Risk Inmates That Receive Prioritized Corrections Plan Program
+Actual
+75.80%
+73.50%
+74.40%
+78.10%
+80.92%
+Target
+75%
+75%
+75%
+75%
+75%
+How Are We Doing
+The agency reports 80.92% of high- and medium-risk inmates released during FY 2017 completed at least one program prioritized on their corrections plan, which represents an increase from the
+78.1% reported for the 2016 FY.
+Factors Affecting Results
+The data compares programs identified on the high/medium-risk inmate OCPs against high/medium-risk inmates completing those programs.  Particularly for inmates being referred to cognitive
+programming, their OCP may not reflect a COG need, but the LS/CMI (men) or WRNA (women) assessment does.
+As part of case management, counselors may determine that an inmate’s ACRS score needs to be overridden to a higher score based on the LS/CMI or WRNA.  If this occurs, the inmate may
+appropriately complete a program on their corrections plan, but our automation system does not capture the override and deems the inmate as having a low risk to recidivate, which excludes these
+program completions from the calculation.
+We have created a means to more correctly identify the education program need codes, which is reflected in the data (i.e., would result in less false negative results).  We are working to resolve
+issues related to user-created COG program exit codes that negatively impact the COG completion count.
+KPM #3
+Percent of offenders on post-prison supervision convicted of a felony within three years of release from prison. -
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = negative result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Percentage of Offenders Convicted of a Felony within 3 Years of Release
+Actual
+26.10%
+25.70%
+28.60%
+30.40%
+31.20%
+Target
+32%
+32%
+32%
+32%
+30%
+How Are We Doing
+The 2016 calendar year recidivism rate for those released from incarceration to supervision in 2013 is 31.2%.  This continues a statewide trend that sees an increase in recidivism and exceeds the
+target rate of 30%.
+Factors Affecting Results
+The Department continues to put considerable effort into assessing and developing a comprehensive corrections plan that will address identified risks and needs.  This includes use of the Level of
+Service/Case Management Inventory, a comprehensive measure of risk and need factors, as well as a fully functional case management tool.  In the last year, Oregon, both by county community
+corrections agencies and the Department of Corrections, has begun using the Women’s Risk Need Assessment tool which targets the female population. Ongoing system improvements have been
+made to better target in-prison interventions and to conduct more careful and coordinated release planning. In addition, community corrections agencies, statewide, are working collaboratively with
+the Department to increase the effective and efficient transition of inmates from prison to community supervision as evidenced by the Short Term Transitional Leave program. The efforts are
+supportive of the combined commitment to implement and enhance evidence-based practices throughout Oregon’s criminal justice system. Combined, these efforts should bolster the success of an
+inmate’s positive re-entry into society.
+KPM #4
+The rate of Class 1 assaults on individual staff per month (rate per 1000 employees). -
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Rate of Class 1 Assaults on Individual Staff per month, per 1,000 employees.
+Actual
+1.30
+1.50
+1.63
+1.31
+1.75
+Target
+1.50
+1.50
+1.50
+1.50
+1.50
+How Are We Doing
+The number of Staff Assaults went up during this reporting period.  While doing our analysis in the previous year, it was discovered that our data was not accurate.  A process was developed to help
+us track accurate and complete data. Training was delivered to ensure data was being input correctly.  We knew it was a possibility that our numbers could go up when we started using the updated
+data.
+Factors Affecting Results
+We believe that changes in how data is entered and calculated caused our numbers to increase for this reporting period.  After reviewing several quarters of data we will re-evaluate our target.
+KPM #5
+The rate of inmate walk-a-ways from outside work crews per month. -
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Rate of Walk-A-Ways from outside Work Crews per Month
+Actual
+0.17
+0.16
+0.50
+0.16
+Target
+How Are We Doing
+On average, the Department has approximately 450 inmates out on work crews daily. The data suggests the Department is performing well with respect to management of the minimum custody
+inmate work crews. The Department utilizes an automated system to assist in the identification of inmates who are appropriate for outside work crew assignments
+Factors Affecting Results
+Screening and classification reviews continue to be done to ensure that only appropriate offenders are housed at minimum custody facilities and are assigned to outside work crews. Specific annual
+training is also provided for work crew supervisors.
+KPM #6
+Reduce all Energy Usage - Reduce the annual average electricity, propane, geothermal, diesel and natural gas usage.
+Measure on a monthly kBtu/square foot basis.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Reduce all Energy Usage
+Actual
+No Data
+No Data
+No Data
+No Data
+158.50
+Target
+TBD
+TBD
+TBD
+TBD
+158.22
+How Are We Doing
+DOC has a 4% energy savings from baseline year.
+Factors Affecting Results
+Fall and Winter 2016 had our agency using more energy due to El Nino.  The cold snaps were the coldest in four seasons.  ODOC lost nearly 5% of energy savings from the past couple years.
+KPM #7
+Number of inmates sanctioned for Level 1 misconducts (monthly average/1,000 inmates). -
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Number of Inmates Sanctioned for Level 1 Misconduct (monthly average/1,000 inmates)
+Actual
+8.58
+8.86
+9.04
+9.86
+10.67
+Target
+9.30
+9.30
+9.30
+9.30
+9.30
+How Are We Doing
+DOC did not meet the KPM target for the 2017 reporting period.  There was an increase in Level 1 sanctions for this reporting period. A contributing factor to the rise in Level 1 sanctions is the
+steady increase in the inmate population during this reporting period and use of emergency beds.  During this reporting period we also had groups of inmates involved in disturbances on nine
+separate occasions, one, which occurred at Oregon State Penitentiary, involved 200 inmates.  This elevated the numbers in the categories of disturbance, assault and unauthorized organization.
+Factors Affecting Results
+The Department continues to work on a number of areas to review inmate incentives and inmate sanctions and their relationship to Level 1 Misconducts. The Operations Division and the Special
+Investigations Unit have worked closely to identify the casual factors for inmate extortion. Operations Division and the Office of Population Management have collaborated to automate Unusual
+Incident reports to better flag data that is linked to Level 1 misconducts.  The PRAS Rule is being evaluated to better leverage behaviors that will result in the reduction of Level 1 misconducts.
+KPM #8
+The number of escapes per year from secure-custody facilities (armed perimeter). -
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Annual escapes from secure-custody facilities
+Actual
+Target
+How Are We Doing
+The Department realizes the criticality of this measure in terms of public safety and customer service to the citizens of Oregon. The performance measure gives an indication of how well institutions
+are functioning. It also is an indicator of the effectiveness of the Oregon Accountability Model. The model, in part, requires staff to hold offenders accountable by providing both positive and
+negative consequences to inmate behavior and guiding offenders toward pro-social behavior.  A further component of the OAM is Correctional Case Management.  Through this component the
+Department targets resources to those adults in custody who are most likely to recidivate by including all employees in a multi-disciplinary case management approach.
+Factors Affecting Results
+Each escape is reviewed to identify the causal factors and determine if architectural or equipment failure were involved or if staff training needs to be addressed. Protective measures are initiated
+as needed; these could be for staff, equipment, or facility changes. Annual Security Audits are conducted to test and review security practices to guard against breaches in security. The Oregon
+State Police, county and local police agencies and the Departments Fugitive Apprehension Unit work together quickly to apprehend escapees.
+KPM #9
+The number of escapes from DOC unarmed perimeter facilities. -
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2013
+2014
+2015
+2016
+2017
+The number of escapes from DOC unarmed perimeter facilities
+Actual
+Target
+How Are We Doing
+This performance measure gives an indication of how well the institutions are functioning.  There is no such thing as an acceptable escape.  The department has approximately 4701 minimum-
+custody beds.  The department continues to refine our classification tools to ensure inmates are correctly classified as minimum custody inmates and are appropriate for minimum custody
+institutions.
+Factors Affecting Results
+Attempts to escape from department facilities are infrequent. Each escape is reviewed to identify the causal factors and determine if architectural or equipment failure were involved or if staff
+training needs to be addressed. Protective measures are initiated as needed; these could be for staff, equipment, or facility changes. Annual Security Audits are conducted to test and review
+security practices to guard against breaches in security. A review is conducted for any incident. The results of the review and any security recommendations are made to the Superintendent of the
+institution. The Oregon State Police, county and local police agencies and the departments Fugitive Apprehension Unit work together quickly to apprehend escapees.
+KPM #10
+Percent of inmates who successfully complete transitional leave. -
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Number of Inmates who Successfully Complete Transitional Leave
+Actual
+92%
+91%
+92.30%
+92.40%
+89.26%
+Target
+88%
+88%
+88%
+90%
+90%
+How Are We Doing
+This KPM reflects the performance of two varieties of DOC transitional leave programs: Non-Prison Leave associated with the Alternative Incarceration Programs (AIP), and Short Term Transitional
+Leave (STTL). The reporting cycle for this data is by calendar year and reflects all DOC releases to transitional leave during 2016.
+The Oregon Department of Corrections offers alcohol and drug treatment as well as cognitive Alternative Incarceration Programs (AIP) to inmates who have been sentenced by a judge as eligible
+for AIP, and who apply to participate and meet other statutory and Department policy requirements to participate. The programs are based on intensive interventions targeted at criminogenic risks,
+rigorous personal responsibility and accountability, physical labor, and service to the community. Additionally, AIP consists of an institutional phase for a minimum of 180 days, followed by a period
+of non-prison leave of up to 90 days, for a total minimum program length of 270 days.  During the institutional phase, these programs provide 14 to 16 hours of highly structured and regimented
+routine every day for a minimum of 180 days.
+The Department also offers Short Term Transitional Leave of up to 120 days to inmates who are
+not
+enrolled in an Alternative Incarceration Program. As with AIP/Non-Prison Leave, the adult in
+custody must meet the statutory and department policy requirements to be approved for Short Term Transitional Leave.
+Regardless of whether it is Non-Prison Leave or Short Term Transitional Leave, offenders are closely monitored for compliance with their transition plans while in the community.  The higher the
+percentage of successful completions, the greater the success.
+The Department has seen Short Term Transitional Leave participation rates stabilize at an average rate of 102 per month, or approximately a quarter of the releasing population.  DOC continues to
+review, refine and streamline its internal processes to ensure it is targeting those most appropriate for transitional leave.  This includes development of automation designed to further increase both
+efficiency and effectiveness of the process, as well as substantially improve both the quality and quantity of data collected and analyzed. Phase I of automation, which significantly enhanced the
+STTL Designator in CIS, was rolled out in June 2017. This change further improved the agency’s ability to efficiently identify eligible offenders based on statute and policy requirements. Phase II of
+automation, designed in part to greatly enhance the ability for all stakeholders to track individual offender history and current status in STTL, is expected to be in place by late 2018. In addition,
+DOC continues its focus on developing a solid transition plan that will increase the successful reintegration of inmates into the community. The completion rate for this 2017 report decreased 3.14%
+from the 2016 report, which is 0.74% below the target.
+Factors Affecting Results
+The Department considers an adult in custody for participation in an Alternative Incarceration Program (AIP) when it is determined to be consistent with the safety of the community, the welfare of
+the applicant, the program objectives, and the rules of the Department. Inmates who successfully complete the institutional phase of the programs spend up to three months on Non-Prison Leave in
+their home communities; therefore, AIP participants are held to a higher standard of behavior on transitional leave.
+The leave agreement constitutes the Department’s expectations for both behavior and programming compliance. Inmates who successfully complete both the institutional and Non-Prison Leave
+phases of an AIP receive a sentence reduction. Conversely, inmates who fail the institution phase of an AIP will not receive a sentence reduction, and those who fail the Non-Prison Leave portion of
+an AIP are returned to the physical custody of the Department to serve out the remainder of their sentences. They also forfeit the opportunity to participate in further AIP during the current custody
+cycle.
+Due to budget challenges in the 15-17 biennium, the Department had to close two treatment programs: one program ran 106 residential treatment slots and the other ran 25 out-patient slots.  While
+neither program was used for AIP participants, their closure has put pressure on the remaining treatment programs that do take AIP participants and created fewer treatment slots overall.
+Similarly, DOC considers an adult in custody for Short Term Transitional Leave when it is determined to be consistent with the safety of the community, the welfare of the applicant, the program
+objectives, and the rules of the Department.  Inmates are expected to meet rigorous behavior and program requirements in order to receive Short Term Transitional Leave; those who fail while on
+leave are returned to the physical custody of the Department to serve out the remainder of their sentences.
+During 2016, the standards for successful completion of STTL while in the community were tightened in order to maintain program integrity and public safety. Although the result was a slight
+increase in STTL failures, this decision is evidence of the agency’s commitment to continually review and refine its internal processes in an effort to both ensure only those most appropriate for
+transitional leave participate in the program, and prioritize public safety.
+KPM #11
+Customer Service - Percent of customers rating their satisfaction with the agency customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness,
+expertise and availability of information.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2013
+2014
+2015
+2016
+2017
+Overall
+Actual
+No Data
+No Data
+No Data
+55.50%
+No Data
+Target
+TBD
+90%
+90%
+90%
+90%
+Expertise
+Actual
+No Data
+No Data
+No Data
+66.80%
+No Data
+Target
+TBD
+90%
+90%
+90%
+90%
+Accuracy
+Actual
+No Data
+No Data
+No Data
+67.80%
+No Data
+Target
+TBD
+90%
+90%
+90%
+90%
+Helpfulness
+Actual
+No Data
+No Data
+No Data
+52.90%
+No Data
+Target
+TBD
+90%
+90%
+90%
+90%
+Availability of Information
+Actual
+No Data
+No Data
+No Data
+64.90%
+No Data
+Target
+TBD
+90%
+90%
+90%
+90%
+Timeliness
+Actual
+No Data
+No Data
+No Data
+55.30%
+No Data
+Target
+TBD
+90%
+90%
+90%
+90%
+How Are We Doing
+This Key Performance Measure is reported every other year.
+Factors Affecting Results
+KPM #12
+Percent of total inmate care encounters that occur offsite. -
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Percent of Total Inmate Offsite Encouters
+Actual
+0.64
+0.85
+1.08
+0.78
+0.68
+Target
+How Are We Doing
+We are meeting our goal this period. We have also begun a workgroup to look at how we collect statistics for encounters to achieve even higher accuracy in our data. Onsite clinics in our
+institutions help us to provide care inside institutions versus sending patients outside the secured institutions. We also conducted a cost analysis of bringing dialysis onsite at Coffee Creek
+Correctional Facility and found the return on investment was very favorable for the Agency. The dialysis center at CCCF is now operating.
+Factors Affecting Results
+We continue to provide comprehensive services inside our institutions and we continue to recruit offsite providers to perform clinics inside institutions. We have also continued our offsite hospital trip
+case management program with RNs following inpatient stays in hospitals. This program allows us to receive our patients back from the hospital as soon as possible to infirmary level care when
+necessary, avoiding lengthy hospital stays.
+KPM #13
+Number of workers compensation time loss days per 100 employees on a fiscal year basis. -
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Number of Workers Comp Time Loss Days per 100 Employees
+Actual
+13.50
+64.01
+103.94
+116.67
+Target
+66.15
+66.15
+66.15
+66.15
+66.15
+How Are We Doing
+We are doing better than the number may indicate.  We’ve learned that since this measure was chosen years ago, it has not always been calculated consistently or accurately.  For the past 3
+years, however, when we are certain we have gathered and analyzed the data properly, our results have been 2014-15=107.2; 2015-16=77.14; 2016-17=116.4.  However, our OSHA Recordable
+and OSHA DART Rates have been well below national averages for prisons during the same period, and trending better each year.  We are considering either changing our KPM to one of the
+OSHA-based measures, or revising our target for the existing KPM.
+Factors Affecting Results

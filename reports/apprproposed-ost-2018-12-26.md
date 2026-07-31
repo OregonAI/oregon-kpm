@@ -1,0 +1,595 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: apprproposed-ost-2018-12-26
+title: Treasury, Oregon State — Annual Performance Progress Report, Reporting Year 2018
+doc_type: performance_report
+citation: APPR OST 2018
+authority_level: agency_report
+issuing_body: Treasury, Oregon State
+agency: Treasury, Oregon State
+agency_code: OST
+reporting_year: '2018'
+year_source: document
+filename_year: '2018'
+measure_status: proposed
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OST_2018-12-26.pdf
+source_filename: APPRProposed_OST_2018-12-26.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d06a41c034da0c08dbd59b34031d2d5e48f93fca59217649ae06ed7a78967cb1
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2018
+---
+
+## At a glance
+
+**APPR OST 2018** — Treasury, Oregon State, Reporting Year 2018
+
+- Agency: Treasury, Oregon State
+- Reporting year: 2018 (stated in the document)
+- Measures reported as: proposed to the Legislature
+- Source file: `APPRProposed_OST_2018-12-26.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Treasury, Oregon State
+Annual Performance Progress Report
+Reporting Year 2018
+Published: 12/26/2018 1:57:19 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+Oregon Public Employees Retirement Fund Net Performance of 5-Year Rolling Average Compared to Policy Benchmark -
+Common School Fund Net Performance of 5-Year Rolling Average Compared to Policy Benchmark. -
+Oregon Short-Term Fund Returns Compared to Benchmark -
+Expense to Assets Ratio for the Oregon Short-Term Fund -
+Local Government Participation in the Oregon Short-Term Fund -
+Banking Services
+- Average Cost per Transaction
+Oregon School Bond Guaranty Program Bonds Outstanding -
+Number of Oregon 529 College Savings Network Accounts -
+Percentage of Minors (under age 25) with 529 College Savings Network Accounts -
+Oregon Debt Issuance Activity -
+Levels of Transaction Volume and Total State Government Debt Outstanding by Fiscal Year
+Customer Service
+- Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+Proposal
+Proposed Key Performance Measures (KPMs)
+New
+Growth in number of Oregon 529 Achieving a Better Live Experience (ABLE) accounts - The goal of KMP 12 is to grow the number of ABLE accounts by 1% of the total eligible population in Oregon each year.
+New
+Growth in number of Oregon Retirement Savings (OregonSaves) program accounts - The goal of KPM 13 is to grow the number of OregonSaves accounts by 1% of the total eligible population in Oregon each year.
+New
+Percent of Oregon Retirement Savings Board (ORSB) with at least one full term of service - 50% or more of the seven-member Oregon Retirement Savings Board should have served at least one full-term of service to ensure continuity, strong
+institutional knowledge, and leadership.
+New
+Percent of Oregon 529 Savings Board with at least one full term of service - 50% or more of the Oregon 529 Savings Board should have served at least one full-term of service to ensure continuity, strong institutional knowledge, and leadership.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+55.56%
+22.22%
+22.22%
+red
+green
+yellow
+KPM #1
+Oregon Public Employees Retirement Fund Net Performance of 5-Year Rolling Average Compared to Policy Benchmark -
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+OPERF 5-Year Average Compared to Benchmark
+Actual
+8.15%
+9.11%
+9.35%
+No Data
+No Data
+Target
+8.35%
+10.07%
+9.87%
+8.50%
+TBD
+How Are We Doing
+The goal of KPM 1 is to exceed the actuarial discount rate approved by the PERS Board, while applying the investment standards established in ORS 293.721 and 293.726. Net of fees, OPERF’s
+average annual investment performance lagged its policy benchmark for the five-year period ended 12/31/17 (9.4% vs. 9.9%). OPERF’s average annual investment performance ranked in the 35
+percentile of all large public funds for the five-year period ended 12/31/17, per OIC consultant, Callan Associates.
+Factors Affecting Results
+Financial market conditions during the five-period ended 12/31/17 were constructive, with equity markets delivering strong performances in four of the five years. Global macroeconomic
+considerations and extended equity market valuations remain potential impediments to higher ex ante (i.e., future) return expectations.
+The dominant factor influencing OPERF investment performance is prevailing economic and financial conditions as largely determined by monetary, fiscal and regulatory policies on both national
+and international levels. Social, political and foreign policy matters also impact investment performance in the form of overall investment sentiment. In addition, the increasingly complex structure of
+institutional-quality investment portfolios, particularly the growing deployment of private market investment strategies, remains a primary theme, both in terms of forward-looking, return-seeking
+opportunities and also in terms of heightened risk management considerations and perennial resource and personnel constraints.
+Consistent with its fiduciary duty, the OIC has directed OST investment staff to diversify OPERF among multiple asset classes, geographies and strategies, including a substantial and peer-leading
+commitment to private market and other alternative investments. Deliberate and broad diversification is designed to maximize risk-adjusted, long-term investment returns, and OPERF’s historically
+strong performance record, which has significantly reduced contribution obligations for Oregon taxpayers and businesses, is testament to the success of this approach.
+th
+Current economic and financial conditions are historically unique and present, relative to the OIC’s mission and fiduciary responsibilities, an unprecedented set of investment and governance
+challenges. Although U.S. interest rates have risen, international interest rates remain near historic lows. U.S. public equity markets continue to trade at all-time highs, while international public
+equity markets, led by those in emerging countries, have delivered strong performance recently due to improving global economic growth prospects. Yields on liquid, high-quality investments remain
+low by historical standards, but in the U.S. have risen steadily commensurate with the Federal Reserve’s gradual but sustained tightening of domestic monetary policy. Nonetheless, low single-digit
+returns on cash and other money market instruments still encourage investors of all types to pursue higher-risk, return-seeking strategies in order to meet those investors’ liabilities and cash flow
+obligations.
+KPM #2
+Common School Fund Net Performance of 5-Year Rolling Average Compared to Policy Benchmark. -
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+CSF 5-Year Average Compared to Benchmark
+Actual
+7.39%
+9.13%
+9.46%
+No Data
+No Data
+Target
+6.84%
+8.85%
+9.21%
+7.50%
+TBD
+How Are We Doing
+The goal of KPM 2 is to optimize long-term investment returns and distributions while growing the Common School Fund (CSF) asset base. CSF’s average annual investment performance for the
+five-year period ended 12/31/17 exceeded its policy benchmark by 0.3%, net of fees (9.5% vs. 9.2%). When compared to the Trust Universe Comparison Service (TUCS) universe, CSF
+performance results rank in the top quartile (25
+percentile) for the five-year period ended 12/31/17.
+Factors Affecting Results
+Financial market conditions during the five-period ended 12/31/17 were constructive, with equity markets delivering strong performances in four of the five years. Global macroeconomic
+considerations and extended equity market valuations remain potential impediments to higher ex ante (i.e., future) return expectations.
+The dominant factor influencing CSF investment performance is prevailing economic and financial conditions as largely determined by monetary, fiscal and regulatory policies on both national and
+international levels. Social, political and foreign policy matters also impact investment performance in the form of overall investment sentiment. In addition, the increasingly complex structure of
+institutional-quality investment portfolios, particularly the growing deployment of private market investment strategies, remains a primary theme, both in terms of forward-looking, return-seeking
+opportunities and also in terms of heightened risk management considerations and perennial resource and personnel constraints. Consistent with its fiduciary duty, the OIC has directed OST
+investment staff to diversify CSF among multiple asset classes, geographies and strategies including allocations to select private market investments. Deliberate and broad diversification is
+designed to maximize risk-adjusted, long-term investment returns for CSF, and its historically strong performance record is testament to the success of this approach.
+Current economic and financial conditions are historically unique and present, relative to the OIC’s mission and fiduciary responsibilities, an unprecedented set of investment and governance
+th
+challenges. Although U.S. interest rates have risen, international interest rates remain near historic lows. U.S. public equity markets continue to trade at all-time highs, while international public
+equity markets, led by those in emerging countries, have delivered strong performance recently due to improving global economic growth prospects. Yields on liquid, high-quality investments remain
+low by historical standards, but in the U.S. have risen steadily commensurate with the Federal Reserve’s gradual but sustained tightening of domestic monetary policy. Nonetheless, low single-digit
+returns on cash and other money market instruments still encourage investors of all types to pursue higher-risk, return-seeking strategies in order to meet those investors’ liabilities and cash flow
+obligations.
+KPM #3
+Oregon Short-Term Fund Returns Compared to Benchmark -
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Oregon Short-Term Fund Returns Compared to Benchmark
+Actual
+0.50%
+1.20%
+1.34%
+No Data
+No Data
+Target
+0.05%
+0.33%
+0.86%
+0.50%
+TBD
+How Are We Doing
+The goal of KPM 3 is to provide investment returns and banking services that are cost-efficient compared to external sources. The Oregon Investment Council (OIC) determines the OSTF
+benchmark. Meeting or beating that benchmark, net of fees, is the fund's performance goal. In 2017, OSTF's investment performance exceeded its benchmark (rolling 91-day Treasury bill returns),
+while the fund’s five-year annualized return outperformed that same benchmark by 0.57% for the period ended December 31, 2017.
+Factors Affecting Results
+Fund investments with original maturities greater than three months are marked-to-market on a monthly basis; therefore, interest rate and credit risks affect OSTF investment performance. During
+2017, the Federal Reserve’s Federal Open Market Committee increased the target Federal Funds three times which moved its corresponding target rate to 1.25-1.50%. This increase benefitted the
+Oregon Short Term Fund by providing incrementally higher front-end interest rates enabling the fund to earn a greater return in 2017 than has been achievable in the past several years. According
+to Federal Open Market Committee member forecasts, continued increases in the Federal Funds rate are expected which should increase payments to fund participants in the year ahead.
+KPM #4
+Expense to Assets Ratio for the Oregon Short-Term Fund -
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Expense to Assets Ratio for the Oregon Short-Term Fund.
+Actual
+0.06%
+0.06%
+0.05%
+No Data
+No Data
+Target
+0.14%
+0.16%
+0.18%
+0.05%
+TBD
+How Are We Doing
+The goal of KPM 4 is to provide investment and banking services that are cost-efficient compared to external sources. The Oregon Short Term Fund consistently provides low-cost investment and
+cash management services to state agencies and local governments. In 2017, annual expense ratios for over 106 institutional money market mutual funds ranged from 0.06% to 0.64% with an
+average of 0.18%.
+Factors Affecting Results
+The Oregon Short Term Fund is operated not-for-profit and as such provides services at a lower cost than external, for-profit commercial enterprises.
+KPM #5
+Local Government Participation in the Oregon Short-Term Fund -
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Local Government Participation in Oregon Short Term Fund
+Actual
+64%
+64%
+64%
+No Data
+No Data
+Target
+75%
+75%
+75%
+TBD
+TBD
+How Are We Doing
+The purpose of KPM 5 is to track the number of local governments that choose to invest in the Oregon Short Term Fund. Factors such as local government cash available for investing and overall
+satisfaction with Treasury services can affect participation levels. Treasury’s strategy is to offer an attractive short-term investment option for local governments with a strong emphasis on customer
+service and a market-competitive rate of return. Treasury’s target was initially set at 75 percent of eligible entities. This target was based on a methodology and initial data set that showed that the
+75 percent target, while not fully attained at the time, was achievable. Our goal has been to maintain or exceed that initial objective based on the initial methodology. While the participation level in
+terms of actual participation has been maintained, a recent exploration of the initial methodology and data set has pointed out a flaw that has carried forward across the life of the measure.
+Treasury recommends further analysis, including a reestablishment of the initial and ongoing target and a correction of historical data. Due to system constraints, only the 2016 and forward data is
+shown here using the corrected methodology. As such, the measure appears to identify a drop in the participation rate, though that is not actually valid. Corrected data points and related
+participation rates are set forth below, however, for the readers’ convenience and in order to show the stability of participation throughout the measure’s life. Additionally, Treasury seeks to maintain
+a high level of customer satisfaction by the recent implementation of an online system and customer service center to better service local governments.
+Year
+Participants
+Participation Rate
+2006
+63%
+2007
+64%
+2008
+1,003
+65%
+2009
+1,006
+65%
+2010
+1,003
+65%
+2011
+64%
+2012
+64%
+2013
+63%
+2014
+64%
+2015
+64%
+2016
+64%
+2017
+64%
+2018
+64%
+Year
+Participants
+Participation Rate
+Factors Affecting Results
+Given the differing approaches to other state and local investment options, a direct comparative measure is not available or applicable. Rather, comparison across time periods is most appropriate
+to ensure that any underlying changes in investment approach or service delivery impact overall participation.
+KPM #6
+Banking Services
+- Average Cost per Transaction
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = negative result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Banking Services - Average Cost Per Transaction
+Actual
+$0.038
+$0.042
+Target
+$0.113
+$0.104
+How Are We Doing
+The goal of KPM 6 is to control costs relative to the procurement of banking services. Treasury’s strategy is to aggressively manage banking services contracts to keep costs low for our customers
+while helping them identify and implement cost-effective cash management practices. This KPM compares the standard (or retail) pricing realized by most of our primary banking services provider’s
+commercial and government customers. Treasury’s target is to maintain an average cost per transaction that is no more than half (50 percent) of the average retail cost paid by other customers of
+our primary banking services provider. The State of Oregon continues to enjoy significant pricing advantages. The savings highlight the significant savings achieved through central banking of state
+agencies and many public universities. Statistics for this KPM are updated in only even years.
+Factors Affecting Results
+As part of the Cash Management Improvement & Renewal Program (CMIRP), Treasury is in the midst of transitioning ACH and wire transfer services to a new financial services provider. Our goal in
+this effort is to mitigate risk, and better support contingency planning and readiness, while striving to continue to provide low cost services to customers. As we pursue changes in this area, impacts
+to cost per transaction may occur, including potential for some increase overall. Notwithstanding these potential impacts, Treasury expects to meet or beat the target moving forward.
+KPM #7
+Oregon School Bond Guaranty Program Bonds Outstanding -
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Metric Value
+Actual
+$4,598,900,000.00
+$5,944,400,000.00
+$6,852,600,000.00
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+$45,600,000,000.00
+TBD
+How Are We Doing
+The goal of KPM 7 is to provide a means of lowering the borrowing costs for Oregon school, education service and community college districts by guaranteeing the repayment of their voter-
+approved general obligation bonds. The state school bond guaranty program plays an important role in helping save Oregon taxpayers’ dollars, as evidenced by the growing amount of debt issued
+and outstanding through the program over the past five years.  The state’s high credit ratings increase the value of the guaranty program to school districts.
+Factors Affecting Results
+The amount of debt outstanding for Oregon State Bond Guaranty participants is determined by many factors, including the number and size of new district general obligation borrowings, which in
+turn is determined by the ability of various districts to receive voter authorization for the sale of general obligation bonds for their projects. In addition, districts will only use this program if their
+general obligation credit rating is lower than the State’s general obligation rating, as the guaranty allows them to sell their bonds at lower interest rates than would otherwise be available to them.
+KPM #8
+Number of Oregon 529 College Savings Network Accounts -
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Growth of the Oregon 529 College Savings Network
+Actual
+164,723
+179,708
+215,955
+No Data
+No Data
+Target
+160,000
+180,000
+200,000
+170,000
+TBD
+How Are We Doing
+The goal of KPM 8 to track growth in the number of 529 college savings accounts to measure progress toward increasing the statewide distribution of accounts. Assets and accounts in the Network
+continue to grow at a steady pace, and the expectation, based on historical performance, is for continued growth.
+Factors Affecting Results
+The economy, unemployment, the financial markets, and an insufficient and outdated state tax deduction will affect overall results.
+KPM #9
+Percentage of Minors (under age 25) with 529 College Savings Network Accounts -
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Oregon 529 College Savings Network Participation Rate
+Actual
+8.60%
+9.50%
+9.70%
+No Data
+No Data
+Target
+8.60%
+10.30%
+20%
+TBD
+TBD
+How Are We Doing
+The goal of KPM 9 is to measure and work to increase the percentage of minors with Oregon 529 savings accounts. Assets and accounts in the Network continue to grow statewide at a steady
+pace, and the expectation, based on historical performance, is for continued growth. Two key initiatives for the Network in 2019-21 are to lower the average age of the beneficiaries and to increase
+participation from low-income Oregonians.
+Please note that the new data analytics firm utilized by the program bases their analyses on census data, which defines a minor as 18 and under, while the previous firm used population data from
+Portland State, who defined a minor as under 25 years of age.  Therefore, the 2018 actual value above is based on minors 18 and under, and the program will likely request a change to the KPM
+title from the legislature to remove the reference to ‘under age 25’ and will adjust the historical percentages accordingly in upcoming iterations of this report.
+Factors Affecting Results
+The economy, unemployment, the financial markets, and the lack of a meaningful and targeted state tax credit for low income Oregonians will affect overall results.
+KPM #10
+Oregon Debt Issuance Activity -
+Levels of Transaction Volume and Total State Government Debt Outstanding by Fiscal Year
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2016
+2017
+2018
+2019
+2020
+State Outstanding Debt in Oregon
+Actual
+$10,210,333,981.00
+$10,952,705,818.00
+$10,879,120,579.00
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+TBD
+TBD
+Local Outstanding Debt in Oregon
+Actual
+$20,151,676,312.00
+$21,571,964,112.00
+$23,117,139,073.00
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+TBD
+TBD
+How Are We Doing
+The goal of KPM 10 is to track and report direct state debt (general obligation bonds, revenue bonds and appropriation credits) to the Governor and Legislature to assure that it remains at a
+sustainable levels, which helps maintain Oregon’s high state credit ratings and our ability to achieve attractive long-term interest rates when borrowing for various capital projects and infrastructure
+programs.  The amount of state debt outstanding remained fairly level from 2014 through 2016, with new state debt being issued at roughly the same pace as existing debt was retired; more
+recently, overall state debt levels have begun to increase although not substantially.  KPM 10 also tracks outstanding levels of similar types of bonds at the local government level, which has
+increased steadily over the past five years.
+Factors Affecting Results
+The improved state economy and revenue picture has allowed the state to step up its capital project renewal and replacement efforts while still remaining within prudent overall state debt limits.
+Growth in local government debt reflect this trend as well, as there has been a steady increase in the amount of voter approved school district general obligation bonds issued to meet the facility
+improvement and infrastructure needs of the state’s growing population.
+KPM #11
+Customer Service
+- Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness,
+expertise and availability of information.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2016
+2017
+2018
+2019
+2020
+Accuracy
+Actual
+98%
+No Data
+99%
+No Data
+No Data
+Target
+100%
+TBD
+100%
+TBD
+TBD
+Timeliness
+Actual
+97%
+No Data
+98%
+No Data
+No Data
+Target
+100%
+TBD
+100%
+TBD
+TBD
+Availability of Information
+Actual
+97%
+No Data
+98%
+No Data
+No Data
+Target
+100%
+TBD
+100%
+TBD
+TBD
+Expertise
+Actual
+98%
+No Data
+99%
+No Data
+No Data
+Target
+100%
+TBD
+100%
+TBD
+TBD
+Helpfulness
+Actual
+98%
+No Data
+98%
+No Data
+No Data
+Target
+100%
+TBD
+100%
+TBD
+TBD
+Overall
+Actual
+98%
+No Data
+99%
+No Data
+No Data
+Target
+100%
+TBD
+100%
+TBD
+TBD
+How Are We Doing
+The goal of KPM 11 is to maintain a high level of customer satisfaction. Targets have been established at the 100% level in all categories. While this may not be possible, the target offers stretch
+goals for the agency.
+Please note that as previously reported to the legislature, Treasury did not perform a customer service satisfaction survey in 2014 due to extenuating circumstances. Additionally, the survey
+associated with this KPM is only conducted in even years, and therefore the next update to the table above is not scheduled until 2020.
+The focus of the current 2018 survey was customer satisfaction with the new client services team supporting the Local Government Investment Pool (LGIP), and the results detailed above suggest
+the initial roll-out of these services has been successful.  Please note the percentages above reflect only customers responding to each survey question.
+Note that Treasury adjusts the target of these surveys each reporting period to focus on areas requiring additional attention or that are undergoing change.
+Factors Affecting Results
+OST utilizes these surveys in the strategic planning process and reinforces with employees the need to provide excellent customer service. Previous surveys and direct customer focus groups have
+recognized the needs of customers and have directed our improvement efforts in providing the best possible information and services to our customers.

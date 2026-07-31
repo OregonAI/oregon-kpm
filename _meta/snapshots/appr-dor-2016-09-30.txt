@@ -1,0 +1,565 @@
+Revenue, Department of
+Annual Performance Progress Report
+Reporting Year 2016
+Published: 9/30/2016 4:13:22 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+Average Days to Process Personal Income Tax Refund. -
+Percent of Personal Income Tax Returns Filed Electronically -
+Employee Training Per Year (percent receiving 20 hours per year). -
+Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good"; or "excellent" based on overall experience, timeliness, accuracy, helpfulness, expertise, and availability of information.
+Effective Taxpayer Assistance - Provide effective taxpayer assistance through a combination of direct assistance and electronic self-help services.
+Appraisal Program Equity and Uniformity
+- We will measure the degree to which county appraisal program equity and uniformity is achieved by determining the percentage of study areas statewide with real market values that are within accepted
+appraisal standards.
+Appraisal Value Uniformity
+- We will demonstrate our ability to deliver high quality business results by measuring appraisal equity and uniformity for DOR industrial accounts.
+Direct Enforcement Dollars Cost of Funds
+- We will demonstrate our efficiency and effectiveness at funding services that preserve and enhance the quality of life for all citizens by measuring the cost of funds (COF) for every direct enforcement
+dollar received by our agency.
+Collection Dollars Cost of Funds
+- We will demonstrate our efficiency and effectiveness at funding services that preserve and enhance the quality of life for all citizens by measuring the cost of funds (COF) for every dollar collected by our agency.
+Cost of Assessments
+- We will demonstrate our efficiency and effectiveness of our suspense, audit and filing enforcement functions by measuring the cost of every audit and filing enforcement dollar assessed.
+Employee Engagement
+- Index of employees considered actively engaged by a standardized survey.
+Green
+Yellow
+Red
+= Target to -5%
+= Target -6% to -15%
+= Target > -15%
+Summary Stats:
+54.55%
+9.09%
+36.36%
+red
+green
+yellow
+KPM #1
+Average Days to Process Personal Income Tax Refund. -
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Average Days to Process Personal Income Tax Refund
+Actual
+Target
+How Are We Doing
+Actual performance for 2016 was 16 days, four days longer than the target. Performance for 2015 was five days.
+Factors Affecting Results
+DOR converted to a new personal income tax return processing system in December 2015. With this, there were several factors that contributed to slower processing times:
+The learning curve for staff was steep in the beginning.
+Normal issues with bringing on a new system slowed down processing (unexpected scenarios produced unexpected results).
+The new fraud module added a dimension of screening. It was impossible to predict the number of returns it would affect. As a result, staff reviewed thousands more returns than previous
+years.
+Processing Center equipment issues resulted in slower data entry and a higher error rate than previous years. Additional production resources were required to manually enter data and
+correct errors.
+As in past years, refunds on electronically filed (e-filed) returns were issued sooner than paper returns. E-filed returns that didn’t suspend averaged 13 days to process in 2016. This was nine days
+slower than in 2015. Paper returns that didn’t suspend averaged about 40 days to process. This was 23 days slower than 2015.
+KPM #2
+Percent of Personal Income Tax Returns Filed Electronically -
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Percent of Personal Income Tax Returns Filed Electronically
+Actual
+78.60%
+81.20%
+82.50%
+84.20%
+85.90%
+Target
+71%
+80%
+80%
+82%
+82%
+How Are We Doing
+We are above target with 85.9 percent of tax returns filed electronically (as of September 1, 2016). This compares to 84.2 percent a year ago. The numbers for e-file have consistently risen each
+year, though the rate of growth has slowed.
+Factors Affecting Results
+Oregon's e-filing has always linked to the federal system, and we were one of the early states to pilot their modernized e-file platform. We benefit when more taxpayers choose to file their federal tax
+returns electronically and as the IRS expands their e-filing options.
+Revenue implemented an e-file mandate for tax practitioners in 2011 that matches the IRS mandate. There is no penalty for noncompliance, but we send a reminder letter each year to those
+practitioners who didn’t file their client’s returns electronically.
+Oregon also participates in the Free File Alliance, which allows taxpayers to e-file for free if they meet income level, age, veteran status, and return-type criteria. Software companies that participate
+in the Free File Alliance advertise their free offerings each tax season, which helps further encourage e-filing in Oregon. Each year, we post a list on our website that includes links to approved tax
+preparation companies that offer free filing options. Finally, Oregon has a direct e-file system that allows any full year resident taxpayer to enter their return information into an online form and file
+the return directly with us for free.
+The 2015 tax year was a “kicker” (surplus refund) year. It’s likely this increased the number of individuals filing for a refund, which could have helped drive the e-file numbers upward because
+taxpayers who had no filing requirement had to file in order to claim their kicker credit.
+DOR didn’t automatically mail tax booklets to those who filed on paper in the prior year, which could have also helped drive e-file numbers upward. We did mail instructions and forms to those who
+called or ordered online and had them available at all our offices throughout the state.
+KPM #3
+Employee Training Per Year (percent receiving 20 hours per year). -
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Employee Training Per Year (percent receiving 20 hours per year)
+Actual
+27.40%
+27%
+46%
+84%
+74%
+Target
+60%
+60%
+60%
+60%
+60%
+How Are We Doing
+We exceeded our target with 74 percent of staff receiving at least 20 hours of training.
+Factors Affecting Results
+We ensured agency training was reported and captured in iLearn. We also encouraged employees and managers to create a personal goal of completing a minimum of 20 hours of training per
+year. Employees have been actively encouraged to meet with Human Resources to discuss career-path options and identify training that will help employees meet their career goals. We identified
+agency, division, and unit needs and contracted or created training to address those needs. We also entered into a contract to purchase licenses for unlimited training on a number of topics at a
+flat fee, which allows us to maximize our training dollars in the most effective way possible. We’ve also provided a significant amount of training for staff to learn how to use our new core systems.
+KPM #4
+Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good"; or "excellent" based on overall experience, timeliness, accuracy,
+helpfulness, expertise, and availability of information.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Overall
+Actual
+No Data
+78.50%
+33%
+29%
+13%
+Target
+TBD
+98%
+98%
+98%
+98%
+Availability of Information
+Actual
+No Data
+73.40%
+48%
+32%
+20%
+Target
+TBD
+97%
+97%
+97%
+97%
+Helpfulness
+Actual
+No Data
+85.60%
+38%
+39%
+18%
+Target
+TBD
+98%
+98%
+98%
+98%
+Timeliness
+Actual
+No Data
+77.30%
+32%
+34%
+15%
+Target
+TBD
+97%
+97%
+97%
+97%
+Accuracy
+Actual
+No Data
+81.80%
+45%
+44%
+24%
+Target
+TBD
+97%
+97%
+97%
+97%
+Expertise
+Actual
+No Data
+85.60%
+43%
+44%
+19%
+Target
+TBD
+97%
+97%
+97%
+97%
+How Are We Doing
+Our customer service ratings were down in 2016. Our overall composite score is 18 percent, with our score for the “overall” question at 13 percent. For 2015, our composite score was 34 percent
+and our score for the “overall” rating question was 29 percent.
+Factors Affecting Results
+Nature of the business.
+We administer very complicated tax laws and act as the state’s collection agency. People usually contact us when they are confused, waiting on a tax refund, responding to a notice, or we are
+attempting to collect debt. There appears to be a direct correlation between what people view as negative action (slow refunds, billings, adjusted returns, etc.) and the rating given.
+We added a question to the survey to help identity the nature of the call or who answered it. Of the 823 who answered that question:
+85 percent of those calling with a tax question or who needed help with their tax return rated us as “good” or “excellent” (213 callers).
+68 percent of those calling to make a payment rated us as “good” or “excellent” (66 callers).
+21 percent of those checking on a refund rated us as “good” or “excellent” (285 callers).
+19 percent of taxpayers calling about a billing or collection notice rated us as “good” or “excellent” (72 callers).
+2 percent of those calling because we made changes to their tax return rated us as “good” or “excellent” (187 callers).
+Internal processes.
+Over the last two years, we’ve changed our processes for reviewing refund returns to increase fraud detection. While our customers have told us that they appreciate our diligence, they don’t
+appreciate the additional time it takes for them to receive their refunds.
+Limited survey exposure.
+It has been very difficult to collect meaningful data. The survey is only available by phone, so the respondent must call the survey number. The technology we’re currently using limits our ability to
+make the survey more accessible.
+The data.
+The survey was available throughout fiscal year 2016. Yet, we received relatively few responses—1,875 in 2016. This is up slightly from 1,423 in fiscal year 2015. This represents about 1 percent of
+the 139,000 calls answered by the Tax Services Unit during the reporting period.
+KPM #5
+Effective Taxpayer Assistance - Provide effective taxpayer assistance through a combination of direct assistance and electronic self-help services.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Effective Taxpayer Assistance
+Actual
+50.96
+56.10
+60.70
+Target
+How Are We Doing
+Overall score: 60.7 (out of 100). This is up slightly from the 2015 score of 56.1. While our score is on target and was up over the previous year, it’s somewhat misleading. The score for this measure
+rose because of a much higher rate of success for those using the “Where’s My Refund” feature (a self-help lookup), which is heavily weighted in the score. The other two portions of the measure
+decreased this year.
+Factors Affecting Results
+Wait time:
+Calls with less than five minutes wait time = 51 percent of total calls (down from 68 percent in 2015).
+We increased the staff available to take calls prior to rolling out the new system in anticipation of increased call volume, but wait times still jumped from less than a minute to just over five minutes in
+December (the month we rolled into the new computer system for personal income tax). Wait time increased each month of the season and peaked at 30 minutes in June, when only 3 percent of
+calls were answered in less than five minutes. This was due to sheer call volume and the fact that calls took longer to resolve because staff were still learning how to navigate the new system and
+more time was spent walking taxpayers through the new online tools.
+Our "virtual hold" system, launched in March 2014, gives the caller the option to hang up and get a call back when a representative is available. Calls where the caller chose to be called back later
+are not included in this statistic. This feature was popular with both taxpayers and our staff. The taxpayers tended to be calmer when they didn’t have to wait on the phone to talk to a representative.
+Unfortunately, use of this feature is limited on heavy volume days.
+General factors that cause longer wait times:
+As self-help tools are added, issues tend to be more difficult to resolve as the customer can get the simple answers themselves.
+The wait time to reach a Spanish-speaking representative continues to be longer than the average wait time for an English-speaking representative. We don't track call-wait data on other
+language requests.
+Wait times are typically increased by other situational factors. A prime example of this was the changes to our fraud review for returns. Refunds took longer because of new fraud processes
+that took longer and impacted more returns. This led to increased call volume and customer dissatisfaction. Another example involves the IRS answering fewer calls because of reduced staff
+numbers. This means more taxpayers call us with their federal questions, which we try to answer.
+Percentage of successful "Where's My Refund?" inquiries made through IVR or web applications:
+77 percent (up from 52 percent in 2015). Successful inquiries are defined as any
+response other than "not found." “Not found” means we haven't begun processing the return and it's not found in our system when the taxpayer asks. An unknown number of inquiries are
+unsuccessful (“not found”) because taxpayers don't wait the suggested two weeks from when they file the return to allow us to begin processing. The jump in the number of successful inquiries can
+likely be attributed to a new, more efficient system.
+Percentage of customer service ratings of "good" or "excellent":
+18 percent (down from 29 percent in 2015). Obviously, this sub-measure indicates dissatisfaction with our customer
+service from those who respond to our survey. Though there’s no single factor responsible for these poor survey results, it’s likely attributable to the timeliness of our return processing season. See
+KPM 4 for more detailed information about our customer service rating.
+KPM #6
+Appraisal Program Equity and Uniformity
+- We will measure the degree to which county appraisal program equity and uniformity is achieved by determining the percentage of study areas
+statewide with real market values that are within accepted appraisal standards.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Appraisal Uniformity
+Actual
+93%
+94%
+95%
+97%
+No Data
+Target
+95%
+95%
+95%
+95%
+95%
+How Are We Doing
+For the seven-year period of 2009 to 2015, the percentage of market areas in compliance was between 89 (2011) and 97 percent (2015).
+Factors Affecting Results
+Concerns include CODs are self-reported by the counties, so our ability to validate methodology is limited at this time, and study areas can vary year to year creating consistency and comparison
+issues.
+KPM #7
+Appraisal Value Uniformity
+- We will demonstrate our ability to deliver high quality business results by measuring appraisal equity and uniformity for DOR industrial accounts.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Appraisal Value Uniformity
+Actual
+16.36%
+16.13%
+21.56%
+28.37%
+28.75%
+Target
+17.50%
+17%
+16.50%
+20%
+20%
+How Are We Doing
+In the last three years, we haven’t had any usable sale transactions. Therefore, we used our recent site-specific appraisals to measure the COD. The data reveals we didn’t meet our performance
+target because the measure of variance between the values from our recent site-specific appraisals and the values from our mass appraisal process exceeded the target benchmark (COD of
+20). We recently implemented significant changes to our process and have completed training that we anticipate will improve the quality of our appraisal values. As we continue to address hot spots
+and known valuation issues, a decreasing COD may not be realized. However, we continue to refine our processes, train new staff, and work through our eight-year appraisal cycle with site-specific
+appraisals, and we anticipate seeing a decrease in our COD around 2025.
+Factors Affecting Results
+We’re required to appraise Oregon’s highly complex industrial properties that are engaged in processing and manufacturing activities. These properties don’t sell often. When they do, there are
+many factors that make it difficult to compare the sales price to assessment roll values. Therefore, the limited number of sales transactions lead to a decrease in the reliability of this indicator. In the
+past three years, we haven’t identified any usable sales transactions for state appraised property. Therefore, all of our analysis is based on site-specific appraisals instead of market-based sales.
+We recently instituted an appraisal process consisting of site visits followed by site-specific narrative appraisal reports to estimate value for state-appraised industrial properties. The following
+factors have contributed to the above-target COD since 2014.
+We’re in the early stages of reporting on this KPM. We’re analyzing the data inputs every year and trying to determine the best method to determine which data points should be used and which
+shouldn’t. Since we’ve been working with very few data points, inclusion or exclusion of data points can produce vastly different results. Some properties have known valuation issues or issues are
+found during the appraisal process. Valuation issues can include the following: omitted property, taxpayer reporting errors (duplicates, age of assets, failure to report), and reclassification of assets.
+All of these valuation issues creates a greater separation between the value determined via our mass appraisal process and the value determined via our site-specific appraisal process, resulting in
+higher COD.
+There are some industrial sites that we haven’t visited in more than 20 years. The lack of a physical inspection contributes to a greater separation between RMV and appraised value, which
+increases the COD. To correct this for the future, we plan to visit every industrial site on a regular cycle. Once our first regular appraisal cycle is complete (goal of 2025), a more consistent COD
+trend should emerge.
+Changes in the economy have more impact on certain property market sectors. Therefore, since 2014, we’ve concentrated on hot spots in an attempt to bring those values closer to
+RMV. Appraising these hot spots can contribute to an artificially high COD since the values in these areas have the potential to be the most non-reflective of RMV.
+The COD data from 2012 and 2013 used eight data points or less, which was all that was available for these years. This is a very small sample size from which to draw a solid COD conclusion.
+The original COD data for 2014 used eight data points. By adding two valid data points, the revised 2014 COD increased from 16.15 to 21.56. This is a good example of how more data points can
+drastically change the outcome of the COD.
+We averaged 46 data points per year during the last two years, an increase of 360 percent. The increase in appraisal activity is a direct outcome of the change to our business plan to visit all the
+industrial sites in Oregon on a regular basis. However, this results in more findings of valuation issues and hot spots, which can result in higher CODs. Once we work through an entire appraisal
+cycle (2025), our COD should start to decline.
+KPM #8
+Direct Enforcement Dollars Cost of Funds
+- We will demonstrate our efficiency and effectiveness at funding services that preserve and enhance the quality of life for all citizens by
+measuring the cost of funds (COF) for every direct enforcement dollar received by our agency.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Cost of Direct Enforcement Funds
+Actual
+$0.22
+$0.22
+$0.33
+$0.31
+$0.28
+Target
+$0.19
+$0.19
+$0.33
+$0.33
+$0.33
+How Are We Doing
+Our COF for fiscal year 2016 was 0.283. For this measure, lower performance is better. This represents an 8.1 percent decrease from the fiscal year 2015 COF of 0.308. Dollars received increased
+from $234.9 million in 2015 to $269.7 million in 2016, while our enforcement function funding in the Legislatively Adopted Budget (LAB) increased from $72.5 million in 2015 to $76.2 million in 2016.
+There are many factors that impact cost of funds. Some of the external factors that affect our enforcement revenue include the health of the overall economy and the labor market participation rate.
+Internal factors influencing our enforcement revenue include the CSR Project, changes in staffing, the level of staff experience, and filing enforcement strategies.
+The Business Division’s programs recorded an increase in enforcement revenue for fiscal year 2016, but those numbers were impacted by one abnormally large payment.
+Personal income tax enforcement revenue decreased in fiscal year 2016. Over the past year, we had to shift resources to the CSR Project while still attempting to maintain consistency in billings
+and collections to meet audit and collection goals. The Personal Income Tax program was the main component of Rollout 2 of the CSR Project, and all staff had to attend a number of trainings and
+learn an entirely new system over the past year.
+Factors Affecting Results
+Expanded hiring and training: Staff hired in recent years has had the added difficulty of learning our old legacy system and the new GenTax system. This has slowed production. In addition, staff
+has been very involved in training on and testing of the new system.
+Disparate impact of corporate tax payments: The Business Division recognized a significant increase in enforcement revenue due to a large payment that was received during the year.
+Core Systems Replacement Project:  Fiscal year 2016 included a resource drain for both the personal income tax and business tax programs. Both areas deployed resources to help test, train, and
+implement various features of the GenTax system. All users had to learn a brand new system while continuing their work. In addition, resources from throughout the agency assisted with processing
+and system functions in order to maintain processing goals.
+PTAC played a significant role in Rollout 2 of the GenTax implementation. Many functions that worked for Business Division users needed to be modified slightly for the personal income tax
+program. Because of the large number of taxpayers and situations that could occur with personal income taxes, many unique situations emerged that needed to be addressed. Personal income tax
+staff spent many hours addressing these situations, developing and testing solutions, and then helping with implementation of those solutions.
+The Business Division also played a major role in Rollout 2. Changes to the GenTax system during Rollout 2 had to be tested to ensure they would work with programs included in Rollout 1, which
+were primarily Business Division programs. This resulted in additional training and testing requirements for staff, which decreased their production.
+The Withholding Section remains in our legacy system until November 2016. Withholding staff are beginning to see the short-term production impacts of GenTax implementation, as they’re fulfilling
+testing and training requirements in anticipation of Rollout 3.
+External factors: We also recognize that there are a variety of external factors that impact compliance. Factors such as the overall economy, employment rate, and external policy decisions all have
+the potential to affect enforcement rates, but we don’t currently have a way to measure these potential impacts.
+Legislatively Adopted Budget (LAB): Any increases or decreases to the budget will affect this measure.
+KPM #9
+Collection Dollars Cost of Funds
+- We will demonstrate our efficiency and effectiveness at funding services that preserve and enhance the quality of life for all citizens by measuring the
+cost of funds (COF) for every dollar collected by our agency.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Cost of Collections Funds
+Actual
+$0.09
+$0.09
+$0.14
+$0.13
+$0.12
+Target
+$0.08
+$0.08
+$0.10
+$0.14
+$0.14
+How Are We Doing
+Our COF for fiscal year 2016 was 0.123. For this measure, lower performance is better. This represents a 5.4 percent decrease from the fiscal year 2015 COF of 0.130. Dollars collected increased
+from $234.9 million in 2015 to $269.7 million in 2016 and the department’s collection function Legislatively Adopted Budget (LAB) increased from $30.6 million in 2015 to $34.7 million on 2016.
+There are many factors that impact cost of funds. Some of the external factors that impact our enforcement revenue include the health of the overall economy and the labor market participation
+rate. Internal factors influencing our enforcement revenue include the CSR project, changes in staffing, the relative level of staff experience, and filing enforcement strategies.
+The Business Division’s programs recorded an increase in enforcement revenue for fiscal year 2016, but those numbers were impacted by one abnormally large payment.
+Personal income tax enforcement revenue decreased in fiscal year 2016. Over the past year, we had to shift resources to the CSR Project while still attempting to maintain consistency in billings
+and collection to meet audit and collection goals. The Personal Income Tax Program was the main component of Rollout 2 of the CSR Project, and all staff had to attend a number of trainings and
+learn an entirely new system over the past year.
+Factors Affecting Results
+Expanded hiring and training:  Staff hired in recent years has had the added difficulty of learning our old legacy system and the new GenTax system. This has slowed production. In addition, staff
+has been very involved in training on and testing of the new system.
+Disparate impact of corporate tax payments:  The Business Division recognized a significant increase in enforcement revenue due to a large payment that was received during the year.
+Core Systems Replacement Project:  Fiscal year 2016 included a resource drain for the personal income tax and business tax programs. Both areas deployed resources to help test, train, and
+implement various features of the GenTax system. All users had to learn a brand new system while continuing their work. In addition, resources from throughout the agency assisted with processing
+and system functions in order to maintain processing goals.
+PTAC played a significant role in Rollout 2 GenTax implementation. Many functions that worked for Business Division users needed to be modified slightly for the personal income tax program.
+Because of the large number of taxpayers and situations that could occur with personal income taxes, many unique situations emerged that needed to be addressed. Personal income tax staff
+spent many hours addressing these situations, developing and testing solutions, and then helping with implementation of those solutions.
+The Business Division also played a major role in Rollout 2 of the GenTax implementation. Changes to the GenTax system during Rollout 2 had to be tested to ensure they would work with
+programs included in Rollout 1, which were primarily Business Division programs. This resulted in additional training and testing requirements, which decreased their production.
+The Withholding Section remains in our legacy system until November 2016. Withholding staff are beginning to see the short-term production impacts of GenTax implementation, as they’re fulfilling
+testing and training requirements in anticipation of Rollout 3.
+Data mining and weekly AR reports: Using new tools available in GenTax provided a more structured approach to collections. Weekly reporting helped identify the most collectable accounts.
+External factors: We recognize that there are a variety of external factors that impact compliance. Factors such as the overall economy, employment rate, and external policy decisions all have the
+potential to affect enforcement rates, but we don’t currently have a way to measure these potential impacts.
+Legislatively Adopted Budget (LAB): Any increases or decreases to the budget will affect this measure.
+KPM #10
+Cost of Assessments
+- We will demonstrate our efficiency and effectiveness of our suspense, audit and filing enforcement functions by measuring the cost of every audit and filing
+enforcement dollar assessed.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Cost of Assessments
+Actual
+0.18%
+0.18%
+0.23%
+0.26%
+0.21%
+Target
+0.16%
+0.16%
+0.22%
+0.23%
+0.23%
+How Are We Doing
+In 2016, our cost of assessments (COA) decreased to 0.206. For this measure, lower performance is better. This represents a 7.8 percent decrease from the fiscal year 2015 COA of 0.263. This
+was due, in large part, to increased assessments in the Corporation Tax Program. Assessed dollars increased from $159 million in 2015 to $201.1 million in 2016. The enforcement function funding
+in LAB decreased from $41.8 million in 2015 to $41.5 million in 2016.
+There are many factors that impact cost of funds. Some of the external factors that affect our enforcement revenue include the health of the overall economy and the labor market participation rate.
+Internal factors influencing our enforcement revenue include the CSR project, changes in staffing, the level of staff experience, and filing enforcement strategies.
+The Business Division’s programs recorded an increase in assessments for fiscal year 2016, but that increase included one abnormally large assessment.
+Personal income tax assessments decreased in fiscal year 2016. Over the past year, we had to shift resources to the CSR Project while still attempting to maintain consistency in billings to meet
+enforcement goals. We anticipate an increase in enforcement revenue during fiscal year 2017 as staff gain experience in and knowledge of how our new GenTax system works. However, there is
+always the possibility of large assessments that can impact the results.
+Factors Affecting Results
+Core Systems Replacement Project:  Fiscal year 2016 included a resource drain for both the personal income tax and business tax programs. Both areas deployed resources to help test, train, and
+implement various features of the GenTax system. All users had to learn a brand new system while continuing their work. This production loss was expected. In addition, resources from throughout
+the agency assisted with processing and system functions in order to maintain processing goals.
+PTAC played a significant role in Rollout 2 of the GenTax implementation. Many functions that worked for Business Division programs needed to be modified slightly for the Personal Income Tax
+Program. Because of the large number of taxpayers and situations that could occur with personal income taxes, many unique situations emerged that needed to be addressed. Personal Income Tax
+Program staff spent many hours addressing these situations, developing and testing solutions, and then helping with implementation of these solutions. This caused a reduction in production and
+efficiency.
+External factors. We recognize that there are a variety of external factors that impact compliance. Factors such as the overall economy, employment rate, and external policy decisions all have the
+potential to impact enforcement rates, but we don’t currently have a way to measure these potential impacts.
+Internal factors. Fiscal year 2016 included the first tax return processing season for personal income taxes in GenTax. With the new system, we re-evaluated all of our existing rules regarding fraud
+errors that can be corrected automatically by the system, manual processing of returns, and refund review. This created an unusual season, and we weren’t able to accurately anticipate the volume
+of work it would create.
+Legislatively Adopted Budget (LAB):  Any increases or decreases to the budget will affect this measure.
+KPM #11
+Employee Engagement
+- Index of employees considered actively engaged by a standardized survey.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Employee Engagement
+Actual
+No Data
+53.50
+Target
+TBD
+TBD
+How Are We Doing
+We initiated the standardized employee engagement survey in February 2013. The results established our baseline index of 53. We completed the survey again in September 2013. Those results
+showed slight improvement in the index to 54. In May 2014, our employee engagement index increased to 60, which exceeded the target. The results of the 2015 survey show our index at 63, which
+exceeded the target again. The results of the 2016 survey showed a drop in the engagement index to 59, meeting our target.
+From the May 2016 survey, the critical engagement tactics that impacted the index score included:
+.
+My agency provides adequate training to support my career development.
+.
+My immediate supervisor deals effectively with poor performance.
+.
+I have the data and tools I need to do my job.
+Factors Affecting Results
+Many factors contributed to the decrease in our engagement index, including a significant reduction in the response rate (15 percent decrease from 2015) and a large portion of the agency being
+involved in the Core Systems Replacement (CSR) Project rollout and training. We changed how we reported the results of the survey, which may have had significant, unexpected impacts on the
+response rate.  We chose to report the results down to the unit or section level (depending on minimum response rate requirements to keep anonymity) in an effort to make the specific feedback
+and data more applicable and actionable. This change in reporting may have caused some employees to feel less free to answer the survey or provide text responses because of worries about
+anonymity. We’ll maintain this reporting structure another year to see if we see an increase in the response rate now that employees have been able to see that anonymity has been preserved.
+Additionally, 2016 had the largest rollout (based on number of people and programs affected) for the CSR Project to date. This created a huge training curve for our employees to come up to
+speed on the new software. Developmental training for employees was limited to focus on training needed for the new software rollout. Additionally, there were feelings of unease and confusion as
+employees and managers attempted to understand how the new software would affect their work. We’re addressing these feelings of unease by completing classification studies and desk audits as
+necessary after each rollout, while proactively looking at the effects the software system will have on agency structure and processes once it is fully launched in late 2017.
+The agency’s leadership team is committed to making training and development for staff a priority. In addition, the agency is continuing its commitment to transparency in communications through
+monthly town hall meetings, bi-weekly director’s video blogs, a weekly written blog, and information shared by administrators and managers. These communication channels provide good
+information to staff about what is going on in the organization, what is changing, and what can be expected.

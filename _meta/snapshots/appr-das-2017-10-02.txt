@@ -1,0 +1,387 @@
+Administrative Services, Department of
+Annual Performance Progress Report
+Reporting Year 2017
+Published: 10/2/2017 1:47:41 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+FORECAST RELIABILITY
+- General Fund Forecast Tracking Metric
+FINANCIAL REPORTING
+- Percent of Agencies receiving Gold Star Award (The Gold Star Award is the state agency equivalent of the GFOA Certificate of Achievement for Excellence in Financial Reporting)
+WORKFORCE TURNOVER
+- Annual turnover rate for the State and DAS workforce.
+WORKFORCE DIVERSITY
+- Racial/ethnic diversity in the state workforce as a percentage of the total civilian labor force.
+FLEET ADMINISTRATION
+- Average Miles Per Gallon for DAS Permanently Assigned Fleet Vehicles.
+RENT COSTS - DAS negotiated lease rates in private sector vs. average market rates.
+INFORMATION SECURITY
+- Overall information security maturity rating based on a sample of state agencies. Rating achieved using a compilation and aggregate score based on the ISO 27002 standard and assigning a rating using the Carnegie-
+Mellon Capability Maturity Model. (3rd party conducting information security business risk assessments)
+PROCUREMENT EFFECTIVENESS
+- Estimated savings resulting from price agreement pricing compared to prices that would be paid without the benefit of a price agreement.
+RISK MANAGEMENT
+- Annual number of Severe Worker's Compensation claims per 100 FTE
+DATA CENTER
+- Percentage of time systems are available.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+36.36%
+0%
+63.64%
+red
+green
+yellow
+KPM #1 CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+helpfulness, expertise and availability of information.
+Data Collection Period: Jan 01 - Jan 01
+Report Year 2013 2014 2015 2016 2017
+Helpfulness
+Actual No Data 74% No Data 78% No Data
+Target 90% 90% 90% 90% 90%
+Timeliness
+Actual No Data 71% No Data 76% No Data
+Target 90% 90% 90% 90% 90%
+Expertise
+Actual No Data 74% No Data 78% No Data
+Target 90% 90% 90% 90% 90%
+Overall
+Actual No Data 70% No Data 75% No Data
+Target 90% 90% 90% 90% 90%
+Availability of Information
+Actual No Data 64% No Data 71% No Data
+Target 90% 90% 90% 90% 90%
+Accuracy
+Actual No Data 72% No Data 76% No Data
+Target 90% 90% 90% 90% 90%
+How Are We Doing
+This data is collected every other year (see 2016 results).
+Factors Affecting Results - none
+KPM #2
+FORECAST RELIABILITY
+- General Fund Forecast Tracking Metric
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2013
+2014
+2015
+2016
+2017
+General Fund Forecast
+Actual
+No Data
+102.96%
+100.01%
+100.14%
+103.19%
+Target
+0%
+100%
+100%
+100%
+100%
+How Are We Doing
+Actual General Fund revenue collections for the 2015-17 biennium came in above expectations, triggering both of the state’s unique kicker laws. Under Oregon’s kicker, errors larger than 2 percent
+are returned to taxpayers (for personal income taxes) or retained in the General Fund for additional education spending (corporate income taxes.) In 2015-17, the corporate kicker amount totaled
+$110,529,313, while the personal kicker (technically all revenues excluding corporate) totaled $463,526,040.
+The most recent quarter general fund forecast amount-
+$18,572,311,000
+The close of legislative session 15-17 general fund forecast amount-
+$17,998,055,960
+Factors Affecting Results
+The state’s volatile underlying economy and current tax structure yield larger year-to-year swings than in the typical state. While Oregon comes out ahead of the typical state in both an economic
+and revenue sense over the entire business cycle, such variances are more challenging and difficult to accurately forecast.
+KPM #3
+FINANCIAL REPORTING
+- Percent of Agencies receiving Gold Star Award (The Gold Star Award is the state agency equivalent of the GFOA Certificate of Achievement for Excellence in
+Financial Reporting)
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Percent of agencies receiving the Gold Star Award
+Actual
+96%
+100%
+98%
+97%
+No Data
+Target
+98%
+98%
+98%
+98%
+98%
+How Are We Doing
+The information related to the number of agencies earning the FY 2017 Gold Star Award will not be available until January 2018 as it is awarded only once per year. Once the data is available to us,
+we will resubmit our agency report with this data included.
+Factors Affecting Results
+KPM #4 WORKFORCE TURNOVER - Annual turnover rate for the State and DAS workforce.
+Data Collection Period: Jul 01 - Jun 30
+Report Year 2013 2014 2015 2016 2017
+State Workforce Turnover
+Actual 5.29% 4.70% 5.28% 5.77% 5.32%
+Target 5.50% 5.50% 5.60% 5.60% 5.60%
+DAS Workforce Turnover
+Actual No Data No Data No Data 3.52% 3.61%
+Target TBD TBD 5.50% 5.50% 5.50%
+How Are We Doing
+The state’s resignation rate (4a) for FY 16-17 is 5.32%. This is 0.18% lo wer than the benchmark of 5.5% set in 2010. However, it is lower than the Job Openings and Labor Turnover Survey
+(JOLTS) data reported by the United States Bureau of Labor Statistics for 2016, which was 9.7% for state and local governments. The proposed targets reflect the new JOLTS reports and serve as
+a direct comparison to other state government statistics. The resignation rate for DAS (4b) is 3.61%, this is indicative of a stable workforce. Resignation refers to voluntary separation from
+employment, and this data does not include turnover from layoffs, involuntary terminations, or retirement therefore it aligns with the JOLTS definition of “quits”.
+Factors Affecting Results
+Employees appear to be choosing alternative employment opportunities at a slightly greater rate (1% increase overall).  The factor most likely to have impacted the increase in turnover is the
+improvement in the Oregon economy.  The following tables list reasons for employees leaving the state workforce in both FY’16 and FY’17; Table 1 lists the top five primary reasons for leaving and
+Table 2 lists the top five secondary reasons given for leaving state service. All of the primary reasons stayed within 1% of the prior fiscal year.  Two interesting observations surface from the
+secondary reason data.  The first one is a positive change which is 1.36% less employees left for their “o wn or family member health reason(s).  The second indicates 1.06% more employees have
+left state service due to work/life balance.
+FY’16 FY’17
+Other- 58.03% Other- 66.83%
+In-State Public Sector- 11.03% In-State Public Sector- 8.85%
+In-State Private Sector- 9.71% In-State Private Sector- 7.68%
+Relocation- 7.23% Relocation- 5.49%
+Stay Home- 6.95% Stay Home- 5.12%
+Table 2- Secondary Reason for Leaving (Top 5)
+FY’16 FY’17
+Personal / Not Disclosed- 76.39% Personal / Not Disclosed- 78.24%
+Own or Family Member Health Reason- 7.28% Own or Family Member Health Reason- 7.15%
+Work/Life Balance Issues- 5.35% W
+ork/Life Balance Issues- 5.17%
+Change of Duties- 2.43% Change of Duties- 2.19%
+Compensation or Benefit Issues- 2.21% Compensation or Benefit Issues- 2.24%
+Table 1- Primary Reason for Leaving (Top 5)
+KPM #5
+WORKFORCE DIVERSITY
+- Racial/ethnic diversity in the state workforce as a percentage of the total civilian labor force.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2013
+2014
+2015
+2016
+2017
+State Workforce Diversity
+Actual
+70.08%
+69.90%
+71.38%
+76.64%
+76.81%
+Target
+100%
+100%
+100%
+100%
+100%
+DAS Workforce Diversity
+Actual
+No Data
+No Data
+65.85%
+72.90%
+72.15%
+Target
+TBD
+TBD
+100%
+100%
+100%
+How Are We Doing
+As of the end of FY’17 the racial and ethic diversty of the state workforce was 23.10%. This is a 6.47% increase from the previous fiscal year. The progress has not kept up with the diversification of
+Oregon’s civilian workforce but shows improvement.
+Calculation:
+23.10% / 17.74% = 130.21% of the goal of 100% reflection of the Oregon workforce.
+As of the end of FY’17 the racial and ethnic diversity of the DAS workforce was 16.67%.  An increase of .85% over the previous year.
+Calculation:
+16.67% / 17.74% = 93.97% of the goal of 100% reflection of the Oregon workforce
+Factors Affecting Results
+One challenge is being considered the employer of choice for people in minority ethnic groups. The state, as one of Oregon’s largest employers, has not been adequately marketed to these
+groups. Much of Oregon’s diversity is consentrated in the Portland metropolitain area. The state has opened several office locations in the metro area but the majority of state jobs reamain in
+Salem. There was a change in the way diversity figures were gathered as a result of a change in the EEO4 reporting designation requirements (Pacific Islander, Two or More).
+KPM #6
+FLEET ADMINISTRATION
+- Average Miles Per Gallon for DAS Permanently Assigned Fleet Vehicles.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Average Miles Per Gallon
+Actual
+20.14
+20.26
+20.20
+20.43
+20.38
+Target
+19.60
+19.74
+19.88
+20.03
+20.17
+How Are We Doing
+The 2017 average dropped slightly from the 2016 value but we are still on target to achieve the 10% increase over 2017 levels by 2020. Currently we are at an 8.8% increase over the 18.73 MPG
+2007 baseline.
+Factors Affecting Results
+The slight drop in efficiently could be a result of a drop in overall miles traveled across the fleet. This typically means vehicles are driving more city versus highway miles and this reduces MPG
+efficiency.
+KPM #7 RENT COSTS - DAS negotiated lease rates in private sector vs. average market rates.
+Data Collection Period: Jul 01 - Jun 30
+* Upward Trend = negative result
+Report Year 2013 2014 2015 2016 2017
+DAS negotiated lease rate vs. average market rate (Salem/Keizer)
+Actual No Data No Data No Data 15% 4%
+Target TBD TBD TBD 0% 0%
+How Are We Doing
+Salem (fiscal year end June, 2016)
+DAS-negotiated office lease rates in private sector vs.
+average market rate
+4% savings compared to market rates (on average) with 230,000+ square foot
+of space negotiated
+State private lease rate $1.83
+Average cost of market $1.91
+The 2016-2017 measure period has performed well beyond expectations. It is currently a very difficult market, as Inventory is low and it is hard to find space at the prices we have been historically
+seen over the past biennia.  Yet through our external resources and leveraging the buying power of the state (as a creditworthy tenant), we have been able to continue to lease under the market
+prices.
+Factors  Affecting Res ults
+We are continuing to accumulate vast savings in facility costs for state agencies (over $80 million+ in cost savings since 2014). Moving forward, we predict that the negotiation power will continue to
+shift heavily towards the landlords, we should see a disadvantage from a negotiations standpoint over the next of year, hopefully averaging out to be more-even in the 2018-2019 year.
+KPM #8
+INFORMATION SECURITY
+- Overall information security maturity rating based on a sample of state agencies. Rating achieved using a compilation and aggregate score based on the ISO
+27002 standard and assigning a rating using the Carnegie-Mellon Capability Maturity Model. (3rd party conducting information security business risk assessments)
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Information Security
+Actual
+2.73
+2.54
+3.11
+No Data
+1.65
+Target
+How Are We Doing
+The maturity measure shows a sharp departure from previous trend, which implies previous assessment approach was not providing a complete picture on the risks.  As an enterprise, there is a
+large gap from our target and under Senate Bill 90 Unification of IT Security, the Enterprise Security Office (ESO) is reorganizing efforts to address the most prevalent and risky findings.
+Factors Affecting Results
+Methodology was changed in 2016 in line with direction under Executive Order 16-13 for agency by agency risk assessment.  The intended assessment was to be more in depth, so an alternate
+standard was used – the NIST Cybersecurity Framework.  This federal framework measures on 22 distinct control areas.  Assessment was done by multiple vendors at 11 agencies.
+KPM #9
+PROCUREMENT EFFECTIVENESS
+- Estimated savings resulting from price agreement pricing compared to prices that would be paid without the benefit of a price agreement.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Procurement Effectiveness
+Actual
+No Data
+3.10%
+0.80%
+2.55%
+No Data
+Target
+8.50%
+8.50%
+8.50%
+8.50%
+8.50%
+How Are We Doing
+Our view is that this KPM has long outlived its usefulness. Established 15-years ago, in 2002, as part of the Oregon Shines Initiative’s Oregon Benchmarks, led by the now long defunct Oregon
+Progress Board, the measure attempts to determine the rate of savings (as compared to surrounding States) derived by Oregon’s Price Agreements. In the current procurement environment, in
+most high dollar commodity areas, Oregon’s Price Agreements are part of national cooperative contracts, thus our pricing is essentially the same as other states and there is no discernible savings
+to report. In addition, gathering the needed data from other states is quite labor intensive. We believe that continuation of this reporting is of no value to the Enterprise. DAS Procurement Services
+is testing a new method for measuring savings and will recommend adoption of the new method when deemed adequate.
+Factors Affecting Results
+N/A
+KPM #10 RISK MANAGEMENT - Annual number of Severe Worker's Compensation claims per 100 FTE
+Data Collection Period: Jan 01 - Jan 01
+* Upward Trend = negative result
+Report Year 2013 2014 2015 2016 2017
+Number of Severe Worker's Compensation Claims per 100 FTE
+Actual 1.76 1.58 1.57 1.56 1.70
+Target 0 0 0 0 0
+How Are We Doing
+Severe claims per 100 FTE: After three years of no change, severe claims per 100 FTE for 2016-17 increased from 1.56 to 1.70.
+Fiscal
+Year
+Number of Severe
+WC Claims Per 100 FTE
+11/12 2.03
+12/13 1.76
+13/14 1.58
+14/15 1.57
+15/16 1.56
+16/17 1.70
+Calculation detail:
+- Claims involving disability: 647
+- Total Claims: 1859
+- FTE in 100s: 382
+- # WC claims w/disability per 100 FTE: 1.70
+Factors Affecting Results
+2016-17 saw an increase in number of severe claims along with a decrease in FTE.  The result is a 9% increase in severe claims per 100 FTE over 15/16.  Claims per 100 FTE involving only
+temporary disability increased by 4%, while claims per 100 FTE involving some level of permanent disability increased by 20%.  This is an indication of more serious injuries, possibly
+compounded by an aging workforce which impacts likelihood of full recovery from injuries, and newer and less experienced employees which can lead to increased frequency and severity.
+KPM #11
+DATA CENTER
+- Percentage of time systems are available.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Data Center- Systems Availability
+Actual
+99.80%
+99.90%
+99.96%
+99.90%
+99.91%
+Target
+99.90%
+99.90%
+99.90%
+99.90%
+99.90%
+How Are We Doing
+The availability of 99.91% for FY 2017 is on target, but shows a slight increase since FY 2016 with a 99.90% availability.  However, the Data Center has maintained service levels at or above the
+99.90% target for the last four consecutive fiscal years.
+Factors Affecting Results
+The Data Center has transitioned most of their infrastructure to a Unified Computing Platform and has stabilized the computing environment as well as significantly expanding the usage of our
+computing infrastructure.
