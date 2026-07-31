@@ -26,9 +26,26 @@ jobs:
       # _meta/snapshots/ is excluded because a large corpus's snapshots would drag
       # hundreds of upstream URLs into a per-PR gate; upstream availability is what
       # the scheduled drift job is for.
+      # `reports/` is excluded because its links are NOT this repository's links, and
+      # because THE CONTENT CANNOT CHANGE.
+      #
+      # Every document's `## Full text` is verbatim agency text, and an APPR cites URLs
+      # throughout. A 2016 report citing a page that died in 2019 is an ACCURATE COPY of a
+      # 2016 document, not link rot in this corpus -- and "fixing" one would mean editing
+      # quoted text, which AGENTS.md forbids outright. Same reasoning as oregon-audits
+      # (measured there: 781 links, 150 errors, every one inside reports/) and
+      # federal-reference.
+      #
+      # The immutability argument is sharper here than in either sibling. A published APPR
+      # is a fixed historical record: LFO adds a new reporting year annually and never
+      # revises a prior one, which is why this corpus is `recheck: annual`. So re-crawling
+      # 229 documents on every PR spends minutes against a host that serves at ~120 KB/s to
+      # re-verify links that cannot have changed since the last commit. The first run of
+      # this gate took over six minutes before being excluded.
       exclude-paths: |
         _meta/snapshots
         _meta/templates
+        reports
 
   # EVERY COMMITTED GENERATED ARTIFACT MUST BE CURRENT, checked on every PR.
   #
