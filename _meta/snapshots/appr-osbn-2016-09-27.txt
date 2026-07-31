@@ -1,0 +1,272 @@
+Nursing, Board of
+Annual Performance Progress Report
+Reporting Year 2016
+Published: 9/27/2016 9:43:29 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+TIMELY RESOLUTION OF COMPLAINTS
+- Percent of cases investigated and referred to Board within 120 days of receipt of complaint.
+REDUCTION OF RECIDIVISM
+- Percent of disciplined licensees with a new complaint within three years of Board closing original case with a disciplinary action.
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency's customer service as good or excellent: overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+ON-LINE TRANSACTIONS - Percent of business transactions completed on-line.
+TIMELY LICENSING - Percent of licensing applications processed within target.
+EFFECTIVE GOVERNANCE - Percent of total best practices met by the Board.
+Green
+Yellow
+Red
+= Target to -5%
+= Target -6% to -15%
+= Target > -15%
+Summary Stats:
+83.33%
+16.67%
+0%
+red
+green
+yellow
+KPM #1
+TIMELY RESOLUTION OF COMPLAINTS
+- Percent of cases investigated and referred to Board within 120 days of receipt of complaint.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2012
+2013
+2014
+2015
+2016
+Timely Resolution of Complaints
+Actual
+58%
+78%
+79%
+59%
+56%
+Target
+60%
+60%
+60%
+60%
+60%
+How Are We Doing
+As of the date of this report, 56 percent of disciplinary cases in FY 2016 were presented to the Board within 120 days, which misses the agency target of 60 percent. This number includes cases
+that were opened in May or June 2016 (just prior to the end of the FY), with no chance of meeting the 120-day requirement within the FY. The percentage taken at the end of the actual fiscal year
+was 69 percent.
+To ensure the board continues to process cases in a timely manner, the agency has added an additional meeting in December to the schedule; the board will now meet 12 times a year, instead of
+11.
+Factors Affecting Results
+The agency has worked diligently to promote the consistent use of its database to help staff manage their caseloads.  Agency management has implemented additional clarifying policies regarding
+the use of Interim Consent Orders, which have also helped stabilize this measure.
+KPM #2
+REDUCTION OF RECIDIVISM
+- Percent of disciplined licensees with a new complaint within three years of Board closing original case with a disciplinary action.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2012
+2013
+2014
+2015
+2016
+Reduction of Recidivism
+Actual
+3%
+2%
+1%
+2%
+2%
+Target
+3%
+3%
+3%
+3%
+3%
+How Are We Doing
+The OSBN’s rate of 2 percent exceeded its target of 3 percent.  The number reflects the licensees who were disciplined in FY 2013 , 2014, or 2015, and were reported to the Board for any offense
+during FY 2016.
+Factors Affecting Results
+In its investigative and disciplinary process, the Board works to determine what factors led to the violation. Disciplinary action is thus based on addressing those factors to the greatest extent
+possible. Many situations can be resolved through additional education or monitored practice. In this manner, the root cause is fixed and a return to competent and safe practice can be achieved. In
+other situations that are not suitable to remediation, the Board action is more punitive in nature as a deterrent to any such future violations, or to remove that individual from practice altogether if
+necessary.
+KPM #3
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency's customer service as good or excellent: overall customer service, timeliness, accuracy, helpfulness,
+expertise and availability of information.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2012
+2013
+2014
+2015
+2016
+Accuracy
+Actual
+98%
+93%
+92%
+92%
+93%
+Target
+90%
+90%
+90%
+90%
+90%
+Expertise
+Actual
+98%
+90%
+91%
+90%
+91%
+Target
+90%
+90%
+90%
+90%
+90%
+Timeliness
+Actual
+95%
+92%
+91%
+88%
+90%
+Target
+90%
+90%
+90%
+90%
+90%
+Helpfulness
+Actual
+95%
+86%
+90%
+87%
+88%
+Target
+90%
+90%
+90%
+90%
+90%
+Availability of Information
+Actual
+95%
+88%
+89%
+86%
+86%
+Target
+90%
+90%
+90%
+90%
+90%
+Overall
+Actual
+98%
+91%
+93%
+90%
+89%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+The agency met all of its targets in FY 2016 except two (Helpfulness, and the Availability of Information). With continued staff training, further optimization of the Microsoft CRM database in
+Licensing, and refinements to our website design, we expect to achieve or exceed our targets in all categories in FY 2017.
+Factors Affecting Results
+The nine person Licensing Department continues to suffer from staffing turnovers, which creates an almost non-stop knowledge deficit. Although training is ongoing, the processes are complex and
+new staff need time to become proficient.
+KPM #4
+ON-LINE TRANSACTIONS - Percent of business transactions completed on-line.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2012
+2013
+2014
+2015
+2016
+Percent of Online Transactions
+Actual
+91%
+92%
+76%
+95%
+95%
+Target
+80%
+80%
+80%
+80%
+80%
+How Are We Doing
+The stabilization of the new Microsoft CRM database in the Licensing department brought the agency back up to its usual high marks.
+Factors Affecting Results
+A number of applicants who don't meet various licensing requirements and need further evaluation are still processed via paper applications. A 100 percent score won't occur until paper forms are
+no longer accepted.
+KPM #5
+TIMELY LICENSING - Percent of licensing applications processed within target.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2012
+2013
+2014
+2015
+2016
+Timely Licensing: Percent of licensing applications processed within target.
+Actual
+98%
+98%
+84%
+99%
+98%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+The agency exceeded its goal of 90 percent.
+Factors Affecting Results
+The stabilization of the Licensing database was key to improving our results .  We expect to maintain our high level of service.
+KPM #6
+EFFECTIVE GOVERNANCE - Percent of total best practices met by the Board.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2012
+2013
+2014
+2015
+2016
+Effective Governance
+Actual
+100%
+93%
+93%
+93%
+100%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+The agency met its goal of 100 percent compliance.
+Factors Affecting Results
+The agency’s current board members, executive director, and management staff work well together.  The agency updated its board member orientation process in 2015 to strengthen the board’s
+knowledge of public meeting requirements and best practices.

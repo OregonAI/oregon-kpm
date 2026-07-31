@@ -1,0 +1,534 @@
+State Police, Oregon
+Annual Performance Progress Report
+Reporting Year 2016
+Published: 8/18/2016 4:42:04 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+Transportation Safety
+- Enhance transportation safety by reducing fatalities on state and interstate highways where the Oregon State Police (OSP) have primary responsibility.
+Traffic Incident Management
+- Percent of lane blocking crashes cleared within 90 minutes.
+Criminal Apprehension/Detection
+- Increase the percentage of traffic stops resulting in an arrest or criminal citation.
+Angler and Hunter Contacts
+- Increase interactions with anglers and hunters.
+Illegal Harvest
+- Improve detection of illegally harvested fish and wildlife.
+Crime Reduction
+- Percent of major crime team call-outs resolved within 12 months from date of call-out.
+Crime Reduction
+- Number of Dismantled or Disrupted Drug Trafficking Organizations (DTO's).
+Forensic Analysis
+- Percentage of analytical requests completed within 30 days or less.
+Identification Services Turn Around Time
+- Average number of calendar days, from the date of receipt of criminal justice fingerprint cards by the Identification Services Section, until the criminal justice data is posted into the Computerized Criminal
+History (CCH) Files.
+Property Protection
+- The percentage of threatened residential and commercial properties saved from destruction by an approaching wildfire after initiation of operations by OSFM mobilized resources.
+RESIDENTIAL FIRE DEATH RATE:
+- Number of Oregonians per capita that die in a residential fire.
+Customer Satisfaction - Percent of customers rating their satisfaction with the agency customer service as “good” or “excellent”: overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+Green
+Yellow
+Red
+= Target to -5%
+= Target -6% to -15%
+= Target > -15%
+Summary Stats:
+58.33%
+16.67%
+25%
+red
+green
+yellow
+KPM #1
+Transportation Safety
+- Enhance transportation safety by reducing fatalities on state and interstate highways where the Oregon State Police (OSP) have primary responsibility.
+Data Collection Period: Jan 01
+- Dec 31
+Metric
+2012
+2013
+2014
+2015
+2016
+Fatalities on Highways Where OSP has Primary Responsibility
+Actual
+No Data
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+How Are We Doing
+The overall goal for this KPM is to help ensure Oregonians safe and secure.  The success metric for the outcome is to reduce traffic fatalities by 25 percent over a 10 year period.  This results in a
+yearly reduction of 2.5 percent.  To determine the yearly targets over the next 10 years, the number of fatal crashes between 2008 and 2012 was averaged to determine the starting point (134)
+from which to apply the 2.5 percent annual reduction rate.  Tracking of this KPM began in 2013 and will continue through 2022.  Applying the 2.5 percent reduction rate beginning with the 2013
+results, there is a goal to reduce fatal crashes from 134 to 101 by 2022.
+Applying the 2.5 percent annual reduction rate to the baseline fatal crash number of 134 results in a goal of 131 fatal crashes for 2013 and 128 for 2014.  In 2014, there were 149 fatal crashes on
+state and interstate highways where OSP has primary responsibility (
+2014 is the most recent crash data
+).  This was an increase of 39 fatal crashes from 2013 (110) and the highest number of fatal
+crashes since 2008.
+Fatal crash data for 2015 in OSP areas of responsibility will not be available until the end of 2016
+; however, preliminary data indicates that 2015 will also have an increase in
+fatal crashes as compared to 2014.
+Factors Affecting Results
+Enforcement plans focused on changing driving behaviors in an effort to reduce crashes are developed and implemented.  Patrol offices around the state also work with ODOT and other partners
+on engineering and education efforts aimed at reducing crashes.  There are other variables that affect crash rates outside the control of OSP’s enforcement, education, engineering and emergency
+medical services efforts.  Some of these variables include the economy, adverse weather events, number of licensed drivers, and changes in annual vehicle miles traveled.  Shortfalls to the
+Oregon’s General Fund coupled with normal attrition can also impact the Department’s ability to meet its targets in the future.
+KPM #2
+Traffic Incident Management
+- Percent of lane blocking crashes cleared within 90 minutes.
+Data Collection Period: Jan 01
+- Dec 31
+Metric
+2012
+2013
+2014
+2015
+2016
+Percentage of crashes cleared within 90 minutes on highways where OSP has primary responsibility
+Actual
+No Data
+No Data
+No Data
+74%
+71%
+Target
+TBD
+TBD
+TBD
+80%
+80%
+How Are We Doing
+The target for this measure has been set at 80 percent of lane-blocking crashes be cleared within 90 minutes or less on state and interstate highways where OSP has primary enforcement
+responsibility.  This target was set through an ODOT/OSP Mutual Assistance Agreement.  On highways where OSP has primary responsibility, an average of 73 percent of lane blocking incidents
+was cleared within 90 minutes from 2013 to 2015.
+The clearance rate on highways where OSP has primary responsibility has fluctuated over the last three years:  2013 – 74 percent; 2014 – 74 percent; and 2015 – 71 percent.  The number of lane
+blocking crashes cleared within 90 minutes declined from 2,375 in 2014 to 2,009 in 2015.  OSP is nine percent below its target of 80 percent.
+Factors Affecting Results
+Actions to clear travel lanes after a crash can range from being simple, such as when vehicles are still drivable, to the more complex.  The more complex clearance activities often involve multiple
+public and private responders.  The complexity of the response effort impacts the results of this measure.  An incident that involves a police investigation, hazardous material spill, cargo recovery
+effort, or fatality are all factors that influence the roadway clearance time.  While the initial on-scene focus must be on responder and public safety, collaborating with other responders on a
+secondary focus to re-establish traffic flow can result in more quickly opening the lanes.
+KPM #3
+Criminal Apprehension/Detection
+- Increase the percentage of traffic stops resulting in an arrest or criminal citation.
+Data Collection Period: Jan 01
+- Dec 31
+Metric
+2012
+2013
+2014
+2015
+2016
+Percentage of traffic stops resulting in an arrest or criminal citation
+Actual
+No Data
+2.50%
+0.70%
+1.10%
+1.40%
+Target
+TBD
+2.70%
+2.70%
+0.80%
+0.80%
+How Are We Doing
+In 2015, OSP continued the goal to have 0.8 percent of all traffic stops result in an arrest or criminal citation. Success in achieving this KPM goal is based on the anticipated hiring of troopers, the
+efforts the agency has and will place on enhanced training to improve skills at detecting criminal activity during routine contacts, and continuing to provide supportive resources such as narcotic
+canines.
+There were 2,837 routine contacts that resulted in an arrest or criminal citation out of 198,805 total routine contacts in 2015; this calculates to a percentage of routine contacts resulting in an arrest
+or criminal citation of 1.43 percent.  The Department exceeded the target of 0.8 percent by 0.6 percent.
+Factors Affecting Results
+Two of the main factors affecting this KPM are staffing and training.  The division struggles to keep pace with a high attrition rate coupled with the length of time it takes to hire and train new
+troopers.  This can be compounded by shortfalls to Oregon’s General Fund.  Trooper knowledge of current case law is also critical to ensure successful prosecution of criminal cases investigated
+during traffic stops.
+KPM #4
+Angler and Hunter Contacts
+- Increase interactions with anglers and hunters.
+Data Collection Period: Jan 01
+- Dec 31
+Metric
+2012
+2013
+2014
+2015
+2016
+Number of Angler and Hunter Contacts
+Actual
+No Data
+No Data
+No Data
+67,128
+68,742
+Target
+TBD
+TBD
+TBD
+85,000
+85,000
+How Are We Doing
+The target of 85,000 angler and hunter contacts per year was established by comparing the total number of angler and hunter contacts made by Fish and Wildlife Division Troopers annually over
+the last nine years.  The Division’s highest contacts with anglers and hunters occurred in 2009, with nearly 85,000 contacts made.  Higher contacts provide the Division with an increased ability to
+monitor sportsperson activity and provide greater opportunity to educate the public, while enhancing our ability to deter and detect violations of fish and wildlife laws and rules.
+In 2015, the Fish and Wildlife Division achieved 68,742 angler and hunter contacts, which is 81 percent of the target level of 85,000 angler and hunter contacts per year.  This was an increase of
+1,614 angler and hunter contacts from the year 2014.
+Factors Affecting Results
+Budget constraints impacted staffing levels in the first part of 2015, whereas in the second half and at the start of the 2015-2017 biennium, the Division’s budget allowed for filling some trooper
+vacancies due to 2013-2015 budget shortfalls.  Consequently, with more positions filled the Division has experienced an increased trend in the number of overall contacts with anglers and hunters.
+KPM #5
+Illegal Harvest
+- Improve detection of illegally harvested fish and wildlife.
+Data Collection Period: Jan 01
+- Dec 31
+Metric
+2012
+2013
+2014
+2015
+2016
+Number of detections of illegally harvested of fish and wildlife
+Actual
+No Data
+No Data
+No Data
+6,025
+6,949
+Target
+TBD
+TBD
+TBD
+6,100
+6,100
+How Are We Doing
+The target of 6,100 detections of illegally harvested fish and wildlife species per year was established by comparing the total number of detections made by Fish and Wildlife Division Troopers per
+year over the last eight years.  The division’s highest number of detections of illegally harvested fish and wildlife occurred in 2014, with nearly 6,100 detections.
+In 2015, Fish and Wildlife Division members detected 6,949 illegally harvested fish and wildlife species, exceeding the target by almost 14 percent.  The number of detections of illegally harvested
+fish and wildlife is trending upward.  Higher detections, related investigations, and apprehensions will increase the Fish and Wildlife Division’s capability to hold persons accountable for unlawfully
+harvesting Oregon’s fish and wildlife resources, while providing a deterrent for future violations of fish and wildlife laws and rules.
+Factors Affecting Results
+The Fish and Wildlife Division exceeded the target for this performance measure.  It is believed that by filling vacant positions, the detection rate of illegally harvested fish and wildlife increased.
+More troopers increased the capability to detect more illegally harvested animals and provide greater deterrence.
+KPM #6
+Crime Reduction
+- Percent of major crime team call-outs resolved within 12 months from date of call-out.
+Data Collection Period: Jan 01
+- Dec 31
+Metric
+2012
+2013
+2014
+2015
+2016
+Percent of major crime team call-outs resolved within 12 months from date of call-out
+Actual
+94%
+91%
+91%
+88%
+93%
+Target
+93%
+93%
+93%
+93%
+93%
+How Are We Doing
+To measure the effectiveness and impact of Oregon State Police resources and detectives on major crime investigations, the Criminal Division tracks the resolution rate of cases within 12 months.
+The current target for resolving major crime investigations within 12 months from the date of callout is 93 percent.  The 2005 Ways and Means Committee suggested an upward revision of this
+performance metric’s target to 75 percent for 2006-07 and 85 percent in continuing years.  In 2007, the Oregon Legislature suggested another upward revision of the target to 92 percent for 2008
+and 93 percent for continuing years given the Criminal Division exceeded a 90 percent resolution rate the three previous years.
+Between January and December of 2014, Major Crime Section detectives responded to 120 major crime team call-outs across the state.  Of those, 111 were resolved within 12 months for a
+resolution rate of 92.5 percent (
+2014 is the most recent data available
+).
+From 2008 to 2009, there was a 10 point increase in the resolution rate.  The 93 percent target established for calendar year 2009 was exceeded with a resolution rate of 94 percent.  A resolution
+rate of 94 percent was achieved again in 2010, slightly exceeding the 93 percent target for a second consecutive year.  In 2011, the target was narrowly missed as the resolution rate was 91
+percent.  For 2012 the resolution rate was 91 percent, again narrowly missing the 93 percent resolution rate, and in 2013 the resolution rate was 88 percent.
+Factors Affecting Results
+The complex nature of major crime investigations, the availability of resources in relation to the scope of the investigation, and the geographical location of the investigation team may impact the
+result of this performance measure.  Other contributing factors are attrition to our workforce, and an increased role in Oregon’s distressed timber counties.  For instance, in June 2012, the
+Josephine County Sheriff’s Office began referring a large portion of all their criminal investigations.  The Oregon State Police’s Southwest Region saw an increase of 35 percent in Major Crime
+Team callouts from 2011 through 2014.
+KPM #7
+Crime Reduction
+- Number of Dismantled or Disrupted Drug Trafficking Organizations (DTO's).
+Data Collection Period: Jan 01
+- Dec 31
+Metric
+2012
+2013
+2014
+2015
+2016
+Number of Drug Trafficking Organizations Dismantled / Disrupted
+Actual
+No Data
+No Data
+Target
+TBD
+TBD
+How Are We Doing
+Since 2011, the Oregon State Police Drug Enforcement Section has been tracking data related to the dismantling or disruption of DTO’s, where the Department is involved.  The definition of what
+constitutes a DTO and whether it has dismantled or disrupted, has been standardized by the President’s Office of National Drug Control Policy (ONDCP).  To determine this KPM’s target, the
+average number of DTO’s dismantled or disrupted by drug task forces with OSP involvement since 2011 was calculated, resulting in a target of 20 DTO’s per year.
+The number of DTOs OSP assisted in dismantling or disrupting increased from 22 in 2013 to 30 in 2014 and remained at 30 for 2015.
+Factors Affecting Results
+Task forces vary in their mission and focus to target street-level, mid-level or upper-level drug investigations.  Mid to upper-level narcotic investigations, focusing on DTO’s, are more complex and
+longer in duration, while street level investigations tend to be direct in nature and short-term.  The increase in DTO’s dismantled or disrupted can be attributed to the on-going, widespread,
+consistent and reinforced knowledge of the definition of a DTO that has been standardized by the ONDCP.  A concerted effort has been made by drug task forces to accurately capture data based
+on the standardized DTO criteria and submit documentation to HIDTA and/or the appropriate law enforcement reporting agency reflecting their efforts and end results.  In addition, OSP has had a
+consistent, tenured presence on drug task forces statewide, particularly those larger in size, that have a greater case volume and are focused on higher level illegal drug activity.
+KPM #8
+Forensic Analysis
+- Percentage of analytical requests completed within 30 days or less.
+Data Collection Period: Jan 01
+- Dec 31
+Metric
+2012
+2013
+2014
+2015
+2016
+Percentage of analytical requests completed within 30 days
+Actual
+No Data
+No Data
+49%
+36%
+28%
+Target
+TBD
+TBD
+50%
+53%
+56%
+How Are We Doing
+Timely forensic analysis is critical to successful criminal investigations and the efficient administration of the criminal justice system.  National standards define forensic “backlogs” of submissions as
+any analytical request that has not been completed within 30 days.  The goal is to have 80 percent of all analysis completed within 30 days of receipt by the year 2023.  To reach our goal, the
+turnaround time needs to be improved by approximately 7 percent annually beginning in 2016.
+In 2013, the percentage of analytical requests completed in 30 days was 49 percent.  The percentage completed within 30 days decreased to 36 percent in 2014 and to 28 percent in 2015.  The
+Division is trending away from the KPM’s target even as other measures of efficiency are showing steady and significant improvement.  For example, the processing time per request has dropped
+from 3 hours 30 minutes in 2013, to 3 hours in 2014, to only 2 hours 45 minutes in 2015. In fact, in 2015 the Division completed 3,589 more requests in 8,157 fewer analytical hours as compared to
+2013.  We are processing more requests in fewer hours, but are trending downward against the target due to staffing shortages and increasing work volume.
+Factors Affecting Results
+The Division is experiencing a steady increase in analytical requests.  There were 25,138 requests in 2013, 28,533 requests in 2014, and 28,727 requests in 2016.  Analytical request volume has
+increased 14 percent since 2013, even with the rejection of most DNA property case work.
+The Division continues to be impacted by changes in the forensic sciences, emerging drug trends, training new staff and the ability to keep pace with new technology.  Evolving changes in
+submission practices of Sexual Assault Kits by law enforcement agencies will require a continuing shift in resources and focus.  Backlogs in the forensic disciplines of Chemistry, Biology and DNA
+are expected to continue increasing for much of the next year.
+The methodology the division used to calculate its turnaround time changed in April of 2014.  Prior to April 2014, when a piece of evidence was submitted to the division, the turnaround time was
+calculated using the length of time it took to perform each forensic analysis discipline separately.  Beginning in April 2014, the turnaround time has been calculated from when the evidence is
+submitted to the division to when all analysis has been completed and the results have been provided to the customer.  This had two adverse effects: it increases overall average turnaround time
+and it biases the data in favor of cases in the “over 90 day” category.
+KPM #9
+Identification Services Turn Around Time
+- Average number of calendar days, from the date of receipt of criminal justice fingerprint cards by the Identification Services Section, until the
+criminal justice data is posted into the Computerized Criminal History (CCH) Files.
+Data Collection Period: Jan 01
+- Dec 31
+Metric
+2012
+2013
+2014
+2015
+2016
+Average number of calendar days from the receipt of criminal justice fingerprint card, until posted into the CCH file
+Actual
+Target
+How Are We Doing
+Historically, the Oregon State Police’s ability to meet this performance measure’s target solely depended on staff resources in the CJIS Division.  In 2005, the turnaround target was 8 days, but the
+implementation of automated transmissions in 2008 and 2009 resulted in the turnaround target being reduced to 4 days (beginning with calendar year 2009).  For calendar year 2015, the manual
+card processing turnaround target of 4 days was met and exceeded as the CJIS Division achieved an average turnaround time of 3.9 days.
+Factors Affecting Results
+Staffing levels and agencies use of livescan technology have a direct effect on our performance results, as does the availability of our infrastructure systems.  Agency submissions through livescan
+significantly improve the Department’s ability to provide real-time results.  One-hundred percent of Oregon’s county jail facilities use livescan technology to submit their arrest fingerprint cards, with
+a growing number of local police departments also acquiring livescan technology.  All agencies using livescan devices submit fingerprints using the automated process.  However, there continue to
+be instances where manually captured prints are necessary.  There were a total of 4,467 manually submitted arrest fingerprint cards for 2015, which is approximately 3.28 percent of the total arrest
+card submissions.
+KPM #10
+Property Protection
+- The percentage of threatened residential and commercial properties saved from destruction by an approaching wildfire after initiation of operations by OSFM
+mobilized resources.
+Data Collection Period: Jan 01
+- Dec 31
+Metric
+2012
+2013
+2014
+2015
+2016
+Percentage of threatened structures saved from approaching wildfires by OSFM mobilizations
+Actual
+No Data
+No Data
+No Data
+99.70%
+95.40%
+Target
+TBD
+TBD
+TBD
+100%
+100%
+How Are We Doing
+The goal is to save 100 percent of the threatened structures after the initiation of operations by OSFM mobilized resource once a Declaration of Conflagration is enacted.  Priority is given to
+residences, then to commercial structures, and then to outbuildings.  The 2015 wildland fire season was very active across the western United States.  OSFM responded to five declared
+conflagrations and a fire on land held by the Bureau of Indian Affairs.  The fires OSFM was mobilized to were the Stouts Fire, County Line 2 Fire, Cornet/Windy Ridge Fire, Canyon Creek Complex,
+Grizzly Bear Complex, and Dry Gulch Fire.  Resources from 21 counties were mobilized to protect threatened structures during the 2015 fire season at a cost of $8.3 million to protect 2,590
+threatened structures with an estimated value of over $295 million.  The success rate of protecting threatened structures during the 2015 season was 95.4 percent.
+Factors Affecting Results
+The primary factors affecting the results of this measure are the location of the fire, the weather conditions of the area, the speed and effectiveness of the initial fire responses, and the
+determinations made by the involved county’s Fire Defense Board Chief and local Incident Commander.  There is an unavoidable time lag from when the fire is discovered, to the Declaration of
+Conflagration and the necessary resources are mobilized and arrive at the incident.  Deployed resources must also be organized and briefed once at the scene.  During this lag the wildland fire
+continues to progress with only the local and mutual aid resources working to impede its destructive progression.
+Because firefighter and public safety remains the number one priority, there are times when it is deemed operationally unsafe to aggressively defend structures.  Access, construction, and location
+can all make a structure unsafe to defend during an active firefight.  Sometimes fire personnel must pull back and wait until the fire front has passed before they return.
+Ultimately, a variety of factors including the size and rate of advancement of the fire will be the determining factor affecting the results of this key performance measure.  Recent fires in California,
+Washington, Idaho and Montana have resulted in catastrophic losses in the number of residences destroyed by the fast-moving wildland fires.  The hazards and vulnerabilities faced in these other
+states are similar to those in Oregon.
+KPM #11
+RESIDENTIAL FIRE DEATH RATE:
+- Number of Oregonians per capita that die in a residential fire.
+Data Collection Period: Jan 01
+- Dec 31
+Metric
+2012
+2013
+2014
+2015
+2016
+Number of fire fatalities per million (Numbers exclude vehicle, homicides, suicides, and other nonresidential fire deaths)
+Actual
+No Data
+4.40
+5.10
+4.80
+Target
+TBD
+6.40
+6.10
+4.08
+4.08
+How Are We Doing
+The target for this performance measure is based on national data.  The Oregon State Fire Marshal’s goal is to achieve and maintain a residential fire death rate that positions Oregon among the
+states which have the twelve lowest fire death rates in the nation.  The target is calculated by averaging five most recent available years of unintentional residential fire death rates by state.  Using a
+five-year average, instead of single-year data, to calculate the target lessens the impact of an unusually low or high rate for a single year.  The five-year data (2009-2013), cites the United States
+residential fire death rate average as 5.13 and the average of the twelfth lowest as 4.08, which is Oregon’s target for 2015. The residential fire death rate for 2015 was 4.0, exceeding the target
+(4.08) by 2 percent.
+Factors Affecting Results
+A complex set of variables influence whether a fire incident results in a fatality.  The fatality data is contributed by responding fire departments from across the state, all of which have varying
+protection capacities.  The Office of State Fire Marshal provides resources to increase prevention capabilities of local responders.  The OSFM Analytics & Intelligence Unit’s analysis of fatal fires
+considered fire cause, location, time, property characteristics, victim demographics and socioeconomics, human factors, smoke alarm presence, and sprinkler presence.  Fire prevention and life
+safety education are critical to reducing the number of fire deaths.  Socioeconomic, cultural, cognitive, and educational influences affect an individual’s ability to understand how to prevent fires in
+their residences.  Cultural differences prevent understanding of the life-saving capacity of smoke alarms and in-home fire prevention habits.  Older and low-income housing is less likely to have a
+sufficient number of working smoke alarms.  The OSFM works to address these issues in its fire prevention and life safety education programs.  In addition, key regulations regarding smoke alarms
+(OAR 837.045), fire standard compliant cigarettes (OAR 837.035), and novelty/toylike lighters (OAR 837.046) were put in place with the intent of reducing fires, injuries, and fatalities.  Still, the
+biggest factor affecting the results in this area is the awareness and behavior of the individuals in and around a residence that catches fire.
+KPM #12
+Customer Satisfaction - Percent of customers rating their satisfaction with the agency customer service as “good” or “excellent”: overall customer service, timeliness, accuracy,
+helpfulness, expertise and availability of information.
+Data Collection Period: Jan 01
+- Dec 31
+Metric
+2012
+2013
+2014
+2015
+2016
+Expertise
+Actual
+95%
+No Data
+92%
+No Data
+95%
+Target
+88%
+TBD
+88%
+TBD
+88%
+Overall
+Actual
+90%
+No Data
+87%
+No Data
+81%
+Target
+88%
+TBD
+88%
+TBD
+88%
+Accuracy
+Actual
+90%
+No Data
+90%
+No Data
+86%
+Target
+88%
+TBD
+88%
+TBD
+88%
+Helpfulness
+Actual
+91%
+No Data
+98%
+No Data
+91%
+Target
+88%
+TBD
+88%
+TBD
+88%
+Availability of Information
+Actual
+76%
+No Data
+79%
+No Data
+72%
+Target
+88%
+TBD
+88%
+TBD
+88%
+Timeliness
+Actual
+74%
+No Data
+82%
+No Data
+73%
+Target
+88%
+TBD
+88%
+TBD
+88%
+How Are We Doing
+The most recent survey results showed the Oregon State Police (OSP) improved in one of the six customer satisfaction categories when compared to 2014 data (“Expertise”).  Declines in “Overall”
+(87 percent to 81 percent), “Accuracy” (90 percent to 86 percent), “Availability of Information” (79 percent to 72 percent), “Helpfulness” (98 percent to 91 percent), and “Timeliness” (82 percent to
+73 percent) were demonstrated when compared to 2014 data.  Only two of the six criteria managed to exceed the performance measure’s target of 88 percent.
+One positive reoccurring theme received was how dedicated and hard OSP staff worked to deliver quality services – given the available resources.  The agency will continue to strive to train and
+equip staff, to protect and serve the people of Oregon.  A number of the comments received stated the agency did a great job with the available resources, but more resources were needed to
+adequately meet the demand.
+Factors Affecting Results
+Our key stakeholders indicated they greatly value our expertise and helpfulness (both are above the 88 percent target).  Generally speaking, evaluation of the respondents’ comments revealed
+they were generally satisfied with the Oregon State Police, but perceived the agency has having too few resources and/or services to adequately meet the public safety sector’s needs.  This
+perception caused some respondents to indicate they were unsatisfied / concerned with the agency’s capability to deliver the necessary services.  “Availability of Information,” “Accuracy,” and
+“Timeliness” are three criteria that are directly related to adequate infrastructure, such as updated technology for timely processing and reporting of law enforcement information and technical staff
+to process and report the information in a timely manner.  Consequently, these factors affected the satisfaction level of the “Overall” quality of services.

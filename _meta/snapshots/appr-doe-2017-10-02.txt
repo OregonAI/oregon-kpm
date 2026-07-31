@@ -1,0 +1,735 @@
+Energy, Department of
+Annual Performance Progress Report
+Reporting Year 2017
+Published: 10/2/2017 2:55:38 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+ENERGY SAVINGS AND PRODUCTION - Annual energy savings and production from the agency's programs.
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+APPLICATION PROCESSING
+- Percent of applications reviewed and approved within administrative or statutory deadlines.
+ENERGY USE BY STATE BUILDINGS - Electrical and fossil fuel energy use in state owned buildings by use type and building area.
+GREENHOUSE GAS CONTENT OF OREGON'S ELECTRICITY AND STATIONARY FUEL - Greenhouse gas emissions per unit
+TRANSPORTATION FUELS USED IN OREGON - Percentage of petroleum vs non-petroleum fuels used for transportation in Oregon: a) On-road fuel and b) Non-road fuel.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+20%
+60%
+20%
+red
+green
+yellow
+KPM #1
+ENERGY SAVINGS AND PRODUCTION - Annual energy savings and production from the agency's programs.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2013
+2014
+2015
+2016
+2017
+Total of Programs
+Actual
+3,247
+2,668
+2,789
+2,765
+2,309
+Target
+2,852
+Energy Incentive Programs
+Actual
+2,925
+2,490
+2,641
+2,641
+2,130
+Target
+2,700
+Small-Scale Energy Loan Program
+Actual
+Target
+Public Buildings
+Actual
+Target
+Residential Programs
+Actual
+Target
+How Are We Doing
+Results.
+In 2017, the Legislature set energy saving targets for programs. For this reporting year, ODOE is meeting the energy saving targets for the Residential Energy Tax Credit program. The
+agency has taken a conservative approach to energy efficiency accounting to avoid over- or double-counting efficiencies supported by other non-state entities. Over the years, RETC has helped
+drive market changes in appliance efficiency; as the market has more fully adopted energy efficient appliances, statute and the program have been adjusted to provide support for newer and/or
+emerging technologies resulting in an upswing in renewable energy projects, specifically solar photovoltaic. The department regularly updates program rules to better reflect changing marketing
+actual target
+conditions and support greater energy savings. At the same time, agency staff are preparing for the program sunset at the end of the 2017 tax year.
+The energy savings in public building target is also being met. Following statutory changes, the State Energy Efficient Design program includes a smaller number of participants. Even without the
+inclusion of Oregon universities in the SEED totals, the program helped state agencies meet energy savings goals ahead of schedule in 2015. ODOE’s Energy Incentives Program includes
+incentives for larger conservation and transportation projects and for “small premium projects,” which are energy conservation projects under $20,000 in total costs. It also includes the Biomass
+Producer or Collector tax credit Program and Renewable Energy Grants, which are funded by tax credit auctions to provide grants for renewable energy generation. Those programs, along with the
+Small-Scale Energy Loan Program, are not meeting energy saving targets. The tax credit programs already operate under a cap, and participation has been limited in part due to the programs
+ending with the 2017 tax year. The biomass energy measurement was adjusted to better account for the energy produced. These programs, however, continue to support energy savings. The
+Small-Scale Energy Loan Program is not currently making new loans, so no new energy savings can be reported.
+About the Target.
+ODOE’s conservation, transportation, and renewable energy programs help tribal governments, Oregon businesses and nonprofits, state and local governments, and residential
+consumers. Program participants include landlords and renters, farmers, and industries looking to save energy and reduce the use of fossil fuels. Among many benefits, these programs help save
+money and reduce CO2 emissions. Specific conservation and renewable energy programs are designed to complement other ODOE programs and the work of external stakeholders to help Oregon
+meet energy load growth with conservation and efficiency. ODOE’s energy savings programs include residential tax credits and the State Home Oil Heating and Weatherization program – both of
+which first took off in the early 1980s. ODOE’s commercial programs include the Biomass Producer and Collector tax credit (begun in 2010), Renewable Energy Development grants, and
+conservation and transportation tax credits. The Energy Incentives Program, launched in 2012, has biennial caps on the amount of tax credits awarded. Other programs contributing to this KPM
+have caps as well, including the State Home Oil Weatherization program.
+Factors Affecting Results
+Background.
+The Energy Incentive Program is capped, which limits the number of participants and number and size of eligible projects. Changes made to ODOE’s Residential Energy Tax Credit
+program give ODOE the ability to calibrate incentives to market conditions – incentives will be capped at 50 percent of incremental costs. ODOE works closely with other program providers and
+stakeholders to make combined incentives from programs more cost effective.
+Exploring new methods for tracking energy savings from activities that emerge as the agency pursues new and innovative ways to advance Oregon’s energy priorities may also help ensure
+continued growth in ODOE’s energy savings results.
+How We Compare.
+The Oregon Energy Action plan calls for conservation and energy efficiency programs to meet 100 percent of the state’s electricity load growth. In 2016, programs in the state
+reported 533,315 MWH of electric savings from ODOE programs, Energy Trust of Oregon, the Northwest Energy Efficiency Alliance and Bonneville Power Administration-served utilities. ODOE
+programs complement these programs with a statewide offering for tax credits and grants, augmenting utility program incentives and helping move the market to energy efficiency and renewable
+energy. ODOE continually modified programs to meet savings goals. The Regional Power Plan expects load growth to continue to be met with energy efficiency if programs statewide maintain their
+current pace. The American Council for an Energy Efficient Economy ranked Oregon seventh in 2016 – marking ten consecutive years in the top ten of the State Energy Efficiency National
+Scorecard. See
+www.aceee.org/state-policy/scorecard
+for more information.
+About the Data.
+Energy savings is defined as the total estimated energy saved, produced, or displaced by department programs. The data is for the prior calendar year; therefore, the 2017 KPM
+for energy savings and production is for projects certified in calendar year 2016. The agency reports in billion Btus. Where program guidelines do not require specific, proven energy savings, data
+are industry-standard estimates. Large projects with performance requirements must prove energy savings estimates with metered actual energy billing and use data.
+KPM #2
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise,
+availability of information.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2013
+2014
+2015
+2016
+2017
+Timeliness
+Actual
+85%
+No Data
+83%
+No Data
+89%
+Target
+95%
+95%
+95%
+95%
+95%
+Helpfulness
+Actual
+84%
+No Data
+85%
+No Data
+90%
+Target
+95%
+95%
+95%
+95%
+95%
+Expertise
+Actual
+86%
+No Data
+86%
+No Data
+90%
+Target
+95%
+95%
+95%
+95%
+95%
+Availability of Information
+Actual
+83%
+No Data
+81%
+No Data
+81%
+Target
+95%
+95%
+95%
+95%
+95%
+Overall
+Actual
+86%
+No Data
+85%
+No Data
+89%
+Target
+95%
+95%
+95%
+95%
+95%
+Accuracy
+Actual
+87%
+No Data
+86%
+No Data
+91%
+Target
+95%
+95%
+95%
+95%
+95%
+How Are We Doing
+actual target
+Results.
+ODOE conducted an online survey in 2017. Results represent the sum of all customer feedback, with no weighting by category. All but one category showed an improvement over the last
+two biennia, and two categories – “Accuracy” and “Helpfulness” – had ratings above 90 percent. While the average satisfaction rate for all service categories is nearly 89 percent, that is below the
+target goal of 95 percent.
+About the Target.
+The target of 95 percent for all service categories was set in 2009 by the Legislature. Customer service is an integral part of ODOE’s work and an essential component of
+meeting the agency’s mission and division goals. For day-to-day operations, the agency defines “customer” broadly – from community stakeholders to industry representatives to internal team
+members. For the sake of this KPM, ODOE surveys external customers once a biennium using the standard customer service questions and process guidelines.
+Factors Affecting Results
+Background.
+To improve the quality of interactions with customers, the agency regularly presents to trade and industry groups, meets with local and municipal governments, and participates in
+public outreach events. In January 2017, the agency launched a new, mobile-friendly website and continues to operate a blog and several social media accounts. Further, the agency continues to
+prioritize the importance of strong customer service from all employees, with a focus on recruiting strong candidates and improving desk manual procedures and documentation to provide more
+stability and awareness.
+How We Compare.
+Comparing ODOE’s methodology to other non-governmental organizations reveals some differences. ODOE surveys once per biennia, whereas other entities survey customers
+soon after they complete projects. ODOE can learn from this methodology for the future by timing surveys to occur soon after customers interact with ODOE staff and by analyzing data to see if
+there are lessons to be learned about ODOE programs and engagement strategies.
+About the Data.
+The survey is comprised of results from individual surveys conducted in each of the department’s four divisions that provide services to energy customers and stakeholders.
+Survey results also being carefully reviewed, and interviews set up with people who agreed to post-survey follow-up, for additional guidance.
+KPM #3
+APPLICATION PROCESSING
+- Percent of applications reviewed and approved within administrative or statutory deadlines.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2013
+2014
+2015
+2016
+2017
+Energy Facility Siting:
+Percent of new applicants notified within 60 days of application completeness
+Actual
+100%
+100%
+100%
+100%
+100%
+Target
+100%
+100%
+100%
+100%
+100%
+Energy Incentive Programs: Percent of Final Applications Processed within 60 Days
+Actual
+79%
+55%
+84%
+54%
+68%
+Target
+100%
+100%
+100%
+100%
+100%
+Residential Energy Tax Credit (RETC)-Percent of applications processed within 60 days
+Actual
+97%
+93%
+98%
+91%
+83%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+Results.
+The Energy Facility Siting division met this target. The target was not met in the Energy Development Services division. For the Energy Incentive Program, the agency saw improvement in
+2016 results. Percentage of applications processed within 60 days decreased for the RETC program.
+About the Target.
+Part of the agency’s commitment to stakeholders is providing reliable resources and services. To measure this, ODOE monitors application processing timeliness for Energy
+Facility Siting and Energy Incentive Programs to identify delays and make improvements to turnaround times. This measure contains three parts:
+a) Energy Facility Siting: percent of new energy facility applicants notified by ODOE within 60 days of application receipt on whether application is complete.
+b) EIP: percent of final applications processed within 60 days of receipt of a complete final application.
+c) RETC: percent of applications approved or denied within 60 days of receipt of a complete application for a final certificate.
+actual target
+Factors Affecting Results
+Background.
+The incentive programs are scheduled to sunset at the end of the 2017 tax year. The department will look to technological solutions to improve processing times commensurate with
+the remaining life of the programs. ODOE uses two separate systems to process solar PV applications. As of this submission, 74 percent of PowerClerk applications acheived the target in 2015 and
+81 percent in 2016. The internal RETC applications experienced a drop in this metric, mostly due to staffing levels.
+About the Data.
+The reporting cycle for this measure is by calendar year. The data for the energy facility siting measures represents actual processing time data for all applications received during
+the reporting period. The EIP and RETC measures are likewise based on actual data. ODOE enters the date the application is received and date approved for all tax credit applications in its
+databases and pulls reports that compare actual processing timeframes to targets. The current tracking system does not take into consideration the length of time that an EIP application may be on
+hold due to it being incomplete.
+KPM #4
+ENERGY USE BY STATE BUILDINGS - Electrical and fossil fuel energy use in state owned buildings by use type and building area.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = negative result
+Report Year
+2013
+2014
+2015
+2016
+2017
+Energy Use by State Buildings
+Actual
+No Data
+No Data
+No Data
+52.349
+46.515
+Target
+TBD
+TBD
+How Are We Doing
+Results.
+ODOE helped state agencies meet this target for the reporting year. To make informed energy efficiency investment decisions, state agencies need data about energy use in their
+buildings. ODOE has developed a comprehensive dataset for baseline energy use in state-owned facilities with the goal of improving data quality and reliability over time. In 2015, 20 state agencies
+reported building or meter level energy use into the EPA ENERGY STAR® Portfolio Manager platform, which established facility baseline energy use. Energy use in 2016 was compared against the
+baseline, and ODOE provided each agency with a report card to identify buildings exceeding the target energy use index (EUI). With this information, agencies can prioritize facilities for energy use
+reduction, as resources allow.
+About the Target.
+ODOE has developed a target for office buildings, shown in the chart, based on the American Society of Heating, Refrigerating, and Air-conditioning Engineers (ASHRAE) high-
+performance energy use index (EUI). EUI is a common industry metric for evaluating building energy use and is represented in units of kBtu/square foot/year. The EUI targets enable agencies to
+compare the energy used by an individual building to similar type buildings in the state or region. Agencies can evaluate buildings using more energy than the target EUI to determine if the higher
+level of energy use is warranted by a building’s characteristics or use profile. ODOE provides technical assistance, if requested, to help agencies identify solutions to lower energy use over time and
+reach target EUI levels. Each agency will determine the energy efficiency methods it will pursue, and ODOE supports this decision-making by providing agencies with reliable building energy use
+information.
+ORS 276.915 requires state agencies to track annual energy use at the agency level. Agencies are now reporting more detailed facility-level data to identify additional opportunities for energy
+savings. Participating agencies entered 2015 energy use for state-owned buildings that are more than 5,000 square feet into the EPA ENERGY STAR® Portfolio Manager platform. For 2016,
+agencies reported a total of 1,489,293 million Btu, representing a total 17,738,208 square feet. All 20 agencies that own facilities have completed entry of 2015 and 2016 data.
+actual target
+Not all building types have high-performance target EUIs. State owned buildings without a EUI target make up 59 percent of the total square footage and use 72 percent of the total energy. Of the
+state-owned facilities with target EUIs, offices represent 46.1 percent of that total energy use. Other-services buildings comprise 9.5 percent and laboratories make up 12 percent of that total energy
+use. Libraries, distribution centers, repairs shops, senior care facilities, and hospitals combine to represent the remaining 32.4 percent of the energy use in buildings with target EUIs. For all state
+buildings with target EUIs, 63 percent are at or below the high-performance target and 37 percent are over the target EUI.
+Factors Affecting Results
+Background.
+Not all state-owned buildings have building-level utility meters. Some facilities share a meter between two or more buildings, as in a campus or complex. Those situations complicate
+the ability to track energy use at the building level. In such situations, utility use needs to be pro-rated by building square footage and may not give an accurate picture of building performance.
+Additionally, utility data is manually reported by agencies, which increases the need for data verification. Although some agencies have facility level personnel with energy management skills, many
+agencies assign the reporting duties as an add-on to clerical duties. ODOE works with all agencies to maintain data integrity.
+Regarding energy consumption and performance, there are many factors that can impact EUI results. Energy efficiency projects and conservation measures can improve energy performance. Other
+facility characteristics such as occupancy, operating hours, functions, and equipment can affect energy use. Other external factors, such as weather, can also impact energy use. ODOE will provide
+technical assistance, when requested, to help an agency better understand the factors that have the most significant impact on a facility’s energy consumption.
+ODOE provides a progress report to agencies with information about how each of its facilities compares to similar type buildings. Agencies with buildings that exceed their target may investigate
+further to determine if the higher energy use is justified. For those buildings where a satisfactory explanation is not found, ODOE will work with the agency, if requested, to identify opportunities for
+energy reduction, such as continuous commissioning in which building managers routinely track building equipment operating conditions, setpoints, and energy use in order to maintain peak
+performance. ODOE will provide expert technical assistance to help agencies identify energy improvements.
+How We Compare.
+Other states in the region require state-owned facilities to report building energy use into EPA ENERGY STAR® Portfolio Manager. Minimum square footage that triggers
+reporting varies between states, as do disclosure requirements.
+California Executive Order (EO) B-18-12 mandates that state energy and water use be benchmarked and reported as of 2013. The goal is to reduce energy use by 20 percent by 2018. Thirty-five
+departments report under EO B-18-12. Washington, through EO 12-06, has required state agencies, colleges, and universities to track and report energy use in buildings over 10,000 square feet
+since 2012. Energy use is reported using EPA ENERGY STAR® Portfolio Manager. The Department of Enterprise Services posts the energy use for public viewing.
+In April 2014, the governor of Montana directed state agencies to begin monitoring energy use in state buildings and to begin publicly disclosing the energy numbers online. The listings will
+eventually encompass state buildings and facilities of 5,000 square-feet or larger. Idaho does not have benchmarking requirements for state buildings.
+About the Data.
+In January 2015, state agencies began reporting energy use at the building level into EPA ENERGY STAR® Portfolio Manager. Prior to that, agencies reported aggregated annual
+agency energy use into an ODOE database. As agencies become more familiar with reporting energy use data into the database, they are refining their data input and building category
+designations. By tracking annual energy use, agencies will see how their buildings are performing over time and then can determine if operational adjustments are needed, or can prioritize buildings
+for future retrofits.
+Building performance is typically measured in EUI (Energy Use Index), in units of kBtu/square foot/year. Electrical and fossil fuel annual energy use data is converted into common units (British
+thermal units or Btu) and combined with building square footage to calculate EUI. The ASHRAE target is a EUI value that represents high performance by building type.
+KPM #5
+GREENHOUSE GAS CONTENT OF OREGON'S ELECTRICITY AND STATIONARY FUEL - Greenhouse gas emissions per unit
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2013
+2014
+2015
+2016
+2017
+Electricity used in Oregon
+Actual
+0.395
+0.407
+0.441
+0.429
+0.444
+Target
+0.152
+0.152
+0.152
+0.152
+0.152
+Electricity generated in Oregon
+Actual
+0.121
+0.121
+0.158
+0.138
+No Data
+Target
+0.152
+0.152
+0.152
+0.152
+0.152
+The mix of other stationary fuels used in Oregon
+Actual
+0.058
+0.057
+0.057
+0.059
+No Data
+Target
+0.036
+0.036
+0.036
+0.036
+0.036
+The mix of other stationary fuels produced in Oregon
+Actual
+No Data
+No Data
+No Data
+No Data
+No Data
+Target
+How Are We Doing
+KPM 5a & 5b
+Results.
+Overall, the greenhouse gas intensity from Oregon’s electricity consumption decreased from 0.53 tons/MWh in 2005 to 0.44 tons/MWh in 2015. Utilities in Oregon are currently meeting the
+2015 RPS targets and are on track to meet the 2025 targets. The RPS targets for 2040 will drive further reduction in the greenhouse gas intensity of the electricity resource mix in the coming years.
+Further analysis is necessary to determine how these reductions compare to the 2035 interim target or the 2050 goal set in ORS 468A.205.
+The greenhouse gas intensity of Oregon’s energy production is close to the 2035 interim target that was calculated based on Oregon’s energy consumption. This is because of the state’s
+significant in-state hydro and wind generation. This carbon intensity will continue to improve as in-state electricity derived from coal generation is phased out by the end of 2020. Year to year
+actual target
+changes in the greenhouse gas intensity of Oregon’s energy production are mainly affected by fluctuating water resources available for hydropower generation.
+Thanks to highly effective energy efficiency programs, Oregon’s total energy consumption has grown by only about two percent over the last decade despite population growth of about 10 percent.
+In its Seventh Power Plan, adopted in February 2016, the Northwest Power and Conservation Council forecasts that energy efficiency will meet the region’s future load growth over the next 20
+years. While new generation may be needed in some individual utility service districts, the Power Council found that energy efficiency is the most cost-effective resource option for the region.
+About the Target.
+The electricity sector includes all in-state and out-of-state generation that serves Oregon’s load. This includes electricity provided by investor-owned utilities, consumer-owned
+utilities, and independent power producers. In 2015, this sector accounted for approximately 29 percent of all greenhouse gas emissions in Oregon.
+Emissions from electricity generation can be reduced in two ways: implementing energy efficiency and conservation measures to reduce the amount of electricity required to be generated and
+shifting generation to lower carbon and renewable resources to reduce the greenhouse gas intensity (emissions per unit of energy) of the electricity resource mix. Both of these approaches are
+used in Oregon to reduce greenhouse gas emissions and achieve other energy and environmental benefits in the electricity sector.
+Oregon has comprehensive and long-standing energy efficiency and conservation policies and approaches to improve efficiency, reduce electricity consumption, and meet load growth with
+conservation instead of new generation. With load growth met by efficiency and conservation, utilities can target retirement of older generation facilities and phasing in cleaner energy production.
+ODOE implements statewide incentive and technical assistance programs for energy efficiency in buildings and industry, and supports ongoing improvements in building energy codes and
+standards. The department also collaborates on energy efficiency programs and analysis with consumer-owned utilities, the Bonneville Power Administration, the Energy Trust of Oregon, investor-
+owned utilities, the Northwest Power and Conservation Council’s Regional Technical Forum, and industry and public stakeholders.
+The greenhouse gas intensity of the electricity resource mix is expressed as metric tons of carbon dioxide (CO
+) per Megawatt Hour (MWh)
+. A significant portion of Oregon’s electric load has been
+served historically by zero-carbon hydropower. The major driver to further reduce the greenhouse gas intensity of electricity consumed is the state Renewable Portfolio Standard (RPS), which sets
+renewable energy requirements for the state’s utilities. The Oregon RPS requires large utilities to sell 50 percent of their electricity from qualifying renewable energy sources by 2040; smaller
+utilities have lesser requirements. Green power and other voluntary programs also increase the mix of renewable resources used to meet Oregon’s electric load. In effect, these programs will lower
+the greenhouse gas emissions of the average megawatt hour produced. ODOE supports this work by providing technical assistance for renewable energy projects, certifying eligible resources for
+the RPS, reporting the electricity resource mix annually, and participating in statewide energy policy development work.
+The greenhouse gas intensity of electricity
+produced
+in the state is much lower than the
+consumption
+value because a substantial portion of the electricity generation in Oregon is from hydropower
+and other low carbon renewable resources. Oregon has only one coal-fired power plant, located in Boardman, which is scheduled to stop coal combustion at the end of 2020. Additional generation
+comes from natural gas-fired power plants, which have about half the greenhouse gas intensity of coal-fired generation. New fossil-fuel fired power plants sited in Oregon are required to meet a
+carbon dioxide standard that encourages highly efficient and lower-emitting generating resources by requiring offsets for emissions above the standard.
+While a sector-specific target has not been formally set for the greenhouse gas intensity of electricity, ODOE has derived an interim target for purposes of this report from the greenhouse gas
+reduction goals in ORS 468A.205 and utility projections of future load. This target represents the greenhouse gas intensity that Oregon’s electricity resource mix would need to reach in 2035 for the
+sector to achieve its proportional share of the state’s overall emission reduction goal. Depending on the reductions that can be achieved in other sectors, the electricity sector may need to achieve
+more or less than this target to meet the state’s overall goals in the future.
+In 2015, the Oregon Global Warming Commission (OGWC) developed an interim greenhouse gas reduction goal for 2035, which is interpolated between the goals for 2020 and 2050 set in ORS
+468A.205. Meeting this goal would require a 42.5 percent decrease in total greenhouse gas emissions from 1990 levels. If the electricity sector achieved an equivalent reduction from 1990 levels,
+emissions in 2035 would be 9.5 million metric tons CO
+. Dividing this by the utility forecast of 2035 load yields an interim target of 0.151 tons of CO
+/MWh.
+[2]
+This target could change if forecast
+load changes due to conditions identified below under
+Factors Affecting Results
+. Again, there is no requirement for the electricity sector to meet this target, and technological barriers may limit the
+ability of any individual utility or electricity service supplier to achieve this level of greenhouse gas intensity. Nevertheless, the interim target provides a point of reference for comparison to the trend
+in greenhouse gas intensity from Oregon’s electricity consumption. This same target can provide a point of reference for comparison to the greenhouse gas intensity of electricity produced in
+Oregon and consumed in the western region.
+[1]
+The data used in this report reflect only carbon dioxide emissions and do not include emissions of other greenhouse gases at this time.
+[1]
+[2]
+In its 2015 analysis of a hypothetical scenario to meet the state’s greenhouse gas reduction goals, the OGWC used a 2005 base year instead of 1990 for the electricity sector because of the
+impact of the closure of the Trojan nuclear facility in 1993. If the 2005 base year were used here, the 2035 interim target for the electricity sector would be 0.230 metric tons CO
+/MWh.
+KPM 5c & 5d
+Results.
+From 1990 to 2014, the carbon intensity of stationary fuel used in Oregon declined slightly but is well above the interim target for 2035. Most of the reduction came from a shift from
+petroleum to natural gas in the industrial sector which resulted in less GHG emitted per Btu due to natural gas’s lower carbon density. When coupled with energy efficiency measures, the result is a
+slight decrease in total emissions from industrial fuel use. This was partly offset by a slight increase in emissions for the residential and commercial sectors, driven primarily by population and
+economic growth.
+Looking to the future, the EIA energy use projections out to the year 2040 at the national scale, indicate only a slight increase in energy consumption for stationary fuels, with an increase of only 0.3
+percent annually. EIA predicts that residential energy use will decline due to conservation and efficiency, despite predicted population growth, and that commercial and industrial energy use will
+slightly increase. Much of the increased energy use is expected to be met with renewable energy sources, which will slightly reduce the carbon intensity of the fuel mix. EIA predicts that total CO
+emissions are expected to decline by an average of 0.2 percent per year in the residential sector, increase by 0.3 percent per year in the commercial sector, and increase by 0.5 percent per year in
+the industrial sector.
+About the Target.
+The stationary fuels sector includes all fuels used in Oregon other than fuel used for electricity generation and transportation. This includes fuel used for residential and
+commercial buildings and fuel used for manufacturing. Stationary fuel use typically includes heating of spaces and liquids, cooking, and industrial process heat. In 2014, this sector accounted for
+approximately 24 percent of all greenhouse gas (GHG) emissions in Oregon.
+Emissions from stationary fuel use can be reduced in two ways: implementing energy efficiency and conservation measures to reduce the amount of fuel combusted and shifting to lower carbon
+renewable fuels to reduce the carbon intensity (emissions per unit of fuel) of the stationary fuel mix. Currently, energy efficiency and conservation are the primary tools used to reduce fuel
+consumption and related emissions in this sector. This includes ODOE’s statewide incentive and technical assistance programs for building and industrial energy efficiency, utility energy efficiency
+programs, building energy codes, and industrial combined heat and power initiatives.
+The GHG intensity of the stationary fuel mix is expressed as metric tons of carbon dioxide equivalent (CO
+e) per British thermal unit (Btu)
+[1]
+. To reduce the GHG intensity of the fuel mix, the ODOE
+and others implement a variety of incentive and technical assistance programs to increase the mix of low- and no-carbon renewable fuels such as biomass, solar thermal energy, and renewable
+natural gas.
+GHG emissions from the production of stationary fuels in Oregon primarily come from methane leaks associated with natural gas production. Oregon is a relatively small producer of natural gas,
+totaling about 950 million cubic feet in 2014 from the Mist natural gas field in northwestern Oregon. Federal and industry programs are being developed to reduce methane releases from oil and
+gas production and distribution. Oregon does not currently mine coal or refine petroleum.
+While a sector-specific target has not been formally set for stationary fuels, ODOE has derived an interim target for purposes of this report from the greenhouse gas reduction goals in ORS
+468A.205 and the stationary fuel use forecast developed by the US Department of Energy’s Energy Information Administration (EIA). This target represents the carbon intensity that Oregon’s fuel
+mix would need to reach in 2035 for the sector to achieve its proportional share of the state’s overall emission reduction goal. Depending on the reductions that can be achieved in other sectors,
+the stationary fuel sector may need to achieve more or less than this target to meet the state’s overall goals in the future.
+In 2015, the Oregon Global Warming Comission (OGWC) developed an interim greenhouse gas reduction goal for 2035, which is interpolated between the goals for 2020 and 2050 set in ORS
+468A.205. Meeting this goal would require a 42.5 percent decrease in total greenhouse gas emissions from 1990 levels. If the stationary fuel sector achieved an equivalent reduction from 1990
+levels, emissions in 2035 would be 5.3 million metric tons CO
+e. Dividing this by the EIA forecast of stationary fuel use in 2035 yields an interim target of 0.036 metric tons/Btu. This target could
+change if forecast fuel use changes due to fuel prices, energy efficiency measures, changes in technology and other factors. Again, there is no requirement for the stationary fuel sector to meet this
+target, and technological barriers may limit the stationary fuel sector’s ability to achieve this level of carbon intensity. Nevertheless, the interim target provides a point of reference for comparison to
+the trend in carbon intensity from this sector.
+In July 2017 the Oregon Legislature passed SB 334, which requires ODOE to conduct a renewable natural gas resource inventory and to report the preliminary findings to the relevant legislative
+group by mid-September 2018. This inventory will provide an overview of current and potential RNG resources across the state, which will support the continued development of this less carbon-
+intense resource. RNG resources have carbon intensities that are significantly lower than fossil-based natural gas, and in some instances have negative carbon intensities (not only reduces
+emissions but also utilizes emissions that would otherwise have been released).
+The stationary fuels sector includes all fuels used in Oregon other than fuel used for electricity generation and transportation. This includes fuel used for residential and commercial buildings and
+fuel used for manufacturing. Stationary fuel use typically includes heating of spaces and liquids, cooking, and industrial process heat. In 2014, this sector accounted for approximately 24 percent of
+all greenhouse gas (GHG) emissions in Oregon.
+[1]
+Carbon dioxide equivalent is a measure of all greenhouse gas emissions adjusted to the equivalent amount of carbon dioxide based on the global warming potential of each greenhouse gas.
+Factors Affecting Results
+KPM 5a & 5b
+Background.
+A major driver on results is the incremental cost for large utilities to meet the Oregon RPS requirement to sell 50 percent of their electricity from qualifying renewable energy sources
+by 2040. Utilities are not required to meet the standard in a given year to the extent that the incremental cost of compliance and related costs exceed four percent of the utility’s revenue requirement
+for that year. This, in turn, is affected by the cost to integrate high levels of variable renewable resources, such as wind and solar, while ensuring that the electricity system can reliably keep supply
+and demand in balance at all times.
+Oregon’s forecast electricity load used to generate the interim 2035 target depends on the effectiveness of energy efficiency and conservation programs implemented by utilities, the Bonneville
+Power Administration, the Oregon Department of Energy, the Energy Trust of Oregon, and others. In addition, climate change could result in increased summer load for air conditioning while at the
+same time resulting in decreased snowpack needed for summer generation of zero carbon hydropower.
+ODOE has undertaken complex rulemaking to incorporate changes to the RPS adopted by the Oregon Legislature in 2016, and that work continues in 2017.
+Over the next decade, substantial research and policy development will be needed to enable the electricity system to safely and reliably incorporate very high levels of renewable generating
+resources within the law’s incremental cost cap. This includes development in areas such as energy storage, demand response, costs to install and interconnect renewable resources, emerging
+renewable resources (e.g. marine and geothermal energy), a regional balancing authority and potential regional system operator, and system resiliency.
+Continuation and enhancement of energy efficiency and conservation programs will be needed to achieve the Northwest Power and Conservation Council’s projection that energy efficiency can
+meet the region’s future load growth over the next 20 years. In addition, efforts are needed to meet the Council’s projection that demand response can help offset the need for new fossil-fueled
+power plants to meet peak loads.
+How We Compare.
+Due to the Federal Columbia River Power System, Oregon generally has an electricity resource mix that results in a lower greenhouse gas emissions profile than states in other
+regions. Washington also benefits from an even higher percentage of zero-carbon hydropower due to their higher reliance on hydropower. In 2015, 47.4 percent of Oregon’s electricity was
+generated from zero-carbon resources. In that same year, 69.5 percent of Washington’s electricity was generated from zero-carbon resources.
+Washington’s RPS requires 15 percent of customer load to be serviced by renewable energy by 2020. Eligible resources under Washington’s RPS include hydro, wind, solar, geothermal, landfill
+gas, wave, biomass, and wave, ocean, or tidal power.
+About the Data.
+The department utilized information from the Oregon Global Warming Commission’s 2015 legislative report, data from the US Department of Energy’s Energy Information
+Administration (EIA), and utility load projections to derive the 2035 interim target. The Department utilized the Oregon Electricity Resource Mix to determine the greenhouse gas intensity of electricity
+that is
+consumed
+in Oregon. The Electricity Resource Mix is developed based on generation, fuel mix, and CO
+emissions submitted by utilities. The Department used EIA data on the greenhouse
+gas intensity of electricity
+produced
+in Oregon.  Because EIA publishes data for greenhouse gas intensity of electricity produced in Oregon annually each October, data for 2015 are not yet
+available. The chart above depicting greenhouse gas intensity of electricity produced in Oregon uses data through 2014, which is the most current available data set.
+Information about Oregon’s Electricity Resource Mix can be found here:
+http://www.oregon.gov/energy/Pages/Oregons_Electric_Power_Mix.aspx
+.
+Information about Washington’s Electricity Resource Mix can be found here:
+http://classic.commerce.wa.gov/Programs/Energy/Office/Utilities/Pages/FuelMix.aspx
+.
+KPM 5c & 5d
+Background.
+Stationary fuel use over time is largely driven by population growth, the economy, technology and climate change policy. As an example, the recent increase in residential and
+commercial greenhouse gas emissions from fuel use is being driven by Oregon’s population growth of a little more than 1 percent a year (faster than most other states). Yearly fluctuations in
+weather, introduction or commercialization of technology, new policy, and energy prices will all impact the type of fuel and use patterns for stationary energy. The scheduled sunset of Oregon’s
+energy incentive programs will affect investments in energy efficiency and in lower carbon stationary fuels. EIA long term modeling indicates that residential greenhouse gas emissions from fuel use
+will decline at a rate of about 0.2 percent per year primarily due to improvements in building and appliance energy efficiency, while the commercial and industrial sector greenhouse gas emissions
+from fuel use will increase as a result of increased economic growth, low fossil fuel prices and increased manufacturing.
+Significantly reducing the carbon intensity of stationary fuel used in Oregon would require a shift from fossil fuels to low- or no-carbon renewable fuels (e.g. renewable natural gas, renewable
+hydrogen and biomass). New policies may be needed to support such a shift, including policies to support the production and distribution of renewable fuels, along with policies to enable and
+encourage use of renewable fuels.
+Policies to move toward zero net energy buildings could significantly reduce stationary fuel emissions in the residential and commercial sectors. Industrial energy efficiency measures and highly
+efficient on-site combined heat and power systems using renewable fuel can also reduce emissions from this sector.
+Research is needed to better understand the net greenhouse gas emissions from the growth and use of biomass as a stationary fuel. Production of biomass as a fuel source initially results in a
+decline in atmospheric carbon as plants take up and sequester CO
+during the growth phase. This sequestered CO
+is released when the biomass is combusted. The net emissions can also be
+affected by changes in land use and a variety of other factors.
+How We Compare.
+Oregon’s GHG emissions from stationary fuels were slightly lower than Washington and California, and significantly lower than many eastern and mid-western states. This is due
+to differences in the level of fuel use, the mix of fuels, climate, and types of industry. Stationary fuel use in Oregon is a lower percentage of total in-state GHG emissions than in each of our
+neighboring states.
+About the Data.
+Formal tracking of the greenhouse gas emissions from stationary energy use is based on the data provided by the Oregon Department of Environmental Quality Greenhouse Gas
+Reporting Program and EIA. For stationary fuel use, the report uses a combination of reported emissions from some parts of the industrial sector and fuel suppliers (fossil fuels, but not biomass) as
+well as modeling of emissions from residential / commercial buildings and small manufacturing. The data only include greenhouse gases directly emitted in Oregon and do not account for the out-of-
+state emissions of stationary fuels used in the production, transport and disposal of goods consumed by Oregonians. The data in this report will be updated in October 2017 when new estimates
+are released.
+The EIA forecast fuel consumption used to calculate the interim target for Oregon may under- or overestimate Oregon’s fuel consumption due to the use of national scale energy use growth data.
+No data is currently available to estimate methane leaks from natural gas production in Oregon.
+Accurate tracking of greenhouse gas emissions from wood used for residential heat is problematic at this time due to a lack of state level data. The amount of renewable natural gas and other
+biomass derived stationary energy use is also not uniformly tracked at the state level.
+KPM #6
+TRANSPORTATION FUELS USED IN OREGON - Percentage of petroleum vs non-petroleum fuels used for transportation in Oregon: a) On-road fuel and b) Non-road fuel.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2013
+2014
+2015
+2016
+2017
+On Road Percentage Non-petroleum
+Actual
+No Data
+No Data
+No Data
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+TBD
+TBD
+Non Road Percentage Non Petroleum
+Actual
+No Data
+No Data
+No Data
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+TBD
+TBD
+How Are We Doing
+Results.
+Overall alternative fuel consumption and diversity have increased as a percentage of fuels consumed. In 2005, gasoline and diesel accounted for 98.3 percent of the fuel consumed in the
+on-road transportation fuel mix. In 2016, these petroleum products accounted for 90.6 percent, while alternative fuels accounted for 9.4 percent. The 2016 fuel mix features new fuels such as
+renewable diesel, bio-compressed natural gas and bio-liquid natural gas that were not available in the 2005 fuel mix. Most of the increase is due to the state RFS program that blends biofuels into
+petroleum products gasoline and diesel. Additional increases in alternative fuel use are due to growth in the availability of alternative fuel vehicles and the alternative fuels themselves.
+Mixing alternative fuels with traditional petroleum-based fuels continues to be the most widely-used source of alternative fuels in the state. Nearly every gallon of gasoline sold in Oregon contains 10
+percent ethanol and every gallon of diesel contains five percent biodiesel. Fuel retailers sold over 18 million gallons of B20 (20 percent biodiesel with 80 percent petroleum-based diesel) from used
+cooking oil at Oregon retail gas stations in 2016 through the ODOT used cooking oil biodiesel highway tax forgiveness program.
+Overall GHG emissions have increased in the transportation sector due to increases in the total number of vehicles and the total vehicle miles traveled. Total on-highway fuel consumption increased
+by 2.67 percent from 2005 to 2016. However, total life cycle emissions for fuel consumed in 2016 was only 0.57 percent higher than emissions in 2005, due to the overall increase in lower carbon
+alternative fuels into the on-highway transportation fuel mix. As stated above, Oregon has established a goal to reduce GHG emissions to 75 percent below 1990 levels by 2050. Further, the goals
+were to slow and halt increases in emissions by 2010 and by 2020 reduce emissions by ten percent below 1990 levels. Recently a midterm goal was developed by the Oregon Global Warming
+Commission of 42.5 percent from 1990 levels by 2035. In 2016, light-duty vehicles accounted for about 25 percent of Oregon’s total GHG emissions. In 2010, Oregon roughly halted an increase in
+actual target
+emissions from light-duty vehicles due to an economic recession. With an improved economy and relatively low gas prices, light-duty vehicle registrations in Oregon are at record levels. Both VMT
+and gasoline consumption in Oregon have increased in recent years, resulting in 22 percent higher life-cycle GHG emissions for light-duty vehicles in 2016 compared to 1990. It is estimated that
+light-duty life-cycle GHG emissions for 2020 will be 19 percent higher than 1990 levels. If light-duty vehicles are to reduce emissions by their fair share, this sector will need to reduce emissions by
+29 percent from 2016 emissions in 2020 and 61.5 percent from 2016 to meet the 2035 mid-term goal.
+Electric vehicle use in the state continues to grow. As of June 2017, there are now over 15,943 plug-in electric vehicles registered in Oregon, and more than 95 percent of these are owned by
+residential consumers. Oregon’s public EV charging infrastructure is recognized as one of the best in the nation and will continue to grow. Electrify America has indicated that the first phase of the
+VW settlement action plan will involve the installation of DC Fast Chargers along Oregon’s most-traveled highways as well as a variety of charging infrastructure installed throughout the Portland
+metropolitan area. These charging units will be equipped with both CHAdeMO
+[1]
+and CCS
+[2]
+charging platforms, which will support the majority of non-Tesla electric vehicles on the market. Tesla
+continues to develop and support its own charging network throughout Oregon.
+About the Target.
+There are no specific state goals related to transportation fuel diversification. The state does have a goal of reducing GHG emissions across the state by 75 percent from 1990
+levels by 2050, and the DEQ Clean Fuels Program has a goal to reduce GHG emissions from the transportation fuel sector by 10 percent over 10 years. The Oregon RFS requires most gasoline to
+blend ten percent ethanol per gallon and diesel to blend at least five percent biodiesel per gallon. Additionally the ZEV program requirements will be increased sharply beginning in 2018. Battery
+Electric Vehicles and Plug-in Hybrid Electric Vehicles must be approximately four percent of light-duty vehicle sales, and in 2025 that figure increases to nine percent. The ZEV program rules allow
+manufacturers to comply with a variety of vehicle types, including Fuel Cell Vehicles (FCV), long-distance Battery-Electric Vehicles (BEV), shorter-distance BEVs, and PHEVs. Longer range vehicles
+score more points and thus require fewer vehicles to meet the program requirements.
+The 2015 Oregon Global Warming Commission’s report to the Legislature indicates all emitting sectors will need to reduce their overall emissions in order for the state to achieve its greenhouse gas
+emission reduction goals. Transformation of transportation fuels is of critical import because this sector bears the largest proportional share of GHG emissions in Oregon. In addition to reducing
+GHGs, diversification of transportation fuels is key in developing a more robust and resilient transportation fuel supply for the state. These data help provide an indication of the effectiveness of the
+strategy to expand the use of alternative fuels in Oregon on-road transportation fuel mix. Although fuel use in non-road vehicles is also important for the reasons mentioned above this data is not
+reported in this KPM because there is limited data available on fuels for these vehicles.
+The intent of this KPM is to assess the adoption rate of alternative fuels into the transportation fuel mix in Oregon. The predominant use of petroleum-based fuels for transportation has negative
+social, economic, and environmental impacts on individuals and businesses in Oregon. Diversification of transportation fuel reduces economic risk due to the volatility of price and supplies of
+petroleum products and increases the resiliency of the fuel infrastructure in the case of catastrophic event. In 2016, transportation fuel costs were 4.53 percent of the median Oregon household
+income. ORS 468A.205 established a goal to reduce GHG emissions to 75 percent below 1990s emissions by 2050, and the transportation sector is responsible for 37 percent of Oregon’s
+greenhouse gas emissions according to the Oregon Global Warming Commission’s 2017 Biennial Report to the Legislature. In addition, traffic-related air pollution is linked to respiratory conditions
+such as decreased lung function, wheezing, and cardiovascular disease. Long-term exposure to air pollution from vehicles is linked to childhood asthma.
+In recent years, consumption of alternative fuels has begun to rise. Biofuels, which are now frequently blended with traditional petroleum-based fuels to meet federal and state standards, are widely
+available in the market. With zero-emission vehicles becoming more prominent, electricity is also a growing alternative fuel. The state and federal governments have deployed several programs to
+increase the use of alternative fuels such as the federal and Oregon Renewable Fuel Standards (RFS), Clean Fuels Program, Zero Emission Vehicle (ZEV) program (see below), federal and state
+incentives for alternative fuel vehicles and infrastructure, and educational outreach to fleets by the Oregon Department of Energy and Clean Cities Coalitions. Enabling the development of EV
+charging infrastructure through projects like the West Coast Electric Highway and the EV Project have deployed hundreds of EV charging stations aimed at giving drivers confidence in using electric
+vehicles.
+[1]
+CHAdeMO is the trade name of a quick charging method for battery electric vehicles delivering up to 62.5 kW of direct current via a special electrical connector
+[2]
+Combined Charging System (CCS) is based on open and universal standards for electric vehicles. The CCS combines single-phase with rapid three-phase charging using alternating current at a
+maximum of 43 kilowatts (kW), as well as direct-current charging at a maximum of 200 kW and the future perspective of up to 350 kW – all in a single system.
+Factors Affecting Results
+Background.
+Recent low petroleum fuel prices have affected increased alternative fuel use over the last three years. Low petroleum-fuel prices have spurred sales of less fuel-efficient vehicles
+and increased overall vehicle miles travelled over the last three years, and Oregon is on pace to use more gasoline in 2017 than any other year in its history. Additionally, the availability of some
+alternative fuels is inconsistent. For example, after testing the use of renewable diesel in their vehicles some Oregon fleets prefer this fuel to traditional petroleum-based diesel; however, there is
+currently limited access to low-carbon renewable diesel in Oregon.
+This KPM looks at fuel type percentage of total fuel used in the on-highway transportation sector on a gasoline gallon (GGE) equivalent basis. This makes it possible to compare one fuel to another
+in quantity. In most cases when comparing fuels such as biodiesel to diesel there is no negative effect on the data as the engine is the same in both cases and the amount of work accomplished with
+the same amount of energy is similar. However with electricity this changes and it is not a fair comparison due to the efficiency differences between electric motors and internal combustion engines
+to do the same amount of work. A conventional vehicle varies between 0 percent, when idling, to somewhere in the low to mid 30 percent efficiency range. Electric motors are in the mid-80 to mid-90
+percent efficient. As a result, it requires less overall energy to drive the same distance in an electric vehicle than a non-electric vehicle. This higher efficiency is not accounted for in this KPM, and
+would generally indicate a significantly lower energy consumption for electric vehicles.
+Large fleets should continue to be encouraged to introduce and increase alternative fuel vehicles in their inventories and to provide public access to their alternative fuel refueling infrastructure.
+Additionally, continued education and outreach to the general consumer and auto dealerships should be a high priority as Oregon has seen a steady increase in the consumption of alternative
+fuels by consumers, and more alternative fuel is now consumed by the general market than by fleets. Adoption rates of electric vehicles have risen at a year-over-year average of 35 percent over
+the last several years. Automobile manufacturers have plans to increase production and model availability over the next few years. Providing the public and large with a basic understanding of the
+use and impact of alternative fuels should remain a top priority for the state.
+The U.S. Department of Energy estimates that petroleum-based fuels will not see price spikes in the next two to three years and will remain essentially flat with only a slight increase. Electric vehicles
+have a cost advantage in maintenance and operations costs over conventional vehicles; however, the lifetime cost for an electric vehicle do not currently pencil-out due to the higher average
+purchase cost. This will change over time as battery costs continue to decline. Bloomberg, the California Air Resources Board, and Forbes have all estimated that sometime around 2022 to 2025,
+electric vehicles will reach first cost parity with conventional vehicles and by 2030 will be less expensive. The passage of SB 2017 included a program that will fund on-the-hood rebates for EV
+purchasers. This rebate coupled with the federal tax incentive may help alleviate some of the initial cost of these vehicles. However, existing federal tax credits will begin reducing in amount during
+calendar year 2019. How quickly the state rebate program is enacted will have ramifications for EV purchases in Oregon.
+How We Compare.
+It is not possible to compare information on alternative fuel use in other states because there is no known published data of this kind. However, data are available to compare
+access to alternative fuel infrastructure. Oregon ranks 12th in the nation in the number of alternative refueling stations on the U.S. Department of Energy’s Alternative Fuel Data Center locator,
+while California ranks number one and the state of Washington ranks sixth. In 2015, Oregon was ranked seventh in this category and Washington was ranked third. Primarily the slip in ranking by
+the Northwest states is due to the fact that these states had an early start employing EV infrastructure and now more populous states are beginning to catch up. Oregon is ranked 27th in population
+and 29th in transportation sector energy consumption out of the 50 states.
+About the Data.
+The data provide a snapshot of total alternative fuel measured in gasoline gallon equivalents consumed in the on-road transportation sector. As outlined above, off-road
+alternative fuel use data is not sufficiently available to do an analysis. The on-road data is compiled from several sources. Gasoline data is gathered from the Oregon Department of Transportation
+fuels group, diesel data is obtained from the U.S. DOE Energy Information Administration, and biodiesel is collected from several sources, including the ODOT Fuels Group and fleet surveys as well
+as amounts calculated from the U.S. DOE EIA data. Much of the LPG, CNG and LNG data is acquired through surveys of fuel suppliers and fleets. Electricity use is sourced from Tri-Met for MAX and
+Portland Streetcar, DEQ analyzed DMV data, public charging providers and fleet surveys.
+Some fleet data are based on a calculation that uses an equation derived by US DOE that is applied to the number and types of vehicles in large fleets. This calculation has become an industry
+standard approach because many fleets consider fuel use proprietary.

@@ -1,0 +1,355 @@
+Parole and Post-Prison Supervision, Board of
+Annual Performance Progress Report
+Reporting Year 2016
+Published: 10/14/2016 7:49:46 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+PAROLE RECIDIVISM - Percentage of Matrix Inmates (applies to offenders whose crime(s) were committed before November 1, 1989), Dangerous Offenders (sentenced by the court as a dangerous offender pursuant to ORS 161.725 and ORS
+161.735), and Aggravated Murderers convicted of a new felony within three years of initial release. (Subset of OBM #64)
+ORDER OF SUPERVISION - Percentage of offenders being released from prison where the Board's order of supervision has been received by the community corrections office on or before the offender's release date from prison.
+VICTIM NOTIFICATION - Percentage of active registered victims for which the Board has an accurate point of contact for notification of hearings and of an offender's release.
+ARREST WARRANT - Percentage of warrants received by the Board in which the warrant is issued within 5 days.
+REVOCATION - Percentage of revocations for offenders who violate their conditions of parole or post-prison supervision.
+DISCHARGE OF SUPERVISION - Percentage of expiration (of post-prison supervision or parole) orders that have been completed and mailed within 5 days of an offenders discharge from parole or post-prison supervision.
+ADMINISTRATIVE REVIEW - Percentage of administrative review responses completed and mailed within 60 days of receipt of an inmate/offender administrative review request.
+CUSTOMER SERVICE - Percent of customers rating their satisfaction with the Agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise, and availability of information.
+Proposal
+Proposed Key Performance Measures (KPMs)
+Delete
+VICTIM NOTIFICATION - Percentage of active registered victims for which the Board has an accurate point of contact for notification of hearings and of an offender's release.
+New
+VICTIM NOTIFICATION - Percentage of notifications sent to active registered victims no later than 30 days before any hearing conducted by the Board.
+Green
+Yellow
+Red
+= Target to -5%
+= Target -6% to -15%
+= Target > -15%
+Summary Stats:
+62.50%
+25%
+12.50%
+red
+green
+yellow
+KPM #1
+PAROLE RECIDIVISM - Percentage of Matrix Inmates (applies to offenders whose crime(s) were committed before November 1, 1989), Dangerous Offenders (sentenced by the court as a
+dangerous offender pursuant to ORS 161.725 and ORS 161.735), and Aggravated Murderers convicted of a new felony within three years of initial release. (Subset of OBM #64)
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2014
+2015
+2016
+2017
+2018
+PAROLE RECIDIVISM
+Actual
+No Data
+6.90%
+0%
+No Data
+No Data
+Target
+8.50%
+8.50%
+8.50%
+8.50%
+8.50%
+How Are We Doing
+The board has exceeded its goal. The Board practices making sound parole release decisions for those offenders under the Board's release authority by following the agency's mission, as well as
+the Oregon constitutional provision that laws for the punishment of crime shall be founded on these principles: protection of society, personal responsibility, accountability for one's actions and
+reformation.  Between July 1, 2012 and June 30, 2013, 21 offenders were released under the Board's authority. There were no subsequent felony convictions for these offenders.
+The reporting date is based on the number of Parole Offenders released during the 2012-13 Oregon fiscal year, which reports results for the 2015-16 Oregon fiscal year.
+Factors Affecting Results
+As the number of offenders under the Board's release authority declines, this measure is increasingly focused on the recidivism rates of Matrix offenders who committed their crimes prior to
+November 1, 1989, as well as Aggravated Murderers and Murderers with life sentences who are eligible for parole, and those offenders sentenced by the courts as Dangerous Offenders,
+regardless of their crime dates. Because of the reduced number of offenders under the Board's release authority, compared to the overall releasing inmate population, even a small change in rates
+of recidivism will have a significant impact on this measure.
+Of the 21 offenders released:  12 Murder/Aggravated Murder; 6 Sex Offenses; 1 Arson; 1 Measure 11; 1 Matrix case. Of those released, only one (1) had been designated as a Dangerous
+Offender.
+KPM #2
+ORDER OF SUPERVISION - Percentage of offenders being released from prison where the Board's order of supervision has been received by the community corrections office on or
+before the offender's release date from prison.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2014
+2015
+2016
+2017
+2018
+ORDER OF SUPERVISION
+Actual
+No Data
+99.70%
+91.40%
+No Data
+No Data
+Target
+99%
+99%
+99%
+99%
+99%
+How Are We Doing
+The agency has not met its goal, but remains above 90%.
+Factors Affecting Results
+The Board has been challenged at times to meet this measure, due to low staffing levels, as well as increasing workloads commensurate with the growth in the prison population and the number of
+offenders on parole and post-prison supervision in the community. The Board has seen a growth in workload, which includes the implementation of an increase in Short-Term Transitional Leave
+from DOC, pursuant to HB3194 (2013)Additionally, while the rewrite of the Board’s primary information system is aimed at improved order accuracy and timeliness, there have been development
+training errors that have resulted in inaccurate information and delayed response time in processing orders.
+Due to the abovementioned development issues and additional issues with data conversion, KPM results were only recorded for 7 of 12 months. The Board is researching the ability to
+KPM #3
+VICTIM NOTIFICATION - Percentage of active registered victims for which the Board has an accurate point of contact for notification of hearings and of an offender's release.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2014
+2015
+2016
+2017
+2018
+VICTIM NOTIFICATION
+Actual
+No Data
+91%
+89%
+No Data
+No Data
+Target
+91%
+91%
+91%
+91%
+91%
+How Are We Doing
+The Board has not met it's goal for this performance measure.
+Factors Affecting Results
+Factors include registered victims changing addresses without notifying the Board. When this occurs and mail is returned to the Board as undeliverable, the victim is then listed as “without an
+accurate point of contact" if no other contact can be made.
+Additionally, although the rewrite of the Board's primary information system intends to improve accuracy of this process, there have been some developmental issues that the Board is working to
+resolve. The data conversion in the new information created gaps in information, which could make these statistics skewed.
+Due to the abovementioned development issues and additional issues with data conversion, KPM results were only recorded for 5 of 12 months. The Board is researching the ability to
+KPM #4
+ARREST WARRANT - Percentage of warrants received by the Board in which the warrant is issued within 5 days.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2014
+2015
+2016
+2017
+2018
+ARREST WARRANT
+Actual
+No Data
+92.60%
+93.30%
+No Data
+No Data
+Target
+94.20%
+94.20%
+94.20%
+94.20%
+94.20%
+How Are We Doing
+The Board did not meet its goal for 2016, but is well within range at 93.3%; it is also improved from 2015 actual of 92.6%. The target levels have steadily increased since the measure's inception in
+2003, when the target was 82%. The Board issues an average of 510 warrants per month.
+Factors Affecting Results
+Delays in community processes cause delays in the Board's issuance of the warrant. When nationwide warrants are requested per Interstate Compact rules for offenders supervised out of state, the
+Board must request approval from the Governor’s office; at times, this could take up to 14 days.  Additionally, although the rewrite of the Board's primary information system intends to increase
+accuracy and timely issuance, there have been development issues that have caused additional delay. There has also been a turnover in the warrant desk staff due to promotion and termination,
+which decreases productivity during the training process.
+Due to the abovementioned development issues and additional issues with data conversion, KPM results were only recorded for 4 of 12 months. The Board is researching the ability to
+KPM #5
+REVOCATION - Percentage of revocations for offenders who violate their conditions of parole or post-prison supervision.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2014
+2015
+2016
+2017
+2018
+REVOCATION
+Actual
+No Data
+6.63%
+5.83%
+No Data
+No Data
+Target
+10%
+10%
+10%
+10%
+10%
+How Are We Doing
+The Board exceeded its goal, continuing the trend of improvement.
+Factors Affecting Results
+The Board imposes structured sanctions for offenders in violation of conditions of supervision. The Board revokes the supervision of offenders who pose extreme risk to the community or who
+continually fail to comply with supervision requirements. Actual supervision of these offenders is conducted by local supervisory authorities in the counties. Additionally, although the rewrite of the
+Board's primary information system intends to improve accuracy and timeliness of this process, there have been some developmental and training issues that the Board is working to resolve.
+Due to the abovementioned development issues and additional issues with data conversion, KPM results were only recorded for 3 of 12 months. The Board is researching the ability to
+KPM #6
+DISCHARGE OF SUPERVISION - Percentage of expiration (of post-prison supervision or parole) orders that have been completed and mailed within 5 days of an offenders discharge from
+parole or post-prison supervision.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2014
+2015
+2016
+2017
+2018
+DISCHARGE OF SUPERVISION
+Actual
+No Data
+95.90%
+96.40%
+No Data
+No Data
+Target
+91.50%
+91.50%
+91.50%
+91.50%
+91.50%
+How Are We Doing
+The Board exceeded its goal, continuing a trend of improvement.
+Factors Affecting Results
+The Board monitors and adjusts an offender’s status on supervision, and processes the discharge/expiration certification upon completion of Parole or Post-Prison Supervision. The rising numbers
+of offenders on supervision has resulted in increased workloads for Board staff, including an increase in the duties covered by this performance measure. Additionally, although the rewrite of the
+Board's primary information system intends to improve accuracy and timeliness of this process, there have been some developmental and training issues that the Board is working to resolve.
+Due to the abovementioned development issues and additional issues with data conversion, KPM results were only recorded for 4 of 12 months. The Board is researching the ability to
+KPM #7
+ADMINISTRATIVE REVIEW - Percentage of administrative review responses completed and mailed within 60 days of receipt of an inmate/offender administrative review request.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2014
+2015
+2016
+2017
+2018
+ADMINISTRATIVE REVIEW
+Actual
+No Data
+0%
+0%
+No Data
+No Data
+Target
+70%
+70%
+70%
+70%
+70%
+How Are We Doing
+The Board has not met it's goal. Although the Board has consistently not met this goal in the past, it has reduced its backlog of administrative review responses from over a year response time
+to just over one (1) month.
+Factors Affecting Results
+Significant workload demands on Board members and key support staff have eroded the Board's efforts to gain compliance in prior biennia. However, with the addition of a fourth Board member
+(and soon a fifth) and an Operations/Policy Analyst in the 2015-17 biennium, workload has been distributed more evenly and efficiently. Data for the reporting period shows that since April
+2016, response time decreased from an average of 350 days to 178 days.
+Additionally, although the rewrite of the Board's primary information system intends to improve accuracy and timeliness of this process, there have been some developmental issues that the Board
+is working to resolve.
+Due to the abovementioned development issues and additional issues with data conversion, KPM results were only recorded for 10 of 12 months. The Board is researching the ability to
+KPM #8
+CUSTOMER SERVICE - Percent of customers rating their satisfaction with the Agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+helpfulness, expertise, and availability of information.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2014
+2015
+2016
+2017
+2018
+Availability of Information
+Actual
+No Data
+93.80%
+93.88%
+No Data
+No Data
+Target
+TBD
+100%
+100%
+100%
+TBD
+Accuracy
+Actual
+No Data
+96.90%
+99.49%
+No Data
+No Data
+Target
+TBD
+100%
+100%
+100%
+TBD
+Helpfulness
+Actual
+No Data
+95.40%
+95.91%
+No Data
+No Data
+Target
+TBD
+100%
+100%
+100%
+TBD
+Overall
+Actual
+No Data
+94.41%
+93.90%
+No Data
+No Data
+Target
+TBD
+100%
+100%
+100%
+TBD
+Expertise
+Actual
+No Data
+97.50%
+98.98%
+No Data
+No Data
+Target
+TBD
+100%
+100%
+100%
+TBD
+Timeliness
+Actual
+No Data
+95.03%
+94.39%
+No Data
+No Data
+Target
+TBD
+100%
+100%
+100%
+TBD
+How Are We Doing
+Althought the Board did not meet the 100% target, we are doing very well, in general, with all scores above 90%
+Factors Affecting Results
+The number and complexity of the various requests received, as well as the rising overall workloads for Board staff are key factors. Staff absences and turnover have contributed to delays in
+providing services. Technological advances are expected to assist in meeting workload increases through the use of document scanning and e-mailing of individual document requests.
+Additionally, although the rewrite of the Board's primary information system intends to improve accuracy and timeliness of this process, there have been some developmental issues that the Board
+is working to resolve; however, these issues have resulted in untimely response times to requests and inaccurate reports being distributed.

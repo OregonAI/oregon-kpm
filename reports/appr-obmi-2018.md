@@ -1,0 +1,303 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-obmi-2018
+title: Medical Imaging, Board of — Annual Performance Progress Report, Reporting Year 2018
+doc_type: performance_report
+citation: APPR OBMI 2018
+authority_level: agency_report
+issuing_body: Medical Imaging, Board of
+agency: Medical Imaging, Board of
+agency_code: OBMI
+reporting_year: '2018'
+year_source: document
+filename_year: '2018'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_OBMI_2018.pdf
+source_filename: APPR_OBMI_2018.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 7cb75519364ac6ebb6b6e1d1eedf1693cf26d10f5e7f1af12ded8eafb0d4be4c
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2018
+---
+
+## At a glance
+
+**APPR OBMI 2018** — Medical Imaging, Board of, Reporting Year 2018
+
+- Agency: Medical Imaging, Board of
+- Reporting year: 2018 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_OBMI_2018.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Medical Imaging, Board of
+Annual Performance Progress Report
+Reporting Year 2018
+Published: 7/22/2018 4:11:36 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+TIMELY LICENSURE
+- Percent of initial and renewal license and limited permit applications from qualified applicants that are processed within 5 business days.
+AUTOMATION
+- Percent of license and limited permit applications from qualified applicants that are processed using an automated procedure.
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency’s customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+DISCIPLINE RESOLUTION
+- Percentage and number of complaints resolved by means other than from formal administrative hearings within a year.
+BEST PRACTICES
+- Percent of total best practices met by the Board.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+80%
+20%
+0%
+red
+green
+yellow
+KPM #3
+TIMELY LICENSURE
+- Percent of initial and renewal license and limited permit applications from qualified applicants that are processed within 5 business days.
+Data Collection Period: Jan 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2014
+2015
+2016
+2017
+2018
+Timely Licensure
+Actual
+100%
+95%
+97%
+92%
+95%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+During the 1997 legislative session, this KPM was amended.  Before 2017, the KPM measured how many applications are processed with ten days from receipt.  The new KPM measurees how many
+applications are processed within five days.
+Factors Affecting Results
+The OBMI is able to process 95% of applications that are submitted within five days, so long as all required documents are provided with the application.  If required documentation is not provided,
+we attempt to contact the applicant by telephone or email and indicate information that is missing from the application -- often including criminal background documentation.
+Also, for initial license applications, we must submit fingerprints to the Oregon State Police (OSP) for a background check.  When we receive an initial license application in the mail or delivered in
+person, we immediately release the fingerprints (on a website) to the OSP.  Getting the results back from the OSP can take an average of five days (sometimes more; sometimes less), delivered
+electronically through a web-based program.  For initial licenses, the Board's application process effectively begins not when we receive the application, but when we receive the background check
+from the OSP.
+KPM #4
+AUTOMATION
+- Percent of license and limited permit applications from qualified applicants that are processed using an automated procedure.
+Data Collection Period: Jan 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2014
+2015
+2016
+2017
+2018
+Automation
+Actual
+48%
+49%
+50%
+53%
+65%
+Target
+50%
+50%
+50%
+50%
+62%
+How Are We Doing
+In the past, the target automated applications was 50%.  Recently the Board voted to increase the target to 62%, based upon current performance and current license and renewal trends.
+Factors Affecting Results
+The way the Board currently operates, we can't accept initial licenses through an online process, because we need to receive the pertinent information and set up an account for the
+applicant/licensee.  Once the account is set up, therafter a license applicant can renew online.  Of those who can renew online -- license renewals -- over 90% take advantage of that convenience.
+Ten percent of OBMI's constituency have limited x-ray permits.  Because the Board audits continuing education with every renewal application. limited permit renewals cannot be accepted through
+an online process.
+Because initial license applicants and all limited permit applciations (initial and renewal) cannot submit applications using an online process, the overall rate of online renewal typically hovers
+between 60 and 65 percent.  Within that total, the group that can renew online (license renewals) do so over 90 percent of the time.
+KPM #5
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency’s customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise,
+availability of information.
+Data Collection Period: Jan 01
+- Jun 30
+Report Year
+2014
+2015
+2016
+2017
+2018
+Accuracy
+Actual
+79%
+82%
+84%
+85%
+85%
+Target
+95%
+95%
+95%
+95%
+95%
+Timeliness
+Actual
+83%
+85%
+85%
+86%
+87%
+Target
+95%
+95%
+95%
+95%
+95%
+Expertise
+Actual
+82%
+85%
+86%
+88%
+87%
+Target
+95%
+95%
+95%
+95%
+95%
+Overall
+Actual
+81%
+84%
+85%
+87%
+87%
+Target
+95%
+95%
+95%
+95%
+95%
+Helpfulness
+Actual
+75%
+78%
+79%
+82%
+83%
+Target
+95%
+95%
+95%
+95%
+90%
+Availability of Information
+Actual
+69%
+74%
+76%
+78%
+79%
+Target
+95%
+95%
+95%
+95%
+90%
+How Are We Doing
+Factors Affecting Results
+KPM #6
+DISCIPLINE RESOLUTION
+- Percentage and number of complaints resolved by means other than from formal administrative hearings within a year.
+Data Collection Period: Jan 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2014
+2015
+2016
+2017
+2018
+Discipline Resolution
+Actual
+100%
+100%
+97%
+95%
+98%
+Target
+95%
+95%
+98%
+98%
+100%
+How Are We Doing
+In the past year, the Board has had two cases (out of 100 disciplinary cases opened) appealed to an administrative law judge.  Both cases were due to out-of-state technologists applying for
+licensure in Oregon and failing to fully report criminal background with their initial applications.
+Factors Affecting Results
+Once the OBMI instituted OSP/FBI fingerprint background checks, the agency has been catching many out-of-state applicants for failure to fully report criminal background.  Before fingerprint
+background checks, the Board was unable to check for criminal background that occurred outside Oregon.
+KPM #7
+BEST PRACTICES
+- Percent of total best practices met by the Board.
+Data Collection Period: Jan 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2014
+2015
+2016
+2017
+2018
+Best Practices
+Actual
+100%
+100%
+94%
+100%
+100%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+Factors Affecting Results

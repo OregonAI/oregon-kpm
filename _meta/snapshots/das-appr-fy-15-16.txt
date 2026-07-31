@@ -1,0 +1,608 @@
+Administrative Services, Department of
+Annual Performance Progress Report
+Reporting Year 2016
+Published: 11/3/2016 11:38:52 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+FORECAST RELIABILITY
+- General Fund Forecast Tracking Metric
+FINANCIAL REPORTING
+- Percent of Agencies receiving Gold Star Award (The Gold Star Award is the state agency equivalent of the GFOA Certificate of Achievement for Excellence in Financial Reporting)
+WORKFORCE TURNOVER
+- Annual turnover rate for the State and DAS workforce.
+WORKFORCE DIVERSITY
+- Racial/ethnic diversity in the state workforce as a percentage of the total civilian labor force.
+FLEET ADMINSTRATION
+- Average Miles Per Gallon for DAS Permanently Assigned Fleet Vehicles.
+RENT COSTS - DAS negotiated lease rates in private sector vs. average market rates.
+INFORMATION SECURITY
+- Overall information security maturity rating based on a sample of state agencies. Rating achieved using a compilation and aggregate score based on the ISO 27002 standard and assigning a rating using the Carnegie-
+Mellon Capability Maturity Model. (3rd party conducting information security business risk assessments)
+PROCUREMENT EFFECTIVENESS
+- Estimated savings resulting from price agreement pricing compared to prices that would be paid without the benefit of a price agreement.
+RISK MANAGEMENT
+- Annual number of Severe Worker's Compensation claims per 100 FTE
+SUSTAINABILITY - Percentage reduction in greenhouse gas emissions.
+DATA CENTER
+- Percentage of time systems are available.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -6% to -15%
+= Target > -15%
+Summary Stats:
+45.45%
+0%
+54.55%
+red
+green
+yellow
+KPM #1
+CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+helpfulness, expertise and availability of information.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2012
+2013
+2014
+2015
+2016
+Helpfulness
+Actual
+72%
+0%
+74%
+0%
+78%
+Target
+90%
+90%
+90%
+90%
+90%
+Timeliness
+Actual
+68%
+0%
+71%
+0%
+76%
+Target
+90%
+90%
+90%
+90%
+90%
+Expertise
+Actual
+73%
+0%
+74%
+0%
+78%
+Target
+90%
+90%
+90%
+90%
+90%
+Overall
+Actual
+67%
+0%
+70%
+0%
+75%
+Target
+90%
+90%
+90%
+90%
+90%
+Availability of Information
+Actual
+60%
+0%
+64%
+0%
+71%
+Target
+90%
+90%
+90%
+90%
+90%
+Accuracy
+Actual
+68%
+0%
+72%
+0%
+76%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+Satisfaction ratings in all customer service categories have increased from the prior 2014 results. The last three biennia have been trending up. This reflects the continued effort of agency staff to
+provide accurate, timely services to the broad range of DAS customers.
+The highest rated quality areas continue to be ‘knowledge and expertise’ and 'helpfulness'. The lowest rated quality area remains ‘availability of information’. However, this is also the most improved
+quality area with an 11% increase in the number of satisfied or very satisfied responses from the 2012 results.
+Factors Affecting Results
+There were 390 unique responses, a 10% response rate, providing enough data to yield a margin of error of 4.94%. The same question set and survey design from the previous years were used.
+There were changes to the list of selectable services to more accurately reflect the service structure of DAS. The surveys were sent to a stratified random sample of 15% of the population of DAS
+customer agencies. Surveys were also sent to a portion of customers who had interacted with DAS services and responded to a feedback survey within the past year. The methodology used gave
+the entire selected customer population the opportunity to evaluate the service criteria for all applicable department service areas and individual services. Respondents, on average, provided
+ratings for 2.6 services, which may indicate that survey respondents typically provided ratings on the services they most frequently interact with or buy services from.
+The increase in ratings across the quality areas may be due, in part, to the refinement of the sampling methodology.
+KPM #2
+FORECAST RELIABILITY
+- General Fund Forecast Tracking Metric
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+General Fund Forecast
+Actual
+0%
+0%
+102.96%
+100.01%
+100.14%
+Target
+0%
+0%
+100%
+100%
+100%
+How Are We Doing
+The General Fund revenue forecast for the 2015-17 biennium remains on track through the first fiscal year. Given the state’s unique kicker law, errors larger than 2 percent are returned to
+taxpayers (for personal income taxes) or transferred to the Rainy Day Fund (corporate income taxes). So far in 2015-17, the forecast is running ahead of expectations from when the budget was
+passed by approximately $26 million, or 0.1 percent. Even so, historical forecast performance has demonstrated that much uncertainty remains in the outlook. With just a 2 percent threshold, a
+personal income tax kicker remains a distinct possibility. Furthermore, should the economy slow considerably a budgetary shortfall is likely.
+The most recent quarter general fund forecast amount- $18,023,589,000
+The close of legislative session general fund forecast amount- $17,998,055,960
+Factors Affecting Results
+The state’s volatile underlying economy and current tax structure yield larger year-to-year swings than in the typical state. While Oregon comes out ahead of the typical state in both an economic
+and revenue sense over the entire business cycle, such variances are more challenging and difficult to accurately forecast.
+KPM #3
+FINANCIAL REPORTING
+- Percent of Agencies receiving Gold Star Award (The Gold Star Award is the state agency equivalent of the GFOA Certificate of Achievement for Excellence in
+Financial Reporting)
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Percent of agencies receiving the Gold Star Award
+Actual
+98%
+96%
+100%
+91%
+98%
+Target
+98%
+98%
+98%
+98%
+98%
+How Are We Doing
+Agencies have been earning the Chief Financial Officer’s Gold Start Award since 1990. The target percentage of agencies earning the Gold Star Award is 98%, which equals the percentage of
+agencies earning the Gold Star Award in Fiscal Year 2015.
+Calculation: (total agencies with gold star award: 91) / (total agencies: 93) = % of agencies receiving gold star award
+Factors Affecting Results
+The extent and complexity of new accounting and financial reporting standards issued by the Governmental Accounting Standards Board (GASB) affects the agency accounting process.
+Implementation of new standards on a statewide basis requires focused resources to plan, modify systems as needed, update policies, and provide training to state agencies. Another important
+factor affecting results include fiscal staffing levels at state agencies, level of staff expertise, turnover, and the ability of each agency to provide accurate and timely information for the fiscal year-
+end closing.
+KPM #4
+WORKFORCE TURNOVER
+- Annual turnover rate for the State and DAS workforce.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+State Workforce Turnover
+Actual
+4.80%
+5.29%
+4.70%
+5.28%
+5.77%
+Target
+5.50%
+5.50%
+5.50%
+5.60%
+5.60%
+DAS Workforce Turnover
+Actual
+No Data
+No Data
+No Data
+No Data
+3.52%
+Target
+TBD
+TBD
+TBD
+5.50%
+5.50%
+How Are We Doing
+The state’s resignation rate (4a) for FY 15-16 is 5.77%. This is .27% higher than the benchmark of 5.5% set in 2010. However, it is lower than the Job Openings and Labor Turnover Survey
+(JOLTS) data reported by the United States Bureau of Labor Statistics for 2015, which was 9.0% for state and local governments. The proposed targets reflect the new JOLTS reports and serve as
+a direct comparison to other state government statistics. The resignation rate for DAS (4b) is 3.52%, this is indicative of a stable workforce. Resignation refers to voluntary separation from
+employment, and this data does not include turnover from layoffs, involuntary terminations, or retirement therefore it aligns with the JOLTS definition of “quits”.
+Factors Affecting Results
+Employees appear to be choosing alternative employment opportunities at a slightly greater rate (1% increase overall).  The factor most likely to have impacted the increase in turnover is the
+improvement in the Oregon economy.  The following tables list reasons for employees leaving the state workforce in both FY 13-14 and FY 14-15; Table 1 lists the top five primary reasons for
+leaving and Table 2 lists the top five secondary reasons given for leaving state service. All of the primary reasons stayed within 1% of the prior fiscal year.  Two interesting observations surface
+from the secondary reason data.  The first one is a positive change which is 1.36% less employees left for their “own or family member health reason(s)”.  The second indicates 1.06% more
+employees left state service due to work/life balance.
+Table 1- Primary Reason for Leaving (Top 5)
+FY 13-14
+FY 14-15
+Other- 58.96%
+Other- 58.03%
+In-State Public Sector- 10.37%
+In-State Public Sector- 11.03%
+In-State Private Sector- 9.67%
+In-State Private Sector- 9.71%
+Relocation- 7.43%
+Relocation- 7.23%
+Stay Home- 7.04%
+Stay Home- 6.95%
+Table 2- Secondary Reason for Leaving (Top 5)
+FY 13-14
+FY 14-15
+Personal / Not Disclosed- 75.61%
+Personal / Not Disclosed- 76.39%
+Own or Family Member Health
+Reason- 8.64%
+Own or Family Member Health
+Reason- 7.28%
+Work/Life Balance Issues- 4.29%
+Work/Life Balance Issues- 5.35%
+Change of Duties- 3.14%
+Change of Duties- 2.43%
+Compensation or Benefit Issues-
+2.94%
+Compensation or Benefit Issues-
+2.21%
+KPM #5
+WORKFORCE DIVERSITY
+- Racial/ethnic diversity in the state workforce as a percentage of the total civilian labor force.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+State Workforce Diversity
+Actual
+67.67%
+70.08%
+69.90%
+71.38%
+76.64%
+Target
+100%
+100%
+100%
+100%
+100%
+DAS Workforce Diversity
+Actual
+No Data
+No Data
+No Data
+65.85%
+72.90%
+Target
+TBD
+TBD
+TBD
+100%
+100%
+How Are We Doing
+As of the end of FY 15-16 the racial and ethnic diversity of the state workforce was 16.63%. This is a 1.14% increase from the previous fiscal year. The progress has not kept up with the
+diversification of Oregon’s civilian workforce but shows improvement.
+Calculation: 16.63% / 21.7% = 76.64% of the goal of 100% reflection of the Oregon workforce
+As of the end of FY 15-16 the racial and ethnic diversity of the DAS workforce was 15.82%.  An increase of 1.52% over the previous year.
+Calculation: 15.82% / 21.7% = 72.9% of the goal of 100% reflection of the Oregon workforce
+Factors Affecting Results
+One challenge is being considered the employer of choice for people in minority ethnic groups. The state, as one of Oregon’s largest employers, has not been adequately marketed to these
+groups. Much of Oregon’s diversity is concentrated in the Portland metropolitan area. The state has opened several office locations in the metro area but the majority of state jobs remain in Salem.
+KPM #6
+FLEET ADMINSTRATION
+- Average Miles Per Gallon for DAS Permanently Assigned Fleet Vehicles.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Average Miles Per Gallon
+Actual
+20.01%
+20.11%
+20.27%
+20.24%
+20.43%
+Target
+TBD
+TBD
+TBD
+TBD
+TBD
+How Are We Doing
+In 2015 the average efficiency was 20.24. For FY 2016, the efficiency increased by .19 MPG. The program has increased its fuel efficiency by 8.2% over the 2007 baseline and is on track to
+achieve its goal of a 10% increase in efficiency by 2020.
+Factors Affecting Results
+Continued investment in replacing older cars with higher fuel efficiency vehicles in general plus transition to smaller size or smaller engines for pickup trucks and SUV’s where feasible has yielded
+positive results.
+KPM #7
+RENT COSTS - DAS negotiated lease rates in private sector vs. average market rates.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+DAS negotiated lease rate vs. average market rate (Salem/Keizer)
+Actual
+No Data
+No Data
+No Data
+No Data
+15%
+Target
+TBD
+TBD
+TBD
+TBD
+0%
+How Are We Doing
+Salem (FYE June, 2016)
+DAS-negotiated office lease rates in private sector vs.
+average market rate
+15%
+savings compared to market rates (on average) with 150,000 square foot
+of space negotiated
+State private lease rate
+$1.49
+Average cost of market
+$1.74
+The 2015-2016 measure period has performed beyond expectations. It is currently a difficult market, yet we have been able to leverage our resources and buying power in our negotiations.
+Factors Affecting Results
+The market is heavily leaning on the power and position of the landlords, as the supply of space is low in comparison with the current market demand, giving immense negotiation power to
+landlords.  We are continuing to negotiate prices under-market however, and accumulate vast savings in facility costs for state agencies (over $70 million in cost savings since 2014). Moving
+forward, we predict that the power will continue to shift heavily towards the landlords, we should see a disadvantage from a negotiations standpoint over the next couple of years.
+KPM #8
+INFORMATION SECURITY
+- Overall information security maturity rating based on a sample of state agencies. Rating achieved using a compilation and aggregate score based on the ISO
+27002 standard and assigning a rating using the Carnegie-Mellon Capability Maturity Model. (3rd party conducting information security business risk assessments)
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Information Security
+Actual
+2.63
+2.73
+2.80
+3.11
+Target
+How Are We Doing
+DAS and a third party vendor use the International Organization for Standardization (ISO) information security standards ISO 27001 and 27002, and the Carnegie Melon Software Engineering
+Institute’s Capability Maturity Model integration (CMMi) to provide a framework for the risk assessment. Initial Information Security Business Risk Assessment (ISBRA) results, beginning in 2007,
+indicated an aggregated average of 1.8 which approaches a “Managed Level” of maturity. This continued upward trend has resulted in the combined agencies achieving a slightly above “Define
+Level” (3.11) in 2015.  It is important to understand that every agency is not at the same level of maturity in each category, nor should they be. Typically, agencies progress fairly quickly and then
+as they focus on more complex areas, such as addressing business processes, results take longer to achieve. Through a consultative, collaborative process, realistic goals are established based
+on a variety of factors including risk, line of business, type and amount of confidential information, etc. Achieving these goals ensures agencies realize success which encourages continued
+commitment, momentum and progress.
+Factors Affecting Results
+In this challenging business environment, agencies' perception of their business risks may change, resulting in acceptance of a lower maturity rating. Formal security program - when agencies adopt
+a formal information security program (security plan with metrics, policies and governance) with reporting and management, their CCMi maturity increases. Staff training and awareness - agency
+staff awareness of, and involvement in, the security program aids and improves that progress. Leadership - once a program is established, agency leadership must be actively involved and
+establish direction based on effectively managing risk. They must focus on specific category initiatives. Resources - these initiatives often take more planning and investment of resources which
+may result in a slower maturity growth rate. However, these initiatives are important in reducing overall risk. Budget - with reduced funding and resources, focusing on security categories with low
+cost and high return on investment will be critical to continued success.
+KPM #9
+PROCUREMENT EFFECTIVENESS
+- Estimated savings resulting from price agreement pricing compared to prices that would be paid without the benefit of a price agreement.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Procurement Effectiveness
+Actual
+2.10%
+No Data
+3.10%
+0.80%
+2.55%
+Target
+8.50%
+8.50%
+8.50%
+8.50%
+8.50%
+How Are We Doing
+PS’ performance is fair in currently achieving savings with three of the five commodities having positive rates of savings. An aspect to consider when making this assessment is the extent of spend
+on those commodities. The volume of combined spend on the two commodities with an appreciable rate of savings (greater than 2.0%) - Office Supplies with a rate of savings of 3.7% and PC
+Hardware with a rate of savings of 6.7% – is extensive at $20M annually.
+On the other hand the performance on Vehicles and Cellular Phones is dragging the overall results down. With a volume of $21M of sales on Vehicles during CY2015, the negative rate of savings
+of -0.3% is directly reducing the overall savings by $61K; it could contribute to savings if positive. The neutral rate of savings (0.0%) for Cellular Phones means this commodity is also not currently
+contributing to the savings achieved by PS.
+For Janitorial Supply, the rate of savings is 1.4%: below the overall results but contributing to savings.
+The overall savings of almost $1.2M on a volume of spend of $45M indicates a composite rate of savings of 2.5%. In this environment of global competitive and national cooperative procurement, it
+is remarkable if rates of savings above 5% can be achieved by any one state over its neighbor states. It is not sustainable for any significant length of time as one expects other states to adjust to
+close any gap in performance. The achieved rate of 2.5% overall is considered fair and the corresponding savings of $1.2M are praiseworthy.
+Factors Affecting Results
+The more likely explanation for PC Hardware’s stellar results (with a 6.7% rate of savings) is the moving away from a Western States Contracting Alliance (WSCA) / National Association of State
+Procurement Officials (NASPO) cooperative procurement and venturing to conduct a procurement solo. A second likely explanation is the channeling of all purchases through a single price
+agreement and vendor, in this case a reseller. This is the ultimate leveraging of spend – a tenet of strategic sourcing. It is the opposite of spreading the state’s (and other governmental entities)
+spend across many price agreements and vendors. A third factor may be the usual better performance associated with a recent solicitation and resulting awarding of price agreements. The current
+award was done less than a year ago and therefore is “fresh”. Pricing may therefore be currently significantly advantageous but may fritter away over time if the vendor tries to recuperate lower
+than desirable profit margins early on in the life of the price agreement as a foot in the door approach to winning an award. This third factor is tempered by the fact that the cost structure is a cost
+plus mechanism. The savings now experienced are probably more due to the competitive environment created by the solicitation than by the cost structure of the price agreement.
+For Office Supplies, the reason for positive results cannot be explained easily. While the comparison against Washington and Colorado is the primary cause of Oregon’s good results, it is not clear
+why these two states have higher prices since one (Washington) participates to the NASPO/WSCA cooperative procurement as led by Oregon while the other one (Colorado) doesn’t. With
+Washington also having a price agreement w Office Depot - Oregon’s Office Supplies’ vendor with the most spend - a sizable difference in prices is unexpected.
+For Cellular Phones, there is a high level of complexity resulting from the dynamic nature of the plans (e.g. partitioning of charges, bundling/sharing of plans). In addition, most state agencies use
+Wireless Watchdogs to work directly with the cell phone vendors to provide them with the best deal at the moment. This practice results in Volume Sales Reports (VSRs) which provide spend per
+account instead of per service plan. This prevents analysis on frequency of use and spend for any of the plans specified in the price lists and as a result cost savings cannot be calculated. Only
+spend and prices on equipment purchased could be obtained and there is little differentiation among the states of the analysis, all states being participants to a WSCA/NASPO procurement with the
+same vendors. The lack of availability of useable data is a limiting factor for this commodity.
+For Vehicles, lack of more refined useable data on Oregon’s Price List and to a lesser extent, in the suppliers’ VSRs was a limiting factor, even if improved since last year. For a few years now the
+ORPIN Summary Page data no longer lists prices corresponding to all models and configurations for a vehicle. On the single price list available as attachment in ORPIN, there lacks a substantive
+description with which to compare a vehicle against a neighbor state’s price list. With Oregon’s approach to offer to its customers any vehicle a dealer offers, it’s a daunting task to have all
+specifications for all vehicles documented. (For example, the vehicle with the most sales in CY2015 was identified as follows on the respective states’ price lists: Oregon: 2017 Ford Fusion S Sedan;
+Washington: Midsize Car, 4-Door, 5-Passenger, Gas-powered, Contract #03513; Idaho: FUSION 4DR SEDAN S FWD, gas-powered with vendor Goode Motors Ford; Utah: 4DR, SEDAN S, FWD,
+2.5L I-4, 6-SPD AUTO. With these rather basic descriptions, concluding that an apple-to-apple match exists between these descriptions is not a straightforward decision.) Only model years 2016
+and 2017 were included in the analysis with seven for model year 2016 and 16 for model year 2017. Model years were not crossed however; two vehicles were not considered comparable unless of
+a same model year.
+As for the VSRs, they don’t generally separate base price from total price with all options included. Determining what exact vehicle and configuration a vehicle has is impossible without other
+sources of information. While the administrative fee is now charged on the total sale price (compared to before CY2011), there is still a need to have VSRs include the model order code for a
+vehicle that uniquely describes the base vehicle with a unique price tag on the corresponding official price list and the price inclusive of all options purchased.
+Of the 23 model order codes analyzed, 17 (74%) had a positive rate of savings and six (26%) returned a negative rate of savings including the top two with the most purchases: P0G (MY2017 Ford
+Fusion S Sedan) with an Oregon price of $17,689 and rate of savings of -2.32% (compared to Washington at $17,019, Utah at $17,106, and Idaho at $17,298); and U0F (MY2017 Ford Escape S
+SUV, FWD) with an Oregon price of $19,930 and rate of savings of 4 -4.25% (compared to Washington at $18,517, Utah at $18,707, and Idaho at $19,182). The most favorable comparison for
+Oregon was for CC15706 (MY2016, Chevrolet Tahoe, 2WD, 9C1) with an Oregon price of $33,011 and rate of savings of 9.54% (compared to Washington at $41,681, and Idaho at $36,939).
+CY2015 annual spend data was used; it was $24M (33%) less than CY2014 which may indicate a lesser need for vehicles by our customers. A total of 133 vehicles were sold to state agencies in
+CY2015 on the 23 models of the analysis (irrespective of the actual model year).
+None of the 23 vehicles of the sample were for alternatives to gas-powered engines and this may have affected the results. Both ODF and ODOT are known to have purchased vehicles with biofuel
+capability in this biennium even though this is not captured in the results. While Oregon outperformed both Washington and California, it was outperformed by Utah and Idaho for an overall slightly
+negative result. While the administration of all the price agreements for Vehicles is known to significantly pursue a total cost of ownership, this very desirable attribute gets lost under the KPM #9
+measurement methodology.
+The study excludes spend and savings on ADA vehicles. As for all other four commodities, only spend and savings on purchases from state agencies are accounted for in the study.
+For Janitorial Supply - mostly Industrial Paper - Oregon vastly outperformed GSA prices and only marginally outperformed California while being outperformed by Idaho, Colorado, and Washington.
+Availability of price sources with which to compare an item prevailed this year in the analysis and these sources were used to the largest extent possible even if the quantity of a particular item may
+have been negligible. For example the analysis includes a comparison across our neighbor states of a MY2016 Dodge Charger Police, Rear-Wheel Drive vehicle even though there are no such
+sales on record in Oregon for CY2015. The size of the samples selected were still quite significant and large enough to be representative of all items on the commodities of the analysis.
+KPM #10
+RISK MANAGEMENT
+- Annual number of Severe Worker's Compensation claims per 100 FTE
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2012
+2013
+2014
+2015
+2016
+Number of Severe Worker's Compensation Claims per 100 FTE
+Actual
+2.03
+1.76
+1.58
+1.57
+1.56
+Target
+How Are We Doing
+The number of severe claims per 100 FTE continues to trend downward, however the trend line is nearly flattened.  This is an indication that more effort is needed to prevent these types of claims.
+Fiscal
+Year
+Number of Severe Claims
+Per 100 FTE
+2.03
+1.76
+1.58
+1.57
+1.56
+Calculation detail:
+Claims involving disability: 639
+Total Claims: 1925
+FTE in 100s: 410
+ # WC claims w/disability per 100 FTE: 1.56
+Factors Affecting Results
+The decrease is affected by the changes in FTE during and post-recession.  The overall number of claims and the number of severe claims has continued to rise and fall with FTE.
+KPM #11
+SUSTAINABILITY - Percentage reduction in greenhouse gas emissions.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2012
+2013
+2014
+2015
+2016
+% Reduction in Greenhouse Gas Emissions
+Actual
+No Data
+No Data
+No Data
+No Data
+0%
+Target
+TBD
+TBD
+TBD
+TBD
+0%
+How Are We Doing
+No data for 2016.
+Factors Affecting Results
+KPM #13
+DATA CENTER
+- Percentage of time systems are available.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Data Center- Systems Availability
+Actual
+99.71%
+99.80%
+99.90%
+99.96%
+99.90%
+Target
+99.90%
+99.90%
+99.90%
+99.99%
+99.90%
+How Are We Doing
+The availability of 99.90% for FY 2016 is on target, but shows a slight decline since FY 2015 with a 99.96% availability.  However, the Data Center has maintained service levels at or above the
+99.90% target for the last 3 consecutive Fiscal Years.
+Factors Affecting Results
+Availability data no longer includes planned outages and false outage reports that cause the availability to be reported at higher value than actual. The Data Center is transitioning to a Unified
+Computing Platform and has stabilized the computing environment as well as significantly expanding the usage of our computing infrastructure.

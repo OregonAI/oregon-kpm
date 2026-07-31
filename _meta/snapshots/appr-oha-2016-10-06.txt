@@ -1,0 +1,1202 @@
+Oregon Health Authority
+Annual Performance Progress Report
+Reporting Year 2016
+Published: 10/6/2016 9:31:56 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+INITIATION OF ALCOHOL AND OTHER DRUG DEPENDENCE TREATMENT
+- Percentage of members with a new episode of alcohol or other drug dependence who received initiation of AOD treatment within 14 days of diagnosis.
+ENGAGEMENT OF ALCOHOL AND OTHER DRUG DEPENDENCE TREATMENT
+- Percentage of members with a new episode of alcohol or other drug dependence who received two or more services within 30 days of initiation visit.
+FOLLOW-UP AFTER HOSPITALIZATION FOR MENTAL ILLNESS
+- Percentage of enrollees 6 years of age and older who were hospitalized for treatment of mental health disorders and who were seen on an outpatient basis or were in intermediate
+treatment within seven days of discharge.
+MENTAL AND PHYSICAL HEALTH ASSESSMENTS FOR CHILDREN IN DHS CUSTODY
+- Percentage of children in DHS custody who receive a mental and physical health assessment within 60 days of initial custody.
+FOLLOW-UP CARE FOR CHILDREN PRESCRIBED WITH ADHD MEDICATION (INITIATION)
+- Percentage of children newly prescribed attention-deficit/hyperactivity disorder (ADHD) medication who had at least three follow-up care visits within a 10-
+month period, one of which was within 30 days of when the first ADHD medication was dispensed
+FOLLOW-UP CARE FOR CHILDREN PRESCRIBED WITH ADHD MEDICATION (CONTINUATION AND MAINTENANCE)
+- Percentage of children newly prescribed attention-deficit/hyperactivity disorder (ADHD) medication who had at least three follow-up
+care visits within a 10-month period, one of which was within 30 days of when the first ADHD medication was dispensed
+30 DAY ILLICIT DRUG USE AMONG 6TH GRADERS
+- Percentage of 6th graders who have used illicit drugs in the past 30 days.
+30 DAY ALCOHOL USE AMONG 6TH GRADERS
+- Percentage of 6th graders who have used alcohol in the past 30 days.
+30 DAY ILLICIT DRUG USE AMONG 8TH GRADERS
+- Percentage of 8th graders who have used illicit drugs in the past 30 days.
+30 DAY ALCOHOL USE AMONG 8TH GRADERS
+- Percentage of 8th graders who have used alcohol in the past 30 days.
+30 DAY ILLICIT DRUG USE AMONG 11TH GRADERS
+- Percentage of 11th graders who have used illicit drugs in the past 30 days.
+30 DAY ALCOHOL USE AMONG 11TH GRADERS
+- Percentage of 11th graders who have used alcohol in the past 30 days.
+PRENATAL CARE (POPULATION)
+- Percentage of women who initiated prenatal care in the first 3 months of pregnancy.
+PRENATAL CARE (MEDICAID)
+- Percentage of women who initiated prenatal care within 42 days of enrollment.
+PRIMARY CARE SENSITIVE HOSPITAL ADMISSIONS/INPATIENT STAYS
+- Rate per 100,000 client years of admissions (for 12 diagnoses) that are more appropriately treated in an outpatient setting.
+PATIENT CENTERED PRIMARY CARE HOME (PCPCH) ENROLLMENT
+- Number of members enrolled in patient-centered primary care homes by tier.
+ACCESS TO CARE
+- Percentage of members who responded "always" or "usually" too getting care quickly (composite for adult and child).
+MEMBER EXPERIENCE OF CARE
+- Composite measurement: how well doctors communicate; health plan information and customer service (Medicaid population).
+MEMBER HEALTH STATUS
+- Percentage of CAHPS survey respondents with a positive self-reported rating of overall health (excellent, very good).
+RATE OF TOBACCO USE (POPULATION)
+- Rate of tobacco use among adults.
+RATE OF TOBACCO USE (MEDICAID)
+- Percentage of CCO enrollees who currently smoke cigarettes or use tobacco every day or some days.
+RATE OF OBESITY (POPULATION)
+- Percentage of adults who are obese among Oregonians.
+RATE OF OBESITY (MEDICAID)
+- Percentage of Medicaid population who are obese.
+EFFECTIVE CONTRACEPTIVE USE (POPULATION)
+- Percentage of reproductive age women who are at risk of unintended pregnancy using an effective method of contraception.
+EFFECTIVE CONTRACEPTIVE USE (MEDICAID)
+- Percentage of reproductive age women who are at risk of unintended pregnancy using an effective method of contraception.
+FLU SHOTS (POPULATION)
+- Percentage of adults ages 50-64 who receive a flu vaccine.
+FLU SHOTS (MEDICAID)
+- Percentage of adults ages 50-64 who receive a flu vaccine.
+CHILD IMMUNIZATION RATES (POPULATION)
+- Percentage of children who are adequately immunized (immunization series 4:3:1:3:3:1:4).
+CHILD IMMUNIZATION RATES (MEDICAID)
+- Percentage of children who are adequately immunized (immunization series 4:3:1:3:3:1:4).
+PLAN ALL CAUSE READMISSIONS
+- Percentage of acute inpatient stays that were followed by an acute readmission for any diagnosis within 30 days and the predicted probability of an acute readmission for members 18 years and older.
+Customer Service - Percentage of OHA customers rating their satisfaction with the agency's customer service as "good" or "excellent" overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+Green
+Yellow
+Red
+= Target to -5%
+= Target -6% to -15%
+= Target > -15%
+Summary Stats:
+16.67%
+0%
+83.33%
+red
+green
+yellow
+KPM #1
+INITIATION OF ALCOHOL AND OTHER DRUG DEPENDENCE TREATMENT
+- Percentage of members with a new episode of alcohol or other drug dependence who received initiation of
+AOD treatment within 14 days of diagnosis.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Initiation of alcohol and other drug dependence treatment
+Actual
+No Data
+33.30%
+39.20%
+37.50%
+No Data
+Target
+TBD
+TBD
+27.81%
+28.35%
+38.20%
+How Are We Doing
+The percentage of Medicaid members ages 13 and older who were newly diagnosed with alcohol or other drug dependencies and who began treatment within 14 days of initial diagnosis has
+increased since 2013 and remains above the KPM target.
+Factors Affecting Results
+It is possible that the increased statewide emphasis on alcohol and drug use screening (SBIRT) due to the CCO incentive measure has resulted in an increase in initiation of alcohol and drug
+treatment, as more individuals with risky or problematic substance use are identified and referred to treatment services.
+KPM #2
+ENGAGEMENT OF ALCOHOL AND OTHER DRUG DEPENDENCE TREATMENT
+- Percentage of members with a new episode of alcohol or other drug dependence who received two or
+more services within 30 days of initiation visit.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Engagement of alcohol and other drug dependence treatment
+Actual
+No Data
+21.60%
+21%
+18.40%
+No Data
+Target
+TBD
+TBD
+9.27%
+9.45%
+10.60%
+How Are We Doing
+While initiation of treatment for Medicaid members ages 13 and older diagnosed with alcohol or other drug dependency (i.e. KPM #1) has increased since 2013, continued engagement -- defined
+as receiving two or additional services within 30 days of initial treatment -- declined in 2015. However, performance remains above the KPM target.
+Factors Affecting Results
+Nationally, performance on this metric is low, with a 2013 national Medicaid median of only 10.6%.
+KPM #3
+FOLLOW-UP AFTER HOSPITALIZATION FOR MENTAL ILLNESS
+- Percentage of enrollees 6 years of age and older who were hospitalized for treatment of mental health disorders and
+who were seen on an outpatient basis or were in intermediate treatment within seven days of discharge.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Follow-up after hospitalization for mental illness
+Actual
+No Data
+67.60%
+66.70%
+75.30%
+No Data
+Target
+TBD
+TBD
+61%
+68%
+70%
+How Are We Doing
+In 2015, three quarters of Medicaid members (ages 6 and older) who were admitted to the hospital for mental illness received follow-up with a health care provider within seven days of discharge.
+Oregon is achieving the KPM target and in 2015 surpassed the 2014 national Medicaid 90th percentile.
+Beginning in 2015, follow-up visits on the same day of discharge were included in the measure. 2014 performance re-calculated using these updated measure specifications is 71.8%.
+Factors Affecting Results
+Oregon is using a modified version of the measure which includes follow up care provided in community health settings, resulting in our higher rate. This is also a CCO incentive measure and
+hospital incentive measure, so CCOs and hospitals across the state are making concerted efforts to improve performance.
+KPM #4
+MENTAL AND PHYSICAL HEALTH ASSESSMENTS FOR CHILDREN IN DHS CUSTODY
+- Percentage of children in DHS custody who receive a mental and physical health assessment
+within 60 days of initial custody.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Mental health assessment for children in DHS custody
+Actual
+No Data
+63.50%
+70%
+58.40%
+No Data
+Target
+TBD
+TBD
+70%
+90%
+90%
+How Are We Doing
+In 2015, dental health assessments were added to this CCO incentive measure, resulting in a notable decrease from earlier years when only mental and physical health assessments were included
+in the measure calculations (63.5% and 70.0% in 2013 and 2014, respectively). However when 2014 data are recalculated using these updated specifications, we find that only 27.9% of members
+received all three components of care. Thus, while there is plenty of room for continued improvement, progress was notable in this first year of using the updated specifications.
+Factors Affecting Results
+Because this is a CCO incentive measure, CCOs across the state are making concerted efforts to improve performance. One factor driving improvement has been increased coordination between
+CCOs and local DHS branch offices.
+KPM #5
+FOLLOW-UP CARE FOR CHILDREN PRESCRIBED WITH ADHD MEDICATION (INITIATION)
+- Percentage of children newly prescribed attention-deficit/hyperactivity disorder (ADHD)
+medication who had at least three follow-up care visits within a 10-month period, one of which was within 30 days of when the first ADHD medication was dispensed
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Follow-up care for children prescribed with ADHD medication (initiation)
+Actual
+No Data
+53.30%
+57.70%
+61.10%
+No Data
+Target
+TBD
+TBD
+51%
+51%
+53%
+How Are We Doing
+In 2011, 52.3% of children ages 6-12 had at least one follow up visit with a health care provider during the 30 days after receiving a new prescription for Attention Deficit Hyperactivity Disorder
+(ADHD) medication. In 2013, the rate had increased just slightly to 53.3%, above the KPM target, and above the 90th percentile nationally. The rate has continued to improve since then, with 61.1%
+of patients newly prescribed ADHD medication receiving follow up in 2015. Due in part to these successes, this measure had been retired as a CCO incentive measure beginning in 2015. Oregon is
+above the national 90th percentile for both Medicaid and Commercial.
+Factors Affecting Results
+We have heard from providers that limiting the follow up visit to within the first 30 days is not well aligned with some of the current ADHD medications, which may require a 45 day initial prescription.
+Children with these longer initial prescriptions would fall outside of the 30 day window for this measure.
+KPM #6
+FOLLOW-UP CARE FOR CHILDREN PRESCRIBED WITH ADHD MEDICATION (CONTINUATION AND MAINTENANCE)
+- Percentage of children newly prescribed attention-
+deficit/hyperactivity disorder (ADHD) medication who had at least three follow-up care visits within a 10-month period, one of which was within 30 days of when the first ADHD medication
+was dispensed
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Follow-up care for children prescribed with ADHD medication (continuation and maintenance)
+Actual
+No Data
+61.60%
+60.80%
+68.90%
+No Data
+Target
+TBD
+TBD
+63%
+63%
+64%
+How Are We Doing
+Calendar year 2011 is the baseline for this measure. In 2011, 61.0% of children who remained on ADHD medication for 210 days after receiving a new prescription also had at least two follow up
+visits with a provider. This rate remained fairly steady in 2013 and 2014, and increased notably in 2015, with 68.9% of children receiving continued follow-up with a provider.
+Factors Affecting Results
+A number of other CCO incentive measures as well as initiatives including the patient-centered primary care home model put greater emphasis on preventive care and well child visits. These efforts
+may result in children being more likely to engage with their primary care providers, leading to greater follow-up care for children prescribed medications for their ADHD. This measure is also
+notable for small denominators across the CCOs (with some having fewer than 30 children that meet these criteria); data shifts are more likely given these small numbers
+.
+KPM #7
+30 DAY ILLICIT DRUG USE AMONG 6TH GRADERS
+- Percentage of 6th graders who have used illicit drugs in the past 30 days.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+30 day illicit drug use among 6th graders
+Actual
+1.80%
+No Data
+1.40%
+No Data
+1.70%
+Target
+TBD
+TBD
+1.77%
+1.75%
+1.40%
+How Are We Doing
+In 2012, the percentage of 6th graders who used any illicit drug in the past 30 days was 1.8%; in 2014 this decreased slightly to 1.4%; and in 2016 this increased again 1.7%.
+Factors Affecting Results
+Favorable attitudes on the part of youth about using alcohol and other drugs can be a major predictor of their use. Parental attitudes toward drugs use have a tremendous effect on youth use.
+Youth whose parents feel that drug use is a “rite of passage” or that “kids will be kids” have much higher rates of illicit drug use than those whose parents are clear that youth should not do drugs.
+KPM #8
+30 DAY ALCOHOL USE AMONG 6TH GRADERS
+- Percentage of 6th graders who have used alcohol in the past 30 days.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+30 day alcohol use among 6th graders
+Actual
+6.70%
+No Data
+4.50%
+No Data
+4%
+Target
+TBD
+TBD
+6.60%
+6.50%
+4.50%
+How Are We Doing
+In 2012, 6.7% of 6th graders had at least one drink of alcohol within the past 30 days; in 2016, this decreased to 4.0%, meeting the target for 2016.
+Factors Affecting Results
+Underage drinking is considered a form of excessive alcohol use because it is both illegal and often involves consumption in quantities and settings that can lead to serious immediate and long-term
+consequences. The availability (price and retailer density), promotion and marketing of alcohol influence youth use rates.
+KPM #9
+30 DAY ILLICIT DRUG USE AMONG 8TH GRADERS
+- Percentage of 8th graders who have used illicit drugs in the past 30 days.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+30 day illicit drug use among 8th graders
+Actual
+9%
+9.70%
+8.10%
+8.80%
+7.90%
+Target
+TBD
+TBD
+8.87%
+8.73%
+8.10%
+How Are We Doing
+In 2012, the percentage of 8th graders who used any illicit drug in the past 30 days was 9.0%. After a slight increase in 2013 (9.7%), the rate has decreased each year with 7.9% of 8th graders
+using illicit drugs in the past 30 days in 2016.
+Factors Affecting Results
+Favorable attitudes on the part of youth about using alcohol and other drugs can be a major predictor of their use. Parental attitudes toward drugs use have a tremendous effect on youth use.
+Youth whose parents feel that drug use is a “rite of passage” or that “kids will be kids” have much higher rates of illicit drug use than those whose parents are clear that youth should not do drugs.
+KPM #10
+30 DAY ALCOHOL USE AMONG 8TH GRADERS
+- Percentage of 8th graders who have used alcohol in the past 30 days.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+30 day alcohol use among 8th graders
+Actual
+19.60%
+13.80%
+16.90%
+11.90%
+15.40%
+Target
+TBD
+TBD
+19.31%
+19.01%
+16.50%
+How Are We Doing
+In 2012, 19.6% of 8th graders had at least one drink of alcohol in the past 30 days; in 2016, the rate decreased to 15.4%, meeting the 2016 target.
+Factors Affecting Results
+Underage drinking is considered a form of excessive alcohol use because it is both illegal and often involves consumption in quantities and settings that can lead to serious immediate and long-term
+consequences. The availability (price and retailer density), promotion and marketing of alcohol influence youth use rates.
+KPM #11
+30 DAY ILLICIT DRUG USE AMONG 11TH GRADERS
+- Percentage of 11th graders who have used illicit drugs in the past 30 days.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+30 day illicit drug use among 11th graders
+Actual
+22.20%
+20.90%
+19.10%
+19.10%
+19.60%
+Target
+TBD
+TBD
+21.87%
+21.53%
+19%
+How Are We Doing
+In 2012, the percentage of 11th graders who used any illicit drug in the past 30 days was 22.2%. By 2016, this decrased somewhat to 19.6%.
+Factors Affecting Results
+Favorable attitudes on the part of youth about using alcohol and other drugs can be a major predictor of their use. Parental attitudes toward drugs use have a tremendous effect on youth use.
+Youth whose parents feel that drug use is a “rite of passage” or that “kids will be kids” have much higher rates of illicit drug use than those whose parents are clear that youth should not do drugs.
+KPM #12
+30 DAY ALCOHOL USE AMONG 11TH GRADERS
+- Percentage of 11th graders who have used alcohol in the past 30 days.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+30 day alcohol use among 11th graders
+Actual
+35.90%
+31%
+33.50%
+29.10%
+29.80%
+Target
+TBD
+TBD
+35.36%
+34.82%
+33.50%
+How Are We Doing
+In 2012, 35.9% of Oregon 11th graders had at least one drink of alcohol in the past 30 days; in 2016 this decreased to 29.8%, meeting the 2016 target.
+Factors Affecting Results
+Underage drinking is considered a form of excessive alcohol use because it is both illegal and often involves consumption in quantities and settings that can lead to serious immediate and long-term
+consequences. The availability (price and retailer density), promotion and marketing of alcohol influence youth use rates.
+KPM #13
+PRENATAL CARE (POPULATION)
+- Percentage of women who initiated prenatal care in the first 3 months of pregnancy.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Prenatal care - population
+Actual
+No Data
+77.80%
+77.50%
+79%
+No Data
+Target
+TBD
+TBD
+79%
+89%
+90%
+How Are We Doing
+The rate of first trimester prenatal care has risen from 77.8% in 2012 to 79% in 2015.
+In 2015, the overall rate in Oregon surpassed the HP 2020 objective of 77.9%; however, rates vary by race/ethnicity and maternal age. According to the March of Dimes PeriStats, in 2013
+Washington's rate was 74.1% and California's 82.8%, compared to 77.8% in Oregon.
+Factors Affecting Results
+Women give a variety of reasons for not accessing early prenatal care.Women may not feel that early care is important, may not know they are pregnant or may be experiencing barriers such as
+lack of insurance coverage, inability to get a prenatal care appointment or unreliable transportation.
+KPM #14
+PRENATAL CARE (MEDICAID)
+- Percentage of women who initiated prenatal care within 42 days of enrollment.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Prenatal care - Medicaid
+Actual
+No Data
+67.30%
+82.90%
+84.70%
+No Data
+Target
+TBD
+TBD
+69%
+89%
+90%
+How Are We Doing
+The rate of first trimester prenatal care for Medicaid increased slightly from 65.3% in 2011 to 67.3% in 2013 (administrative data only). In 2014, the percentage of women who received timely
+prenatal care was 75.0%* (measured using administrative data and medical record review). Much of the increase in the rate is due to the incorporation of information from the medical record review.
+In 2015, the rate increased again to 84.7%.
+*Note: 2014 data have been revised since originally submitted in this KPM report.
+Factors Affecting Results
+Women give a variety of reasons for not accessing early prenatal care.  Women may not feel that early care is important, may not know they are pregnant, or may be experiencing barriers such as
+lack of insurance coverage, inability to get an appointment or unreliable transportation. Because this is a CCO incentive measure, CCOs across the state are making concerted efforts to improve
+performance.
+KPM #15
+PRIMARY CARE SENSITIVE HOSPITAL ADMISSIONS/INPATIENT STAYS
+- Rate per 100,000 client years of admissions (for 12 diagnoses) that are more appropriately treated in an
+outpatient setting.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Primary care sensitive hospital admissions/inpatient stays
+Actual
+No Data
+1,559.70
+1,112.40
+1,031.80
+No Data
+Target
+TBD
+TBD
+TBD
+TBD
+TBD
+How Are We Doing
+The composite rate of adult Medicaid members who were admitted to a hospital for preventable conditions continues to decrease (a lower rate is better).
+This measure, as well as four of the condition-specific admission rates, are also reported twice per year online here: http://www.oregon.gov/oha/Metrics/Pages/HST-Reports.aspx.
+Factors Affecting Results
+As CCOs continue to focus on ensuring their members receive the appropriate care at the appropriate time in the appropriate place, many performance indicators are affected. As enrollment in
+patient-centered primary care homes continues to increase (see KPM #15), and CCOs and providers continue to emphasize the importance of preventive care, chronic and acute conditions are
+more likely to be addressed outside of hospital settings, resulting in improvements to this composite rate.
+KPM #15
+PATIENT CENTERED PRIMARY CARE HOME (PCPCH) ENROLLMENT
+- Number of members enrolled in patient-centered primary care homes by tier.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Patient centered primary care home (PCPCH) enrollment
+Actual
+No Data
+78.60%
+81%
+87.50%
+No Data
+Target
+TBD
+TBD
+60%
+100%
+100%
+How Are We Doing
+Calendar year 2012 is the baseline for this measure. In 2012, 51.8 percent of Medicaid members were enrolled in a certified patient centered primary care home. This increased to 78.6 percent by
+the end of 2013, well above the 2014 target of 60 percent. All but one CCO saw increased PCPCH enrollment between 2011 and 2013. In 2014 and 2015, the percentage of members enrolled in a
+patient-centered primary care home continued to increase, to 81.0% in 2014 and 87.5% in 2015. This improvement is impressive considering that CCO enrollment increased more than 60 percent
+in 2014 due to the ACA Medicaid expansion.
+Factors Affecting Results
+Coordinated care organizations are driving improvement on this measure through two main efforts: (1) working with contracted providers to go through the PCPCH recognition process, and (2)
+preferentially assigning members to certified PCPCHs.  PCPCH enrollment is also a CCO incentive measure,
+KPM #16
+ACCESS TO CARE
+- Percentage of members who responded "always" or "usually" too getting care quickly (composite for adult and child).
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Access to care
+Actual
+No Data
+83.60%
+83%
+83.80%
+No Data
+Target
+TBD
+TBD
+85%
+87%
+87.20%
+How Are We Doing
+The percent of Medicaid members reporting they were able to receive appointments and care when they needed them has remained steady since 2011, with the percentage of members reporting
+that they "always or usually" received appointments and care when they needed them hovering near 83%.
+Factors Affecting Results
+The number of Oregonians enrolled in Medicaid increased by more than 60 percent in 2014, predictably increasing demand for care. Access also declined slightly at the national level from 2013 to
+2014 (the 75
+percentile declined from 88.0% in 2013 to 87.2%).
+th
+KPM #17
+MEMBER EXPERIENCE OF CARE
+- Composite measurement: how well doctors communicate; health plan information and customer service (Medicaid population).
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Member experience of care
+Actual
+No Data
+83.10%
+84.60%
+85.40%
+No Data
+Target
+TBD
+TBD
+81%
+84%
+89.60%
+How Are We Doing
+Calendar year 2011 is the baseline for this measure. In 2011, 78 percent of adults and children reported they received needed information or help and thought they were treated with courtesy and
+respect by their health plan's customer service staff. In 2013, the rate increased to 83.1 percent, just shy of the benchmark of 84.0 percent, but still notable considering this increase occurred as
+CCOs were newly established. This increase from 2011 to 2013 was seen across 13 of the 15 CCOs. In 2014 and 2015, the statewide rate continued to increase to 84.6% (2014) and 85.4% (2015),
+surpassing the KPM target in both years.
+Factors Affecting Results
+Inclusion in the CCO incentive program helps ensure that CCOs focus on improving member satisfaction and experiences with their health plan. It is important that Oregon continue to monitor and
+report on this measure.
+KPM #19
+MEMBER HEALTH STATUS
+- Percentage of CAHPS survey respondents with a positive self-reported rating of overall health (excellent, very good).
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Member health status
+Actual
+No Data
+29%
+32%
+35.20%
+No Data
+Target
+TBD
+TBD
+33%
+33%
+33%
+How Are We Doing
+Calendar year 2011 is the baseline for this measure. In 2011, 23% of CCO enrollees responding to the CAHPS survey had a positive self-reported rating of overall health (excellent or very good).
+This rate has increased steadily each year since then, and in 2015, 35.2% of adults reported excellent or very good health status.
+Factors Affecting Results
+This improvement may be due in part to the influx of new Medicaid members after the ACA expansion took effect in 2014. Prior to 2014, a higher percentage of adult members were eligible for
+Medicaid due to disability. With the influx of new, previously ineligible members in 2014, the proportion of members who feel healthier may have increased.
+KPM #19
+RATE OF TOBACCO USE (POPULATION)
+- Rate of tobacco use among adults.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Rate of tobacco use - adult population
+Actual
+22%
+20.80%
+19.30%
+20.60%
+No Data
+Target
+TBD
+TBD
+18%
+17%
+20%
+How Are We Doing
+In 2014, Oregon’s adult current tobacco use was slightly lower than all other states in the United States (19% versus 21%).  Since the beginning of Oregon’s Tobacco Prevention and Education
+Program (TPEP) in 1997, adult cigarette smoking has declined by 25 percent. However, much work needs to be done. Tobacco use remains the number one preventable cause of death and
+disease in Oregon, killing over 7,000 people each year, and costing Oregonians $2.5 billion a year in medical expenditures and lost productivity due to premature death. Results from the Behavioral
+Risk Factors Surveillance System (BRFSS) and Consumer Assessment of Healthcare Providers and Systems (CAHPS) surveyS show that the adult Medicaid population used tobacco at a much
+higher rate than the non-Medicaid adult population in 2015 (30% versus 21%).
+Factors Affecting Results
+The Centers for Disease Control and Prevention Office of Smoking and Health has developed an evidence
+based funding model for countering the health and economic destruction of tobacco use.
+The recommended model funds programs to prevent initiation of tobacco use among young people, to promote quitting among adults and young people, to eliminate exposure to secondhand
+smoke, and to identify and eliminate tobacco
+related disparities. For Oregon, the recommended funding is $10.09 per capita, which equates to $39.3 million annually. This recommendation
+represents just a fraction of the cost of tobacco use, with more than $2.5 billion lost to medical care and lost productivity annually in Oregon.
+During the 2015 - 2017 biennium Oregon received about $2.77 per capita for tobacco prevention from all funding sources, which is 27% of CDC’s recommended funding for tobacco prevention.
+This is comparable with what was allotted to Oregon tobacco prevention a dozen years ago; however, funding levels have been much lower in the years in between. TPEP received approximately
+$2.87 per capita during the 2001
+2003 biennium, but was temporarily shuttered when the Legislature directed the allocated revenues elsewhere. After this interruption, smoking among pregnant
+women and adolescents stopped decreasing, and per capita consumption of cigarettes increased for the first time since the program was first implemented. Since funding was reinstated to TPEP,
+per capita cigarette consumption has steadily declined.
+KPM #20
+RATE OF TOBACCO USE (MEDICAID)
+- Percentage of CCO enrollees who currently smoke cigarettes or use tobacco every day or some days.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Rate of tobacco use - Medicaid population
+Actual
+No Data
+34.10%
+33%
+30.10%
+No Data
+Target
+TBD
+TBD
+26%
+24%
+25%
+How Are We Doing
+In 2014, Oregon’s adult current tobacco use was slightly lower than all other states in the United States (19% versus 21%).  Since the beginning of Oregon’s Tobacco Prevention and Education
+Program (TPEP) in 1996, adult cigarette smoking has declined by 25 percent. However, much work needs to be done. Tobacco use remains the number one preventable cause of death and
+disease in Oregon, killing over 7,000 people each year, and costing Oregonians $2.5 billion a year in medical expenditures and lost productivity due to premature death. From the Consumer
+Assessment of Healthcare Providers and Systems (CAHPS) survey, tobacco use prevalence increased slightly from 31% in 2011 to 33% in 2014 among the adult Medicaid population, and declined
+again between 2014 and 2015 to 30.1%. Compared to the non-Medicaid adult population (see KPM #19), adults on Medicaid are more likely to use tobacco. ​
+Factors Affecting Results
+The Centers for Disease Control and Prevention Office of Smoking and Health has developed an evidence
+based funding model for countering the health and economic destruction of tobacco use.
+The recommended model funds programs to prevent initiation of tobacco use among young people, to promote quitting among adults and young people, to eliminate exposure to secondhand
+smoke, and to identify and eliminate tobacco
+related disparities. For Oregon, the recommended funding is $10.09 per capita, which equates to $39.3 million annually. This recommendation
+represents just a fraction of the cost of tobacco use, with more than $2.5 billion lost to medical care and lost productivity annually in Oregon.
+During the 2015 - 2017 biennium Oregon received about $2.77 per capita for tobacco prevention from all funding sources, which is 27% of CDC’s recommended funding for tobacco prevention.
+This is comparable with what was allotted to Oregon tobacco prevention a dozen years ago; however, funding levels have been much lower in the years in between. TPEP received approximately
+$2.87 per capita during the 2001
+2003 biennium, but was temporarily shuttered when the Legislature directed the allocated revenues elsewhere. After this interruption, smoking among pregnant
+women and adolescents stopped decreasing, and per capita consumption of cigarettes increased for the first time since the program was first implemented. Since funding was reinstated to TPEP,
+per capita cigarette consumption has steadily declined.
+KPM #21
+RATE OF OBESITY (POPULATION)
+- Percentage of adults who are obese among Oregonians.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Rate of obesity - adult population
+Actual
+27%
+26.80%
+26.70%
+29.20%
+No Data
+Target
+TBD
+TBD
+30%
+30%
+30%
+How Are We Doing
+In 2015, 29.2% of adults in Oregon were obese. Oregon’s adult obesity has increased by 145 percent since 1990. More need to be done to slow down obesity rate. In Oregon, obesity contributes to
+the deaths about 1,400 Oregonians each year, making it second only to tobacco as the state’s leading cause of preventable death. From the Behavioral Risk Factors Surveillance System, the adult
+Medicaid population who are obese were 40% higher than the level of the non-Medicaid adult population (35% versus 25%).
+Factors Affecting Results
+Poor nutrition and lack of physical activity are the main factors driving obesity in Oregon. Obesity results from calorie consumption that exceeds the number of calories expended. Since calorie
+consumption is difficult and costly to assess accurately, eating ≥5 servings of fruits and vegetables a day is used as marker of a healthy diet. Regular physical activity is also a critical component of
+weight control.
+During 2013, fewer than one in four Oregon adults consumed ≥5 servings of fruits and vegetables per day, which has been relatively unchanged since 1996. Among youth the situation is similar:
+about one in four Oregon eighth
+graders consumed five or more servings a day of fruits and vegetables in 2015. Young people also drink a lot of sugary beverages: about 10 percent of
+eighth
+graders report drinking an average of one or more soft drinks a day. This means that about one in ten eighth
+graders consume enough soda to add more than 1,000 extra calories to their
+diets each week.
+In 2013, 25% of adult Oregonians met aerobic and muscle strengthening recommendations for physical activity. In 2015, 58% of Oregon eight
+graders met physical activity recommendations of
+getting one or more hours of activity on most days of the week.
+KPM #22
+RATE OF OBESITY (MEDICAID)
+- Percentage of Medicaid population who are obese.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2012
+2013
+2014
+2015
+2016
+Rate of obesity - Medicaid population
+Actual
+40%
+42%
+35.30%
+38.20%
+No Data
+Target
+TBD
+TBD
+40%
+41%
+41%
+How Are We Doing
+In 2015, 38.2% of the adult Medicaid population in Oregon was obese. This is almost 30 percent higher than the non-Medicaid population. Since 1990, Oregon’s adult obesity has increased by 145
+percent. More need to be done to slow down obesity rate. In Oregon, obesity contributes to the deaths about 1,400 Oregonians each year, making it second only to tobacco as the state’s leading
+cause of preventable death. From the Behavioral Risk Factors Surveillance System, the adult Medicaid population who are obese were .0% higher than the level of the non-Medicaid adult
+population (38.2% versus 29.2%).
+Factors Affecting Results
+Poor nutrition and lack of physical activity are the main factors driving obesity in Oregon. Obesity results from calorie consumption that exceeds the number of calories expended. Since calorie
+consumption is difficult and costly to assess accurately, eating ≥5 servings of fruits and vegetables a day is used as marker of a healthy diet. Regular physical activity is also a critical component of
+weight control.
+During 2013, fewer than one in four Oregon adults consumed ≥5 servings of fruits and vegetables per day, which has been relatively unchanged since 1996. Among youth the situation is similar:
+about one in four Oregon eighth
+graders consumed five or more servings a day of fruits and vegetables in 2015. Young people also drink a lot of sugary beverages: about 10 percent of
+eighth
+graders report drinking an average of one or more soft drinks a day. This means that about one in ten eighth
+graders consume enough soda to add more than 1,000 extra calories to their
+diets each week.
+In 2013, 25% of adult Oregonians met aerobic and muscle strengthening recommendations for physical activity. In 2015, 58% of Oregon eight
+graders met physical activity recommendations of
+getting one or more hours of activity on most days of the week.
+KPM #23
+EFFECTIVE CONTRACEPTIVE USE (POPULATION)
+- Percentage of reproductive age women who are at risk of unintended pregnancy using an effective method of contraception.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Effective contraceptive use - population
+Actual
+73.50%
+67.60%
+68.40%
+0%
+0%
+Target
+TBD
+TBD
+55.20%
+56.20%
+57.20%
+How Are We Doing
+From 2011 to 2014, there have been small fluctuations in use of effective contraceptive methods among reproductive-age women who are at risk of unintended pregnancy.  When margins of error
+are considered, these fluctuations cannot be considered to be a significant trend.
+Factors Affecting Results
+One important obstacle to effective contraceptive use is the limited funding available for family planning programs. Oregon’s Title X program, the federal grant program devoted to family planning
+and reproductive health care, has received funding cuts over the last decade while the number of women aged 13-44 in need of publicly-funded contraceptive services increased by 8% between
+2010 and 2014
+[1]
+. Access to effective contraceptive use is further limited by a myriad of barriers at the health system-, provider-, and individual-levels
+[2]
+. It should also be noted that provisions of
+the Affordable Care Act (ACA), including coverage of women’s preventive services, including contraception, without cost sharing, and the expansion of Medicaid, should increase access to family
+planning services and thereby help to reduce unintended pregnancy rates.
+[1]
+Frost JJ et al.,
+Contraceptive Needs and Services, 2014 Update,
+New York: Guttmacher Institute, 2016.
+[2]
+Oregon Health Authority, Effective Contraceptive Use Guidance Document, December 2014.
+KPM #24
+EFFECTIVE CONTRACEPTIVE USE (MEDICAID)
+- Percentage of reproductive age women who are at risk of unintended pregnancy using an effective method of contraception.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Effective contraceptive use - Medicaid population
+Actual
+85%
+71.60%
+68%
+0%
+0%
+Target
+TBD
+TBD
+55.20%
+56.20%
+57.20%
+How Are We Doing
+Calendar year 2011 is the baseline for this measure. From 2011 to 2014, there have been fluctuations in use of effective contraceptive methods among reproductive-age women enrolled in the
+Oregon Health Plan (OHP) who are at risk of unintended pregnancy. Estimated use of effective contraceptive methods in this population increased from 74.7% in 2011 to 85.0% in 2012, then
+decreased to 68.0% in 2014. When small sample sizes and margins of error are considered, these fluctuations cannot be considered to be a significant trend.
+Factors Affecting Results
+Because of limited access to OHP in the past, few women of reproductive age, aside from those deemed eligible due to pregnancy, have been enrolled in full-benefit Medicaid coverage.
+Medicaid expansion in January of 2014 has increased enrollment among the target population, resulting an increase in the number of women with access to contraceptive and other preventive
+health services.
+KPM #25
+FLU SHOTS (POPULATION)
+- Percentage of adults ages 50-64 who receive a flu vaccine.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Flu shots - population
+Actual
+No Data
+36%
+34.90%
+36.10%
+No Data
+Target
+TBD
+TBD
+45%
+57%
+57%
+How Are We Doing
+In 2015, 36% of 50
+64 year olds in Oregon had received an influenza vaccination in the past 12 months as compared to 35% in 2014 and 36% in 2013. This measure has shown little fluctuation
+over the past four years.
+In comparison, 44.3% of people in this age range, nationwide, received an influenza vaccination.  State
+specific vaccination rate estimates range from 36.0% to 60.6% for the 2014-2015 flu
+season.
+Factors Affecting Results
+Immunization rates are influenced by public perception of the need for and efficacy of vaccinations.  Factors that negatively influence rates include: the absence of policies that motivate health
+systems to routinely vaccinate all clients and employees (although improvement has been seen on this point in recent years), limited funding for adult immunizations, and challenges around
+increasing provider use of the ALERT IIS – the statewide immunization registry – that could provide immunization information for providers about their adult populations.  During the 2007 legislative
+session, HB 2188 passed expanding ALERT IIS to a lifespan registry, and during the 2011 legislative session, HB 2371 passed stating that VFC and 317 providers need to report all administered
+doses to ALERT IIS.  Pharmacies are now also required to report all administered vaccines to the ALERT IIS and can presently vaccinate down to age seven.  Over the next few years as the IIS
+collects and processes data, the IIS will contain more comprehensive immunization histories across the lifespan, which will help healthcare providers identify candidates for vaccine and potentially
+send out reminders to clients to seek out an influenza immunization every year.
+KPM #26
+FLU SHOTS (MEDICAID)
+- Percentage of adults ages 50-64 who receive a flu vaccine.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Flu shots - Medicaid population
+Actual
+No Data
+37.20%
+44%
+37%
+No Data
+Target
+TBD
+TBD
+50.50%
+57%
+57%
+How Are We Doing
+In 2015, 37% of all Medicaid recipients in Oregon 50
+64 year of age had received an influenza vaccination in the past 12 months. This measure has shown little improvement over the years.
+Factors Affecting Results
+KPM #27
+CHILD IMMUNIZATION RATES (POPULATION)
+- Percentage of children who are adequately immunized (immunization series 4:3:1:3:3:1:4).
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Child immunization rates - population
+Actual
+60.60%
+58.20%
+65%
+70%
+No Data
+Target
+TBD
+TBD
+72%
+80%
+80%
+How Are We Doing
+The 4:3:1:3:3:1:4 rate for children 24
+35 months of age in 2015 is 70%. This is an increase from 65% in 2014 and 58% in 2013.
+This KPM reflects children 24
+35 months olds with vaccines reported to the statewide immunization information system (IIS).  A national comparison is difficult because national data is based on the
+National Immunization Survey (NIS), which is a telephone survey that samples a limited number of Oregon residents 19
+35 months of age.  However, the national NIS rate for the 4:3:1:3:3:1:4 series
+in 2015 was 71.6% (+/
+1.5%), with 65.3% (+/
+7.9%) for Oregon, 67.4% (+/
+8.1%) for Washington, and 65.9% (+/
+8.0%) for Idaho.
+Beginning in 2016, childhood immunizations (KPM #28) is a CCO incentive metric. This may help drive outreach and improve workflows for this immunization series for all children.
+Factors Affecting Results
+Completion of the four
+dose PCV series has increased from 73.7% in 2013 to 77.4% in 2015. Other vaccines in the 4:3:1:3:3:1:4 series have stayed generally stable during that time. The
+Immunization Program oversees the Vaccines for Children (VFC) program, a federally funded entitlement that provides vaccines at no cost to children who might not otherwise be vaccinated
+because of inability to pay. The success of VFC is based upon partnership between the Oregon Immunization Program and public and private providers. Ninety
+five percent of Oregon's childhood
+immunizations are captured in the ALERT IIS, which is used to estimate immunization rates, while also providing a clinical record for providers to accurately assess the vaccine needs of individual
+children. Other influences include parent and provider knowledge, attitudes, and practices.
+KPM #28
+CHILD IMMUNIZATION RATES (MEDICAID)
+- Percentage of children who are adequately immunized (immunization series 4:3:1:3:3:1:4).
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Child immunization rates - Medicaid population
+Actual
+No Data
+65.30%
+67.80%
+70.70%
+No Data
+Target
+TBD
+TBD
+74%
+82%
+82%
+How Are We Doing
+In 2011, the Medicaid baseline rate used for CCO incentive measure calculation was 66.0%; this decreased slightly in 2013 to 65.3% and since then has increased to 67.8% in 2014 and to 70.7% in
+2015.
+The national 75th percentile has held steady at 82% since 2013. This is also the CCO incentive measure benchmark.
+The National Immunization Survey (NIS) involves a telephone survey that samples Oregon residents 19
+35 months of age. The national rate for the 4:3:1:3:3:1:4 series in - 2015 was 71.6% (+/
+1.5%), with 65.3% (+/
+7.9%) for Oregon, 67.4% (+/
+8.1%) for Washington, and 65.9% (+/
+8.0%) for Idaho.
+Factors Affecting Results
+The Immunization Program oversees the Vaccines for Children (VFC) program, a federally funded entitlement that provides vaccines at no cost to children who might not otherwise be vaccinated
+because of inability to pay.  The success of VFC is based upon partnership between the Oregon Immunization Program and public and private providers.  Ninety
+five percent of Oregon’s childhood
+immunizations are captured in the ALERT IIS, which is used to estimate immunization rates, while also providing a clinical record for providers to accurately assess the vaccine needs of individual
+children.  Other influences include parent and provider knowledge, attitudes, and practices.
+Beginning 2016, childhood immunization status is a CCO incentive metric which will likely drive improved outreach and workflows.
+This measure is also available online here: http://www.oregon.gov/oha/Metrics/Pages/HST-Reports.aspx. Data are available statewide and stratified by race/ethnicity and by CCO. Results are
+published twice per year (January and June).
+KPM #29
+PLAN ALL CAUSE READMISSIONS
+- Percentage of acute inpatient stays that were followed by an acute readmission for any diagnosis within 30 days and the predicted probability of an
+acute readmission for members 18 years and older.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Plan all cause readmissions
+Actual
+No Data
+12.80%
+11.40%
+8.60%
+No Data
+Target
+TBD
+TBD
+10.90%
+10.50%
+10.50%
+How Are We Doing
+Hospital readmissions continue to decline in Oregon (lower is better) and in 2015 achieved the KPM target.
+Factors Affecting Results
+As CCOs continue to focus on ensuring their members receive the appropriate care at the appropriate time in the appropriate place, many performance indicators are affected. As enrollment in
+patient-centered primary care homes continues to increase (see KPM #15), and CCOs and providers continue to emphasize the importance of coordinated, preventive care, post-discharge care is
+likely to be more appropriately addrsesed, resulting in a reduction in this readmission rate.
+KPM #36
+Customer Service - Percentage of OHA customers rating their satisfaction with the agency's customer service as "good" or "excellent" overall, timeliness, accuracy, helpfulness, expertise,
+availability of information.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Overall
+Actual
+No Data
+No Data
+No Data
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+TBD
+95%
+Accuracy
+Actual
+No Data
+No Data
+No Data
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+TBD
+95%
+Availability of Information
+Actual
+No Data
+No Data
+No Data
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+TBD
+95%
+Expertise
+Actual
+No Data
+No Data
+No Data
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+TBD
+95%
+Helpfulness
+Actual
+No Data
+No Data
+No Data
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+TBD
+95%
+Timeliness
+Actual
+No Data
+No Data
+No Data
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+TBD
+95%
+How Are We Doing
+There is no data available for OHA overall at this time. Results from a survey conducted October 2012 - September 2013 by the Oregon Educator's Benefit Board conducted are as follows:
+Timeliness of services provided: 85.4%
+Ability to provide services correctly the first time: 53.6%
+Helpfulness of staff: 84.1%
+Knowledge and expertise of staff: 83.1%
+Availability of information: 78.7%
+Overall service: 83.0%
+Factors Affecting Results

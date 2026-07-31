@@ -1,8 +1,1383 @@
 {
  "corpus": "oregon-kpm",
- "n_nodes": 0,
+ "n_nodes": 229,
  "n_edges": 0,
  "n_edges_external": 0,
- "nodes": [],
+ "nodes": [
+  {
+   "id": "12-01-deq-kpm-report-final",
+   "title": "Environmental Quality, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/12-01-deq-kpm-report-final.md"
+  },
+  {
+   "id": "2016oyaapprreportwithproposedchanges-final",
+   "title": "Youth Authority, Oregon — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/2016oyaapprreportwithproposedchanges-final.md"
+  },
+  {
+   "id": "2018-09-21-appr-odva",
+   "title": "Veterans' Affairs, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/2018-09-21-appr-odva.md"
+  },
+  {
+   "id": "2018-appr-omd",
+   "title": "Military Department — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/2018-appr-omd.md"
+  },
+  {
+   "id": "annual-performance-progress-report-fy18-agy847",
+   "title": "Medical Board, Oregon — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/annual-performance-progress-report-fy18-agy847.md"
+  },
+  {
+   "id": "appr-blsw-2017-10-02",
+   "title": "Social Workers, Board of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-blsw-2017-10-02.md"
+  },
+  {
+   "id": "appr-blsw-2018-09-28",
+   "title": "Social Workers, Board of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-blsw-2018-09-28.md"
+  },
+  {
+   "id": "appr-boa-2016-10-07",
+   "title": "Accountancy, Board of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-boa-2016-10-07.md"
+  },
+  {
+   "id": "appr-boa-2017-09-29",
+   "title": "Accountancy, Board of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-boa-2017-09-29.md"
+  },
+  {
+   "id": "appr-boa-2018-10-04",
+   "title": "Accountancy, Board of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-boa-2018-10-04.md"
+  },
+  {
+   "id": "appr-boli-2017",
+   "title": "Labor and Industries, Bureau of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-boli-2017.md"
+  },
+  {
+   "id": "appr-boli-2018",
+   "title": "Labor and Industries, Bureau of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-boli-2018.md"
+  },
+  {
+   "id": "appr-boppps-2017",
+   "title": "Parole and Post-Prison Supervision, Board of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-boppps-2017.md"
+  },
+  {
+   "id": "appr-boppps-2018",
+   "title": "Parole and Post-Prison Supervision, Board of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-boppps-2018.md"
+  },
+  {
+   "id": "appr-bslpa-9-30-20",
+   "title": "Speech-Language Pathology and Audiology — Annual Performance Progress Report, Reporting Year 2020",
+   "doc_type": "performance_report",
+   "path": "reports/appr-bslpa-9-30-20.md"
+  },
+  {
+   "id": "appr-bspa-2017-10-02",
+   "title": "Speech-Language Pathology and Audiology — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-bspa-2017-10-02.md"
+  },
+  {
+   "id": "appr-bspa-2018-07-27",
+   "title": "Speech-Language Pathology and Audiology — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-bspa-2018-07-27.md"
+  },
+  {
+   "id": "appr-ccb-2018",
+   "title": "Construction Contractors Board — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ccb-2018.md"
+  },
+  {
+   "id": "appr-cedo-2016-10-07",
+   "title": "Chief Education Office — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-cedo-2016-10-07.md"
+  },
+  {
+   "id": "appr-cedo-2017-09-28",
+   "title": "Chief Education Office — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-cedo-2017-09-28.md"
+  },
+  {
+   "id": "appr-cedo-2018-09-28",
+   "title": "Chief Education Office — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-cedo-2018-09-28.md"
+  },
+  {
+   "id": "appr-cfb-2017-09-21",
+   "title": "Blind Commission — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-cfb-2017-09-21.md"
+  },
+  {
+   "id": "appr-cfb-2018-08-29",
+   "title": "Blind Commission — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-cfb-2018-08-29.md"
+  },
+  {
+   "id": "appr-cjfd-2017-10-09-kpm-report",
+   "title": "Judicial Fitness and Disability Commission — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-cjfd-2017-10-09-kpm-report.md"
+  },
+  {
+   "id": "appr-cjfd-2018-09-28",
+   "title": "Judicial Fitness and Disability Commission — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-cjfd-2018-09-28.md"
+  },
+  {
+   "id": "appr-crgc-2016-09-26",
+   "title": "Columbia River Gorge Commission — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-crgc-2016-09-26.md"
+  },
+  {
+   "id": "appr-crgc-2017-09-14",
+   "title": "Columbia River Gorge Commission — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-crgc-2017-09-14.md"
+  },
+  {
+   "id": "appr-das-2017-10-02",
+   "title": "Administrative Services, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-das-2017-10-02.md"
+  },
+  {
+   "id": "appr-datd-2017-10-02",
+   "title": "District Attorneys and Their Deputies — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-datd-2017-10-02.md"
+  },
+  {
+   "id": "appr-datd-2018-07-26",
+   "title": "District Attorneys and Their Deputies — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-datd-2018-07-26.md"
+  },
+  {
+   "id": "appr-dcbs-2017-10-02",
+   "title": "Consumer & Business Services, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-dcbs-2017-10-02.md"
+  },
+  {
+   "id": "appr-dcbs-2018-12-21",
+   "title": "Consumer & Business Services, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-dcbs-2018-12-21.md"
+  },
+  {
+   "id": "appr-deq-2017-10-02",
+   "title": "Environmental Quality, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-deq-2017-10-02.md"
+  },
+  {
+   "id": "appr-dhs-2017-09-29",
+   "title": "Human Services, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-dhs-2017-09-29.md"
+  },
+  {
+   "id": "appr-dlcd-2017-09-13",
+   "title": "Land Conservation and Development Department — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-dlcd-2017-09-13.md"
+  },
+  {
+   "id": "appr-dlcd-2018-12-18final",
+   "title": "Land Conservation and Development Department — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-dlcd-2018-12-18final.md"
+  },
+  {
+   "id": "appr-doc-2017-09-29",
+   "title": "Corrections, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-doc-2017-09-29.md"
+  },
+  {
+   "id": "appr-doe-2017-10-02",
+   "title": "Energy, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-doe-2017-10-02.md"
+  },
+  {
+   "id": "appr-doe-2018-10-01",
+   "title": "Energy, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-doe-2018-10-01.md"
+  },
+  {
+   "id": "appr-dogami-2018-10-02",
+   "title": "Geology & Mineral Industries, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-dogami-2018-10-02.md"
+  },
+  {
+   "id": "appr-doj-2016-11-10",
+   "title": "Justice, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-doj-2016-11-10.md"
+  },
+  {
+   "id": "appr-doj-2017-09-29",
+   "title": "Justice, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-doj-2017-09-29.md"
+  },
+  {
+   "id": "appr-doj-2018-08-29",
+   "title": "Justice, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-doj-2018-08-29.md"
+  },
+  {
+   "id": "appr-dor-2016-09-30",
+   "title": "Revenue, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-dor-2016-09-30.md"
+  },
+  {
+   "id": "appr-dor-2017-09-29",
+   "title": "Revenue, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-dor-2017-09-29.md"
+  },
+  {
+   "id": "appr-dor-2018-final",
+   "title": "Revenue, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-dor-2018-final.md"
+  },
+  {
+   "id": "appr-dpsst-2016-09-28",
+   "title": "Public Safety Standards and Training, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-dpsst-2016-09-28.md"
+  },
+  {
+   "id": "appr-dsl-2017-09-25",
+   "title": "Lands, Department of State — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-dsl-2017-09-25.md"
+  },
+  {
+   "id": "appr-dsl-2018-10-01",
+   "title": "Lands, Department of State — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-dsl-2018-10-01.md"
+  },
+  {
+   "id": "appr-erb-2016-12-19",
+   "title": "Employment Relations Board — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-erb-2016-12-19.md"
+  },
+  {
+   "id": "appr-erb-2017-10-04",
+   "title": "Employment Relations Board — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-erb-2017-10-04.md"
+  },
+  {
+   "id": "appr-erb-2018-07-27",
+   "title": "Employment Relations Board — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-erb-2018-07-27.md"
+  },
+  {
+   "id": "appr-governor-2017-09-28",
+   "title": "Governor's Office — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-governor-2017-09-28.md"
+  },
+  {
+   "id": "appr-governor-2018-10-01",
+   "title": "Governor's Office — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-governor-2018-10-01.md"
+  },
+  {
+   "id": "appr-hecc-2016-10-08",
+   "title": "Higher Education Coordinating Commission — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-hecc-2016-10-08.md"
+  },
+  {
+   "id": "appr-hecc-2017-10-20",
+   "title": "Higher Education Coordinating Commission — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-hecc-2017-10-20.md"
+  },
+  {
+   "id": "appr-hecc-2018-10-03",
+   "title": "Higher Education Coordinating Commission — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-hecc-2018-10-03.md"
+  },
+  {
+   "id": "appr-indian-svc-2016-10-06",
+   "title": "Indian Services, Legislative Commission on — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-indian-svc-2016-10-06.md"
+  },
+  {
+   "id": "appr-lcis-2018-06-07",
+   "title": "Indian Services, Legislative Commission on — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-lcis-2018-06-07.md"
+  },
+  {
+   "id": "appr-leg-admin-2016-09-29",
+   "title": "Legislative Administration — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-leg-admin-2016-09-29.md"
+  },
+  {
+   "id": "appr-leg-admin-2017-10-16",
+   "title": "Legislative Administration — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-leg-admin-2017-10-16.md"
+  },
+  {
+   "id": "appr-leg-admin-2018-10-12",
+   "title": "Legislative Administration — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-leg-admin-2018-10-12.md"
+  },
+  {
+   "id": "appr-leg-counsl-2016-11-10",
+   "title": "Legislative Counsel — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-leg-counsl-2016-11-10.md"
+  },
+  {
+   "id": "appr-leg-counsl-2017-09-29",
+   "title": "Legislative Counsel — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-leg-counsl-2017-09-29.md"
+  },
+  {
+   "id": "appr-lfo-2017-02-10",
+   "title": "Legislative Fiscal Office — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-lfo-2017-02-10.md"
+  },
+  {
+   "id": "appr-lfo-2017-09-26",
+   "title": "Legislative Fiscal Office — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-lfo-2017-09-26.md"
+  },
+  {
+   "id": "appr-lpro-2017-10-02",
+   "title": "Legislative Policy and Research Office — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-lpro-2017-10-02.md"
+  },
+  {
+   "id": "appr-lpro-2018-10-02",
+   "title": "Legislative Policy and Research Office — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-lpro-2018-10-02.md"
+  },
+  {
+   "id": "appr-lro-2016-12-01",
+   "title": "Legislative Revenue Office — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-lro-2016-12-01.md"
+  },
+  {
+   "id": "appr-lro-2017-10-04",
+   "title": "Legislative Revenue Office — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-lro-2017-10-04.md"
+  },
+  {
+   "id": "appr-lro-2018-10-08",
+   "title": "Legislative Revenue Office — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-lro-2018-10-08.md"
+  },
+  {
+   "id": "appr-ltco-2016-09-27",
+   "title": "Long Term Care Ombudsman, Office of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ltco-2016-09-27.md"
+  },
+  {
+   "id": "appr-ltco-2017-09-18",
+   "title": "Published: 9/18/2017 3:57:41 PM — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ltco-2017-09-18.md"
+  },
+  {
+   "id": "appr-ltco-final",
+   "title": "Long Term Care Ombudsman, Office of — Annual Performance Progress Report, Reporting Year 2019",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ltco-final.md"
+  },
+  {
+   "id": "appr-luba-2016-07-18",
+   "title": "Land Use Board of Appeals — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-luba-2016-07-18.md"
+  },
+  {
+   "id": "appr-luba-2017-08-30",
+   "title": "Land Use Board of Appeals — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-luba-2017-08-30.md"
+  },
+  {
+   "id": "appr-luba-2018-07-16",
+   "title": "Land Use Board of Appeals — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-luba-2018-07-16.md"
+  },
+  {
+   "id": "appr-oaco-2016-10-24",
+   "title": "Advocacy Commissions Office — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oaco-2016-10-24.md"
+  },
+  {
+   "id": "appr-oaco-2017-09-29",
+   "title": "Advocacy Commissions Office — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oaco-2017-09-29.md"
+  },
+  {
+   "id": "appr-oaco-2018-10-02",
+   "title": "Advocacy Commissions Office — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oaco-2018-10-02.md"
+  },
+  {
+   "id": "appr-obce-2016-11-02",
+   "title": "Chiropractic Examiners, Board of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obce-2016-11-02.md"
+  },
+  {
+   "id": "appr-obce-2017-10-03",
+   "title": "Chiropractic Examiners, Board of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obce-2017-10-03.md"
+  },
+  {
+   "id": "appr-obce-2018-10-01",
+   "title": "Chiropractic Examiners, Board of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obce-2018-10-01.md"
+  },
+  {
+   "id": "appr-obd-2016-09-12",
+   "title": "Dentistry, Board of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obd-2016-09-12.md"
+  },
+  {
+   "id": "appr-obd-2017",
+   "title": "Dentistry, Board of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obd-2017.md"
+  },
+  {
+   "id": "appr-obdd-2016-10-03",
+   "title": "Business Oregon — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obdd-2016-10-03.md"
+  },
+  {
+   "id": "appr-obdd-2017-09-27",
+   "title": "Business Oregon — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obdd-2017-09-27.md"
+  },
+  {
+   "id": "appr-obdd-2018",
+   "title": "Business Oregon — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obdd-2018.md"
+  },
+  {
+   "id": "appr-oblpct-2016-09-26",
+   "title": "Licensed Professional Counselors and Therapists, Board of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oblpct-2016-09-26.md"
+  },
+  {
+   "id": "appr-oblpct-2017-09-27",
+   "title": "Licensed Professional Counselors and Therapists, Board of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oblpct-2017-09-27.md"
+  },
+  {
+   "id": "appr-obmi-2016-07-26",
+   "title": "Medical Imaging, Board of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obmi-2016-07-26.md"
+  },
+  {
+   "id": "appr-obmi-2017",
+   "title": "Medical Imaging, Board of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obmi-2017.md"
+  },
+  {
+   "id": "appr-obmi-2018",
+   "title": "Medical Imaging, Board of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obmi-2018.md"
+  },
+  {
+   "id": "appr-obnm-2016-09-29",
+   "title": "Naturopathic Medicine, Board of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obnm-2016-09-29.md"
+  },
+  {
+   "id": "appr-obnm-2018-10-09-kpm",
+   "title": "Naturopathic Medicine, Board of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obnm-2018-10-09-kpm.md"
+  },
+  {
+   "id": "appr-obop-2016-10-07",
+   "title": "Pharmacy, Board of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obop-2016-10-07.md"
+  },
+  {
+   "id": "appr-obop-2017-10-02",
+   "title": "Pharmacy, Board of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obop-2017-10-02.md"
+  },
+  {
+   "id": "appr-obop-2018-10-09-final",
+   "title": "Pharmacy, Board of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obop-2018-10-09-final.md"
+  },
+  {
+   "id": "appr-obpe-2016-09-26",
+   "title": "Psychologist Examiners, Board of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obpe-2016-09-26.md"
+  },
+  {
+   "id": "appr-obpe-2017-09-27",
+   "title": "Psychologist Examiners, Board of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-obpe-2017-09-27.md"
+  },
+  {
+   "id": "appr-ocjc-2016-09-12",
+   "title": "Criminal Justice Commission — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ocjc-2016-09-12.md"
+  },
+  {
+   "id": "appr-ocjc-2017-09-27",
+   "title": "Criminal Justice Commission — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ocjc-2017-09-27.md"
+  },
+  {
+   "id": "appr-ocjc-2018-09-13",
+   "title": "Criminal Justice Commission — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ocjc-2018-09-13.md"
+  },
+  {
+   "id": "appr-oda-2016-10-14",
+   "title": "Aviation, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oda-2016-10-14.md"
+  },
+  {
+   "id": "appr-oda-2017-10-02",
+   "title": "Aviation, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oda-2017-10-02.md"
+  },
+  {
+   "id": "appr-oda-2018",
+   "title": "Agriculture, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oda-2018.md"
+  },
+  {
+   "id": "appr-ode-2017-10-20",
+   "title": "Education, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ode-2017-10-20.md"
+  },
+  {
+   "id": "appr-ode",
+   "title": "Education, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ode.md"
+  },
+  {
+   "id": "appr-odf-2016-08-18-kpms",
+   "title": "Forestry, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-odf-2016-08-18-kpms.md"
+  },
+  {
+   "id": "appr-odf-2017-08-10",
+   "title": "Forestry, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-odf-2017-08-10.md"
+  },
+  {
+   "id": "appr-odf-2018-07-19",
+   "title": "Forestry, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-odf-2018-07-19.md"
+  },
+  {
+   "id": "appr-odfw-10-04-17",
+   "title": "Fish and Wildlife, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-odfw-10-04-17.md"
+  },
+  {
+   "id": "appr-odfw-2016-10-06",
+   "title": "Fish and Wildlife, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-odfw-2016-10-06.md"
+  },
+  {
+   "id": "appr-odfw-2018-10-02",
+   "title": "Fish and Wildlife, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-odfw-2018-10-02.md"
+  },
+  {
+   "id": "appr-odot-2017-09-26",
+   "title": "Transportation, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-odot-2017-09-26.md"
+  },
+  {
+   "id": "appr-odva-2016-09-22",
+   "title": "Veterans' Affairs, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-odva-2016-09-22.md"
+  },
+  {
+   "id": "appr-odva-2017-09-29",
+   "title": "Veterans' Affairs, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-odva-2017-09-29.md"
+  },
+  {
+   "id": "appr-oed-2017-09-28",
+   "title": "Employment Department — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oed-2017-09-28.md"
+  },
+  {
+   "id": "appr-oed-2018-09-24",
+   "title": "Employment Department — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oed-2018-09-24.md"
+  },
+  {
+   "id": "appr-ogec-2016-09-27",
+   "title": "Government Ethics Commission — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ogec-2016-09-27.md"
+  },
+  {
+   "id": "appr-ogec-2017-09-21",
+   "title": "Government Ethics Commission — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ogec-2017-09-21.md"
+  },
+  {
+   "id": "appr-ogec-2018-09-27",
+   "title": "Government Ethics Commission — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ogec-2018-09-27.md"
+  },
+  {
+   "id": "appr-oha-2016-10-06",
+   "title": "Oregon Health Authority — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oha-2016-10-06.md"
+  },
+  {
+   "id": "appr-oha-2018-revised-2019-01-03",
+   "title": "Oregon Health Authority — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oha-2018-revised-2019-01-03.md"
+  },
+  {
+   "id": "appr-oha",
+   "title": "Oregon Health Authority — Annual Performance Progress Report, Reporting Year 2021",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oha.md"
+  },
+  {
+   "id": "appr-ohcs-2017-10-02",
+   "title": "Housing and Community Services — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ohcs-2017-10-02.md"
+  },
+  {
+   "id": "appr-ohcs-2018-10-01",
+   "title": "Housing and Community Services — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ohcs-2018-10-01.md"
+  },
+  {
+   "id": "appr-ojd-2017-10-10",
+   "title": "Judicial, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ojd-2017-10-10.md"
+  },
+  {
+   "id": "appr-olcc-2016-10-17",
+   "title": "Liquor Control Commission, Oregon — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-olcc-2016-10-17.md"
+  },
+  {
+   "id": "appr-olcc-2017-10-02",
+   "title": "Liquor Control Commission, Oregon — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-olcc-2017-10-02.md"
+  },
+  {
+   "id": "appr-olcc-2018-10-02",
+   "title": "Liquor Control Commission, Oregon — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-olcc-2018-10-02.md"
+  },
+  {
+   "id": "appr-omb-2017",
+   "title": "Medical Board, Oregon — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-omb-2017.md"
+  },
+  {
+   "id": "appr-omcb-2016-10-10",
+   "title": "Mortuary and Cemetery Board — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-omcb-2016-10-10.md"
+  },
+  {
+   "id": "appr-omcb-2017",
+   "title": "Mortuary and Cemetery Board — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-omcb-2017.md"
+  },
+  {
+   "id": "appr-omd-2016-10-05",
+   "title": "Military Department — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-omd-2016-10-05.md"
+  },
+  {
+   "id": "appr-omd-2017",
+   "title": "Military Department — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-omd-2017.md"
+  },
+  {
+   "id": "appr-oprd-2016-08-18",
+   "title": "Parks and Recreation Department — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oprd-2016-08-18.md"
+  },
+  {
+   "id": "appr-oprd-2017-09-28",
+   "title": "Parks and Recreation Department — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oprd-2017-09-28.md"
+  },
+  {
+   "id": "appr-oprd-2018-09-17",
+   "title": "Parks and Recreation Department — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oprd-2018-09-17.md"
+  },
+  {
+   "id": "appr-osbn-2016-09-27",
+   "title": "Nursing, Board of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-osbn-2016-09-27.md"
+  },
+  {
+   "id": "appr-osbn-2017-09-25",
+   "title": "Nursing, Board of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-osbn-2017-09-25.md"
+  },
+  {
+   "id": "appr-osbn-2018-07-20",
+   "title": "Nursing, Board of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-osbn-2018-07-20.md"
+  },
+  {
+   "id": "appr-osl-2016-revised",
+   "title": "Library, Oregon State — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-osl-2016-revised.md"
+  },
+  {
+   "id": "appr-osl-2017-10-04",
+   "title": "Library, Oregon State — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-osl-2017-10-04.md"
+  },
+  {
+   "id": "appr-osmb-2016-09-27",
+   "title": "Marine Board — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-osmb-2016-09-27.md"
+  },
+  {
+   "id": "appr-osmb-2017-09-29",
+   "title": "Marine Board — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-osmb-2017-09-29.md"
+  },
+  {
+   "id": "appr-osmb-2018-12-21",
+   "title": "Marine Board — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-osmb-2018-12-21.md"
+  },
+  {
+   "id": "appr-osp-2016-08-18",
+   "title": "State Police, Oregon — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-osp-2016-08-18.md"
+  },
+  {
+   "id": "appr-osp-2017-10-02",
+   "title": "State Police, Oregon — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-osp-2017-10-02.md"
+  },
+  {
+   "id": "appr-ost-2016-10-06",
+   "title": "Treasury, Oregon State — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ost-2016-10-06.md"
+  },
+  {
+   "id": "appr-ost-2017-10-02",
+   "title": "Treasury, Oregon State — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ost-2017-10-02.md"
+  },
+  {
+   "id": "appr-otb-2016-09-28",
+   "title": "Tax Practitioners, Board of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-otb-2016-09-28.md"
+  },
+  {
+   "id": "appr-otb-2017-09-01",
+   "title": "Tax Practitioners, Board of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-otb-2017-09-01.md"
+  },
+  {
+   "id": "appr-otb-2018-07-16",
+   "title": "Tax Practitioners, Board of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-otb-2018-07-16.md"
+  },
+  {
+   "id": "appr-otlb-2016-07-05",
+   "title": "Occupational Therapy Licensing Board — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-otlb-2016-07-05.md"
+  },
+  {
+   "id": "appr-otlb-2017-08-17",
+   "title": "Occupational Therapy Licensing Board — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-otlb-2017-08-17.md"
+  },
+  {
+   "id": "appr-otlb-2018-07-26",
+   "title": "Occupational Therapy Licensing Board — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-otlb-2018-07-26.md"
+  },
+  {
+   "id": "appr-ovmeb-2016-12-29",
+   "title": "Veterinary Medical Examining Board — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ovmeb-2016-12-29.md"
+  },
+  {
+   "id": "appr-ovmeb-2018-10-08",
+   "title": "Veterinary Medical Examining Board — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ovmeb-2018-10-08.md"
+  },
+  {
+   "id": "appr-oweb-2016-09-29",
+   "title": "Watershed Enhancement Board — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oweb-2016-09-29.md"
+  },
+  {
+   "id": "appr-oweb-2017-09-28",
+   "title": "Watershed Enhancement Board — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oweb-2017-09-28.md"
+  },
+  {
+   "id": "appr-oweb-2018-09-27",
+   "title": "Watershed Enhancement Board — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oweb-2018-09-27.md"
+  },
+  {
+   "id": "appr-oya-2017-10-13",
+   "title": "Youth Authority, Oregon — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oya-2017-10-13.md"
+  },
+  {
+   "id": "appr-pdsc-2016-09-28",
+   "title": "Public Defense Services Commission — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-pdsc-2016-09-28.md"
+  },
+  {
+   "id": "appr-pdsc-2018",
+   "title": "Public Defense Services Commission — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-pdsc-2018.md"
+  },
+  {
+   "id": "appr-pers-2016-09-30",
+   "title": "Public Employees Retirement System, Oregon — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-pers-2016-09-30.md"
+  },
+  {
+   "id": "appr-pers-2017-10-01",
+   "title": "Public Employees Retirement System, Oregon — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-pers-2017-10-01.md"
+  },
+  {
+   "id": "appr-pers-2018-09-27",
+   "title": "Public Employees Retirement System, Oregon — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-pers-2018-09-27.md"
+  },
+  {
+   "id": "appr-psrb-2016-10-26",
+   "title": "Psychiatric Security Review Board — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-psrb-2016-10-26.md"
+  },
+  {
+   "id": "appr-psrb-2017-10-11",
+   "title": "Psychiatric Security Review Board — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-psrb-2017-10-11.md"
+  },
+  {
+   "id": "appr-psrb-2018-10-01",
+   "title": "Psychiatric Security Review Board — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-psrb-2018-10-01.md"
+  },
+  {
+   "id": "appr-puc-2017-09-29",
+   "title": "Public Utility Commission — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-puc-2017-09-29.md"
+  },
+  {
+   "id": "appr-puc-2018",
+   "title": "Public Utility Commission — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-puc-2018.md"
+  },
+  {
+   "id": "appr-puc",
+   "title": "Public Utility Commission — Annual Performance Progress Report, Reporting Year 2019",
+   "doc_type": "performance_report",
+   "path": "reports/appr-puc.md"
+  },
+  {
+   "id": "appr-racing-2016-10-28",
+   "title": "Racing Commission, Oregon — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-racing-2016-10-28.md"
+  },
+  {
+   "id": "appr-racing-2017-10-20",
+   "title": "Racing Commission, Oregon — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-racing-2017-10-20.md"
+  },
+  {
+   "id": "appr-racing-2018-09-27",
+   "title": "Racing Commission, Oregon — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-racing-2018-09-27.md"
+  },
+  {
+   "id": "appr-rea-2016-11-15",
+   "title": "Real Estate Agency — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-rea-2016-11-15.md"
+  },
+  {
+   "id": "appr-rea-2017-09-29",
+   "title": "Real Estate Agency — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-rea-2017-09-29.md"
+  },
+  {
+   "id": "appr-rea-2018-10-01",
+   "title": "Real Estate Agency — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-rea-2018-10-01.md"
+  },
+  {
+   "id": "appr-sos-2016-08-26",
+   "title": "Secretary of State — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-sos-2016-08-26.md"
+  },
+  {
+   "id": "appr-sos-2017-10-02-2",
+   "title": "Secretary of State — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-sos-2017-10-02-2.md"
+  },
+  {
+   "id": "appr-speech-path-aud-2016-09-29",
+   "title": "Speech-Language Pathology and Audiology — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-speech-path-aud-2016-09-29.md"
+  },
+  {
+   "id": "appr-tspc-2016-09-02",
+   "title": "Teacher Standards and Practices Commission — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-tspc-2016-09-02.md"
+  },
+  {
+   "id": "appr-tspc-2017-10-02",
+   "title": "Teacher Standards and Practices Commission — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-tspc-2017-10-02.md"
+  },
+  {
+   "id": "appr-tspc-2018-09-28",
+   "title": "Teacher Standards and Practices Commission — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/appr-tspc-2018-09-28.md"
+  },
+  {
+   "id": "appr-wrd-2016-10-06",
+   "title": "Water Resources Department — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/appr-wrd-2016-10-06.md"
+  },
+  {
+   "id": "appr-wrd-2017-09-29",
+   "title": "Water Resources Department — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-wrd-2017-09-29.md"
+  },
+  {
+   "id": "appr-wrd-9-29-20",
+   "title": "Water Resources Department — Annual Performance Progress Report, Reporting Year 2020",
+   "doc_type": "performance_report",
+   "path": "reports/appr-wrd-9-29-20.md"
+  },
+  {
+   "id": "apprproposed-boppps-2016-10-14",
+   "title": "Parole and Post-Prison Supervision, Board of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-boppps-2016-10-14.md"
+  },
+  {
+   "id": "apprproposed-crgc-2018-09-27",
+   "title": "Columbia River Gorge Commission — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-crgc-2018-09-27.md"
+  },
+  {
+   "id": "apprproposed-das-2018-10-02",
+   "title": "Administrative Services, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-das-2018-10-02.md"
+  },
+  {
+   "id": "apprproposed-dcbs-2016-12-08",
+   "title": "Consumer & Business Services, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-dcbs-2016-12-08.md"
+  },
+  {
+   "id": "apprproposed-dhs-2018-10-01",
+   "title": "Human Services, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-dhs-2018-10-01.md"
+  },
+  {
+   "id": "apprproposed-doc-2017-02-15",
+   "title": "Corrections, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-doc-2017-02-15.md"
+  },
+  {
+   "id": "apprproposed-dpsst-2018-10-23",
+   "title": "Public Safety Standards and Training, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-dpsst-2018-10-23.md"
+  },
+  {
+   "id": "apprproposed-governor-2016-12-27",
+   "title": "Governor's Office — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-governor-2016-12-27.md"
+  },
+  {
+   "id": "apprproposed-leg-counsl-2018-09-28",
+   "title": "Legislative Counsel — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-leg-counsl-2018-09-28.md"
+  },
+  {
+   "id": "apprproposed-ltco-2018-10-01",
+   "title": "Long Term Care Ombudsman, Office of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-ltco-2018-10-01.md"
+  },
+  {
+   "id": "apprproposed-oaco",
+   "title": "Advocacy Commissions Office — Annual Performance Progress Report, Reporting Year 2024",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-oaco.md"
+  },
+  {
+   "id": "apprproposed-oblpct-2018-09-27",
+   "title": "Licensed Professional Counselors and Therapists, Board of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-oblpct-2018-09-27.md"
+  },
+  {
+   "id": "apprproposed-obop-2018-09-27",
+   "title": "Oregon Board of Psychology — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-obop-2018-09-27.md"
+  },
+  {
+   "id": "apprproposed-oda-2018-10-01",
+   "title": "Aviation, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-oda-2018-10-01.md"
+  },
+  {
+   "id": "apprproposed-odot",
+   "title": "Transportation, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-odot.md"
+  },
+  {
+   "id": "apprproposed-oed-2016-10-14",
+   "title": "Employment Department — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-oed-2016-10-14.md"
+  },
+  {
+   "id": "apprproposed-ohcs-2016-10-19",
+   "title": "Housing and Community Services — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-ohcs-2016-10-19.md"
+  },
+  {
+   "id": "apprproposed-osp-2018-09-23",
+   "title": "State Police, Oregon — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-osp-2018-09-23.md"
+  },
+  {
+   "id": "apprproposed-ost-2018-12-26",
+   "title": "Treasury, Oregon State — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-ost-2018-12-26.md"
+  },
+  {
+   "id": "apprproposed-wrd-2018-09-27",
+   "title": "Water Resources Department — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/apprproposed-wrd-2018-09-27.md"
+  },
+  {
+   "id": "apr-ccb-9-14-17",
+   "title": "Construction Contractors Board — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/apr-ccb-9-14-17.md"
+  },
+  {
+   "id": "boli-2016-appr",
+   "title": "Labor and Industries, Bureau of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/boli-2016-appr.md"
+  },
+  {
+   "id": "ccb-appr-fy-2016-10-6-16",
+   "title": "Construction Contractors Board — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/ccb-appr-fy-2016-10-6-16.md"
+  },
+  {
+   "id": "da-annual-performance-progress-report-september-2016",
+   "title": "District Attorneys and Their Deputies — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/da-annual-performance-progress-report-september-2016.md"
+  },
+  {
+   "id": "das-appr-fy-15-16",
+   "title": "Administrative Services, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/das-appr-fy-15-16.md"
+  },
+  {
+   "id": "deq-kpm-report",
+   "title": "Environmental Quality, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/deq-kpm-report.md"
+  },
+  {
+   "id": "dlcdappr2016-final",
+   "title": "Agency Management Report — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/dlcdappr2016-final.md"
+  },
+  {
+   "id": "dsl-appr-final11-04-16",
+   "title": "Lands, Department of State — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/dsl-appr-final11-04-16.md"
+  },
+  {
+   "id": "kpm-appr-dhs-2016-10-07-2",
+   "title": "Human Services, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/kpm-appr-dhs-2016-10-07-2.md"
+  },
+  {
+   "id": "obd-2018-annual-performance-progress-report",
+   "title": "Dentistry, Board of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/obd-2018-annual-performance-progress-report.md"
+  },
+  {
+   "id": "obd-annual-performance-progress-report",
+   "title": "Dentistry, Board of — Annual Performance Progress Report, Reporting Year 2019",
+   "doc_type": "performance_report",
+   "path": "reports/obd-annual-performance-progress-report.md"
+  },
+  {
+   "id": "odag-kpm-reprot",
+   "title": "Agriculture, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/odag-kpm-reprot.md"
+  },
+  {
+   "id": "ode2016appr",
+   "title": "Education, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/ode2016appr.md"
+  },
+  {
+   "id": "odot-2018-appr-with-proposed",
+   "title": "Transportation, Department of — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/odot-2018-appr-with-proposed.md"
+  },
+  {
+   "id": "omb-appr-2016",
+   "title": "Medical Board, Oregon — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/omb-appr-2016.md"
+  },
+  {
+   "id": "omcb-annual-kpm-progress-report-2018",
+   "title": "Mortuary and Cemetery Board — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/omcb-annual-kpm-progress-report-2018.md"
+  },
+  {
+   "id": "pucapprfinal2016",
+   "title": "Public Utility Commission — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/pucapprfinal2016.md"
+  },
+  {
+   "id": "sos-2018-annual-performance-progress-report",
+   "title": "Secretary of State — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/sos-2018-annual-performance-progress-report.md"
+  },
+  {
+   "id": "statelibraryappr2018",
+   "title": "Library, Oregon State — Annual Performance Progress Report, Reporting Year 2018",
+   "doc_type": "performance_report",
+   "path": "reports/statelibraryappr2018.md"
+  },
+  {
+   "id": "updated-2016-appr-cfb-2017-16-02",
+   "title": "Blind Commission — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/updated-2016-appr-cfb-2017-16-02.md"
+  }
+ ],
  "edges": []
 }

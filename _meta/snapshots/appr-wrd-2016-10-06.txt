@@ -1,0 +1,613 @@
+Water Resources Department
+Annual Performance Progress Report
+Reporting Year 2016
+Published: 10/6/2016 1:26:00 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+FLOW RESTORATION
+- Percent of watersheds that need flow restoration for fish that had a significant quantity of water put instream through WRD administered programs.
+PROTECTION OF INSTREAM WATER RIGHTS
+- Ratio of the streams regulated to protect instream water rights to all streams regulated.
+MONITOR COMPLIANCE
+- Percent of total regulatory actions that found water right holders in compliance with water rights and regulations.
+STREAM FLOW GAGING
+- Percent change from 2001 in the number of WRD operated or assisted gauging stations.
+ASSESSING GROUND WATER RESOURCES
+- Percent change from 2001 in the number of wells routinely monitored to assess ground water resources.
+EQUIP CITIZENS WITH INFORMATION
+- Percent of water management related datasets collected by WRD that are available to the public on the internet.
+EQUIP CITIZENS WITH INFORMATION
+- Number of times water management related data was accessed through the WRD?s Internet site.
+NUMBER OF SIGNIFICANT DIVERSIONS WITH MEASUREMENT DEVICES INSTALLED
+- To fully implement the Water Resources Commission's 2000 Water Measurement Strategy
+PROMOTE EFFICIENCY IN WATER MANAGEMENT AND CONSERVATION PLAN REVIEWS
+- Percent of water management and conservation plans that received a preliminary review within 90 days of plan submittal.
+PROMOTE EFFICIENCY IN WATER RIGHT APPLICATION PROCESSING
+- Percent of water right applications that receive an initial review within 45 days of application filing.
+PROMOTE EFFICIENCY IN TRANSFER APPLICATION PROCESSING
+- Percent of transfer final orders issued within 120 days of application filing.
+PROMOTE EFFICIENCY IN FIELD STAFF REGULATORY ACTIVITIES
+- Number of places where water is legally taken out of stream and used (points of diversion) per FTE of field staff.
+INCREASE WATER USE REPORTING
+- the percent of water users with an annual water-use reporting requirement that have submitted their reports to the Department.
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent” in overall customer service, timeliness, accuracy, helpfulness, expertise, and availability of information.
+Green
+Yellow
+Red
+= Target to -5%
+= Target -6% to -15%
+= Target > -15%
+Summary Stats:
+78.57%
+7.14%
+14.29%
+red
+green
+yellow
+KPM #1
+FLOW RESTORATION
+- Percent of watersheds that need flow restoration for fish that had a significant quantity of water put instream through WRD administered programs.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Percent of Watersheds That Had Flows Added Where Needed for Fish
+Actual
+24%
+24%
+24%
+26%
+28%
+Target
+20%
+24%
+24%
+24%
+24%
+How Are We Doing
+This KPM was created in 2002. During the 2016 reporting period, 28 percent of watersheds had flows added, where needed, for fish, meeting the 24 percent target. Cumulatively, by the end of the
+reporting period, the Department had protected a total of 1839 cubic feet per second (cfs). This total is comprised of the following: 1) instream leases 491 cfs; 2) instream transfers 366 cfs; 3)
+allocations of conserved water 182 cfs; and 4) converted hydroelectric rights 800 cfs.
+Factors Affecting Results
+The reporting period for the 2016 results listed above was calendar year 2015.  Streamflow restoration efforts rely on the voluntary actions of water right holders to place water instream. We
+attribute our success to the hard work of our conservation partners, efforts of both our programmatic staff and our on-the-ground field staff, and a general increased comfort level with these
+programs among water users. Oregon benefits immensely from well-established, active conservation partners. Approximately 48 percent of Oregon's flow restoration transactions involve a third
+party such as the Oregon Fresh Water Trust, Deschutes River Conservancy, and Klamath Basin Rangeland Trust. The remaining 52 percent of flow restoration activities occur directly between the
+water right holder and the Department.
+KPM #2
+PROTECTION OF INSTREAM WATER RIGHTS
+- Ratio of the streams regulated to protect instream water rights to all streams regulated.
+Data Collection Period: Oct 01
+- Sep 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Ratio of Streams Regulated to Protect Instream Water Rights to All Streams Regulated
+Actual
+0.85
+0.83
+0.75
+0.93
+0.95
+Target
+0.53
+0.80
+0.80
+0.80
+0.80
+How Are We Doing
+In the 2016 report, 586 streams were regulated, compared to 463 in 2015, and 535 in 2014.  This increased number was due to severe drought across Oregon, prompting more widespread
+regulation of junior rights to meet the needs of senior rights.  The total number of regulatory actions for instream water rights was 556, resulting in a ratio of 95 percent, slightly higher than in
+the 2015 report.
+Better management and tracking tools for monitoring instream water rights help Watermasters regulate to protect instream water rights.  The Department has added near real time access
+(telemetry) to gaging stations in key instream water right reaches to monitor whether instream rights are being met.  The near real time data allow Watermasters to more efficiently adjust the stream
+system to improve flows by regulating junior water rights off when needed.
+Factors Affecting Results
+Watermasters report regulatory actions taken each water year (October 1 to September 30) for each stream.  The 2016 results contain data collected through September 2015.  Instream water
+rights are often junior to other surface water rights, but are regularly monitored by the Water Resources Department. Flows for some streams with instream water rights are met throughout the
+season and do not require significant regulation on their behalf. In years with high stream flows, the total number of streams regulated is likely to go down, while in years with lower stream flows the
+total number of streams regulated is likely to go up because of greater demand and less supply. The ratio of streams regulated varies with the amount and timing of rainfall in any given year, as well
+as staff resources. This KPM is specific to regulation for instream water rights.
+Staff have determined that the method for calculating the results and the corresponding target need to be revised, or this KPM needs to be removed or replaced. Under the current method of
+calculating this KPM, the number of regulations for instream water rights by category of regulation is divided by the number of total streams regulated. The Department would like to undertake a
+review of this KPM with stakeholders to determine if a different KPM would be more appropriate or whether a change in the calculation methodology would be more informative. Staff believe the KPM
+would be more meaningful if the number of streams regulated for instream water rights were divided by the total number of streams regulated. The new approach would mean that while the trends
+stay the same (increasing regulation for instream water rights, with annual fluctuations based on the water year), the actual percent will be reduced.  However, there may be other more meaningful
+indicators of performance that would be less influenced by factors outside the Department's control (water conditions).
+KPM #3
+MONITOR COMPLIANCE
+- Percent of total regulatory actions that found water right holders in compliance with water rights and regulations.
+Data Collection Period: Oct 01
+- Sep 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Percent of Total Regulatory Actions That Found Water Rights Holders in Compliance with Water Rights and Regulations
+Actual
+95%
+97%
+96%
+98%
+99%
+Target
+98%
+98%
+98%
+98%
+98%
+How Are We Doing
+During the 2016 reporting period (October 1, 2014-September 30, 2015), Department Watermasters had 20,336 regulatory actions and water right holders were in compliance approximately 99
+percent of these actions. In the 2015 report, 16,545 regulatory actions were taken by field staff, and water right holders were in compliance in 98 percent of these cases.  Workloads increased
+during the 2016 reporting period for field staff due to the severe drought in 2015, which increased the need to regulate, thereby increasing the number of regulatory actions.  In addition, the
+Department has been receiving a number of complaints in some areas of the state regarding marijuana operations.  Overall, Department staff have been successful in discouraging violations and
+maintaining a high level of compliance as tracked by this metric; however, this metric does not necessarily reflect compliance with water right conditions or the lack of compliance with Oregon's
+requirements to have a water right permit where the staff do not know about the non-compliance.  Since staff cannot and do not cover all of the area within their district frequently, there may be
+users that are not in compliance or individuals illegally taking water: the Department continues to look for ways to increase field capacity, education and outreach, and build clarity around Oregon's
+water laws.
+Factors Affecting Results
+The reporting cycle is the water year (October 1 through September 30.) The 2016 results contain data through September 2015.  The percentage can vary by a few points from year-to-year,
+based on water supply conditions, staffing resources, or economic factors. Weather can have a significant effect on the compliance ratio, since it can affect the intensity of water distribution efforts
+on a stream. Watermasters are likely to have more regulatory actions during times of water shortage. In years with high streamflows, the total number of streams regulated is very likely to go
+down. Field presence (adequate staffing) affects this measure through greater opportunity to monitor compliance, conduct outreach, and ultimately educate individuals about water laws.  Increased
+litigation reduced the time some watermasters could spend in the field.
+Watermaster regulatory activities include any action that causes a change in use, a change in maintenance, or a field inspection that confirms no change is needed to comply with the water right,
+statute, or order of the Department. Watermasters submit an annual Surface Water Summary report that includes each stream regulated, the number of regulatory actions taken, starting and
+ending dates of regulation, earliest priority date regulated, and the primary reason for regulation. Informational reports are presented to the Water Resource Commission with detailed information by
+watermaster district and stream. Copies of these reports are made available on the agency website under Commission Staff Reports.  As staff resources allow, the Department would like to re-
+evaluate its current methods of tracking regulatory activities, which may result in a request for a KPM change in the future.
+KPM #4
+STREAM FLOW GAGING
+- Percent change from 2001 in the number of WRD operated or assisted gauging stations.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Percent Change from 2001 in Number of OWRD-Operated or Assisted Gaging Stations
+Actual
+-0.90%
+5%
+7%
+13.70%
+16.70%
+Target
+2%
+2%
+6.50%
+6.50%
+6.50%
+How Are We Doing
+The 2001 benchmark was 215 gaging stations.  During the 2016 reporting period, the Department added 19 gages and dropped 5, for a net gain of 14 gages compared to the previous year.
+Currently, the Department is operating a total of 258 gages, 16.7 percent higher than the 2001 benchmark.  Three gages were added in the East Region for water management and public safety.
+Seven gages were added in the South Central Region to monitor tribal instream water rights and manage water in the Klamath Basin.  Four more gages were added in South Central Region for
+water management and special projects.  Two gages were added in the Southwest Region for water management.  Three gages were added in the North Central Region for water management and
+public safety.  Five gages were discontinued because the projects that the gages were monitoring were concluded.  While the Department is pleased with this increase in the number of stream
+gages, staffing has not kept pace with the increased workload associated with maintaining, processing and analyzing the data from these stations.
+Factors Affecting Results
+The 2016 data are from the reporting period of January 1 through December 31, 2015.  The 2013 Legislature provided resources for the installation of additional stream gages, which has been
+continued in the Department's base budget.   The Department faces challenges in ensuring that it has a sufficient number of hydrographers and hydrographic technicians to provide quality
+assurance of the data and maintain the gage network.
+KPM #5
+ASSESSING GROUND WATER RESOURCES
+- Percent change from 2001 in the number of wells routinely monitored to assess ground water resources.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Percent Change from 2001 in Number of Wells Routinely Monitored to Assess Groundwater Resources
+Actual
+4%
+4%
+5%
+8%
+8%
+Target
+0%
+4%
+7%
+7%
+7%
+How Are We Doing
+During the 2016 reporting cycle (July 1 2015 to June 30, 2016), WRD staff routinely monitored 378 wells in the State Observation Well Network, compared to 350 in 2001 and 378 in 2014.  This is
+an increase of 8 percent over 2001.  WRD installed 13 dedicated observation wells in the 2013-2015 biennium, offsetting the loss of the same number of privately owned wells from the network
+due to lack of access, change of wellhead configuration, or change in well use.
+Factors Affecting Results
+Since 2013, the Legislature has included funding for dedicated observation wells in the Department's budget.  With the exception of the 13 new observation wells drilled by the Department, the state
+observation wells monitored by the Department are privately owned.  Long-term access to wells is commonly an issue, as the Department must rely on well owners for access to the wells.  As
+property changes hands, some owners discontinue their participation in the network, or wells fall into disrepair.  In some cases, the Department tries to find or drill a suitable replacement wells in the
+same general area.  As a result, the number and location of state observation wells varies somewhat from year-to-year.  Continuing to expand the network of dedicated observation wells drilled and
+owned by the State of Oregon will help ensure continued access to groundwater level data.  The Department expects to continue to make gains in this metric of current service level funding
+continues to support the installation of observation wells.
+KPM #6
+EQUIP CITIZENS WITH INFORMATION
+- Percent of water management related datasets collected by WRD that are available to the public on the internet.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Percent of Water Management-Related Datasets Available to Public on the Internet
+Actual
+90%
+92%
+93%
+93%
+95%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+For the 2016 reporting period, the agency made 95% of the datasets it is tracking for the KPM available online. This year the agency completed the "Stream Routing of Water Right Data" project
+which provides the ability for the public to view and analyze water rights based upon their location along the stream. The agency continues to implement projects that increase the scope of datasets
+available to the public on the internet.
+Factors Affecting Results
+The initial set of datasets to be made available that are part of the KPM goal are nearly complete; therefore, this KPM may need to be revisited in future years. Revising the KPM to include
+new datasets may require revisions to the targets.
+KPM #7
+EQUIP CITIZENS WITH INFORMATION
+- Number of times water management related data was accessed through the WRD?s Internet site.
+Data Collection Period: Jul 01
+- Jul 01
+Report Year
+2012
+2013
+2014
+2015
+2016
+Number of Times Water Management-Related Data Were Accessed Through the Internet (in millions)
+Actual
+2.17
+1.83
+2.39
+2.47
+2.69
+Target
+2.25
+2.25
+2.25
+2.25
+2.25
+How Are We Doing
+We continue to gradually increase market penetration with the applications selected for monitoring. There have been a number of new web applications that have been released, but are not
+monitored in this KPM to ensure continuity and parity with historical information.
+Factors Affecting Results
+The Department collects information from computer system logs to determine the number of "hits" received on our web page. This includes well log transactions, hydrographic records, water
+availability, water rights, and the document vault. Every attempt is made to identify and count each unique transaction; for example, web bot hits and page navigation hits are removed.
+KPM #8
+NUMBER OF SIGNIFICANT DIVERSIONS WITH MEASUREMENT DEVICES INSTALLED
+- To fully implement the Water Resources Commission's 2000 Water Measurement Strategy
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2012
+2013
+2014
+2015
+2016
+Number of Significant Diversions with Measurement Devices Installed
+Actual
+Target
+1,050
+1,125
+How Are We Doing
+Staff efforts, underway since 2000, have resulted in 995 measuring devices installed by end of calendar year 2015 (report year 2016 above), which includes 69 devices installed or confirmed
+installed. In addition to the measurement devices installed on significant diversions, staff have field checked and confirmed another 654 significant diversions that are either abandoned or are
+currently not in use. This number will change with time, because a water user may go several years without using water and then irrigate for a season to preserve the water right. To do so will
+require the installation of a measuring device. When this happens, this significant diversion will move from the "not in use" category to the "devices installed" category. Using the 654 as an estimate,
+approximately 736 of the original 2,385 significant diversions still need measurement devices installed.
+Factors Affecting Results
+The 2016 reporting cycle includes progress through calendar year 2015.  Many water users have balked at the direction to install measurement devices, citing an average cost of $1,000 per
+device.  The legislature provides a cost-share fund to facilitate installation of devices through a dollar match program, which facilitates progress on this KPM. Installation of measuring devices
+typically occurs before or after the irrigation season.  The Water Resources Commission and Department are committed to this Water Management Strategy, and have spent considerable time and
+effort developing an inventory of significant points of diversion and an outreach plan.  Significant outreach and education is needed to help bring the landowner into compliance with measuring
+device installation.  Success with measuring device installation is directly related to time spent by Department field staff, primarily watermasters and assistant watermaster, working with landowners.
+KPM #9
+PROMOTE EFFICIENCY IN WATER MANAGEMENT AND CONSERVATION PLAN REVIEWS
+- Percent of water management and conservation plans that received a preliminary review within
+90 days of plan submittal.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Percent of Water Management and Conservation Plans That Received a Review within 90 Days of Submittal
+Actual
+96%
+81%
+100%
+100%
+100%
+Target
+75%
+95%
+95%
+95%
+95%
+How Are We Doing
+For water management and conservation plans received by the Department with target dates for preliminary review between July 2015 and June 2016, 100 percent of the plans were reviewed within
+the 90-day goal.  This is a continuation of the accomplishments achieved since 2014 when staff first reached 100 percent with the KPM. Water management and conservation plan updates from the
+municipalities continue to improve in quality, and are demonstrating increased efficiencies in managing water, preparing for emergencies (curtailment plans), and planning for long-term water supply
+consistent with their comprehensive plans.
+Factors Affecting Results
+Outreach to municipalities and others has significantly helped the Department meet its performance goals for this program.  The continued high performance is a result of having 2.0 FTE assigned
+to review the plans.  In FY 2013, only 1.0 FTE was assigned to review plans.  In the past decade, the state has worked with key partners to publish guides, provide tools, and offer educational
+presentations to aid in the preparation of water management and conservation plans.  Since 2008, the Department has collaborated with the League of Oregon Cities on a recurring feature called
+"The Conservation Corner" for the League's newsletter, which highlight outstanding conservation and management activities by Oregon cities. The Department also maintains a section on its'
+website called Conservation Share-House, designed for the water suppliers to "share" their conservation and outreach materials with municipal counterparts around the state.  In March 2015, the
+Department released an update of the Municipal Water Management and Conservation Plan Guidebook that provides better direction and guidance on elements that are consistently problematic or
+deficient in submitted plans.  The Department hopes to update the 2011 Agricultural Guidebook in the future, as resources allow. The guides, model plans and outreach materials are available on
+the Department website.
+KPM #10
+PROMOTE EFFICIENCY IN WATER RIGHT APPLICATION PROCESSING
+- Percent of water right applications that receive an initial review within 45 days of application filing.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Percent of Water Right Applications That Receive an Initial Review within 45 Days of Application Filing
+Actual
+35%
+20%
+20.39%
+13.42%
+16%
+Target
+55%
+55%
+55%
+55%
+55%
+How Are We Doing
+The overall percentage improved from 13% to 16% during 2015-16.  Since 2007, the Department has implemented streamlined procedures that have improved this metric; however, as discussed
+further in the section below, it remains a challenge for the Department to complete groundwater reviews within the 45-day timeline.  Groundwater applications accounted for 86 percent of initial
+reviews; Initial reviews of groundwater applications completed within 45 days varied from 3% in 2012-13 to 9% in 2015-16. The percentage for storage- and surface- water applications has
+increased from a low of 10 percent in 2008, to 43 percent in 2014-15, and up to 61% in 2015-16.
+Factors Affecting Results
+Storage and Surface Water Applications:  During the prior reporting period, the Department had experienced high-staff turnover due to promotions and retirements in this program area, leading to
+high-learning curves and slower-processing of applications.  The processing times for storage and surface water applications improved during the reporting period with lower staff turnover in this
+relatively small group.  In addition, the stable program budget has allowed the Department to retain caseworkers.
+Groundwater Applications, which represented 86 percent of all initial reviews in the reporting period, require a staff intensive review to determine if the proposed well will have an adverse impact to
+surface water.  Fluctuations in the KPM for groundwater applications largely reflect variation in the demands on the Groundwater Section by a multitude of factors, including 1) persistent drought
+(increased requests for drought permits and increased well-to-well interference complaints), 2) staff turnover, 3) involvement in legal challenges, 3) steadily increasing complexity of permit reviews,
+and 4) a greater number of applications submitted, and 5) a number of special projects (Mosier Well Repair Program, Harney Basin Study, and Klamath Regulation).
+KPM #11
+PROMOTE EFFICIENCY IN TRANSFER APPLICATION PROCESSING
+- Percent of transfer final orders issued within 120 days of application filing.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Percent of Transfer Final Orders Issued within 120 Days of Filing
+Actual
+32%
+31%
+37%
+28%
+34%
+Target
+30%
+30%
+30%
+30%
+30%
+How Are We Doing
+The Department has had a large, but generally shrinking backlog of transfer applications, dating as far back as 1993.  A focus on reducing the number of pending applications (297 as of June 30,
+2016) has helped to make progress on this KPM.  Our goal is to reduce the number of pending applications to less than 200, at which point staff will be able to take on processing of new
+applications as soon as they are filed. It is important to note that the number of transfer applications filed increased 33 percent from FY2015 to FY2016.
+Factors Affecting Results
+During the 1990s, the Department developed a significant backlog of pending transfer applications (reaching a high of 760), partly due to the number of incomplete and incorrect applications that
+were filed.  During that time period, the Department focused efforts on reviewing the more straightforward applications, with the more complex transfers falling behind.  This caused the average time
+from receipt of an application to issuance of the final order to increase.  In 2009-2010, the Department analyzed the causes of delay in processing, and as a result, streamlined the work process
+and re-designed the application forms to make the forms more user-friendly.  This has resulted in fewer application deficiencies, which increases the chances that a new application can be
+processed within 120 days once a staff person begins the review.  Staff are now processing as many new applications as possible within 120 days, while at the same time continuing to finish
+processing the older applications.  As backlog is reduced, the percentage of final orders that can be issued within 120 days of filing will increase.
+KPM #12
+PROMOTE EFFICIENCY IN FIELD STAFF REGULATORY ACTIVITIES
+- Number of places where water is legally taken out of stream and used (points of diversion) per FTE of field staff.
+Data Collection Period: Oct 01
+- Sep 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Points of Diversion per FTE of Field Staff
+Actual
+2,640
+2,650
+2,504
+2,504
+2,523
+Target
+2,400
+2,400
+2,400
+2,400
+2,400
+How Are We Doing
+The performance target is
+to reduce
+the number of points of diversion (PODs; both surface water and groundwater) administered by each field staff person in order to effectively manage the
+state's water resources.  The target is 2,400 PODs per FTE of field staff.  As new water rights are issued, the number of PODs per each field staff person will increase if staff resources are static.
+Additional water rights were issued in 2015 that added 533 PODs, while field staff numbers remained static, increasing the number of PODs to 2,523 per field staff person.
+Factors Affecting Results
+The number of water rights administered per FTE increases when new water rights are issued, or in some instances, when water right transfers are completed.  These increases drive up the
+number of PODs associated with each field staff FTE. Conversely, if additional staffing capacity is added, the much needed field resources help lower this ratio.  The reporting cycle is the water year
+(October 1 to September 30).
+KPM #13
+INCREASE WATER USE REPORTING
+- the percent of water users with an annual water-use reporting requirement that have submitted their reports to the Department.
+Data Collection Period: Oct 01
+- Sep 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Percent of water users with an annual water-use reporting requirement that have submitted reports to the Dept.
+Actual
+19%
+17%
+70%
+74%
+78%
+Target
+32%
+24%
+70%
+74%
+78%
+How Are We Doing
+Since reestablishment of the Water Use Reporting Coordinator in 2013, the percent of water users submitting water-use reports as required has continued to increase, achieving 78 percent
+compliance in the 2016 reporting period and meeting the target.
+Factors Affecting Results
+The 2016 reporting period contains results from the water year (October 2014 - September 2015) with reports due to the Department by the end of the 2015 calendar year. Success on this metric is
+directly tied to the Water Use Reporting Coordinator.  During 2007, the Department had no Water Use Reporting Coordinator because of budget constraints, and received 20 percent of the
+required reports.  In 2008, the Program Coordinator position was re-authorized and raised reporting results to 65 percent.  In the 2009-11 Budget, the Water Use Reporting Coordinator position
+was again eliminated.  The percent of reports received subsequently ranged from 17 to 27 percent during the 2009-2012 water years.  Re-establishing the position in 2013 has allowed customers
+to receive reminders, technical assistance, and prompt customer service responses, which has again driven up the rate of compliance.  Upgrades continue to be made to the online reporting
+program, which helps customers who are trying to submit and/or use the data and may help the Department achieve additional increases in compliance.
+KPM #14
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent” in overall customer service, timeliness, accuracy,
+helpfulness, expertise, and availability of information.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2012
+2013
+2014
+2015
+2016
+Timeliness
+Actual
+62%
+No Data
+65%
+No Data
+59%
+Target
+85%
+TBD
+85%
+TBD
+85%
+Expertise
+Actual
+81%
+No Data
+88%
+No Data
+71%
+Target
+85%
+TBD
+85%
+TBD
+85%
+Helpfulness
+Actual
+83%
+No Data
+90%
+No Data
+79%
+Target
+85%
+TBD
+85%
+TBD
+85%
+Accuracy
+Actual
+77%
+No Data
+86%
+No Data
+79%
+Target
+85%
+TBD
+85%
+TBD
+85%
+Availability of Information
+Actual
+78%
+No Data
+81%
+No Data
+68%
+Target
+85%
+TBD
+85%
+TBD
+85%
+Overall
+Actual
+76%
+No Data
+83%
+No Data
+74%
+Target
+85%
+TBD
+85%
+TBD
+85%
+How Are We Doing
+The Department saw declines across all categories, ranging from a decline of 6 percent for timeliness to a decline of 17 percent for expertise.  Timeliness continues to be the Department’s greatest
+challenge with 59 percent of customers rating their satisfaction as good or excellent.  Expertise at 71 percent and availability of information at 68 percent were the next lowest categories.  As seen in
+previous years, helpfulness ranked highest at 79 percent, demonstrating that staff continue to provide professional service and exhibit a desire to assist the public.  Accuracy was also tied with
+helpfulness for the highest score, despite expertise declining significantly.  On overall performance, 74 percent of those surveyed ranked the overall service provided by the Department as good or
+excellent.
+Factors Affecting Results
+The Department experienced challenges obtaining responses to the survey: 333 emailed surveys were sent and 300 phone calls were made, but only 119 survey responses were obtained.  Many
+individuals did not open the emailed survey, while it was difficult to obtain a response to phone calls.  The Department would like to look at other options for conducting the survey in the future to
+improve response rates and obtain feedback more timely.  In regards to the results, the Department believes that turnover in the Water Right Services Division may have contributed to declines
+across all indicators, as it took time to train new staff, while other experienced staff shifted from positions.  This is supported by the greatest decrease occurring in the expertise category.  As
+caseworkers change, customers may be unaware of the changes.  The Department was surprised to see a significant decline in the ranking of the availability of information, since the availability of
+information has continued to increase, not decrease.  The Department prides itself in being responsive to the public and customer’s needs; therefore, the Department will be evaluating and
+implementing actions to improve customer service.  In addition to reviewing the survey methodology, based on the limited narrative feedback received from respondents, the Department should also
+consider: (1) implementing further actions to ensure applicants understand how long the processing may take and why, (2) develop information to provide a simplified explanation of the various
+complex water rights processes to help applicants better understand the process, (3) implement further actions to allow the applicant to better understand where their application is in the process,
+and (4) identify methods to address applications that are taking longer than usual and not making progress.

@@ -1,0 +1,385 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: apprproposed-obop-2018-09-27
+title: Oregon Board of Psychology — Annual Performance Progress Report, Reporting Year 2018
+doc_type: performance_report
+citation: APPR OBOP 2018
+authority_level: agency_report
+issuing_body: Oregon Board of Psychology
+agency: Oregon Board of Psychology
+agency_code: OBOP
+reporting_year: '2018'
+year_source: document
+filename_year: '2018'
+measure_status: proposed
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OBOP_2018-09-27.pdf
+source_filename: APPRProposed_OBOP_2018-09-27.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 26afaf0e58fac275d2b30b159c5cef5be8d98648e219e10a34ddfe11e58dc2ad
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2018
+---
+
+## At a glance
+
+**APPR OBOP 2018** — Oregon Board of Psychology, Reporting Year 2018
+
+- Agency: Oregon Board of Psychology
+- Reporting year: 2018 (stated in the document)
+- Measures reported as: proposed to the Legislature
+- Source file: `APPRProposed_OBOP_2018-09-27.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Oregon Board of Psychology
+Annual Performance Progress Report
+Reporting Year 2018
+Published: 9/27/2018 12:41:27 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": Overall, Timeliness, Accuracy, Helpfulness, Expertise, Availability of Information.
+BOARD BEST PRACTICES
+- Percent of total best practices met by the Board.
+COMPLAINT INVESTIGATIONS - Percent of uncontested case consumer complaint investigations completed within six months.
+CONTINUING EDUCATION - Percent of continuing education reports that meet requirements at first review.
+EXAMINATION
+- Percent of examiners and examinees who rate the board-administered exam as “good” or “excellent” as an effective screen for competent and ethical professionals.
+RESIDENCY SUPERVISION
+- Percent of supervisors and residents who rate supervision process as "good" or "excellent" as effective preparation for competent and ethical professionals.
+Proposal
+Proposed Key Performance Measures (KPMs)
+Delete
+COMPLAINT INVESTIGATIONS - Percent of uncontested case consumer complaint investigations completed within six months.
+New
+Timely Investigations - Percent of complaints presented to the Board within 120 days of receipt.
+Delete
+CONTINUING EDUCATION - Percent of continuing education reports that meet requirements at first review.
+New
+Efficient Application Processing - Average number of calendar days from completed license application file to application approval.
+Delete
+EXAMINATION
+- Percent of examiners and examinees who rate the board-administered exam as “good” or “excellent” as an effective screen for competent and ethical professionals.
+Delete
+RESIDENCY SUPERVISION
+- Percent of supervisors and residents who rate supervision process as "good" or "excellent" as effective preparation for competent and ethical professionals.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+50%
+16.67%
+33.33%
+red
+green
+yellow
+KPM #1
+CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": Overall, Timeliness, Accuracy, Helpfulness, Expertise,
+Availability of Information.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2016
+2017
+2018
+2019
+2020
+Availability of Information
+Actual
+73%
+75%
+80%
+No Data
+No Data
+Target
+75%
+75%
+75%
+75%
+TBD
+Accuracy
+Actual
+79%
+79%
+82%
+No Data
+No Data
+Target
+75%
+75%
+75%
+75%
+TBD
+Expertise
+Actual
+79%
+83%
+84%
+No Data
+No Data
+Target
+75%
+75%
+75%
+75%
+TBD
+Helpfulness
+Actual
+81%
+82%
+82%
+No Data
+No Data
+Target
+75%
+75%
+75%
+75%
+TBD
+Overall
+Actual
+76%
+78%
+79%
+No Data
+No Data
+Target
+75%
+75%
+75%
+75%
+TBD
+Timeliness
+Actual
+79%
+78%
+76%
+No Data
+No Data
+Target
+75%
+75%
+75%
+75%
+TBD
+How Are We Doing
+The Board met or exceeded its targets in all areas of customer service.
+Overall Customer Satisfaction
+increased by one point from 2017, and is right on the five-year average of 79%.  From
+2017 to 2018,
+Accuracy
+increased by three points from 79% to 82%, falling just above the five-year average of 81%.
+Helpfulness
+remained the same at 82%, and falls just two points below the
+five-year average of 84%.
+Expertise
+increased by one point from 83% to 84%, and is one point above the five-year average (83%).
+Timeliness
+decreased by two points from 78% to 76%, but
+remains one above target (75%).  Finally,
+Availability of Information
+increased by five points from 75% to 80%, and is now three points above the five-year average of 77%.
+Factors Affecting Results
+The Board has experienced some staff turnover and reorganization, which may have affected the survey results.  However, throughout the changes, the Board has maintained customer service as
+a high priority, which is reflected in the results.  Generally, survey results reflect some stakeholders who have experienced an adverse enforcement action, do not agree with laws or rules that the
+Board is charged with enforcing, or is unsatisfied the policy direction of the Board.  These individuals will often respond "poor" to each satisfaction area, regardless of their experience with agency
+staff.
+KPM #2
+BOARD BEST PRACTICES
+- Percent of total best practices met by the Board.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+GOVERNANCE - Percent of best administrative practices achieved.
+Actual
+100%
+100%
+99%
+No Data
+No Data
+Target
+100%
+100%
+85%
+85%
+85%
+How Are We Doing
+In the past four years, the Board has exceeded the target in Board best practices.  The most recent score for the 2018 reporting period was 99%.
+Factors Affecting Results
+Board management continues to look for opportunities for improved performance and increased transparency, regardless of the Board members' reports of success. Board staff sends materials
+with this survey to help clarify the survey questions and explain how they directly relate to agency operations; however, members report on their perceptions of best practices which could reflect
+aspirational rather than actual performance levels.  The survey will fall below 100% if just one of the nine Board members indicates that any one of the 15 best practice measures are not being met.
+NOTE: This survey was not administered in 2014; therefore, there is no data for the agency to report for this year.
+KPM #3
+COMPLAINT INVESTIGATIONS - Percent of uncontested case consumer complaint investigations completed within six months.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Timely Complaint Investigations
+Actual
+59%
+66%
+17%
+No Data
+No Data
+Target
+80%
+80%
+80%
+80%
+TBD
+How Are We Doing
+The percent of uncontested case consumer complaint investigations completed within 6 months has remained well below the target of 80% since inception.  For the 2018 reporting period, only 17%
+of investigations were completed within the target timeframe.
+Factors Affecting Results
+The Board has set an ambitious goal to complete complaint investigations within six months; however, there are many factors affecting our ability to resolve a complaint. These include the need for
+additional investigative staff, complexity of cases, increasing volume of complaints received, traveling time, arranging witness interviews, coordinating respondent and attorney schedules for
+interviews, waiting for necessary records to be submitted (including issuing and enforcing subpoenas), and emergency high-priority cases that take staff resources away from other cases.  The
+Board meets bimonthly, so timing is often a factor as well. Particularly at issue this past year has been the Board's ability to hire vacant investigator positions due to the significant amount of
+time needed to complete the recruitment process through DAS CHRO. Over the past couple of years, it has taken an average of 14.6 weeks to hire five key agency positions.
+Consistent with feedback from the Joint Committee on Ways and Means Subcommittee on Education, the Legislative Fiscal Office, and the Chief Financial Office, the Agency has assessed the
+adequacy of this performance measure and has requested to delete it for 2019-21.  The Agency is requesting this to be replaced by a more meaningful and achievable measure of investigation
+timeliness, one that will align this Board with its sister board, the Board of Licensed Professional Counselors and Therapists.
+KPM #4
+CONTINUING EDUCATION - Percent of continuing education reports that meet requirements at first review.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Metric Value
+Actual
+43%
+81%
+51%
+No Data
+No Data
+Target
+90%
+90%
+90%
+90%
+TBD
+How Are We Doing
+For the 2018 reporting period, 51% of licensees submitted continuing education reports which met the requirements at first review.  This measure has consistently fallen below the target over the
+past five years.
+Factors Affecting Results
+For various reasons, a number of licensees audited each period will not be found to not be in compliance with the continuing education requirements on first review. Some licensees will not fully
+understand how to apply the criteria for what is acceptable education, the categorical limitations, what is acceptable documentation of completion, or how to fill out the forms. Most errors/omissions
+are corrected immediately upon follow-up with the licensee.  The Board strives to respond quickly and completely to licensees' inquiries about the CE requirements, and to keep the website updated
+with clear forms, extensive explanatory materials, and helpful FAQs.  With increased outreach to licensees about acceptable continuing education and reporting, the Board has sought to
+improve licensees' understanding of the requirements. Additionally, the results will vary with the thoroughness of the reviewer.
+Consistent with feedback from the Joint Committee on Ways and Means Subcommittee on Education, the Legislative Fiscal Office, and the Chief Financial Office, the Agency has assessed the
+adequacy of this performance measure and has requested to delete it for 2019-21, since it has not been found to be a meaningful or achievable measure of agency performance.
+KPM #5
+EXAMINATION
+- Percent of examiners and examinees who rate the board-administered exam as “good” or “excellent” as an effective screen for competent and ethical professionals.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+JURISPRUDENCE EXAM SATISFACTION
+Actual
+79%
+86%
+80%
+No Data
+No Data
+Target
+90%
+90%
+90%
+90%
+TBD
+How Are We Doing
+For the 2018 reporting period, 80% of examinees rated the Jurisprudence Exam as "good"​ or "excellent"​ as an effective screen for competent and ethical professionals. This measure has
+consistently fallen below the target over the past four years.
+Factors Affecting Results
+There are some examinees that question whether any examination can be an effective screen for competence and/or ethical practice.  Some surveyed examinees do not pass the exam on the first
+attempt. The Board has continuously looked for ways to improve the quality of the examination content and process, including seeking feedback from examinees.  NOTE: This survey was not
+administered in 2014; therefore, there is no data for the agency to report for this year.
+Consistent with feedback from the Joint Committee on Ways and Means Subcommittee on Education, the Legislative Fiscal Office, and the Chief Financial Office, the Agency has assessed the
+adequacy of this performance measure and has requested to delete it for 2019-21, since it has not been found to be a meaningful or achievable measure of agency performance.
+KPM #6
+RESIDENCY SUPERVISION
+- Percent of supervisors and residents who rate supervision process as "good" or "excellent" as effective preparation for competent and ethical professionals.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+RESIDENCY-SUPERVISION PROCESS
+Actual
+94%
+95%
+96%
+No Data
+No Data
+Target
+95%
+95%
+95%
+95%
+TBD
+How Are We Doing
+For the 2018 reporting period, 96% of supervisors and residents who responded to the survey rated the supervision process as "good" or "excellent" as effective preparation for competent and
+ethical professionals. This is one point above the Board's target of 95%, and is a one-point increase from the 95% result of the last survey administration for 2017.  Agency results on this metric
+have remained fairly consistent.
+Factors Affecting Results
+This measure is affected by the quantity and quality of available residency sites and supervisors in the state.  The Board continues to look for opportunities to improve the quality of the residency
+experience for both residents and supervisors, regardless of the success of the program. In the past few years, the Board has made additional resources available its website to educate residents
+and supervisors on residency requirements and best practices.  However, aside from providing resources and responding appropriately to complaints received, the Board does not have the
+authority or resources to monitor what acutally occurs during residency supervision.  NOTE: This survey was not administered in 2014; therefore, there is no data for the agency to report for this
+year.
+Consistent with feedback from the Joint Committee on Ways and Means Subcommittee on Education, the Legislative Fiscal Office, and the Chief Financial Office, the Agency has assessed the
+adequacy of this performance measure and has requested to delete it for 2019-21.  The Agency is requesting this to be replaced by a more meaningful and achievable measure of efficient
+application processing, one that will align this Board with its sister board, the Board of Licensed Professional Counselors and Therapists.

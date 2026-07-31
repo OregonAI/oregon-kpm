@@ -27,3 +27,10 @@ site/
 credentials.json
 
 .DS_Store
+
+# Source PDFs are NOT committed; frontmatter declares snapshot_policy: hash-only.
+# 229 reports for 2016-2018 alone are 336 MB, and the full 789-source corpus would be
+# over a gigabyte. The committed .txt is what source_sha256 hashes and what the
+# full-text coverage check diffs against, so hash-only keeps both guarantees. What is
+# lost is the archival copy -- a real cost here, since 41 manifest URLs already 404.
+_meta/snapshots/*.pdf
