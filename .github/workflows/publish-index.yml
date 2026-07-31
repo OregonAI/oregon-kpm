@@ -49,10 +49,10 @@ jobs:
     # needs no action on instantiation: the repository name stops matching, and the job
     # starts running by itself.
     if: github.repository != 'OregonAI/corpus-template'
-    uses: OregonAI/corpus-toolkit/.github/workflows/publish-index.yml@v1.4.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/publish-index.yml@v1.13.0
     with:
       # Pin the CODE, not just the workflow file above. These are separate knobs: `uses:`
       # selects the workflow file, `toolkit-ref` selects the toolkit it installs. Leave
       # this out and you silently run whatever the default happens to be. Bump both
       # together.
-      toolkit-ref: v1.4.0
+      toolkit-ref: v1.13.0
