@@ -1,0 +1,34 @@
+# Runtime + tooling dependencies for this corpus.
+#
+# The [mcp] extra installs the MCP SDK that `corpus-mcp-serve` imports. Without it the CLI
+# is on PATH but fails at import, so it must be present for the container to serve.
+#
+# v1.12.0 is simply the latest release, NOT a floor established by this corpus's needs —
+# and that distinction matters here, because the version this corpus actually requires
+# DOES NOT EXIST YET.
+#
+# `_meta/corpus.yml` declares doc_type: performance_report, and the toolkit's frontmatter
+# schema does not know that type:
+#
+#     statute, rule, executive_order, policy, procedure, standard, manual,
+#     schedule, ordinance, audit_report, federal_instrument
+#
+# Every document ingested in Stage 2 will therefore fail `corpus-validate-frontmatter`.
+# CI is green today only because reports/ is still empty, which is exactly the shape of a
+# gate that reads as covered and is not. Tracked as an issue against corpus-toolkit, which
+# owns the fix; this pin moves to that release when it ships. Two precedents: v1.10.0 added
+# `audit_report` for oregon-audits and v1.12.0 added `federal_instrument` for
+# federal-reference, so a new corpus needing a doc_type release is the norm, not a surprise.
+corpus-toolkit[mcp] @ git+https://github.com/OregonAI/corpus-toolkit@v1.12.0
+pyyaml
+
+# src/ingest_kpm.py extracts the APPR PDFs (Stage 2). Same extractor oregon-audits and
+# oregon-records-retention use, so the page-furniture stripping is shared behaviour rather
+# than a third implementation.
+#
+# NOT pinned exactly here yet. federal-reference pins pypdf==6.14.2 because its
+# check_extraction.py compares committed text token-for-token against a re-extraction, and
+# pypdf changes extraction between releases. This corpus will want the same discipline once
+# Stage 2 commits extracted text — pin it exactly at that point, not before, so the pin
+# documents a real constraint instead of a guess.
+pypdf
