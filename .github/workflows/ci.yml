@@ -1,0 +1,82 @@
+name: ci
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  frontmatter:
+    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.4.0
+    with:
+      # Pin the CODE, not just the workflow file above — separate knobs.
+      toolkit-ref: v1.4.0
+  provenance:
+    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.4.0
+    with:
+      # Pin the CODE, not just the workflow file above — separate knobs.
+      toolkit-ref: v1.4.0
+  links:
+    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.4.0
+    with:
+      # Pin the CODE, not just the workflow file above — separate knobs.
+      toolkit-ref: v1.4.0
+      # lychee walks './**/*.md'. Without these exclusions it crawls
+      # _meta/templates/document.md — a skeleton whose example URLs are not meant
+      # to resolve — and every PR fails on link rot that is not link rot.
+      # _meta/snapshots/ is excluded because a large corpus's snapshots would drag
+      # hundreds of upstream URLs into a per-PR gate; upstream availability is what
+      # the scheduled drift job is for.
+      exclude-paths: |
+        _meta/snapshots
+        _meta/templates
+
+  # EVERY COMMITTED GENERATED ARTIFACT MUST BE CURRENT, checked on every PR.
+  #
+  # This is the gate the toolkit cannot provide for you. It only READS
+  # _meta/graph.json, so nothing upstream notices when a document is added and the
+  # graph is not rebuilt — resolve_citation and graph_neighbors simply stop finding
+  # it, silently, with no error anywhere.
+  #
+  # What this corpus commits, and what covers it:
+  #
+  #   _meta/graph.json   src/build_graph.py         this job, every PR
+  #   STATUS.md          corpus-generate-status     this job, every PR
+  #
+  # STATUS.md is also regenerated and committed by the weekly `drift` job in
+  # scheduled.yml. That is a repair, not a gate: between Mondays a PR can merge a
+  # document and leave the published status wrong for six days with nothing saying so.
+  #
+  # _meta/corpus-index.json is deliberately ABSENT from this list. The platform builds
+  # it at deploy time in publish-index.yml and never commits it, precisely so it cannot
+  # fall behind its own corpus in a way that damages a SIBLING repo's citation
+  # resolution. Do not commit one and then gate it here; publish it instead.
+  #
+  # ADD A STEP HERE FOR EVERY GENERATED FILE YOU COMMIT. A generated file with no step
+  # is the failure this whole job exists to prevent, and it is silent by construction.
+  #
+  # Note the checks are `--check` rather than `git diff --exit-code`: STATUS.md carries
+  # a "Generated <date>" line, so a raw diff would fail every day for a reason that is
+  # not drift. Both `--check` implementations compare CONTENT and print the exact
+  # command to re-run.
+  generated:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      # THIRD PIN, and yes that is one more than there should be. `uses:` above selects
+      # the workflow file, `toolkit-ref:` selects the code it installs, and this selects
+      # the code THIS job installs. All three must move together; a bump that misses one
+      # runs new checks against old code. Tracked as corpus-toolkit#9.
+      - uses: actions/checkout@v4
+        with:
+          repository: OregonAI/corpus-toolkit
+          ref: v1.4.0
+          path: .toolkit
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install ./.toolkit
+      - name: Authority graph must be current
+        run: python3 src/build_graph.py --check
+      - name: STATUS.md must be current
+        run: corpus-generate-status --config _meta/corpus.yml --output STATUS.md --check

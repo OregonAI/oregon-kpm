@@ -1,0 +1,14 @@
+# Every PR needs a review from an owner listed here.
+#
+# The template ships `* @OregonAI/OWNER-PLACEHOLDER`, and no such team exists. GitHub
+# SILENTLY IGNORES an owner it cannot resolve — an unknown user or a nonexistent team
+# produces no error, no warning, and no review requirement. The file then looks like a
+# review gate while enforcing nothing at all, which is strictly worse than having no
+# CODEOWNERS: you believe you are protected. Points at a real account until a
+# maintainers team exists in the org (check with: gh api orgs/OregonAI/teams).
+* @morficflux
+
+/reports/ @morficflux
+/_meta/   @morficflux
+/src/     @morficflux
+/.github/ @morficflux

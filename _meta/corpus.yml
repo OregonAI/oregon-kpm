@@ -1,0 +1,90 @@
+# Corpus configuration — the single source of truth the toolkit reads.
+corpus:
+  id: "oregon-kpm"                   # = repo name, e.g. oregon-records-retention
+  name: "Oregon Key Performance Measures — Annual Performance Progress Reports"
+  jurisdiction: "oregon"             # e.g. oregon | oregon/marion-county | oregon/salem
+  archetype: "document"              # document | api | hybrid
+  # Where the OFFICIAL text lives — the ORS/OAR landing page, the SoS Archives
+  # schedules page, the legislature's bill site. Emitted on every MCP response
+  # (interface contract, response convention 1). Not optional in practice: the
+  # disclaimer on every response tells an agent this copy is non-authoritative and to
+  # "verify at source", and without this it is never told WHERE the source is. All four
+  # corpora that predate this key shipped without one, and every agent asking them
+  # `corpus_overview` was given that dead end. Requires corpus-toolkit >= 1.7.0;
+  # corpus-validate-frontmatter warns while it is unset.
+  # LFO's KPM landing page, NOT a URL under /lfo/APPR. Deliberate, and for a sharper
+  # reason than "PDFs move": /lfo/APPR returns 401 to anonymous listing (verified
+  # 2026-07-31 against the library root, Forms/AllItems.aspx, _api/web/lists, listdata.svc
+  # and owssvr.dll). Individual PDFs under it ARE public, but pointing an agent at a
+  # directory it cannot open is worse than pointing at nothing. This page is public,
+  # stable, and is where a human actually goes.
+  authoritative_source: "https://www.oregonlegislature.gov/lfo/Pages/KPM.aspx"
+  schema_version: 1
+  contract_version: 1
+
+# One root, one doc_type. Every document here is an Annual Performance Progress Report
+# (APPR) — the report an agency files with the Legislature against its legislatively
+# approved Key Performance Measures.
+#
+# SCOPE NOTE. Both APPR_ and APPRProposed_ files are ingested under this one type. The
+# proposed/approved distinction is a FRONTMATTER FIELD, not a second doc_type: it is a
+# status the same document carries, and three agencies (DSL, OHA, DEQ) appear in 2024
+# only as Proposed, so a type split would read as "these agencies did not report".
+content_roots:                       # where document files live (document/hybrid).
+                                     # jurisdiction-wide root: one doc_type for the
+                                     # whole directory —
+  - path: "reports"
+    doc_type: "performance_report"
+                                     # issuing-body-scoped root: <path>/<slug>/<subdir> —
+  # - path: "agencies"
+  #   scoped: true
+  #   subdirs:
+  #     policies: policy
+  #     procedures: procedure
+
+plugins:
+  # citation_module: "src.citation_schemes"    # calls mcp.framework.register_scheme()
+  # snapshot_slice_module: "src.slicing:slice" # (doc_id, snapshot_id, raw_text) -> str
+  # semantic_search_module: "src.semantic_search"  # module exposing available() -> bool
+  #                                                # and rank(query, want) -> [doc_id]
+  # issuing_body_registry: "_meta/catalog/issuing-bodies.yml"
+  # issuing_body_registry_key: "entries"       # the TOP-LEVEL KEY inside that file.
+  #                                            # Defaults to "entries"; if your registry
+  #                                            # is keyed differently (e.g. "organizations")
+  #                                            # and you omit this, the toolkit reads an
+  #                                            # EMPTY registry and silently enforces no
+  #                                            # slug validation at all.
+  # issuing_body_profiles: "_meta/issuing-body-profiles.yml"    # {profiles: {slug: {...}}}
+  extra_schema_checks: []            # [{path: "...", schema: "..."}, ...]
+
+# Sibling corpora this one resolves citations INTO (toolkit >= 1.1.0). Optional;
+# omit entirely and resolution stays purely local, exactly as before v1.1.0.
+#
+# Use this instead of copying documents across corpora. A citation that resolves
+# next door stays one source of truth; a copied document becomes a second one that
+# drifts. `index_url` should point at an index the sibling PUBLISHES (e.g. from its
+# Pages build) rather than a committed file — a committed index can fall behind its
+# own corpus, and the damage lands here, as a resolution returning a stale title.
+#
+# Mark the matching citation schemes with register_scheme(..., corpus="<sibling id>").
+# siblings:
+#   - id: "sibling-corpus-name"
+#     index_url: "https://ORG.github.io/sibling-corpus-name/corpus-index.json"
+#     web_base:  "https://github.com/ORG/sibling-corpus-name/blob/main/"
+
+disclaimer_marker: "NON-AUTHORITATIVE"
+graph_path: "_meta/graph.json"
+source_manifest_path: "_meta/source-manifest.yml"
+snapshot_dir: "_meta/snapshots"
+
+provenance:
+  coverage_fail_threshold: 0.70
+  coverage_warn_threshold: 0.90
+
+
+mcp:
+  server_name: "oregon-kpm"
+  transports: [stdio, http]
+
+status:
+  reverify_days: 90                  # quarterly re-verification SLA

@@ -1,0 +1,18 @@
+# Oregon Key Performance Measures — Annual Performance Progress Reports
+
+> Non-authoritative, AI-friendly reference for The targets, actuals, and green/yellow/red assessments Oregon state agencies report annually to the Legislature as Annual Performance Progress Reports (APPRs), against their legislatively approved Key Performance Measures. This corpus carries whether appropriated money produced the outcome an agency agreed to — the counterpart to oregon-budget, which carries what was appropriated and spent..
+> Full verbatim text of jurisdiction-authored documents is included in-repo;
+> third-party materials are summarized with links to official sources.
+> Always verify against the authoritative source linked in each document.
+
+## Start here
+
+- [AGENTS.md](AGENTS.md): rules for AI agents working in this corpus
+- [STATUS.md](STATUS.md): freshness, coverage, and drift at a glance
+
+## Contents
+
+<!-- One annotated link per knowledge body / index, e.g.
+     - `[Title](path/_index.md)`: when an agent should consult it
+     Written as inline code rather than a live link: lychee checks llms.txt by
+     name, and an example path that does not exist would fail CI on day one. -->

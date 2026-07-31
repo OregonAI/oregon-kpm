@@ -1,0 +1,39 @@
+name: scheduled
+on:
+  schedule:
+    - cron: "0 14 * * 1"      # weekly Monday; tighten per corpus cadence
+  workflow_dispatch:
+
+jobs:
+  drift:
+    permissions:
+      contents: write
+      issues: write
+    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.4.0
+    with:
+      # Pin the CODE, not just the workflow file above — separate knobs.
+      toolkit-ref: v1.4.0
+
+  # FULL-CORPUS validation. ci.yml only ever validates files CHANGED in a PR,
+  # which leaves two real holes:
+  #
+  #   1. A document merged before a rule tightened is never re-checked, and a
+  #      document whose snapshot is later deleted is never re-detected.
+  #   2. On a repository's FIRST push to main, github.event.before is all-zeros,
+  #      so the changed-file set is empty and validation passes having checked
+  #      nothing. An initial bulk import can land fully green and completely
+  #      unvalidated — the single worst moment to not be looking.
+  #
+  # The toolkit's reusable workflows already branch on github.event_name and run
+  # the full corpus for schedule/workflow_dispatch; without these two jobs that
+  # branch is dead code in every corpus built from this template.
+  full-frontmatter:
+    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.4.0
+    with:
+      # Pin the CODE, not just the workflow file above — separate knobs.
+      toolkit-ref: v1.4.0
+  full-provenance:
+    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.4.0
+    with:
+      # Pin the CODE, not just the workflow file above — separate knobs.
+      toolkit-ref: v1.4.0

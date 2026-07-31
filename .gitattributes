@@ -1,0 +1,5 @@
+# Snapshots are hashed. On a raw-bytes fallback (image-only sources with no
+# usable text layer) the hash is over the exact file, so a CRLF translation on a
+# Windows checkout would change it and fail provenance verification.
+_meta/snapshots/** -text
+*.pdf binary

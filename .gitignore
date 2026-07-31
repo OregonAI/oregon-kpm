@@ -1,0 +1,29 @@
+.obsidian/
+__pycache__/
+.venv/
+*.pyc
+
+# Toolkit-managed caches. _meta/.cache/ is written by the MCP framework itself:
+# fts.db (an SQLite full-text index over every document) and siblings/ (cached
+# sibling-corpus indexes for cross-corpus citation resolution). Neither is an
+# input to anything — both rebuild on demand — and committing a binary SQLite
+# file that changes on every ingest is exactly the kind of repository bloat that
+# is painful to undo later.
+_meta/.cache/
+
+# corpus-detect-changes writes this to the repo root on every run.
+changed-sources.tsv
+
+# GitHub Pages build output, if this corpus publishes a site.
+site/
+
+# Secret-shaped files. Nothing here should ever produce one, which is precisely
+# why these are worth listing: a public civic-data repo gets no second chance
+# once a credential is pushed, and the cost of the safety net is three lines.
+*.env
+.env
+*.pem
+*.key
+credentials.json
+
+.DS_Store

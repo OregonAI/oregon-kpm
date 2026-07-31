@@ -1,0 +1,95 @@
+name: codeowners-validate
+
+# GitHub SILENTLY IGNORES a CODEOWNERS entry it cannot resolve. An unknown user, a
+# nonexistent team, OR A PATH THAT DOES NOT EXIST produces no error, no warning and no
+# review requirement — the file then looks like a review gate while enforcing nothing,
+# which is strictly worse than having no CODEOWNERS, because you believe you are
+# protected. This turns all three silences into a failure.
+#
+# WHY THE TRIGGERS ARE WHAT THEY ARE. This used to run only on
+# `paths: [".github/CODEOWNERS"]`, which made it unable to fire on the drift it exists
+# to catch: the failure mode is a directory being renamed, removed, or never created
+# SOMEWHERE ELSE, with CODEOWNERS untouched. The workflow never ran, and the stale rule
+# silently matched nothing.
+#
+# Measured case: OregonAI/executive-regulatory-frameworks shipped `/agencies/das/` in
+# CODEOWNERS for a directory that does not exist there (the slug is the full agency
+# name). The DAS tree was unowned and eight other agencies fell through to `*` while
+# appearing covered. A path check would have caught it — but the trigger meant the
+# workflow could never have run on the change that introduced it.
+#
+# So: every pull request and every push to main, because a rename lands in the same PR
+# as the stale rule it orphans; plus a weekly schedule for the drift that arrives with
+# no commit at all — a GitHub account deleted, a team renamed, a member removed.
+on:
+  pull_request:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "20 8 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: codeowners-validate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Every owner must be a real, resolvable account or team
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # THE ONE REPOSITORY WHERE THE PLACEHOLDER IS CORRECT. Everywhere else an
+          # unreplaced placeholder is the defect this whole workflow exists to catch,
+          # and it must stay a hard failure — hence a single exact repo name rather
+          # than a pattern. A corpus made from this template carries this line, and the
+          # comparison simply never matches there.
+          #
+          # This was found by making the workflow able to run (see the triggers above):
+          # its first PR run failed on THIS repo's own `@OregonAI/OWNER-PLACEHOLDER`.
+          # The check was right for the entire time it was unreachable, which is the
+          # whole argument for the trigger change in one line.
+          TEMPLATE_REPO: OregonAI/corpus-template
+        run: |
+          set -euo pipefail
+          fail=0
+          owners=$(grep -vE '^\s*#|^\s*$' .github/CODEOWNERS | tr ' ' '\n' | grep '^@' | sort -u || true)
+          if [ -z "$owners" ]; then echo "::error::CODEOWNERS lists no owners"; exit 1; fi
+          for o in $owners; do
+            name="${o#@}"
+            case "$name" in
+              *PLACEHOLDER*)
+                if [ "${GITHUB_REPOSITORY:-}" = "$TEMPLATE_REPO" ]; then
+                  echo "ok: $o (placeholder, expected in the template itself — every"
+                  echo "    corpus made from it MUST replace this; see AGENTS.md step 3)"
+                else
+                  echo "::error::$o is the template placeholder — set a real owner"; fail=1
+                fi;;
+              */*)
+                org="${name%%/*}"; team="${name##*/}"
+                if gh api "orgs/$org/teams/$team" >/dev/null 2>&1; then echo "ok: $o (team)"
+                else echo "::error::$o does not resolve to a team in $org"; fail=1; fi;;
+              *)
+                if gh api "users/$name" >/dev/null 2>&1; then echo "ok: $o (user)"
+                else echo "::error::$o is not a GitHub user"; fail=1; fi;;
+            esac
+          done
+          exit $fail
+
+      # The other half. Owners were checked and paths never were, so a rule pointing at a
+      # directory that is not there passed this workflow while owning nothing. Kept in a
+      # script rather than inlined here so a contributor can run the identical check
+      # locally instead of pushing and waiting for CI:
+      #   python3 .github/scripts/check-codeowners-paths.py
+      - name: Every path rule must match something in this repository
+        run: python3 .github/scripts/check-codeowners-paths.py
