@@ -178,10 +178,14 @@ mapping:
   examiners-psychologist:
     slug: mental-health-regulatory-agency-oregon-board-of-psychology
     basis: successor
-    note: The Board of Psychologist Examiners was renamed the Board of Psychology in 2019. Maps to
-      the same registry entry as `psychology`, which is the point -- one body, two names across the
-      reporting years. NOT the fuzzy suggestion `board-of-geologist-examiners`, which differs by one
-      word and is a different profession entirely.
+    note: 'The Board of Psychologist Examiners is now the Oregon Board of Psychology. The rename is
+      visible IN THIS CORPUS rather than asserted from outside it: the board filed as "Psychologist
+      Examiners, Board of" for RY2016 and RY2017 and as "Oregon Board of Psychology" from RY2018,
+      later shortening to "Board of Psychology" by RY2023. The LFO agency code tracks the same change,
+      obpe -> obop -> bop. Maps to the same registry entry as `psychology`, which is the point --
+      one body, three names across the reporting years. NOT the fuzzy suggestion `board-of-geologist-examiners`:
+      one word apart, a different profession, and a live example of why suggestions are printed for
+      a human and never applied.'
     review: required
   examining-medical-veterinary:
     slug: veterinary-medical-examining-board
