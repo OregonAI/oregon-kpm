@@ -205,6 +205,34 @@ def pdftotext_pages(pdf_path: Path) -> list[str] | None:
     return r.stdout.decode("utf-8", "replace").split("\f")
 
 
+CONTROL = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f]")
+
+
+def strip_control(text: str) -> str:
+    """Remove control bytes the PDF text layer should never have contained.
+
+    Two documents carry a literal NUL inside their extracted text -- appr-odot-2020 mid-word
+    in "Technology Expectations:", appr-orc-2025-09-18 on a line of its own -- and it
+    propagates into three committed files each: the .txt, the .layout.txt and the report
+    body.
+
+    IT IS NOT HARMLESS, AND THE HARM IS THAT NOTHING NOTICES. `file` reports
+    appr-orc-2025-09-18.md as `data` rather than text, and grep treats both as binary and
+    skips them silently. During this corpus's own development that produced two false
+    readings: a count of documents carrying `agency_key` came back 783/785 when the answer
+    was 785, because grep declined to look inside these two. A tool that silently excludes a
+    document is worse than one that errors, and every Python-based check in this repo reads
+    them fine, so CI would never have caught it.
+
+    THIS IS NOT THE "DISCLOSE, DO NOT REPAIR" CASE. That rule protects the source's own
+    words -- lost letter spacing in an OCR'd heading stays lost rather than being guessed
+    back. A NUL is not a word. It is a transport artefact with no glyph, no width and no
+    meaning, and removing it changes no character a reader would ever see. Tab, newline and
+    carriage return are deliberately kept: those carry layout.
+    """
+    return CONTROL.sub("", text)
+
+
 def write_layout(pdf_path: Path, rid: str) -> int:
     """Write `<rid>.layout.txt`: the same text, with COLUMN POSITIONS PRESERVED.
 
@@ -235,7 +263,7 @@ def write_layout(pdf_path: Path, rid: str) -> int:
                  for p in PdfReader(str(pdf_path)).pages]
     except Exception:                               # noqa: BLE001 — fall back, do not fail
         pages = []
-    text = re.sub(r"\n{3,}", "\n\n", "\n".join(pages)).strip()
+    text = strip_control(re.sub(r"\n{3,}", "\n\n", "\n".join(pages)).strip())
 
     # POPPLER WHEN pypdf's LAYOUT MODE RETURNS NOTHING. It does so for 12 documents -- the
     # six OCR'd scans, the three letter-spaced Ombudsman reports, and three more -- and an
@@ -309,7 +337,7 @@ def extract_text(pdf_path: Path) -> tuple[str, str]:
             if not s or s in head or s in foot or is_page_number(s, len(pages)):
                 continue
             out.append(s)
-    text = re.sub(r"\n{3,}", "\n\n", "\n".join(out)).strip()
+    text = strip_control(re.sub(r"\n{3,}", "\n\n", "\n".join(out)).strip())
 
     # A LINE OF PDF TEXT THAT STARTS WITH '## ' TRUNCATES THE DOCUMENT.
     # corpus_toolkit.repo.FULLTEXT_RE reads the section as ^## Full text\s*$(.*?)(?=^## |\Z),
