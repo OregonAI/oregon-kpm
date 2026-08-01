@@ -210,9 +210,26 @@ def write_layout(pdf_path: Path, rid: str) -> int:
     is what `## Full text` serves and what a reader and the FTS index want; this file is
     padded to preserve geometry and is a parsing input only.
     """
-    pages = [p.extract_text(extraction_mode="layout") or ""
-             for p in PdfReader(str(pdf_path)).pages]
+    try:
+        pages = [p.extract_text(extraction_mode="layout") or ""
+                 for p in PdfReader(str(pdf_path)).pages]
+    except Exception:                               # noqa: BLE001 — fall back, do not fail
+        pages = []
     text = re.sub(r"\n{3,}", "\n\n", "\n".join(pages)).strip()
+
+    # POPPLER WHEN pypdf's LAYOUT MODE RETURNS NOTHING. It does so for 12 documents -- the
+    # six OCR'd scans, the three letter-spaced Ombudsman reports, and three more -- and an
+    # empty sidecar is not a neutral outcome: Stage 3 then has no geometry for exactly the
+    # documents whose reading-order text is worst, which is where it is needed most.
+    #
+    # Same engine and same flag as the extract_text fallback, for the same reason: `-layout`
+    # preserves x-positions, plain pdftotext emits the table in column order.
+    if len(text) < 500:
+        alt = pdftotext_pages(pdf_path)
+        if alt:
+            cand = re.sub(r"\n{3,}", "\n\n", "\n".join(alt)).strip()
+            if len(cand) > len(text):
+                text = cand
     (SNAPSHOTS / f"{rid}.layout.txt").write_text(text, encoding="utf-8")
     return len(text)
 

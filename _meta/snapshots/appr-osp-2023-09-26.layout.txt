@@ -1,0 +1,624 @@
+Department of State Police
+    Annual Performance Progress Report
+
+           Reporting Year 2023
+
+      Published: 9/26/2023 2:48:16 PM
+
+ KPM #    Approved Key Performance Measures (KPMs)
+
+         Transportation Safety - Enhance transportation safety by reducing fatal crashes on state and interstate highways to fewer than 5.06 per 100.000,000 vehicle miles traveled (VMT) where the Oregon State Police (OSP) have primary responsibility.
+
+2        Traffic Incident Management - Percent of lane blocking crashes cleared within 90 minutes.
+
+3        Ignition Interlock Device Compliance - Increase compliance with the requirement of offenders to install Ignition Interlock Devices to reduce crashes and improve transportation safety on Oregon roadways.
+
+4        Angler and Hunter Contacts - Increase interactions with anglers and hunters.
+
+5        Illegal Harvest - Improve detection of illegally harvested non-commercial fish and wildlife.
+
+6        Crime Reduction - Percent of major crime team call-outs resolved within 12 months from date of call-out.
+
+7        Crime Reduction - Number of Dismantled or Disrupted Drug Trafficking Organizations (DTO's).
+
+8        Forensic Analysis - Percentage of analytical requests completed within 30 days or less.
+
+         Criminal Justice Information Services (CJIS) Division Turnaround Time -Average turnaround time, from the date of receipt of manual and electronic criminal justice fingerprint cards by the CJIS Division, until the criminal justice data is posted into the
+9
+         Computerized Criminal History (CCH) Files.
+
+12       Customer Satisfaction - Percent of customers rating their satisfaction with the agency customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+
+                                                                                                                                ■ red
+                                                                                                                                ■ green
+                                                                                                                                ■ yellow
+
+    Performance Summary                                                                                                                 Green                                              Yellow                                                    Red
+
+                                                                                                                                   = Target to -5%                                  = Target -5% to -15%                                    =Target > -15%
+
+Summary Stats:                                                                                                                          33.33%                                             11.11%                                               55.56%
+
+KPM # 1 Transportation Safety - Enhance transportation safety by reducing fatal crashes on state and interstate highways to fewer than 5.06 per 100,000,000 vehicle miles traveled (VMT) where the
+        Oregon State Police (OSP) have primary responsibility.
+         Data Collection Period : Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                                                                         14.33
+   14
+
+   12
+
+   10
+
+    6
+
+    4
+
+    2
+
+    0
+                    19                            20                            21                           22                           23
+
+                                                                    ■ actual   ■ target
+
+ Report Year                                                         2019                          2020                          2021                          2022                          2023
+
+Transportation Safety
+Actual                                                                8.64                          9.19                          8.60                         10.30                         14.33
+Target                                                                5.06                          5.06                          5.06                          5.06                          5.06
+
+How Are We Doing
+Historical Context: The previous metric for this Key Pet1ormance Metric (KPM) was to reduce fatal crashes on state and interstate highways where OSP has primary responsibility by 2.5% annually
+(from 2012 to 2022), reaching a target of 101 fatal crashes by 2022. Due to factors beyond OSP's control, such as the licensed number of drivers and vehicle miles traveled, it was unlikely that OSP
+would be able to achieve a purely nominal target.
+
+Instead, OSP changed the metric based on the number of fatal crashes in vehicle miles traveled (VMT) on highway segments where Oregon State Police has primary responsibility. In 2015, the fatal
+crash rate per 1,000,000,000 VMTwas 7. 79. Between 2010 - 2015, the lowest fatal crash rate per 1,000,000,000 VMTwas 5.63 (in 2013). Using an average of 100 fatal crashes per 1,000,000,000
+VMT over six years (2010 - 2015), OSP's new target is a fatal crash rate of 5.06 or lower per 1,000,000,000 VMT.
+
+Preliminary data from ODOT's Crash Analysis & Reporting Unit shows 341 fatal crashes on state highways in 2022, a 9% increase from the previous year's 313 fatal crashes. VMT was down slightly
+to 21,917,100,000 in 2022. These opposite trends resulted in a 14.33 fatal crash rate for that calendar year.
+
+Factors Affecting Results
+Sworn vacancies in the Patrol Services Division in nearly every patrol office impact our ability to provide visible deterrence, education, and enforcement of violations frequently attributed to collisions.
+With OSP's control, enforcement priorities for existing staff and public messaging focus on driving behaviors that most often contribute to serious injury and fatal crashes (SOLID: Speed, Occupant
+Safety, Lane Safety, Impaired Driving , Distracted Driving). Efforts to enhance the capacity of patrol offices to utilize a data-driven approach to crash reduction are ongoing , paired with high-visibility
+
+patrol saturations. Patrol offices around the state collaborate with ODOT and other partners on engineering and education efforts to reduce crashes. Troopers continue to receive enhanced training in
+rendering medical aid, including the recognition and treatment of life-threatening trauma. Factors outside OSP control include economic conditions contributing to changes in traffic volume/patterns,
+adverse weather events, the number of active drivers on roadways, and annual vehicle miles traveled.
+
+KPM#2             Traffic Incident Management - Percent of lane blocking crashes cleared within 90 minutes.
+                  Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+   80
+
+   70
+
+   60
+
+   50
+
+   40
+
+   30
+
+   20
+
+   10
+
+                    19                          20                            21                          22                          23
+
+                                                                  ■ actual   ■ target
+
+ Report Year                                                       2019                         2020                          2021                         2022                         2023
+
+Percentage of crashes cleared within 90 minutes on highways where OSP has primary responsibility
+Actual                                                              75%                          75%                          75%                          79%                          79%
+Target                                                              80%                          80%                          80%                          80%                          80%
+
+How Are We Doing
+Before the 2021 calendar year, the clearance rate on highways where OSP has primary responsibility was relatively stable at 75%. 2021 improved to 79%, the highest rate recorded since the
+calendar year 2010. Based on preliminary data from ODOT, OSP clearance rates in 2022 held steady at 79.3%, just under our 80% target.
+
+Factors Affecting Results
+Staffing shortages affecting nearly every OSP patrol office and worksite impact our ability to respond to lane-blocking crashes rapidly and consistently. The rural nature of Eastern Oregon contributes
+to longer response times for first responders, including law enforcement, emergency medical, ODOT Incident Response or maintenance staff, and tow companies. Traffic Incident Management (TIM)
+classes are regularly provided at the Oregon Public Safety Academy, which introduces these concepts to new officers (including all Troopers) early in their careers, and plans are underway to
+incorporate a refresher of TIM principles at future OSP in-service training. OSP Troopers also teach TIM classes to first responders around the state to enhance safe and efficient response to
+roadway-blocking incidents. Recent technology advances in collision reconstruction technology are compressing the time on the scene for investigators of severe injury and fatal collisions, resulting in
+substantially faster roadway reopening. The equipment and revised investigative procedures were fully deployed across OSP offices in mid-2023.
+
+KPM # 3 Ignition Interlock Device Compliance - Increase compliance with the requirement of offenders to install Ignition Interlock Devices to reduce crashes and improve transportation safety on
+        Oregon roadways.
+         Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+   60
+
+   55
+
+   50
+
+   45
+
+   40
+
+   35
+
+   30
+
+   25                                                                         23
+
+   20
+
+   15
+
+   10
+
+    5
+
+    o+ - - - - - -0- - - - - . - - - - -
+                    19                           20                           21                          22                           23
+
+                                                                  ■ actual   ■ target
+
+ Report Year                                                        2019                         2020                          2021                         2022                      2023
+
+Ignition Interlock Device Compliance
+Actual                                                                                            19%                          23%                          21%                        20%
+Target                                                                                            40%                          45%                          50%                        55%
+
+How Are We Doing
+The Oregon State Police (OSP) formally assumed the Ignition Interlock Device (IID) program from the Oregon Department of Transportation in July 2019. The most recent data from the Oregon Driver
+and Motor Vehicles Division (June 2023) indicate 37,477 drivers with an IID Requirement. Conversely, the most recent IID installation data shows 7576 devices installed (June 2023), which translates
+to a compliance rate of 20.34%.
+
+The Department did not reach our target of a 50% compliance rate. However, the number of drivers with an installed IID device did increase from 7,187 (as of August 2022) to 7554 (as of July 2023).
+Although there was an increase in the number of installed IID devices, the number of drivers requiring an IID device also saw a more significant increase, resulting in a 20.34% compliance rate.
+
+Factors Affecting Results
+Existing IID violation statutes make enforcement difficult without observing violations first-hand. Voluntary compliance with court mandated IID installations remains low.
+
+COVID-19 restrictions in 2020-2021 delayed DUii cases in the court system, which backlogged adjudication. The department discovered there were Alcohol Drug Screening Specialists (ADSS) within
+the state who were not including OSP in reporting compliance violations to the courts. The IID program has since established strong working relationships with ADSS staff to ensure proper
+communication regarding the violations. OSP also discovered diversion orders were not being sent to DMV as required to have IID requirements noted on a driver's record. The IID program actively
+connects with judicial staff to improve appropriate reporting between courts and DMV.
+
+The IID program is improving communication via several strategies:
+
+• Updating the Ignition Interlock brochure and developing a postcard to send out to drivers with 11D requirements
+• Staff attended multiple legal conferences to educate prosecutors and judges about the program and 11D requirements
+• Staff conducted a webinar with approximately 70 public defenders to educate the attorneys on the 11D requirements
+• In early 2023, staff participated in the comprehensive NHTSA Impaired Driving Program Assessment
+
+KPM#4               Angler and Hunter Contacts - Increase interactions with anglers and hunters.
+                    Data Collection Period : Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+  90K
+
+  BOK
+
+  70K
+
+  SOK
+
+  50K
+
+  40K
+
+  30K
+
+  20K
+
+  10K
+
+    0
+                    19                          20                           21                          22                          23
+
+                                                                 ■ actual   ■ target
+
+ Report Year                                                       2019                        2020                         2021                         2022                         2023
+Number of Angler and Hunter Contacts
+Actual                                                            83,320                       84,568                       76,647                       57,970                      60,755
+Target                                                            85,000                       85,000                       85,000                       85,000                      85,000
+
+How Are We Doing
+In calendar year 2022, the Fish and Wildlife Division achieved 60,755 angler and hunter contacts, achieving approximately 71 % percent of the target level of 85,000 angler and hunter contacts per
+year. While this is below the target for this performance measure, it is an approximate 3% increase from 2021.
+
+Factors Affecting Results
+The Division has taken steps to enhance its reporting system, which was fully revamped at the start of 2022 to a web-based application. Additionally, a supervisory check piece was added to ensure
+completeness and accuracy; however, this was not implemented until November of 2022. Data for reporting in 2023 has almost surpassed that of 2022 and will hopefully lead to meeting or exceeding
+the target of 85,000 contacts.
+
+KPM#5             Illegal Harvest - Improve detection of illegally harvested non-commercial fish and wildlife.
+                  Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+  2,200
+
+  2,000
+
+  1,800
+
+  1,600
+
+  1,400
+
+  1,200
+
+  1,000
+
+   800
+
+   600
+
+   400
+
+   200
+                     0                            0
+     0
+                     19                           20                            21                          22                       23
+
+                                                                   ■ actual   ■ target
+
+ Report Year                                                        2019                          2020                       2021                         2022                        2023
+Illegal Harvest
+Actual                                                                                                                       1,315                        609                          1,073
+Target                                                                                                                       2,000                        2,000                       2,000
+
+How Are We Doing
+In calendar year 2022, Fish and Wildlife Division Troopers detected 1073 illegally harvested fish and wildlife species (for purposes of KPMs), achieving approximately 53% of the target. While missing
+the target by nearly half, this is an approximately 23% increase from the year prior.
+
+Factors Affecting Results
+The Division has taken steps to enhance its reporting system, which was fully revamped at the start of 2022 to a web-based application. Additionally, a supervisory check piece was added to ensure
+completeness and accuracy; however, this was not implemented until November of 2022. Data for reporting in 2023 has already surpassed that of 2022, which indicates a positive upward trend in this
+performance measure.
+
+KPM#6           Crime Reduction - Percent of major crime team call-outs resolved within 12 months from date of call-out.
+                Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+  100
+
+   90
+
+   80
+
+   70
+
+   60
+
+   50
+
+   40
+
+   30
+
+   20
+
+   10
+
+    0
+                    19                           20                            21                          22                           23
+
+                                                                   ■ actual   ■ target
+
+ Report Year                                                        2019                          2020                          2021                         2022                          2023
+
+Percent of major crime team call-outs resolved within 12 months from date of call-out
+Actual                                                               97%                           96%                          99%                           97%                          98%
+Target                                                               93%                           95%                          95%                           95%                          95%
+
+How Are We Doing
+Between January and December of 2020, Major Crime Section detectives responded to 109 major crime team call-outs across the state. Of those, 106 were resolved within 12 months for a resolution
+rate of 97%.
+
+Every year since 2014, the 93% resolution rate target (established in 2009) had been met or exceeded. For 2018 (reported in 2020), the target was raised to a 95% resolution rate. Fortunately, the
+Major Crime Section detectives achieved a 96% resolution rate in 2018, which exceeded the new target. The resolution rate for 2019 (reported in 2021) climbed to 99%. For 2020 (reported in 2022),
+the resolution rate was 97%, once again exceeding the target. In 2021 we hit 98% resolution rate, continuing to exceed the target rate.
+
+Factors Affecting Results
+The complex nature of major crime investigations, the availability of resources in relation to the scope of the investigation, and the geographical location of the investigation team may impact the result
+of this performance measure. Other contributing factors are attrition to our workforce, and an increased role in Oregon's distressed timber counties. For instance, in June 2012, the Josephine County
+Sheriffs Office began referring a large portion of all their criminal investigations.
+
+KPM#7            Crime Reduction - Number of Dismantled or Disrupted Drug Trafficking Organizations (DTO's).
+                 Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+   80
+                                                 73
+   70
+
+   60
+
+   50
+
+   40
+
+   30
+
+   20
+
+   10
+
+                    19                           20                            21                          22                          23
+
+                                                                   ■ actual   ■ target
+
+ Report Year                                                        2019                         2020                          2021                         2022                          2023
+Number of Drug Trafficking Organizations Dismantled / Disrupted
+Actual                                                                25                           73                           29                            13                           39
+Target                                                                25                           35                           35                            45                           45
+
+How Are We Doing
+The number of Drug Trafficking Organizations (DTOs) the Oregon State Police (OSP) assisted in dismantling or disrupting decreased from 29 in calendar year 2020 (reported in 2021 ), to 13 in
+calendar year 2021 (reported in 2022). The target for the number of DTOs dismantled or disrupted was increased from 20 to 25 in calendar year 2018 (reported in 2019) and was subsequently raised
+again the following year to 35, which was surpassed significantly when 73 DTOs were dismantled or disrupted. However, the number of dismantled or disrupted DTOs dropped to 29 in 2020 (reported
+in 2021) missing the target (35) by 17%. In 2021 (reported in 2022) the target number of DTOs dismantled or disrupted dropped further to 13 and the target rose to 45. In 2022 (reported in 2023), the
+number of DTOs was 39 and was only 13% short of reaching the target of 45.
+
+Factors Affecting Results
+Task forces vary in their mission and focus to target street-level, mid-level, or upper-level drug investigations. Mid to upper-level narcotic investigations, focusing on DTOs, are more complex and
+longer in duration while street level investigations tend to be direct in nature and short-term. OSP has had a consistent, tenured presence on drug task forces statewide, particularly those larger in
+size, that have a greater case volume and are focused on higher level illegal drug activity, which take longer to resolve. During 2021, OSP Drug Enforcement Section (DES) detectives were involved
+in several long-term investigations, reducing their availability to work on other OTO related investigations.
+
+The Drug Enforcement Section (DES) of OSP experienced many challenges during the 2021 calendar year, including a reduction in drug cases. Challenges leading to the decrease in drug seizures
+include travel and training restrictions due to COVID-19, lower levels of traffic enforcement due to a decrease of traffic volume, and more restrictive case law rulings. Budget uncertainties due Ballot
+Measure 110 and COVID-19 impacts resulted in 10 DES Detectives being temporarily transferred to Patrol Division in 2020. When the Detectives returned to DES in late 2021, some joined our new
+marijuana enforcement teams and never returned to the multi-agency teams. Consequently, the Drug Enforcement Section (DES) of OSP now has fewer people on Multi-Agency Task Forces that
+
+target DTOs. In addition, priorities have shifted toward enforcing illegal marijuana manufacturing/distribution. Several Criminal Division personnel are assigned to teams focused on illegal marijuana
+enforcement efforts instead of multi-agency teams focused on dismantling or disrupting DTOs, thereby reducing our capacity to dismantle or disrupt DTOs. The remaining detectives were reassigned
+back to their multi-agency teams in late 2021, but their availability to assist with dismantling or disrupting DTOs was limited due to timing.
+
+DES Detectives are adapting and recovering from recent case law changes, Covid -19 related low seizure rates and staffing, as well as ballot measure 11 0 challenges. The number of HIT ca ses grew
+slightly in 2022 (reported in 2023) after a larger than normal decline in 2021 (reported in 2022).
+
+DES missed the KPM of 45 Drug Trafficking Organizations (DTOs), disrupted or dismantled, for the third yea r in a row although there was a 40% in crease in DTOs disrupted or dismantled in 2022
+(reported in 2023), recording 39 DTOs disrupted or dismantled in 2022, DES expects to meet the 45 DTO KPM in 2023 through continued activity growth, personnel realignment, and tra ining of
+detectives. It should be noted that historically, our KPM target was to disrupt or dismantle 20 DTOs in 2014-2017. In 2018 it was increased to 25. In 2019 it was increased to 35. In calendar year 2021
+(reported in 2022), the current KPM of 45 was set.
+
+KPM#8             Forensic Analysis - Percentage of analytical requests completed within 30 days or less.
+                  Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+   80
+
+   70
+
+   60
+
+   50
+
+   40
+
+   30                                           28
+
+   20
+
+   10
+
+                   19                           20                           21                         22                           23
+
+                                                                 ■ actual   ■ target
+
+ Report Year                                                      2019                         2020                         2021                         2022                         2023
+
+Percentage of analytical requests completed within 30 days
+Actual                                                             24%                          28%                         22%                          24%                          16%
+Target                                                             65%                          68%                         71%                          74%                          77%
+
+How Are We Doing
+In the 2022 calendar year (2023 report year), the percentage of analytical requests completed in 30 days or less was 16%, which is a decrease from the previous year (24%).
+
+Individual KPMs for Firearms, Field Investigations, Drug Chemistry and Biology were the highest in the Division, all over 30%. Although Firearms, Field Investigation and Biology decreased from the
+previous year, the Drug Chemistry KPM increased significantly from 27% to 44%.
+
+The Forensic Services Division (FSD) previously requested a resetting of KPM goals beginning in 2023, with a 4% increase every year until reaching 80% in 2037.
+
+Factors Affecting Results
+The KPM decrease in 2022 was not unexpected due to repercussions of the COVID-19 pandemic. The Division held open a significant number of vacancies due to a hiring freeze, which when
+combined with the challenging post-pandemic recruiting environment and the lengthy training requirements of new scientists, decreased the KPM. Since it takes between 15 to 30 months from a new
+vacancy to having a fully trained scientist, there is a lengthy negative impact to production with every loss. Between March 2021 and February 2023, the Division hired or promoted 33 new employees
+(18 scientists, 13 administrative, and 2 managers), which is more than a fifth of the total staff. Many of those positions had remained unfilled for significant amounts of time.
+
+The Division saw a year-to-year increase in submissions for high-volume disciplines. Biology submissions increased by 3% and DNA submissions increased by 14%. Total Toxicology submissions
+increased by 5% with the more complex Postmortem (PM) Toxicology submissions up by 18%. Although total drug chemistry submissions decreased, the most complex and time-consuming types of
+analysis increased. Cannabis determination submissions rose 21 % and fentanyl submissions increased by 90%.
+
+Even with the loss of production capacity due to the staffing and training challenges, the Division was able to increase output in a few areas. The number of cannabis determination cases completed
+increased by 10%, PM Toxicology by 20%, total Toxicology by 4%, Advanced Firearms by 4% and Latent Prints by 1%. The DNA section was most impacted by loss of staff, yet they were able to
+minimize the decrease in output to only 3%.
+
+The volume of Toxicology work as a percent of the Division total continued to increase, which has a major impact to the larger KPM. When excluding Toxicology from the KPM calculation, the
+Forensic Division completed 30% of casework in under 30 days in 2022. Unfortunately, the Toxicology KPM was 3.27% while also accounting for 51 % of the total number of completed requests.
+
+The Forensic Services Division needs a significant increase in staffing, facility capacity, infrastructure, and other resources in order to meet demand and KPM goals. A Portland Laboratory remodel
+expanding the DNA and Toxicology footprints was completed at the beginning of 2023, but demand is expected to increase with population. Added capital construction projects for the Springfield and
+Central Point Labs will also be beneficial but will take several years to complete.
+
+In 2022, the Division began a pilot program in Drug Chemistry, with a renewed focus on the KPM and treating all five laboratories as a single entity. This involved transferring cases, forecasting
+absences, frequent communication between labs as well as other improvements. The KPM increased from 27% in 2021 to 44% in 2022 and is 54% as of August 2023. The success of that pilot
+program will be expanded to other multi-laboratory disciplines as appropriate.
+
+The Division has made significant progress in filling the numerous vacant positions post-pandemic. As of August 2023, the Division had a vacancy rate of only 5.7%. As new employees are trained
+and come online, we expect to see an increase in production. However, since the KPM is a lagging indicator, it will likely not improve as quickly as production metrics while the Division focuses on
+reducing the backlog. Completing backlogged cases (older than 30 days) decreases the average pending age, but also negatively skews the KPM.
+
+Although the challenges brought on by the pandemic and hiring freeze were unanticipated, the Division has examined staffing needs based on historical trends. On average at any given point in time,
+there are approximately 22 positions (out of 146) that are not producing casework because they are in the process of being filled or are staffed with an employee who is in tra ining. In order to account
+for these vacancies and lengthy training periods, the Division would need a substantial increase in staffing to minimize disruptions to production.
+
+KPM # 9 Criminal Justice Information Services (CJIS) Division Turnaround Time - Average turnaround time, from the date of receipt of manual and electronic criminal justice fingerprint cards by the
+        CJIS Division, until the criminal justice data is posted into the Computerized Criminal History (CCH) Files.
+         Data Collection Period: Jan 01 - Dec 31
+
+                       12.6                                         "'e."'"'                                                                ~
+                                                                                                                                            0
+                                                                                                                                            ~
+   12
+                                                                    §                                                                       §
+                                                                    e                                                                       e
+                                                                    g!                                                                      g!
+   10                                                               s
+                                                                    f-                                                                       s
+                                                                     <l)
+                                                                                                                                            f-
+                                                                     0)                                                                     <l)
+                                                                                                                                            0)
+                                                                     ~
+                                                                                                                                            "'>ai
+                                                                    <"'
+    8
+                                                                     >
+                                                                                                                                            <
+                                                                     "'
+                                                                    1c                                                                      "'
+                                                                                                                                            1c
+    6                                                               0"'                                                                     "'
+                                                                                                                                            0
+                                                                    c                                                                       c
+                                                                    ·5.                                                                     ·5.
+    4                                                                ai
+                                                                     0)                                                                     ai
+                                                                                                                                            0)
+                                                                     C:
+                                                                                                                                            C:
+                                                                    LL                                                                      LL
+                                                                    cii
+    2
+                                                                     ::,
+                                                                     C:
+                                                                                                                                            ·c"
+                                                                     "'
+                                                                    :;:
+                                                                                                                                            e
+                                                                                                                                            TI
+                                                                                                                                            <l)
+                                                                                                                                            w       Year
+    0
+           19          20          21          22          23                                 19   20          21      22             23
+
+                                                                  ■ actual         ■ target
+
+ Report Year                                                        2019                            2020                      2021                          2022                         2023
+
+Manual Fingerprint Cards Average Turnaround (Days)
+Actual                                                                2.30                          12.60                      1.20                           2                           0.56
+Target                                                                         4                         4                       4                            4                            4
+a. Electronic Fingerprint Cards Average Turnaround (Hours)
+Actual                                                                2.24                              2.55                   0.38                         0.70                          0.34
+Target                                                                         2                         2                       2                            2                            2
+
+How Are We Doing
+The Oregon State Police's ability to meet this performance measure depends on heavily staff resources within the Criminal Justice Information Services (CJIS) Division. Livescan technology and
+automated processing improvements have significantly improved our ability to meet and/or exceed the set Manual Fingerprint Cards Average Turnaround of 4-days and the Electronic Fingerprint
+Cards Average Turnaround of 2-hours.
+
+For 2022 calendar year, there were 93,120 total criminal cards received during this reporting period. There were 1074 criminal arrest cards processed manually in 2022 and 84% of the manual card
+total (910) were processed under the average turnaround time. Manual cards represented 1% of the total criminal arrest cards received. The manual card average turnaround time for 2022 was 0.56
+days (13.43 hours).
+
+In 2022, automated submissions, representing 99% of the total criminal arrest cards received. There were 92,046 cards received and processed automatically within 0.34 hours (20.4 minutes).
+
+Factors Affecting Results
+Staffing levels and agencies use of livescan technology have a direct effect on our performance results, as does the availability of our infrastructure systems. All of Oregon's county jail facilities use
+livescan technology to submit their arrest fingerprint cards, with a growing number of local police departments also acquiring livescan technology. All agencies using livescan devices submit
+fingerprints using the automated process. However, there continue to be instances where manually captured prints are necessary due to either an agency not having a livescan machine or
+
+circumstances that make a manual print necessary (i.e., nature disaster, power issues, ADA compliance, etc.). Therefore, OSP will continue to maintain some level of accepted manual processing
+services to meet this need.
+
+KPM # 12 Customer Satisfaction - Percent of customers rating their satisfaction with the agency customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness,
+         expertise and availability of information.
+                  Data Collection Period: Jan 01 - Dec 31
+
+  110 -
+                                                                                        "'"'                                             ill                                            C:                                             >,
+
+                                                               100                      ~                                                ~C.
+                                                                                                                                                                                        0
+                                                                                                                                                                                        ~                                               "~
+  100
+
+   90 -               •         •                              •          •
+                                                                          88
+                                                                                        -2
+                                                                                        C.
+                                                                                        ai
+                                                                                        I
+                                                                                                             gt;         g'!;
+                                                                                                                                         X
+                                                                                                                                         w
+                                                                                                                                         co                   il!;        •
+                                                                                                                                                                                        E
+                                                                                                                                                                                        ~
+                                                                                                                                                                                                             !
+                                                                                                                                                                                                                       e'b            <""
+                                                                                                                                                                                                                                      .,;
+                                                                                                                                                                                                                                                          l
+                                                                                                                                                                                                                                                                    •
+                                                                                        N                                                                                               0
+   80                                                                                                                                                                                                                                                               79
+                                                                                                                                                                                        -~
+                      71        71                                                                                                                                                      15
+                                                                                                                                                                          70            ~
+   70 -                                                                                                                                                                                 'iii
+                                                                                                                                                                                         >
+   60                                                                                                                                                                                   ..,<
+   50
+
+   40
+
+   30
+
+   20 -
+
+   10 -
+             0             0             0            0              0             0                0              0                0                0               0             0                0             0              0               0             0             o Y, ar
+    0   -,--------,                  I        I   I        I                   I            I   I        I                      I         I      I        I                    I            I   I        I                   I           I   I        I                  I        I    I
+            19        20   21   22       23           19       20    21   22       23               19       20    21    22         23               19       20     21   22       23               19       20   21   22        23              19       20   21   22       23
+
+                                                                                                                        ■ actual               ■ target
+
+ Report Year                                                                                                             2019                                                          2020                                                  2021                                          2022   2023
+
+1. Timeliness
+Actual                                                                                                                                                                                  71%                                                                                                71%
+Target                                                                                                                                                                                  90%                                                                                                90%
+2. Helpfulness
+Actual                                                                                                                                                                                 100%                                                                                                88%
+Target                                                                                                                                                                                  95%                                                                                                95%
+3. Expertise
+Actual                                                                                                                                                                                  96%                                                                                                95%
+Target                                                                                                                                                                                 100%                                                                                                100%
+4. Availability of Information
+Actual                                                                                                                                                                                  85%                                                                                                70%
+Target                                                                                                                                                                                  90%                                                                                                90%
+5. Accuracy
+Actual                                                                                                                                                                                  94%                                                                                                90%
+Target                                                                                                                                                                                  95%                                                                                                95%
+6. Overall
+Actual                                                                                                                                                                                  89%                                                                                                79%
+Target                                                                                                                                                                                  90%                                                                                                90%
+
+How Are We Doing
+
+Factors Affecting Results
