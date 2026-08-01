@@ -17,7 +17,8 @@ mapping:
     slug: legislative-administration-committee
     basis: alias
     note: ERF carries the committee; the reports name the administrative office it directs.
-    review: required
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
   administrative-services:
     slug: department-of-administrative-services
     basis: exact
@@ -47,7 +48,8 @@ mapping:
     basis: alias
     note: The registry entry covers district attorneys and their deputies together; the reports file
       under both spellings in different years.
-    review: required
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
   audiology-language-pathology-speech:
     slug: board-of-examiners-for-speech-language-pathology-and-audiology
     basis: alias
@@ -134,7 +136,8 @@ mapping:
     basis: successor
     note: The Office of Public Defense Services became the Public Defense Commission in 2023 (SB 337).
       ERF carries the predecessor name.
-    review: required
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
   defense-public-services:
     slug: office-of-public-defense-services
     basis: exact
@@ -186,7 +189,8 @@ mapping:
       one body, three names across the reporting years. NOT the fuzzy suggestion `board-of-geologist-examiners`:
       one word apart, a different profession, and a live example of why suggestions are printed for
       a human and never applied.'
-    review: required
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
   examining-medical-veterinary:
     slug: veterinary-medical-examining-board
     basis: exact
@@ -198,7 +202,8 @@ mapping:
     basis: alias
     note: ERF's entry names the officer, the reports name the office (LFO). Confirm this is the same
       body and not the officeholder -- the registry is inconsistent about this for legislative entries.
-    review: required
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
   fish-wildlife:
     slug: department-of-fish-and-wildlife
     basis: exact
@@ -230,7 +235,8 @@ mapping:
     basis: alias
     note: The reports drop "Legislative" in some years. A token-overlap matcher paired this with DAS
       when oregon-budget tried it, which is why it is asserted here rather than derived.
-    review: required
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
   industries-labor:
     slug: bureau-of-labor-and-industries
     basis: exact
@@ -247,7 +253,8 @@ mapping:
     slug: legislative-policy-and-research-committee
     basis: alias
     note: Committee vs office, same as `administration-legislative`.
-    review: required
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
   legislative-revenue:
     slug: legislative-revenue-office
     basis: exact
@@ -323,7 +330,8 @@ mapping:
     slug: board-of-licensed-social-workers
     basis: alias
     note: The reports drop "Licensed" in some years.
-    review: required
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
   transportation:
     slug: department-of-transportation
     basis: exact
