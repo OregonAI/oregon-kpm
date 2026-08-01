@@ -1,0 +1,527 @@
+Transportation, Department of
+           Annual Performance Progress Report
+                   Reporting Year 2017
+              Published: 9/26/2017 2:03:54 PM
+ KPM #        Approved Key Performance Measures (KPMs)
+1            Traffic Fatalities - Traffic fatalities per 100 million vehicles miles traveled (VMT).
+2            Serious Traffic Injuries (Rate) - Serious traffic injuries per 100 million vehicle miles traveled (VMT)
+3            Large Truck At-Fault Crashes - Number of large truck at-fault crashes per million vehicle miles traveled (VMT).
+4            Rail Crossing Incidents - Number of highw ay-railroad at-grade incidents.
+5            Derailment Incidents - Number of train derailments caused by human error, track, or equipment.
+6            Pavement Condition - Percent of pavement lane miles rated “fair” or better out of total lane miles in state highw ay system.
+7            Bridge Condition - Percent of state highw ay bridges that are not "distressed"
+8            Public Transit Vehicle Condition - Percent of Public Transit buses that meet replacement standards
+9            Special Transit Rides - Average number of special transit rides per each elderly and disabled Oregonian annually.
+10           Passenger Rail Ridership - Number of state-supported rail service passengers.
+11           Incident Response - Percent of lane blocking crashes cleared w ithin 90 minutes.
+12           Bike Lanes and Sidew alks - Percent of urban state highw ay miles w ith bike lanes and pedestrian facilities in "fair" or better condition.
+13           Fish Passage - Stream miles of access restored or improved to blocked fish habitat.
+14           Jobs from Construction Spending - Number of jobs sustained as a result of annual construction expenditures.
+15           Construction Project Completion Timeliness - Percent of projects w ith the construction phase completed w ithin 90 days of original contract completion date.
+16           Construction Projects On Budget - Percent of original construction authorization spent.
+17           Certified Firms (DMWESB*) - Percent of ODOT Aw arded Contracts to Oregon Certified Small Businesses.
+18           DMV Field Office Wait Time - Percentage of DMV Field Office Customers Served w ithin 20 Minutes
+19           Customer Satisfaction - Percent of customers rating their satisfaction w ith the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise, and availability of information.
+
+                                                                                                                                                            red
+                                                                                                                                                            green
+                                                                                                                                                            yellow
+
+ Performance Summary                                                                                                                                                 Green                                                      Yellow                                                        Red
+
+                                                                                                                                                                = Target to -5%                                         = Target -5% to -15%                                            = Target > -15%
+Summary Stats:                                                                                                                                                       57.89%                                                     21.05%                                                       21.05%
+KPM #1                  Traffic Fatalities - Traffic fatalities per 100 million vehicles miles traveled (VMT).
+                        Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                     actual     target
+
+  Re port Ye ar                                                                     2013                                2014                               2015                               2016                                2017
+Traffic Fatalitie s
+Actual                                                                               1.02                               0.93                                1.03                               1.24                              No Data
+Target                                                                               0.93                               0.90                                0.88                               0.86                                0.87
+
+How Are We Doing
+2016 data is still not available. ODOT is still processing an increase in overall crashes over the last few years leading to a back log of reports.  The rate of 1.24 for 2015 is above the target of 0.90
+per 100 million VMT. There was a dramatic increase in the number of fatalities, in line with the rest of the nation, in Oregon starting in October 2014 which increased the rate per 100 million VMT.
+When comparing Oregon traffic fatality data with national data provided by the National Highway Traffic Safety Administration, Oregon’s rate in 2015 was higher than the U.S. national fatality rate of
+1.13; ODOT set an aggressive long-term goal of reducing the traffic fatality rate to 0.90 per 100 million VMT by 2015. The targets are increasingly more challenging to meet, however the goal is
+important and should not change, as ‘zero’ is the goal for you and your family, every trip, every time. Until recently, Oregon's fatality rates have been consistently below the national average since
+1999.
+Factors Affecting Results
+Several factors affected the traffic fatality rate in 2015. Among those factors were continuing increases in crashes involving impairment, the number of available traffic law enforcement officers, and
+the response times of emergency medical services. Another factor is that it is harder to make changes when the fatality rate is already at such a low rate. Fatal crashes involving alcohol; speed; or
+not wearing a safety belt are the most common causes of a fatality on Oregon roadways. Over the last 15 years, Oregon experienced the lowest fatality count since the late 1940s. ODOT and its
+safety partners must continue efforts to reduce fatalities by reviewing the causes of fatalities, targeting safety activities accordingly, and allocating safety resources to the programs most effective at
+reducing fatal crashes.
+KPM #2              Serious Traffic Injuries (Rate) - Serious traffic injuries per 100 million vehicle miles traveled (VMT)
+                    Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                    actual     target
+
+  Re port Ye ar                                                                   2013                                2014                                2015                               2016                                2017
+Traffic (Se rious) Injurie s (Rate )
+Actual                                                                           No Data                            No Data                             No Data                             No Data                            No Data
+Target                                                                             TBD                                 TBD                                TBD                                 TBD                                 4.06
+
+How Are We Doing
+In 2017 this measure was added and the 2016 performance data is not yet available. ODOT is still processing an increase in overall crashes over the last few years leading to a back log of reports.
+The Oregon rate in 2015 was just under 5 serious injuries per 100 million vehicle miles traveled. Traffic injury rates are reported on a calendar year basis just like fatalities. However, unlike fatality
+data that allows state to state comparisons, injury data is not yet comparable. This is because the definitions of injury are not consistent across the country; any comparisons made to California,
+Washington or Idaho, for example, are not valid. However, some state-to-state data comparisons can be made against the national data which is useful for understanding state trends versus
+national trends.
+
+Factors Affecting Results
+Several factors affected the serious injury rate in 2015. Significant positive factors affecting serious injury rates were high rates for the use of safety belts, child safety seats and booster seats.
+Drivers age 15 to 20 continued to be overrepresented in serious injury crashes however; representing approximately 14 percent of all serious injury crashes but only 6.9% of licensed drivers in
+Oregon.
+KPM #3           Large Truck At-Fault Crashes - Number of large truck at-fault crashes per million vehicle miles traveled (VMT).
+                 Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                   actual      target
+
+  Re port Ye ar                                                                    2013                               2014                               2015                               2016                               2017
+Large  Truck At-Fault Crashe s
+Actual                                                                              0.42                               0.42                               0.44                               0.39                               0.41
+Target                                                                              0.31                               0.31                               0.37                               0.37                               0.37
+
+How Are We Doing
+The truck at fault crash rate in Oregon increased in 2016 compared to 2015, moving up from 0.39 to 0.41 crashes per million miles traveled by trucks. Oregon’s truck-at-fault crashes continue to be
+below the national average. Trucks were involved in 172 more crashes in 2016 (1,508) as compared to 2015 (1,336).   Oregon safety inspectors checked 32,850 trucks and/or drivers in 2016;
+inspectors placed 32.9 percent of trucks out of service for critical safety violations and 14.7 percent of drivers inspected were placed out-of-service.  Oregon inspectors also conducted over 120
+bus inspections in 2016.
+Factors Affecting Results
+Despite the increased number of truck-at-fault crashes, the number of deaths associated with truck crashes decreased from 55 in 2015, to 50 in 2016.  It should also be noted that a single incident
+can skew these numbers. Factors directly affecting this measure largely involve commercial vehicle driver fitness, qualifications and judgment.  The rate of crashes is also affected by the volume of
+all vehicle miles traveled, not just commercial vehicle miles. It's affected by traffic congestion, the level of road and bridge construction and maintenance work, and inclement weather. Further
+contributing to crash rates is the presence of law enforcement officers on the road.  We are engaging many more law enforcement agencies in truck safety-related exercises to focus on making
+probable cause stops for speeding and other traffic violations along major freight routes where most truck-at-fault crashes happen. Because so few crashes are attributed to mechanical problems,
+checking the behavior and fitness of truck drivers continues to be the most effective way to reduce crashes.  We continue to conduct frequent multi-day inspection exercises focusing on truck driver
+inspections and partner with police in exercises to stop unsafe car and truck drivers. We will continue our aggressive safety inspection efforts.
+KPM #4                    Rail Crossing Incidents - Number of highway-railroad at-grade incidents.
+                          Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                    actual      target
+
+  Re port Ye ar                                                                     2013                               2014                                2015                               2016                               2017
+Rail Crossing Incide nts
+Actual                                                                                10                                  9                                  14                                 15                                 18
+Target                                                                                13                                 12                                  11                                 10                                 10
+
+How Are We Doing
+In 2016, 18 rail crossing incidents occurred, which underperformed our goal. The data shows that in 2016, 14 incidents involved motor vehicles and four incidents involved pedestrians. There were
+five fatalities and seven injuries. The Federal Railroad Administration reports that, during recent years, Oregon has been in or near the top twenty states for least number of motor vehicle incidents
+at public rail crossings. In 2016, there were 18 rail crossing incidents, an increase from 15 incidents in 2015, 13 in 2014, nine in 2013 and 10 in 2011 and 2012. There were no injuries or fatalities
+associated with the nine incidents in 2013. Since 2007, rail crossing incidents have varied between a high of 19 in 2007 and a low of 6 in 2009 with an overall decrease of 5.3 percent from 2007 to
+2016. This trend indicates improvement even though the number of incidents has increased each of the last three years.
+
+Factors Affecting Results
+Some incidents are caused by deliberate actions rather than lack of safety education or crossing safety devices. Of the 18 incidents in 2016, 17 occurred on the freight rail system and one was on
+TriMet lightrail. Six of the incidents involved passenger trains. The 18 incidents resulted in five fatalities and 17 injuries. Five of the incidents involved semi-trucks and four incidents involved
+pedestrians. Seven of the incidents involved vehicles stopped on the tracks and 9 incidents involved road users (pedestrian and vehicle) failing to stop for STOP signs or activated signals. Two
+fatalities involved pedestrians purposely stepping into the path of the moving train. One incident involved AmTrak (passenger train) striking a semi-truck stopped on the tracks, and resulted in
+injuries to 10 of the passengers on the train. Two incidents involved vehicles running into the side of a train. Both of these incidents occurred at signalized crossings, while the signals were actively
+functioning. Options to promote a decline in the number of incidents include maintaining inspection efforts, increasing funding for crossing investments and increasing education outreach on
+crossing safety to the driving public and pedestrians.
+KPM #5              Derailment Incidents - Number of train derailments caused by human error, track, or equipment.
+                    Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                   actual     target
+
+  Re port Ye ar                                                                    2013                               2014                               2015                               2016                               2017
+De railme nt Incide nts
+Actual                                                                               10                                 20                                 23                                 15                                 14
+Target                                                                               42                                 42                                 25                                 25                                 25
+
+How Are We Doing
+In 2016, there were 14 derailment incidents, a decrease from the 16 derailments in 2015. From 2007 to 2016, derailments have decreased 61 percent from 36 to 14. According to FRA’s 2016 data
+for Oregon and its neighboring states, derailments increased in Washington and decreased in Oregon, Idaho, California and Nevada. The rail systems differ among the states in terms of track miles
+and the number of carloads, e.g.… California and Washington have larger systems than Oregon while Idaho and Nevada have smaller systems. A comparison of derailments per track mile (miles of
+track in each state) for 12 months ending December 31, 2016, shows Oregon with .0058 incidents per track mile, Washington with .0088, Nevada with .0008, Idaho with .0055 and California with
+.0110.
+
+Factors Affecting Results
+From 2015 to 2016, Oregon showed a 12.5 percent decrease in derailments even though rail traffic increased slightly.  A decrease in derailments caused by human error and a decrease in track
+caused yard derailments are more significant reasons.  The latter two of three decreases are a direct result of an increase in the number of inspections. Operating Practices inspections, which
+directly affect human error caused derailments, went from 218 in 2015 to 338 in 2016.  Track inspections, which directly affect yard derailments, stayed approximately the same with 218 in 2015 and
+219 in 2016. In 2015, we hired four additional inspectors and replaced staff that had retired.  It took almost a year to have new staff federally certified.  We expect the previously demonstrated
+decline in derailments to continue into future years due to an increase in inspections and a full staff of certified inspectors. Except for the 2010, 2013 and 2014 spikes, the decline has steadily
+continued since 2007, with the hiring, training and certification of new inspectors to replace the turnover in staff. This supports the need for certified inspectors performing regular inspections.
+Recruitment and retention of qualified compliance (inspector) personnel is vital. Analysis of data from previous inspections (track conditions, operating issues, etc.) helps us identify areas on which
+to focus resources and inspections.
+KPM #6          Pavement Condition - Percent of pavement lane miles rated “fair” or better out of total lane miles in state highway system.
+                Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual      target
+
+  Re port Ye ar                                                                   2013                              2014                               2015                               2016                               2017
+Pav e me nt Condition
+Actual                                                                          No Data                              87%                             No Data                             No Data                              88%
+Target                                                                            78%                                87%                                87%                                85%                                85%
+
+How Are We Doing
+Thanks to ODOT’s asset management and investment strategies, pavement condition over the last few years has ranged between 85 and 88 percent “fair” or better. Pavement conditions are
+currently above target. ODOT’s pavement strategy is focused on protecting the interstate first, and a full 96% of Oregon’s interstate highway miles are in fair or better condition. No standardized
+system exists for classifying the pavement condition of all highways nationwide. Each state uses a unique procedure for classifying pavement defects and assessing structural and functional
+pavement conditions. However, pavement smoothness, which is one indicator of pavement condition, is collected by all states using standardized procedures. A smoothness comparison between
+Oregon and our neighboring states of California, Idaho, Washington, and Nevada based on 2015 Highway Statistics data https://www.fhwa.dot.gov/policyinformation/statistics/2015/ shows that
+Oregon’s pavement is on par with Idaho and Nevada and better than California and Washington and also better than the nationwide average.
+Factors Affecting Results
+The increase in overall pavement conditions for 2016 is mostly due to a temporary uptick of pavement funding thanks to federal funding increases from the Fixing America’s Surface Transportation
+(FAST) Act passed by Congress in 2015.  At the same time, relatively low oil prices reduced the cost for asphalt materials and allowed these resources to stretch further, resulting in even more
+paving projects added to the program.  Overall, approximately $70 million of paving work was added to the program in 2015-2016 on top of what was previously funded, and another $40 million of
+additional projects are scheduled for 2017-2018. These investments will hold pavement conditions relatively flat over the next two to four years. Over the long term, however, our pavement
+programs are underfunded, which will lead to a decline in conditions. An estimated $200 million per year is needed to repair the backlog of high cost poor and very poor highways, while keeping the
+remaining state highways in “fair or better” condition. This funding level would support major repairs needed on routes with the worst pavement conditions, while providing for timely preventive
+preservation and maintenance on roads in fair to good condition. Starting in 2019, pavement preservation funding will drop to about $85 million per year as ODOT shifts scarce resources to repair
+aging bridges that have reached the end of their design life. This pavement funding level provides less than one-half of the actual need for pavement preservation and major repairs. Pavement
+resurfacing treatments typically last 10 to 20 years, but pavement funding will only be able to pave each section of road on average only once about every 35 years—far beyond the optimal
+timeframe. Over time, pavement conditions will drop well below the target. This will result in diminished safety, as well as higher vehicle repair costs as Oregonians travel on rutted and deteriorated
+roads. As road conditions deteriorate, thicker paving and/or complete replacement will become necessary at a higher cost than what would be required to simply maintain them in fair or better
+condition.  In the long run, Oregonians will pay more to rehabilitate this failed pavement than it would have cost to keep it in good condition.
+KPM #7                  Bridge Condition - Percent of state highway bridges that are not "distressed"
+                        Data Collection Period: Apr 01 - Mar 31
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Re port Ye ar                                                                    2013                              2014                               2015                              2016                               2017
+Pe rce nt of State  highway bridge s that are  not distre sse d
+Actual                                                                             77%                                78%                               78%                                79%                                80%
+Target                                                                             78%                                78%                               78%                                78%                                78%
+
+How Are We Doing
+The improvement in the percent “not distressed” measure since 2007 is largely due to the OTIA III State Bridge Delivery Program. While we have been able to meet and maintain the bridge
+performance measure for the last four years at the State Bridge Program funding level, we expect to see a decline in the near future. Oregon has moved quickly in getting bridge repair and
+replacement projects under way on high priority freight corridors. As a result of planned work through 2018, fewer distressed bridges are expected through 2020. After a relatively flat period, bridge
+conditions are expected to decline gradually and then at an increasing rate. New Federal measures have been proposed as required in MAP-21 to be Percentage of NHS bridges in poor                                                   condition
+and percentage of NHS bridges in good condition.  ODOT has a low percentage of NHS poor bridges, but also a low percentage of NHS good bridges. In the last twenty years, the percentage of
+good bridges has dropped by more than 40% resulting in a large population of fair bridges.
+Factors Affecting Results
+A sustainable bridge program includes bridges in various conditions with planned maintenance, preservation, and replacements for bridges that have reached the end of their service life. With a
+disproportionate number of aging bridges in fair condition, available funding will only be able to address the most critical needs. Although Oregon bridges are considered safe (if load restrictions
+signs are obeyed), there are a large number of bridges whose service lives have been extended beyond a normal time period because of inadequate funding. Those bridges demand vigilance and
+dedication by inspectors and maintenance personnel to maintain safe conditions. However, there is a serious concern that those critical and near-critical conditions will grow at an increasing rate
+until a point in the near future that current staff will not be able to keep on top of these serious issues. At that point unpredictable failures are possible that will result in delays, detours and
+unplanned high cost emergency repairs.
+ KPM #8             Public Transit Vehicle Condition - Percent of Public Transit buses that meet replacement standards
+                    Data Collection Period: Jul 01 - Jun 30
+
+ * Upward Trend = positive result
+
+                                                                                    actual     target
+
+   Re port Ye ar                                                                   2013                               2014                                2015                               2016                               2017
+ Public Transit Ve hicle  Condition
+ Actual                                                                          No Data                             No Data                            No Data                            No Data                            47.40%
+ Target                                                                             TBD                                TBD                                TBD                                 TBD                               40%
+
+ How Are We Doing
+ODOT annually spends approximately $6 million in federal revenues to replace vehicles.  This is about $5 million short of what is needed to improve the current fleet condition. The Oregon
+Transportation Commission has added $5 million, each year, for 2019, 2020 and 2021, which will bring the fleet closer to the desired goal of less than 40 percent of the fleet exceeding useful life
+through 2020. Additional funding will be needed to maintain this level in 2021 and beyond due to an increasing number of vehicles projected to exceed useful life by 2021. Data is not currently
+available to compare Oregon with other states.  The new federal requirement for state targets and reporting will allow comparisons within the next five years
+ Factors Affecting Results
+ Local governments and providers own and operate the buses that ODOT holds security interest in.  Providers decide when to request vehicle replacements based upon vehicle condition and their
+ ability to meet requirements for local match.  Oregon transit providers often have difficulty raising the required local funds to maintain an optimum replacement schedule, and rely on the state
+ Special Transportation Fund (STF) for local match. The STF has been declining since 2015, making it increasingly difficult for local providers to meet local match requirements. Ongoing STF
+ funding stability will be essential in meeting this goal.
+KPM #9           Special Transit Rides - Average number of special transit rides per each elderly and disabled Oregonian annually.
+                 Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Re port Ye ar                                                                    2013                               2014                               2015                              2016                               2017
+Spe cial Transit Ride s
+Actual                                                                               21                                 19                              20.14                              19.15                              20.52
+Target                                                                               24                                 24                                24                                 24                                 24
+
+How Are We Doing
+The total number of reported rides per senior and disabled Oregonian went up in 2009 since fixed route transit trips were added to the way rides were counted. But, the annual average number of
+riders went down by 8.8 percent from 22.50 rides per person in 2009 to 20.52 in 2016 because the general population and senior population is growing faster than available funding. Our goal is for
+the number of trips to go up by 2.5 percent each year. This goal will be hard to reach since funding is not certain and the number of senior riders is going up.
+Factors Affecting Results
+Oregon population growth and the cost of giving service are higher than what the available funding can cover. This means that there are fewer trips per senior and disabled Oregonian. Already,
+many transit providers cannot meet the current need for dial-a-ride service in cities and towns. With more money, transit providers could lower the number of turned down ride requests, lower wait
+times for dial-a-ride service, offer fixed route service more often, and add routes to new rural and urban areas.
+KPM #10                   Passenger Rail Ridership - Number of state-supported rail service passengers.
+                          Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Re port Ye ar                                                                  2013                               2014                               2015                                2016                               2017
+Passe nge r Rail Ride rship
+Actual                                                                         211,036                            215,096                             210,864                            193,743                             194,453
+Target                                                                         206,525                            214,616                             208,590                            210,676                             199,555
+
+How Are We Doing
+Passenger rail ridership reached its highest level in 2013, increasing by 1.9 percent or 4,060 riders, over the 2012 figures. 2014 ridership decreased by 4,195 but exceeded the 2014 target by
+2,311. In 2015, ridership decreased further to 193,743 which missed the 2015 target by 16,933. In 2016, ridership increased to 194,453 which missed the 2016 target but is an increase over 2015
+Actuals. Oregon’s passenger rail program is modest compared to Washington’s and California’s programs. These states have aggressive investment programs for passenger rail resulting in
+corresponding benefits for passenger and freight rail.
+Factors Affecting Results
+In general, increases in ridership result from reduced travel time, more train/bus options and on-time reliability. These conditions are largely dependent upon sufficient capital investment.
+Washington and California are spending $800 million and $3.5 billion respectively to improve travel time, frequency and on-time reliability. Washington will increase daily round trips between
+Portland and Seattle in 2017, which would result in an equipment shortage in Oregon. Consequently, Oregon purchased two new train sets using $38.4 million in American Recovery and
+Reinvestment Act funds and $7.6 million in state funds to maintain current levels of service. These train sets began service in January 2014 and they bring the total train sets serving the Amtrak
+Cascades corridor to seven. Oregon continues to update its schedules to offer better connections for Willamette Valley passenger rail users. This is but one step in supporting the continued growth
+in passenger rail ridership.  ODOT Rail is seeking additional, dedicated funding to continue with current service levels and, more importantly, increase ridership by improving train speed, frequency,
+range of service and reliability.  Dedicated funding will also provide for passenger rail marketing which will increase future ridership.
+KPM #11                   Incident Response - Percent of lane blocking crashes cleared within 90 minutes.
+                          Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual      target
+
+  Re port Ye ar                                                                    2013                              2014                               2015                               2016                              2017
+Traffic Incide nt Re sponse
+Actual                                                                             76%                                80%                                81%                               80%                                78%
+Target                                                                             80%                                80%                               100%                              100%                                85%
+
+How Are We Doing
+In 2016, we cleared 78 percent of lane blocking crashes in under 90 minutes. Our neighboring states of California and Washington have incident response clearance goals; however, the
+performance measure definitions vary significantly between the states making direct comparison difficult. California’s target is to clear 50 percent of major incidents in less than 90 minutes. Major
+incidents are defined as those to which both the California Highway Patrol and Caltrans respond. Their actual performance, for the quarter ending September 30, 2015, is 33 percent with an
+average clearance time of 3 hours 19 minutes(http://www.dot.ca.gov/MileMarker/2015-3/index.html). Currently, Washington’s measure also focuses on major incidents. Major incidents are defined
+as incidents on nine corridors in the Puget Sound area for which Washington State Patrol is the primary responder and for which clearance times are between 90 minutes and 6 hours. Roadway
+clearance time is defined as the time between the IR team’s first awareness of an incident and when all lanes are available for traffic flow. Washington’s target for major incidents is 155 minutes. For
+the quarter ending Dec. 31, 2015, Washington’s average incident clearance time on these nine key corridors was 182 minutes (                                 http://www.wsdot.wa.gov/accountability/).
+Factors Affecting Results
+Actions to clear travel lanes after a crash can range from simple to complex. More complex incident clearance activities often involve multiple public and private responders. The complexity of the
+response effort impacts the results of this measure. For example, whether or not an incident involves a police investigation, hazardous material spill, cargo recovery effort, or fatality are all factors
+that influence the roadway clearance time for the incident. While the initial on-scene focus must be on responder and public safety, collaborating with other responders on a secondary focus to
+reestablish traffic flow can result in opening the lanes more quickly. Spurred by our commitment laid out in the ODOT/OSP Mutual Assistance Agreement, “…OSP and ODOT will also co-sponsor
+training outreach sessions…to build relationships…”   ODOT and OSP collaboratively brought FHWA’s SHRP 2 product, Traffic Incident Management (TIM) Responder training to Oregon in
+November of 2013. Following the Train the Trainer (TtT) format, Oregon has held a successful TtT event every year bringing our total trainers up to 105. These trainers represent every discipline
+involved in TIM. Since the programs arrival in Oregon our trainers and TIM champions have facilitated the delivery of TIM responder training to more than 4,000 of Oregon’s responders. Each class
+provides an opportunity for a cross-disciplined, inter-agency group of responders to explore strategies that will enhance the safety and efficiency of their local TIM efforts. Collectively we are
+shaping the next generation of TIM in Oregon, “Many Disciplines, One Mission – Safe, Quick  Clearance.”
+KPM #12         Bike Lanes and Sidewalks - Percent of urban state highway miles with bike lanes and pedestrian facilities in "fair" or better condition.
+                Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual      target
+
+  Re port Ye ar                                                                   2013                              2014                              2015                              2016                               2017
+Bike  Lane s and Side walks
+Actual                                                                            42%                               43%                                38%                               39%                               39%
+Target                                                                            44%                               46%                                48%                               50%                               52%
+
+How Are We Doing
+ODOT is making strategic investments in walking and biking improvements where Oregon communities have identified the greatest need. We collaborate with local governments to fund programs
+and improvements that support biking and walking, and provide them with technical assistance so that they can ensure local systems are bikeable and walkable as well. As a result, the number of
+people who walk and bike in Oregon continues to increase. On an average weekday, Oregonians make 8% of their trips on foot and 2% by bicycle. One in five households meets a daily travel need
+by walking and one in twenty does so by biking. When it comes to commuting by active modes of travel, Oregon is one of the top-ranked states in the nation. We’re #1 for biking to work (2.3% of
+commute trips), and #8 for walking to work (3.9%).
+
+Factors Affecting Results
+Between 2015 and 2016, ODOT built 40 new miles of walkways and bikeways on our urban highways. However, our progress in meeting this target isn’t just determined by how many miles we build
+each year. As the chart shows, the percent of urban highways with complete walkways and bikeways has trended down in recent years. Why is this happening? Recent adjustments to the federally
+defined urban areas brought many new roadway miles into Oregon’s expanding urban areas. As former rural roads, these highways are unlikely to have walkways and bikeways. We also see
+occasional declines due to jurisdictional transfers, where a local government assumes ownership of a state highway. When such transfers take place, they are typically preceded by significant
+improvements to the highway, including adding walkways and bikeways, because it is less burdensome for a local government to take responsibility for a road if it is already complete and in good
+repair. So ODOT may build walkways and bikeways on a highway one year, increasing our progress toward our goals, only to transfer the road into local ownership the next year, causing our
+percent completed to drop.
+KPM #13                  Fish Passage - Stream miles of access restored or improved to blocked fish habitat.
+                         Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Re port Ye ar                                                                   2013                               2014                                2015                               2016                               2017
+Fish Passage
+Actual                                                                          No Data                             No Data                            No Data                             No Data                              7.60
+Target                                                                             TBD                                TBD                                TBD                                 TBD                                  7
+
+How Are We Doing
+During fiscal year 2016 ODOT constructed one high priority fish passage projects that restored access to 2 miles of habitat. In addition, ODOT replaced two other culverts that restored access to an
+additional 5.6 miles of habitat.  From 1997-2015 this program repaired or replaced a total of 145 culverts and opened or improved access to 476.5 miles of stream habitat.
+
+ODOT improved fish passage under two pilot projects in 2016.  ODOT repaired six culverts and provided improved access to 11.28 miles of habitat under the Culvert Repair Programmatic
+Agreement (CRPA) Pilot Project.  ODFW also complete two (of the 5) compensation projects for the CRPA pilot project that opened up access to 19.5 miles of habitat.  The Fish Passage Banking
+pilot project on the North Coast completed removal of the dam at the East Fork South Fork Trask River in 2016 that will serve as the mitigation bank.  This project opened up access to 21.7 miles of
+habitat for Native Migratory Fish.  This mitigation will offset up to 12 fish passage waiver projects with ½ mile of habitat or less.  The first 7 waiver projects are scheduled to be built in 2017.
+
+For fiscal years 2011-2015, Salmon Program funds were divided between fish passage and storm water projects, under an agreement with the Northwest Environmental Defense Council. Because
+of this, the rate of retrofitting or replacing culverts slowed. However, these funds did address water quality improvements that will benefit salmon.  Unlike other states, our program is discretionary
+and independent of other Statewide Transportation Improvement Program (STIP) and maintenance projects. Our projected fish passage target is to complete the number of projects program funds
+will allow, currently two to three projects each year. Current fish passage design criteria generally require larger, more expensive structures to replace existing infrastructure. Our Fish Passage
+Program has the ability to target high value streams that bring the greatest benefit to native migratory fish. This is unique among western states
+Factors Affecting Results
+The rate of project delivery diminished since the start of the program. Factors contributing to this include increased costs for construction, right of way and project development. In addition, much of
+the high benefit, low cost fish passage improvements are already finished. The remaining fish passage barriers are typically more costly projects. Many of the early program projects were culvert
+retrofits that provided a higher benefit per cost than full culvert replacement projects.  To continue improving fish passage we need more funding. We are exploring processes to streamline project
+permits and plan review timelines. We are also evaluating fish passage ‘banking’ that would provide mitigation options while targeting high value streams.
+KPM #14             Jobs from Construction Spending - Number of jobs sustained as a result of annual construction expenditures.
+                    Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Re port Ye ar                                                                    2013                               2014                              2015                               2016                               2017
+Jobs from Construction Spe nding
+Actual                                                                            10,215                             11,700                             10,138                            10,116                              8,921
+Target                                                                            11,800                             10,470                             10,600                            10,955                              8,881
+
+How Are We Doing
+The total number of actual FTE jobs supported by agency project spending in fiscal year 2016 was approximately 8,921. This measure is not currently used by other states.
+Factors Affecting Results
+The two largest factors affecting the number of jobs from construction spending are the number and size of construction projects funded and the rate of inflation; therefore jobs created, are largely
+out of the control of ODOT. Additionally, difficulty in accurately predicting future federal funding of projects makes goal setting for this measure difficult. Internal job projections are revised more
+frequently than the biannual key performance measure target setting legislative cycle. The measure always presents estimated and projected jobs impacts. The measure identifies jobs sustained by
+state level contractor payments occurring within specific Oregon fiscal years. This differs from total budgets for current projects under contract. ODOT uses IMPLAN, a widely recognized regional
+economic impact modeling tool to estimate a jobs impact factor. The results are expressed in combined full-time and part-time jobs supported. We convert full-time and part-time jobs to estimated
+full-time equivalents through analysis of covered employment data on hours of work statewide by employment sector provided by the Oregon Employment Department. ODOT Highway Budget Office
+and Highway Division provide actual (and for targets - projected) construction-related spending data. The current jobs impact factor is about 9.12 jobs per $1 million of construction-related
+spending. Annual construction-related spending (actual or projected) is multiplied by the jobs impact factor to project the total number of short-term jobs sustained. Adjustments are made for
+inflation in projected jobs numbers.
+KPM #15       Construction Project Completion Timeliness - Percent of projects with the construction phase completed within 90 days of original contract completion date.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                   2013                              2014                               2015                              2016                              2017
+Construction Proje ct Comple tion Time line ss
+Actual                                                                            64%                                76%                               88%                                74%                               76%
+Target                                                                            80%                                80%                               80%                                80%                               80%
+
+How Are We Doing
+The long term average for this measure is about 72% on time with a wide range of routine variation. An in-depth look at this measure and the causes of variation are being investigated to improve
+performance. Based on a recent ODOT management assessment (McKinsey & Co. 2017), the variability in on-time performance was noted especially for smaller to medium sized projects. It was
+also noted that ODOT lags in on-time performance to other peer DOTs, which include Utah, Nevada, and Washington. Comparisons between Oregon’s on-time delivery to other state's performance
+are being investigated. Complicating comparisons, however, are differences in contracting methods, contracting statutes, the types of projects compared, and differences in measurement
+methodologies and definitions.
+
+Factors Affecting Results
+Data entry and processing times can delay reporting by a month in some cases. In other instances the construction completion notice may be rescinded if a problem is found or if additional work is
+needed. Justified reasons for moving the contract completion date also affect the results. Justified reasons include: added work from local agencies; unanticipated site conditions; efficiencies in
+project delivery by combining work being done by the same contractor on adjacent projects; weather delays that can push a project into the next construction season; and, delays in obtaining
+additional right-of-way.
+KPM #16                 Construction Projects On Budget - Percent of original construction authorization spent.
+                        Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                 actual      target
+
+  Re port Ye ar                                                                   2013                              2014                              2015                              2016                               2017
+Construction Proje cts on Budge t
+Actual                                                                            97%                               106%                              100%                              101%                               98%
+Target                                                                            99%                               99%                                99%                               99%                               99%
+
+How Are We Doing
+For 2016, we are on target at 98%. Since 2006, total project construction expenses have averaged approximately 99.4% of the total original authorization amount. (That average excludes an outlier
+project, Highway 20 – Pioneer Mountain/Eddyville – in 2013.) Routine variation can be expected to range from 106% to 93%. These results demonstrate that ODOT can balance the books on
+project construction costs on a fiscal year basis. A recent ODOT management assessment (McKinsey & Company 2017), however, noted that on-budget variability is greater for projects under $10
+million (authorization amount) than for larger projects. We are investigating this claim and the report’s suggested causes of variability. The McKinsey report also noted three to four comparable peer
+DOTs that we should consider for on-budget performance comparisons.
+
+Factors Affecting Results
+For operational improvement considerations a fundamental aspect of on-budget performance that complicates interpretation are the components of the final construction costs relative to the
+original authorization amount. These cost components include actual quantities measured, contract change orders, extra work orders, force accounts, pay factors, escalation/de-escalation, and
+anticipated items. Some of these components can result in positive or negative cost adjustments. These components are examined and estimated when project budgets are established, but
+uncertainties are inherent in complex construction projects. For example, market trends such as higher than expected inflation and rises in steel, oil, and asphalt prices contribute to cost increases.
+Unanticipated geological features, archeological finds, or environmental impacts may also contribute to cost increases. Cost increases due to expanding a project due to cost savings can meet
+agency goals and regional needs despite being over budget. We will be investigating more refined on-budget measures to further improve ODOT’s financial stewardship performance.
+KPM #17             Certified Firms (DMWESB*) - Percent of ODOT Awarded Contracts to Oregon Certified Small Businesses.
+                    Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Re port Ye ar                                                                   2013                               2014                                2015                               2016                              2017
+Ce rtifie d Firms (DM WESB*)
+Actual                                                                          No Data                             No Data                            No Data                            15.20%                             12.85%
+Target                                                                             TBD                                TBD                                 TBD                               12%                                12%
+
+How Are We Doing
+ODOT is committed to programs that encourage the participation of small businesses, including minority- and women-owned firms, in contracting opportunities with the Department across divisions
+and business lines.  To that end, we implement the state Emerging Small Business (ESB) Program, ODOT Small Contracting Program (SCP), and numerous small business supportive services,
+including providing or sponsoring mentoring, training, and outreach events. These programs and initiatives are intended to ensure ODOT and our contractors comply with state and federal non-
+discrimination laws; to create a level playing field for small businesses to compete fairly for contracts; to ensure only eligible firms benefit from the programs; to help develop firms to compete
+successfully in the marketplace outside the programs; and to eliminate or assist small businesses in overcoming barriers to participating in the agency’s procurement and contracting processes. We
+provide statewide training for project management and field staff and we reach out to certified firms to let them know about opportunities and resources for working on ODOT projects. Due to the
+wide variation in metrics, it is not statistically feasible to compare our overall goals and use on a state-to-state basis.
+Factors Affecting Results
+ODOT Information Systems completed a project recently to integrate all data systems to provide comprehensive information. This system will provide an enterprise approach to data collection and
+reporting. The certified firms’ aspirational targets are set on state-funded-only projects over $100,000. The aspirational targets are not a condition of contract award; rather the target represents
+the level of certified small business participation the agency has determined is reasonably achievable in the type of work and locality of the project.
+KPM #18               DMV Field Office Wait Time - Percentage of DMV Field Office Customers Served within 20 Minutes
+                      Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual      target
+
+  Re port Ye ar                                                                   2013                               2014                               2015                              2016                               2017
+DM V Fie ld Office  Wait Time  - Pe rce ntage  of DM V Fie ld Office  Custome rs Se rv e d within 20 M inute s
+Actual                                                                           No Data                            52.30%                            47.40%                             65.60%                            60.70%
+Target                                                                              0%                                 0%                                0%                                70%                               70%
+
+How Are We Doing
+The new measure and target were started informally during FY 2013. About half of the customer visits in FY 2013 and 2014 resulted in wait times under 20 minutes, which was below the 70% target.
+The results improved in FY 2015 to over 65% and dropped to 60% in FY 2016 despite efforts to try and keep pace with demand. We are not aware of other state motor vehicle agencies with a
+similar measure for comparison purposes.
+Factors Affecting Results
+The number of customers visiting an office and the time of day, plus the mixture and complexity of transactions, play major factors in the customer wait time experience. Another factor is the number
+of approved positions, and the ability to keep positions filled and employees trained. Agency workforce rightsizing obligations in 2011-13 eliminated 11 field office positions just as the economy was
+improving (vehicle sales) and Oregon’s population began growing (increasing workload and demand of driver licensing, vehicle titling and registration). Additional online services via the Service
+Transformation Program (STP) will reduce the need for in-person visits. Installing lobby management systems and self-service kiosks would improve the efficiency of offices, and continued
+exploration of business process improvements and staffing strategies should increase the throughput of existing offices.
+KPM #19    Customer Satisfaction - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+           helpfulness, expertise, and availability of information.
+           Data Collection Period: Jul 01 - Jun 30
+
+                                                                          actual     target
+
+ Re port Ye ar                                                            2013                           2014                           2015                            2016                            2017
+Accuracy
+Actual                                                                  No Data                         89.50%                         No Data                         No Data                           91%
+Target                                                                    TBD                             90%                            TBD                             90%                             90%
+Time line ss
+Actual                                                                  No Data                         89.50%                         No Data                         No Data                           91%
+Target                                                                    TBD                             90%                            TBD                             90%                             90%
+Av ailability of Information
+Actual                                                                  No Data                         89.50%                         No Data                         No Data                           91%
+Target                                                                    TBD                             90%                            TBD                             90%                             90%
+He lpfulne ss
+Actual                                                                  No Data                         89.50%                         No Data                         No Data                           91%
+Target                                                                    TBD                             90%                            TBD                             90%                             90%
+Expe rtise
+Actual                                                                  No Data                         89.50%                         No Data                         No Data                           91%
+Target                                                                    TBD                             90%                            TBD                             90%                             90%
+Ov e rall
+Actual                                                                  No Data                         89.50%                         No Data                         No Data                           91%
+Target                                                                    TBD                             90%                            TBD                             90%                             90%
+
+How Are We Doing
+We continue to achieve high overall customer service ratings. On the whole, we continue to provide customers with good to excellent service. Variations in results between 2006 and 2016 are not
+statistically significant and have been near the target of 90 percent. Data to compare with other state departments of transportation is not available. Specific to motor carrier regulation, Oregon is
+one of just a handful of states asking the trucking industry about satisfaction with motor carrier enforcement.
+Factors Affecting Results
+The sampling of customers for the 2016 survey included major customer groups of DMV and Motor Carrier Transportation Division. In future surveys, additional customer groups may be added. We
+will continue to monitor customer satisfaction levels and take corrective action as needed.

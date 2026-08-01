@@ -1,0 +1,962 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-governor-2022-10-12
+title: Governor's Office — Annual Performance Progress Report, Reporting Year 2022
+doc_type: performance_report
+citation: APPR GOVERNOR 2022
+authority_level: agency_report
+issuing_body: Governor's Office
+agency: Governor's Office
+agency_code: GOVERNOR
+reporting_year: '2022'
+year_source: document
+text_source: pdf-text
+filename_year: '2022'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_GOVERNOR_2022-10-12.pdf
+source_filename: APPR_GOVERNOR_2022-10-12.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 0aab10942219b1937b9c933a2cb5a905a559c614d7c34f030d2730e120c11307
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2022
+---
+
+## At a glance
+
+**APPR GOVERNOR 2022** — Governor's Office, Reporting Year 2022
+
+- Agency: Governor's Office
+- Reporting year: 2022 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_GOVERNOR_2022-10-12.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Governor's Office
+Annual Performance Progress Report
+Reporting Year 2022
+Published: 10/12/2022 5:18:59 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+Customer Satisfaction - Percent of participants (customers) who rate the Regional Solutions process very good to excellent.
+Percentage of State Contract Awards to Business Certified by the Certification Office for Business Inclusion and Diversity -
+State Hiring - Number of protected classes being hired, promoted, and retained in state agencies.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+66.67%
+0%
+33.33%
+red
+green
+yellow
+KPM #1
+Customer Satisfaction - Percent of participants (customers) who rate the Regional Solutions process very good to excellent.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2018
+2019
+2020
+2021
+2022
+Timeliness
+Actual
+91.30%
+91.30%
+93%
+93%
+90%
+Target
+90%
+90%
+90%
+90%
+90%
+Overall
+Actual
+91.80%
+91.80%
+89%
+89%
+89%
+Target
+90%
+90%
+90%
+90%
+90%
+Helpfulness
+Actual
+93.20%
+93.20%
+93%
+93%
+89%
+Target
+90%
+90%
+90%
+90%
+90%
+Availability of Information
+Actual
+88.20%
+88.20%
+90%
+90%
+90%
+Target
+90%
+90%
+90%
+90%
+90%
+Accuracy
+Actual
+87.70%
+87.70%
+90%
+90%
+88%
+Target
+90%
+90%
+90%
+90%
+90%
+Expertise
+Actual
+93.20%
+93.20%
+93%
+93%
+91%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+actual target
+Goal:
+Improve the quality and efficiency of delivering state services to local governments and businesses.
+Oregon Context:
+OBM 35 - Public Management and Regional Solutions Mission
+Data Source:
+The Governor's Regional Solutions Office conducts a customer satisfaction survey on a biennial basis. The 2022 Customer Satisfaction Survey was developed following the DAS
+Recommended Statewide Customer Service Performance Measure Guidelines.
+The Governor's Office used SurveyMonkey.com to collect and analyze the results. The Regional Solutions Office maintains copies of the raw survey results.  A final report detailing the survey
+methodology and findings was prepared by and is available from the Regional Solutions Office.
+Owner:
+Nate Stice, Regional Solutions
+Every two years the Governor's office conducts a survey in order to assess its performance in meeting the customer satisfaction measure for Regional    Solutions. The survey assesses services
+provided by the Regional Solutions Centers' coordinators and state agency team members. The Regional Solutions  Office conducts a survey every other year with the last survey conducted in
+February of 2022.
+In the 2022 survey, there were over 222 respondents (compared to 188 in 2018 and 250 in 2020). Most respondents were the primary targets such as local elected leaders, local government staff, and
+local/regional economic development practitioners. Other respondents included state and federal staff and a few private sector representatives: 88% described themselves as “knowledgeable” or “very
+knowledgeable” about RS. There were at least one dozen responses from each of the 11 regions.
+The Regional Solutions KPM target is set at 90% to serve as a motivator for continually improving state agency service delivery to local jurisdictions and businesses. The survey measures how close
+Regional Solutions is to that 90% target for overall customer service and five specific areas of service (Timeliness, Accuracy, Helpfulness, Expertise, and Availability of Information), as per the DAS
+Guidelines for customer satisfaction surveys.
+The key indicators (timeliness, accuracy, helpfulness, knowledge & expertise) all received high marks, in line with both historic performance and close to or at the target score of 90%. (Those scoring a
+Poor rating averaging 1% or less in all categories. The percent scoring the program Excellent in these areas varied from 64% for information quality to 71% for helpfulness.)
+The 2022 survey revealed that Regional Solutions continues to provide exceptional customer service, as evidenced by the high percentage of respondents rating Regional Solutions service as
+"Excellent to Good."
+The survey asked respondents to compare/contrast their experience working with state agencies “normally” and through Regional Solutions. A few stated that they generally have good experiences
+either way, but much more common were comments such as:
+“The Regional Solution Program added value in two ways. First, by making the city aware of state program opportunities. Second, by being available for concierge-style assistance to connect
+the city to state program operators and getting actionable guidance.”
+“Great connection to State Government regarding State policies and navigating State processes.”
+“Regional Solutions provides a central resource for communities on challenging, multidisciplinary issues. The team is very valuable in providing collaborative and quick assistance to
+communities.”
+“It is almost like having an extra staff member! RS has made it possible for a very small city to be able to correctly access services from multiple state agencies.”
+“Involvement with the program has kept us abreast of things that are happening in our region and has given us voice on some of these topics”
+“We have many large, complex projects and the Regional Solutions Team helps us navigate agency timelines and requirements, as well as helping us identify resources to move forward.”
+When asked about the strengths of Regional Solutions, many respondents were particularly appreciative of RS work in bringing together stakeholders on complex projects and initiatives such as
+childcare collaboratives, redevelopment, and long-term water infrastructure planning. Other common responses were the ability to convene/collaborate, build relationships, provide a direct connection
+to the Governor’s Office, share information, and solve problems.
+All of the RS Coordinators received individual compliments from respondents, such as “the best,” “great to work with,” “fabulous resource,” “invaluable,” “rock star,” “great partner,” “simply outstanding,”
+“uniter,” “glue that binds our region,” “phenomenal,” “creative and smart,” and “very responsive.”
+Factors Affecting Results
+The Regional Solutions program continues to face a high demand for its services compared to its limited resources. The teams must constantly balance the need to work with communities to move
+high priority projects forward, while trying to be available for all communities that request assistance. In addition, they must be flexible to respond to the widely varying capacity of partners to work on
+economic and community development, i.e., depending on jurisdiction size, resources, and related factors.
+KPM #2
+Percentage of State Contract Awards to Business Certified by the Certification Office for Business Inclusion and Diversity -
+Data Collection Period: Jul 01
+- Sep 22
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Metric Value
+Actual
+1.60%
+0.70%
+0.60%
+0.20%
+5.40%
+Target
+10%
+10%
+10%
+10%
+10%
+How Are We Doing
+Past Reporting
+Results:
+Table 1. Results from analysis performed 9/24/21 for FY2021
+FY
+Total Contracts
+Awarded
+COBID
+Contracts
+Awarded
+Reporting
+Agencies
+Awarding
+Agencies
+%
+Awarded
+to COBID
+2011
+$
+3,929,150,253.00
+$
+39,425,072.00
+1.0%
+2012
+$
+1,770,200,609.00
+$
+21,446,766.00
+1.2%
+2013
+$
+2,099,222,928.00
+$
+36,147,065.00
+1.7%
+actual target
+2014
+$
+1,758,035,190.00
+$
+12,762,419.00
+0.7%
+2015
+$
+2,855,051,377.20
+$
+94,423,195.00
+3.3%
+2016
+$
+4,178,055,231.08
+$
+29,408,719.00
+0.7%
+2017
+$
+2,347,725,162.58
+$
+30,721,868.00
+1.3%
+2018
+$
+2,598,852,600.00
+$
+43,521,287.00
+1.6%
+2019
+$1,729,404,795.00
+$
+11,832,925.00
+0.7%
+2020
+$
+1,762,559,228.00
+$ 9,782,767.00
+0.6%
+2021
+$2,743,854,331.00
+$5,187,768.00
+0.2%
+Table 2. Results from analysis performed 9/24/21 for FY2021
+FY
+Total Contracts
+Awarded
+COBID
+Contracts
+Awarded
+Reporting
+Agencies
+Awarding
+Agencies
+%
+Awarded
+to COBID
+2021
+$2,743,854,331.00
+$5,187,768.00
+0.2%
+Table 3. Spend on statewide PA’s which use COBID vendors for FY 2021.
+PA
+Vendor
+COBID
+Total
+%COBID
+0483
+uWork.com, Inc.
+$0.00
+$46,143.00
+0.00%
+9436
+uWork.com, Inc.
+$215,397.42
+$4,116,001.53
+5.23%
+DASPS-
+3290-19
+Oregon
+Translation LLC
+dba; Verbio
+$27,986.51
+$27,986.51
+100.00%
+DASPS-
+3283-19
+LinguaLinx
+Language
+Solutions, Inc.
+$0.00
+$4,679.25
+0.00%
+DASPS-
+3268-19
+Dynamic
+Language Center
+$0.00
+$41,066.29
+0.00%
+Note 1:
+ORCPP spend on statewide PA’s are included in this analysis
+Note 2:
+COBID sales reported under PA9436 via non-Oregon firms also exist but are excluded from this report.
+Data used:
+ORPIN original contracts issued by state government Q3 2011 – Q2 2020 (FY 2011 - 2020)
+Added for FY2021 analysis the ORPIN report “Original State Contracts Issued 7.1.20-6.30.21”
+Filtering of ORPIN data for:
+Contracts with value > $5K (Q3 ’11 – Q4 ’14) >$10K (FY 2018 – FY 2021)
+Contracts issued by state agencies
+Contracts applicable for COBID businesses, filtering out:
+Inter government agreements
+Work orders
+Qualified Rehabilitation Facility (QRF) contracts
+Statewide PA’s (removed Price Agreements and contracts marked as statewide)
+Reporting contract values:
+Report total award/spend value for the fiscal year the contract was issued
+HOW WE ARE DOING - Current Reporting
+Table 1. Results from analysis performed 10/3/22 for FY2022
+FY
+Total Contracts
+Awarded
+COBID
+Contracts
+Awarded
+Reporting
+Agencies
+Awarding
+Agencies
+%
+Awarded
+to COBID
+2011
+$
+3,929,150,253.00
+$
+39,425,072.00
+1.0%
+2012
+$
+1,770,200,609.00
+$
+21,446,766.00
+1.2%
+2013
+$
+2,099,222,928.00
+$
+36,147,065.00
+1.7%
+2014
+$
+1,758,035,190.00
+$
+12,762,419.00
+0.7%
+2015
+$
+2,855,051,377.20
+$
+94,423,195.00
+3.3%
+2016
+$
+4,178,055,231.08
+$
+29,408,719.00
+0.7%
+2017
+$
+2,347,725,162.58
+$
+30,721,868.00
+1.3%
+2018
+$
+2,598,852,600.00
+$
+43,521,287.00
+1.6%
+2019
+$
+1,729,404,795.00
+$
+11,832,925.00
+0.7%
+2020
+$
+1,762,559,228.00
+$ 9,782,767.00
+0.6%
+2021
+$2,743,854,331.00
+$5,187,768.00
+0.2%
+2022
+$ value of contracts unavailable from OregonBuys at this time
+FY
+Total # of
+Contracts
+Awarded
+ # of COBID
+Contracts
+Awarded
+Reporting
+Agencies
+Awarding
+Agencies
+%
+Awarded
+to COBID
+2021
+1,707
+2.05%
+2022
+2,033
+5.4%
+Table 2. Results from analysis performed 10/3/22 for FY2022
+FY
+Total
+Contracts
+Awarded
+COBID
+Contracts
+Awarded
+Reporting
+Agencies
+Awarding
+Agencies
+%
+Awarded
+to
+COBID
+2022
+2,033
+5.4%
+Table 3. Spend on statewide PA’s which use COBID vendors for FY 2021.
+PA
+Vendor
+COBID
+Total
+%COBID
+9436
+uWork.com, Inc.
+$452,660.80
+$890,478.30
+51%
+DASPS-
+3290-19
+Oregon Translation LLC
+dba; Verbio
+$6,410.06
+$6,410.06
+100%
+Note 1: ORCPP spend on statewide PA’s are included in this analysis
+Data used:
+OregonBuys original contracts issued by state government Q3 2021 – Q2 2022 (FY 2022)
+Filtering of OregonBuys data for:
+Contracts issued by state agencies
+Contracts applicable for COBID businesses, filtering out:
+Inter government agreements
+Work orders*
+Qualified Rehabilitation Facility (QRF) contracts
+Statewide PA’s (removed Price Agreements and contracts marked as statewide except as indicated in Table 3)
+Subgrantee (non-procurement) Discipline Type
+Blanket Begin Date before 6/30/2021
+POs with Incorrect Authorized Purchasers on the Control Tab
+*Removed Work Orders that were clearly labeled, but some are still included as not all are clearly identifiable
+Reporting contract values:
+Contract Values have not been input consistently into OregonBuys and the data is not reliable as cleanup is still needed.  Data presented above is by number of contracts, not $ value of
+contracts.
+COBID - Certification Analysis
+The Certification Office for Business Inclusion and Diversity (COBID) currently has 2494 actively certified firms. Firm types include a wide array of services including construction, consulting,
+wholesale, professional services, etc. Approximately 25% of firms certified provide construction related services. Approximately 81% of the firms certified are Oregon based businesses.
+Ethnicity/gender - Actively Certified
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+As of
+9.27.2022
+African American - Male
+African American - Female
+Asian Pacific - Male
+Asian Pacific - Female
+Caucasian - Male
+1145
+1205
+1177
+1143
+1070
+Caucasian - Female
+1241
+1334
+1363
+1416
+1437
+1428
+1117
+1058
+1066
+Hispanic American - Male
+Hispanic American - Female
+Native American - Male
+Native American - Female
+Subcontinent Asian - Male
+Subcontinent Asian - Female
+*Unknown - Male
+*Unknown - Female
+*Other - Male
+*Other - Female
+Totals:
+3236
+3473
+3519
+3623
+3579
+3380
+2597
+2520
+2494
+*Ethnicity and gender are not mandatory requirements for ESB certification.
+Factors Affecting Results
+DAS Contacting Factors Affecting Results:
+The 2022 report required some modifications to the methodology of reporting.  OregonBuys is not yet fully implemented, and DAS Procurement Services in conjunction with the OregonBuys Project
+Team are still working with agencies on not only implementing OregonBuys, but using consistent methodology.
+Until OregonBuys is fully implemented at the end of 2023, and data cleanup is completed, there will be discrepancies from agency to agency on how they are inputting their contracts.  As a result, it
+would be irresponsible to report contract dollar values at this time.  We are, however, able to use consistent methodology with the number of contracts as opposed to the value of contracts.
+It's important to note that DAS' reporting focuses on data available through the OregonBuys system. OregonBuys data is not complete as fewer than one-third of State Agencies have currently
+implanted Phase II Procure-to-Pay functionality. As a result, while we reported an increase in
+reported
+activity, it is not known, and cannot be known with current systems, the totality of actual state
+agency contract spend directed to COBID firms.
+One of the major challenges of this report is that we don’t have a clear picture of the actual COBID spend across the board. This is especially true of any procurement activity that is not captured in
+OregonBuys, such as most Work Order Contracts off of Price Agreements, SPOTS card spend, and Purchase Orders.
+COBID Factors Affecting Results:
+There are several key factors related to the fluctuation of certification numbers.
+Even though the numbers vary throughout the year, it is common for firms to lose certification only to reapply once realizing there has been a lapse. In 2021, COBID decertified a total of 507 firms; of
+those firms 502 (98.6%) failed to provide yearly information required to maintain the certification(s). It is a requirement of certification that each year a firm must provide current information regarding
+the corporate structure, including supporting documentation such as federal taxes, changes to corporate documents and changes in ownership.
+New
+Denied            Decertified Withdrawn Graduation
+Decisions 2022 (As of 9.27.22)
+New
+Denied
+Decertified
+Withdrawn
+Graduation
+African American
+Asian Pacific
+Caucasian - Female
+Caucasian - Male
+Hispanic American
+Native American
+Subcontinent Asian
+Unknown
+Other
+Totals:
+African
+American
+Asian
+Pacific
+Caucasian
+-
+Female
+Caucasian
+-
+Male
+Hispanic
+American
+Native
+American
+Subcontinent
+Asian
+Unknown
+Other
+Totals:
+1244
+COBID may award certification to a business regardless of the length of time the business has been in operation. According to the U.S. Small Business Administration, 50% of businesses do not
+survive longer than five years of operation. The majority of certified firms are from the non-traded sector and are increasingly subject to market and economic volatility, especially due to the current
+economy and recent pandemic.
+Without the education and small business management experience, many firms fail. These firms also do not possess the resources or capacity necessary to obtain government contracts (e.g.,
+employees, equipment, assets needed to secure financing and bonding, etc.). COBID continues to explore methods of increasing the pool of certified firms while connecting firms to additional
+resources through the Small Business Development Centers, Government Contracting Assistance Program, and local Technical Assistance providers throughout the state.
+COBID continues to receive feedback from certified firms that they receive no direct benefit from certification. COBID continues to work with individual government entities such as the Oregon
+Housing and Community Services, the Department of Corrections, and Oregon Health Authority/Department of Human Services as well as local governments to connect firms with opportunities.
+Although COBID has not performed recent surveys, the information shared with the COBID team at outreach events and during site visits continues to reflect the same or similar challenges.
+Recommendations from firms included need for financing, holding prime contractors accountable for lack of payment and failure to follow contracts, reduction in paperwork, provide technical
+assistance, assigning points to projects, transparency language in contracts, and developing resources to help small businesses navigate the system more efficiently.
+Many firms express the inability to obtain opportunities due to lack of capacity. Top challenges certified businesses face includes contracts that are too large to manage, limited access to resources
+such as equipment, limited access to capital to fund the project before payment of the receivables, bonding, and challenges developing relationships that lead to opportunities within agencies.
+Most recently, COBID has seen a lack of response from firms. However, the number of applications continues to increase. The decrease in participation is also due to the graduation of 65 firms in
+2020.
+Current data available demonstrates that firms applying for certification continue to recover from the devastating events of the last several years. COBID expects to see the number of available firms
+continue to rise as business returns to normal, the economy stabilizes and firms have more time available to apply for certification and seek contracting opportunities as the busy summer season
+comes to a close.
+New Applications by type
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+As of 9.27.2022
+ACDBE
+DBE
+Interstate
+DBE (FAA)
+MBE
+WBE
+SDVBE
+ESB
+Totals:
+1005
+1137
+1135
+1158
+1313
+1052
+Overall Applications Per Type
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+As of  9.27.2022
+Expansion
+*
+Interstate
+*
+*
+NCA
+2487
+1872
+2765
+2985
+2286
+2493
+2370
+2450
+1864
+New
+1001
+1014
+1106
+1205
+3-Year Review
+1239
+1254
+1097
+1033
+1017
+Totals:
+4704
+4114
+4529
+5168
+4263
+4711
+4745
+4374
+3482
+*Application type not tracked at that time.
+MANAGEMENT  COMMENTS:
+The state has not historically captured contracts awarded under $10K, SPOT card spend, some Work Orders, grant awards that may result in contracts, etc. The previous database system,
+ORPIN, did not provide accurate or reliable information on actual spend to COBID Certified Firms. This greatly impacts accuracy in reporting.
+Currently, the state is working to implement a new tracking system, ORBuys, to collect data from all state agencies.  This data will be collected as available by the awarded firm or prime. Many
+opportunities for COBID Certified Firms fall within a subcontracting opportunity.
+Executive Order 22-15, replacing EO 18-03, promotes equity in contracting by directing all state agencies, boards and commissions within the Executive Branch, to coordinate with the
+Governor’s Office, Department of Administrative Services, and Business Oregon for training, community engagement activities, quarterly reporting, and to create and implement community and
+small business engagement plans for the purpose of bringing the State of Oregon to an increased utilization of COBID Certified Firms. All agencies are working to increase the use of certified
+firms and improve outreach.
+Tracking of these efforts will occur through yearly reporting submitted by each agency to the Governor’s Office.
+Due to COVID-19, the Governor’s Marketplace and statewide editions are postponed until further direction regarding social distancing and large gatherings.
+Our office is researching methods to capture spending under $10K as well as to increase the accessibility of contracts of $10K and below for COBID Certified Firms.
+The Governor’s Racial Justice Council - Economic Opportunity Committee is working to address challenges to entry into government contracting along with solutions to mitigate such barriers for
+minority firms such as prompt payment, bonding, and unbundling of large contracts.
+KPM #3
+State Hiring - Number of protected classes being hired, promoted, and retained in state agencies.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Percentage of Race and Disabled in the State Work Force
+Actual
+22%
+23.10%
+25.20%
+23.59%
+25.71%
+Target
+22%
+22%
+22%
+22%
+22%
+How Are We Doing
+It is a top priority of the Governor’s Office to ensure the State of Oregon employs the best qualified people to efficiently, effectively and compassionately deliver services across Oregon. With a
+state workforce of approximately
+43,963 people, the state is focused on recruiting and promoting a diverse mix of people in state agencies, as well as to boards and commissions, so that the
+structures of state government reflect a state workforce that centers racial and gender equity.
+The representation of people of color in the state’s workforce is growing. In 2021, people of color represented 20.46% of the workforce — today, in 2022, it represents 22.41%, which is a total
+increase of nearly 2%.
+For the past several years, the proportion of women in the state’s workforce has also increased. Women now comprise 55.1% of the state’s workforce, which is higher than their representation in
+the state population (50%).
+TARGETS
+The annual targets for workforce diversity combine the representation of people of color and people with reported disability (PRD) in the workforce. The annual target is 22%. By that measure,
+the State of Oregon has exceeded the target this year by 1.4% with the 25% of the representation of people of color and people with reported disability in 2022.
+actual target
+Percentage of Race and Disabled in the State Work Force
+2018
+2019
+2020
+2021
+2022
+Actual
+22%
+23.10%
+25.20%
+23.59%
+25.71%
+Target
+22%
+22%
+22%
+22%
+22%
+2022 Census Quick Facts for Oregon, total population estimates:
+Total population
+4,246,155
+Women
+50.10%
+People of Color
+25.90%
+People with disabilities under age 65
+9.90%
+Representation of Females, People of Color, People Reporting a
+Disability in the Work Force (2018-2022)
+Category
+2018
+2019
+2020
+2021
+2022
+Female
+21,309
+22,178
+22,777
+23,351
+24,262
+Male
+18,625
+19,332
+19,243
+19,282
+19,701
+People of Color
+7,371
+8,299
+9,455
+8,997
+9,854
+People with Reported Disability
+1,271
+1,271
+1,135
+1,064
+1,142
+All Employees
+39,934
+41,512
+42,020
+42,633
+43,963
+Workforce Totals by Racial Categories (2022)
+Racial Categories
+Female
+Male
+All
+Pct. All
+American Indian/Alaska Native
+1.9%
+Asian
+1,045
+1,763
+4.1%
+Black/African American
+1,183
+2.8%
+Hispanic
+2,582
+1,604
+4,186
+9.8%
+Native Hawaiian/Other Pacific Islander
+0.6%
+Two or More Races
+1,023
+1,636
+3.8%
+White
+17,769
+15,147
+32,916
+77.0%
+Totals
+23,650
+19,120
+42,770
+100.0%
+New Hires, Promotions, and Resignations
+Category
+New Hires
+Promotions
+Resignations
+Gender
+Female
+2,697
+2,049
+1,727
+Male
+1,795
+1,326
+1,344
+Race/Ethnicity
+People of Color
+1,444
+White
+2,852
+2,433
+2,187
+Disability Status
+Reported
+Not Reported
+4,455
+3,305
+3,007
+Totals
+4,492
+3,375
+3,071
+Between July 1, 2021 to June 30, 2022:
+Of the new hires for the State, 1,444 were people of color. In addition to hiring a diverse workforce, the State of Oregon is also focused on       providing more opportunities for diverse professionals to
+enter state service, as well as identifying opportunities for promotion.
+Women received 60.7% of the State’s 3,375 promotions. People of color represent 22.4% of the State’s total current workforce. People of color account for 25.2% of the 3,375 promotions and 25.2%
+of the 3,071 resignations.
+Diverse employees (people of color and people with reported disability) represent 32.9% of the 4,492 new hires; 27% of the 3,378 promotions; and 27% of the 3,071 workers leaving state service.
+Women represent 60% of new hires; 60.7% promotions; and 56% of workers leaving state service.
+Factors Affecting Results
+The total number of employees excludes board members, temporary positions, and commissions and committees.
+Notes:
+Data Sources: The State has completed a transition to a new human resources information system (HRIS). The data source for 2017, and 2018 is the Position and Personnel Database; data for 2019
+was combined from the Position and Personnel Database (dates: 07/01/2018 – 12/31/2018) and the new HRIS, Workday, (dates: 1/01/2019-06/30/2019). All 2022 data is from Workday.
+Department of Administrative Services, Chief Human Resources Office
+Only individuals under ORS 240 are included in the data. This data does not include temporary workers. Gender, Race/Ethnicity, and Disability Status are all data that is self-reported by the employee,
+and its disclosure is not required. Race/ethnicity includes visual assessments as required for EEO reporting.
+A small percentage of employees chose not to disclose race and ethnicity. They are excluded from the comparisons based on race and ethnicity.
+Management
+Comments:
+The Governor’s Office is committed to providing leadership and support to state agencies as they create an inclusive working environment that allows every individual the opportunity to reach their full
+potential as a state employee.
+The Governor’s Office of Equity and Racial Justice exists to ensure State compliance with Title VI and VII of the 1964 Civil Rights Act, covering nondiscrimination in public funds and affirmative action,
+Oregon Revised Statutes 200 and 659, as well as implementing the Governor’s Executive Order No. 22-11 relating to Affirmative Action, Equal Employment Opportunity, Diversity, Equity and
+Inclusion. The Office has prioritized the following actions in 2022-2023:
+.
+Develop guidelines for 2023-2025 Affirmative Action Plans and Statements.
+.
+Identify state agencies’ affirmative action goals and review their 2023-2025 Affirmative Action Plans to measure progress on affirmative action goals.
+.
+Review and approve state agency 2021-2023 biennium Affirmative Action Plans and Statements.
+.
+Develop the Governor’s 2023-2025  Affirmative Action Report and implement the Governor’s Executive Order 12-11.
+.
+Engage with state agencies, boards and commissions to assess employee, board and commission member recruitment, hiring, retention, and promotion.
+.
+Ensure agencies comply with state and federal equal employment opportunity laws, rules, regulations, and processes.

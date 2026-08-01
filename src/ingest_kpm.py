@@ -51,6 +51,7 @@ from __future__ import annotations
 
 import argparse
 import re
+import subprocess
 import sys
 import time
 import urllib.error
@@ -68,6 +69,12 @@ from corpus_toolkit.repo import hash_snapshot           # noqa: E402
 MANIFEST = ROOT / "_meta" / "source-manifest.yml"
 SNAPSHOTS = ROOT / "_meta" / "snapshots"
 OUT_DIR = ROOT / "reports"
+# Rendered page images for the second OCR engine. Gitignored and disposable -- they are an
+# input to the corroboration check, never evidence, and they rebuild from the PDF on demand.
+CACHE = ROOT / "_meta" / ".cache"
+
+from ocr_corroborate import (MIN_AGREEMENT, MIN_DICT_RATIO,      # noqa: E402
+                             MIN_WORDS)
 
 UA = "OregonAI-corpus-platform/1.0 (+https://github.com/OregonAI/oregon-kpm)"
 
@@ -133,6 +140,127 @@ def is_page_number(line: str, npages: int) -> bool:
         len(s) <= 16 and npages > 1
 
 
+def looks_letter_spaced(text: str) -> bool:
+    """Did the extractor put a space between EVERY character?
+
+        'A n n u a l  P e r f o r m a n c e  P r o g r e s s  R e p o r t'
+
+    Four Long-Term Care Ombudsman reports come out of pypdf like this. They are not scans
+    and not corrupt -- the text layer is complete and the anchors are all present under the
+    space-stripped comparison, so ingestion accepted them. Stage 3 could not read one line:
+    `Report Year` never matches, the year run never starts, and all four documents
+    contributed zero rows to the series while looking perfectly healthy.
+
+    Collapsing the spaces in the string is NOT a fix. Word boundaries use the same single
+    space as letter boundaries, so 'L o n g T e r m' collapses to 'LongTerm' and
+    '2 0 1 9 2 0 2 0' to '20192020' -- the years would have to be re-split by guessing.
+    Re-extracting with a different engine recovers the real spacing instead of inventing it.
+    """
+    toks = text.split()
+    if len(toks) < 50:
+        return False
+    return sum(1 for t in toks if len(t) == 1) / len(toks) > 0.6
+
+
+def pdftotext_pages(pdf_path: Path) -> list[str] | None:
+    """Poppler's extractor, used ONLY as a fallback. Returns None if it is unavailable.
+
+    `-layout` IS REQUIRED, not a preference. Plain `pdftotext` emits this table in column
+    order rather than reading order, interleaving the legend into the middle of it:
+
+        actual / Report Year / target / 2021 / 2022 / 2023 / 2024 / 2025
+
+    so the year run starts on `target`, finds no year, and the block parses to nothing --
+    the same zero-row outcome as the letter-spacing it was called in to fix. `-layout`
+    preserves x-positions, which puts the legend on its own line and the years inline after
+    `Report Year`, the layout Stage 3 already reads.
+    """
+    try:
+        r = subprocess.run(["pdftotext", "-layout", str(pdf_path), "-"],
+                           capture_output=True, timeout=180)
+    except (FileNotFoundError, subprocess.TimeoutExpired):
+        return None
+    if r.returncode != 0:
+        return None
+    return r.stdout.decode("utf-8", "replace").split("\f")
+
+
+def write_layout(pdf_path: Path, rid: str) -> int:
+    """Write `<rid>.layout.txt`: the same text, with COLUMN POSITIONS PRESERVED.
+
+    Stage 3 needs this and cannot get it any other way. pypdf's default reading-order
+    extraction emits NOTHING for a blank table cell, so a five-year row with two blanks
+    yields three values and no indication of which years they belong to. 3,300 measure runs
+    fail the length gate for exactly that reason -- roughly 30% of the potential series, and
+    55-58% in RY2022 and RY2024.
+
+    NO FILL HEURISTIC CAN RECOVER THEM. Measured over 60 documents: 406 runs are missing
+    trailing years, but 195 are missing the first FOUR, 181 the first two, and 52 alternate
+    (0,2,4) -- the signature of a biennially-run survey. Filling forward or backward would
+    silently attach real numbers to the wrong years in a large minority of cases, which reads
+    as data rather than as an error. With x-positions the assignment is deterministic:
+    1,743 of 1,748 partial runs resolved, 99.7%.
+
+    WHY THIS IS COMMITTED RATHER THAN DERIVED AT STAGE 3. `snapshot_policy: hash-only` keeps
+    the PDFs out of the repository, so CI has no PDF to re-extract from -- `build_series.py
+    --check` runs against a checkout. The positional text has to be an artifact, not a
+    computation.
+
+    It is NOT the document body. `<rid>.txt` stays the reading-order extraction, because that
+    is what `## Full text` serves and what a reader and the FTS index want; this file is
+    padded to preserve geometry and is a parsing input only.
+    """
+    try:
+        pages = [p.extract_text(extraction_mode="layout") or ""
+                 for p in PdfReader(str(pdf_path)).pages]
+    except Exception:                               # noqa: BLE001 — fall back, do not fail
+        pages = []
+    text = re.sub(r"\n{3,}", "\n\n", "\n".join(pages)).strip()
+
+    # POPPLER WHEN pypdf's LAYOUT MODE RETURNS NOTHING. It does so for 12 documents -- the
+    # six OCR'd scans, the three letter-spaced Ombudsman reports, and three more -- and an
+    # empty sidecar is not a neutral outcome: Stage 3 then has no geometry for exactly the
+    # documents whose reading-order text is worst, which is where it is needed most.
+    #
+    # Same engine and same flag as the extract_text fallback, for the same reason: `-layout`
+    # preserves x-positions, plain pdftotext emits the table in column order.
+    if len(text) < 500:
+        alt = pdftotext_pages(pdf_path)
+        if alt:
+            cand = re.sub(r"\n{3,}", "\n\n", "\n".join(alt)).strip()
+            if len(cand) > len(text):
+                text = cand
+    (SNAPSHOTS / f"{rid}.layout.txt").write_text(text, encoding="utf-8")
+    return len(text)
+
+
+def ocr_pdf(src_pdf: Path, dest_pdf: Path, force_rotate: bool) -> bool:
+    """Write an OCR'd COPY beside the original. Returns False if OCR is unavailable.
+
+    THE ORIGINAL IS NEVER TOUCHED. `source_sha256` hashes `<id>.pdf`, the bytes LFO
+    actually served; the OCR'd copy is a derived artifact at `<id>.ocr.pdf` and is
+    gitignored by the same `_meta/snapshots/*.pdf` rule. Overwriting the original would
+    change the hash of the thing we claim to have downloaded.
+
+    force_rotate exists because of appr-oprd-2022-08-15, whose pages are scanned 180 over.
+    At tesseract's default OSD confidence, page 1 was left upside down and OCR'd as
+    `:Peusiiqnd` for `Published:` -- 13,000 characters of confident garbage that passed the
+    length check. `--rotate-pages-threshold 0` applies the orientation call even when
+    tesseract is unsure, which is right for a page we ALREADY know failed to yield a
+    reporting year, and wrong as a default for pages that are correctly oriented.
+    """
+    cmd = ["ocrmypdf", "-l", "eng", "--optimize", "0", "--output-type", "pdf",
+           "--rotate-pages", "--deskew"]
+    if force_rotate:
+        cmd += ["--rotate-pages-threshold", "0"]
+    try:
+        r = subprocess.run([*cmd, str(src_pdf), str(dest_pdf)],
+                           capture_output=True, timeout=900)
+    except (FileNotFoundError, subprocess.TimeoutExpired):
+        return False
+    return r.returncode == 0 and dest_pdf.is_file()
+
+
 def extract_text(pdf_path: Path) -> tuple[str, str]:
     """Returns (cleaned full text, raw first-page text).
 
@@ -142,6 +270,16 @@ def extract_text(pdf_path: Path) -> tuple[str, str]:
     """
     reader = PdfReader(str(pdf_path))
     raw_pages = [(p.extract_text() or "") for p in reader.pages]
+
+    # Fall back to poppler when pypdf letter-spaces the whole document, and ONLY then --
+    # pypdf stays the extractor of record for all 779, so this cannot quietly change the
+    # text of documents that were already fine. Verified on the fallback's own output: if
+    # poppler is missing or letter-spaces it too, keep pypdf's text and let Stage 3 report
+    # the block as unparsed rather than substitute an untested extraction.
+    if looks_letter_spaced("\n".join(raw_pages)):
+        alt = pdftotext_pages(pdf_path)
+        if alt and not looks_letter_spaced("\n".join(alt)):
+            raw_pages = alt
     pages = [t.splitlines() for t in raw_pages]
     head, foot = page_furniture(pages)
     out: list[str] = []
@@ -201,13 +339,17 @@ def find_agency(first_page: str, socrata_name: str | None) -> tuple[str, str]:
 
 def build_document(src: dict, text: str, sha: str, year: str, agency: str,
                    agency_source: str, missing_anchors: list[str],
-                   year_disagrees: str | None) -> str:
+                   year_disagrees: str | None, text_source: str = "pdf-text",
+                   ocr_provenance: str | None = None) -> str:
     rid = src["_id"]
     status = src.get("measure_status") or "approved"
     code = src.get("agency_code")
     citation = f"APPR {code or slug(agency)[:24].upper()} {year}"
 
-    notes = []
+    # FIRST, so it is not buried behind an anchor note. A reader scanning conversion_notes
+    # needs to learn "this text came from a machine reading an image" before anything else
+    # in the field.
+    notes = [ocr_provenance] if ocr_provenance else []
     if missing_anchors:
         notes.append("missing expected anchors: " + ", ".join(missing_anchors))
     if year_disagrees:
@@ -234,6 +376,16 @@ def build_document(src: dict, text: str, sha: str, year: str, agency: str,
         # reader never has to guess whether a year was stated or inferred.
         "reporting_year": year,
         "year_source": "document",
+        # HOW THE `## Full text` BODY WAS OBTAINED. `pdf-text` means the PDF's own text
+        # layer; `ocr` means there was none and a machine read the image.
+        #
+        # This is the same job year_source does one line up, and it exists for the same
+        # reason: without it, six documents whose text was GUESSED FROM PIXELS are
+        # indistinguishable from 773 whose text was read from the file. OCR of these scans
+        # is good but not clean -- the DOGAMI report yields "pernitted rrine sites" for
+        # "permitted mine sites" -- and 9,000 characters of mostly-right text is more
+        # dangerous than none, because it reads as authoritative.
+        "text_source": text_source,
         "filename_year": src.get("reporting_year"),
         # NOT a boolean and NOT a doc_type split. An APPRProposed_ file reports measures
         # PROPOSED to the Legislature rather than ones it has approved; for some
@@ -280,6 +432,13 @@ def build_document(src: dict, text: str, sha: str, year: str, agency: str,
         "statement that a program worked. The reporting year is not the data collection "
         "period; read each measure's stated period before attaching a number to a year. "
         "Verify at the source URL._\n")
+    if text_source == "ocr":
+        parts.append(
+            "\n_This document had NO TEXT LAYER: the source PDF is a scan. The full text "
+            "below was produced by OCR (ocrmypdf/tesseract) and is a MACHINE READING OF AN "
+            "IMAGE, not the document's own text. Expect character-level errors in both "
+            "words and figures, and treat every number below as unverified against the "
+            "source. `source_sha256` hashes the original PDF, not this transcription._\n")
     parts.append("\n## Full text\n\n" + text + "\n")
     return "\n".join(parts)
 
@@ -291,6 +450,8 @@ def main() -> int:
     ap.add_argument("--only", metavar="DOC_ID")
     ap.add_argument("--limit", type=int)
     ap.add_argument("--refetch", action="store_true")
+    ap.add_argument("--ocr", action="store_true",
+                    help="OCR PDFs that have no text layer (needs ocrmypdf + tesseract-ocr)")
     args = ap.parse_args()
 
     sources = yaml.safe_load(MANIFEST.read_text())["sources"]
@@ -322,6 +483,48 @@ def main() -> int:
             fresh = not pdf.is_file() or args.refetch
             fetch_pdf(src["url"], pdf, args.refetch)
             text, first_page = extract_text(pdf)
+            text_source = "pdf-text"
+            ocr_provenance = None
+
+            # OCR IS OPT-IN AND LAST-RESORT. It runs only when the PDF has no text layer at
+            # all, never to "improve" a document that already extracted -- OCR output is a
+            # MACHINE READING of an image, not the source's own text, and substituting it
+            # for text that exists would be a silent downgrade in provenance.
+            if len(text) < 500 and args.ocr:
+                ocr = SNAPSHOTS / f"{rid}.ocr.pdf"
+                if ocr_pdf(pdf, ocr, force_rotate=False):
+                    text, first_page = extract_text(ocr)
+                    # A rotated scan OCRs to fluent-looking nonsense that passes every
+                    # length check, so the retry is keyed on the reporting year -- the one
+                    # value in the document we can verify independently of the OCR.
+                    if not find_reporting_year(first_page, text) \
+                            and ocr_pdf(pdf, ocr, force_rotate=True):
+                        text, first_page = extract_text(ocr)
+
+                    # CORROBORATION IS A CONDITION OF PROMOTION, NOT A REPORT ON IT.
+                    # A single engine's reading is unverifiable -- there is nothing to check
+                    # it against -- so text that cannot be corroborated does not enter the
+                    # corpus at all. Failing closed matters more than the six documents do:
+                    # the failure mode of failing open is a fabricated number carrying the
+                    # agency's authority, which is the one thing this corpus exists not to do.
+                    from ocr_corroborate import (notes as ocr_notes, paddle_text, score,
+                                                 vocabulary)
+                    cross = paddle_text(pdf, CACHE / "ocr-pages" / rid)
+                    if cross is None:
+                        raise ValueError(
+                            "OCR produced text but the second engine is unavailable "
+                            "(pip install paddleocr) — refusing to promote uncorroborated OCR")
+                    s = score(text, cross, vocabulary())
+                    if not (s["gate_ok"] and s["agree_ok"]):
+                        raise ValueError(
+                            f"OCR failed the two-engine bar: {s['words']} words, "
+                            f"{s['dict_ratio']:.0%} dictionary-recognizable, "
+                            f"{s['agreement']:.0%} cross-engine agreement "
+                            f"(need >={MIN_WORDS}w, >={MIN_DICT_RATIO:.0%}, "
+                            f">={MIN_AGREEMENT:.0%})")
+                    ocr_provenance = ocr_notes(s)
+                    text_source = "ocr"
+
             if len(text) < 500:
                 raise ValueError(f"only {len(text)} chars extracted — scanned or broken PDF")
 
@@ -344,10 +547,13 @@ def main() -> int:
                        if a not in flat and re.sub(r"\s+", "", a) not in nospace]
 
             (SNAPSHOTS / f"{rid}.txt").write_text(text, encoding="utf-8")
+            # From the OCR'd copy where there was no text layer -- the original has no text
+            # to lay out, and Stage 3 must read the same document the body came from.
+            write_layout(SNAPSHOTS / f"{rid}.ocr.pdf" if text_source == "ocr" else pdf, rid)
             sha = hash_snapshot(rid, "pdf", SNAPSHOTS)
             (OUT_DIR / f"{rid}.md").write_text(
                 build_document(src, text, sha, year, agency, agency_source, missing,
-                               disagrees),
+                               disagrees, text_source, ocr_provenance),
                 encoding="utf-8")
             ok += 1
             flag = "  ANCHORS:" + ",".join(missing) if missing else ""

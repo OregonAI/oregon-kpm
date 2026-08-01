@@ -12,6 +12,7 @@ agency: Youth Authority, Oregon
 agency_code: null
 reporting_year: '2016'
 year_source: document
+text_source: pdf-text
 filename_year: '2016'
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/2016OYAAPPRReportwithproposedchanges-Final.pdf

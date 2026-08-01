@@ -12,6 +12,7 @@ agency: Construction Contractors Board
 agency_code: null
 reporting_year: '2017'
 year_source: document
+text_source: pdf-text
 filename_year: null
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APR_CCB_%209-14-17.pdf

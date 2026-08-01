@@ -1,0 +1,512 @@
+Corrections, Department of
+Annual Performance Progress Report
+Reporting Year 2021
+Published: 9/17/2021 8:39:08 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+Measure 17 compliance - Percentage of Adults in Custody (AIC) in compliance with 40-hour work/education requirements of the constitution (M17)
+Successful Completion of Treatment, Education, and/or Cognitive Programming - Percentage of moderate/high-risk released Adults in Custody (AIC) with an identified education, cognitive, or treatment need who successfully completed at least one of
+the identified need programs before release.
+Recidivism - Percent of offenders: 1. Arrested for a new crime within 3 years of release from a facility to parole/post-prison supervision;
+2. Convicted of a new misdemeanor or felony within 3 years of release from a facility to parole/post-prison
+supervision; AND 3. Incarcerated for a new felony within 3 years of release from a facility to parole/post-prison supervision
+Staff Assaults - The number of Class 1 assaults on individual staff per year.
+Walk-a-Ways - The number of Adult in Custody (AIC) walk-a-ways from outside work crews per year.
+Reduce all Energy Usage - Reduce the annual average electricity, propane, geothermal, diesel and natural gas usage.
+Measure on a monthly kBtu/square foot basis.
+Adult in Custody (AIC) Misconducts - The number of Adults in Custody (AIC) sanctioned for level 1 misconducts, including Violations Not Responsible (VNR)
+Secure Custody Escapes - The number of escapes per year from secure-custody facilities (armed perimeter).
+Unarmed Perimeter Escapes - The number of escapes from DOC unarmed perimeter facilities.
+Leave Programs - The percentage of Adults in Custody (AIC) who complete transitional leave and non-prison leave (AIP)
+Customer Service - Percent of customers rating their satisfaction with the agency customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+Offsite Medical Healthcare - Percent of total Adult in Custody (AIC) healthcare encounters that occur offsite.
+OSHA Recordable Rate - Average number of OSHA recordable injuries per 100 employees who work a whole year.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+46.15%
+7.69%
+46.15%
+red
+green
+yellow
+KPM #1
+Measure 17 compliance - Percentage of Adults in Custody (AIC) in compliance with 40-hour work/education requirements of the constitution (M17)
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Compliance with M17
+Actual
+70.17%
+69%
+69%
+70%
+70.16%
+Target
+80%
+80%
+80%
+80%
+80%
+How Are We Doing
+The Department did not meet the target for this reporting period. The percentage of Ballot Measure 17 compliant adults in custody (AICs) increased slightly to 70.16% in 2020-2021. Although not
+meeting the full 40-hour requirement for compliance, a majority of AICs have engaged in some type of work/education activity. It remains difficult to reach the target for a variety of reasons
+compounded by COVID -19 quarantines, wildfire evacuations, and commutations. To work on an outside work crew, AICs must be classified as minimum custody and meet strict criteria to ensure
+public safety. The Department must also find a balance in prioritizing case management to support work opportunities, treatment, and education – all of which can be part of an AIC’s corrections plan.
+Oregon Corrections Enterprises (OCE) works in partnership with the Department of Corrections by providing work opportunities that, as much as possible, mirror real world employment experiences.
+Factors Affecting Results
+Institution maintenance, janitorial work, kitchen help, garment factory, laundry, manufacturing, and call centers are examples of work counting toward the 40 hour requirement. Qualified programs like
+education and treatment for alcohol and drug addictions take priority over work program assignments and create conflicts with scheduling. The average AIC population decreased through the year,
+while the number of compliant AICs remained steady. Impacts from COVID related quarantines, work program suspensions through OCE, and evacuations due to wildfires impact these numbers.
+However, the number of AIC jobs needed to support institution operations remained relatively unchanged. Limited funding for programs and staff support will not allow us to reach all those in need.
+Outside work crews are limited by the amount of funding public entities have available to finance those activities, coupled with commutations and continued restrictions barring sex offenders from
+outside work crews reduces the number of AIC available for these crews. OCE continues to work on expansion of work opportunities offered, yet continues to struggle to fund overtime salaries for
+correctional officer staffing to support expansion efforts. Despite the difficulties, OCE averaged just over 1,400 AIC participating in its programs, a number similar to the previous reporting period.
+While the Department and OCE add positions every year, fluctuation in the AIC population inhibits the Department’s ability to increase the percentage assigned to qualifying assignments.
+The Department will continue to evaluate future job market trends and offer work and programming opportunities to provide the skills necessary for AICs to obtain employment in industries where
+there is projected growth for job openings. Staff will continue to develop community relationships and innovative ways of supplying work crews for the needs of local communities (e.g., host agency
+crews, etc.) in support of Ballot Measure 17. The Department has initiated teams to evaluate and identify the root causes of compliance issues at local institutions and will use its findings to identify
+additional opportunities for improvement within current programs. Oregon Corrections Enterprises continues to expand its Business Strategy Team through its Advisory Council to work with business
+and community leaders. Their goal is to establish new work opportunities as well as grow Ballot Measure 17 compliant work programs across the state.
+KPM #2
+Successful Completion of Treatment, Education, and/or Cognitive Programming - Percentage of moderate/high-risk released Adults in Custody (AIC) with an identified education, cognitive,
+or treatment need who successfully completed at least one of the identified need programs before release.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+High & Medium Risk Inmates That Receive Prioritized Corrections Plan Program
+Actual
+80.92%
+79.70%
+78.42%
+Target
+75%
+75%
+80%
+80%
+80%
+How Are We Doing
+While DOC believes it was successful in pivoting and finding ways to overcome barriers, the impacts of COVID-19 operational restrictions and the 2020 wildfire evacuations each had a significant
+impact on this measure.  In addition, in the past this measure has been based on a consistent, single pool of the releasing population that was defined based on their risk to recidivate (Automated
+Criminal Risk Score [ACRS]).  However, based on legislation recognizing substance use disorder (SUD) as a chronic disease, DOC Health Services has moved closer to a chronic disease model for
+SUD treatment program eligibility, which does not include the risk to recidivate as an eligibility factor.  Therefore, there is no longer a constant population pool from which to calculate this three-part
+measure because it is currently based on releasing AICs with a medium- to high-risk to recidivate.
+This makes it impossible for DOC to report out on this measure as currently structured.  We intend to submit a request to the Legislature to request modification of this measure.  We believe this will
+provide more meaningful data from which to base future business decisions.
+Factors Affecting Results
+The
+COVID-19 pandemic
+has had significant impacts on this measure.  Many programs were initially paused to prevent the possible spread of the disease between contractors providing
+services and the adults in custody (AICs).  When programs were allowed to resume, in-person class sizes were restricted by CDC guidelines for indoor group sizes and social distancing
+requirements.  In addition, DOC’s attempts to isolate institutions to prevent the spread of COVID-19 also hindered our ability to relocate AICs to institutions with treatment programs.
+The
+2020 wildfire evacuations
+disrupted programming, which affected AICs’ ability to successfully complete programs they had begun.
+As mentioned previously, DOC worked continuously with its contractors to find ways to safely continue programming in modified formats, class sizes, etc.; but the cumulative impacts of COVID-19 and
+wildfire evacuations had significant impacts on program completions.  In addition, due to programmatic changes, DOC can no longer accurately pull the data for this measure as currently defined; and
+we will be requesting permission from the Legislature to revise KPM #2 to reflect current program eligibility criteria.
+KPM #3
+Recidivism - Percent of offenders: 1. Arrested for a new crime within 3 years of release from a facility to parole/post-prison supervision;
+2. Convicted of a new misdemeanor or felony within 3
+years of release from a facility to parole/post-prison supervision; AND 3. Incarcerated for a new felony within 3 years of release from a facility to parole/post-prison supervision
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2017
+2018
+2019
+2020
+2021
+1. Arrests for a new crime within 3 years of release
+Actual
+55%
+55%
+59.50%
+Target
+40%
+40%
+40%
+2. Convicted of a new misdemeanor or felony within 3 years of release
+Actual
+42%
+42%
+44.60%
+Target
+30%
+30%
+30%
+3. Incarcerated for a new felony within 3 years of release
+Actual
+18%
+18%
+18.30%
+Target
+10%
+10%
+10%
+How Are We Doing
+Since the passage of HB 3194 (2013), which significantly expanded Oregon’s recidivism definition, the rates of those arrested for a new crime within 3 years of release; those convicted of a new crime;
+and those incarcerated for a new felony have increased slightly.  These exceed the target rates for each measure. Please note that during this data collection period, the Criminal Justice Commission
+(CJC) has corrected the definition of the Parole/PPS cohort to include those released from incarceration onto leave status.
+Factors Affecting Results
+The Department and county community corrections agencies put considerable effort into assessing AICs and developing a comprehensive corrections plan that will address identified risks and needs.
+This includes use of the Level of Service/Case Management Inventory (LS/CMI), a measure of risk and need factors, as well as a fully functional case management tool. In addition, in recent years the
+department and county community corrections agencies have begun using the Women’s Risk Need Assessment (WRNA) tool which targets identification of risks and needs correlated with the female
+population.  Ongoing system improvements have been made to better target in-prison interventions and to conduct more careful and coordinated release planning. In addition, community corrections
+agencies statewide continue to work collaboratively with the department to enhance the effective and efficient transition of AICs from prison to our communities. Such efforts are centered on a
+commitment to implement and enhance evidence-based practices throughout Oregon’s criminal justice system.
+The department continues to target interventions and resources on those at highest risk to commit new crimes as well as focus on the preparation and transition of AICs back into the community with
+the goal of reducing future criminal behavior. However, it is recognized that in addition to our efforts, there are many factors impacting recidivism, to include individual local county practices.
+KPM #4
+Staff Assaults - The number of Class 1 assaults on individual staff per year.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Staff Assaults
+Actual
+Target
+How Are We Doing
+A careful review of each incident determined that in 27 separate incidents, staff assaults were mischaracterized or were duplicated entries.  In the mischaracterized incidents, the assaults should have
+been designated as class 2 Staff Assaults.  The reason for this large discrepancy is a training issue.  In order to be considered a class 1 Staff Assault, the assault has to either involve a body fluid
+being caused to come into contact with staff, or, in the case of a physical assault, the staff must suffer physical injury, which is defined as “impairment of physical condition or substantial pain.”  In the
+miscategorized reports, there was no report of physical impairment or substantial pain.  When these incidents are eliminated from the count, the actual number of class 1 Staff Assaults was 76, which
+is under our target.  Of these 76 staff assaulted, 43 were physical assaults (24 of which had injuries requiring treatment at local the local ER), 24 involved body fluids where no exposure to mucous
+membrane occurred, and 9 involved body fluids where exposure to mucous membrane occurred.
+While one staff assault involved a homemade knife and caused significant, life threatening injuries, most staff assaults resulted in minimal injuries to staff involved. When properly categorized, we are
+within our target numbers.  Body fluid assaults are difficult to manage as they often involve mental health AICs and there is a difficult balance between limiting the ability of AIC’s to have access to
+assault staff with body fluids and meeting the needs of the mental health treatment and ensuring isolation is minimized.
+Factors Affecting Results
+All but 17 of the assaults occurred in a Special Housing Unit and mental health issues was a major contributing factor. Will work with Institution management staff to ensure the proper assessment of
+staff assaults to ensure they are categorized correctly in the future.
+KPM #5
+Walk-a-Ways - The number of Adult in Custody (AIC) walk-a-ways from outside work crews per year.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Walk-a-Ways
+Actual
+Target
+How Are We Doing
+ODOC realizes the importance of this measure in terms of public safety and customer service to the citizens of Oregon.  This measure gives an indication of how well the institutions are functioning
+with respect to management of the minimum custody inmate work crews. The Department utilizes an automated system to assist in the identification of adults in custody who are appropriate for
+outside work crew assignments.
+Factors Affecting Results
+Screening and classification reviews continue to be done to ensure that only appropriate adults in custody are housed at minimum custody facilities and assigned to outside work crews.  Specific
+annual training is also provided for work crew supervisors.  There were no indicators in either Walk Away that would have caused staff to anticipate an incident. ODOC had 2 AICs walk away from a
+work crew during our reporting period. ODOC reviews each case to determine causal factors and applies corrective measures to assist in preventing future walk aways. The department continues to
+refine our classification tool to ensure adults in custody are correctly classified and are appropriate for minimum custody institutions.
+KPM #6
+Reduce all Energy Usage - Reduce the annual average electricity, propane, geothermal, diesel and natural gas usage.
+Measure on a monthly kBtu/square foot basis.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Reduce all Energy Usage
+Actual
+158.50
+153.23
+150.71
+150.86
+146.72
+Target
+158.22
+151.49
+151.49
+144.76
+141.39
+How Are We Doing
+ODOC is at 11.4% energy reduction towards the 20% goal (compared to 2013 baseline year).
+Factors Affecting Results
+There are five sites meeting current target goals since baseline year.  Almost all buildings have made a positive reduction in energy since Baseline year even though they may not be meeting our
+target goal.  Climate changes in weather (compared to 30-year average weather conditions) and the Covid-19 pandemic continue to impact energy usage.  Our agency continues to work on improving
+education and awareness for employees and Adults in Custody engagement around behavior practices that effect energy usage. ODOC did not have Sustainability Manager/Coordinator actively
+working for several months of this fiscal year due to the previous Manager working with the Agency Operations Center (AOC) and then moving on to a different job and the person currently in this
+position is still learning the job.
+KPM #7
+Adult in Custody (AIC) Misconducts - The number of Adults in Custody (AIC) sanctioned for level 1 misconducts, including Violations Not Responsible (VNR)
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Adult in Custody (AIC) Misconducts
+Actual
+1,704
+Target
+1,300
+1,300
+1,300
+How Are We Doing
+ODOC realized a significant decrease in AIC misconducts for the 2021 reporting period. There were 125 fewer misconducts issued during the reporting period compared to the previous year.  This is a
+two-year trend that saw a reduction of 901 misconducts from the 2019 reporting period.  This is a reduction of 52.88% over two years.
+Factors Affecting Results
+The DOC has invested significant energy into the Oregon Way and a focus on managing AIC behavior through lower levels of accountability including the use of short-term cell-ins, more teaching and
+better role modeling. We are pleased and proud of the work we have done in reducing this key performance measure.  The DOC continues to see a significant value in better, pro-social interactions
+with AICs which help shape their behavior without the use of formal discipline.
+KPM #8
+Secure Custody Escapes - The number of escapes per year from secure-custody facilities (armed perimeter).
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Annual escapes from secure-custody facilities
+Actual
+Target
+How Are We Doing
+ODOC realizes the criticality of this measure in terms of public safety and customer service to the citizens of Oregon.  This performance measure gives an indication of how well the institutions are
+functioning.  It also, is an indicator of the effectiveness of the Oregon Accountability Model (OAM).  This model, in part, requires staff to hold adults in custody accountable by providing both positive
+and negative consequences to inmate behavior and guiding offenders towards pro-social behavior.  Another component of OAM is Correctional Case Management.  Through this component the
+department targets resources to those adults in custody who are most likely to recidivate by including employees in a multi-disciplinary case management approach.
+Factors Affecting Results
+Each escape is reviewed to identify the causal factors and determine if architectural design, equipment, or staff training needs to be addressed.  Protective measures are initiated as identified and
+needed by these reviews.  A review is conducted for any incident.  The results of the review and any security recommendations are made to the Superintendent of the institution.  The Oregon State
+Police, county and local police agencies and the department’s Special Investigations Unit work together to quickly apprehend escapees.  Annual Security Audits are conducted to test and review
+security practices to guard against breaches in security.
+Although the Department is proud of the work we have don’t to reduce the risk of escapes from secure custody, we continue to focus on security audits with the express purpose of making our
+institutions safer and ensure no weaknesses in our secure perimeters exist that can be taken advantage of by AICs.  The effort to reduce complacency is an ongoing effort.
+KPM #9
+Unarmed Perimeter Escapes - The number of escapes from DOC unarmed perimeter facilities.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+The number of escapes from DOC unarmed perimeter facilities
+Actual
+Target
+How Are We Doing
+We met our target for this reporting year.  ODOC realizes the criticality of this measure in terms of public safety and customer service to the citizens of Oregon.  This performance measure gives an
+indication of how well the institutions are functioning.  There is no such thing as an acceptable escape.  The department has approximately 2,600 minimum-custody beds.  The department continues to
+refine our classification tools to ensure adults in custody are correctly classified and are appropriate for minimum custody housing.
+Factors Affecting Results
+Each escape is reviewed to identify the causal factors and determine if architectural design, equipment, or staff training needs to be addressed.  Protective measures are initiated as identified and
+needed by these reviews.  A review is conducted for any incident.  The results of the review and any security recommendations are made to the Superintendent of the institution.  The Oregon State
+Police, county and local police agencies and the department’s Special Investigations Unit work together to quickly apprehend escapees.  Annual Security Audits are conducted to test and review
+security practices to guard against breaches in security.
+When an escape does occur from an unarmed facility, the incident is reviewed to identify causal factors, deficiencies, and determine a course of action.  ODOC will continue to hold staff to this high
+standard.  The department continues to refine our classification tool to ensure adults in custody are correctly classified as minimum custody and are appropriate for minimum custody institutions.
+KPM #10
+Leave Programs - The percentage of Adults in Custody (AIC) who complete transitional leave and non-prison leave (AIP)
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Leave Programs
+Actual
+86.55%
+85.40%
+87.80%
+Target
+90%
+85%
+85%
+How Are We Doing
+This KPM reflects the performance of two varieties of DOC transitional leave programs: Non-Prison Leave associated with the Alternative Incarceration Programs (AIP), and Short-Term Transitional
+Leave (STTL). The Oregon Department of Corrections offers AIP to inmates who have been sentenced by a judge as eligible for AIP, and who apply to participate and meet other statutory and
+department policy requirements to participate. The programs are based on intensive interventions targeted at criminogenic risks, rigorous personal responsibility and accountability, physical labor, and
+service to the community. Additionally, AIP consists of an institutional phase for a minimum of 180 days, followed by a period of non-prison leave of up to 90 days, for a total minimum program length
+of 270 days.  During the institutional phase, these programs provide 14 hours of structured and regimented routine every day for a minimum of 180 days. Adults in Custody (AIC) who are eligible to
+participate in AIP are screened through the multidisciplinary Treatment Assignment Screening Committee to determine the most appropriate program to meet the AICs’ needs.
+The Department also offers STTL of up to 120 days to AICs who are
+not
+enrolled in an Alternative Incarceration Program. As with AIP Non-Prison Leave, AICs must meet the statutory and department
+policy requirements to be approved for Short-Term Transitional Leave. Regardless of whether it is Non-Prison Leave or Short-Term Transitional Leave, offenders are closely monitored for compliance
+with their transition plans while in the community. The higher the percentage of successful completions, the greater the success.
+For the 2020-21 reporting period, the transitional leave completion rate for STTL increased (86.24%) when compared with the 2019-20 reporting period. The completion rate for AIP Non-Prison Leave
+also increased (92.68%) when compared with the 2019-20 reporting period.  Short-Term Transitional Leave participation rates for this reporting period decreased from an average of 127 per month in
+2019-2020, to an average of 103 per month, representing approximately one fifth of the monthly releasing population. The primary reason for this drop in participation is the increased use of
+commutations during the 2020-21 reporting period. A key barrier to increasing participation rates for all transitional leave programs continues to be inadequate housing in the community. An additional
+barrier to increasing AIP transitional leave participation, is limited treatment program bed space, which must be used for both AIP and non-AIP participants.
+DOC continues to review, refine, and streamline its internal processes to ensure it is targeting those most appropriate for STTL. This includes development of automation designed to further increase
+both efficiency and effectiveness of the process, as well as substantially improve both the quality and quantity of data collected and analyzed. Phase I of automation was completed in 2017 and Phase
+II, which was designed to greatly enhance efficiency and the ability for all stakeholders to track individual offender history and current STTL status, rolled out September 2019. Work on Phase III,
+aimed at greatly improving data collection efficiency as well as quality and quantity of program data, is still underway. In addition to automation efforts, DOC continues its focus on developing solid
+transition plans that will increase the successful reintegration of all AICs, into the community.
+Factors Affecting Results
+As stated above, overall transitional leave participant numbers are down as a result of the increased use of commutations during the reporting period, as both programs pull from the same pool of
+participants. The increase in successful completion rates during the reporting period is largely a function of the impact COVID restrictions have had on supervision practices.
+High standards remain in place for those AICs granted Non-Prison or Short-Term Transitional Leave.  Statutorily eligible AICs who have not met Department policy requirements are not granted leave,
+which is one of the primary reasons success rates of offenders on leave continues to be high. Approved transitional housing continues to be a problem for some AICs who are completing the in-prison
+portion of AIP or releasing onto STTL from a substance use disorder (SUD) program. This problem was only compounded by COVID impacts. When AICs complete the in-prison portion of the
+programs and do not have approved housing in their community, they are returned to general population until their release date. The SUD programs try to keep them engaged in some level of day-
+treatment until they release, but that is not always possible.
+KPM #11
+Customer Service - Percent of customers rating their satisfaction with the agency customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness,
+expertise and availability of information.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2017
+2018
+2019
+2020
+2021
+1. Expertise
+Actual
+64.20%
+76.30%
+Target
+90%
+80%
+80%
+80%
+80%
+2. Accuracy
+Actual
+65.70%
+78.10%
+Target
+90%
+80%
+80%
+80%
+80%
+3. Helpfulness
+Actual
+51.20%
+62.10%
+Target
+90%
+80%
+80%
+80%
+80%
+4. Timeliness
+Actual
+53.20%
+69.70%
+Target
+90%
+80%
+80%
+80%
+80%
+5. Availability of Information
+Actual
+56.30%
+58%
+Target
+90%
+80%
+80%
+80%
+80%
+6. Overall
+Actual
+51.10%
+65.60%
+Target
+90%
+80%
+80%
+80%
+80%
+How Are We Doing
+Factors Affecting Results
+KPM #12
+Offsite Medical Healthcare - Percent of total Adult in Custody (AIC) healthcare encounters that occur offsite.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Percent of Total Inmate Offsite Encouters
+Actual
+0.68%
+1.03%
+0.98%
+1.78%
+1.39%
+Target
+1%
+1%
+1%
+1%
+1%
+How Are We Doing
+Health Services is tired. The COVID-19 pandemic has highlighted the fact that we are lacking a relief factor for many of our healthcare positions, which has caused earlier than normal burnout for
+several of our institutions. Despite not having adequate staffing coverage the Health Service team has gone above and beyond to provide healthcare at or above community standards.
+Factors Affecting Results
+Health Services saw a 22% decrease in the offsite versus onsite healthcare ratio within our institutions.  While this shows movement toward our target, it is not necessarily reflective of positive
+changes with this measure.  The COVID-19 pandemic has increased the volume of care provided to the patients within the facilities. We have experienced staffing impacts because of the pandemic
+resulting in less staff availability at the institutions. It should also be noted that the data is likely skewed because of significant delays for routine or non-urgent offsite care.  Much like our communities,
+these delays are a result of offsite providers limiting services and availability. We also have limitations as a result of transportation limitations at some institutions.
+KPM #13
+OSHA Recordable Rate - Average number of OSHA recordable injuries per 100 employees who work a whole year.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+OSHA Recordable Rate
+Actual
+2.80
+3.10
+2.80
+Target
+6.50
+6.50
+How Are We Doing
+During the lat year, our staff were injured approximately 40% of the rate of prisons in the United States. The federal standard is 6.3, as you can see DOC is significantly lower.
+Factors Affecting Results

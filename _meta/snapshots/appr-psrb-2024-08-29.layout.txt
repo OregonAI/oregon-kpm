@@ -1,0 +1,280 @@
+Psychiatric Security Review Board
+               Annual Performance Progress Report
+
+                      Reporting Year 2024
+
+                 Published: 8/29/2024 4:32:04 PM
+ KPM #        Approved Key Performance Measures (KPMs)
+
+1            RECIDIVISM RATE - Percentage of clients on conditional release per year convicted of a new felony or misdemeanor.
+2            TIMELINESS OF HEARINGS - Percentage of hearings scheduled within statutory timeframes.
+3            MAINTENANCE OF RELEASED CLIENTS - Percentage of conditional releases maintained in community per month.
+4            CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+5            BEST PRACTICES - Percent of total best practices met by the Board.
+
+                                                                                                                                                  red
+                                                                                                                                                  green
+                                                                                                                                                  yellow
+
+ Performance Summary                                                                                                                                    Green                                                    Yellow                                                     Red
+
+                                                                                                                                                   = Target to -5%                                       = Target -5% to -15%                                         = Target > -15%
+Summary Stats:                                                                                                                                            0%                                                       0%                                                       100%
+KPM #1RECIDIVISM RATE - Percentage of clients on conditional release per year convicted of a new felony or misdemeanor.
+              Data Collection Period: Jan 01 - Dec 31
+
+                                                                        actual    target
+
+ Report Year       2020   2021   2022   2023   2024
+Adults
+Actual         0.23%   0%   0%   0%
+Target         0.25%   0.25%   0.25%   0.25%   0.25%
+
+How Are We Doing
+The PSRB measures recidivism on an annual basis, using data collected and analyzed in partnership with the methodology of the Oregon Criminal Justice Commission (CJC). As of August 2024, only
+one client on conditional release has been convicted of a new felony or misdemeanor this year, highlighting the Board’s effective management of individuals under its supervision.
+
+The PSRB has been tracking recidivism since 1992, adopting a revised definition in 2019 to enhance accuracy. This updated definition has been retroactively applied to data from 2011, allowing for a
+comprehensive understanding of recidivism trends. The Board's recidivism rate represents the percentage of individuals under its supervision who are convicted or found Guilty Except for Insanity
+(GEI) of a new felony or misdemeanor within the calendar year. Lower recidivism rates demonstrate the success of the PSRB’s conditional release program in maintaining public safety.
+
+To ensure precise measurement, the PSRB relies on both arrest data and the final disposition of cases, which can impact the accuracy of recidivism figures. For instance, an arrest from 2017 may
+only influence the recidivism rate once it reaches a conviction or GEI adjudication, potentially causing fluctuations in reported rates as cases are resolved.
+
+The PSRB uses two main metrics for reporting recidivism: an annual rate and a cumulative average.
+
+Annual Recidivism Rate: The legislature set a target of 0.25% for recidivism in 2016, following the PSRB’s achievement of a 0.22% rate that year. The Board has met this target in 2016, 2020, 2021,
+2022, and 2023. While our goal remains ambitious, aiming for zero recidivism, even a single new offense by more than one individual in a given year can result in the goal not being met. Despite
+occasional deviations, the PSRB’s annual recidivism rates remain significantly lower than the typical 20-30% rates reported by the state’s Department of Corrections.
+
+Cumulative Recidivism Rate: The cumulative recidivism rate, averaging data from 2011 to 2023, stands at 0.54%. This figure reflects the Board’s long-term effectiveness and commitment to safely
+managing individuals within the community. The cumulative rate, which was confirmed using arrest records provided by CJC, demonstrates the PSRB’s consistent and exemplary safety record over
+more than a decade.
+
+Factors Affecting Results
+The Psychiatric Security Review Board’s (PSRB) recidivism rate is deeply influenced by its robust partnerships and the effectiveness of its treatment and supervision strategies. Key factors impacting
+recidivism include:
+
+Collaborative Partnerships and System Integration: The PSRB's success in managing recidivism is significantly shaped by its collaborative relationships with the broader forensic mental health
+system. This includes close coordination with the Oregon Health Authority (OHA), Department of Human Services (DHS), the Oregon State Hospital (OSH), county and community behavioral health
+providers, and statewide law enforcement agencies. These partnerships are essential for effective information sharing, coordinated care, and resource allocation, all of which contribute to reducing
+recidivism.
+
+Effective Treatment and Support: A critical factor in lowering recidivism is the delivery of targeted, evidence-based treatment. While short-term measures like restricted environments and mandated
+treatments can be effective, the long-term success of managing recidivism hinges on providing evidence-based support that targets criminogenic risk factors and equips clients with essential coping
+skills necessary to manage their mental health condition(s). This support is vital for individuals transitioning to more independent living situations after their time under PSRB supervision. The PSRB’s
+strategic plan emphasizes improving conditional release programs to ensure they support long-term recovery and reduce recidivism. This includes refining practices to avoid inadvertently reinforcing
+risk factors and enhancing trauma-informed care that fosters recovery and community integration.
+
+Development and Compliance with Conditional Release Orders: Conditional release plans are central to managing recidivism. The PSRB can only approve community release if a client can be
+adequately controlled and provided with necessary care and resources. Effective release plans, developed with input from treatment teams and based on comprehensive assessments and client data,
+play a crucial role in mitigating recidivism risk. The PSRB collaborates with the Oregon Health Authority (OHA), Department of Human Services (DHS), and other stakeholders to train providers and
+ensure these plans are well-crafted and targeted.
+
+However, the effectiveness of these plans is contingent upon the availability and capability of the workforce responsible for implementing them. Workforce shortages and high turnover among
+community providers can pose significant barriers. Even the most well-developed conditional release plan may fall short if there are insufficient or inadequately trained staff to execute it. Inadequate
+staffing can lead to lapses in monitoring, supervision, and the delivery of necessary services, which may undermine the intended outcomes of the release plan.
+
+Ongoing training and support are essential for maintaining the quality and effectiveness of conditional release plans. The PSRB’s strategic partnerships are crucial in addressing these workforce
+challenges by ensuring that providers receive the necessary resources and training to manage their caseloads effectively. Addressing workforce shortages and turnover is therefore integral to the
+PSRB’s efforts to uphold the integrity of conditional release plans and achieve its goal of reducing recidivism while safeguarding public safety.
+
+Proactive and Timely Communication: Each client on conditional release is assigned a case manager responsible for overseeing their adherence to the release plan. Regular progress reports and
+proactive communication about any safety or compliance issues are essential for timely interventions. The PSRB requires case managers to report monthly and to alert the Board immediately about
+any significant issues. This proactive approach allows for swift responses, such as increasing services or revoking release, to mitigate recidivism and safeguard public and client safety. The PSRB
+also leverages the Oregon State Police Department's Law Enforcement Data System (LEDS) for real-time updates on client interactions with law enforcement, further enhancing its ability to respond
+effectively.
+KPM #2              TIMELINESS OF HEARINGS - Percentage of hearings scheduled within statutory timeframes.
+                    Data Collection Period: Jan 01 - Dec 31
+
+                                                                                  actual     target
+
+  Report Year                                                                    2020                               2021                               2022                               2023                               2024
+a. Adults
+Actual                                                                          99.21%                             99.28%                             99.71%                             99.03%
+Target                                                                            98%                                98%                                98%                                98%                                98%
+b. Juveniles
+Actual                                                                            80%                               100%                               100%                               100%
+Target                                                                            97%                                97%                                97%                                97%                                97%
+
+How Are We Doing
+The PSRB evaluates the timeliness of its hearings on an annual basis. As of June 30, 2024, the Board has successfully conducted 100% of its 187 scheduled adult GEI full hearings within the
+required timeframe. Although administrative hearings are not included in KPM #2 due to the absence of statutory deadlines, the PSRB did hold an additional 87 administrative hearings in the first half
+of 2024. These are noted here to maintain transparency and reflect the Board's comprehensive hearing activities.
+
+In the 2021-23 biennium, the legislature introduced a statutory timeframe for the initial hearing in cases where individuals are released directly to the community by the Circuit Court. Previously, there
+was no such requirement for these cases, though a timeframe had long been in place for individuals committed to the Oregon State Hospital under PSRB jurisdiction. Considering due process and
+public safety, the PSRB advocated for a 90-day limit on scheduling these initial hearings, which was enacted on January 1, 2022. Since this new requirement came into effect, the Board has
+consistently met this 90-day deadline 100% of the time.
+
+For juvenile cases, the PSRB also demonstrated exemplary performance. As of June 30, 2024, the Board conducted all five scheduled juvenile full hearings on time, maintaining a perfect record.
+Additionally, one administrative matter was reviewed within the same period.
+
+Since the end of 2021, the PSRB has continued to hold all hearings remotely, a practice established during the pandemic and formalized by administrative rule. This transition has proven effective,
+allowing the Board to consistently exceed its target by scheduling over 98% of hearings within statutory timelines.
+Factors Affecting Results
+The timing of PSRB hearings is closely linked to the number of individuals under the Board’s jurisdiction. While the PSRB can accurately determine the minimum number of two-year and five-year
+hearings required annually based on its current caseload, additional hearings are necessary in response to provider or client requests (up to every six months), new adjudications (within 90 days), and
+revoked conditional releases (within 20 days). The Board uses continuances strategically to manage its docket and prioritize hearings mandated by statute.
+
+Funding and technological resources are crucial to maintaining timely hearings. With a team of only13 full-time employees in 2023, each staff member plays a vital role in ensuring hearings are
+scheduled promptly. The PSRB anticipates the replacement of its current case management system will result in automated scheduling, enhanced communication, and generation of dashboards that
+will streamline several processes, enhancing efficiency. Conversely, reductions in staff without corresponding technological upgrades could severely impact the Board’s ability to conduct hearings on
+schedule.
+
+Witness and attorney availability also influence hearing timeliness. The PSRB coordinates witness schedules—a task typically managed by attorneys in other court settings—using a process that
+involves numerous phone calls and emails. The absence of dedicated docketing software further complicates this coordination. Consequently, any reduction in staffing could significantly hinder the
+Board’s ability to maintain timely hearings.
+
+For the juvenile panel, the availability of Board members is a critical factor. Given the small number of clients, the unavailability of even one Board member on a potential hearing day can create
+scheduling challenges, impacting the overall timeliness of hearings.
+KPM #3           MAINTENANCE OF RELEASED CLIENTS - Percentage of conditional releases maintained in community per month.
+                 Data Collection Period: Jan 01 - Dec 31
+
+                                                                                  actual     target
+
+  Report Year                                                                    2020                               2021                               2022                               2023                               2024
+a. Adults
+Actual                                                                          99.37%                             99.55%                             99.40%                             99.44%
+Target                                                                            99%                               99%                                99%                                99%                                99%
+b. Juveniles
+Actual                                                                           100%                               100%                               100%                              83.33%
+Target                                                                            97%                               97%                                97%                                97%                                97%
+
+How Are We Doing
+The PSRB has consistently excelled in maintaining individuals on conditional release, achieving a minimum maintenance rate of 99% in 15 of the last 16 years. As of June 30, 2024, the Board
+maintained an average of 347 adult clients on conditional release each month, with a remarkable maintenance rate of 99.38% for 2024. This performance not only met but exceeded the target goal of
+99%, reflecting the Board’s exceptional commitment to ensuring stability for clients under its supervision.
+
+In 2023, the PSRB managed four juvenile clients, three of whom were on conditional release. One juvenile client experienced a temporary revocation, which occurred not due to risk of dangerousness,
+but rather due to the permanent closure of the placement in which he resided. Other complications due to the lack of community resources prevented this youth from being placed at a different home.
+While the revocation was necessary, the youth was conditionally released within six months when another appropriate placement was identified.
+
+For the first half of 2024, the PSRB oversaw four juvenile clients, three of whom were maintained on conditional release. This resulted in a 100% maintenance rate for the first six months of the year,
+demonstrating the Board’s continued success in managing juvenile clients effectively.
+
+Revocations, though occasionally necessary to ensure public safety, are approached with careful consideration. The PSRB proactively collaborates with community treatment providers to anticipate
+potential issues and intervene in a timely manner. The Board strives to stabilize clients in the least restrictive setting possible, balancing the need for public safety with the goal of maintaining
+successful conditional releases.
+Factors Affecting Results
+The PSRB’s ability to safely and effectively maintain clients on conditional release is influenced by factors closely related to those affecting recidivism: robust partnerships and the availability of
+community resources.
+
+Partnerships and Collaboration: Effective conditional release management relies heavily on the collaborative efforts between the PSRB, Oregon State Hospital (OSH), and community providers.
+The PSRB approves conditional release only when it is confident that the client can be safely managed within the community. This confidence is built through a comprehensive review process,
+including full hearings where OSH and community treatment providers present evidence about the client’s conditional release plan. This plan is developed through a rigorous five-layer review process
+involving OSH’s assessment of each client’s risk for recidivism, relapse, and psychiatric decompensation. Access to adequate training and resources is critical for OSH to accurately evaluate these
+risks and recommend appropriate levels of monitoring, supervision, and treatment, which community providers then implement. Any reduction in the PSRB’s ability to obtain accurate information from
+partners or a decline in the training and resources available to these partners could undermine the effectiveness of conditional release plans and hinder the detection of early signs of decompensation,
+thereby negatively impacting the maintenance of clients on conditional release.
+
+Community Resources: The availability and adequacy of community resources play a crucial role in maintaining the safety and effectiveness of conditional releases. For example, when a client
+experiences a significant change in psychiatric stability, access to local hospitals, crisis stabilization centers, and other respite placements is essential for managing these changes without resorting to
+revocation to OSH. Similarly, early detection of decompensation by providers allows for timely intervention, such as stepping up to a higher level of care like a residential treatment home, rather than
+revocation. The availability of specific treatment modalities and supports, such as substance abuse treatment or medical care, is also critical. When community mental health and housing resources
+are fully funded and accessible, the PSRB can effectively use these options to avoid unnecessary revocations and preserve state hospital resources for those in acute need. Conversely, a reduction in
+these community resources would limit the options available for managing clients, potentially leading to an increased number of revocations due to a lack of suitable alternatives. More robust
+community resources could have mitigated some past revocations by providing timely and appropriate support to clients in need.
+
+Workforce Capacity: Workforce shortages are a significant challenge in maintaining clients on conditional release. The PSRB’s ability to oversee and manage conditional release plans effectively
+depends on having a sufficient number of skilled, internal staff members. When staff levels are inadequate, it becomes more challenging to conduct thorough reviews, ensure compliance with
+treatment protocols, and respond promptly to emerging issues. Moreover, the effectiveness of conditional release management hinges on the availability of qualified community providers to deliver
+monitoring, supervision, and treatment services in accordance with the conditional release plan. High turnover among community providers can undermine the consistency and quality of these
+services. The PSRB collaborates with the Oregon Health Authority (OHA) and the Department of Human Services (DHS) to provide ongoing training and support for providers, but workforce shortages
+and gaps in training can impact the efficacy of conditional release plans. Reductions in staff or insufficient training resources may compromise the ability to enforce release conditions and address
+emerging issues promptly.
+KPM #4    CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall customer service, timeliness, accuracy,
+          helpfulness, expertise and availability of information.
+          Data Collection Period: Jan 01 - Dec 31
+
+                                                                         actual    target
+
+ Report Year                                                            2020                           2021                           2022                           2023                           2024
+Helpfulness
+Actual                                                                 95.60%                         85.29%                         95.16%                         88.24%
+Target                                                                  95%                             95%                            95%                            95%                            95%
+Expertise
+Actual                                                                 92.05%                         83.87%                         95.08%                         94.12%
+Target                                                                  95%                             95%                            95%                            95%                            95%
+Availability of Information
+Actual                                                                 92.39%                         79.10%                         81.97%                         68.75%
+Target                                                                  90%                             90%                            90%                            90%                            95%
+Overall
+Actual                                                                  90%                           79.71%                         91.67%                         88.24%
+Target                                                                  95%                             95%                            95%                            95%                            95%
+Accuracy
+Actual                                                                 91.11%                           80%                          88.71%                           75%
+Target                                                                  90%                             90%                            90%                            90%                            95%
+Timeliness
+Actual                                                                 85.87%                         82.43%                         77.42%                         66.67%
+Target                                                                  95%                             95%                            95%                            95%                            95%
+
+How Are We Doing
+The PSRB adopted the standardized customer service survey questions required for State agencies since their inception in 2004. While customer service scores have generally been positive, it was
+recognized around 2018 that response rates, particularly from clients, were low. In response, the PSRB revised its approach in 2019 to include customer service surveys with every Board order, rather
+than only distributing them twice a year. For the past several years, the survey was also distributed to community and hospital treatment providers during the PSRB’s annual forensic conference.
+
+Despite this enhanced dissemination strategy, the PSRB encountered significant challenges with survey response rates in 2023. Out of over 500 orders distributed, only 65 surveys were returned,
+indicating potential issues with the effectiveness of the current distribution and collection methods. More concerning is the drop in overall satisfaction, with a score of 88.24%, alongside notable
+declines in measures of information availability, accuracy, and timeliness compared to previous years. This decrease may be influenced by the nature of the Board’s hearings, all of which are
+contested. Approximately 30% of the responses came from clients or victims who may have been dissatisfied with the outcomes, impacting the overall score. Additionally, 38 respondents did not
+specify their affiliation with the PSRB, complicating efforts to interpret the underlying causes of the decreased satisfaction.
+
+Of more concern, preliminary data for 2024 suggests a continuing decline in satisfaction, with an overall rate of 52.94% based on the 19 responses received by August 10, 2024. Notably, 11 of these
+responses were from victims, who rated the agency positively in only 26 out of 66 instances across the six categories. Looking further into the comments, it appears that these responses may have
+stemmed from one high-profile hearing in which the victims were unhappy with the Board’s decision to conditionally release a particular client.
+
+Factors Affecting Results
+Survey Tool Limitations: Using a single survey tool to gauge satisfaction across a variety of customer groups—such as case managers, victims, and clients—has proven challenging. In 2023, more
+than half of the respondents did not specify their customer persona, making it difficult to identify which aspects of our services most affect satisfaction. This lack of persona identification obscures
+insights into the diverse nature of our interactions with different customer segments.
+
+Nature of PSRB Services: For victims and clients, interactions with the PSRB primarily occur through contested hearings. Dissatisfaction with the decisions from these hearings can skew satisfaction
+scores, as feedback may be more reflective of the outcome than the quality of service provided. Moreover, victims and clients’ connection with PSRB is often indirect and involves intermediaries, such
+as legal representatives, treatment providers, and advocates, who directly interact with victims and clients. As a result, PSRB satisfaction levels may be influenced more by the quality of service
+provided by these intermediaries than by the PSRB itself. This dynamic complicates the PSRB’s ability to gauge satisfaction with its direct service, as issues experienced with intermediaries might
+skew perceptions of the PSRB’s overall service quality.
+
+Survey Timing: Surveys are distributed immediately after contested hearings and Board decisions, potentially leading to feedback focused on the outcome of the hearing rather than PSRB services.
+This timing issue may skew results towards dissatisfaction with decisions rather than the overall quality of the service provided.
+
+Data Loss: In 2023, the online survey administered to treatment providers during the Forensic Conference was compromised, resulting in the loss of all data from respondents. Given that treatment
+providers, who are frequent and valued customers, generally provide positive feedback, the absence of this data likely contributed to the lower satisfaction scores observed for 2023. The next
+opportunity to gather feedback from treatment providers will be at the 2024 conference in November.
+
+Staff Turnover: Significant staff turnover between 2022 and 2023, including the introduction of new Office Support Specialists, may have impacted service quality. The onboarding and training of new
+staff can lead to delays or inaccuracies in handling calls, emails, and other services. Although the timeliness of hearings was not affected, other services, such as the generation and distribution of
+Board orders faced challenges during this transition period.
+
+Future Directions: To address these issues, the PSRB is committed to refining its survey methodology as outlined in its Strategic Plan. Under the leadership of the Executive Director, a customer
+service improvement project was initiated in June 2024. This project aims to develop a more targeted survey approach, specifically for clients that is better tailored to their specific needs and services.
+The goal is modified survey questions that will better inform the PSRB and provide more actionable insights for improving our services.
+
+To the extent that the decline in satisfaction scores may reflect actual decreases in service quality, influenced by recent staff changes, ongoing efforts will focus on enhancing service delivery and
+ensuring that new staff are fully integrated to restore and improve overall service quality.
+KPM #5  BEST PRACTICES - Percent of total best practices met by the Board.
+                       Data Collection Period: Jan 01 - Dec 31
+
+                                                                       actual   target
+
+ Report Year       2020   2021   2022   2023   2024
+Percentage of Best Practices Met
+Actual         100%   100%   100%
+Target         95%   95%   95%   95%   95%
+
+How Are We Doing
+The Psychiatric Security Review Board (PSRB) consistently evaluates its adherence to best practices at the start of each calendar year, reviewing performance from the previous year. For 2023, the
+Board, in collaboration with staff, confirmed that it met all 15 surveyed categories 100% of the time.
+
+Historically, the PSRB reported this performance measure on a biennial basis, surveying Board members in the fall of even-numbered years. However, starting in 2021, the Board began annual
+reporting. The PSRB achieved its target on this measure in 2016, 2018, 2020, 2021, and 2022, with performance exceeding the target goal of 95% and reaching 100% in 2022. This strong
+performance continued into 2023.
+Factors Affecting Results
+The PSRB's consistent adherence to best practices is supported by robust communication and a commitment to transparency. The executive director plays a crucial role in keeping Board members
+informed about significant matters, including the agency’s adherence to best practices. This open communication is vital, as many Board members are professionals with full-time responsibilities
+outside the Board. They rely on the executive director’s reports and quarterly administrative meetings to stay informed about staff accomplishments and best practice methods.
+
+Regular consulting between Board staff and the Board chair further reinforces the Board’s commitment to best practices. However, potential challenges include Board member transitions at the end of
+terms. New members often face a steep learning curve. To address this, the PSRB provides targeted training, information, and updates to both new and returning Board members prior to the best
+practices survey. The executive director's updates are tailored to support new members in their roles and ensure they are well-informed about the agency’s practices and expectations. This approach
+helps mitigate knowledge gaps and maintains the Board’s high standards of performance

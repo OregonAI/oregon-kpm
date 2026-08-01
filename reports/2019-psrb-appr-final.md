@@ -1,0 +1,404 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: 2019-psrb-appr-final
+title: Psychiatric Security Review Board — Annual Performance Progress Report, Reporting Year 2019
+doc_type: performance_report
+citation: APPR PSYCHIATRIC-SECURITY-REV 2019
+authority_level: agency_report
+issuing_body: Psychiatric Security Review Board
+agency: Psychiatric Security Review Board
+agency_code: null
+reporting_year: '2019'
+year_source: document
+text_source: pdf-text
+filename_year: '2019'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/2019%20PSRB%20APPR%20Final.pdf
+source_filename: 2019 PSRB APPR Final.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: cd985440aaa78dddc83e4adf91e7dfffb7e6226fa769656a3684bd27cb69c00d
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2019
+---
+
+## At a glance
+
+**APPR PSYCHIATRIC-SECURITY-REV 2019** — Psychiatric Security Review Board, Reporting Year 2019
+
+- Agency: Psychiatric Security Review Board
+- Reporting year: 2019 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `2019 PSRB APPR Final.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Psychiatric Security Review Board
+Annual Performance Progress Report
+Reporting Year 2019
+Published: 10/2/2019 4:35:56 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+RECIDIVISM RATE
+- Percentage of clients on conditional release per year convicted of a new felony or misdemeanor.
+TIMELINESS OF HEARINGS
+- Percentage of hearings scheduled within statutory timeframes.
+MAINTENANCE OF RELEASED CLIENTS
+- Percentage of conditional releases maintained in community per month.
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+BEST PRACTICES
+- Percent of total best practices met by the Board.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+0%
+0%
+100%
+red
+green
+yellow
+KPM #1
+RECIDIVISM RATE
+- Percentage of clients on conditional release per year convicted of a new felony or misdemeanor.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Adults
+Actual
+0.44%
+0.22%
+0.45%
+0.47%
+No Data
+Target
+3%
+0.75%
+0.25%
+0.25%
+0.25%
+How Are We Doing
+For purposes of this Key Performance Measure, the Psychiatric Security Review Board’s recidivism rate reflects the number of individuals under PSRB supervision and on conditional release who
+are convicted of a new felony or misdemeanor. A lower recidivism rate means better performance and fewer new crimes being committed by PSRB patients. The cumulative recidivism rate (including
+juveniles) from reporting years 2011 through 2018 was 0.58%. In 2016, the Board’s recidivism rate sat at .0%. For 2017, the legislature reduced the recidivism goal to from .75% to .25% (and, as of
+2019, the Board no longer separates this measure into adult and juvenile components). Two patients per year were adjudicated for offenses while on supervision during 2017 and 2018. As such,
+the rates for those years were .46% and .47%, respectively.
+The Board’s 2018 recidivism rate compares favorably to the Board's new goal of a .25% or smaller recidivism rate. As noted above, however, a year in which more than one patient than before
+commits a new offense skews the numbers and causes the Board to fail to reach its goal in this area. The Board continues to welcome its ambitious .25% recidivism  goal and strives for this
+measure to be zero every year. Unfortunately, years in which no patients commit new crimes are not always possible; however, of the 430 PSRB patients on conditional release during 2018, 428
+were not adjudicated for any new offenses that year. Had that number been 429 out of 430, the recidivism rate would have been .23%. Just one additional offense can cause the Board to miss its
+target, but even in these cases, the recidivism rate remains extremely low.
+As always, the Board's success on this measure depends on the availability of psychiatric services, and on appropriate patient treatment, supervision, and monitoring. Despite the higher-than-
+desired recidivism rate compared to its goal, PSRB's recidivism rate remains well below the average 20-30% rate for those individuals released into the community and placed on post-prison
+supervision by the Department of Corrections.
+actual target
+As is the case each year, the Board is submitting this report before the end of 2019, so full statistics for that year were not available as of this report’s submission.
+Factors Affecting Results
+The Board has created a variety of interventions to monitor independently both its patients’ status on conditional release and its treatment providers’ efficacy. Every individual on conditional release
+has an assigned case manager who is responsible for ensuring the patient receives the services he/she needs and reports to the Board any safety or non-compliance concerns. Board staff
+members correspond with case managers daily and take appropriate action or otherwise implement best practice interventions to ensure public and patient safety. The Board also uses the Oregon
+State Police Department's Law Enforcement Data System (LEDS), which notifies the Board if a patient has any police contact whatsoever, even if the patient is a victim. Helpfully, for more than a
+decade, the legislature has invested in community mental health programs, providing a continuum of care that the Board and its partners use to stabilize patients in the community and return them
+to psychiatric baseline. Funding for these interventions remains critical for this population to remain safe and stable in the community.
+The Board's collaborative relationship with the Oregon State Hospital is similarly crucial, since the Board needs accurate and current patient information to have a solid basis for its conditional
+release decisions. In addition, the hospital must provide its patients with a base of skills and treatment that will help them function successfully in the community. This training does its part to
+contribute to the Board’s overall low recidivism rate.
+In addition to the hospital’s contribution, community mental health agencies overseeing patients on conditional release must also provide the structure, support, and supervision necessary to
+successfully maintain the patient in the community. Finally, the Board relies on the Oregon Health Authority and Department of Human Services to ensure that the licensed residential facilities
+serving patients under the Board's jurisdiction meet minimum health and safety standards. This support and enforcement from OHA and DHS produces providers who are better prepared to help
+patients make appropriate choices, producing safe, stable patients who will, in most cases, not commit another offense.
+KPM #2
+TIMELINESS OF HEARINGS
+- Percentage of hearings scheduled within statutory timeframes.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2015
+2016
+2017
+2018
+2019
+a. Adults
+Actual
+98.56%
+98.33%
+98.44%
+98.23%
+No Data
+Target
+95%
+97%
+97%
+98%
+98%
+b. Juveniles
+Actual
+95%
+100%
+92.86%
+60%
+No Data
+Target
+95%
+97%
+97%
+97%
+97%
+How Are We Doing
+The Board is currently exceeding its timeliness target for adult hearings, holding more than 98% of its adult hearings within statutory time frames between 2014 and 2018. Over the same period, the
+Board held 91.11% of its juvenile meetings on time. This was short of the Board’s goal, but is subject to large changes, given that the Board set only 14 juvenile hearings in 2017 and five in 2018. In
+the latter year, the timeliness rate suffered two hearings were late. While it is true that one of those hearings missed the deadline, it is also true that one hearing can have an outsized effect on the
+“timeliness” performance measure given the small number of juvenile patients under Board jurisdiction.
+Board hearings involve decisions that allow patients to move through the continuum of care, ensuring that those under supervision are in the appropriate placement under the circumstances. This
+allows for efficient and effective bed use, at Oregon State Hospital and in the community. Given that only one state (Connecticut) has a similarly-run Board, the Board is unaware of any comparable
+public or private industry standards.
+This report will be submitted before the end of 2019, so that year's statistics were not available. The Board met its 2018 adult goal, with 98.23% of its hearings on time. Though the Board missed its
+2018 juvenile goal, with five hearings set, any deviation from perfection renders the 97% goal unreachable.
+Factors Affecting Results
+Demand for hearings relates directly to the number of patients under Board jurisdiction. The Board has no control or influence over whether these patients ask for hearings, so when significantly
+more patients were suddenly placed under Board jurisdiction in 2018, the possibility opened that patient demand might begin to cause an overload on hearings days, which could affect the Board's
+actual target
+performance on hearings timeliness. Also, the addition of more patients requires more periodic hearings, increasing the size of the docket as more patients' hearing dates arise simultaneously.
+Witness availability also affects hearings timeliness. The Board cannot complete hearings without available prescribers or timely case reports generated by outside agencies, so there is a degree to
+which the Board remains dependent on these others for timely hearings scheduling. The Board’s staff has done an outstanding job ensuring that all required parties are present for hearings,
+reducing this problem to insignificance, but it could still have an effect in the future. Board member availability can be a factor for the juvenile panel; the miniscule number of clients leads to few
+hearing days, and if the Board members haven’t kept potential hearing days open, empaneling three of them can be a challenge.
+In order to meet this performance measure, the Board must have an effective docketing system, possibly involving additional technology, along with stability in staff size.
+KPM #3
+MAINTENANCE OF RELEASED CLIENTS
+- Percentage of conditional releases maintained in community per month.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2015
+2016
+2017
+2018
+2019
+a. Adults
+Actual
+99.29%
+99.37%
+99.43%
+99.43%
+No Data
+Target
+99%
+99%
+99%
+99%
+99%
+b. Juveniles
+Actual
+98.08%
+97.92%
+96.05%
+94.74%
+No Data
+Target
+99%
+99%
+99%
+97%
+97%
+How Are We Doing
+The Board has met this goal consistently over the past twelve years, maintaining adult patients on conditional release at a minimum of 99% in every month but two. Even in those months, however,
+the difference between the Board’s performance and its goal was insignificant: in one case, 98.9% of patients were maintained on conditional release; in the other, the number was 98.91%. Since
+the Board is submitting this report before the end of 2019, 2018 is the last year for which statistics are available. In 2018, the Board maintained 99.43% of adult patients on conditional release
+during the average month.
+For juveniles, the Board's performance was 94.74%, with an average of 4.75 patients on conditional release. Like with the adult population, the PSRB revokes the conditional release of roughly two
+juvenile patients per month. Even half that many affects maintenance statistics significantly, and yet, the juvenile Board’s record remains near 95% maintained on conditional release. In addition, the
+cyclical nature of the mental illness treatment cycle makes revocations an inevitable, and sometimes necessary part, of helping to re-orient patients during their recovery.
+Factors Affecting Results
+The Board has a five layer review process prior to approving a patient's conditional release from Oregon State Hospital. The Board conditionally releases only those patients it believes can be
+safely managed in the community. Usually, both hospital staff and community mental health providers agree whether the individual can be safely supervised in the proposed community setting.
+Completing this process successfully helps the patient, in turn, be successful.
+Other factors that could affect the Board's score on this performance measure include its access to community services, housing, and treatment, so that when patients experience a recurrence or
+actual target
+increase in symptoms, the Board can increase their level of care and monitoring (called a “step-up) without revoking conditional release. The Board has more such options when community mental
+health and housing resources are funded fully, allowing it to reserve revocation for those who truly need hospital level of care.
+As in years past, the collaboration among the Board and the 36 county mental health authorities, OSH, OHA, and DHS prioritizes the funding of mental health and developmental disability services
+to the PSRB population so that individuals can remain safely in the community setting.
+KPM #4
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall customer service, timeliness, accuracy,
+helpfulness, expertise and availability of information.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2015
+2016
+2017
+2018
+2019
+Helpfulness
+Actual
+93%
+97.18%
+88.99%
+82.61%
+No Data
+Target
+95%
+95%
+95%
+95%
+95%
+Expertise
+Actual
+96%
+100%
+88.29%
+86.96%
+No Data
+Target
+95%
+95%
+95%
+95%
+95%
+Availability of Information
+Actual
+84.16%
+94.29%
+80%
+69.57%
+No Data
+Target
+85%
+85%
+85%
+90%
+90%
+Overall
+Actual
+98.06%
+98.59%
+87.27%
+91.30%
+No Data
+Target
+95%
+95%
+95%
+95%
+95%
+Accuracy
+Actual
+91.09%
+91.43%
+85.19%
+91.30%
+No Data
+Target
+90%
+90%
+90%
+90%
+90%
+Timeliness
+Actual
+91.18%
+95.77%
+83.49%
+87.50%
+No Data
+Target
+85%
+85%
+85%
+95%
+95%
+How Are We Doing
+actual target
+After an overall 2017 customer service score (surveys taken in 2018) of 87.27% positive responses, Board staff worked diligently to improve for 2018, in a 2018 overall customer service
+performance score of 91.3%. While this number has still not rebounded fully to the 95% goal, the Board considers the 4.6% year-over-year improvement significant. Because the Board was
+recruiting for a new executive director at the time, it did not hold its annual conference in spring 2018; however, with a new executive director on Board, the conference returned in spring 2019. With
+the conference’s return, the Board returned to its practice of surveying its stakeholders after the spring conference, when it can be confident the stakeholders—including, for example, new case
+managers—have all received the same information and have a high level of knowledge about the Board’s services and staff: knowledge that, generally, helps respondents feel more comfortable
+answering the Board’s questions. In order to reach and exceed the 95% threshold over the next year, the Board will continue with its staff training, infrastructure improvements, and strategic plan
+implementation, to help improve all the customer service scores during the next reporting period.
+Factors Affecting Results
+The Board's many customers include persons under supervision, victims, law enforcement, mental health, and developmental disability agencies, along with Oregon State Hospital staff and
+community mental health programs. To satisfy these stakeholders, agency leadership educates and trains its staff, through professional development days and paid, job-related courses, for
+example; and educates external stakeholders through PSRB conferences, personal appearances by the executive director, and in-person and online courses. These efforts continue to increase
+providers' familiarity with the PSRB and its procedures, producing more satisfied customers. The Board has improved the number and quality of resources available on its website, giving easy
+access to information for providers according to their needs. The Board’s biggest single training and education opportunity remains the PSRB’s annual conference. According to survey data
+(reflecting 2018 data), the 2019 conference was an enormous success.
+Finally, as before, by their very nature, some of the Board's decisions are unpopular with stakeholders. The Board is responsible for all placement and restriction decisions for those under the
+Board's jurisdiction. As such, our customers: patients; hospital staff; community mental health providers; persons under the criminal justice system; victims; or members of the general public may not
+like the Board's decisions, which can affect overall satisfaction scores, producing lower ratings. Nevertheless, the Board believes that legally correct decisions resulting from sound evidence and
+careful and thorough deliberation demonstrate and fulfill the Board's commitment to public safety and recovery.
+KPM #5
+BEST PRACTICES
+- Percent of total best practices met by the Board.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Percentage of Best Practices Met
+Actual
+No Data
+100%
+No Data
+97.33%
+No Data
+Target
+90%
+91%
+91%
+95%
+95%
+How Are We Doing
+The Psychiatric Security Review Board has reached its goal on this performance measure during each period beginning with 2010, including in 2018. The Board members' consensus, according to
+the 2016 score card/survey, was that the agency had exceeded its new best practices target of 95% (up from 91% previously) with a score of 97.33%. The Board is unaware of any comparable
+public or private industry standards to which to compare these results, and while  100% would be ideal, 97.33% is still an excellent result, irrespective of what other, similar organizations would have
+accomplished under this same Key Performance Measure.
+Factors Affecting Results
+The executive director maintains transparency with the Board, keeping them informed on significant matters, including the agency's best practices and the Board's use of them. The key component
+of this performance measure is the open and deliberate communication the executive director has with the Board. Because the Board is made up largely of professionals with full-time jobs,
+practices, or other interests, they are not with PSRB staff day-to-day. For this reason, the executive director's reports are the best way for the Board to track what agency staff are accomplishing
+and how they are going about it. Quarterly administrative meetings and regular consulting between Board staff and the Board’s adult and juvenile panel chairpersons facilitates the Board's
+continued best practices implementation.
+Many of the Board’s best practices revolve around the budget, which is effective for two years at a time. As such, typically, the Board completes the survey every two years, producing a more
+complete survey result.
+Adding new Board members could affect this survey result in the future, if they take the survey before completing their onboarding training. To avoid this knowledge gap, PSRB strengthened its
+actual target
+individual training curriculum, providing more information and updates to new and returning Board members prior to distributing the best practices survey. The agency augments this training with the
+executive director's regular updates, as mentioned above.

@@ -71,8 +71,45 @@ REPORTS = ROOT / "reports"
 SNAPSHOTS = ROOT / "_meta" / "snapshots"
 OUT = ROOT / "_meta" / "series.json"
 
-KPM_HEAD = re.compile(r"^KPM #(\d+)[ \t]*$", re.M)
+# A KPM heading. The number may be followed by end-of-line, OR by the measure title on the
+# SAME line -- 24 documents do the latter, and 10 of them put EVERY heading inline, so the
+# original `[ \t]*$` found no blocks at all in them and the whole document produced no rows.
+# `KPM ?#` because some drop the space (`KPM#2 Traffic Incident Management`).
+#
+# THE UPPERCASE LOOKAHEAD IS LOAD-BEARING, not decoration. `KPM #\d+\b` alone also matches
+# PROSE that cites a measure mid-sentence, and two documents do exactly that:
+#
+#     appr-dlcd-2024        "KPM #14 documents how much land has been removed from ..."
+#     appr-dor-2017-09-29   "KPM #1 for more details). Contingency planning for ..."
+#
+# Both would have opened a spurious block that swallowed the narrative following it. A real
+# heading is followed by a title, which is capitalised; a citation is followed by a lowercase
+# verb or preposition. Measured across all 779 snapshots: +151 headings, 24 documents, and
+# zero prose matches remaining.
+#
+# The page-1 summary table header `KPM# Approved Key Performance Measures (KPMs)` cannot
+# match either way -- there is no digit after the `#`.
+# `|(?=[A-Z][a-zA-Z])` -- THE SPACE IS SOMETIMES NOT THERE AT ALL. Eight documents run the
+# number straight into the title (`KPM #7PERCENTAGE OF PRIVATE FORESTLAND ...`), and
+# appr-ltco-2017-09-18 does it to EVERY heading, which is why that document reports
+# "no 'KPM #n' blocks" and contributes zero rows.
+#
+# TWO LETTERS ARE REQUIRED, not one. Five Treasury reports number their measures `KPM #2A`
+# and `KPM #2B`; a one-letter lookahead reads those as KPM 2 with the title starting "A",
+# merging two distinct measures onto one number. `[A-Z][a-zA-Z]` matches `7PERCENTAGE` and
+# `2Average` and refuses `2A` followed by space or end of line, so those blocks stay
+# unmatched -- a known gap rather than a collision.
+KPM_HEAD = re.compile(r"^KPM ?# ?(\d+)(?:[ \t]*$|[ \t]+(?=[A-Z])|(?=[A-Z][a-zA-Z]))", re.M)
 YEAR = re.compile(r"^((?:19|20)\d{2})$")
+# The label that opens the year run. `Metric` is the SAME layout under a different word, used
+# by 10 RY2016 documents (LUBA, PUC, BOLI, SoS, ODF, OPRD, OMB, OTLB, OBMI ...). The parser
+# walked off the end of every one of those blocks and returned None, discarding 615 complete,
+# unambiguous, full-length value runs -- not a truncation, an entire layout unread.
+#
+# The negative lookahead matters: these documents ALSO print `Metric Value` as a column
+# heading further down, and matching that as the start of the year run would begin the run in
+# the wrong place.
+SERIES_HEAD = re.compile(r"^(?:Report Year|Metric(?! +Value))", re.I)
 DCP = re.compile(r"Data Collection Period[:\s]*(.*)", re.I)
 STOP = re.compile(r"^(How Are We Doing|About the Targets|Factors Affecting)", re.I)
 # A value cell: a number, a percentage, a currency amount, or an EXPLICIT NON-VALUE the
@@ -102,15 +139,135 @@ def norm_measure(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", text.lower()).strip()
 
 
-def parse_block(lines: list[str]) -> dict | None:
+def align_by_column(raw_line: str, start: int, year_cols: list[float],
+                    n_years: int) -> list[str] | None:
+    """Assign a short value run to year columns by x-position. None if ambiguous.
+
+    THIS IS THE ONLY SAFE WAY TO PLACE A PARTIAL ROW. pypdf emits nothing for a blank table
+    cell, so `Actual 73% 73% 73%` under five years could mean the first three years or the
+    last three -- and measured across 60 documents it is genuinely both: 406 runs are missing
+    trailing years, 195 are missing the first four, and 52 alternate (0,2,4), the signature of
+    a survey the agency runs biennially. A fill heuristic would be wrong in a large minority
+    of cases, silently, attaching real numbers to the wrong years.
+
+    REFUSING IS PART OF THE DESIGN. If any value lands more than 60% of a column pitch from
+    every year, or two values claim the same year, this returns None and the run stays
+    unparsed. An unparsed run is a known gap; a misaligned one is a false fact.
+    """
+    body = raw_line[start:]
+    # ACCOUNTING PARENTHESES ARE A SIGN, AND THE VALUE PATTERN DROPS THEM. `($14.00)` would be
+    # read as `$14.00` -- the same magnitude with the opposite sign, which is a false fact, not
+    # a gap. One cell in the corpus does this (dsl-appr-final11-04-16 KPM #3, 2016, where the
+    # narrative confirms "a corresponding deflation in FY16"), so the run is refused rather
+    # than have the sign invented or silently lost.
+    if re.search(r"\(\s*\$?-?[\d,]+(?:\.\d+)?%?\s*\)", body):
+        return None
+    got = [(m.group(), (m.start() + m.end()) / 2 + start)
+           for m in re.finditer(rf"\$?-?[\d,]+(?:\.\d+)?%?|{NON_VALUE}", body, re.I)]
+    if not got or len(got) > n_years:
+        return None
+    pitch = ((year_cols[-1] - year_cols[0]) / max(1, len(year_cols) - 1)) if year_cols else 0
+    if pitch <= 0:
+        return None
+    out: list[str | None] = [None] * n_years
+    for val, vx in got:
+        dists = [abs(vx - cx) for cx in year_cols]
+        j = dists.index(min(dists))
+        if min(dists) > pitch * 0.6 or out[j] is not None:
+            return None
+        out[j] = val
+    # A cell the agency left blank is NOT the same fact as a value we failed to read, and the
+    # corpus already distinguishes those: `No Data` is carried as a value because the agency
+    # wrote it. An empty column is recorded as null for the same reason.
+    return out
+
+
+# --- variant knobs -------------------------------------------------------
+
+def count_embeddings(short, long, cap=2):
+    """How many ways `short` embeds in `long` as a subsequence, capped."""
+    dp = [1] + [0] * len(short)
+    for v in long:
+        for j in range(len(short) - 1, -1, -1):
+            if short[j] == v:
+                dp[j + 1] = min(cap, dp[j + 1] + dp[j])
+    return dp[len(short)]
+
+
+LAYOUT_GAP_HEAD = re.compile(r"^KPM ?# ?(\d+)(?:[ \t]*$|[ \t]+(?=[A-Z])|[ \t]{2,}\S|(?=[A-Z][a-zA-Z]))")
+
+
+def layout_series_head(s):
+    if SERIES_HEAD.match(s):
+        return True
+    col = re.sub(r"\s+", "", s[:20]).lower()
+    return col.startswith("reportyear") or (
+        col.startswith("metric") and not col.startswith("metricvalue"))
+
+
+def layout_runs(path):
+    """{kpm: [entry, ...]} where entry = {'a': aligned|None, 'label': str|None}."""
+    if not path.is_file():
+        return {}
+    out = {}
+    kpm, cols, n, label, cur = None, [], 0, None, None
+    for raw in path.read_text().splitlines():
+        s = raw.strip()
+        m = LAYOUT_GAP_HEAD.match(s)
+        if m:
+            kpm, cols, label, cur = m.group(1), [], None, None
+            continue
+        if kpm is None:
+            continue
+        if layout_series_head(s):
+            ys = list(re.finditer(r"(?:19|20)\d{2}", raw))
+            cols = [(y.start() + y.end()) / 2 for y in ys]
+            n = len(ys)
+            label, cur = None, None
+            continue
+        tok = s.split()[0].rstrip(":") if s else ""
+        # THE ROW LABEL IS `Actual`, CAPITAL A. Lowercase `actual` at the start of a line is
+        # the chart legend (`actual   target`, 6,424 of them) or narrative prose (10), never a
+        # data row: 11,329 capitalised vs 6,434 lowercase, and no counter-example either way.
+        if tok == "Actual":
+            e = {"label": label, "a": None, "t": None}
+            if cols:
+                start = re.match(r"\s*", raw).end() + len("Actual")
+                e["a"] = align_by_column(raw, start, cols, n)
+            out.setdefault(kpm, []).append(e)
+            label, cur = None, e
+            continue
+        # The `Target` row belongs to the `Actual` row above it. Reading it here is what lets
+        # the target carry the SAME year alignment as the actual instead of being indexed
+        # positionally off a run of a different length.
+        if tok == "Target":
+            if cur is not None and cols:
+                start = re.match(r"\s*", raw).end() + len("Target")
+                cur["t"] = align_by_column(raw, start, cols, n)
+            label, cur = None, None
+            continue
+        if tok.lower() == "target":
+            label, cur = None, None
+            continue
+        if s and not VALUE.match(s) and len(s) < 120:
+            label = s
+    return out
+
+
+def parse_block(lines: list[str], raw: list[str] | None = None) -> dict | None:
     """One `KPM #n` block -> {measure, dcp, years, runs:[{submeasure, actual, target}]}."""
-    kpm_no = lines[0].split("#")[1].strip()
-    title, dcp, years = [], None, []
+    h = re.match(r"KPM ?# ?(\d+)[ \t]*(.*)", lines[0].strip())
+    kpm_no = h.group(1)
+    # THE TITLE MAY BE ON THE HEADING LINE. 24 documents print it there, and dropping it left
+    # 380 rows with an EMPTY measure_key and 95 more keyed on `upward trend positive result`
+    # -- the boilerplate line that follows the heading. Distinct measures then collapsed onto
+    # one key, which is where `intra_document_conflicts` (asserted to be zero) got its 5.
+    title, dcp, years = ([h.group(2)] if h.group(2) else []), None, []
     i = 1
     # --- header: title lines until Data Collection Period or Report Year
     while i < len(lines):
         l = lines[i].strip()
-        if re.match(r"^Report Year", l) or DCP.search(l):
+        if SERIES_HEAD.match(l) or DCP.search(l):
             break
         if l and not STOP.match(l):
             title.append(l)
@@ -119,7 +276,7 @@ def parse_block(lines: list[str]) -> dict | None:
     if i < len(lines) and DCP.search(lines[i]):
         d = DCP.search(lines[i]).group(1).strip()
         j = i + 1
-        while j < len(lines) and not re.match(r"^Report Year", lines[j].strip()) \
+        while j < len(lines) and not SERIES_HEAD.match(lines[j].strip()) \
                 and not YEAR.match(lines[j].strip()) and lines[j].strip():
             if lines[j].strip().lower() not in LABELS:
                 d += " " + lines[j].strip()
@@ -129,13 +286,21 @@ def parse_block(lines: list[str]) -> dict | None:
         dcp = re.sub(r"\s+", " ", d).strip(" -") or None
         i = j
     # --- the year run, either inline after the label or one per line
-    while i < len(lines) and not re.match(r"^Report Year", lines[i].strip()):
+    while i < len(lines) and not SERIES_HEAD.match(lines[i].strip()):
         i += 1
     if i >= len(lines):
         return None
     inline = re.findall(r"((?:19|20)\d{2})", lines[i])
+    year_cols: list[float] = []
     if inline:
         years = inline
+        # Column centres from the LAYOUT line, which preserves x-positions. Absent when the
+        # caller had no layout sidecar, in which case alignment is simply not attempted.
+        if raw is not None and i < len(raw):
+            year_cols = [(m.start() + m.end()) / 2
+                         for m in re.finditer(r"(?:19|20)\d{2}", raw[i])]
+            if len(year_cols) != len(years):
+                year_cols = []
         i += 1
     else:
         i += 1
@@ -172,7 +337,10 @@ def parse_block(lines: list[str]) -> dict | None:
                 runs.append(cur)
                 cur = {}
             continue
-        if l and not VALUE.match(l) and len(l) < 120:
+        # `Metric Value` is a COLUMN HEADING in the Metric-layout documents, printed between
+        # the year run and the first Actual. Left alone it becomes pending_label and every
+        # one of those measures is filed under a submeasure the agency never named.
+        if l and not VALUE.match(l) and len(l) < 120 and l.lower() != "metric value":
             pending_label = l
         i += 1
     if cur.get("actual"):
@@ -204,8 +372,18 @@ def rows_for_document(md_path: Path) -> tuple[list[dict], list[str]]:
     txt = SNAPSHOTS / f"{fm['id']}.txt"
     if not txt.is_file():
         return [], [f"{fm['id']}: no snapshot text"]
+    # THE READING-ORDER TEXT REMAINS PRIMARY. Parsing the layout sidecar wholesale was tried
+    # and is worse: 39,242 rows -> 28,124. It carries page furniture that `<id>.txt` has
+    # stripped, and pypdf reports "Rotated text discovered. Output will be incomplete." on
+    # some documents, so it loses more structure than its geometry recovers.
+    #
+    # Geometry is therefore consulted ONLY for runs that fail the length gate, via a lookup
+    # keyed on KPM number and run ordinal. Both parses walk the same blocks of the same
+    # document in the same order, so the ordinal is stable; anything that does not line up
+    # falls through and the run stays unparsed, exactly as before.
     text = txt.read_text()
     lines = text.splitlines()
+    aligned_runs = layout_runs(SNAPSHOTS / f"{fm['id']}.layout.txt")
     starts = [m.start() for m in KPM_HEAD.finditer(text)]
     if not starts:
         return [], [f"{fm['id']}: no 'KPM #n' blocks"]
@@ -218,6 +396,10 @@ def rows_for_document(md_path: Path) -> tuple[list[dict], list[str]]:
     def line_of(off): return next(n for p, n in reversed(offs) if p <= off)
 
     rows, problems = [], []
+    # Which Actual run within a KPM block we are on, so the geometry lookup addresses the
+    # same run the primary parse is holding. Incremented for every run, recovered or not.
+    actual_ordinal: dict[str, int] = defaultdict(int)
+    recovered = 0
     bounds = [line_of(s) for s in starts] + [len(lines)]
     for b in range(len(bounds) - 1):
         blk = lines[bounds[b]:bounds[b + 1]]
@@ -227,17 +409,91 @@ def rows_for_document(md_path: Path) -> tuple[list[dict], list[str]]:
             continue
         for run in parsed["runs"]:
             act, tgt = run.get("actual") or [], run.get("target") or []
+            cand = aligned_runs.get(parsed["kpm_number"], [])
+            ordn = actual_ordinal[parsed["kpm_number"]]
+            pick = None
+            if run.get("submeasure") and not str(
+                    run["submeasure"]).startswith("unlabelled run "):
+                want = norm_measure(run["submeasure"])
+                hits = [e for e in cand if e["label"]
+                        and norm_measure(e["label"]) == want]
+                if len(hits) == 1:
+                    pick = hits[0]
+            if pick is None and ordn < len(cand):
+                pick = cand[ordn]
             # THE GATE. A series whose length disagrees with the year run is misaligned,
             # and a misaligned series attaches real numbers to the wrong years -- which
             # reads as data rather than as an error. Same shape as the appropriations
             # extractor's gate, for the same reason.
             if len(act) != len(parsed["years"]):
-                problems.append(
-                    f"{fm['id']} KPM #{parsed['kpm_number']}"
-                    f"{'/' + run['submeasure'] if run.get('submeasure') else ''}: "
-                    f"{len(act)} actual(s) vs {len(parsed['years'])} year(s)")
-                continue
+                # SECOND CHANCE, FROM GEOMETRY. The values are short because pypdf emits
+                # nothing for a blank cell, not because the measure is unreadable. If the
+                # layout sidecar places this same run's values into year columns
+                # unambiguously, the run is recovered with nulls where the agency printed
+                # nothing. Anything ambiguous never reaches here -- align_by_column returns
+                # None -- so a failure to recover leaves the run exactly as unparsed as it
+                # was, never misaligned.
+                ok = False
+                if pick is not None and pick["a"] is not None \
+                        and len(pick["a"]) == len(parsed["years"]):
+                    nn = sum(x is not None for x in pick["a"])
+                    if nn == len(act):
+                        ok = True
+                    elif len(act) == 0 and nn > 0:
+                        ok = True
+                    elif len(act) and nn > len(act):
+                        # THE SHORT RUN MUST EMBED IN THE GEOMETRIC RUN EXACTLY ONE WAY.
+                        # pypdf's reading order drops individual cells -- most often the ones
+                        # printed WITHOUT decimals, so `4.10 3.90 3.70 4 3.80` arrives as four
+                        # values with the bare `4` gone (appr-dcbs-2018-12-21 KPM #3, verified
+                        # against the page: the 2017 cell really is printed `4`). The values it
+                        # does keep stay in order, so the two runs agree iff the short one is a
+                        # subsequence of the long one -- and the placement is only determined if
+                        # that subsequence embeds a SINGLE way. Two embeddings means two possible
+                        # year assignments, so the run stays unparsed.
+                        got = [x for x in pick["a"] if x is not None]
+                        n_emb = count_embeddings(act, got)
+                        lab_ok = True
+                        if pick["label"] and run.get("submeasure"):
+                            lab_ok = (re.sub(r"[^a-z0-9]", "", pick["label"].lower())
+                                      == re.sub(r"[^a-z0-9]", "",
+                                                str(run["submeasure"]).lower()))
+                        ok = n_emb == 1 and lab_ok
+                if ok:
+                    act = pick["a"]
+                    recovered += 1
+                else:
+                    problems.append(
+                        f"{fm['id']} KPM #{parsed['kpm_number']}"
+                        f"{'/' + run['submeasure'] if run.get('submeasure') else ''}: "
+                        f"{len(act)} actual(s) vs {len(parsed['years'])} year(s)")
+                    actual_ordinal[parsed["kpm_number"]] += 1
+                    continue
+            actual_ordinal[parsed["kpm_number"]] += 1
+            # THE TARGET NEEDS THE SAME GATE THE ACTUAL HAS. `tgt[k]` indexes a run that may
+            # be SHORTER than the year run, which silently attaches a target to the wrong
+            # year -- 2,193 rows in the corpus before this change. Recovered from geometry
+            # where the layout places it unambiguously; refused (null) otherwise, because a
+            # target on the wrong year is a false fact and a missing target is a gap.
+            if len(tgt) != len(parsed["years"]):
+                lt = pick["t"] if pick else None
+                ok_t = False
+                if lt is not None and len(lt) == len(parsed["years"]):
+                    nn = [x for x in lt if x is not None]
+                    ok_t = (len(nn) == len(tgt) and nn == tgt) or \
+                           (not tgt and bool(nn)) or \
+                           (len(tgt) and len(nn) > len(tgt)
+                            and count_embeddings(tgt, nn) == 1)
+                tgt = lt if ok_t else []
             for k, y in enumerate(parsed["years"]):
+                # A BLANK CELL IS NOT AN OBSERVATION. Positional alignment returns a
+                # full-length run with None where the agency printed nothing, which is what
+                # lets the length gate pass honestly instead of being bypassed. Emitting
+                # those as rows would turn "the agency did not report 2024" into a row
+                # asserting a null actual for 2024 -- a different claim, and one the source
+                # does not make. `No Data` still becomes a row, because the agency wrote it.
+                if act[k] is None:
+                    continue
                 rows.append({
                     "agency": fm.get("agency"),
                     "agency_doc": fm["id"],

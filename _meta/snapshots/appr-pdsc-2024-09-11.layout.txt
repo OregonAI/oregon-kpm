@@ -1,0 +1,201 @@
+Public Defense Services Commission
+                 Annual Performance Progress Report
+
+                        Reporting Year 2024
+
+                   Published: 9/11/2024 9:48:01 AM
+ KPM #       Approved Key Performance Measures (KPMs)
+
+1           APPELLATE CASE PROCESSING - Median number of days to file opening brief.
+2           CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+3           BEST PRACTICES FOR BOARDS AND COMMISSIONS - Percentage of total best practices met by Commission.
+4           TRIAL LEVEL REPRESENTATION - During the term of the OPDS contract, percent of attorneys who obtain at least 12 hours per year of continuing legal education credit in the area(s) of law in which they provide public defense representation.[1] [1]
+            Case types listed in the 2014-2015 Public Defense Legal Services Contract General Terms are: criminal cases, probation violations, contempt cases, civil commitment cases, juvenile cases, and other civil cases.
+            PARENT CHILD REPRESENTATION PROGRAM (PCRP) - Percent of PCRP attorneys who report spending approximately 1/3 of their time meeting with court appointed clients in cases which the attorney represents a parent or child with decision-
+5           making capacity.[1] [1] For a discussion on determining decision-making capacity, see The Obligations of the Lawyer for Children in Child Protection Proceedings with Action Items and Commentary, Oregon State Bar, Report of the Task Force on
+            Standards of Representation in Juvenile Dependency Cases (2014).
+
+                                                                                                                                              red
+                                                                                                                                              green
+                                                                                                                                              yellow
+
+ Performance Summary                                                                                                                                         Green                                                      Yellow                                                        Red
+
+                                                                                                                                                        = Target to -5%                                         = Target -5% to -15%                                           = Target > -15%
+Summary Stats:                                                                                                                                                  0%                                                        40%                                                         60%
+KPM #1                  APPELLATE CASE PROCESSING - Median number of days to file opening brief.
+                        Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                            actual     target
+
+  Report Year                                                                      2020                               2021                                2022                               2023                                2024
+Median Number of Days to File Opening Brief
+Actual                                                                              217                                256                                 210                                 205                                205
+Target                                                                              180                                180                                 180                                 180                                180
+
+How Are We Doing
+The Appellate Division neither gained nor lost ground during the 2023-24 fiscal year in its effort filing opening briefs in 180 days or less in at least half of its cases. The median filing date rose sharply
+to 256 days during the 2020-21 fiscal year due to a confluence of events: the disruption in productivity caused by instituting a primarily remote-work environment after a prolonged three-year period of
+increasing referrals without a corresponding increase in workforce capacity, which had accumulated an unprecedented number of open, unbriefed cases in the Criminal Appellate Section. The median
+filing date during the 2021-22 fiscal year fell to 210 days, as the Appellate Division’s attorneys and support staff adjusted to new conditions and focused on eliminating the backlog of cases, while
+pandemic-related conditions resulted in significantly fewer cases being resolved in the circuit court and referred for appeal. During the 2022-23 fiscal year, the Appellate Division maintained
+productivity and—despite that the number of cases referred each month for appeal have reached historical levels—further reduced the median filing date to 205 days.  During the 2023-24 fiscal year,
+the Appellate Division kept pace with the case referrals—neither allowing the backlog of cases to accumulate nor making significant gains toward its goal.
+
+Factors Affecting Results
+The ability to meet and exceed the goal correlates positively to the number of experienced attorneys and negatively to the number of cases and the complexity of cases referred. Attracting, training,
+and retaining competent attorneys affect progress toward the goal. The agency does not control the number or type of referred cases.
+KPM #2    CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+          helpfulness, expertise and availability of information.
+          Data Collection Period: Jan 01 - Dec 31
+
+                                                                  actual    target
+
+ Report Year                                                            2020                           2021                           2022                            2023                           2024
+Timeliness
+Actual                                                                 78.89%                           57%                                                                                          15%
+Target                                                                   95%                            95%                            95%                            95%                            95%
+Accuracy
+Actual                                                                 88.76%                           64%                                                                                          51%
+Target                                                                   95%                            95%                            95%                            95%                            95%
+Availability of Information
+Actual                                                                 70.97%                           46%                                                                                          34%
+Target                                                                   95%                            95%                            95%                            95%                            95%
+Overall
+Actual                                                                 77.89%                           46%                                                                                          18%
+Target                                                                   95%                            95%                            95%                            95%                            95%
+Helpfulness
+Actual                                                                 88.89%                           60%                                                                                          52%
+Target                                                                   95%                            95%                            95%                            95%                            95%
+Expertise
+Actual                                                                 85.71%                           60%                                                                                          47%
+Target                                                                   95%                            95%                            95%                            95%                            95%
+
+How Are We Doing
+The agency conducted the Customer Service Survey through SurveyMonkey via email to 1705 people which included all active public defense contract and hourly attorneys, all active contract
+administrators, and all interpreters, investigators and psychiatric experts that have billed OPDC since January 2023.  There were 184 people who responded to the survey with a 11% response rate.
+The survey asked 2 additional questions to assist the agency with who responded to the survey.  We asked how long they have been in their current role along with their position. Of the respondents
+38% are vendors and 32% are contract attorneys and most of the respondents have been in their current role for 10 or more years (44%) or 0-5 years (30%). The customer service survey has not
+been completed for the past 3 years.
+
+Factors Affecting Results
+The survey was disseminated in June 2024 at this time the agency was severely behind in processing Pre-Authorized Expense (PAE) requests and processing Accounts Payable payments. Overall,
+66% of respondents rated OPDC staff ability to provide services correctly the first time as fair or good.   The agency will be reviewing all comments received and looking to improve communication and
+processes.
+KPM #3           BEST PRACTICES FOR BOARDS AND COMMISSIONS - Percentage of total best practices met by Commission.
+                 Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                        actual     target
+
+  Report Year                                                                  2020                              2021                              2022                              2023                              2024
+Percentage of total best practices met
+Actual                                                                         100%                               57%                               73%                                                                 93%
+Target                                                                         100%                              100%                              100%                              100%                              100%
+
+How Are We Doing
+The Commission completed the DAS Self-Assessment of Best Practices for Boards and Commissions. The self- assessment survey was completed through SurveyMonkey via email and sent to 13
+commission members along with 14 staff members who have worked with or appeared before the commission. This self-assessment has not been completed since 2020.
+
+Commission members were surveyed on the 15 questions from the DAS Best Practices using a 5-point Likert scale, ranging from strongly agree to strongly disagree.  Those survey responses were
+then tabulated per question, with a score of 1 to 5.  Any question resulting in a score of above 3 was assigned a “Yes” on the DAS Best Practices. Overall, the Commission members self-assessment
+resulted in a score of higher than 3 for 14 out of 15 categories.
+
+Factors Affecting Results
+The existing Commission is a new Commission, having existed for less than nine months.  It was created by SB 337 (2023) and Commission members took their positions on January 1, 2024.  The
+Commission has 13 members, with 9 voting members and 4 non-voting members.
+
+The Commission has been attentive to establishing good governance and complying with best practices. In December 2023, prior to assuming their positions, Commission members attending an
+onboarding session that included a presentation on best practices for commissions.  In January, the Commission created a Governance Subcommittee to develop bylaws and improve agency
+governance. In March, the Commission held a two-day retreat which included an additional presentation on best practices for commissions and training relevant for public officials.  It also formally
+adopted bylaws at this time.
+The Governance Subcommittee has continued to meet monthly.  In October, the Subcommittee will discuss the DAS Self-Assessment in the more detail and determine what recommendations should
+be made to the full Commission.  The Commission will also re-evaluate its bylaws at the end of the year.
+           TRIAL LEVEL REPRESENTATION - During the term of the OPDS contract, percent of attorneys who obtain at least 12 hours per year of continuing legal education credit in the area(s) of law
+KPM #4     in which they provide public defense representation.[1] [1] Case types listed in the 2014-2015 Public Defense Legal Services Contract General Terms are: criminal cases, probation
+           violations, contempt cases, civil commitment cases, juvenile cases, and other civil cases.
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                           actual     target
+
+  Report Year                                                                     2020                               2021                                2022                               2023                               2024
+Percent of Attorneys with 12 CLE Credits Annually
+Actual                                                                            75%                                 69%                                                                                                       35%
+Target                                                                            90%                                 90%                                90%                                 90%                                90%
+
+How Are We Doing
+The survey was sent to 748 contract attorneys, and 266 (or 35%) of those attorneys responded.  Of the respondents, 89% reported obtaining at least 12 CLE credits related to public defense work in
+the fiscal year ending June 30, 2024.
+
+Factors Affecting Results
+Until this year, OPDC had not collected survey data for this measure since that collected for the 2020 calendar year.  Under OPDC’s 2023-2025 public defense legal services contracts, attorneys
+working under those contracts are required to complete 12 hours of CLE credit related to the subject matter areas for which they are contracted (e.g., criminal or juvenile cases) during the two-year
+contract period.  Of those attorneys who did not respond and those who responded that they had not completed 12 hours of relevant CLE credit in the previous year, many of those have likely
+completed some lesser number of relevant CLE credit hours and/or will likely fulfill this obligation prior to the expiration of the current contracts on June 30, 2025.
+           PARENT CHILD REPRESENTATION PROGRAM (PCRP) - Percent of PCRP attorneys who report spending approximately 1/3 of their time meeting with court appointed clients in cases
+KPM #5     which the attorney represents a parent or child with decision-making capacity.[1] [1] For a discussion on determining decision-making capacity, see The Obligations of the Lawyer for Children
+           in Child Protection Proceedings with Action Items and Commentary, Oregon State Bar, Report of the Task Force on Standards of Representation in Juvenile Dependency Cases (2014).
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                          actual     target
+
+  Report Year                                                                    2020                               2021                               2022                               2023                               2024
+Percent of PCRP Attorneys Spending 1/3 Time Meeting With Clients
+Actual                                                                            54%                                46%                                20%                                8%                                 8%
+Target                                                                            95%                                95%                                95%                                95%                                95%
+
+How Are We Doing
+This Key Performance Measure was intended to provide data regarding the time that attorneys spend with parent clients and child clients who have decision-making capacity, excluding very young
+child clients who have diminished capacity to make decisions and direct their attorney in litigation.  However, data gathered by the Parent Child Representation Program (PCRP) program does not
+distinguish based on decision-making capacity. Therefore, the data reported for this KPM includes time spent with all clients.
+
+During this contract cycle, 8.4% of the PCRP attorneys report spending approximately one-third of their time meeting with clients. PCRP attorneys spent an average of 22.2 %of their time meeting with
+clients.
+
+Factors Affecting Results
+This measure analyzes attorney performance in the ten counties in which the PCRP has been implemented: Linn and Yamhill (2014), Columbia County (2016); Coos and Lincoln Counties (2018);
+Multnomah County (2020); and Benton, Clatsop, Douglas, and Polk Counties (2021). It includes data from lawyers who represent child clients who range in age from newborn to age 21 and lawyers
+who represent a parent or other party. This means that the percentages are necessarily skewed as lawyers who represent babies and very young children who lack the capacity to make decisions and
+direct their lawyer in the litigation generally will not and should not spend one third of their time with those clients.
+
+As with earlier KPM reports, there has been a continued decline in this measure despite the average time attorneys spent with their clients remaining the same/very similar – 22.2%.  The lower rate of
+attorneys who report meeting the one-third target is due to a number of different factors that are likely not related to performance or outcomes. In other words, this KPM should be adjusted to more
+accurately reflect the what the agency is seeking to measure. A few of these factors are identified and briefly discussed below.
+
+How is “client time” entered?
+
+This measure relies entirely on how attorneys record and submit their time in the “client time” category. In PCRP meetings across the state, attorneys frequently have questions about how to
+accurately account for client time. It became clear that not all attorneys enter time the same which impacts this KPM. For example, most attorneys speak to their clients privately before court starts;
+some attorneys include this time in “court time” while others enter it as “client contact.” If OPDC continues with this same KPM, clearer direction on how and what to enter as “client time” should be
+issued.
+
+How is “client time” defined?
+
+Currently, “client time” accounts only for confidential meetings between a client and their attorney. The purpose behind this was to focus on what builds the attorney-client relationship. Throughout
+PCRP meetings across the state, many attorneys advocated for expanding this definition to include valuable attorney-client interactions involving other parties. The four most common mentioned were:
+Family Decision Meetings, Caseworker meetings, Case Manager meetings, and Citizen Review Board hearings. They believe that these are prime examples of the type of meetings attorneys would
+not have or would not attend when their caseloads were higher. They also felt that these were often some of the most effective ways to build the attorney-client relationship because they involve the
+client and attorney working together more closely in what feels more impactful than in court.
+
+Case Managers and client relationships:
+
+The Parent Child Representation Program case managers add to the client communication time with the defense team. Case managers are social service professionals and work as part of the legal
+representation team in 10-15% of the cases. Case managers work with attorneys to address non-legal barriers and help achieve timely and sensible case resolution is a best practice and a critical
+component of the success of the PCRP. The PCRP case managers are required to spend at least 85% of their time in direct service work, providing an additional investment in client contact by the
+defense team.
+
+Since this KPM was developed, the role of case managers has continued to evolve and grow. Attorneys and case managers better understand how to work together and how to best work with their
+clients. Often, the case manager-client relationship is as important as the attorney-client relationship in terms of moving a client towards their desired outcome. It is unclear if the current KPM
+contemplated the active role case managers currently have in these cases. This would be a useful area to consider accounting for in this or a modified KPM.
+
+The agency needs to continue monitoring the quality of work provided by lawyers in the Parent Child Representation Program. Additional consideration should be given to the data collection and
+utilization process. There should be further examination of which metrics are most sensible to measure and which are indicative of standards-based legal representation associated with improving
+client engagement and court outcomes. Mixed-methods (quantitative and qualitative) data should also be used to establish benchmarks which are indicative of effective legal representation. OPDS
+continues its agency-wide restructuring and modernization, which will include refinement and improvement of PCRP data collection, analysis, and application.

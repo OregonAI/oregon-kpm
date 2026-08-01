@@ -13,6 +13,7 @@ agency: Licensed Professional Counselors and Therapists, Board of
 agency_code: OBLPCT
 reporting_year: '2016'
 year_source: document
+text_source: pdf-text
 filename_year: '2016'
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_OBLPCT_2016-09-26.pdf

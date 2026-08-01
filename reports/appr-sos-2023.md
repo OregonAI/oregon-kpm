@@ -1,0 +1,423 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-sos-2023
+title: Secretary of State — Annual Performance Progress Report, Reporting Year 2023
+doc_type: performance_report
+citation: APPR SOS 2023
+authority_level: agency_report
+issuing_body: Secretary of State
+agency: Secretary of State
+agency_code: SOS
+reporting_year: '2023'
+year_source: document
+text_source: pdf-text
+filename_year: '2023'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_SOS_2023.pdf
+source_filename: APPR_SOS_2023.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 38ed8bb49d80518e2429f1af5c766b7a75751ed73ccef4c319fb701dd1729d0c
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2023
+---
+
+## At a glance
+
+**APPR SOS 2023** — Secretary of State, Reporting Year 2023
+
+- Agency: Secretary of State
+- Reporting year: 2023 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_SOS_2023.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Secretary of State
+Annual Performance Progress Report
+Reporting Year 2023
+Published: 2/12/2024 4:13:39 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+Electronic Access to Public Information - Percentage of targeted records made available electronically.
+Audit Efficiency - Dollar savings per dollar spent on economy and efficiency audits.
+Audit Recommendation Implementation - Percentage of audit recommendations implemented.
+Business registration - Document processing turnaround time from receipt.
+Notary - Document processing turnaround time from receipt.
+UCC - Document processing turnaround time from receipt.
+Campaign Finance Information - Percent of committee filings determined to be sufficient.
+Staff Diversity - Employment of Women, People of Color, and Persons with Disabilities as a percentage of the SOS workforce.
+Customer Satisfaction - Percent of customers rating their overall satisfaction with the agency as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+66.67%
+0%
+33.33%
+red
+green
+yellow
+KPM #1
+Electronic Access to Public Information - Percentage of targeted records made available electronically.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2019
+2020
+2021
+2022
+2023
+Public Information Access- Improve access to public information
+Actual
+99%
+99%
+99%
+99%
+99%
+Target
+98%
+98%
+98%
+99%
+99%
+How Are We Doing
+Factors Affecting Results
+KPM #2
+Audit Efficiency - Dollar savings per dollar spent on economy and efficiency audits.
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2019
+2020
+2021
+2022
+2023
+DOLLAR SAVINGS PER DOLLAR SPENT- Dollar savings per dollar spent on economy and efficiency
+Actual
+$85.48
+$1.87
+$15.65
+$20.31
+$21.62
+Target
+$12.00
+$12.00
+$12.00
+$12.00
+$12.00
+How Are We Doing
+Since 1999 when the tracking of this measure began, we have consistently identified more in revenue enhancements, savings, and questioned costs than our performance audits have cost.
+The cumulative amount identified has been $1.38 billion with a return on investment of $19.86. In fiscal year 2023, we identified $126.9 million in fiscal impacts for a return on investment of
+$21.62 for every $1 spent.
+Factors Affecting Results
+Our results on this measure depend on how many audits we undertake that have the potential for identifiable and quantifiable revenue enhancements, savings, or questioned costs. Identifying
+fiscal impact is but one of the many benefits produced by our performance audit work. Valuable objectives such as evaluating how well state government is managing important issues or how
+effectively program services are being delivered do not always have a tie to dollar savings.  For example, reports issued in fiscal year 2023 included a comprehensive look at how Water
+Security is being approached in the state, the Need to Modernize Oregon’s Unemployment Insurance System, and the Persistent Wage Gaps for Women and People of Color all delivered
+important information to decision makers and the public but did not have specific cost savings to report.
+KPM #3
+Audit Recommendation Implementation - Percentage of audit recommendations implemented.
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2019
+2020
+2021
+2022
+2023
+IMPLEMENTED RECOMMENDATIONS- Percentage of recommendations implemented
+Actual
+64.90%
+74.65%
+89%
+92.39%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+In fiscal year 2022, we issued 92 recommendations in our financial and performance audits. We followed up a year later and found over 90% of our recommendations had some action taken to
+implement/resolve them with 50% reported to be fully implemented. There were two recommendations from this period that agencies declined to implement.
+Factors Affecting Results
+We simplified our methodology to report one fiscal year after the recommendations were issued. Even with the shortening of the reporting period and the more rigorous follow up procedures
+implemented in 2018, we found a 3% increase in action taken on our recommendations compared to our previous KPM reporting. Given more time, we expect agencies will continue to
+increase the number of fully implemented recommendations. Some of our audits include a review of prior audit recommendations, however if the recommendations were issued before fiscal
+year 2022, the implementation results are not captured here.
+KPM #4
+Business registration - Document processing turnaround time from receipt.
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2019
+2020
+2021
+2022
+2023
+TIMELY DOCUMENT PROCESSING-CORPORATION DIVISION- Business Registration document processing turnaround time from receipt
+Actual
+0.50
+0.80
+1.30
+2.60
+3.10
+Target
+0.60
+0.60
+0.60
+0.60
+0.60
+How Are We Doing
+Related to business registry KPM, our business support team is processing within 3-5 business days.  This is the standard turnaround time. Our turnaround times will improve with automation.
+Factors Affecting Results
+During fiscal year 2023, the Business Support team was not fully staffed, which impacted turnaround times. Paper filings require additional staff time to process in comparison to online business
+registration. With automation (online processing), we will see an improvement.
+KPM #5
+Notary - Document processing turnaround time from receipt.
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2019
+2020
+2021
+2022
+2023
+TIMELY DOCUMENT PROCESSING- CORPORATION DIVISION- Notary Public document processing turnaround time from receipt
+Actual
+0.05
+0.10
+0.10
+0.20
+0.30
+Target
+0.20
+0.20
+0.20
+0.20
+0.20
+How Are We Doing
+Factors Affecting Results
+KPM #6
+UCC - Document processing turnaround time from receipt.
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2019
+2020
+2021
+2022
+2023
+TIMELY DOCUMENT PROCESSING- CORPORATION DIVISION - Uniform Commercial Code document processing turnaround time from receipt
+Actual
+0.02
+0.10
+0.80
+0.80
+0.10
+Target
+0.20
+0.20
+0.20
+0.20
+0.20
+How Are We Doing
+Factors Affecting Results
+KPM #7
+Campaign Finance Information - Percent of committee filings determined to be sufficient.
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2019
+2020
+2021
+2022
+2023
+Public Access to Campaign Finance Information
+Actual
+98.80%
+98.30%
+99.20%
+98.80%
+98.57%
+Target
+99%
+99%
+99%
+99%
+99%
+How Are We Doing
+Factors Affecting Results
+KPM #8
+Staff Diversity - Employment of Women, People of Color, and Persons with Disabilities as a percentage of the SOS workforce.
+- Jun 30
+Report Year
+2019
+2020
+2021
+2022
+2023
+a. Representation of Women as a Percentage of the SOS
+Workforce
+Actual
+57%
+58.50%
+58.40%
+59%
+59%
+Target
+62%
+62%
+62%
+62%
+62%
+b. Representation of People of Color as a Percentage of SOS’ Workforce
+Actual
+16%
+14%
+17.10%
+18.20%
+19.40%
+Target
+12%
+12%
+12%
+12%
+12%
+c. Representation of Persons with Disabilities as a Percentage of SOS’ Workforce
+Actual
+5%
+5%
+4.10%
+4.10%
+4.60%
+Target
+5%
+5%
+5%
+5%
+5%
+How Are We Doing
+We have retained our representation of women.  We have increased our representation of people of color by more than one percent.  Our representation of people with disabilities has dropped
+slightly.
+Factors Affecting Results
+Factors contributing to our ability to meet targets are driven in part by the applicant pool for vacant positions as well as our relatively small workforce and the impact of even minor attrition, which
+significantly fluctuates our representation.  We have increased our outreach and continue to assess our overall recruitment strategies to progress our goals and are encouraged by our continued
+progress particularly around representation of people of color.
+KPM #9
+Customer Satisfaction - Percent of customers rating their overall satisfaction with the agency as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise
+and availability of information.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2019
+2020
+2021
+2022
+2023
+Expertise
+Actual
+96%
+88%
+80%
+91%
+91%
+Target
+90%
+90%
+90%
+90%
+90%
+Overall
+Actual
+93%
+87%
+77%
+85%
+90%
+Target
+90%
+90%
+90%
+90%
+90%
+Accuracy
+Actual
+96%
+86%
+80%
+88%
+91%
+Target
+90%
+90%
+90%
+90%
+90%
+Timeliness
+Actual
+96%
+88%
+77%
+88%
+92%
+Target
+90%
+90%
+90%
+90%
+90%
+Helpfulness
+Actual
+95%
+87%
+81%
+87%
+90%
+Target
+90%
+90%
+90%
+90%
+90%
+Availability of Information
+Actual
+94%
+82%
+69%
+83%
+87%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+Factors Affecting Results

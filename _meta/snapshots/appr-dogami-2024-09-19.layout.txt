@@ -1,0 +1,124 @@
+Department of Geology and Mineral Industries
+                         Annual Performance Progress Report
+
+                                Reporting Year 2024
+
+                           Published: 9/19/2024 1:09:06 PM
+ KPM #       Approved Key Performance Measures (KPMs)
+
+1           HAZARD AND RISK ASSESSMENT COMPLETION - Percent of population residing in Oregon Urban Growth Boundary Areas (UGBs) that have completed geologic hazard and risk assessments that are suitable to initiate Department of Land
+            Conservation and Development goal 7 planning for earthquake, landslide, tsunami, coastal erosion, volcanic and flooding hazards.
+2           DETAILED GEOLOGIC MAP COMPLETION - Percent of Oregon where geologic data in the form of high resolution maps have been completed to be used for local problem solving.
+3           LIDAR DATA COMPLETION - Percent of Oregon (sq. miles) with lidar data at USGS quality level 2 or better.
+4           MINE SITE INSPECTIONS - Percent of active mine sites inspected annually.
+5           CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+6           GOVERNANCE - Percent of yes responses by Governing Board members to the set of best practices.
+
+                                                                                                                                                     red
+                                                                                                                                                     green
+                                                                                                                                                     yellow
+
+ Performance Summary                                                                                                                                      Green                                                     Yellow                                                       Red
+
+                                                                                                                                                      = Target to -5%                                       = Target -5% to -15%                                          = Target > -15%
+Summary Stats:                                                                                                                                              50%                                                     16.67%                                                     33.33%
+          HAZARD AND RISK ASSESSMENT COMPLETION - Percent of population residing in Oregon Urban Growth Boundary Areas (UGBs) that have completed geologic hazard and risk
+KPM #1    assessments that are suitable to initiate Department of Land Conservation and Development goal 7 planning for earthquake, landslide, tsunami, coastal erosion, volcanic and flooding
+          hazards.
+          Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                            actual    target
+
+ Report Year                                                               2020                            2021                             2022                            2023                             2024
+HAZARD AND RISK ASSESSMENT COMPLETION
+Actual                                                                      56%                             57%                             68%                            70.40%                          72.40%
+Target                                                                      52%                             57%                             62%                              67%                             67%
+
+How Are We Doing
+Factors Affecting Results
+KPM #2    DETAILED GEOLOGIC MAP COMPLETION - Percent of Oregon where geologic data in the form of high resolution maps have been completed to be used for local problem solving.
+          Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                           actual    target
+
+ Report Year                                                              2020                           2021                            2022                            2023                            2024
+DETAILED GEOLOGIC MAP COMPLETION
+Actual                                                                  62.65%                          62.70%                          62.80%                          62.80%                          63.50%
+Target                                                                    64%                             65%                             66%                             67%                            67%
+
+How Are We Doing
+Factors Affecting Results
+KPM #3          LIDAR DATA COMPLETION - Percent of Oregon (sq. miles) with lidar data at USGS quality level 2 or better.
+                Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                            actual    target
+
+ Report Year                                                               2020                            2021                            2022                            2023                             2024
+LIDAR DATA COMPLETION
+Actual                                                                   53.28%                           56.10%                          60.50%                          66.70%                           76.30%
+Target                                                                     50%                             54%                              56%                             58%                             58%
+
+How Are We Doing
+Factors Affecting Results
+KPM #4                 MINE SITE INSPECTIONS - Percent of active mine sites inspected annually.
+                       Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                             actual    target
+
+ Report Year                                                                2020                             2021                             2022                            2023                             2024
+ACTIVE MINE SITE INSPECTIONS
+Actual                                                                                                                                                                                                          14%
+Target                                                                                                                                                                                                          20%
+
+How Are We Doing
+Factors Affecting Results
+KPM #5   CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+         helpfulness, expertise and availability of information.
+         Data Collection Period: Jul 01 - Jun 30
+
+                                                                         actual   target
+
+ Report Year                                                            2020                          2021                           2022                           2023                           2024
+Helpfulness
+Actual                                                                  85%                          85.40%                         74.60%                         80.30%                         66.30%
+Target                                                                  95%                            95%                            95%                            95%                            95%
+Overall
+Actual                                                                  89%                          88.60%                         80.70%                         82.20%                         62.90%
+Target                                                                  95%                            95%                            95%                            95%                            95%
+Accuracy
+Actual                                                                  84%                          89.30%                         78.10%                         79.30%                         63.30%
+Target                                                                  95%                            95%                            95%                            95%                            95%
+Expertise
+Actual                                                                  86%                          86.60%                         78.10%                           83%                          68.90%
+Target                                                                  95%                            95%                            95%                            95%                            95%
+Availability of Information
+Actual                                                                  85%                          84.70%                         78.90%                         78.20%                         61.50%
+Target                                                                  95%                            95%                            95%                            95%                            95%
+Timeliness
+Actual                                                                  85%                          83.30%                         77.20%                         74.80%                         61.50%
+Target                                                                  95%                            95%                            95%                            95%                            95%
+
+How Are We Doing
+Factors Affecting Results
+KPM #6           GOVERNANCE - Percent of yes responses by Governing Board members to the set of best practices.
+                 Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                           actual     target
+
+ Report Year                                                              2020                             2021                            2022                            2023                            2024
+Metric Value
+Actual                                                                    100%                            100%                             100%                            100%                            100%
+Target                                                                    100%                            100%                             100%                            100%                            100%
+
+How Are We Doing
+Factors Affecting Results

@@ -1,0 +1,311 @@
+Justice, Department of
+    Annual Performance Progress Report
+            Reporting Year 2016
+      Published: 11/10/2016 9:29:04 AM
+ KPM #         Approved Key Performance Measures (KPMs)
+1             Percentage of legal cases in w hich the state's position is upheld -
+2             Percentage of appropriate litigation resolved through settlement -
+3             Amount of monies recovered for the state divided by the cost of recovery -
+4             Average w orking days from receipt of contracting document to first substantive response to agency. -
+5             Percentage of legal billings receivables collected w ithin 30 days -
+6             Percentage of timely and complete charities' reports submitted relative to total charities registered -
+7             Customer Service - Percent of customers rating their satisfaction w ith the agency’s customer service as "good" or "excellent" on overall, timeliness, accuracy, helpfulness, expertise, availability of information
+8             Percentage of Criminal Justice Division cases resolved successfully -
+9             Percentage of crime victims' compensation orders issued w ithin 90 days of claim receipt -
+10            Percentage of support collected by the Child Support Program that is distributed to families -
+11            Percentage of current child support collected relative to total child support ow ed -
+12            Percentage of Child Support Program cases paying tow ards arrears relative to total Program cases w ith arrears due -
+13            Percentage of Child Support Program cases w ith support orders relative to total Program cases -
+14            Percentage of adult victims leaving domestic violence shelters w ith a safety plan after a stay of five days or more -
+15            Percentage of sexual assault exams conducted by specially trained Sexual Assault Nurse Examiners (SANE) -
+16            Percentage of Defense of Criminal Convictions (DCC) cases briefed w ithin 210 days. -
+
+                                                                                                                                                           red
+                                                                                                                                                           green
+                                                                                                                                                           yellow
+
+ Performance Summary                                                                                                                                                Green                                                     Yellow                                                        Red
+
+                                                                                                                                                               = Target to -5%                                        = Target -6% to -15%                                           = Target > -15%
+Summary Stats:                                                                                                                                                      68.75%                                                      25%                                                        6.25%
+KPM #1                     Percentage of legal cases in which the state's position is upheld -
+                           Data Collection Period: Jul 01 - Jun 30
+
+                                                                                   actual     target
+
+  Re port Ye ar                                                                   2012                               2013                              2014                               2015                               2016
+PERCENTAGE OF LEGAL CASES IN WHICH THE STATE'S POSITION IS UPHELD
+Actual                                                                             94%                                95%                               93%                                93%                                96%
+Target                                                                             92%                                92%                               92%                                92%                                95%
+
+How Are We Doing
+The results exceeded the target.
+Factors Affecting Results
+The definition of what "state's position upheld" means varies among the divisions due to the diversity of the Department's legal work and because DOJ seeks just results, not merely to prevail in a
+particular case. For example, the Trial Division defends civil lawsuits filed against the State, its agencies, and its officials in a variety of contexts. The state's position in a civil lawsuit is upheld when
+the trial court dismisses the lawsuit without awarding monetary damages or other forms of relief against the state, or, when the state prevails at trial. Additionally the state's legal position may also be
+upheld in a case in which the DOJ determines that justice requires some form of settlement with the opposing party. In those situations, the state's position can be upheld when the state reaches
+agreement with the opposing party and damages are limited to those required by law.
+KPM #2                     Percentage of appropriate litigation resolved through settlement -
+                           Data Collection Period: Jul 01 - Jun 30
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                  2012                               2013                              2014                              2015                               2016
+PERCENTAGE OF APPROPRIATE LITIGATION RESOLVED THROUGH SETTLEM ENT
+Actual                                                                            49%                               50%                                57%                               56%                                68%
+Target                                                                            32%                               32%                                55%                               55%                                60%
+
+How Are We Doing
+The results exceeded the target.
+Factors Affecting Results
+The determination of which cases are appropriate for negotiation and settlement varies between the divisions due to the diversity of caseloads. Not all cases are appropriate for settlement. Many
+factors contribute to rendering a case inappropriate for settlement. In many instances, opportunity for settlement by the DOJ is limited by the fact that the agency represented in the litigation had
+attempted to settle the case before referring the case to DOJ. Some litigation may arise only after many other opportunities to vindicate the state's interests have been tried and failed. For example,
+lawsuits seeking the termination of parental rights are filed after social service agencies have exhausted other interventions intended to protect children. Other cases may be rendered inappropriate
+for compromise simply by the nature of the state's interest. Settlement may not be possible because of far-reaching policy implications or because federal law precludes settlement. For example,
+unemployment benefit cases cannot be settled due to federal restrictions.
+KPM #3                  Amount of monies recovered for the state divided by the cost of recovery -
+                        Data Collection Period: Jul 01 - Jun 30
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                 2012                               2013                             2014                              2015                              2016
+AM OUNT OF M ONIES RECOVERED FOR THE STATE DIVIDED BY THE COST OF RECOVERY
+Actual                                                                         $111.55                            $29.17                           $18.53                            $10.93                            $36.40
+Target                                                                          $25.00                            $25.00                           $25.00                            $25.00                            $25.00
+
+How Are We Doing
+The results were above the target level for the state fiscal year ending June 30, 2016. DOJ recovered $36.40 per dollar spent, rather than $25.00 per dollar spent.
+Factors Affecting Results
+Very large claims can skew results. For example, in 2006, DOJ helped recover $25 million from parties responsible for leaving the New Carissa's rusting hulk on a south coast beach; some of the
+recovery actually accrued to the state in 2007. In 2012, DOJ received a punitive damages award of $56 million which significantly skewed the results for FY 2012. In 2016, DOJ received punitive
+damages awards of $11.5 million. Punitive damage awards of this nature are rare and to a certain extent out of DOJ's control.
+KPM #4            Average working days from receipt of contracting document to first substantive response to agency. -
+                  Data Collection Period: Jul 01 - Jun 30
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                 2012                             2013                              2014                              2015                             2016
+AVERAGE WORKING DAYS FROM  RECEIPT OF CONTRACTING DOCUM ENT TO 1ST SUBSTANTIVE RESPONSE
+Actual                                                                          5.25                              5.06                              5.16                             5.24                              5.50
+Target                                                                            5                                 5                                 5                                5                                 5
+
+How Are We Doing
+The results were slightly above the target. With this measure, the lower the number the better.
+Factors Affecting Results
+DOJ continues to exempt categories of contracts from legal sufficiency review. As this process continues, the remaining assignments become increasingly complex. The General Counsel Division
+continues to monitor work on the remaining types of contracts for additional efficiencies. Other factors to be considered include the variance in state agency resources devoted to the contract
+process. Some agencies have contract units and contract officers some of whom have a legal/contract background and some of whom received agency-level training. Other agencies do not have
+this resource available and are more dependent on the involvement of DOJ to examine their contracting document upon receipt and assist them in preparing their document for substantive review
+by DOJ, which delays our substantive response.
+KPM #5                    Percentage of legal billings receivables collected within 30 days -
+                          Data Collection Period: Jul 01 - Jun 30
+
+                                                                              actual    target
+
+  Re port Ye ar                                                              2012                             2013                             2014                            2015                             2016
+PERCENTAGE OF LEGAL BILLING RECEIVABLES COLLECTED WITHIN 30 DAYS
+Actual                                                                        87%                              90%                             83%                              87%                              85%
+Target                                                                        88%                              88%                             88%                              88%                              88%
+
+How Are We Doing
+The results for the state fiscal year ending June 30, 2016 were below the target level.
+Factors Affecting Results
+Some agencies are heavy consumers of DOJ's legal services. If even one of those agencies fails to timely pay a DOJ invoice, DOJ's performance on this KPM can slip below the target mark.
+KPM #6            Percentage of timely and complete charities' reports submitted relative to total charities registered -
+                  Data Collection Period: Jul 01 - Jun 30
+
+                                                                                 actual    target
+
+  Re port Ye ar                                                                 2012                              2013                              2014                              2015                              2016
+% TIM ELY & COM PLETE CHARITIES' REPORTS SUBM ITTED RELATIVE TO TOTAL REGISTERED
+Actual                                                                           68%                               76%                             67.30%                              67%                               65%
+Target                                                                           70%                               70%                               70%                               70%                               70%
+
+How Are We Doing
+The results were below the target for the state fiscal year ending June 30, 2016.
+Factors Affecting Results
+The legislature reduced the target of this KPM to 70% for the 2005-07 biennium. The measure requires timely and complete reports. DOJ believes the target was established to measure
+performance on only one element; the timeliness of reports submitted by charities to DOJ. Additionally, for this reporting period the number of charitable organizations in Oregon continued to
+increase and as of June 30, 2016 there were 19,352 charities required to file reports. DOJ tries to make compliance as easy as possible by publishing reporting forms, training the personnel of
+charitable organizations, and answering technical assistance questions.
+KPM #7   Customer Service - Percent of customers rating their satisfaction with the agency’s customer service as "good" or "excellent" on overall, timeliness, accuracy, helpfulness, expertise,
+         availability of information
+         Data Collection Period: Jul 01 - Jun 30
+
+                                                                         actual    target
+
+ Re port Ye ar                                                           2012                          2013                           2014                          2015                           2016
+Av ailability of Information
+Actual                                                                   96%                          95.36%                         96.06%                        96.99%                           95%
+Target                                                                   95%                            95%                           95%                            95%                            95%
+Accuracy
+Actual                                                                   98%                          98.28%                         97.03%                        95.45%                           97%
+Target                                                                   95%                            95%                           95%                            95%                            95%
+Ov e rall
+Actual                                                                   98%                          97.28%                         93.47%                        91.84%                           95%
+Target                                                                   95%                            95%                           95%                            95%                            95%
+He lpfulne ss
+Actual                                                                   99%                          97.44%                         96.14%                        96.45%                           97%
+Target                                                                   95%                            95%                           95%                            95%                            95%
+Expe rtise
+Actual                                                                   99%                          99.27%                         99.41%                        99.55%                           99%
+Target                                                                   95%                            95%                           95%                            95%                            95%
+Time line ss
+Actual                                                                   98%                          97.36%                         93.74%                        94.25%                           95%
+Target                                                                   95%                            95%                           95%                            95%                            95%
+
+How Are We Doing
+The aggregate average for the six categories exceeded the target level, with three of the six individual categories exceeding the target. The other three individual categories all met the 95% target.
+Factors Affecting Results
+Many things may affect the results for KPM 7. These factors include resources appropriated to DOJ by the Assembly and the complexity of the work in comparison to the length of time allowed to
+prepare legal advice about the issue.
+KPM #8                  Percentage of Criminal Justice Division cases resolved successfully -
+                        Data Collection Period: Jul 01 - Jun 30
+
+                                                                             actual    target
+
+  Re port Ye ar                                                              2012                            2013                            2014                            2015                             2016
+PERCENTAGE OF CRIM INAL JUSTICE DIVISION CASES RESOLVED SUCCESSFULLY
+Actual                                                                       98%                             99%                              99%                             99%                             99%
+Target                                                                       98%                             98%                              98%                             98%                             99%
+
+How Are We Doing
+The results met the target.
+Factors Affecting Results
+Because the number of cases resolved in any given year is small (136 in 2016), the outcome in a very small number of cases will be reflected on a percentage basis as an improvement or
+degradation in performance.
+KPM #9              Percentage of crime victims' compensation orders issued within 90 days of claim receipt -
+                    Data Collection Period: Jul 01 - Jun 30
+
+                                                                              actual     target
+
+  Re port Ye ar                                                               2012                             2013                             2014                            2015                             2016
+PERCENTAGE OF VICTIM S' COM PENSATION ORDERS ISSUED WITHIN 90 DAYS OF CLAIM  RECEIPT
+Actual                                                                         75%                             82%                              96%                              98%                              95%
+Target                                                                         90%                             90%                              90%                              90%                              98%
+
+How Are We Doing
+The results (95%) of the state fiscal year ending June 30, 2016 did not exceed the target. From fiscal years 2012 to 2015, the results steadily improved.
+Factors Affecting Results
+The number of incoming claims and the number of available staff are two factors which may affect the results.
+KPM #10                Percentage of support collected by the Child Support Program that is distributed to families -
+                       Data Collection Period: Oct 01 - Sep 30
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                  2012                              2013                               2014                              2015                               2016
+% OF SUPPORT COLLECTED BY THE CSP, WHICH IS DISTRIBUTED TO FAM ILIES
+Actual                                                                            91%                               91%                               90%                                91%                               92%
+Target                                                                            93%                               93%                               93%                                93%                               93%
+
+How Are We Doing
+Data for the federal fiscal year ending September 30, 2016 is now available. The Child Support Program's performance is 92%.
+Factors Affecting Results
+Federal law establishes priorities for the distribution of collected funds. For example, federal law requires that collected funds be distributed first to current ongoing support amounts due to families
+before any is distributed to reimburse the state for the costs of previously provided public assistance. Since October 2007, federal law has allowed the DOJ to provide a portion of child support
+payments to be made directly to families receiving public assistance (commonly known as "pass through"). Beginning in late 2009, federal requirements reduced the amount of child support
+assigned to the state and increased the amounts due to families. Current economic conditions have a direct impact on this measure. As long as employment levels remain low and the quantity of
+individuals receiving public assistance is elevated, the portion of support assigned and collected for families will remain below target. This measure also tends to lag economic recovery.
+KPM #11                  Percentage of current child support collected relative to total child support owed -
+                         Data Collection Period: Oct 01 - Sep 30
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                  2012                              2013                              2014                              2015                              2016
+% OF CURRENT CHILD SUPPORT COLLECTED RELATIVE TO TOTAL CHILD SUPPORT OWED
+Actual                                                                           60%                               60%                                61%                               61%                               63%
+Target                                                                           62%                               62%                                62%                               62%                               62%
+
+How Are We Doing
+Data for the federal fiscal year ending September 30, 2016 is now available. The Child Support Program's performance is 63%.
+Factors Affecting Results
+The amount collected depends in part on the effectiveness and efficiency of the tools available to DOJ under state and federal law for non-custodial parents who are able but unwilling to meet their
+obligations. Oregon is generally well equipped with the tools required to persuade obligors to fulfill their obligations and to compel them to do so when necessary. The results for KPM 11 are also
+affected by the reality that a few obligors are willing but unable to pay and the size of this group increased when job losses increased and the economy struggled. This measure tends to lag
+economic recovery. DOJ's effectiveness in collecting funds from obligors who have the ability to pay depends to a great extent on the resources invested to carry out collection activities. Timing of
+payments is also a factor. Payments received even one day into the following month do not count as a current support payment.
+KPM #12           Percentage of Child Support Program cases paying towards arrears relative to total Program cases with arrears due -
+                  Data Collection Period: Oct 01 - Sep 30
+
+                                                                              actual     target
+
+  Re port Ye ar                                                               2012                             2013                             2014                             2015                             2016
+% OF CSP CASES PAYING TOWARDS ARREARS RELATIVE TO TOTAL CSP CASES WITH ARREARS DUE
+Actual                                                                         58%                              57%                             58%                              59%                              61%
+Target                                                                         65%                              65%                             65%                              65%                              65%
+
+How Are We Doing
+Data for the federal fiscal year ending September 30, 2016 is now available. The Child Support Program's performance is 61%.
+Factors Affecting Results
+Results for KPM 12 are affected by the same factors that affect KPM 11. The number of cases that carry arrears increases when the economy struggles. The number of parents who cannot pay all
+or part of the support due increases as well. This equates to additional work needed just to maintain current percentages. Conversely, good economic conditions in general contribute to increased
+child support collections as noncustodial parents have improved employment opportunities.
+KPM #13              Percentage of Child Support Program cases with support orders relative to total Program cases -
+                     Data Collection Period: Oct 01 - Sep 30
+
+                                                                               actual     target
+
+  Re port Ye ar                                                                2012                             2013                              2014                             2015                              2016
+PERCENTAGE OF CSP CASES WITH SUPPORT ORDERS RELATIVE TO TOTAL CSP CASES
+Actual                                                                          77%                              74%                              77%                               84%                              87%
+Target                                                                          75%                              75%                              75%                               75%                              80%
+
+How Are We Doing
+Data for the federal fiscal year ending September 30, 2016 is now available. The Child Support Program's performance is 87%.
+Factors Affecting Results
+Efforts to enhance and streamline the order establishment process will have a positive impact on this measure. Working more closely with customers to establish fair and equitable orders in a
+collaborative effort will assist as well. The Child Support Program continues to close cases in which no services are required. All of these factors will affect future results for KPM 13.
+KPM #14           Percentage of adult victims leaving domestic violence shelters with a safety plan after a stay of five days or more -
+                  Data Collection Period: Jul 01 - Jun 30
+
+                                                                               actual     target
+
+  Re port Ye ar                                                                2012                             2013                              2014                             2015                              2016
+% OF ADULT VICTIM S LEAVING DV SHELTERS WITH A SAFETY PLAN AFTER STAY OF 5 DAYS OR M ORE
+Actual                                                                          97%                              99%                              98%                               94%                              92%
+Target                                                                         100%                             100%                              100%                             100%                             100%
+
+How Are We Doing
+The results (92%) for the state fiscal year ending June 30, 2016 are short of meeting the target.
+Factors Affecting Results
+DOJ makes grants to support domestic violence shelters. The shelters are operated by private non                     profit agencies, not DOJ personnel. The result measured by KPM 14 is, therefore, affected
+directly by personnel who do not serve under the Attorney General's direction or control. DOJ does influence the results indirectly through grant funding agreements establishing DOJ's expectations
+of the grantees.
+KPM #15            Percentage of sexual assault exams conducted by specially trained Sexual Assault Nurse Examiners (SANE) -
+                   Data Collection Period: Jul 01 - Jun 30
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                 2012                              2013                              2014                              2015                              2016
+% OF SEXUAL ASSAULT EXAM S CONDUCTED BY SPECIALLY TRAINED SANEs
+Actual                                                                           65%                             65.61%                              69%                              72%                               69%
+Target                                                                           85%                               85%                               85%                              85%                               85%
+
+How Are We Doing
+The state has not met this target.
+Factors Affecting Results
+DOJ administers the Sexual Assault Victims Emergency Medical Response (SAVE) Fund. The SAVE Fund helps offset costs arising from SANE training and from the examination of victims of sexual
+assault by trained SANEs. The SANEs are employed by health care providers; they are not DOJ personnel. The result measured by KPM 15 is, therefore, affected directly by personnel who do not
+serve under the Attorney General's direction or control.  The availability of SANEs is still an issue in some areas of the state, due to both geographic challenges and lack of funding for 24-hour
+coverage. The ongoing training provided by the Attorney General's Sexual Assault Task Force to certify more SANEs is a critical element contributing to this measure. There are approximately 135
+trained SANEs in Oregon. There will always be a need for ongoing training as SANE certifications expire after 3 years. From the inception of the SANE program, DOJ has known that it would take
+several years to build up the necessary resources statewide to reach this target level.
+KPM #16                 Percentage of Defense of Criminal Convictions (DCC) cases briefed within 210 days. -
+                        Data Collection Period: Jul 01 - Jun 30
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                   2012                               2013                              2014                               2015                              2016
+Pe rce ntage  of De fe nse  of Criminal Conv ictions (DCC) Case s Brie fe d within 210 days
+Actual                                                                          No Data                            No Data                              92%                                93%                               93%
+Target                                                                            TBD                                TBD                                90%                                90%                               95%
+
+How Are We Doing
+The results for the state fiscal year ending June 30, 2016 are below the target.
+Factors Affecting Results
+This KPM represents how efficiently we are briefing cases and keeping up with the number of cases coming in. We categorize cases in terms of difficulty and then set a target time for attorneys to
+spend briefing cases in each of the categories. We have no control over the number of cases that we respond to, but we can control our productivity by adjusting the time we devote to each
+case. By maintaining adequate staffing, we can remain efficient while effectively representing the state's interests. With a new panel on the Court of Appeals, we expect the Court to process its own
+backlog more quickly, and this could require us to brief cases more quickly in the future.

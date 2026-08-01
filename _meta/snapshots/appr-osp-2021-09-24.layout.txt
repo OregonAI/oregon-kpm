@@ -1,0 +1,351 @@
+State Police, Oregon
+  Annual Performance Progress Report
+
+          Reporting Year 2021
+
+    Published: 9/24/2021 8:33:56 PM
+ KPM #        Approved Key Performance Measures (KPMs)
+
+1            Transportation Safety - Enhance transportation safety by reducing fatal crashes on state and interstate highways to fewer than 5.06 per 100,000,000 vehicle miles traveled (VMT) where the Oregon State Police (OSP) have primary responsibility.
+2            Traffic Incident Management - Percent of lane blocking crashes cleared within 90 minutes.
+3            Ignition Interlock Device Compliance - Increase compliance with the requirement of offenders to install Ignition Interlock Devices to reduce crashes and improve transportation safety on Oregon roadways.
+4            Angler and Hunter Contacts - Increase interactions with anglers and hunters.
+5            Illegal Harvest - Improve detection of illegally harvested non-commercial fish and wildlife.
+6            Crime Reduction - Percent of major crime team call-outs resolved within 12 months from date of call-out.
+7            Crime Reduction - Number of Dismantled or Disrupted Drug Trafficking Organizations (DTO's).
+8            Forensic Analysis - Percentage of analytical requests completed within 30 days or less.
+9            Criminal Justice Information Services (CJIS) Division Turnaround Time - Average turnaround time, from the date of receipt of manual and electronic criminal justice fingerprint cards by the CJIS Division, until the criminal justice data is posted into the
+             Computerized Criminal History (CCH) Files.
+10           Property Protection - The percentage of threatened residential and commercial properties saved from destruction by an approaching wildfire after initiation of operations by OSFM mobilized resources.
+11           RESIDENTIAL FIRE DEATH RATE: - Number of Oregonians per capita that die in a residential fire.
+12           Customer Satisfaction - Percent of customers rating their satisfaction with the agency customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+
+                                                                                                                                          red
+                                                                                                                                          green
+                                                                                                                                          yellow
+
+ Performance Summary                                                                                                                                                Green                                                        Yellow                                                          Red
+
+                                                                                                                                                               = Target to -5%                                           = Target -5% to -15%                                             = Target > -15%
+Summary Stats:                                                                                                                                                     27.27%                                                        18.18%                                                         54.55%
+KPM #1     Transportation Safety - Enhance transportation safety by reducing fatal crashes on state and interstate highways to fewer than 5.06 per 100,000,000 vehicle miles traveled (VMT) where the
+           Oregon State Police (OSP) have primary responsibility.
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                    actual     target
+
+  Report Year                                                                     2017                               2018                               2019                                2020                               2021
+Transportation Safety
+Actual                                                                            7.79                                9.97                               8.64                               9.19                                8.60
+Target                                                                            5.06                                5.06                               5.06                               5.06                                5.06
+
+How Are We Doing
+The previous metric for this Key Performance Metric (KPM) was to reduce fatal crashes on state and interstate highways where OSP has primary responsibility by 2.5% annually (from 2012 to 2022),
+reaching a target of 101 fatal crashes by 2022.  Due to factors beyond OSP’s control, such as licensed number of drivers and vehicle miles traveled, it was unlikely OSP would be able to achieve a
+purely nominal target.
+
+Instead, OSP changed the metric based on the number of fatal crashes vehicle miles traveled (VMT) on highways segments where Oregon State Police has primary responsibility.  In 2015, the fatal
+crash rate per 1,000,000,000 VMT was 7.79.  Between 2010 - 2015, the lowest fatal crash rate per 1,000,000,000 VMT was 5.63 (in 2013).  Using an average of 100 fatal crashes per 1,000,000,000
+VMT over a six-year period (2010 - 2015), OSP’s new target is a fatal crash rate of 5.06 or lower per 1,000,000,000 VMT.
+
+In calendar year 2019 (the most recent validated data from ODOT’s Crash Analysis Unit), the fatal crash rate per 1,000,000,000 VMT was 8.60.  This is lower than the 9.19 fatal crash rate in calendar
+year 2018, but still higher than 6.74 average fatal crash rate between 2010 – 2015.
+
+Although the fatal crash rate is higher than the target, it should be noted that the rate in 2019 was down 6.4% compared to 2018 and reflects the lowest rate since 2015.
+
+Factors Affecting Results
+Enforcement plans focused on changing driving behaviors in an effort to reduce crashes are developed and implemented.  Patrol offices around the state also work with ODOT and other partners on
+engineering and education efforts aimed at reducing crashes.  There are other variables that affect crash rates outside the control of OSP’s enforcement, education, engineering and emergency
+medical services efforts.  Some of these variables include the economy, adverse weather events, number of licensed drivers, and changes in annual vehicle miles traveled.  In fact, the number of
+vehicle miles travelled on Oregon’s highways in calendar year 2019 was the highest on record (21,861,800,000).  It is worth noting VMT has a positive correlation to the number of fatal crashes on
+state-owned highways, which helps explain the recent elevation in the crash rate (calendar year 2016 forward) compared to the previous average rate of 6.74 (2010 – 2015).
+KPM #2               Traffic Incident Management - Percent of lane blocking crashes cleared within 90 minutes.
+                     Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                    actual     target
+
+  Report Year                                                                    2017                               2018                               2019                                2020                               2021
+Percentage of crashes cleared within 90 minutes on highways where OSP has primary responsibility
+Actual                                                                            71%                                71%                                75%                                75%                                75%
+Target                                                                            80%                                80%                                80%                                80%                                80%
+
+How Are We Doing
+The clearance rate on highways where OSP has primary responsibility has been relatively stable the last three years coming in at 75% (2018 = 75%; 2019 = 75%, 2020 = 75%).  Although OSP missed
+the target by 5-percentage points this report period, this is still very close to the goal and reflective of the average over the past three years.
+
+Factors Affecting Results
+Actions to clear travel lanes after a crash can range from being simple, such as when vehicles are still drivable, to the more complex.  Factors affecting results can include such things as the
+availability of first responder resources, complex investigations, the number of vehicles traveling the roadways and infrastructure.  OSP, along with its partners in this effort continue to be dedicated to
+reducing time on scene through implementation of Traffic Incident Management principles.
+KPM #3     Ignition Interlock Device Compliance - Increase compliance with the requirement of offenders to install Ignition Interlock Devices to reduce crashes and improve transportation safety on
+           Oregon roadways.
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                    actual     target
+
+  Report Year                                                                     2017                               2018                                2019                               2020                                2021
+Ignition Interlock Device Compliance
+Actual                                                                                                                                                                                       19%                                 23%
+Target                                                                                                                                                                                       40%                                 45%
+
+How Are We Doing
+The Oregon State Police (OSP) assumed the Ignition Interlock Device (IID) program formally from the Oregon Department of Transportation in July 2019, which means this report reflects the first full
+year of compliance data collected by OSP.  The most recent available data from the Oregon Driver and Motor Vehicles Division (June 2021) indicate there were 30,401 drivers with an IID
+Requirement.  Conversely, the most recent IID installation data shows there were 6,843 devices installed (August 2021), which translates to a compliance rate of 22.5%.  While we did not reach our
+target of a 45% compliance rate, the 23% compliance rate is an improvement over last year’s result of 19%.  This is due to installation numbers increasing steadily from 6,424 in 2020 to 6,843 as of
+August 2021.
+
+Factors Affecting Results
+During 2020, COVID-19 restrictions impacted the ability of OSP members to proactively enforce the requirements of the IID program.  Likewise, COVID-19 restrictions also had negative impacts on
+the ability for some participants to meet their mandated requirements.  As a result, OSP implemented temporary administrative rules, thus taking into account considerations where people were unable
+to be fully compliant within the program.  This had an impact of the count of the number of required IID devices being installed.  The Department is continuing to conduct service center inspections and
+will continue working to increase education efforts.
+KPM #4                  Angler and Hunter Contacts - Increase interactions with anglers and hunters.
+                        Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                   actual     target
+
+  Report Year                                                                    2017                               2018                               2019                              2020                               2021
+Number of Angler and Hunter Contacts
+Actual                                                                          72,490                             72,924                             83,320                             84,568                            76,647
+Target                                                                          85,000                             85,000                             85,000                             85,000                            85,000
+
+How Are We Doing
+In calendar year 2020, the Fish and Wildlife Division achieved 76,647 angler and hunter contacts, achieving approximately 90% percent of the target level of 85,000 angler and hunter contacts per
+year.  This results in an approximate 9% decrease in contacts when compared to 2019 and is the fewest contacts made since 2017.
+
+Factors Affecting Results
+The KPM target was nearly reached in 2019 and 2018, achieving a 99% and 98% contact rate respectively.  However, 2020 was an unprecedented year with the COVID-19 pandemic, which certainly
+impacted the Division’s ability to achieve the target.  As was mentioned in last year’s report, the Division had the most vacancies in recent history due to funding shortfalls related to COVID-19.  The
+closure of recreational fishing, hunting, crabbing and clamming to anyone who resided outside of Oregon due to COVID-19 had an impact on the number of contacts the Fish and Wildlife Division
+made.  In addition, an unprecedented wildfire season and civil unrest pulled many Fish and Wildlife Troopers away from their primary assignments, thus impacting the number of contacts made.
+KPM #5                Illegal Harvest - Improve detection of illegally harvested non-commercial fish and wildlife.
+                      Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                      actual     target
+
+  Report Year                                                                       2017                                2018                                2019                                2020                                 2021
+Illegal Harvest
+Actual                                                                                                                                                                                                                              1,315
+Target                                                                                                                                                                                                                              2,000
+
+How Are We Doing
+In calendar year 2020, Fish and Wildlife Division Troopers detected 1,315 illegally harvested fish and wildlife species, missing the target by approximately 34%.  This is the most percentage points the
+Division has been below the target of illegally harvest detections.  The previous low was in 2019, when the Division missed the target by 32%.
+
+However, it is worth mentioning that this reporting year is the first time the new target of 2,000 illegally harvested fish and wildlife species (no shellfish or commercial activities included) was used since
+the Legislature approved it last legislative session.  Had the new target of 2,000 been used in 2019 (excluding shellfish and commercial activities), there would have been more detections in 2020 than
+in 2019.
+
+Factors Affecting Results
+2020 was an unprecedented year with the COVID-19 pandemic, which almost certainly impacted the Divisions ability to achieve the target.  How much of an impact would be hard to quantify given the
+many variables.  However, a large contributing factor to the lack of illegal harvest detections was the Division had the most vacancies in recent history due to funding shortfalls related to COVID-19.  In
+addition, an unprecedented wildfire season and civil unrest pulled many Fish and Wildlife Troopers away from their primary assignments, thus impacting their ability to detect and investigate illegally
+harvested fish and wildlife species.
+KPM #6             Crime Reduction - Percent of major crime team call-outs resolved within 12 months from date of call-out.
+                   Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                    actual     target
+
+  Report Year                                                                     2017                               2018                               2019                                2020                               2021
+Percent of major crime team call-outs resolved within 12 months from date of call-out
+Actual                                                                            94%                                 97%                                97%                                96%                                 99%
+Target                                                                            93%                                 93%                                93%                                95%                                 95%
+
+How Are We Doing
+Between January and December of 2019, Major Crime Section detectives responded to 92 major crime team call-outs across the state.  Of those, 91 were resolved within 12 months for a resolution
+rate of 99%.
+
+Every year since 2014, the 93% resolution rate target (established in 2009) had been met or exceeded.  For 2018 (reported in 2020), the target was raised to a 95% resolution rate.  Fortunately, the
+Major Crime Section detectives achieved a 96% resolution rate in 2018, which exceeded the new target.  The resolution rate for 2019 (reported in 2021) climbed to 99%, which continues to exceed the
+new target.
+
+Factors Affecting Results
+The complex nature of major crime investigations, the availability of resources in relation to the scope of the investigation, and the geographical location of the investigation team may impact the result
+of this performance measure.  Other contributing factors are attrition to our workforce, and an increased role in Oregon’s distressed timber counties.  For instance, in June 2012, the Josephine County
+Sheriff’s Office began referring a large portion of all their criminal investigations.
+KPM #7               Crime Reduction - Number of Dismantled or Disrupted Drug Trafficking Organizations (DTO's).
+                     Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                    actual     target
+
+  Report Year                                                                     2017                               2018                                2019                               2020                                2021
+Number of Drug Trafficking Organizations Dismantled / Disrupted
+Actual                                                                              59                                 52                                  25                                 73                                  29
+Target                                                                              20                                 20                                  25                                 35                                  35
+
+How Are We Doing
+The number of Drug Trafficking Organizations (DTOs) the Oregon State Police (OSP) assisted in dismantling or disrupting increased from 22 in 2013 (reported in 2014), to 30 in 2014 and 2015
+(reported in 2015 and 2016 respectively).  For calendar year 2016, that number jumped to 59 and in 2017, the number of DTOs dismantled or disrupted was 52.  In calendar year 2018, OSP met the
+target by dismantling or disrupting 25 DTOs.  It is worth noting the target for the number of DTOs dismantled or disrupted was increased from 20 to 25 beginning in 2018.  In calendar year 2019, the
+target was increased again from 25 to 35 which was surpassed significantly when 73 DTOs were dismantled or disrupted.  However, in 2020, the number of dismantled or disrupted DTOs dropped to
+29, missing the target by 17%.
+
+Factors Affecting Results
+Task forces vary in their mission and focus to target street-level, mid-level or upper-level drug investigations.  Mid to upper-level narcotic investigations, focusing on DTO’s, are more complex and
+longer in duration while street level investigations tend to be direct in nature and short-term.  The increase in DTO’s dismantled or disrupted can be attributed to the on-going, widespread, consistent
+and reinforced knowledge of the definition of a DTO that has been standardized by the Office of National Drug Control Policy.  A concerted effort has been made by drug task forces to accurately
+capture data based on the standardized DTO criteria and submit documentation to HIDTA and/or the appropriate law enforcement reporting agency reflecting their efforts and end results.  In addition,
+OSP has had a consistent, tenured presence on drug task forces statewide, particularly those larger in size, that have a greater case volume and are focused on higher level illegal drug activity.
+
+The Drug Enforcement Section (DES) of OSP experienced many challenges during the 2020 calendar year, including a reduction in drug cases.  Challenges leading to the decrease in drug seizures
+include travel and training restrictions due to COVID-19, lower levels of traffic enforcement due to a decrease of traffic volume, and more restrictive case law rulings.  An unprecedented wildfire season
+and civil unrest pulled many detectives away from their primary assignments, which included drug enforcement.  Additionally, budget uncertainties due Ballot Measure 110 and COVID-19 impacts
+resulted in 10 DES Detective positions being held vacant for most of the year.
+KPM #8                Forensic Analysis - Percentage of analytical requests completed within 30 days or less.
+                      Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                    actual     target
+
+  Report Year                                                                     2017                               2018                               2019                                2020                               2021
+Percentage of analytical requests completed within 30 days
+Actual                                                                            26%                                 25%                                24%                                28%                                22%
+Target                                                                            59%                                 62%                                65%                                68%                                71%
+
+How Are We Doing
+In the 2020 calendar year, the percentage of analytical requests completed in 30 days or less was 22%, which was a significant step down from 2019 (28%).  Additionally, the Forensic Division saw a
+4% increase in the number of requests that took over 90 days to complete, 28% in 2020, up from 24% in 2019.
+
+The Division's fastest disciplines (Firearms, Field Investigations, and Biology) completed 66%, 63%, and 51% in under 30 days, respectively, but they represent a much smaller percentage of the
+overall workload.  Toxicology cases are 36% of the overall caseload and they completed 11% of requests in under 30 days.
+
+Factors Affecting Results
+The decrease in KPM performance was not unexpected due to the COVID-19 pandemic, teleworking, and the number of vacancies the Division was holding due the hiring freeze.  The fact that a
+considerable number of scientists were on leave or teleworking meant that disciplines saw a decrease in productivity.
+
+A 30% increase in postmortem toxicology requests, low staffing levels, and limited resources within the discipline resulted in only 4% of requests turned around in under 30 days.  Because
+postmortem toxicology made up nearly 20% of the total request volume, their total turnaround time will continue to impact the Division's overall KPM performance.  In addition, three new positions
+were added by the Legislature to assist the Toxicology Unit and are anticipated to begin in early 2022.  This will provide some relief, but the training period will result in an initial decrease in
+productivity.
+KPM #9     Criminal Justice Information Services (CJIS) Division Turnaround Time - Average turnaround time, from the date of receipt of manual and electronic criminal justice fingerprint cards by the
+           CJIS Division, until the criminal justice data is posted into the Computerized Criminal History (CCH) Files.
+           Data Collection Period: Jan 01 - Dec 31
+
+                                                                   actual     target
+
+  Report Year                                                                   2017                               2018                               2019                               2020                              2021
+Manual Fingerprint Cards Average Turnaround (Days)
+Actual                                                                           4.60                               2.80                              2.30                               12.60                              1.20
+Target                                                                             4                                  4                                 4                                  4                                  4
+a. Electronic Fingerprint Cards Average Turnaround (Hours)
+Actual                                                                           1.40                               1.70                              2.24                               2.55                               0.38
+Target                                                                             2                                  2                                 2                                  2                                  2
+
+How Are We Doing
+The Oregon State Police’s ability to meet this performance measure solely depends on staff resources within the Criminal Justice Information Services (CJIS) Division.  Livescan technology and
+automated processing improvements have significantly reduced that dependency and a revised target of 4-days became possible, down from the previous 8-day turnaround at initial implementation of
+livescan statewide.
+
+For calendar year 2020, the 4-day manual card turnaround target was met and exceeded.  The manual card average turnaround time for 2020 was 1.2 days (28.5 hours) and for the year, manual
+cards represented 2% of the total criminal arrest cards received.  Automated submissions, representing 98% of the total criminal arrest cards received, were completed within 0.38 hours (46 minutes).
+ This is an improvement over the 2-hour target for this submission workload.
+
+Factors Affecting Results
+Staffing levels and agencies’ use of livescan technology have a direct effect on our performance results, as does the availability of our infrastructure systems.  All of Oregon’s county jail facilities use
+livescan technology to submit their arrest fingerprint cards, with a growing number of local police departments also acquiring livescan technology.  All agencies using livescan devices submit
+fingerprints using the automated process.  However, there continue to be instances where manually captured prints are necessary due to either an agency not having a livescan machine or
+circumstances that make a manual print necessary (i.e. nature disaster, power issues etc.).  Therefore, OSP will continue to maintain some level of accepted manual processing services in order to
+meet this need.
+During this reporting period the Computerized Criminal History (CCH) and Automated Biometric Identification System (ABIS) Units both had vacancies, as well as new impacts brought on by COVID-
+19.  While the ABIS Unit maintained their 24/7 scheduling and availability, the CCH Unit was largely sent home to telework in compliance with the Oregon State Police and the Department of
+Administrative Services’ requirements.  Most importantly, contributing agencies significantly decreased their overall submissions, using cite and release for many months before resuming regular
+arrest fingerprint-based bookings.  This helped CJIS maintain our core services while addressing internal resource issues that had not previously been encountered within the Division.
+KPM #10      Property Protection - The percentage of threatened residential and commercial properties saved from destruction by an approaching wildfire after initiation of operations by OSFM mobilized
+             resources.
+             Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                     actual     target
+
+  Report Year                                                                      2017                               2018                                2019                                2020                                2021
+Percentage of threatened structures saved from approaching wildfires by OSFM mobilizations
+Actual                                                                           99.80%                              99.80%                              98.80%                               100%                              98.10%
+Target                                                                             100%                               100%                                100%                                100%                                100%
+
+How Are We Doing
+The 2020 wildland fire season was initially relatively quiet until an east wind event on Labor Day caused significant fire activity throughout the state; most notably on the west side of the Cascade
+Mountains.  The Oregon Fire Mutual Aid System and The Office of State Fire Marshal (OSFM) did not have the capacity to fully staff and suppress the fires that were sparked or spread by that wind
+event.  A statewide invocation of the Conflagration Act allowed OSFM to engage the statewide fire event more effectively.  In total, OSFM responded to 18 declared conflagrations.  Resources from
+179 Oregon fire agencies were mobilized to protect threatened structures during the 2020 fire season at an estimated cost of $26 million to protect 172,427 structures with an estimated value of more
+than $43 billion.  The success rate of protecting the structures threatened in the 18 conflagration zones during 2020 was 98.1 percent.
+
+Factors Affecting Results
+The primary factors affecting the results of this measure are the location of fire, the weather conditions of the area, the speed and effectiveness of the initial fire responses, and the determinations
+made by the involved county’s Fire Defense Board Chief and local Incident Commander.  Ultimately, a variety of factors including the size and rate of advancement of the fire will be the determining
+factor affecting the need for a conflagration request and therefore the results of this key performance measure.  Recent fires in California, Washington, Idaho and Montana have resulted in
+catastrophic losses in the number of residences destroyed by the fast-moving wildland fires.  The hazards and vulnerabilities faced in these other states are similar to those in Oregon.
+
+The target of saving 100 percent of threatened structures after the initiation of operations by OSFM mobilized resources at the scene of a conflagration is an honorable and lofty goal.  There are many
+variables beyond the control of OSFM when confronting wildland fires.  Establishing and achieving results that approach or meet this target requires bold and aggressive actions by the responding
+resources.  This is possible as a result of training, and the implementation of effective planning and tactical operations.  However, mitigating the impact of wildland fires in the areas surrounding
+structures across Oregon is often beyond the control of OSFM.
+KPM #11               RESIDENTIAL FIRE DEATH RATE: - Number of Oregonians per capita that die in a residential fire.
+                      Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                    actual     target
+
+  Report Year                                                                     2017                               2018                                2019                               2020                                2021
+Number of fire fatalities per million (Numbers exclude vehicle, homicides, suicides, and other nonresidential fire deaths)
+Actual                                                                             5.20                               5.30                                3.30                               3.30
+Target                                                                             4.08                               3.50                                3.50                                 4                                  4
+
+How Are We Doing
+As of September 2021, the residential fire death rate in Oregon for calendar year 2020 is unknown.  The Office of State Fire Marshal (OSFM) receives the unintentional residential fire death rate data
+from the U.S. Centers for Disease Control and Prevention (CDC); this data has not been made available yet.  Once the data is made available, OSFM will update the outcome of this key performance
+measure (KPM) for 2020.
+
+Factors Affecting Results
+The Office of State Fire Marshal (OSFM) looks to reduce residential fire deaths, which accounts for most Oregon fire deaths, through delivering comprehensive fire prevention and life safety programs
+and services.  Education empowers all Oregonians to play their role in fire prevention and increases the likelihood of surviving a fire by reducing the risks and teaching behaviors and better safety
+choices.  Advancing compliance with fire codes also reduces risk and increases the ability of individuals to survive a fire.  The OSFM will continue to work with agency partners to advance compliance
+with fire codes reduce risk and increase the ability to survive a fire.  Plan reviews and inspections help to mitigate potential fire hazards.  Combined, these programs reduce the number of residential
+fires and fire casualties in Oregon by improving public awareness and knowledge about fire danger.
+KPM #12     Customer Satisfaction - Percent of customers rating their satisfaction with the agency customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness,
+            expertise and availability of information.
+            Data Collection Period: Jan 01 - Dec 31
+
+                                                               actual     target
+
+ Report Year                                                                2017                             2018                             2019                             2020                             2021
+1. Timeliness
+Actual                                                                                                        75%                                                               71%
+Target                                                                                                        88%                                                               90%
+2. Helpfulness
+Actual                                                                                                        94%                                                              100%
+Target                                                                                                        88%                                                               95%
+3. Expertise
+Actual                                                                                                        99%                                                               96%
+Target                                                                                                        88%                                                              100%
+4. Availability of Information
+Actual                                                                                                        88%                                                               85%
+Target                                                                                                        88%                                                               90%
+5. Accuracy
+Actual                                                                                                        95%                                                               94%
+Target                                                                                                        88%                                                               95%
+6. Overall
+Actual                                                                                                        90%                                                               89%
+Target                                                                                                        88%                                                               90%
+
+How Are We Doing
+The Oregon State Police's Customer Satisfaction Survey is conducted every 2 years (even years).  The next time the survey will be conducted and the results published will be in 2022.
+
+Factors Affecting Results

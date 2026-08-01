@@ -23,9 +23,14 @@ pyyaml
 # oregon-records-retention use, so the page-furniture stripping is shared behaviour rather
 # than a third implementation.
 #
-# NOT pinned exactly here yet. federal-reference pins pypdf==6.14.2 because its
-# check_extraction.py compares committed text token-for-token against a re-extraction, and
-# pypdf changes extraction between releases. This corpus will want the same discipline once
-# Stage 2 commits extracted text — pin it exactly at that point, not before, so the pin
-# documents a real constraint instead of a guess.
-pypdf
+# PINNED EXACTLY, and the condition this file previously deferred on is now met twice over.
+# federal-reference pins pypdf because extraction changes between releases; the note here
+# said to do the same "once Stage 2 commits extracted text". Stage 2 now commits BOTH
+# `<id>.txt` and `<id>.layout.txt`, and the second one is worse than text to leave floating:
+# Stage 3 assigns values to year columns by CHARACTER OFFSET within those layout lines. A
+# pypdf release that changes column padding by one space does not fail loudly — it shifts
+# the geometry that decides which year a number belongs to.
+#
+# 6.14.2 is the version all 785 sidecars were generated with and the version the 1,257
+# recovered runs were verified against.
+pypdf==6.14.2

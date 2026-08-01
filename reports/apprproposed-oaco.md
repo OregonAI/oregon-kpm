@@ -12,6 +12,7 @@ agency: Advocacy Commissions Office
 agency_code: null
 reporting_year: '2024'
 year_source: document
+text_source: pdf-text
 filename_year: null
 measure_status: proposed
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OACO.pdf

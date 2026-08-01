@@ -1,0 +1,552 @@
+Employment Department
+       Annual Performance Progress Report
+
+              Reporting Year 2020
+
+         Published: 10/1/2020 2:30:52 PM
+ KPM #       Approved Key Performance Measures (KPMs)
+
+1           ENTERED EMPLOYMENT - Percentage of job seekers who receive service from Workforce Operations that are still employed after six months.
+2           EMPLOYMENT RETENTION - Percent of job seekers who receive service from Workforce Operations that are still employed after 12 months.
+3           COST PER PLACEMENT - Total cost of Workforce Operations (Business & Employment Services) program divided by the total number of job seekers entered into employment after receiving services.
+4           FIRST PAYMENT TIMELINESS - Percentage of initial Unemployment Insurance payments made within 21 days of eligibility.
+5           NON-MONETARY DETERMINATIONS TIMELINESS - Percentage of claims that are adjudicated within 21 days of issue detection.
+            UNEMPLOYMENT INSURANCE ADMINISTRATIVE COSTS AS A PERCENT OF BENEFITS PAID - Compares dollars paid to unemployed workers against the cost of providing those benefits. Specifically, all costs associated with Unemployment
+6           Insurance administration, including related Department of Justice and Office of Administrative Hearings costs, less Re-Employment Eligibility Assessments and State Government Service Charges, divided by Total Unemployment Insurance Benefits
+            paid.
+7           UNEMPLOYMENT INSURANCE APPEALS TIMELINESS - Percentage of cases requesting a hearing that are heard or are otherwise resolved within 30 days of the date of request.
+8           NON-UNEMPLOYMENT INSURANCE APPEALS TIMELINESS - Percentage of orders issued within the standards established by the user agencies.
+9           AVERAGE DAYS TO ISSUE AN ORDER - Average number of days to issue an order following the close of record.
+10          COST PER REFERRAL TO OAH - Average cost of hearing referral to the Office of Administrative Hearings.
+11          HIGHER AUTHORITY APPEALS TIMELINESS - Percentage of cases requesting an appeal that receive a decision within 45 days of the date of request.
+12          TIMELINESS OF NEW STATUS DETERMINATIONS - Percentage of new status determinations completed within 90 days of the end of the liable quarter.
+13          CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent," including overall customer service, timeliness, accuracy, helpfulness, expertise, and availability of information.
+14          FOUNDATIONAL SURVEY RESPONSE RATE - Ordinary (non-weighted) arithmetic mean of four annual response rates: (1) Occupational Employment Statistics employment; (2) Occupational Employment Statistics units; (3) Annual Refiling Survey
+            employment; and (4) Annual Refiling Survey units.
+
+                                                                                                                                                     red
+                                                                                                                                                     green
+                                                                                                                                                     yellow
+
+ Performance Summary                                                                                                                                      Green                                                     Yellow                                                       Red
+
+                                                                                                                                                     = Target to -5%                                        = Target -5% to -15%                                          = Target > -15%
+Summary Stats:                                                                                                                                            64.29%                                                    14.29%                                                     21.43%
+KPM #1       ENTERED EMPLOYMENT - Percentage of job seekers who receive service from Workforce Operations that are still employed after six months.
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                 2016                                2017                              2018                              2019                             2020
+Entered Employment - Percent of Job Seekers who got a Job with New Employer
+Actual                                                                       No Data                            No Data                              69%                               68%                              68%
+Target                                                                         TBD                                 TBD                               63%                               63%                              63%
+
+How Are We Doing
+PERFORMANCE: Under the Workforce Innovation and Opportunity Act (WIOA), the U.S. Department of Labor (DOL) changed the way the Employment Retention Rate (ERR) is calculated. Since the
+new definition is not comparable to the previous ERR calculation, data before 2018 is not comparable to data after. The 6-month ERR for State Fiscal Year (SFY) 2020 is 68%, which is above the
+target of 63%.
+
+OUR STRATEGY: To improve employment outcomes by providing services, in collaboration with our workforce partners, that are customized to the needs of individual job seekers.
+
+ABOUT THE TARGET: Targets are negotiated directly between the DOL and the Oregon Employment Department (the Department).
+
+HOW WE COMPARE: The performance in SFY 2020 was 68% compared to 68% in 2019 and 69% in 2018. National and DOL region six data for SFY 2020 are not yet available. Looking at data from
+SFY 2019, Oregon's 6-month ERR was comparable to the national average of roughly 68%.
+
+Factors Affecting Results
+This measure is directly affected by labor market conditions. The COVID-19 pandemic, along with the recession that started in March 2020, could significantly affect the job market in coming years;
+however, there is a year lag in the reporting of this measure, and resulting impacts have not yet been reported.
+
+The state experienced record low unemployment through February 2020, with fewer job seekers pursuing our services. In this period, those who were unemployed generally required more staff
+assistance at each visit, so we changed our business processes to provide these job seekers with additional support.
+During the pandemic and the next phase of economic recovery, the evolving job market may require job seekers to obtain training in virtual skills and other new areas. The Department, along with its
+WorkSource Oregon partners, will continue to provide reemployment services to job seekers, focusing on claimants, veterans, and other targeted populations.
+
+We will continue our current effort to customize business services. This will allow us to better assist employers in filling job openings with well-qualified Oregonians while supporting the Oregon
+Workforce and Talent Development Board's strategic plan to focus services toward specific industry sectors and targeted populations.
+
+The Department recently entered into a partnership with the Department of Human Services to expand services to Supplemental Nutrition Assistance Program (SNAP) participants across the state.
+WorkSource Oregon participants also served by SNAP now include able-bodied adults without dependents (ABAWD) between the ages of 18-49. ABAWD services are delivered in thirteen counties
+across Oregon.
+KPM #2        EMPLOYMENT RETENTION - Percent of job seekers who receive service from Workforce Operations that are still employed after 12 months.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Report Year                                                                 2016                               2017                              2018                             2019                             2020
+Employment Retention
+Actual                                                                      No Data                            No Data                              69%                              68%                              70%
+Target                                                                        TBD                                TBD                                62%                              62%                              65%
+
+How Are We Doing
+PERFORMANCE: Under the WIOA, the DOL changed the way the ERR is calculated. Since the new definition is not comparable to the previous ERR calculation, data before 2018 is not comparable
+to data after. The 12-month ERR for SFY 2020 is 70%, which is above the target of 65%.
+
+OUR STRATEGY: To improve employment outcomes by providing services, in collaboration with our workforce partners, that are customized to the needs of individual job seekers.
+
+ABOUT THE TARGET: Targets are negotiated directly between the Department and the DOL.
+
+HOW WE COMPARE: The performance was 70% in SFY 2020 compared to 68% in 2019 and 69% in 2018.  National and DOL region six state data for SFY 2020 is not yet available Looking at data
+from SFY 2019, Oregon's 12-month ERR was above the national average of roughly 68%.
+
+Factors Affecting Results
+A strong alignment between employer needs and job seekers’ interests and skills of job seekers improves job retention. This measure shows that workers who obtain employment after receiving
+workforce services remained employed, indicating a good match was made between employers and new hires. The Agency will continue to review and improve services to job seekers and employers
+in collaboration with our WorkSource Oregon partners.
+KPM #3     COST PER PLACEMENT - Total cost of Workforce Operations (Business & Employment Services) program divided by the total number of job seekers entered into employment after
+           receiving services.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                 actual     target
+
+  Report Year                                                                2016                               2017                               2018                               2019                               2020
+Cost per Placement
+Actual                                                                      $400.00                            $443.00                            $510.00                           $620.00                            $481.00
+Target                                                                      $200.00                            $400.00                            $416.00                           $416.00                            $424.00
+
+How Are We Doing
+PERFORMANCE: The number of placements was 91,474 in SFY 2020 and expenditures in Workforce Operations were $43,978,393. The cost per placement was $481, which is 13% higher (worse)
+than the target.
+
+OUR STRATEGY: To continue to monitor budgetary constraints and fiscal responsibility. We continue to work with our partners to leverage resources, reduce costs, and address changing customer
+needs while seeking to improve outcomes across local communities.
+
+ABOUT THE TARGET: Cost per placement measures the cost of the program between fiscal years. The targets will be adjusted for inflation each biennium by a maximum of 4%. A lower cost is
+better.
+
+HOW WE COMPARE: The cost per placement decreased by 22% between SFY 2020 and SFY 2019, when it was $620. There is not a national measure compiled for comparison.
+
+Factors Affecting Results
+This performance measure depends on the supply and demand of workers, including the alignment of available jobs relative to job seekers’ interests and skills. In the last quarter of SFY 2020, the cost
+per placement was relatively low ($281), partially due to the significant number of job placements during the first phases of reopening the economy during the pandemic. However, this pattern is
+unlikely to persist given the massive number of unemployed Oregonians, combined with the need for job seekers to obtain training in virtual skills and other new areas in order to compete in the
+evolving job market.
+Through the third quarter of SFY 2020, we served job seekers needing more customized and in-depth support to overcome significant barriers to employment. The Department found that these job
+seekers required more staff assistance. As we have in the past, our business processes have and will continue to adapt to provide the necessary assistance to help job seekers find work. This service
+model aligns with our federal funders’ expectations that workforce programs provide a higher level of intensive, customized service to individuals, which often requires more resources, thus increasing
+the cost for customer service. This combination of factors has a compounding, negative effect on how this measure reflects performance.
+
+The Department will continue to work with state and local partners to effectively address Oregon businesses’ labor needs and to connect job seekers to available employment opportunities. We have
+had success providing customized services to employers and tailoring job seeker services to meet local demand. This program continues to produce higher levels of employer satisfaction and demand
+continues to grow. To help meet this demand, business and employment specialists are focusing on job development and other placement strategies to match targeted populations such as SNAP
+recipients, Unemployment Insurance (UI) claimants, and veterans with employment opportunities.
+KPM #4          FIRST PAYMENT TIMELINESS - Percentage of initial Unemployment Insurance payments made within 21 days of eligibility.
+                Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2016                              2017                              2018                               2019                              2020
+First Pay Timeliness
+Actual                                                                          87%                                88%                               94%                               90%                                73%
+Target                                                                          87%                                87%                               87%                               87%                                89%
+
+How Are We Doing
+PERFORMANCE: The timeliness of first payments was 73.4% in SFY 2020, which is lower (worse) than the target.
+
+OUR STRATEGY: To continue to pursue efficiencies by streamlining UI processes and leveraging new technologies to improve timeliness and the customer experience.
+
+ABOUT THE TARGET: The target for this measurement was updated to match the DOL target of 87% in 2015. The percentage of claims paid within 21 days of the initial claim filing reflects the
+efficiency of determining eligibility and giving unemployed workers their first benefit payment. Due to an administrative error, the target for the 2019-2021 biennium was set at 89%. The Department
+requested to re-set the target at 87% in the 2021-2023 biennium to match the DOL target. A higher percentage of timely first payments is better.
+
+HOW WE COMPARE: This measure has ranged from 87% to 94% since SFY 2015. The performance in SFY 2020 of 73.4% is similar to the average national performance of 71.1%.
+
+Factors Affecting Results
+The Department continues to prioritize timely benefit payments. Until May 2020, when the COVID-19 pandemic significantly affected the timeliness of first payments, the measure was well above the
+target of 89%.
+
+By the end of June, the Department had about ten times more employees processing claims than in March. Other major adjustments implemented to improve timeliness include leasing a new UI
+Contact Center in Wilsonville, where hundreds of employees work; setting up hundreds of new phone lines allowing hundreds of employees to telework; partnering with Google to develop an online
+application process for the Pandemic Unemployment Assistance (PUA) program; and leveraging partnerships across state agencies and branches of government.
+Additionally, dozens of temporary and permanent program changes have accelerated claims processing and eliminated unnecessary barriers to payment, while also protecting program integrity.
+Creating new call intake functions in our UI Contact Center, shifting resources between functional units more rapidly, and increasing focus on employee training have all contributed to our
+performance.
+
+This has been a challenging period for several reasons, starting with the number of initial claims the Department has received. Oregon went from record low unemployment, to seeing the most severe
+recession, and the quickest onset of a recession, in the state's history. This followed a period of several years of chronic federal underfunding of UI administration. Other challenges include the need to
+train employees on the wide range of new federal UI programs enacted under the CARES Act, often with delayed federal guidance; outdated technology; and ongoing efforts to minimize fraud and
+benefit overpayments.
+KPM #5         NON-MONETARY DETERMINATIONS TIMELINESS - Percentage of claims that are adjudicated within 21 days of issue detection.
+               Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                   2016                               2017                               2018                              2019                               2020
+Percent of Claims that are Adjudicated with 21 days (Non-Monetary Determinations Timeliness)
+Actual                                                                           46%                               40%                                72%                                56%                                56%
+Target                                                                           80%                               80%                                80%                                80%                                80%
+
+How Are We Doing
+PERFORMANCE: The percent of timely non-monetary determinations was 56.3%, which is lower (worse) than the target of 80%.
+
+OUR STRATEGY: To seek new efficiencies through process improvements that will result in improved timeliness without adversely impacting other customer service standards, including developing
+new tools and reviewing and revising production standards.  New telephone system capabilities are being leveraged to provide better data, allowing us to have adjudicators, who issue non-monetary
+decisions, to spend more time focused on that work. Additional training is being provided to increase productivity. The Department is prioritizing getting all adjudicator positions filled and building the
+skills and experience needed for employees to be able to process claims quickly. Additionally, the training program for adjudicators is being restructured to better help new employees quickly
+become more proficient and better prepared to handle high volumes of work.
+
+ABOUT THE TARGET: The 80% target is the target established by the DOL. A higher percentage of non-monetary determinations adjudicated within 21 days is better.
+
+HOW WE COMPARE: This measure has ranged from 40% to 72% since SFY 2015. The performance of 56.3% in SFY 2020 is below the average national performance of 69.2%.
+
+Factors Affecting Results
+Prior to the pandemic, declining federal revenue led the Department to reduce costs, including reducing staffing levels, which had a negative impact on performance. The Department had
+proportionally higher staffing during the Great Recession. As staffing returned to non-recessionary levels and the complexity of laws added over several years increased, it has been more difficult to
+make timely determinations. This complexity has resulted in additional processes, which take staff time that could otherwise be focused on timelier claims processing. With the strong economic
+conditions seen during the early part of SFY 2020, it also became more difficult to hire and retain employees for this work. It has also been a challenge to balance the need to quickly make
+determinations and to have as complete information as possible to minimize fraud and overpayments.
+
+By the end of June, the Department has more than doubled the number of adjudicators working claims than there were in March. While this large influx of new employees is a short-term drain on
+program resources, with the most experienced staff spending time training new employees and having less time to adjudicate claims themselves, it will have positive long-term results once the new
+adjudicators are fully trained. Other major adjustments to improve timeliness since the start of the pandemic include leasing a new UI Contact Center in Wilsonville, where hundreds of new employees
+are working. We have also installed hundreds of new phone lines, revamped trainings for new adjudicators, and analyzed how we adjudicate claims during a public health crisis to find efficiencies
+while minimizing fraud and overpayments and protecting program integrity.
+
+The Department's outdated, inflexible, and complex technology architecture has also negatively impacted performance. As new steps are added to processes, more manual work is required.
+Importantly, the limits on what can be automated make it difficult to make significant improvements. This has been even more of a challenge during the pandemic because of the unprecedented
+number of initial claims the Department has received, which is significantly higher than the number received during the Great Recession, and at a much more accelerated pace. An additional
+challenge was posed by the enactment of new federal UI programs under the CARES Act, often with delayed federal guidance.
+
+In summary, the Department faced long-term pressures from added program requirements, low funding, and outdated technology combined with the sudden and unprecedented number of new claims
+flowing into our system as a result of the pandemic. Aging technology, while not the sole cause of declining performance, is a very significant contributing factor and something that constrains the
+Department's ability to make process improvements.
+          UNEMPLOYMENT INSURANCE ADMINISTRATIVE COSTS AS A PERCENT OF BENEFITS PAID - Compares dollars paid to unemployed workers against the cost of providing those
+KPM #6    benefits. Specifically, all costs associated with Unemployment Insurance administration, including related Department of Justice and Office of Administrative Hearings costs, less Re-
+          Employment Eligibility Assessments and State Government Service Charges, divided by Total Unemployment Insurance Benefits paid.
+          Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                actual     target
+
+  Report Year                                                                  2016                               2017                             2018                              2019                              2020
+UNEMPLOYMENT INSURANCE ADMINISTRATIVE COSTS AS A PERCENT OF BENEFITS PAID
+Actual                                                                       No Data                              11%                               12%                              12%                                3%
+Target                                                                         TBD                                10%                               10%                              10%                               10%
+
+How Are We Doing
+PERFORMANCE: Controllable administrative costs were $79,779,006 and benefit payments were $2,984,125,352 in SFY 2020 resulting in cost relative to benefits paid of 3%. This is lower
+(better) than the target of 10%.
+
+For perspective, costs increased by 29% compared to SFY 2019 and benefit payments increased by 491%. Benefit payments totaled $2 billion in May and June.
+
+OUR STRATEGY: To continue to pursue efficiencies from centralization and new technology implementation to streamline UI processes to improve timeliness and customer service. This includes a
+focus on expanding ways in which the public can help themselves access and provide information that traditionally required more staff involvement.
+
+ABOUT THE TARGET: The target for this new measurement was set at 10% in the 2017 Legislative Session. Being a new measurement, there was minimal historical data upon which to set this
+target. The ratio of administrative cost divided by benefits paid reflects the efficiency of making benefit payments. A lower percent is better.
+
+HOW WE COMPARE: The 3% measure in SFY 2020 is the best it has ever been. The measure was 12% in 2018 and 2019. There is not a national measure compiled for comparison.
+
+Factors Affecting Results
+The Department's experience is that administrative costs, as a percent of benefits paid, tends to be lower (better) during recessionary periods, and higher (worse) with a strong economy. During a
+recession, benefits paid increase at a faster rate than administrative costs because while some administrative costs are fixed, more people claim more benefits for a longer period of time.
+
+Under the CARES Act, dedicated staff rapidly set up several new federal benefit programs during the last quarter of the fiscal year: Federal Pandemic Unemployment Compensation (FPUC),
+Pandemic Unemployment Assistance (PUA), and Pandemic Emergency Unemployment Compensation (PEUC). These programs increased benefit payments in a number of ways, including the
+amount of each weekly payment (FPUC), the number of people eligible for payment (PUA), and the number of weeks eligible for payment (PEUC). PUA benefit payments were not available for the
+current calculation, but will improve the measurement when they are added.
+
+We made significant progress processing PUA claims after collaborating with Google to develop a revamped PUA application and weekly certification process. Nonetheless, other technology restricts
+our ability to automate many manual processes that could improve the flow of benefit payments. Work to decrease overpayment of benefits and to better identify overpayments is required by the
+United States Department of Labor to ensure the integrity of the Unemployment Insurance system. This creates additional manual work that tends to increase administrative costs more than it reduces
+benefits paid. Administrative costs are also increased by continued efforts to support how quickly people become re-employed.
+
+Costs are expected to increase with the new UI Contact Center in Wilsonville, and the adherence of pandemic-related requirements like additional cleaning of work areas, provision of products for
+employees to sanitize personal work areas, Plexiglas cubicle height extensions, and increased space requirements for physical distancing.
+
+Automating claims processes and modernizing the technical and business environments would improve staff efficiency. The Department remains focused on increasing "self-service" options for the
+public so as to further decrease costs. The Department is currently in the process of modernizing the UI business processes and systems, which will eventually increase our efficiency and
+effectiveness in how we administer the UI benefits and other federal benefits programs.
+KPM #7     UNEMPLOYMENT INSURANCE APPEALS TIMELINESS - Percentage of cases requesting a hearing that are heard or are otherwise resolved within 30 days of the date of request.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual    target
+
+  Report Year                                                                 2016                              2017                              2018                              2019                              2020
+Unemployment Insurance Appeals Timeliness
+Actual                                                                         72%                               71%                              61%                               83%                               72%
+Target                                                                         60%                               60%                              60%                               60%                               60%
+
+How Are We Doing
+PERFORMANCE: The percent of timely UI appeals was 72% in SFY 2020, which is much higher (better) than the target of 60%.
+
+OUR STRATEGY: The Office of Administrative Hearings (OAH) provides Oregonians an independent forum to dispute decisions made by the Department related to UI benefits. The OAH strives to
+provide timely resolution of these disputes.
+
+ABOUT THE TARGETS: For UI cases, timeliness is defined as the percentage of cases in which a party has requested a hearing that are heard or otherwise resolved within 30 days of a hearing
+request. The target of 60% is the target established by the DOL. A higher percentage is better.
+
+HOW WE COMPARE: SFY 2020 performance was 72%. The measure varied from 61% to 83% during SFY 2015-2019.
+
+Factors Affecting Results
+The OAH continues to exceed the target set by the DOL. With the unprecedented number of Oregonians who need unemployment benefits, the OAH anticipates an increase in the number of
+decisions that are appealed. We will continue to monitor weekly referrals and will utilize cross-trained staff where necessary to meet the increased need, and to ensure we continue to resolving cases
+in a timely manner.
+KPM #8       NON-UNEMPLOYMENT INSURANCE APPEALS TIMELINESS - Percentage of orders issued within the standards established by the user agencies.
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                 2016                              2017                              2018                              2019                              2020
+Non-UI Appeals Timeliness
+Actual                                                                         96%                               92%                               92%                               92%                               91%
+Target                                                                         93%                               93%                               93%                               93%                               93%
+
+How Are We Doing
+PERFORMANCE: The percentage of non-UI cases disposed of within the standards for SFY 2020 was 91%, which is lower (worse) than the target of 93%.
+
+OUR STRATEGY: The timeliness standards for non-UI appeals are established by the user agencies. The OAH monitors decision deadlines to ensure that orders are issued within established
+timeframes.
+
+ABOUT THE TARGETS: The user agencies establish the timeliness standards for non-UI hearings. A higher percentage of orders issued within the standard set by the user agency is better.
+
+HOW WE COMPARE: The OAH achieved the standard 91% of the time during SFY 2020. The OAH achieved this standard between 92% to 96% each year from SFY 2015-2019.
+
+Factors Affecting Results
+The OAH performed better than the target in many of our hearing programs; however, the timeliness of orders in cases for the Department of Human Services and the Oregon Liquor Control
+Commission fell short of their respective targets for SFY 2020. This resulted in an overall average just under target.
+
+The OAH regularly monitors timeliness for all hearing programs. With the unprecedented demand for public services, the OAH anticipates an increase in the number of Oregonians who will request
+hearings when services are denied or reduced. We will continue to monitor decision deadlines to ensure that orders are issued in a timely manner.
+KPM #9           AVERAGE DAYS TO ISSUE AN ORDER - Average number of days to issue an order following the close of record.
+                 Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                  actual     target
+
+  Report Year                                                                   2016                               2017                               2018                               2019                               2020
+Average Days to Issue Order
+Actual                                                                           4.10                               4.50                               4.50                              5.07                               4.40
+Target                                                                           6.60                               6.60                               6.60                              6.60                               6.60
+
+How Are We Doing
+PERFORMANCE: During SFY 2020 performance was 4.4 days, which is lower (better) than the target of 6.6 days.
+
+OUR STRATEGY: The OAH monitors the number of days to produce legally sufficient decisions. The OAH goal is to be as prompt as possible.
+
+ABOUT THE TARGETS: An important aspect of timeliness is the average number of days it takes an Administrative Law Judge to issue an order following the close of the record. The time needed to
+write and issue an order varies with the complexity and duration of a hearing. If quality is maintained, the public is better served by orders that are issued promptly.
+
+HOW WE COMPARE: The average days to issue an order was 4.4 days in SFY 2020. The measure varied from 4.1 to 5.1 days during SFY 2015-2019.
+
+Factors Affecting Results
+The average number of days in which cases were resolved in SFY 2020 was essentially the same as it was in SFY 2018, and is consistent with past years’ performance. While the average number of
+days increased modestly in SFY 2019, it was still well below the target. The complexity of cases handled in a year, the number of cases that settle prior to a hearing, and the number of cases in which
+a party fails to appear are all influencing factors.
+
+Orders in Unemployment Insurance cases are typically issued within a few days after the hearing. The OAH expects the number of UI cases to increase significantly due to the unprecedented level of
+UI claimants during the current pandemic and economic recession. As a result, the OAH may see a further reduction in the average number of days to issue an order in SFY 2021.
+KPM #10             COST PER REFERRAL TO OAH - Average cost of hearing referral to the Office of Administrative Hearings.
+                    Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                 actual     target
+
+  Report Year                                                                 2016                               2017                               2018                               2019                               2020
+Cost Per Referral to OAH
+Actual                                                                      $500.00                            $529.00                            $564.00                            $686.00                            $737.00
+Target                                                                      $467.00                            $515.00                            $532.00                            $532.00                            $657.00
+
+How Are We Doing
+PERFORMANCE: The cost per referral was $737 in SFY 2020, which is higher (worse) than the target of $657.
+
+OUR STRATEGY: To maintain service levels without increasing costs to agencies that refer cases to the OAH.
+
+ABOUT THE TARGETS: Cost per referral is derived from the cost of the OAH program between years. The target will be adjusted for inflation and mix of referrals each biennium based on the
+Governor's Budget. An estimated target of $742 was assigned for 2022 and 2023 and will be updated when the Governor's Budget for the 2021-23 bienniem is released. A lower cost per referral is
+better.
+
+HOW WE COMPARE: The average cost per referral was $737 in SFY 2020, which is an increase of 7% compared to SFY 2019 and an increase of 31% compared to SFY 2018. The average cost per
+referral has increased (worsened) each year since SFY 2015.
+
+Factors Affecting Results
+The increased cost per referral reflects a decline in the number of cases referred to the OAH, particularly in the last quarter of SFY, associated with the temporary closure of some businesses in
+Oregon. Because of restrictions on bars and restaurants, the OAH saw a decline in the number of hearing referrals related to Oregonians accused of driving under the influence of intoxicants. In the
+immediate aftermath of the pandemic, the OAH also saw a decrease in the number of unemployment insurance hearings as the Department adopted more lenient eligibility rules and few employers
+contested claims for benefits.
+Given the pandemic and the unprecedented number of UI claims beginning in March 2020, the OAH expects the number of unemployment hearing referrals to increase significantly in SFY 2021.
+Because unemployment insurance hearings are relatively brief, and thus less costly, the anticipated increase in these hearings will likely reduce the average cost per referred case.
+KPM #11       HIGHER AUTHORITY APPEALS TIMELINESS - Percentage of cases requesting an appeal that receive a decision within 45 days of the date of request.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                               actual    target
+
+  Report Year                                                                2016                              2017                             2018                              2019                             2020
+Higher Authority Appeals Timeliness
+Actual                                                                        91%                               99%                             100%                              100%                             100%
+Target                                                                        75%                               80%                              80%                               80%                              80%
+
+How Are We Doing
+PERFORMANCE: During SFY 2020, the percent of appeals that received a decision within 45 days or less was 100%. This was the third year in a row that this performance measure was 100%.
+
+OUR STRATEGY: To continue to issue decisions promptly.
+
+ABOUT THE TARGET: A higher percent is better.
+
+HOW WE COMPARE: The performance in SFY 2020 was 100%. This measure has varied from 80% to 100% since SFY 2015. The performance of 100% is much higher (better) than the average
+national performance of 64%.
+
+Factors Affecting Results
+During SFY 2015, the Employment Appeals Board (EAB) was challenged by staff reductions and budgetary considerations. The EAB successfully met these challenges by reorganizing staff, changing
+assignments, and implementing measures to meet new challenges as they occur. As a result, a higher percentage of appeal timeliness was achieved in SFY 2016, and even higher percentages of
+appeal timeliness were achieved in SFY 2017, 2018, 2019, and 2020. The EAB will continue to work with the Department and the OAH to improve efficiencies in adjudication and appeals processes.
+KPM #12        TIMELINESS OF NEW STATUS DETERMINATIONS - Percentage of new status determinations completed within 90 days of the end of the liable quarter.
+               Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2016                              2017                               2018                              2019                               2020
+Timeliness of New Status Determination
+Actual                                                                          75%                                76%                               74%                                78%                               79%
+Target                                                                          80%                                80%                               80%                                80%                               80%
+
+How Are We Doing
+PERFORMANCE: 79% of registrations were completed within 90 days in SFY 2020, which is close to the target of 80%.
+
+OUR STRATEGY: To implement processes to monitor and ensure tax accounts are established within 90 days of the end of the first of the quarter in which liability occurs. This includes working with
+those who do not provide the Department with timely information needed to start the status determination process and identifying ways to streamline processes and more agilely utilize our staff.
+
+ABOUT THE TARGET: The DOL sets the target of the timeliness for new status determinations at 70%. The Department set a higher target based on the importance of this measurement to the
+Department’s business and the long-term goal of the DOL to reach 89%. Determining employer status in a timely manner influences the timeliness of getting wage data that is needed to quickly and
+accurately process claims and influences the timeliness of UI tax payments.
+
+HOW WE COMPARE: Performance in SFY 2020 was 79%. The measure ranged from 63% to 76% during SFY 2015-2019. While the SFY 2020 performance is lower (worse) than our target of 80%, it
+exceeds the target of 70% established by DOL and is higher than previous SFY's.
+
+Factors Affecting Results
+In the last quarter of SFY 2020, there was an unprecedented demand for experienced UI staff to assist with processing the influx of initial claims in response to the pandemic. Many of the staff who
+would otherwise focus on the tax work that improves the timeliness of new status determinations were temporarily reassigned to process claims. The technology used to process the determinations is
+an aging infrastructure, and it must be updated to provide for more timely determinations and more automated processes. The Department implemented an automated report to monitor progress on a
+weekly basis, which helped to improve the SFY 2017 performance and allows for better management of the registration process. However, additional improvements to the online combined registration
+system are necessary to ensure registrations contain complete information and allow for more automated determinations. The Department will continue outreach to employers and their
+representatives to reduce the number of late registrations and to monitor timeliness.
+
+A significant percentage of status determination work arrives at the Department as part of a shared combined business registration process coordinated by the Secretary of State, and which also
+involves the Department of Revenue and Department of Consumer and Business Services. Maintaining a system that meets the diverse needs of these agencies can be a challenge.
+KPM #13    CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent," including overall customer service, timeliness, accuracy,
+           helpfulness, expertise, and availability of information.
+           Data Collection Period: Jul 01 - Jun 30
+
+                                                                          actual    target
+
+ Report Year                                                             2016                           2017                           2018                            2019                           2020
+Expertise
+Actual                                                                 79.80%                          80.40%                         82.70%                          81.95%                         60.20%
+Target                                                                 95.50%                          95.50%                         95.50%                          95.50%                         95.50%
+Accuracy
+Actual                                                                 77.70%                          78.30%                         79.90%                          78.15%                         62.60%
+Target                                                                 95.50%                          95.50%                         95.50%                          95.50%                         95.50%
+Availability of Information
+Actual                                                                   78%                           78.90%                         81.70%                          79.80%                         64.20%
+Target                                                                 95.50%                          95.50%                         95.50%                          95.50%                         95.50%
+Timeliness
+Actual                                                                 75.80%                          76.90%                         81.40%                          78.15%                         61.80%
+Target                                                                 95.50%                          95.50%                         95.50%                          95.50%                         95.50%
+Overall
+Actual                                                                 79.10%                          80.70%                         83.30%                          81.95%                         65.30%
+Target                                                                 95.50%                          95.50%                         95.50%                          95.50%                         95.50%
+Helpfulness
+Actual                                                                 80.90%                          81.90%                           84%                            83%                             61%
+Target                                                                 95.50%                          95.50%                         95.50%                          95.50%                         95.50%
+
+How Are We Doing
+PERFORMANCE: Data represents survey responses from UI claimants, job seekers, and employers who listed openings with the Department. Performance in overall service quality during SFY 2020
+was 65.94% and is closely tied to the other measures of performance for customer satisfaction including expertise, accuracy, availability of information, timeliness, and helpfulness. The performance is
+below (worse than) the target of 95.50%.
+
+OUR STRATEGY: To continuously prioritize and execute customer service improvements. The Department monitors the information received from monthly customer satisfaction surveys, seeking to
+identify ways to improve.
+
+ABOUT THE TARGET: The Department set the target for favorable rating at 95.50% to aspire for the highest quality customer service for job seekers, businesses with recruitments, and UI claimants.
+Although the target was set based on a completely different survey methodology, the Department continues to pursue the high standard to support business and promote employment. A higher
+percent is better.
+
+HOW WE COMPARE: The performance in overall service quality in SFY 2020 was 65.94%. The measure has varied between 79.1% and 83.30% during SFY 2016-2019. In SFY 2015, the
+Department implemented a new online survey distribution process for sampling all customer groups. The change broadened the survey population to include more customers, which reduces selection
+bias. Due to the changes made in SFY 2015, measurements for 2016 onward should not be compared to measures prior to 2016. Measurements for SFY 2016 onward provide comparable
+measurements.
+
+Factors Affecting Results
+The survey process implemented in 2015 provides broader coverage, greater anonymity, and a much larger number of responses than previous processes. The results provide better information
+about customer expectations and the experience of receiving services from the Department.
+
+Timeliness, helpfulness, and expertise, particularly for UI claimants, were the major components of customer satisfaction with the worst performance. (KPM #5 relates to timeliness of one aspect of the
+UI process; performing lower than the target for SFY 2020 is likely one factor reflected in customer satisfaction scores.) Accuracy and availability of information, particularly for UI claimants, were the
+components of customer satisfaction with the best performance. The Department is in the process of changing service delivery to better align with the new information. However, resource constraints
+directly impact the pace at which we can implement a new service paradigm.
+
+The number of UI customers surveyed increased drastically in March, April, and May. This increase in the last quarter greatly impacted performance results for the PY. For SFY 2020, customers
+served between July and February rated overall quality at 82%. Customers served between March and May rated overall quality at 45%. The change in quality rates for business and individual
+experience with UI in the last quarter also impacted other satisfaction surveys as evidenced by the comments left on the business and job seeker surveys.
+
+For job seekers and businesses: The Department is continuing its collaboration with system partners to implement a customer-centric WorkSource Oregon (WSO) experience that is easy to access,
+highly effective, and simple for customers to understand. The Department is also continuing to invest in the redesign of WSO centers to reflect a customer-centric, professional, and welcoming
+environment.
+
+Additionally, the Department is investing in technology to support system requirements that meet WSO Standards, and will continue working with system partners to provide customers with better
+resources and services that meet their needs. WSO centers in the last quarter were closed to in-person services, and a number of employment services were restricted.
+
+For Ul claimants: At every stage of the claims process, customers must be responded to more. While current technology platforms impair the Department's ability to automate processes and make
+other adjustments, some efforts to streamline processes and improve the customer experience are being implemented: With the help of customer-based focus groups, public-facing documents are
+revised to be more helpful and understandable. The Department is also using more digital communication tools, making the customer experience more convenient, and a quicker option than a phone
+call. The
+
+Department is focusing on decreasing wait times for answering calls, and increasing training on how to provide high quality customer service, particularly for those who may have barriers to accessing
+our services. The Department is also in the process of modernizing both our business processes and our systems for UI programs. While this is a multi-year endeavor, modernized systems and
+processes will allow for more self-service options, more timely responses to claimants, and will ultimately provide for greater customer satisfaction.
+
+It is important to note that some people who seek benefits may not be eligible for the benefits they apply for. Therefore, some people who do not receive benefits that they may need but are not eligible
+for might give a lower service rating.
+KPM #14     FOUNDATIONAL SURVEY RESPONSE RATE - Ordinary (non-weighted) arithmetic mean of four annual response rates: (1) Occupational Employment Statistics employment; (2)
+            Occupational Employment Statistics units; (3) Annual Refiling Survey employment; and (4) Annual Refiling Survey units.
+            Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2016                              2017                              2018                              2019                              2020
+FOUNDATIONAL SURVEY RESPONSE RATE
+Actual                                                                         87%                               88%                               86%                               85%                               86%
+Target                                                                         73%                               73%                               73%                               73%                               80%
+
+How Are We Doing
+PERFORMANCE: Data reported reflect response rates for the calendar year. The 2020 measure (based on 2019 calendar year data) shows a 86% response rate.
+
+OUR STRATEGY: The Workforce and Economic Research Division (Research) follows a well-established research protocol in partnership with the federal Bureau of Labor Statistics (BLS) to
+complete the Quarterly Census of Employment and Wages and Occupational Employment Statistics surveys. Research staff work towards maximizing compliance and lessening reporting burden.
+
+ABOUT THE TARGETS: Higher response rates (percent) lead to more robust data that can produce more reliable estimates. The target response rate incorporates data from both the BLS and
+the Department. The target response rate is 80%.
+
+HOW WE COMPARE: The actual response rate of 86% program year 2020 is well over the target of 80%.
+
+Factors Affecting Results
+The data represent response rates from the Quarterly Census of Employment and Wages, and the Occupational Employment Statistics surveys. These two sources of information, gathered from
+employers in every industry and area of Oregon, are foundational to the Workforce and Economic Research Division's published and publicly available industry and occupational statistics.
+
+Survey response rates are influenced by an appropriate survey length; relevancy of a survey topic to the recipient; follow-up actions, such as multiple contacts to request completions; and delivery
+methods. The Workforce and Economic Research Division uses survey instruments designed by the BLS to provide high-quality data that meet national statistical standards. Also, research staff work
+with employers to collect detailed and accurate responses.

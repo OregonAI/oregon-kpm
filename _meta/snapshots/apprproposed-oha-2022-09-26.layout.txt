@@ -1,0 +1,828 @@
+Oregon Health Authority
+       Annual Performance Progress Report
+
+              Reporting Year 2022
+
+         Published: 9/26/2022 2:04:50 PM
+ KPM #      Approved Key Performance Measures (KPMs)
+
+1          INITIATION OF ALCOHOL AND OTHER DRUG DEPENDENCE TREATMENT - Percentage of members with a new episode of alcohol or other drug dependence who received initiation of AOD treatment within 14 days of diagnosis.
+2          ENGAGEMENT OF ALCOHOL AND OTHER DRUG DEPENDENCE TREATMENT - Percentage of members with a new episode of alcohol or other drug dependence who received two or more services within 30 days of initiation visit.
+3          FOLLOW-UP AFTER HOSPITALIZATION FOR MENTAL ILLNESS - Percentage of enrollees 6 years of age and older who were hospitalized for treatment of mental health disorders and who were seen on an outpatient basis or were in intermediate
+           treatment within seven days of discharge.
+4          MENTAL, PHYSICAL, AND DENTAL HEALTH ASSESSMENTS FOR CHILDREN IN DHS CUSTODY - Percentage of children in DHS custody who receive a mental, physical, and dental health assessment within 60 days of the state notifying CCOs
+           that the children were placed into custody with DHS (foster care).
+5          FOLLOW-UP CARE FOR CHILDREN PRESCRIBED WITH ADHD MEDICATION (INITIATION) - Percentage of children newly prescribed attention-deficit/hyperactivity disorder (ADHD) medication who had at least three follow-up care visits within a 10-
+           month period, one of which was within 30 days of when the first ADHD medication was dispensed
+6          FOLLOW-UP CARE FOR CHILDREN PRESCRIBED WITH ADHD MEDICATION (CONTINUATION AND MAINTENANCE) - Percentage of children newly prescribed attention-deficit/hyperactivity disorder (ADHD) medication who had at least three
+           follow-up care visits within a 10-month period, one of which was within 30 days of when the first ADHD medication was dispensed
+8          30 DAY ALCOHOL USE AMONG 6TH GRADERS - Percentage of 6th graders who have used alcohol in the past 30 days.
+9          30 DAY ILLICIT DRUG USE AMONG 8TH GRADERS - Percentage of 8th graders who have used illicit drugs in the past 30 days.
+10         30 DAY ALCOHOL USE AMONG 8TH GRADERS - Percentage of 8th graders who have used alcohol in the past 30 days.
+11         30 DAY ILLICIT DRUG USE AMONG 11TH GRADERS - Percentage of 11th graders who have used illicit drugs in the past 30 days.
+12         30 DAY ALCOHOL USE AMONG 11TH GRADERS - Percentage of 11th graders who have used alcohol in the past 30 days.
+13         PRENATAL CARE (POPULATION) - Percentage of women who initiated prenatal care in the first 3 months of pregnancy.
+14         PRENATAL CARE (MEDICAID) - Percentage of women who initiated prenatal care within 42 days of enrollment.
+15         PATIENT CENTERED PRIMARY CARE HOME (PCPCH) ENROLLMENT - Number of members enrolled in patient-centered primary care homes by tier.
+16         PQI 01: Diabetes Short-Term Complication Admission Rate -
+17         PQI 05: COPD or Asthma in Older Adults Admission Rate -
+18         PQI 08: Congestive Heart Failure Admission Rate -
+19         PQI 15: Asthma in Younger Adults Admission Rate -
+20         ACCESS TO CARE - Percentage of members who responded "always" or "usually" to getting care quickly.
+21         MEMBER SATISFACTION OF CARE - Composite measurement: how well doctors communicate; health plan information and customer service (Medicaid population).
+22         MEMBER HEALTH STATUS - Percentage of CAHPS survey respondents with a positive self-reported rating of overall health (excellent, very good, or good).
+23         RATE OF TOBACCO USE (POPULATION) - Rate of tobacco use among adults.
+24         RATE OF TOBACCO USE (MEDICAID) - Percentage of CCO enrollees who currently smoke cigarettes or use tobacco every day or some days.
+25         RATE OF OBESITY (POPULATION) - Percentage of adults who are obese among Oregonians.
+26         EFFECTIVE CONTRACEPTIVE USE (POPULATION) - Percentage of reproductive age women who are at risk of unintended pregnancy using an effective method of contraception.
+27         EFFECTIVE CONTRACEPTIVE USE (MEDICAID) - Percentage of reproductive age women who are at risk of unintended pregnancy using an effective method of contraception.
+28         FLU SHOTS (POPULATION) - Percentage of adults ages 50-64 who receive a flu vaccine.
+29         CHILD IMMUNIZATION RATES (POPULATION) - Percentage of children who are adequately immunized (immunization series 4:3:1:3:3:1:4).
+30         CHILD IMMUNIZATION RATES (MEDICAID) - Percentage of children who are adequately immunized (immunization series 4:3:1:3:3:1:4).
+31         PLAN ALL CAUSE READMISSIONS - Percentage of acute inpatient stays that were followed by an acute readmission for any diagnosis within 30 days and the predicted probability of an acute readmission for members 18 years and older.
+32         ELIGIBILITY PROCESSING TIME - Median number of days processing time from date of request to eligibility determination.
+33         OHP MEMBERS IN CCOs - Percent of Oregon Health Plan members enrolled in Coordinated Care Organizations.
+34         CUSTOMER SERVICE - Percentage of OHA customers rating their satisfaction with the agency's customer service as "good" or "excellent" overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+
+ Proposal      Proposed Key Performance Measures (KPMs)
+ Proposal       Proposed Key Performance Measures (KPMs)
+
+Delete         FOLLOW-UP CARE FOR CHILDREN PRESCRIBED WITH ADHD MEDICATION (INITIATION) - Percentage of children newly prescribed attention-deficit/hyperactivity disorder (ADHD) medication who had at least three follow-up care visits within a
+               10-month period, one of which was within 30 days of when the first ADHD medication was dispensed
+Delete         FOLLOW-UP CARE FOR CHILDREN PRESCRIBED WITH ADHD MEDICATION (CONTINUATION AND MAINTENANCE) - Percentage of children newly prescribed attention-deficit/hyperactivity disorder (ADHD) medication who had at least three
+               follow-up care visits within a 10-month period, one of which was within 30 days of when the first ADHD medication was dispensed
+Delete         30 DAY ALCOHOL USE AMONG 6TH GRADERS - Percentage of 6th graders who have used alcohol in the past 30 days.
+Delete         30 DAY ILLICIT DRUG USE AMONG 11TH GRADERS - Percentage of 11th graders who have used illicit drugs in the past 30 days.
+Delete         30 DAY ALCOHOL USE AMONG 11TH GRADERS - Percentage of 11th graders who have used alcohol in the past 30 days.
+Delete         PRENATAL CARE (POPULATION) - Percentage of women who initiated prenatal care in the first 3 months of pregnancy.
+Delete         PRENATAL CARE (MEDICAID) - Percentage of women who initiated prenatal care within 42 days of enrollment.
+Delete         PATIENT CENTERED PRIMARY CARE HOME (PCPCH) ENROLLMENT - Number of members enrolled in patient-centered primary care homes by tier.
+Delete         PQI 01: Diabetes Short-Term Complication Admission Rate -
+Delete         PQI 05: COPD or Asthma in Older Adults Admission Rate -
+Delete         PQI 08: Congestive Heart Failure Admission Rate -
+Delete         PQI 15: Asthma in Younger Adults Admission Rate -
+Delete         MEMBER HEALTH STATUS - Percentage of CAHPS survey respondents with a positive self-reported rating of overall health (excellent, very good, or good).
+Delete         RATE OF TOBACCO USE (MEDICAID) - Percentage of CCO enrollees who currently smoke cigarettes or use tobacco every day or some days.
+Delete         EFFECTIVE CONTRACEPTIVE USE (POPULATION) - Percentage of reproductive age women who are at risk of unintended pregnancy using an effective method of contraception.
+Delete         EFFECTIVE CONTRACEPTIVE USE (MEDICAID) - Percentage of reproductive age women who are at risk of unintended pregnancy using an effective method of contraception.
+Delete         FLU SHOTS (POPULATION) - Percentage of adults ages 50-64 who receive a flu vaccine.
+Delete         CHILD IMMUNIZATION RATES (POPULATION) - Percentage of children who are adequately immunized (immunization series 4:3:1:3:3:1:4).
+Delete         CHILD IMMUNIZATION RATES (MEDICAID) - Percentage of children who are adequately immunized (immunization series 4:3:1:3:3:1:4).
+Delete         PLAN ALL CAUSE READMISSIONS - Percentage of acute inpatient stays that were followed by an acute readmission for any diagnosis within 30 days and the predicted probability of an acute readmission for members 18 years and older.
+Delete         ELIGIBILITY PROCESSING TIME - Median number of days processing time from date of request to eligibility determination.
+Delete         OHP MEMBERS IN CCOs - Percent of Oregon Health Plan members enrolled in Coordinated Care Organizations.
+New            Health Equity Measure – component #1: Meaningful language access to culturally responsive health care services for CCO members - Component 1 is based on an annual language access self-assessment survey and designed to evaluate the
+               development of structures and workflow processes to provide quality and consistent interpreter services.
+New            Health Equity Measure – component #2: Meaningful language access to culturally responsive health care services for CCO members - Component 2 is based on the reporting of quarterly utilization data on interpreter services and designed to
+               measure quality of interpreter services.
+New            Infant Mortality Rate - Rate of infants who die in the first year of life. Numerator: # of deaths of infants <365 days of age in specified time period. Denominator: 100,000 live births in specified time period. Rate = (Num/Denom)*100,000
+New            Reduction of Severe Maternal Morbidity - TBD
+New            Comparison of OHA Workforce to Potential Labor Market - Comparisons of the OHA workforce to the potential labor market provide a measurement of parity, defined as: achieving comparable representation of Tribal communities, communities of
+               color, people with disabilities and females (binary gender for now) in OHA’s workforce to the same proportion in the potential labor market.
+New            Comparison of OHA Non-Supervisory Managers to Potential Labor Market - Comparisons of OHA non-supervisory managers to the potential labor market provide a measurement of parity, defined as: achieving comparable representation of Tribal
+               communities, communities of color, people with disabilities and females (binary gender for now) who are OHA non-supervisory managers to the same proportion in the potential labor market.
+New            Comparison of OHA Supervisory Managers to Potential Labor Market - Comparisons of OHA supervisory managers to the potential labor market provide a measurement of parity, defined as: achieving comparable representation of Tribal
+               communities, communities of color, people with disabilities and females (binary gender for now) who are OHA supervisory managers to the same proportion in the potential labor market.
+New            Comparison of OHA Voluntary Separations to All Agency Separations - OHA defines parity as achieving comparable representation of Tribal communities, communities of color, people with disabilities and females (binary gender for now) in OHA’s
+               workforce to the same proportion to OHA’s potential labor market.
+               Comparison of OHA Involuntary Separations to All Agency Separations - Parity is determined by a ratio of OHA involuntary separations—dismissal, dismissal during trial service or layoff—(numerator) and all agency separations (denominator). If the
+New            ratio score is greater than or equal to 0.90 for Tribal communities, communities of color, people with disabilities or females, then there is a relatively high representation of that group in involuntary separations from the agency. Excludes deaths and
+               unknown separations.
+ Proposal        Proposed Key Performance Measures (KPMs)
+
+New             Quality of Life - Poor Physical Health - Average number of physically unhealthy days in the past 30 among adults. Measuring health-related quality of life helps build understanding around people’s lived experience with disabilities and chronic
+                diseases across the population. Self-report of days when physical health was not good is a reliable estimate of recent health status.
+New             Quality of Life - Poor Mental Health - Average number of mentally unhealthy days in the past 30 days (age 18+). Measuring health-related quality of life helps build understanding around people’s lived experience with disabilities and chronic diseases
+                across the population. Self-report of days when mental health was not good is a reliable estimate of recent health status.
+New             Premature Death - Number of years of potential life lost (YPLL) per 100,000 before age 75. Premature death is measured by summing the years between age at death and age 75 across all people who died before reaching that age. It’s a way of
+                quantifying the societal impact of early deaths in a population. Causes of death that are more likely to affect younger people – such as congenital anomalies and accidental injuries – contribute to higher rates of premature death.
+New             Mortality from Drug Overdose - Number of deaths per 100,000 from drug overdoses excluding suicide. Drug overdose deaths account for a major proportion of all premature deaths and are largely preventable.
+                Tobacco Use - Teens - Percent of 11th graders who use tobacco (past 30 days). Cigarette smoking is the most common cause of preventable death and disease. It is identified as a cause of various cancers, cardiovascular disease, and respiratory
+New             conditions, as well as low birthweight and other adverse health outcomes. Many teen smokers become adult smokers. Measuring the prevalence of tobacco use in the youth population can alert communities to potential adverse health outcomes and
+                can be valuable for assessing the need for prevention programs or the effectiveness of existing programs.
+New             Obesity - Teens - Percent of 11th graders who are obese (BMI >= 95th percentile for age/sex). Obesity is the second leading cause of preventable death in Oregon. It is a major risk factor for high blood pressure, high cholesterol, diabetes, heart
+                disease, and cancer. Obese teens are at an increased risk of becoming obese adults.
+New             Statewide Sustainable Cost of Care - Comparison of health care cost changes to personal income changes
+New             OHA Sustainable Cost of Care - Difference between real personal income and health care inflation
+New             Critical events meeting the 14-calendar day timeline to provide correspondence to Tribal Leaders - To track compliance with the OHA Tribal Consultation Policy timelines, % of critical events meeting the timeline. Total number of critical events
+                meeting the timeline/total number of identified critical events.
+New             Tribal consultations meeting the 30-calendar day timeline for reporting of outcome of consultation - To track compliance with the OHA Tribal Consultation Policy timelines, % of consultations reporting outcome within 30 calendar days. Total number of
+                consultations meeting reporting timeline/total number of consultations
+                Timeliness of Translations During Emerging Public Health Events - To allow for equitable access to important public health information during public health events. Meet Federal and state legal obligations to provide information in alternative
+New             languages and formats, including Title VI of the Civil Rights Act. Compliance with agency policies, including DHS|OHA-010-013 Alternate Formats and Language Access Services. Number of hours from Incident Manager approval of an important
+                (expedited) public information document for an identified public health event to the return of translated documents to the incident’s Joint Information Center.
+
+                                                                                                                                                               red
+                                                                                                                                                               green
+                                                                                                                                                               yellow
+
+ Performance Summary                                                                                                                                                 Green                                                         Yellow                                                           Red
+
+                                                                                                                                                                = Target to -5%                                           = Target -5% to -15%                                               = Target > -15%
+Summary Stats:                                                                                                                                                       45.16%                                                        22.58%                                                         32.26%
+KPM #1    INITIATION OF ALCOHOL AND OTHER DRUG DEPENDENCE TREATMENT - Percentage of members with a new episode of alcohol or other drug dependence who received initiation of
+          AOD treatment within 14 days of diagnosis.
+          Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2020                             2021                              2022                              2023                              2024
+Initiation of alcohol and other drug dependence treatment
+Actual                                                                       37.80%                            39.30%                            39.30%
+Target                                                                       40.20%                            40.20%                            40.20%                            40.20%                            40.20%
+
+How Are We Doing
+The percentage of members ages 13 and older newly diagnosed with alcohol or other drug dependencies who initiated treatment within 14 days stayed the same at 39.3% from 2020 to 2021. Data
+prior to 2020 are not directly comparable to 2020 and 2021 data due to a methodology change.
+
+Factors Affecting Results
+ It is possible that the increased statewide emphasis on alcohol and drug use screening (SBIRT) due to the CCO incentive measure in 2020 resulted in an increase in initiation of alcohol and drug
+treatment, as more individuals with risky or problematic substance use are identified and referred to treatment services.
+KPM #2    ENGAGEMENT OF ALCOHOL AND OTHER DRUG DEPENDENCE TREATMENT - Percentage of members with a new episode of alcohol or other drug dependence who received two or
+          more services within 30 days of initiation visit.
+          Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                             actual     target
+
+  Report Year                                                               2020                             2021                             2022                             2023                             2024
+Engagement of alcohol and other drug dependence treatment
+Actual                                                                     12.10%                           16.20%                           15.40%
+Target                                                                       11%                              11%                              11%                              11%                              11%
+
+How Are We Doing
+The percentage of members who continued their treatment decreased from 16.2% in 2020 to 15.4% in 2021. However, Data prior to 2020 is not directly comparable to 2020 and 2021 data due to a
+methodology change.
+
+Factors Affecting Results
+This was selected to be an incentive measure beginning in 2020, which possibly brought increased focus on this measure. However, the COVID-19 pandemic may have impacted initial gains.
+KPM #3    FOLLOW-UP AFTER HOSPITALIZATION FOR MENTAL ILLNESS - Percentage of enrollees 6 years of age and older who were hospitalized for treatment of mental health disorders and
+          who were seen on an outpatient basis or were in intermediate treatment within seven days of discharge.
+          Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2020                              2021                              2022                              2023                              2024
+Follow-up after hospitalization for mental illness
+Actual                                                                       75.70%                            74.90%                            69.10%
+Target                                                                         72%                               72%                               72%                               72%                               72%
+
+How Are We Doing
+Performance on this measure continued to decline from 2020 to 2021. This is the fourth year in which performance has declined.
+
+Factors Affecting Results
+After rising steadily while included in the CCO Quality Incentive Program, performance on this measure has continued to decline since it was retired from the program in 2018. The decline continued
+through the COVID-19 pandemic.
+KPM #4    MENTAL, PHYSICAL, AND DENTAL HEALTH ASSESSMENTS FOR CHILDREN IN DHS CUSTODY - Percentage of children in DHS custody who receive a mental, physical, and dental
+          health assessment within 60 days of the state notifying CCOs that the children were placed into custody with DHS (foster care).
+          Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                             actual     target
+
+  Report Year                                                               2020                             2021                             2022                             2023                             2024
+MENTAL, PHYSICAL, AND DENTAL HEALTH ASSESSMENTS FOR CHILDREN IN DHS CUSTODY
+Actual                                                                     87.80%                           79.90%                           88.10%
+Target                                                                       90%                              90%                              90%                              90%                              90%
+
+How Are We Doing
+The percentage of children in foster care who received mental, physical, and dental health assessments increased from 79.9% in 2020 to 88.1% in 2021. Previously, 2020 was the first year in which
+this measure decreased since 2014. The 2021 rate of 88.1% marks a return back to the year over year increases seen in 2014 - 2019.
+
+Factors Affecting Results
+The COVID-19 pandemic negatively impacted this measure in 2020.
+
+NOTE: 2013 not comparable to later years due to methodology change. In addition, dental assessments added in 2014.
+KPM #5     FOLLOW-UP CARE FOR CHILDREN PRESCRIBED WITH ADHD MEDICATION (INITIATION) - Percentage of children newly prescribed attention-deficit/hyperactivity disorder (ADHD)
+           medication who had at least three follow-up care visits within a 10-month period, one of which was within 30 days of when the first ADHD medication was dispensed
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2020                               2021                              2022                               2023                               2024
+Follow-up care for children prescribed with ADHD medication (initiation)
+Actual                                                                           64%                               66%                                58%
+Target                                                                           54%                               54%                                54%                                54%                                54%
+
+How Are We Doing
+The rate of children ages 6-12 who had at least one follow-up visit with a health care provider during the 30 days after receiving a new prescription for ADHD medication improved through 2018
+(65.9%), declined in 2019 (64.0%), and improved to slightly above the 2018 rate in 2020 (66.0%). In 2021, the rate dropped to 58.0%, which is the lowest performance since 2014. NOTE: This
+measure was included in the CCO Quality Incentive Program, for which CCOs can earn incentive payments based upon performance improvements, in 2013 and 2014.
+
+Factors Affecting Results
+We have heard from providers that limiting the follow up visit to within the first 30 days is not well aligned with some of the current ADHD medications, which may require a 45 day initial prescription.
+Children with these longer initial prescriptions would fall outside of the 30 day window for this measure. The COVID-19 pandemic may have affected most recent performance.
+
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+           FOLLOW-UP CARE FOR CHILDREN PRESCRIBED WITH ADHD MEDICATION (CONTINUATION AND MAINTENANCE) - Percentage of children newly prescribed attention-
+KPM #6     deficit/hyperactivity disorder (ADHD) medication who had at least three follow-up care visits within a 10-month period, one of which was within 30 days of when the first ADHD medication was
+           dispensed
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2020                               2021                              2022                               2023                               2024
+Follow-up care for children prescribed with ADHD medication (continuation and maintenance)
+Actual                                                                         73.60%                            76.40%                             69.40%
+Target                                                                           65%                               65%                                65%                                65%                               65%
+
+How Are We Doing
+Calendar year 2011 is the baseline for this measure. In 2011, 61.0% of children who remained on ADHD medication for 210 days after receiving a new prescription also had at least two follow up visits
+with a provider. This rate remained fairly steady in 2013 and 2014, and increased notably in 2015, with 68.9% of children receiving continued follow-up with a provider. The rate declined from 2018
+(74.4%) to 2019 (73.6%). In 2020 the rate increased to 76.4%. The rate dropped in 2021 to 69.4%.
+
+Factors Affecting Results
+A number of CCO incentive measures as well as initiatives including the patient-centered primary care home model put greater emphasis on preventive care and well child visits. These efforts may
+result in children being more likely to engage with their primary care providers, leading to greater follow-up care for children prescribed medications for their ADHD. This measure is also notable for
+small denominators across the CCOs (with some having fewer than 30 children that meet these criteria); data shifts are more likely given these small numbers. The COVID-19 pandemic may have
+affected most recent performance.
+
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #8          30 DAY ALCOHOL USE AMONG 6TH GRADERS - Percentage of 6th graders who have used alcohol in the past 30 days.
+                Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                               actual     target
+
+  Report Year                                                                 2020                              2021                              2022                             2023                              2024
+30 day alcohol use among 6th graders
+Actual                                                                                                         2.20%
+Target                                                                        3.50%                            3.50%                             3.50%                             3.50%                             3.50%
+
+How Are We Doing
+Data only collected in even numbered years. No update available.
+
+Factors Affecting Results
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #9        30 DAY ILLICIT DRUG USE AMONG 8TH GRADERS - Percentage of 8th graders who have used illicit drugs in the past 30 days.
+              Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                              actual     target
+
+  Report Year                                                                2020                             2021                             2022                              2023                             2024
+30 day illicit drug use among 8th graders
+Actual                                                                                                        1.70%
+Target                                                                        6%                               6%                                                                 6%                               6%
+
+How Are We Doing
+Data currently being collected in even numbered years and reported in odd numbered years. No update available.
+
+Factors Affecting Results
+KPM #10          30 DAY ALCOHOL USE AMONG 8TH GRADERS - Percentage of 8th graders who have used alcohol in the past 30 days.
+                 Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                             actual    target
+
+ Report Year                                                                2020                            2021                             2022                             2023                             2024
+30 day alcohol use among 8th graders
+Actual                                                                                                      6.10%
+Target                                                                      13%                              13%                                                              13%                              13%
+
+How Are We Doing
+Data currently being collected in even numbered years and reported in odd numbered years. No update available.
+
+Factors Affecting Results
+KPM #11          30 DAY ILLICIT DRUG USE AMONG 11TH GRADERS - Percentage of 11th graders who have used illicit drugs in the past 30 days.
+                 Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                actual     target
+
+  Report Year                                                                  2020                              2021                              2022                              2023                              2024
+30 day illicit drug use among 11th graders
+Actual                                                                                                          2.80%
+Target                                                                       16.50%                            16.50%                            16.50%                             16.50%                            16.50%
+
+How Are We Doing
+Data only collected in even numbered years. No update available.
+
+Factors Affecting Results
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #12          30 DAY ALCOHOL USE AMONG 11TH GRADERS - Percentage of 11th graders who have used alcohol in the past 30 days.
+                 Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                               actual     target
+
+  Report Year                                                                 2020                             2021                              2022                              2023                             2024
+30 day alcohol use among 11th graders
+Actual                                                                                                          17%
+Target                                                                        26%                               26%                               26%                              26%                               26%
+
+How Are We Doing
+Data only collected in even numbered years. No update available.
+
+Factors Affecting Results
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #13            PRENATAL CARE (POPULATION) - Percentage of women who initiated prenatal care in the first 3 months of pregnancy.
+                   Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                    actual     target
+
+  Report Year                                                                      2020                               2021                                2022                                2023                               2024
+Prenatal care - population
+Actual                                                                           81.60%                              81.80%                              82.10%
+Target                                                                             91%                                 91%                                 91%                                91%                                 91%
+
+How Are We Doing
+The percentage of women initiating prenatal care during the first trimester is a marker for access to maternal health care services. This percentage has been slowly but steadily increasing in Oregon
+from 2015 to 2021. Early prenatal care is important to identify and treat babies or mothers at risk for health conditions that can affect the pregnancy, such as hypertension and diabetes. It is also
+important because health care providers can educate and assist mothers with health issues related to pregnancy including nutrition, alcohol use, smoking, exercise, and preparing for childbirth and
+infant care. Prenatal care is an important screening point for behavioral and social risks such as perinatal depression, intimate partner violence, and food insecurity. Babies born to women who receive
+prenatal care early and throughout the pregnancy are less likely to have low birth weight or to be born prematurely. Psychosocial, financial, logistical, health care provider, and many other issues can
+create barriers for women in obtaining early prenatal care. This indicator is used by states and at the national level, as the data is from vital statistics (birth certificates), therefore making it widely
+available and representative of the population. While this indicator has been traditionally used, and is widely understood, it is also valuable to examine the Adequacy of Prenatal Care Utilization Index
+(https://www.mchlibrary.org/databases/HSNRCPDFs/Overview_APCUIndex.pdf), which examines the number of prenatal care visits a woman has received throughout pregnancy in addition to the
+timing of initiation. This allows for a more thorough examination of woman’s access to care. It is worth noting that the data for prenatal care used in both indicators is only available for live births, and
+therefore does not include information on the prenatal care of women who had a miscarriage or a still birth. The data on first trimester initiation of prenatal care is publicly released by the Oregon
+Center for Health Statistics in their Annual Vital Statistic Report. These reports can be found at
+https://www.oregon.gov/oha/PH/BIRTHDEATHCERTIFICATES/VITALSTATISTICS/ANNUALREPORTS/VOLUME1/Pages/index.aspx. Data entered is preliminary for 2021.
+
+Factors Affecting Results
+Women give a variety of reasons for not accessing early prenatal care. Women may not feel that early care is important, may not know they are pregnant, or may be experiencing barriers such as lack
+of insurance coverage, inability to get an appointment or unreliable transportation.
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #14            PRENATAL CARE (MEDICAID) - Percentage of women who initiated prenatal care within 42 days of enrollment.
+                   Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2020                              2021                              2022                               2023                              2024
+Prenatal care - Medicaid
+Actual                                                                        80.60%                             80.70%                              80%
+Target                                                                          91%                                91%                               91%                               91%                                91%
+
+How Are We Doing
+Performance on timeliness of prenatal care slightly decreased from 80.7% in 2020 to 80.0% in 2021.
+
+Factors Affecting Results
+This measure was an incentive measure through 2018, but not incentivized for 2019 onwards. NOTE: Results prior to 2014 are not directly comparable to later years due to change in methodology.
+
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #15       PATIENT CENTERED PRIMARY CARE HOME (PCPCH) ENROLLMENT - Number of members enrolled in patient-centered primary care homes by tier.
+              Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2020                              2021                              2022                              2023                              2024
+Patient centered primary care home (PCPCH) enrollment
+Actual                                                                         79%                             76.30%                             76.70%
+Target                                                                         100%                              100%                              68%                               68%                                68%
+
+How Are We Doing
+This measure uses a weighted methodology to ensure members are not just enrolled in a Patient-Centered Primary Care Home (PCPCH), but are enrolled in the higher PCPCH tiers. Statewide in
+2019, 96 percent of CCO members were enrolled in a PCPCH, resulting in a weighted score of 79. This weighted score dropped in 2020 to 76.3, with 92 percent of CCO members enrolled in a
+PCPCH. The weighed score increased slightly in 2021 to 76.7. Beginning in 2017, the PCPCH program launched 5 STAR recognition. This new level of recognition was incorporated into the weighting
+formula for PCPCH score. Thus, scores are not comparable to previous years.
+
+Factors Affecting Results
+Coordinated care organizations are driving improvement on this measure through two main efforts: (1) working with contracted providers to go through the PCPCH recognition process, and (2)
+preferentially assigning members to certified PCPCHs.
+
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #16                          PQI 01: Diabetes Short-Term Complication Admission Rate -
+                                 Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2020                               2021                              2022                               2023                               2024
+PQI 01: Diabetes Short-Term Complication Admission Rate
+Actual                                                                         212.90                             191.70                            173.20
+Target                                                                           138                                138                               138                                138                                138
+
+How Are We Doing
+The rate of adult members with diabetes who had a hospital stay because of a short-term problem from their disease improved from 191.7 in 2020 to 173.2 in 2021. Lower is better on this measure.
+This measure is calculated using proprietary software from AHRQ, which was updated in 2018. Because of the changes that AHRQ made to the way this measure is calculated, data prior to 2018 are
+not directly comparable to later years.
+
+Factors Affecting Results
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #17                           PQI 05: COPD or Asthma in Older Adults Admission Rate -
+                                  Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2020                               2021                              2022                               2023                               2024
+PQI 05: COPD or Asthma in Older Adults Admission Rate
+Actual                                                                         439.30                             325.80                            245.90
+Target                                                                           404                                404                               404                                404                                404
+
+How Are We Doing
+The rate of adult members (ages 40 and older) who had a hospital stay because of chronic obstructive respiratory disease or asthma improved from 325.8 in 2020 to 245.9 in 2021. Lower is better on
+this measure. This measure is calculated using proprietary software from AHRQ, which was updated in 2018. Because of the changes that AHRQ made to the way this measure is calculated, data
+prior to 2018 are not directly comparable to later years.
+
+Factors Affecting Results
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #18                                PQI 08: Congestive Heart Failure Admission Rate -
+                                       Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                  actual     target
+
+  Report Year                                                                   2020                               2021                               2022                               2023                              2024
+PQI 08: Congestive Heart Failure Admission Rate
+Actual                                                                          395.90                            432.50                             425.30
+Target                                                                           230                                230                                230                                230                               230
+
+How Are We Doing
+The rate of adult members who had a hospital stay because of congestive heart failure improved from 432.5 in 2020 to 425.3 in 2021. Lower is better on this measure. This measure is calculated
+using proprietary software from AHRQ, which was updated in 2018. Because of the changes that AHRQ made to the way this measure is calculated, data prior to 2018 are not directly comparable to
+later years.
+
+Factors Affecting Results
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #19                               PQI 15: Asthma in Younger Adults Admission Rate -
+                                      Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2020                               2021                              2022                               2023                               2024
+PQI 15: Asthma in Younger Adults Admission Rate
+Actual                                                                          42.40                              39.10                             25.20
+Target                                                                          47.50                              47.50                             47.50                              47.50                             47.50
+
+How Are We Doing
+The rate of younger adult members (ages 18-39) who had a hospital stay because of asthma improved from 39.1 in 2020 to 25.2 in 2021. Lower is better on this measure. This measure is calculated
+using proprietary software from AHRQ, which was updated in 2018. Because of the changes that AHRQ made to the way this measure is calculated, data prior to 2018 are not directly comparable to
+later years.
+
+Factors Affecting Results
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #20             ACCESS TO CARE - Percentage of members who responded "always" or "usually" to getting care quickly.
+                    Data Collection Period: Jan 01 - Dec 31
+
+                                                                                actual    target
+
+  Report Year                                                                 2020                              2021                              2022                              2023                              2024
+a. Adults
+Actual                                                                       81.70%                            81.80%                            79.40%
+Target                                                                         88%                               88%                               88%                               88%                               88%
+b. Children
+Actual                                                                       89.10%                            89.40%                            85.70%
+Target                                                                         88%                               88%                               88%                               88%                               88%
+
+How Are We Doing
+The percentage of adult members who thought they received appointments and care when needed was 79.4%. Prior to 2018, this measure was a weighted score across children and adults. From
+2018 on, however, these data are now disaggregated and reported separately for children and adults. This ensures that performance across the different age groups can be monitored appropriately
+and is based upon a decision from the Metrics and Scoring Committee. OHA added an oversample of race/ethnicity groups to the 2021, making them not directly comparable to previous years.
+
+The percentage of child members who received appointments and care when needed was 85.7% in 2021. Prior to 2018, this measure was a weighted score across children and adults. From 2018 on,
+however, these data are now disaggregated and reported separately for children and adults. This ensures that performance across the different age groups can be monitored appropriately and is
+based upon a decision from the Metrics and Scoring Committee. OHA added an oversample of race/ethnicity groups to 2021, making them not directly comparable to previous years.
+
+Factors Affecting Results
+The COVID-19 pandemic may have affected most recent performance. This measure is included in the state's Medicaid demonstration agreement with CMS.
+KPM #21       MEMBER SATISFACTION OF CARE - Composite measurement: how well doctors communicate; health plan information and customer service (Medicaid population).
+              Data Collection Period: Jan 01 - Dec 31
+
+                                                                                actual     target
+
+  Report Year                                                                  2020                               2021                              2022                              2023                              2024
+a. Adult
+Actual                                                                        88.80%                            88.90%                             89.20%
+Target                                                                          90%                               90%                               90%                                90%                               90%
+b. Children
+Actual                                                                        89.40%                              88%                              86.40%
+Target                                                                          90%                               90%                               90%                                90%                               90%
+
+How Are We Doing
+The rate of adults who were satisfied with their experience of care was 89.2% in 2021. Prior to 2018, this measure was a weighted score across children and adults. From 2018 on, however, these
+data are now disaggregated and reported separately for children and adults. This ensures that performance across the different age groups can be monitored appropriately and is based upon a
+decision from the Metrics and Scoring Committee. OHA added an oversample of race/ethnicity groups to 2021 results, making them not directly comparable to previous years.
+
+The percentage of adults who were satisfied with their child's experience of care was 86.4% in 2021. Prior to 2018, this measure was a weighted score across children and adults. From 2018 on,
+however, these data are now disaggregated and reported separately for children and adults. This ensures that performance across the different age groups can be monitored appropriately and is
+based upon a decision from the Metrics and Scoring Committee. OHA added an oversample of race/ethnicity groups to 2021 results, making them not directly comparable to prior years.
+
+Factors Affecting Results
+NOTE: This was retired from the incentive measure set in 2017.
+KPM #22       MEMBER HEALTH STATUS - Percentage of CAHPS survey respondents with a positive self-reported rating of overall health (excellent, very good, or good).
+              Data Collection Period: Jan 01 - Dec 31
+
+                                                                                 actual      target
+
+  Report Year                                                                   2020                               2021                               2022                              2023                               2024
+a. Adult
+Actual                                                                         66.10%                             67.10%                            66.20%
+Target                                                                         68.90%                             68.90%                            68.90%                             68.90%                             68.90%
+b. Children
+Actual                                                                         95.20%                             95.90%                            96.10%
+Target                                                                         68.90%                             68.90%                            68.90%                             68.90%                             68.90%
+
+How Are We Doing
+The percentage of adult members who rated their overall health as good, very good, or excellent was 66.2% in 2021. Prior to 2018, this measure was a weighted score across children and adults.
+From 2018 on, however, these data are now disaggregated and reported separately for children and adults. This ensures that performance across the different age groups can be monitored
+appropriately and is based upon a decision from the Metrics and Scoring Committee. The 2021 rate is not directly comparable to previous years due to adding an oversample of race/ethnicity groups.
+
+The percentage of children whose parents rated their overall health as good, very good, or excellent was 96.1% in 2021. Prior to 2018, this measure was a weighted score across children and adults.
+From 2018 on, however, these data are now disaggregated and reported separately for children and adults. This ensures that performance across the different age groups can be monitored
+appropriately and is based upon a decision from the Metrics and Scoring Committee. OHA added an oversample of race/ethnicity groups to the 2021 results, meaning that the rate is not directly
+comparable to previous years.
+
+Factors Affecting Results
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #23                 RATE OF TOBACCO USE (POPULATION) - Rate of tobacco use among adults.
+                        Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                            actual    target
+
+ Report Year                                                               2020                            2021                            2022                             2023                            2024
+Rate of tobacco use - adult population
+Actual                                                                    17.96%                          17.18%                          15.80%
+Target                                                                     15%                              15%                             15%                             15%                              15%
+
+How Are We Doing
+Oregon has reached less than 16% of Oregon adults using tobacco (cigarette and smokeless tobacco).
+
+Factors Affecting Results
+KPM #24        RATE OF TOBACCO USE (MEDICAID) - Percentage of CCO enrollees who currently smoke cigarettes or use tobacco every day or some days.
+               Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2020                              2021                               2022                              2023                               2024
+Rate of tobacco use - Medicaid population
+Actual                                                                        28.60%                             26.20%                            26.40%
+Target                                                                          25%                                25%                               25%                                25%                               25%
+
+How Are We Doing
+The percentage of members who self-reported smoking cigarettes or using tobacco every day or some days was 26.4% in 2021. Lower is better on this measure. Results in 2021 are not directly
+comparable to previous years due to adding an oversample of race/ethnicity groups.
+
+Factors Affecting Results
+Note: This self-reported, survey-based measure was included in our previous CMS waiver, but was not included as a metric in the current 2017-2022 waiver; instead the current Medicaid waiver
+includes a different measure focused specifically on cigarette smoking prevalence, and sourced from electronic health records.
+
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #25               RATE OF OBESITY (POPULATION) - Percentage of adults who are obese among Oregonians.
+                      Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                actual     target
+
+  Report Year                                                                  2020                              2021                              2022                              2023                              2024
+Rate of obesity - adult population
+Actual                                                                       29.77%                            29.47%                            31.20%
+Target                                                                         27%                               27%                               27%                               27%                               27%
+
+How Are We Doing
+The obesity rate continues to increase (worsen) in Oregon. The main factor affecting Oregonian’s results is limited funds for statewide initiatives that promote healthy environments where access to
+physical activity is improved and barriers to nutrition security are reduced.
+
+Factors Affecting Results
+KPM #26      EFFECTIVE CONTRACEPTIVE USE (POPULATION) - Percentage of reproductive age women who are at risk of unintended pregnancy using an effective method of contraception.
+             Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2020                               2021                              2022                               2023                               2024
+Effective contraceptive use - population
+Actual                                                                           66%                                                                66.50%
+Target                                                                           70%                               70%                                70%                                70%                               70%
+
+How Are We Doing
+The 2020 data was not available to report on in 2021 due to delays caused by COVID19. The data collection cadence has changed on this metric as well, such that the survey is only being completed
+in even numbered years. As such, there is no 2021 survey data for us to report on in 2022. The 2020 data is available now and are reporting that number - 66.5%. The proportion of women at risk of
+unintended pregnancy who are using effective contraceptive methods has remained steady for the past several years.
+
+Factors Affecting Results
+Access to contraception services was greatly impacted during the acute phase of the COVID-19 pandemic. Family planning clinics demonstrated innovations in service delivery to maintain access
+during this time.
+
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+
+KPM #27      EFFECTIVE CONTRACEPTIVE USE (MEDICAID) - Percentage of reproductive age women who are at risk of unintended pregnancy using an effective method of contraception.
+             Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2020                               2021                              2022                              2023                               2024
+Effective contraceptive use - Medicaid population
+Actual                                                                        52.30%                            51.80%                             36.50%
+Target                                                                        58.20%                            58.20%                             58.20%                            58.20%                            58.20%
+
+How Are We Doing
+The rate of effective contraceptive use increased since while the measure was included in the CCO Quality Incentive Program from 2015-2019; this means CCOs could earn incentive payments for
+improving performance during this time period. The Metrics & Scoring Committee retired this measure from the incentive program in 2020 due to equity concerns about the measure. Subsequently,
+the rate decreased from 52.3% in 2019 to 51.8% in 2020. The rate continued to decrease in 2021 to 36.5%.
+
+Factors Affecting Results
+This was a CCO incentive measure from 2015 - 2019  (the incentive measure also included young women ages 15-17 in 2018 & 2019). The 2020 rate of 51.8% includes women ages 18-50, while the
+2021 rate includes women ages 15-50, which may have affected the decreased rate. Due to the change in ages included in this measure, 2021 results are not directly comparable to 2020.
+
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #28                FLU SHOTS (POPULATION) - Percentage of adults ages 50-64 who receive a flu vaccine.
+                       Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2020                              2021                              2022                               2023                              2024
+Flu shots - population
+Actual                                                                        53.10%                            55.60%                            47.30%
+Target                                                                          70%                               70%                               70%                               70%                               70%
+
+How Are We Doing
+Adult influenza immunization in the Fall of 2021 was reduced to the overlap in time with the recommendation for COVID-19 booster doses.
+
+Factors Affecting Results
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #29        CHILD IMMUNIZATION RATES (POPULATION) - Percentage of children who are adequately immunized (immunization series 4:3:1:3:3:1:4).
+               Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Report Year                                                                 2020                              2021                             2022                              2023                              2024
+Child immunization rates - population
+Actual                                                                       71.20%                           71.30%                              71%
+Target                                                                         80%                              80%                               80%                               80%                              80%
+
+How Are We Doing
+Factors Affecting Results
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #30         CHILD IMMUNIZATION RATES (MEDICAID) - Percentage of children who are adequately immunized (immunization series 4:3:1:3:3:1:4).
+                Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2020                              2021                               2022                              2023                              2024
+Child immunization rates - Medicaid population
+Actual                                                                        75.50%                            70.70%                            64.80%
+Target                                                                          82%                               82%                               82%                               82%                                82%
+
+How Are We Doing
+In 2015, 68.2% of CCO members received recommended vaccines before their second birthday. This increased to 73.2% in 2017, and continued to increase to 74.5% in 2018 and 75.5% in 2019. In
+2020 this measure decreased to 70.7%. The measure continued to decrease to 64.8% in 2021.
+
+Factors Affecting Results
+The COVID-19 pandemic negatively impacted this measure in recent years. Beginning 2016, childhood immunization status was added to the Quality Incentive Program, which means CCOs could
+earn incentives for improving performance, and which likely drove improved outreach and workflows. This measure is limited to children who turn two during the measurement year and who have been
+continuously enrolled in an Oregon Health Plan CCO for at least the 12 months preceding their second birthday, and may not be comparable to immunization rates for the general population.
+
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #31     PLAN ALL CAUSE READMISSIONS - Percentage of acute inpatient stays that were followed by an acute readmission for any diagnosis within 30 days and the predicted probability of an
+            acute readmission for members 18 years and older.
+            Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2020                              2021                               2022                               2023                               2024
+Plan all cause readmissions
+Actual                                                                         10.50%                              8.40%                                8%
+Target                                                                         10.50%                             10.50%                             10.50%                             10.50%                             10.50%
+
+How Are We Doing
+Hospital readmissions continue to decline in Oregon (lower is better), decreasing from 8.4% in 2020 to 8.0% in 2021. However, 2020 and 2021 data for this measure are not directly comparable to
+previous years due to a methodology change.
+
+Factors Affecting Results
+As CCOs continue to focus on ensuring their members receive the appropriate care at the appropriate time in the appropriate place, many performance indicators are affected. As providers continue to
+emphasize the importance of coordinated, preventive care, post-discharge care is likely to be more appropriately addressed, resulting in a reduction in this readmission rate.
+
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #32           ELIGIBILITY PROCESSING TIME - Median number of days processing time from date of request to eligibility determination.
+                  Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                  2020                               2021                              2022                              2023                               2024
+ELIGIBILITY PROCESSING TIME
+Actual                                                                            2                                 0                                  0
+Target                                                                           31                                31                                 31                                31                                31
+
+How Are We Doing
+The processing time remains low because Oregon uses an automated eligibility process.
+
+Factors Affecting Results
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #33            OHP MEMBERS IN CCOs - Percent of Oregon Health Plan members enrolled in Coordinated Care Organizations.
+                   Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2020                              2021                              2022                              2023                              2024
+OHP MEMBERS IN CCOs
+Actual                                                                         88%                               90%                             90.30%
+Target                                                                         88%                               88%                               88%                               88%                               88%
+
+How Are We Doing
+In 2021,  OHA continued automatic re-enrollment of members into their current CCO. OHA also continued the automatic enrollment of dual eligible members into CCOs for their physical health care.
+ These processes make enrollment in CCOs easier and quicker. As a result, 2021 has the highest rate of CCO enrollment ever.
+
+Factors Affecting Results
+OHA is proposing deletion of this KPM as part of our realignment of our legislatively reported key performance measures to those most reflective of our strategic goal of eliminating health inequities by
+2030.
+KPM #34    CUSTOMER SERVICE - Percentage of OHA customers rating their satisfaction with the agency's customer service as "good" or "excellent" overall, timeliness, accuracy, helpfulness,
+           expertise, availability of information.
+           Data Collection Period: Jan 01 - Dec 31
+
+                                                                         actual   target
+
+ Report Year                                                            2020                          2021                           2022                           2023                           2024
+Overall
+Actual                                                                  86%                            86%                            86%
+Target                                                                  95%                            95%                            95%                            95%                            95%
+Accuracy
+Actual                                                                  86%                            86%                            87%
+Target                                                                  95%                            95%                            95%                            95%                            95%
+Availability of Information
+Actual                                                                  82%                            82%                            81%
+Target                                                                  95%                            95%                            95%                            95%                            95%
+Expertise
+Actual                                                                  86%                            86%                            88%
+Target                                                                  95%                            95%                            95%                            95%                            95%
+Helpfulness
+Actual                                                                  86%                            86%                            87%
+Target                                                                  95%                            95%                            95%                            95%                            95%
+Timeliness
+Actual                                                                  86%                            86%                            87%
+Target                                                                  95%                            95%                            95%                            95%                            95%
+
+How Are We Doing
+Overall: Results are about the same as we continue to provide services fully remote.  Percent of members rating quality of service excellent increased quite a bit since last reporting period.
+
+Accuracy: Excellent - 51.86% Good - 35.01%; Results have improved even with continuing to provide services in a fully remote work environment. More members have reported service accuracy as
+excellent than in the prior reporting period.
+
+Availability of information: Excellent -46.30% Good - 35.03%; Staff continue to work fully remote. We just starting implementing some new communication strategies that should reflect with improved
+results in the upcoming year. Members who rated availability of information as excellent increased from the last year.
+
+Expertise: Excellent - 54.62% Good - 33.69%; Results have improved since the last reporting period. Especially those rating staff expertise as excellent.
+
+Helpfulness: Excellent - 55.86% Good - 31.42%; More members rated staff helpfulness as excellent over the last reporting period, while overall results stayed about the same.
+
+Timeliness: Excellent - 50.34% Good - 36.98% Overall timeliness results have improved as well as the percent rating it excellent.
+
+Factors Affecting Results

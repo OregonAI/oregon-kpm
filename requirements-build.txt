@@ -1,0 +1,17 @@
+# INGEST-TIME ONLY. Not installed in the image: the server never OCRs, and pulling the
+# Paddle stack in would add hundreds of MB of wheels no request touches. Same split
+# oregon-budget makes for its Parquet/analysis stack, for the same reason.
+#
+#   pip install -r requirements.txt -r requirements-build.txt
+#
+# Needed only for `python3 src/ingest_kpm.py --ocr`. Six of 789 sources are scans with no
+# text layer, and promoting OCR text requires a SECOND engine to corroborate it -- see
+# src/ocr_corroborate.py and the two-engine rule in oregon-policy-repo/AGENTS.md.
+#
+# System packages, not pip, and equally required:
+#   sudo apt install -y ocrmypdf tesseract-ocr poppler-utils
+#
+# poppler is not optional even without --ocr: src/ingest_kpm.py falls back to
+# `pdftotext -layout` when pypdf letter-spaces a document or its layout mode returns
+# nothing, and 12 of the 785 layout sidecars come from that fallback.
+paddleocr>=3.7.0          # cross-check engine; paddlepaddle (or -gpu) is its runtime

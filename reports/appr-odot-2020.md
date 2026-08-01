@@ -1,0 +1,953 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-odot-2020
+title: Transportation, Department of — Annual Performance Progress Report, Reporting Year 2020
+doc_type: performance_report
+citation: APPR ODOT 2020
+authority_level: agency_report
+issuing_body: Transportation, Department of
+agency: Transportation, Department of
+agency_code: ODOT
+reporting_year: '2020'
+year_source: document
+text_source: pdf-text
+filename_year: '2020'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_ODOT_2020.pdf
+source_filename: APPR_ODOT_2020.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 772c137193cad322e50e01aec73c12a8e9b5133c0d42d19c4cf37ee9b318e6be
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2020
+---
+
+## At a glance
+
+**APPR ODOT 2020** — Transportation, Department of, Reporting Year 2020
+
+- Agency: Transportation, Department of
+- Reporting year: 2020 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_ODOT_2020.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Transportation, Department of
+Annual Performance Progress Report
+Reporting Year 2020
+Published: 9/30/2020 8:52:03 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+Traffic Fatalities - Traffic fatalities per 100 million vehicles miles traveled (VMT).
+Pavement Condition - Percent of pavement lane miles rated “fair” or better out of total lane miles in state highway system.
+Serious Traffic Injuries (Rate) - Serious traffic injuries per 100 million vehicle miles traveled (VMT)
+Large Truck At-Fault Crashes - Number of large truck at-fault crashes per million vehicle miles traveled (VMT).
+Bridge Condition - Percent of state highway bridges that are not "distressed"
+Rail Crossing Incidents - Number of highway-railroad at-grade incidents.
+Public Transit Vehicle Condition
+- Percent of Public Transit buses that meet replacement standards
+Derailment Incidents - Number of train derailments caused by human error, track, or equipment.
+Traffic Congestion - Number of Congested Lane Miles - Ratio of annual average daily traffic to hourly highway capacity
+Passenger Rail Ridership - Number of state-supported rail service passengers.
+Transit Rides - Average number of transit rides each year per Oregonian
+Bike Lanes and Sidewalks - Percent of urban state highway miles with bike lanes and pedestrian facilities in "fair" or better condition.
+Construction Projects On-time - The percentage of state administered projects that have satisfactorily completed all on-site work within 90 days of the baselined contract completion date
+Construction Projects On Budget - The percentage of projects for which total construction expenditures do not exceed the original construction authorization by more than 10%
+DMV Field Office Wait Time
+- Percentage of DMV Field Office Customers Served within 20 Minutes
+Customer Satisfaction - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise, and availability of information.
+Certified Firms (DMWESB*) - Percent of ODOT Awarded Contracts to Oregon Certified Small Businesses.
+Proposal
+Proposed Key Performance Measures (KPMs)
+Delete
+Traffic Fatalities - Traffic fatalities per 100 million vehicles miles traveled (VMT).
+New
+Traffic Fatalities and Serious Injuries Rate - Traffic Fatalities and Serious Injuries per 100 million vehicles miles traveled (VMT).
+Delete
+Serious Traffic Injuries (Rate) - Serious traffic injuries per 100 million vehicle miles traveled (VMT)
+Delete
+Large Truck At-Fault Crashes - Number of large truck at-fault crashes per million vehicle miles traveled (VMT).
+Delete
+Rail Crossing Incidents - Number of highway-railroad at-grade incidents.
+Delete
+Derailment Incidents - Number of train derailments caused by human error, track, or equipment.
+New
+Disadvantaged Business Enterprise Utilization - Percent of ODOT Awarded Contracts to Oregon Disadvantaged Business Enterprises (DBEs)
+Delete
+Certified Firms (DMWESB*) - Percent of ODOT Awarded Contracts to Oregon Certified Small Businesses.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+41.18%
+11.76%
+47.06%
+red
+green
+yellow
+KPM #1
+Traffic Fatalities - Traffic fatalities per 100 million vehicles miles traveled (VMT).
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = negative result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Traffic Fatalities
+Actual
+1.19
+1.37
+No Data
+No Data
+No Data
+Target
+0.84
+0.83
+0.78
+0.78
+0.78
+How Are We Doing
+(Final results are not yet approved for 2019 data) The preliminary rate of 1.37 for 2018 is above the TSAP target of 0.89 per 100 million VMT. There was a dramatic increase in the number of fatalities,
+in line with the rest of the nation, in Oregon starting in October 2014 which increased the rate per 100 million VMT. When comparing Oregon traffic fatality data with national data provided by the
+National Highway Traffic Safety Administration, Oregon’s rate in 2017 was higher than the U.S. national fatality rate of 1.16; ODOT had set an aggressive long-term goal of reducing the traffic fatality
+rate to 0.84 per 100 million VMT by 2017. The targets are increasingly more challenging to meet, however the goal is important and should not change, as ‘zero’ is the goal for you and your family,
+every trip, every time. Until recently, Oregon's fatality rates were consistently below the national average since 1999.
+Management Comments:
+ODOT’s strategy to reduce traffic fatalities is to continue to implement traffic safety programs and proven countermeasures based on the causes of fatal crashes in Oregon. For example, the Oregon
+Transportation Safety Performance Plan (HSP) and the ODOT Transportation Safety Action Plan (TSAP) outline safety activities directed at unsafe driving behaviors, DUII, non-safety belt use, and
+speeding; that address strategies for programs like motorcycle safety, child passenger safety, bicycle and pedestrian safety and other priority areas. ODOT also seeks to combat traffic fatalities
+through strategic highway safety infrastructure improvements, such as median cable barriers, rumble strips, and pedestrian crossings, as well as through the DMV medically at-risk program. Oregon’s
+goal is zero fatalities, but realistic interim targets are set based on the desire to reduce fatality rates gradually over time to achieve the longer-term goal of zero. Oregon’s 2017 rate was 1.19 fatalities
+per 100M vehicle miles traveled.
+actual target
+Factors Affecting Results
+Several factors affected the traffic fatality rate in 2018. Among those factors were continuing increases in crashes involving impairment, the number of available traffic law enforcement officers, and
+emergency response times. Fatal crashes involving alcohol and/or drug use; excessive speed; or not wearing a safety belt are the most common causes of a fatality on Oregon roadways. Over the last
+17 years, Oregon experienced its lowest fatality count since the late 1940s. ODOT and its safety partners must continue efforts to reduce fatalities by reviewing the causes of fatalities, targeting safety
+activities accordingly, and allocating safety resources to the programs most effective at reducing fatal crashes.
+KPM #2
+Pavement Condition - Percent of pavement lane miles rated “fair” or better out of total lane miles in state highway system.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Pavement Condition
+Actual
+No Data
+90%
+No Data
+No Data
+No Data
+Target
+85%
+85%
+85%
+85%
+85%
+How Are We Doing
+(Pavement conditions are measured every two years and the 2020 data will be available in February 2021.) Thanks to ODOT’s asset management and investment strategies, pavement condition over
+the last few years has ranged between 85 and 90 percent "fair" or better. Pavement conditions are currently above target. ODOT’s pavement strategy is focused on preserving the interstate first, and a
+full 98% of Oregon’s interstate highway miles are in fair or better condition. Each state uses their own procedures for classifying pavement defects and assessing structural and functional pavement
+conditions. Currently, the only national standard available for comparing highway pavement conditions nationwide is pavement smoothness, which is one indicator of pavement condition. A
+smoothness comparison between Oregon and our neighboring states of California, Idaho, Washington, and Nevada based on 2017 Highway Statistics data, which is the most recent comparison,
+https://www.fhwa.dot.gov/policyinformation/statistics/2018/hm64.cfm
+shows that Oregon’s pavement is on par with Idaho and Nevada and better than California and Washington and also better than
+the nationwide average. Recent federal legislation implemented new pavement performance measures for interstate and national highway system (NHS) highways using cracking, rutting, and faulting
+in addition to smoothness. States are just beginning to report using these measures and comparative data are not yet available.
+Management Comments:
+The goal of the ODOT pavement preservation program is to keep highways in the best condition possible with available funding, by taking a life-cycle cost approach to preservation and maintenance.
+The most cost-effective strategy is to apply preservation treatments to keep highways out of "poor" condition, which extends pavement life at a reduced resurfacing cost. A higher percentage of miles
+in good condition translates to smoother roads and lower pavement and vehicle repair costs. Prior to 2014, the long term target was set at 78 percent "fair" or better. The legislature increased the
+target to 87 percent for 2014 and 2015 and subsequently reduced the target to 85 percent starting in 2016.
+actual target
+Factors Affecting Results
+Overall pavement conditions have improved due to additional pavement projects programed from higher than anticipated Fixing America’s Surface Transportation (FAST) Act funding and from early
+delivery of Keep Oregon Moving (HB 2017) funded pavement projects. These investments will keep pace with pavement deterioration and sustain the pavement condition measure over the next two to
+four years.
+Over the long term, our pavement programs are underfunded, which will lead to a decline in conditions. An estimated $200 million per year is needed to repair the backlog of high cost poor and very
+poor highways, while keeping the remaining state highways in "fair or better" condition. This funding level would support major repairs needed on routes with the worst pavement conditions, while
+providing for timely preventive preservation and maintenance on roads in fair to good condition. Pavement funding levels over the last few years have averaged over $140 million per year, but after
+2020 are at about $107 million per year. This pavement funding level provides about one-half of the actual need for pavement preservation and major repairs. Pavement resurfacing treatments
+typically last 10 to 20 years, but pavement funding will only be able to pave each section of road on average only once every 35 years or longer—far beyond the optimal timeframe. ODOT estimates
+that by 2035, the proportion of pavement in poor or worse condition will reach 35%.This will result in diminished safety, as well as higher vehicle repair costs as Oregonians travel on rutted and
+deteriorated roads. As road conditions deteriorate, thicker paving and/or complete replacement will become necessary at a higher cost than what would be required to simply maintain them in fair or
+better condition. In the long run, Oregonians will pay more to rehabilitate this failed pavement than it would have cost to keep it in good condition.
+KPM #2
+Serious Traffic Injuries (Rate) - Serious traffic injuries per 100 million vehicle miles traveled (VMT)
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Traffic (Serious) Injuries (Rate)
+Actual
+4.80
+5.40
+No Data
+No Data
+No Data
+Target
+4.42
+4.33
+4.06
+3.78
+3.78
+How Are We Doing
+(Final results are not yet approved for 2019 data) The Oregon rate in 2018 was over 5 serious injuries per 100 million vehicle miles traveled. Traffic injury rates are reported on a calendar year basis
+just like fatalities. However, unlike fatality data that allows state to state comparisons, injury data is not yet comparable. This is because the definitions of injury severity levels are not consistent across
+the country; any comparisons made to California, Washington or Idaho, for example, are not valid. However, some state-to-state data comparisons can be made against the national data which is
+useful for understanding state trends versus national trends.
+Management Comments:
+Reducing the number of traffic crashes is the primary strategy to reduce serious traffic injuries, but when a crash does happen, reducing the injury severity becomes the secondary strategy. This is
+influenced in three primary ways: first, with correct usage of safety equipment for infrastructure work and implementing design practices that mitigate structural safety risks on Oregon’s transportation
+system. Second, deploying safety information and education programs, and implementing the DMV driver improvement program in order to reduce crashes caused by driver behavior (poor choices).
+The final way is through timely emergency medical services at the scene and transport to trauma centers. ODOT wants to eliminate serious injuries due to roadway crashes. Although trends for
+serious injuries and fatal crashes fluctuate up and down year to year, realistic targets are set with future reductions in mind. ODOT reset the targets for traffic injury rates in 2018 due to an increase in
+reported injuries in 2015 and 2016. The increased use of electronic crash reporting by law enforcement has increased the data submitted to the state's crash file and in a timelier manner. More than
+8,000 e-crash reports are now filed by law enforcement each year.
+actual target
+Factors Affecting Results
+The Oregon rate in 2018 was over 5 serious injuries per 100 million vehicle miles traveled. Traffic injury rates are reported on a calendar year basis just like fatalities. However, unlike fatality data that
+allows state to state comparisons, injury data is not yet comparable. This is because the definitions of injury severity levels are not consistent across the country; any comparisons made to California,
+Washington or Idaho, for example, are not valid. However, some state-to-state data comparisons can be made against the national data which is useful for understanding state trends versus national
+trends.
+Several factors affected the serious injury rate in 2017. Significant positive factors affecting serious injury rates were high rates for the use of safety belts, child safety seats and booster seats. Drivers
+age 15 to 20 continued to be overrepresented in serious injury crashes however; representing approximately 14 percent of all serious injury crashes but only 6.4% of licensed drivers in Oregon.
+KPM #3
+Large Truck At-Fault Crashes - Number of large truck at-fault crashes per million vehicle miles traveled (VMT).
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = negative result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Large Truck At-Fault Crashes
+Actual
+0.49
+0.36
+0.39
+No Data
+No Data
+Target
+0.40
+0.40
+0.41
+0.41
+0.41
+How Are We Doing
+There was a total of 1,553 truck crashes in 2019, 147 more than in 2018 (1,406). It was determined that the truck was at fault in 764 of the crashes, which is up from 701 in 2018. Only 20 of these
+crashes were attributed to a mechanical problem with the truck. This is consistent with previous years and supports our efforts to focus on driver fitness and behavior.
+Management Comments:
+A minority of large truck crashes are attributed to a mechanical problem, leading us to focus our efforts on the truck driver. Truck-at-fault crashes are usually linked to speeding, tailgating, changing
+lanes unsafely, failure to yield right of way and driver fatigue. Focusing on the causes of truck at-fault crashes requires law enforcement agencies to enforce unsafe driving behaviors. The Commerce
+and Compliance Division (CCD) has authored the Oregon Motor Carrier Safety Action Plan. This plan builds partnerships with law enforcement agencies. Our law enforcement partners target unsafe
+driving behaviors of truck drivers that cause crashes. Many Oregon State Police troopers, county sheriff deputies and city police conduct roadside inspections after probable cause stops for unsafe
+driving behaviors. Our CCD staff conducts inspections at weigh stations and performs safety compliance reviews at trucking company terminals. They also initiate enforcement operations and logbook
+checks along major freight routes where most truck-at-fault crashes occur. A key part of our Safety Action Plan is to conduct multi-day inspection exercises to find problem drivers. In 2019,
+enforcement exercises checked thousands of drivers and placed hundreds out of service for critical safety violations. Oregon ranks well above all states in this area by utilizing real time data to identify
+trucking companies with suspect safety records and then apply training, experience and other tools to identify safety problems.
+Factors Affecting Results
+Along with the increased number of truck-at-fault crashes, the number of deaths associated with truck crashes decreased from 52 in 2017, 58 in 2018 to 50 in 2019. It should also be noted that a
+actual target
+single incident can skew these numbers. Factors directly affecting this measure largely involve commercial vehicle driver fitness, qualifications and judgment. The rate of crashes is also affected by
+the volume of all vehicle miles traveled, not just commercial vehicle miles. It's affected by traffic congestion, the level of road and bridge construction, maintenance work, and inclement weather
+conditions. Further contributing to crash rates is the presence of law enforcement officers on the road. We are engaging many more law enforcement agencies in truck safety-related exercises to focus
+on making probable cause stops for speeding and other traffic violations along major freight routes where most truck-at-fault crashes occur. Because so few crashes are attributed to mechanical
+problems, checking the behavior and fitness of truck drivers continues to be the most effective way to reduce crashes. We continue to conduct frequent multi-day inspection exercises focusing on
+truck driver inspections and partner with law enforcement in these exercises to stop unsafe car and truck drivers. We will continue our aggressive safety inspection efforts.
+KPM #3
+Bridge Condition - Percent of state highway bridges that are not "distressed"
+Data Collection Period: Apr 01
+- Mar 31
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Percent of State highway bridges that are not distressed
+Actual
+79%
+79%
+79%
+No Data
+No Data
+Target
+78%
+78%
+78%
+78%
+78%
+How Are We Doing
+The improvement in the percent "not distressed" measure since 2007 is largely due to the investments from the OTIA III State Bridge Delivery Program. Bridge Program funding levels have been able
+to maintain the bridge performance measure for the last six years, as shown, with only a slight drop from 2018 to 2019 (79.0% to 78.9%). The predominant distresses are due to the aging bridge
+inventory and bridge functionality issues such as deck geometry and vertical clearance. A recently completed analysis shows that over the next ten years the new HB 2017 funding will not stop the
+decline, only slow it. This decline is primarily due to the aging bridge inventory and a long history of underfunding of the Bridge Program that precluded systematic replacement of deteriorated bridges.
+Management Comments:
+ODOT bridge conditions are characterized by the performance measure "not distressed" which means the bridges have not been identified as having freight mobility, deterioration, safety or
+serviceability needs and are not rated as Structurally Deficient based on Federal Highway Administration criteria. The ODOT bridge strategy which focuses on preservation and maintenance was
+developed in response to insufficient funding levels needed to sustain conditions of the many of bridges reaching the end of their service life.
+Factors Affecting Results
+A sustainable bridge program includes replacing bridges when they reach the end of their service life at 100 years. Due to underfunding, at the current rate a bridge will have to last more than 900
+years before replacement. The result is a large population of aging bridges in fair condition. With a disproportionate number of bridges in fair condition, available funding will only be able to address
+the most critical needs with few bridge replacements on priority routes. The fair bridges will continue to challenge the Bridge Program’s ability to address major rehabilitation and maintenance needs
+while also funding timely preservation treatments to optimize structure service life. We continue to put effort into extending the service life of many bridges beyond a normal time period because of
+actual target
+inadequate funding. The performance of the older bridges is unreliable and requires increased effort by inspectors and maintenance personnel to maintain safe conditions. There is real concern that
+current resources will not be able to keep up, resulting in bridge postings or closures which cause hardships for the communities that depend on these bridges.
+KPM #4
+Rail Crossing Incidents - Number of highway-railroad at-grade incidents.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = negative result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Rail Crossing Incidents
+Actual
+No Data
+No Data
+Target
+How Are We Doing
+In 2019, 21 rail crossing incidents occurred, which under-performed our goal of 10. The incident data in the table for 2019 includes eight incidents involving injuries with no fatalities. In 2018 and 2019,
+there were 21 rail-crossing incidents, a decrease from 22 in 2017. Since 2010, rail-crossing incidents have varied between a high of 25 in 2016 and a low of 14 in 2011. This trend indicates a need for
+additional public awareness and education programs highlighting causes of potential at-grade incidents. The above narrative and corresponding chart is based on updated data the Federal Railroad
+Administration has for freight railroads. The previous narrative and chart erroneously included data not relevant to freight railroads.
+Management Comments:
+A priority for ODOT is to have the safest infrastructure possible. Safe infrastructure is promoted by implementing design practices that mitigate structural safety risks on Oregon’s transportation
+system. There are several ODOT activities specific to the Rail Section associated with this general strategy. The Crossing Safety Unit manages crossing improvement projects and inspects crossings
+to ensure they are appropriately maintained. The Rail Section works with public and private entities, including the railroad companies, public road authorities and law enforcement to address crossing
+safety concerns and participate in transportation planning activities to improve the mobility of highway and rail traffic. The Rail Section strives for a zero incident performance. The goal reflects the
+reality that some number of incidents is outside the control of the section and its transportation safety partners.
+Factors Affecting Results
+Some incidents are caused by deliberate actions rather than lack of safety education or crossing safety devices. Options to promote a decline in the number of incidents include maintaining inspection
+efforts, increasing funding for crossing investments and increasing education outreach on crossing safety to the driving public and pedestrians.
+actual target
+KPM #4
+Public Transit Vehicle Condition
+- Percent of Public Transit buses that meet replacement standards
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Public Transit Vehicle Condition
+Actual
+54.30%
+40.80%
+43.40%
+No Data
+No Data
+Target
+40%
+40%
+40%
+40%
+40%
+How Are We Doing
+PTD distributes approximately $12 million annually in federal revenue to Oregon transit providers to replace vehicles. In addition, the Oregon Transportation Commission allocated $5 million annually
+for 2019, 2020, and 2021 to address inadequate funding for transit vehicles. PTD is distributing these funds over a six year period to allow for gradual replacement of vehicles and to avoid having a
+large number of vehicles needing to be replaced at one time.
+The Statewide Transportation Improvement Fund (STIF) created as part of the 2017 transportation funding package, Keep Oregon Moving. Beginning in 2019, STIF is providing new dedicated funding
+to expand public transportation, provide access to job sites and public services, improve mobility, relieve congestion, and reduce greenhouse gas emissions. STIF funds help transit providers provide
+the local match that is necessary to leverage additional federal funding for vehicles. Transit providers are responsible for determining their local needs and priorities, but it is estimated that a total of
+329 new vehicles will be purchased using STIF funds by the end of the 2019-2021 biennium. Even with STIF funds, PTD estimates that funding will not be adequate; however, this new funding
+program could bring the fleet closer to the desired goal of less than 40 percent of the fleet exceeding SGR in 2021.
+Additional funding will be needed to maintain the goal in 2021 and beyond due to an increase in the number of vehicles projected to exceed useful life by 2021 or 2022. In particular, many of the large,
+expensive buses that were purchased with funding from the 2009 American Recovery and Reinvestment Act will soon need to be replaced. Planning for replacement of these vehicles is critical since it
+can take almost three years to design, order, build, and deliver the larger buses. Data is not currently available to compare Oregon with other states. A new federal requirement for state SGR targets
+and reporting could allow future comparisons.
+Management Comments:
+actual target
+ODOT’s Public Transportation Division (PTD) partners with local transit providers to offer safe and cost-effective public transportation. In 2019, 52 transit providers had over 1,000 vehicles in active
+service that had been purchased with state or local funding. This figure does not include vehicles purchased by TriMet and Cherriots since they report directly to the Federal Transit Administration
+(FTA), and have traditionally received relatively little state investment for public transportation vehicles. The goal is to keep transit vehicles in a "State of Good Repair" (SGR) based on guidance from
+the FTA to ensure these vehicles can operate at optimal performance. PTD calculates the expected useful life of various types and sizes of vehicles based on their mileage, age, and condition. The
+SGR helps determine when a vehicle should be replaced to ensure dependable travel, prioritize resources for replacement, and allows time to purchase replacement vehicles before maintenance or
+rebuild costs escalate.
+ODOT holds a security interest in buses that transit providers own, operate, and purchase using state or federal funds. ODOT’s goal is for transit providers to schedule replacement of these vehicles
+before increased maintenance costs or breakdowns occur. Using the most cost effective investment strategy requires planning for replacement purchases while vehicles are within a year of the end of
+their useful life, when maintenance or rebuild costs could escalate.
+Factors Affecting Results
+Local transit providers decide which vehicles to replace based on vehicle condition and their ability to meet local match requirements. Oregon transit providers rely on the state Special Transportation
+Fund (STF) and STIF to provide local match funding for FTA grants which help providers maintain an optimum replacement schedule for their fleets. The STF has been declining since 2015, making it
+increasingly difficult for transit providers to meet local match requirements. Ongoing STF and STIF funding stability will be essential to meet this goal.
+KPM #5
+Derailment Incidents - Number of train derailments caused by human error, track, or equipment.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = negative result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Derailment Incidents
+Actual
+No Data
+No Data
+Target
+How Are We Doing
+In 2019, there were 19 derailments reported in Oregon, a decrease of one from 20 derailments in 2018. Between 2010 and 2019, the number of derailments per year varied from a low of 10 in 2012 to
+a high of 23 in 2010 and 2014 with an average of 17.8 per year over that ten-year period. According to FRA’s 2019 data for Oregon and its neighboring states, derailments decreased in Oregon,
+increased in Washington and Nevada, and remained the same in California. The rail systems differ among the states with California and Washington having larger systems; while Idaho and Nevada
+have smaller systems making the number of derailments per state of limited value.. However, a comparison of derailments per track mile (miles of track in each state) for the 12 months ending
+December 31, 2019, shows Oregon with 0.0079 derailments per track mile, in the middle between Washington with 0.0110 and California with 0.0151; and Nevada with 0.0067 and Idaho with 0.0037.
+Management Comments:
+The Oregon Department of Transportation (ODOT) uses a combination of inspections, enforcement actions, and industry education to improve railroad safety with the goal of reducing the number of
+derailments and the potential for injuries and release of hazardous materials.
+The Federal Railroad Administration (FRA) defines a derailment as a type of train accident where on-track equipment leaves the rail for a reason other than a collision, explosion, or highway-rail grade
+crossing impact. Railroads are required to report all derailments with total reportable damages exceeding $10,700 to the FRA. Derailments are most often caused by track conditions, human error, or
+mechanical defects. In 2014, we lowered the derailment target from 42 to 25 because we felt it was too high and too easily achieved. Additionally, the number of derailments decreased from 80 in
+2004 to 20 in 2013.
+actual target
+Factors Affecting Results
+Many factors affect the number of train derailments. Some of these factors are outside of our control, such as the number of track miles, railroad capital improvement decisions, volume of rail traffic
+(i.e., number of carloads) and, to some extent, human error. The primary factor that we can affect is railroad compliance with rail safety regulations, including track safety standards, condition of
+equipment, and operating practices.
+We can influence this factor through inspection and enforcement of applicable regulations, therefore the number of inspection days and units inspected are important indicators of our impact. Just as
+important, but more difficult to measure, is the quality of the inspections performed. The number of inspection days, units inspected, and inspection quality is proportionate to the number of certified
+inspectors, therefore the recruitment and retention of qualified compliance inspectors is vital to our efforts.
+Another key strategy we are employing is verifying reported causes for accidents that meet federal filing requirements reported by railroads in order to focus our inspection efforts in those areas.
+KPM #5
+Traffic Congestion - Number of Congested Lane Miles - Ratio of annual average daily traffic to hourly highway capacity
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = negative result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Mobility
+Actual
+No Data
+No Data
+Target
+How Are We Doing
+There are two types of delay caused by traffic congestion: 1) recurring congestion caused by more trips (demand) than the system is designed to carry, and 2) non-recurring congestion due to activity
+such as traffic incidents, weather, and construction work zones. Much of the demand for transportation is influenced by economic activity, which is beyond the control of the public sector. However,
+there are ways in which recurring congestion may be reduced, such as making changes to increase pedestrian and bike use, increasing vehicle occupancy rates (carpools, mass transit, parking fees),
+reducing trips (affordable housing located near work sites, services and shopping; road pricing), roadway operations (ramp meters, variable speeds), and adding road capacity (new lanes). Non-
+recurring congestion may be reduced by safety-enhancement projects (reduces crashes), incident response programs (reduces incident clearing times) and roadway operations aimed at enhancing
+safety or smoothing traffic flow.
+Management Comments:
+Safe and efficient mobility is foundational to the economic opportunity and livability of all Oregonians. By tracking mobility, we consider the perspective of connecting people and goods to the markets
+they wish to reach. As Oregon grows, more people and freight are squeezed onto a transportation system that cannot expand to keep pace. In other words, as long as the economy continues to grow
+we can expect total congestion to increase. While there is no single solution to eliminate congestion, there are different methods available to manage the rate congestion increases. This mobility
+indicator will help Oregon monitor the level and extent of congestion over time. This information will be used to apply different techniques designed to manage and optimize system performance. Most
+people are aware traffic congestion causes slower speeds and longer trip times. However, congestion also causes other problems, such as reducing system reliability, fuel efficiency and air quality.
+Tracking this information reveals whether the duration and intensity of congested periods are rising or falling over time. The Ratio of Annual Average Daily Traffic to Hourly Capacity (AADT/C) best
+suits the need to monitor highway mobility in Oregon. AADT/C measures both the extent and duration of congestion, and also highlights where congestion has spread beyond one hour of the day.
+actual target
+AADT/C values range from 0 to 14+. The “Number of Congested Lane Miles” represents locations where the AADT/C is a value of 9 or higher.
+Factors Affecting Results
+We have a three-part approach aimed at providing mobility; optimize use of infrastructure, manage the traffic network, and support transportation options. We optimize the use of infrastructure by
+leveraging new technology and construction techniques to improve performance and safety. We invest in safety projects to decrease crash-induced congestion and construction projects designed to
+relieve bottlenecks. Through traffic network management we employ new technology to provide timely information to travelers. These systems help travelers choose alternative modes and routes to
+avoid congestion caused by crashes and other disruptions. Finally, Oregon ranks among the top states for numbers of walk, bike, ride-transit, telecommute and shared-rides. Oregon’s strategies to
+provide transportation options reduce single-vehicle occupancy use, while improving the health and wellness of Oregonians, promoting environmental benefits and providing access to jobs, goods and
+services.
+KPM #6
+Passenger Rail Ridership - Number of state-supported rail service passengers.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Passenger Rail Ridership
+Actual
+193,910
+173,995
+175,118
+No Data
+No Data
+Target
+205,542
+211,708
+197,894
+201,852
+176,869
+How Are We Doing
+Ridership was expected to grow in 2017 with the addition of two new trains between Seattle and Portland, bringing the total to six trains per day each way and establishing a needed through
+connection with Oregon’s morning train south from Portland. Goals for 2017 through 2019 were based on the 2016 goal with 3% increases per year. However, on the first day of service, one of the
+trains derailed on the new Point Defiance Bypass segment near DuPont, Washington resulting in several passenger deaths and injuries. The derailment had a chilling effect on Amtrak Cascades
+ridership for much of the following year. Late in 2018, ridership began to show signs of recovery with ridership ending the year at 173,995 and subsequently improving to 175,118 in 2019. As a result,
+our 2020 goal was reduced and keyed on 2017 actuals of 193,920 plus 2.5%. Our legislatively approved goal for 2021 is 201,852. More recently, the ongoing COVID-19 crisis has led to more than a
+95% decline in ridership since mid-March 2020. Given this situation, attaining our 2020 and 2021 goals may be improbable. Therefore, we are requesting legislative approval to base our 2022 goal on
+the actual ridership for 2019 plus 1% resulting in a target of 176,869. 2023’s goal adds 1% to 2022 and results in 178,638.
+Management Comments:
+ODOT’s strategy for increasing passenger rail ridership includes completing the Passenger Rail Corridor Investment Plan and related federal environmental reviews. This plan identifies infrastructure
+improvements, equipment needs, and a service development plan that would improve on-time reliability and increase the frequency of passenger rail service in Oregon. The Record of Decision from
+the Federal Railroad Administration is projected for late 2020 and at that time ODOT will be more competitive for federal funds to improve the service. When fully implemented in the 2035 timeframe,
+ridership and reliability are projected to increase and improve. Historically, our goals targeted year-over-year increase in passengers riding Amtrak Cascades trains and Cascades POINT buses.
+Intercity Cascades POINT bus ridership is included in this measure because it supplements the Cascades network through connections with trains operating north of Portland.
+actual target
+Factors Affecting Results
+Oregon passenger ridership hit an interim peak in 2013, and has remained below this record for several reasons. In 2014, ODOT implemented a schedule change that despite modeling predicting
+ridership increases, did not lead to ridership gains for several reasons: a competing private bus service entered the market, gas prices dropped, and on-time performance dropped due to increased
+passenger and freight train interference.
+In the years since the 2014 schedule change, ODOT modified weekend train schedules to attract more leisure travelers, while weekday schedules are business-oriented. Poor on-time performance,
+often due to seasonal track maintenance, can result in schedule unreliability, which discourages time-sensitive users. ODOT moved to improve ridership by aligning all Oregon schedules as
+connections with trains from Washington beginning December 18, 2017 when two round-trips were added between Portland and Seattle.
+However, the expanded service was tragically curtailed after the previously mentioned derailment in Washington. Despite this major setback, ODOT’s partner, the Washington State Department of
+Transportation remains committed to expanding the number of daily round-trips between Seattle and Portland from four to six, and rerouting the service over the Point Defiance Bypass, which will
+save 10 minutes of travel time. Amtrak is working to acquire trainsets needed for operating the added frequencies and the new service is tentatively to begin in the fall of 2020. Meanwhile, due to the
+COVID-19 pandemic, Amtrak Cascades service was cut in March and April of 2020, to one train per day each way between Eugene and Seattle. Significant reductions in ODOT’s Cascades POINT
+service also were effected as travel demand declined by more than 95%.
+Oregon’s Passenger Rail Program closely tracks ridership on a per-train basis to determine which trains and, consequently, which time slots carry the most passengers. This information helps to fine
+tune our train schedules in concert with our Washington state partners for optimal ridership.
+KPM #7
+Transit Rides - Average number of transit rides each year per Oregonian
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Transit Rides
+Actual
+30.79
+29.90
+No Data
+No Data
+No Data
+Target
+How Are We Doing
+(2019 performance data is not available. National Transit Database ridership data from the Federal Transit Administration (FTA) is not released until late October 2020.) From 2011 to 2018, local
+transit providers reported an average of 32.5 rides per capita. However, the state’s annual population growth over this period (1.31 percent) and some decline in ridership resulted in an average annual
+decline in ridership of 1.24 percent per capita during this period. Ongoing efforts are in place to increase ridership at the same rate as population growth in order to maintain an average of 32 rides per
+capita over time. About 90 percent of all trips in Oregon are provided by Lane Transit District, Cherriots, and TriMet. Although all public transit providers in Oregon will be investing in improving
+services and increasing the number of rides, services provided by the largest agencies are expected to provide the biggest gains.
+Management Comments:
+Oregon’s transportation system supports the state’s economy and quality of life across diverse geographies and people. Public transportation is a key piece of the transportation system to reduce
+congestion and emissions and to provide access to services for those who cannot or choose not to drive. The demand for public transportation in Oregon is expected to grow in response to changing
+demographics. In 2018, the Oregon Transportation Commission adopted the Oregon Public Transportation Plan (OPTP), which supports policies that encourage increased ridership, improved transit
+education, comprehensive planning for transit, and better transit facilities. The OPTP vision is for public transportation to be an integral and interconnected component of Oregon’s transportation
+system that makes Oregon’s diverse cities and communities work. With additional funding provided by the Statewide Transportation Improvement Fund (STIF), created as part of the 2017
+transportation funding package, Keep Oregon Moving, Oregon transit providers plan to address their local needs by increasing service levels in both urban and rural areas,  offering more intercity and
+regional route service, expanding services to low- income Oregonians, improving transit infrastructure, including passenger facilities, and expanding use of technologies such as electronic fare and
+other integrated fare systems.
+actual target
+In addition, because public transportation is convenient, affordable, and efficient, it helps further the state’s quality of life and economic vitality and contributes to the health and safety of all residents,
+while reducing greenhouse gases. The goal is for public transportation providers in the state to provide enough rides to average 32 rides per Oregonian annually. This target is based on an evaluation
+of transit ridership trends and population growth between 2011 and 2018.  ODOT Public Transportation Division (PTD) will use this goal to assess the impact of the new STIF funding and the effects of
+population growth on transit ridership.
+Factors Affecting Results
+As one of the priorities for STIF funding, PTD expects to see increased transit ridership across the state. However, it typically takes several years to see such investments in new services resulting
+expanded ridership. In addition, increasing ridership per Oregonian faces two substantial challenges - the rising cost of providing transit service and Oregon’s steady population growth.  With new
+STIF funding, state investment in transit funding is expected to increase three fold by FY 2020, providing 10.7 percent of statewide transit funding.
+However, local transit providers must weigh local needs and preferences when allocating transit funding.  Their needs may include needs for additional buses, longer routes, increased service
+frequency, enhanced technology, more passenger shelters, or better service planning. Over time, new funding may also need to be invested in sustaining current service levels, potentially limiting
+increases in ridership.
+KPM #8
+Bike Lanes and Sidewalks - Percent of urban state highway miles with bike lanes and pedestrian facilities in "fair" or better condition.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Bike Lanes and Sidewalks
+Actual
+39%
+39%
+44%
+No Data
+No Data
+Target
+54%
+56%
+52%
+52%
+52%
+How Are We Doing
+ODOT is making strategic investments in walking and biking improvements on both the state and local system where Oregon communities have identified the greatest need. In recent years, ODOT
+has increased both staffing with the region Active Transportation Liaisons and funding for the state network with programs such as Active Transportation Leverage. ODOT also administers the Safe
+Routes to School Infrastructure grant program which distributes $10 million per year to local communities to improve conditions for walking and biking near schools. In addition, we collaborate with
+local governments to provide them with technical assistance so that they can ensure local systems are bikeable and walkable as well. As a result, the number of people who walk and bike in Oregon
+continues to increase. On an average weekday, Oregonians make 8% of their trips on foot and 2% by bicycle. One in five households meets a daily travel need by walking and one in twenty does so
+by biking. When it comes to commuting by active modes of travel, Oregon is one of the top-ranked states in the nation. We’re #1 for biking to work (2.4% of commute trips), and #7 for walking to work
+(4.2%). We also saw the highest increase in the use of these modes between 2007 and 2016 of any state. Oregon is ranked second in the 2019 Bicycle Friendly State Ranking by the League of
+American Bicyclists. ODOT completed the Oregon Bicycle and Pedestrian Mode Plan in 2016, which defined new policies and strategies meant to make biking and walking safe, comfortable options
+that provide good connections for Oregonians and their communities. The plan identifies multiple ways to measure our progress in meeting that goal. ODOT will review this performance measure and
+may recommend changes based on the direction set by the plan.
+Management Comments:
+With our local partners, ODOT is working to create safe, walkable and bikeable communities in Oregon. To further that goal, Oregon law requires walkways and bikeways be provided when roads are
+constructed or rebuilt, and mandates that at least one percent of the state highway fund be used for walking and biking facilities. This performance measure reports our progress in adding walkways
+and bikeways to the state system. This target addresses the percentage of total highway roadside miles in urban areas that have complete walkways and bikeways. Urban areas are defined as those
+actual target
+areas with populations over 5,000 where the population density meets federal definitions in the area bordering the highway. Small incorporated cities with populations under 5,000 are also included.
+Walkways must be present, five feet or more in width, and in fair or better physical condition. Bikeways are defined as a marked and striped bike lane five or more feet in width, a paved shoulder five
+feet or more in width, a travel lane shared by people biking and people driving where the posted speed is 25 MPH or less, or a multi-use path within the highway right-of-way. As walkways are not
+needed in undeveloped urban fringe areas, ODOT has set the target of providing walkways on 65% of highway roadside mileage in urban areas. The Oregon Transportation Plan seeks to meet this
+target by 2030, in order to provide Oregonians with good transportation options that include biking and walking.
+Factors Affecting Results
+Each year, ODOT builds new and enhances existing bicycle and pedestrian facilities. However, our progress in meeting this target isn’t just determined by how many miles we build each year. As the
+chart shows, the percent of urban highways with complete walkways and bikeways has trended down over the last five years. Why is this happening? Recent adjustments to the federally defined
+urban areas brought many new roadway miles into Oregon’s expanding urban areas. As former rural roads, these highways are unlikely to have walkways and bikeways. We also see occasional
+declines due to jurisdictional transfers, where a localgovernment assumes ownership of a state highway. When such transfers take place, they are typically preceded by significant improvements to
+the highway, including adding walkways and bikeways, because it is less burdensome for a local government to take responsibility for a road if it is already complete and in good repair. So ODOT may
+build walkways and bikeways on a highway one year, increasing our progress toward our goals, only to transfer the road into local ownership the next year, causing our percent completed to drop.
+However, over the last couple of funding cycles, ODOT has targeted additional funds to address gaps along the state system and thus a marked increase in the completion rate.
+KPM #9
+Construction Projects On-time - The percentage of state administered projects that have satisfactorily completed all on-site work within 90 days of the baselined contract completion date
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Construction Projects On-time
+Actual
+No Data
+66%
+78%
+No Data
+No Data
+Target
+TBD
+80%
+80%
+80%
+80%
+How Are We Doing
+For state fiscal year 2019, performance is at 78% of construction projects on-time. Two projects were re- baselined (2 of 70 projects), both with elective change orders that raised overall performance
+from 76% to 78%. While below target, performance is within the natural variation of this performance measure. In response to an ODOT management assessment (McKinsey & Co. 2017), ODOT
+revised its construction on-time measure to be more consistent with peer DOTs and to also account for the appropriate re-baselining of contract completion dates for on-time measurement. Any project
+on-time measure must have an end date to compare the actual completion date against; this is referred to here as the baseline contract completion date. For ODOT construction projects there are two
+options for a baseline end date: the original contract completion date or a modified contract completion date reflecting changes to the construction contract. For most projects the original contract
+completion date is used to determine on-time performance; however, there are circumstances, described below, where ODOT would use a re-baselined end date.
+Management Comments:
+ODOT’s goal is that construction projects satisfactorily complete all on-site work within 90 days of the final completion date listed in their contracts. We achieve this through accurate schedule
+development and effective contract and risk management throughout the life of the project. ODOT has redefined how we categorize contract change orders that affect project schedules, allowing us to
+tell if a given change was avoidable, unavoidable, or elective. By doing so and reporting on the frequency of and reasons for different CCO types, ODOT can provide greater transparency of its change
+management practices, and take actions to reduce the number of avoidable construction change orders, which is the primary reason for late projects. The target is set at 80% of projects. This was
+established for consistency with peer DOTs, but will be revised as our capability increases to reduce avoidable contract changes.
+actual target
+Factors Affecting Results
+There are many factors that can affect the on-time performance of construction projects. There are elective actions taken by ODOT that can extend or compress project schedules as well as
+unavoidable events, beyond the control of project managers, that can occur and to which we must react. There are also avoidable issues—such as errors or defects in a project’s design—that can
+impact the schedule. For this on-time measure, circumstances allowing the contract completion date to be re-baselined include: elective expansion of project scope by ODOT, new requirements or
+interpretations from regulatory agencies, including FHWA, affecting project schedules, and unavoidable delays due to natural events. Circumstances that would not allow for re-baselining the schedule
+include: errors in plans, specifications, and/or design, unacceptable traffic impacts, and construction engineering errors.
+KPM #10
+Construction Projects On Budget - The percentage of projects for which total construction expenditures do not exceed the original construction authorization by more than 10%
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Construction Projects On Budget
+Actual
+No Data
+90%
+92%
+No Data
+No Data
+Target
+TBD
+80%
+80%
+80%
+80%
+How Are We Doing
+For state fiscal year 2019, performance is at 92% of projects on-budget. No projects were re-baselined for budget in state fiscal year 2019. Performance has exceeded the target of 80% since 2011. In
+response to an ODOT management assessment (McKinsey & Co. 2017), ODOT revised its construction on-budget measure to be more consistent with peer DOTs and to also account for the
+appropriate cost accounting of CCOs for on-budget measurement. Any project on-budget measure must have a final expense figure to compare to a baselined budget. For Construction Projects On-
+Budget, this baselined budget is the Net Construction Authorization set at contract award. For most projects total construction expenses are used to determine on-budget performance; however, there
+are circumstances, described below, where ODOT would adjust this figure based on the type of expenses incurred.
+Management Comments:
+Our goal for any given construction project is to ensure that total construction costs do not exceed the project’s original construction authorization (i.e. budget) by more than 10%. We achieve this
+through accurate schedule and budget development and effective contract and risk management throughout the life of the project. ODOT has redefined how we categorize contract change orders
+(CCO) that affect project expenditures, allowing us to determine which changes were avoidable, unavoidable, or elective. By doing so and reporting on the frequency of and reasons for different CCO
+types, ODOT can provide greater transparency of its change management practices and take actions to reduce the number of avoidable contract change orders that can negatively impact project
+expenses and schedules. The target is set at 80% of projects. This was established for consistency with peer DOTs, but will be revised as our capability increases to reduce avoidable contract
+changes.
+actual target
+Factors Affecting Results
+Final construction costs can incorporate a number of components not included in the original authorization amount. These cost components can include variance between actual and planned
+quantities, contract change orders, extra work orders, force accounts, pay factors, escalation/de-escalation, and anticipated items. These components can result in positive or negative cost
+adjustments in the contract. While such components are estimated when project budgets are established, uncertainties are inherent in any complex construction project. For example, market trends
+such as higher than expected inflation and rises in steel, oil, and asphalt prices can contribute to cost increases. Unanticipated geological features, archeological finds, or environmental impacts can
+also lead to unanticipated costs. Not all unanticipated costs are a bad thing, however. The expansion of a project’s scope in construction, for example, can meet agency goals and regional needs
+despite increasing overall project costs. ODOT’s new on-budget measure accounts for this by adjusting the final expense figure in the case of elective actions and unavoidable contract changes. For
+this on-budget measure, circumstances allowing for the adjustment of the final expense figure include: elective expansion of project scope by ODOT, new requirements or interpretations from
+regulatory agencies, including FHWA, affecting the construction contract, and unavoidable budget impacts due to natural events. Circumstances that would not result in adjusting the final expense
+figure include: errors in plans, specifications, and/or design, unacceptable traffic impacts, and construction engineering errors.
+KPM #12
+DMV Field Office Wait Time
+- Percentage of DMV Field Office Customers Served within 20 Minutes
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+DMV Field Office Wait Time -
+Percentage of DMV Field Office Customers Served within 20 Minutes
+Actual
+62.10%
+63.80%
+50.30%
+No Data
+No Data
+Target
+70%
+70%
+60%
+60%
+60%
+How Are We Doing
+The official measure started in FY 2015 with 65% and dropped to 60% in FY 2016 which is about the time Oregon became one of the top states for in-migration of residents from other states. A slight
+improvement was experienced in FY 2017 of 62.1% and continued to improve in FY 2018 to almost 64%.
+Management Comments:
+DMV strives for high quality service in each of its 60 field offices, and a primary measure of quality is customer wait time. Customer satisfaction surveys include factors such as employee courtesy,
+efficiency and professionalism as equally important to how long a customer waits. The primary strategy is to reduce in-person visits by completing transactions in the first visit. DMV also encourages
+use of alternative channels such as online services at DMV2U or the mail. Simple transactions such as vehicle registration renewals, address changes, custom plate orders, and notice of vehicle sale
+can be done online instead of visiting an office. Passenger vehicle registration is also renewed through our partnerships with DEQ and their emissions testing stations. Customer questions can be
+answered over the phone or by visiting the DMV website, rather than appearing in person at an office. Other strategies to reduce wait time include lobby greeters, express counters, lobby management
+stations, relief help between offices, alternative work shifts, and using a mixture of permanent and temporary employees to help provide coverage during busier times. DMV offers third-party driver
+skills test services as an option for CDL and regular Class C licensing. Many teenager drivers complete a Driver Education course that includes a skills test which is certified to replace the required
+test at DMV. Motorcycle driver skills tests are conducted by Team Oregon, a safety program funded by ODOT in partnership with Oregon State University. Third party services help enable DMV staff to
+assist customers in the office more efficiently instead of conducting driver skills testing outside the office. The target is to serve at least 60% of field office customers within 20 minutes of entering the
+facility. Customer surveys indicate that people generally expect to wait 20 minutes or less, and their level of satisfaction decreases with longer delays in receiving service. This Key Performance
+Measure (KPM) approved by the Oregon Legislature in 2015 provides an indicator of actual customer experience in DMV offices. The agency is proposed a 60% target for 2019-21 due to employee
+actual target
+participation in a major computer system replacement (system configuration, testing, and training) and the issuance of driver licenses and ID cards that comply with federal Real ID standards in July
+2020.
+Factors Affecting Results
+The number of customers visiting an office and the time of day, plus the mixture and complexity of transactions, play major factors in the customer wait time experience. Another factor is the number of
+approved positions, and the ability to keep positions filled with trained employees. Additional online services via the Service Transformation Program (STP) will reduce the need for in-person visits.
+Installing new lobby management systems and self-service kiosks would improve the efficiency of offices, and continued exploration of business process improvements and staffing strategies should
+increase the throughput of existing offices. A new computer system was installed in January 2019 that streamlined vehicle title and registration transactions. However, it added steps for field office
+staff to complete and required additional training. Another new system is scheduled for July 2020.
+KPM #13
+Customer Satisfaction - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+helpfulness, expertise, and availability of information.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2018
+2019
+2020
+2021
+2022
+Accuracy
+Actual
+No Data
+86.70%
+85.40%
+No Data
+No Data
+Target
+90%
+90%
+90%
+90%
+90%
+Timeliness
+Actual
+No Data
+86.70%
+85.40%
+No Data
+No Data
+Target
+90%
+90%
+90%
+90%
+90%
+Availability of Information
+Actual
+No Data
+86.70%
+85.40%
+No Data
+No Data
+Target
+90%
+90%
+90%
+90%
+90%
+Helpfulness
+Actual
+No Data
+86.70%
+85.40%
+No Data
+No Data
+Target
+90%
+90%
+90%
+90%
+90%
+Expertise
+Actual
+No Data
+86.70%
+85.40%
+No Data
+No Data
+Target
+90%
+90%
+90%
+90%
+90%
+Overall
+Actual
+No Data
+86.70%
+85.40%
+No Data
+No Data
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+actual target
+We continue to achieve high overall customer service ratings. On the whole, we continue to provide customers with good to excellent service. Variations in results between 2008 and 2016 are not
+statistically significant and have been near the target of 90 percent. 2018 is within 3% of our goal and was the first year to combine the results from three service areas. 2020 saw a slight decrease to
+be within 5% of goal considering the increased demand for services with the rising population we are continuing to work hard for our customers. Data to compare with other state departments of
+transportation is not available. Specific to motor carrier regulation, Oregon is one of just a handful of states asking the trucking industry about satisfaction with motor carrier enforcement.
+Management Comments:
+Beginning with 2018, Ask ODOT customer service survey was added to data from Driver & Motor Vehicle Services Division (DMV) and Commerce and Compliance Division (formerly Motor Carrier
+Transportation Division.) The sampling of customers for the 2020 survey included major customer groups of DMV, Commerce and Compliance Division, and Ask ODOT. We will continue to monitor
+customer satisfaction levels and take corrective action as needed.
+Factors Affecting Results
+DMV, Commerce and Compliance, and Ask ODOT conduct surveys of customers based on the recommended Statewide Customer Service Performance Measure guidelines. The survey results are
+combined to determine a weighted average percentage of customer satisfaction rated "Good" or "Excellent." DMV changed its methodology in 2018 to send surveys quarterly to a sampling of
+customers who visited DMV field offices. Customers are selected randomly from the DMV computer system database of driver and motor vehicle transactions during the previous quarter. The
+quarterly survey results are then averaged to determine the DMV customer satisfaction results used for this report. For the 2019 quarterly reports, DMV averaged a response rate of 24.45%. DMV
+completed a major computer system upgrade in January 2019 that changed business processes for vehicle transactions and began work on the driver system replacement. DMV field office
+employees used both the legacy driver system and the new vehicle system during 2019, which contributed to longer wait times and lower customer satisfaction scores.
+Commerce and Compliance Division revised their 2020 survey to an online only survey of companies subject to safety compliance reviews, truck safety inspections, or audits. The surveys also cover
+commercial drivers subject to driver safety inspections and persons calling for registration or over-dimension permits. The survey had a total of 151 responses.
+Ask ODOT surveys averaged 112 responses monthly. Ask ODOT is a first point of contact for information, services or issues resolution with ODOT. Staffed by experienced employees, Ask ODOT
+representatives answer questions on the spot or refer you to a broad range of contacts within the agency.
+Ask ODOT Trends and Topics:
+Illegal Camping: This problem is growing statewide and homeowners believe ODOT is liable. It’s a visible problem and more people are asking why the agency doesn’t enforce the law (illegal
+camping).
+Technology Expectations:  Oregonians expect immediate answers and are frustrated with the need to research. People expect instant answers from databases and are less patient with waiting for
+answers.
+KPM #15
+Certified Firms (DMWESB*) - Percent of ODOT Awarded Contracts to Oregon Certified Small Businesses.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Certified Firms (DMWESB*)
+Actual
+21.62%
+11.59%
+9.72%
+No Data
+No Data
+Target
+15%
+15%
+15%
+15%
+15%
+How Are We Doing
+ODOT tracks and reports on awards made to firms that are certified by the Certification Office for Business Inclusion and Diversity (COBID); this includes disadvantaged business enterprise, minority-
+and woman-owned and emerging small business certifications, or collectively reported as "certified firms." Since 2016, we have also tracked and reported on businesses that are owned by service-
+disabled veterans. Reporting on all certified firms winning contracts as prime contractors and those certified firms working as subcontractors is a more accurate and complete representation of how
+ODOT uses these firms. The agency also sets internal targets for payments to these certified firms and implements programs and supportive services to encourage participation. The certified firms’
+aspirational targets are set on state-funded-only projects over $100,000. The aspirational targets are not a condition of contract award; rather the target represents the level of certified small business
+participation ODOT has determined is reasonably achievable in the scope of work, availability of certified firms, and the logistics of the project; such as duration and location.
+Management Comments:
+ODOT is committed to programs that encourage the participation of small businesses, including minority- and women-owned firms, in contracting opportunities with the Department across divisions
+and business lines. To that end, we implement the state Emerging Small Business (ESB) Program and ODOT Small Contracting Program (SCP), facilitate numerous small business supportive
+services including mentoring and training opportunities, and sponsor outreach events to communicate contracting and business development opportunities to certified firm communities.
+These programs and initiatives are intended to ensure ODOT and our contractors comply with state and federal non-discrimination laws; create a level playing field for small businesses to compete
+fairly for contracts; ensure only eligible firms benefit from the programs; help develop firms to compete successfully in the marketplace outside the programs; and assist small businesses in
+overcoming barriers to participation in ODOT’s procurement and contracting processes.
+actual target
+We provide statewide training for project management and field staff and we reach out to certified firms to let them know about opportunities and resources for working on ODOT projects. Due to the
+wide variation in metrics, it is not statistically feasible to compare our overall goals on a state-to-state basis.
+Factors Affecting Results
+ODOT Information Systems completed a project recently to integrate all data systems to provide comprehensive information. This system will provide an enterprise approach to data collection and
+reporting.

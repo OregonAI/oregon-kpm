@@ -1,0 +1,354 @@
+Watershed Enhancement Board
+             Annual Performance Progress Report
+                    Reporting Year 2017
+               Published: 9/28/2017 1:21:41 PM
+ KPM #       Approved Key Performance Measures (KPMs)
+1           OPERATIONS - The percentage of total funding used in agency operations.
+2           FUNDING FROM OTHER SOURCES - The percent of funds contributed from other sources on OWEB funded restoration projects.
+3           GRANT-MAKING ACROSS OREGON - Percent of Oregon's 76 sub-basins (defined as 8-digit hydrologic unit code areas) w ithin w hich Oregonians benefit from OWEB's grant programs.
+4           TIMELINESS OF GRANT-MAKING - The percent of open solicitation grant agreements executed w ithin one month after Board aw ard.
+5           FISH POPULATIONS - The percentage of monitored native fish species that exhibit increasing or stable levels of abundance.
+6           WATERSHED COUNCIL GOVERNANCE - Percent of OWEB funded w atershed councils that demonstrate effective organizational governance and management using OWEB merit criteria.
+7           PAYMENTS - The percentage of complete grant payment requests paid w ithin 24 days.
+8           STREAMSIDE HABITAT - The number of riparian stream miles restored or enhanced as a result of OWEB funded grants.
+9           UPLAND HABITAT - Acres of upland habitat restored or enhanced as a result of OWEB funded grants.
+10          NATIVE SPECIES HABITAT AND WATER QUALITY - Percent of restoration, acquisition or technical assistance funding invested to address habitat for threatened, endangered or species of concern, or w ater-quality concerns identified on 303(d)
+            listed streams.
+11          NATIVE FISH HABITAT QUANTITY - Miles of fish habitat opened as a result of completed fish passage projects funded through OWEB grants.
+12          CUSTOMER SERVICE - Percent of customers rating their satisfaction w ith the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise, and availability of information.
+
+                                                                                                                                                    red
+                                                                                                                                                    green
+                                                                                                                                                    yellow
+
+ Performance Summary                                                                                                                                        Green                                                   Yellow                                                     Red
+
+                                                                                                                                                       = Target to -5%                                      = Target -5% to -15%                                        = Target > -15%
+Summary Stats:                                                                                                                                              54.55%                                                  27.27%                                                   18.18%
+KPM #1                  OPERATIONS - The percentage of total funding used in agency operations.
+                        Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                   2013                               2014                               2015                              2016                               2017
+Pe rce ntage  of funding use d in ope rations
+Actual                                                                             7.20                              10.65                              8.60                               9.60                              11.53
+Target                                                                               6                                  6                                 6                                  6                                 11
+
+How Are We Doing
+In FY 2017, the percentage of total funding used in agency operations increased to 11.53% from 9.57% in FY 2016. This increase is primarily due to OWEB’s calculation for this KPM, which now
+includes direct-cost positions in agency operations costs. These positions were previously excluded, resulting in a lower percentage for this calculation.
+
+Because OWEB is largely a ‘pass-through’ grant agency, it is most appropriate to compare operational cost ratios with private foundations and charitable organizations. For comparison, OWEB
+obtained data from the Foundation Center (www.foundationcenter.org) on the average operations cost for private foundations with 19-129 employees (n = 29) in their database. The average
+operations cost for these foundations was 21.7%, where operation cost was calculated as 1 - (total giving/total expenditures). This comparison suggests that OWEB’s administrative costs are below
+average for comparable entities in the U.S.
+
+As a result of this analysis, OWEB’s KPM now reflects a target that is commensurate with comparable entities (in addition to the methodology change noted above). The revised KPM more
+accurately reflects ratios in alignment with how Measure 76 lottery funds are distributed. The target of 11% has been set quite low to ensure the majority of funds reach local watersheds.
+
+Factors Affecting Results
+During the 2017 Legislative session, OWEB’s calculation for this KPM was revised to include direct-cost positions in agency operations costs. These positions were previously excluded, resulting in
+a lower percentage for this calculation.
+During 2012-2016, agency overhead and staffing levels have remained relatively flat. The largest driver of the increase during that period was the removal of other agency payments as a result of
+Measure 76.  The agency’s primary revenue comes from Measure 76 lottery funds, with additional funding from salmon license plate dollars, the federal Pacific Coastal Salmon Recovery Fund, the
+Pacific States Marine Fisheries Commission, the U.S. Fish and Wildlife Service, and other sources.
+KPM #2        FUNDING FROM OTHER SOURCES - The percent of funds contributed from other sources on OWEB funded restoration projects.
+              Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                 2013                              2014                               2015                              2016                              2017
+Pe rce nt of funds
+Actual                                                                        No Data                            No Data                           No Data                            No Data                           54.40%
+Target                                                                          TBD                                TBD                               TBD                                TBD                               40%
+
+How Are We Doing
+In 2017, OWEB exceeded the target of 40% for this new KPM. Within the past year, for projects reported to the Oregon Watershed Restoration Inventory, OWEB contributed $13,647,915 (45.6%) to
+restoration projects, while project partners contributed $16,272,010 (54.4%). OWEB understands the importance of project partners (including funding partners), and requires a minimum of 25%
+match for entities applying for OWEB funds.
+Factors Affecting Results
+This KPM is new, so additional years of tracking and reporting will provide important information about trends regarding funding from other sources.
+
+OWEB partners with a variety of organizations for collaborative investments in restoration projects.  These partners include federal, state and local governments, Tribes, non-governmental
+organizations, citizen groups, landowners, and local businesses. A diverse portfolio of funders supports on-the-ground implementation of restoration projects, while ensuring a variety of priority
+actions—ranging from sage-grouse habitat conservation to instream improvements to fish habitat—are addressed.
+KPM #3     GRANT-MAKING ACROSS OREGON - Percent of Oregon's 76 sub-basins (defined as 8-digit hydrologic unit code areas) within which Oregonians benefit from OWEB's grant programs.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                 2013                              2014                               2015                              2016                              2017
+Pe rce nt of Ore gon sub-basins
+Actual                                                                        No Data                            No Data                           No Data                            No Data                           92.10%
+Target                                                                          TBD                                TBD                                TBD                               TBD                               90%
+
+How Are We Doing
+This is a new KPM approved in the 2017 legislative session. OWEB’s mission is to protect and restore healthy watersheds that support thriving communities and strong economies. This KPM
+assesses how grants achieving OWEB’s mission are distributed throughout the state. By looking at grant-making across Oregon, OWEB can determine if some areas of Oregon less frequently
+receive grant awards and, as needed, explore reasons for this.
+
+This KPM is calculated as the percent of Oregon sub-basins with at least 50% of their land area contained with the boundary of the State of Oregon that receive at least one OWEB grant within a
+biennium.  'Sub-basins' is a term used by the U.S. Geological Survey as part of its categorization of hydrologic units.  A sub-basin is equivalent to an 8-digit hydrologic unit code (HUC).  There are
+76 sub-basins within Oregon.
+
+Currently, OWEB is exceeding its target for this KPM.  The agency will continue to track this measure through time.
+Factors Affecting Results
+OWEB offers over twenty grant programs, including Open Solicitation; Focused Investment Partnerships; Land and Water Acquisitions; several specific and specialized programs, including Weed
+Grants (administered by the Oregon Department of Agriculture); and Small Grants, among others.
+KPM #4        TIMELINESS OF GRANT-MAKING - The percent of open solicitation grant agreements executed within one month after Board award.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                 2013                               2014                              2015                               2016                               2017
+Pe rce nt of ope n solicitation grants awarde d within 1 month
+Actual                                                                         No Data                           No Data                            No Data                            No Data                            19.50%
+Target                                                                           TBD                               TBD                                TBD                                TBD                                95%
+
+How Are We Doing
+OWEB strives for accuracy and efficiency in all aspects of the grant-making process.  In 2017, the first year of reporting for this new KPM, OWEB’s results was 19.5%, which is well below the 95%
+target. OWEB awarded 149 Open Solicitation grants, with 29 of these having grant agreements that were executed within one month of board award.
+
+This low number is largely attributed to workflow for grant agreements. A grant agreement is not considered ‘executed’ until a final draft has been sent to and signed by a grantee, then returned to
+OWEB for final signature. Based on a random sample of the FY 2016-17 awards, example issues that delayed execution of grant agreements included:  the need for grantees to revise grant
+application budgets to correct errors prior to development of a grant agreement; the requirement under OWEB’s administrative rules for grantees to resolve outstanding final reports for other, open
+grants prior to being issued a new grant agreement; turnaround time required for Oregon Department of Justice to review grant agreements for awards greater than $150,000; and delays in signing
+by the grantee.
+Factors Affecting Results
+OWEB is tracking this measure for the first time with the FY16-17 data.  As noted above, several factors can influence the time period for executing grant agreements.  The agency is assessing
+methods for consistently tracking the time required for individual steps in the grant agreement workflow.  This more detailed information will enable OWEB to identify specific steps during which
+delays are common, and explore opportunities for improvements.
+KPM #5         FISH POPULATIONS - The percentage of monitored native fish species that exhibit increasing or stable levels of abundance.
+               Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                   2013                              2014                              2015                              2016                               2017
+Pe rce ntage  of nativ e  fish spe cie s that are  incre asing or stable
+Actual                                                                            74%                               83%                                75%                               71%                                65%
+Target                                                                            75%                               75%                                75%                               75%                                75%
+
+How Are We Doing
+Fish biologists from the Oregon Department of Fish and Wildlife (ODFW) determined that the percentage of monitored native fish species exhibiting increasing or stable levels of abundance has
+remained relatively stable over the last several years (2013 – 74%, 2014 – 83%, 2015 – 75%, and 2016 – 71%), declining slightly in FY16-17 (65%). The species included in this assessment have
+varied through time in response to fluctuations in monitoring resources and priorities. Twenty-three native fish species that were assessed in either the 2005 Native Fish Status Report or in the
+1995 Biennial Report on the Status of Wild Fish in Oregon were monitored in FY 2017.  For some species, such as salmon, steelhead, and native trout, the species designation can include several
+Species Management Units (SMUs).  Of the species monitored in FY 2016-17, results show 15 species with stable or increasing abundance: chum salmon, coho salmon, spring Chinook salmon, fall
+Chinook salmon, winter steelhead, summer steelhead, coastal cutthroat trout, bull trout, eulachon, Miller Lake lamprey, Warner sucker, Foskett speckled dace, sockeye salmon, Borax Lake chub,
+and Oregon chub. White sturgeon and Pacific lamprey have shown declines relative to historical abundance, though recent data show some signs of greater stability for white sturgeon.
+Factors Affecting Results
+OWEB's ability to report on this measure is dependent upon ODFW. FY 2016-17 monitoring included species that have not been intensively monitored on a longer term or regular basis (e.g., Alvord
+Lake chub, Goose Lake sucker, pit sculpin, Millicoma dace, Umpqua chub, and Lahontan cutthroat trout), thus precluding evaluation of trends in abundance. Abundance of several salmon and
+steelhead SMUs has remained lower in FY16-17 relative to some previous high-abundance years, likely as a response to poor conditions for ocean survival.  Continued monitoring in the coming
+years will identify whether these declines are temporary or if they indicate a longer term, decreasing trend.
+
+OWEB will continue to work with ODFW to refine the capability to report on this measure through assessment and monitoring efforts. Conservation and recovery plans are a priority for ODFW, and
+these plans identify monitoring priorities needed to track the long-term status and trends for Endangered Species Act-listed and native fish species. ODFW maintains the Salmon Recovery Tracker
+to report on progress made towards achieving the measureable criteria identified in the State of Oregon’s fish conservation and recovery plans. These criteria focus on fish abundance, productivity,
+diversity, and spatial structure, as well as the condition of habitat. Sufficient funding for sustained monitoring is necessary to enable reporting on this KPM.
+KPM #6     WATERSHED COUNCIL GOVERNANCE - Percent of OWEB funded watershed councils that demonstrate effective organizational governance and management using OWEB merit criteria.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                 2013                               2014                               2015                                2016                               2017
+Pe rce nt of wate rshe d councils that me e t me rit crite ria
+Actual                                                                         No Data                            No Data                            No Data                            No Data                            91.50%
+Target                                                                           TBD                                TBD                                TBD                                TBD                                100%
+
+How Are We Doing
+Sixty Watershed Council Capacity grant applications were received by the March 2017 application deadline. The applications were evaluated based on five merit criteria: 1) effective governance, 2)
+effective management, 3) progress in planning, 4) progress in on-the-ground watershed restoration, and 5) progress in community engagement for watershed restoration purposes. All criteria are
+equally weighted in the review process. OWEB staff considered the following information in the review: 1) information in the council’s two-year work plans and annual work plan updates; 2) answers
+to the Council Capacity grant application questions; 3) OWEB staff’s knowledge of council performance; 4) any supplemental information provided by the council in response to OWEB’s request;
+and 5) if requested by OWEB, interviews with council officers and staff. OWEB considers a watershed council to have met its work plan objectives if they meet all five merit criteria.
+
+For the 2017-2019 Council Capacity grant cycle, 53 of the 60 watershed councils met all five of the merit criteria and received full funding; 6 watershed councils did not meet all the merit criteria and
+received reduced funding; and 1 council demonstrated inadequate performance and was not funded. Specifically, 54 out of the 59 organizations receiving funding met both the effective governance
+and management criteria.
+Factors Affecting Results
+The purpose of OWEB’s grants to watershed councils is to support effective watershed council staff and operations in carrying out activities and projects to protect or restore native fish or wildlife
+habitats and improve water quality. These groups also undertake resource assessment, planning, design and engineering, technical assistance, monitoring, and outreach to involve landowners and
+citizens in voluntary actions to protect, restore and maintain the ecological health of lands and waters. The councils’ ability to demonstrate progress in work plan implementation and maintain
+effective organizational management and governance shows the effectiveness of OWEB’s investment in helping to support the operating costs of watershed councils.
+Currently watershed councils are evaluated for merit every two years at the start of each biennium. The watershed council capacity (Council Capacity) grant process supports OWEB’s goal of
+resilient, sustainable local organizations, is performance and outcome based, and contains high standards for eligibility, reporting, and accountability. In July of 2014, the OWEB Board adopted new
+rules and guidance for Council Capacity grants. The new funding criteria contain higher standards for eligibility and merit than in the past.
+
+The 2017-2019 Council Capacity grant cycle is the second time watershed councils have been evaluated using the new merit criteria and ranked for funding using three funding levels (fully fund,
+fund at a reduced level, and do not fund).  In the one biennium since OWEB implemented this new program, we have seen the percentage of councils that meet both the effective governance and
+management criteria increase from 81% in 2015-2017 to 92% in 2017-2019.  As watershed councils become more familiar with the new criteria we expect to see continued progress towards the
+target of 100% meeting this criterion. Councils that fall into the reduced funding level category for two consecutive biennia will be considered “do not fund” in the third biennium.
+KPM #7               PAYMENTS - The percentage of complete grant payment requests paid within 24 days.
+                     Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                 2013                             2014                              2015                             2016                              2017
+Pe rce ntage  of grant payme nts paid within 30 days (24 days starting in FY 2012)
+Actual                                                                          100%                             100%                              100%                             100%                              100%
+Target                                                                          100%                             100%                              100%                             100%                              100%
+
+How Are We Doing
+The operation and management of a competitive grant program is a major component of OWEB’s business activities. The timely processing of grant payments benefits OWEB and its partners by
+providing the necessary resources to implement watershed enhancement work in an expeditious manner. The target is ambitious, but OWEB believes it is necessary to be prompt with payment
+requests and strives for excellence. Many grantees depend on the timely disbursement of these resources to support operation and management obligations. During FY 2016-17, OWEB met the
+100% target of complete grant payment requests paid within 24 days. OWEB met its target during each of the last 11 fiscal years.
+Factors Affecting Results
+OWEB is statutorily required to make payments within a 45-day period, and continues to meet and well exceed this statutory requirement as noted in the KPM results. The review of payments,
+effective staffing levels matched to workload, and strategic investments in new techniques and technology to improve efficiency enables OWEB to meet this target.
+KPM #8          STREAMSIDE HABITAT - The number of riparian stream miles restored or enhanced as a result of OWEB funded grants.
+                Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                 2013                               2014                               2015                               2016                              2017
+Riparian Plant Communitie s
+Actual                                                                         No Data                            No Data                           No Data                            No Data                            318.60
+Target                                                                           TBD                                TBD                                TBD                               TBD                              233.70
+
+How Are We Doing
+Currently, the number of riparian stream miles improved reported to the Oregon Watershed Restoration Inventory (OWRI) for 2017 is 319 miles. This value is well above the 2017 target.  From 2007
+to 2016, the total riparian stream miles improved each year in Oregon ranged from 142 to 560 miles, demonstrating the variability associated with this KPM based on the number and size of riparian
+restoration projects being completed in any single year. Regardless of this variability, investment in improvements to streamside habitats—with the intent of providing both habitat and water quality
+benefits—is a priority for OWEB funding.
+Factors Affecting Results
+This KPM was approved by the Legislature in 2017 to replace the KPM “Plant Communities” and limit the results to OWEB funded projects only. Therefore, results more accurately reflect OWEB’s
+progress.  The target for this measure is a rolling average of miles of riparian area treated by OWEB funded grants over the previous 10 years, as reported to OWRI.  The current target, developed
+as part of the KPM revision process, is based on the 10-year average of OWEB-funded riparian projects from 2005-2014. There is some lag time for reporting that results in data availability
+being delayed by one year.  For this reason, previous years' data may be revised upward as projects are completed and reported to OWRI.
+KPM #9            UPLAND HABITAT - Acres of upland habitat restored or enhanced as a result of OWEB funded grants.
+                  Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                 2013                              2014                               2015                               2016                              2017
+Upland Habitat Re store d
+Actual                                                                        No Data                            No Data                           No Data                            No Data                            35,646
+Target                                                                           TBD                               TBD                                TBD                               TBD                              47,560
+
+How Are We Doing
+This new KPM recognizes the significant contributions of OWEB funded projects to upland restoration throughout Oregon. The measure indicates progress towards improving upland habitat
+conditions for the benefit of native species and, in some cases, water quality.  This information is tracked in OWEB’s Oregon Watershed Restoration inventory (OWRI).
+
+In the past 10 years, the number of upland acres restored or enhanced has ranged from a low of 35,646 acres in 2017 to a high of 95,927 acres in 2010. This range demonstrates the substantial
+variability associated with this KPM based on the number and size of upland restoration projects being completed in any single year. In addition, guidance about how to measure upland acres
+‘restored or enhanced’ has improved, thus likely resulting in more accurate reporting that could reduce the acres reported. OWEB will continue to track this measure and assess trends through
+time.
+Factors Affecting Results
+This KPM was approved by the Legislature in 2017 to more accurately measure OWEB accomplishments by using OWEB-funded projects only.  The target for this measure will be a rolling average
+of upland acres restored by OWEB funded grants over the previous 10 years, as reported to OWRI.  The current target, developed as part of the KPM revision process, is based on the 10-year
+average of OWEB-funded riparian projects from 2005-2014. There is some lag time for reporting that results in data availability being delayed by one year.  For this reason, previous years' data
+may be revised upward as projects are completed and reported to OWRI.
+KPM #10     NATIVE SPECIES HABITAT AND WATER QUALITY - Percent of restoration, acquisition or technical assistance funding invested to address habitat for threatened, endangered or species
+            of concern, or water-quality concerns identified on 303(d) listed streams.
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                 2013                               2014                              2015                               2016                               2017
+Inv e stme nts to addre ss T&E spe cie s, spe cie s of conce rn; or conce rns ide ntifie d on 303(d) liste d stre ams
+Actual                                                                        No Data                            No Data                            No Data                            No Data                            No Data
+Target                                                                           TBD                               TBD                                TBD                                TBD                                TBD
+
+How Are We Doing
+This is a newly adopted KPM.  In order to report on this new KPM, OWEB recently added a question to the restoration and technical assistance grant applications in the agency’s online grant
+application system, and will be doing the same for land acquisition applications when these are added to the online system in the coming year. This question will allow OWEB to track all projects that
+address habitat for threatened, endangered, or species of concern, as well as water quality concerns identified on 303(d) listed streams. Data now are beginning to be gathered for this question.
+Results for this KPM will be reported in the FY2017-18 APPR.
+
+Factors Affecting Results
+OWEB recently began gathering data for this newly adopted KPM and will report on it in subsequent years.
+KPM #11        NATIVE FISH HABITAT QUANTITY - Miles of fish habitat opened as a result of completed fish passage projects funded through OWEB grants.
+               Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                2013                               2014                              2015                              2016                              2017
+SALM ON HABITAT QUANTITY
+Actual                                                                        No Data                           No Data                           No Data                            No Data                           146.60
+Target                                                                          TBD                               TBD                                TBD                               TBD                             138.80
+
+How Are We Doing
+The measure indicates progress made associated with OWEB’s investments toward removing barriers to fish passage in rivers and streams throughout Oregon. The number of stream miles made
+available ranged annually from 146 to 672 between 2007 and 2016, with a few unique, large projects (i.e., dam removals) contributing to high numbers for 2010 and 2011. Nonetheless, the 2017
+value slightly exceeds the target.
+
+The yearly numbers of salmon habitat opened up or improved have generally been decreasing since 2010. This trend likely is due to the fact that restoration efforts early in the history of the
+Oregon Plan for Salmon and Watersheds may have focused on fish-passage projects that were less complicated and simpler to implement. As restoration efforts have matured, more complicated
+and expensive projects are beginning to be implemented, which take more preparatory and planning time.
+Factors Affecting Results
+This KPM was approved by the Legislature in 2017 to more accurately measure OWEB accomplishments by using OWEB-funded projects only, replacing a past measure that was broader in nature.
+ The target for this measure is a rolling average of miles opened/improved by OWEB funded grants over the previous 10 years, as reported to the Oregon Watershed Restoration Inventory (OWRI).
+ The current target, developed as part of the KPM revision process, is based on the 10-year average of OWEB-funded riparian projects from 2005-2014. There is some lag time for reporting that
+results in data availability being delayed by one year.  For this reason, previous years' data may be revised upward as projects are completed and reported to OWRI.
+KPM #12    CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+           helpfulness, expertise, and availability of information.
+           Data Collection Period: Jul 01 - Jun 30
+
+                                                                        actual    target
+
+ Re port Ye ar                                                           2013                          2014                          2015                           2016                           2017
+Av ailability of Information
+Actual                                                                   79%                          73.50%                        71.40%                         80.40%                        75.70%
+Target                                                                   91%                            91%                           91%                            91%                           91%
+Time line ss
+Actual                                                                   73%                          75.80%                        77.60%                         86.30%                        85.40%
+Target                                                                   91%                            91%                           91%                            91%                           91%
+He lpfulne ss
+Actual                                                                   88%                          83.20%                        78.10%                           98%                         94.40%
+Target                                                                   91%                            91%                           91%                            91%                           91%
+Ov e rall
+Actual                                                                   80%                          82.40%                        76.70%                         90.20%                          91%
+Target                                                                   91%                            91%                           91%                            91%                           91%
+Expe rtise
+Actual                                                                   81%                          81.60%                        74.80%                           94%                         91.70%
+Target                                                                   91%                            91%                           91%                            91%                           91%
+Accuracy
+Actual                                                                   81%                            83%                         68.50%                         92.20%                          91%
+Target                                                                   91%                            91%                           91%                            91%                           91%
+
+How Are We Doing
+OWEB strives for excellent customer service in all areas for its applicants and grantees.  In 2017, OWEB exceeded or met the overall combined goal of 91% of respondents rating OWEB in the
+excellent and good categories for helpfulness, expertise, accuracy, and overall customer service.  OWEB was below the target for both availability of information (75.7%) and timeliness (85.4%).
+
+Based on written comments accompanying the survey, the 'Availability of Information' score was lower than the target primarily because respondents felt that: the agency's website is difficult to
+navigate; and required forms often change or are updated and new forms are difficult to find on the website. OWEB is on the verge of completing updates to the agency website. The new website
+will be organized in a "task-oriented" fashion, meaning that it will be designed to facilitate the most common tasks that potential applicants and grantees visit the site to complete. This reorganization
+of the website is expected to greatly increase the usability of the site, along with access to information for our applicants and grantees.
+
+'Timeliness' was the other customer service measure that did not meet the target. Written comments focused on turnaround time for some grant documents (e.g., amendments and completion
+reports) and some payment requests. Regarding grant documents, OWEB constantly works to increase timeliness with limited staff and an increasing diversity of grant programs it administers.
+OWEB’s new online grant application system has helped speed up response times for some aspects of the grant-making process. Regarding payment requests, while OWEB appreciates this
+feedback from customers, the agency has consistently met the 100% target for the 'Payments’ KPM for several years.
+
+Factors Affecting Results
+The methodology to survey grantees that had applied for a grant within the last year remained unchanged.  However, OWEB's overall number of respondents (148) increased significantly, up from
+52 respondents in 2016. Via OWEB’s online grant application system, the agency is able to track and store up-to-date customer email addresses, which contributed to the improved response rate.
+
+OWEB has had great success with the release of its online grant application system, which streamlines access to grant applications and simplifies the application process significantly. As the agency
+moves into the second year of this online system, OWEB received many positive responses from customers via the customer service survey. The agency will continue to solicit feedback from users
+and identify necessary improvements to address usability needs.

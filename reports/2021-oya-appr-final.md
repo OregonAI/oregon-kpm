@@ -1,0 +1,1013 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: 2021-oya-appr-final
+title: Youth Authority, Oregon — Annual Performance Progress Report, Reporting Year 2021
+doc_type: performance_report
+citation: APPR YOUTH-AUTHORITY-OREGON 2021
+authority_level: agency_report
+issuing_body: Youth Authority, Oregon
+agency: Youth Authority, Oregon
+agency_code: null
+reporting_year: '2021'
+year_source: document
+text_source: pdf-text
+filename_year: '2021'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/2021%20OYA%20APPR%20Final.pdf
+source_filename: 2021 OYA APPR Final.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 55e6429db8ffd26c3a22c35e22d5755ebfe194a9e839e762cf4721f7e7ef4cdb
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2021
+---
+
+## At a glance
+
+**APPR YOUTH-AUTHORITY-OREGON 2021** — Youth Authority, Oregon, Reporting Year 2021
+
+- Agency: Youth Authority, Oregon
+- Reporting year: 2021 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `2021 OYA APPR Final.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Youth Authority, Oregon
+Annual Performance Progress Report
+Reporting Year 2021
+Published: 9/28/2021 10:57:59 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+ESCAPES
+- Number of escapes per fiscal year.
+RUNAWAYS
+- Number of runaways from provider supervision (including youth on home visit status) per fiscal year.
+YOUTH TO YOUTH INJURIES
+- Number of injuries to youth by other youth per fiscal year.
+STAFF TO YOUTH INJURIES
+- Number of injuries to youth by staff per fiscal year.
+SUICIDAL BEHAVIOR
+- Number of youth with serious suicidal behavior, including attempts, during the fiscal year.
+INTAKE ASSESSMENTS
+- Percent of youth who received an OYA Risk/Needs Assessment (OYA/RNA) within 30 days of commitment or admission.
+CASE MANAGEMENT - Percent of close-custody and community youth with active case plans that are up-to-date
+EDUCATIONAL SERVICES
+- Percent of youth committed to OYA for more than 60 days whose records indicate that they received the education programming prescribed by their OYA case plan.
+COMMUNITY REENTRY SERVICES
+- Percent of youth released from close custody during the fiscal year who are receiving transition services per criminogenic risk and needs (domains) identified in OYA case plan.
+SCHOOL AND WORK ENGAGEMENT
+- Percent of youth living in OYA Family Foster Care, independently or at home (on OYA parole/probation) who are engaged in school, work, or both within 30 days of placement.
+RESTITUTION PAID
+- Percent of restitution paid on restitution orders closed during the fiscal year.
+PAROLE RECIDIVISM
+- Percent of youth paroled from an OYA close custody facility during a fiscal year who were adjudicated/convicted of a felony with a disposition or sentence of formal supervision by the county or state in the following fiscal year(s)
+at 36 months.
+PROBATION RECIDIVISM
+- Percent of youth committed to OYA for probation during a fiscal year who were adjudicated/convicted of a felony with a disposition or sentence of formal supervision by the county or state in the following fiscal year(s) at 36
+months.
+14a
+CUSTOMER SERVICE - Percent of OYA's youth and families (customers) who report positive service experiences with OYA as assessed through the lens of Positive Human Development: Community Youth - Independent or Living at Home.
+14b
+CUSTOMER SERVICE - Percent of OYA's youth and families (customers) who report positive service experiences with OYA as assessed through the lens of Positive Human Development: Community Youth - Residential Placement
+14c
+CUSTOMER SERVICE - Percent of OYA's youth and families (customers) who report positive service experiences with OYA as assessed through the lens of Positive Human Development: Close-Custody Youth
+14d
+CUSTOMER SERVICE - Percent of OYA's youth and families (customers) who report positive service experiences with OYA as assessed through the lens of Positive Human Development: Families.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+52.94%
+35.29%
+11.76%
+red
+green
+yellow
+KPM #1
+ESCAPES
+- Number of escapes per fiscal year.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Completed Escapes
+Actual
+Target
+How Are We Doing
+OYA operates two levels of security and programming. During FY 2021, it supervised an average of 434 youth per day in its close-custody facility system. The highest levels of security are maintained
+in five youth correctional facilities, where the expectation is zero escapes. In the four re-entry facilities, the cumulative yearly target is set at five or fewer.
+In FY 2021, there were five total escapes. Four from a correctional facility and one from a re-entry facility. In the prior year there were four escapes from two re-entry facilities.
+OYA continues to emphasize using the risk/need assessment and Youth Reformation System tools to determine appropriate placement and appropriate custody supervision levels of youth. This helps
+ensure consistency in the appropriate placement of youth based on their risk and need profiles. The agency also continues to participate in the national Performance-based Standards (PbS) project,
+where security-related outcome data are regularly collected and evaluated, and action plans are put into place to address opportunities to improve.
+Factors Affecting Results
+Attempts to escape from highly secure youth correctional facilities are rare, reflecting exceptional physical plant security and attention to staff training on security procedures.
+Additionally, OYA acknowledges the inherent elevated potential escape risk that accompanies community transition activities. Youth involved in transition programs are nearing re-entry to a community
+setting. Prior to the placement at a transition camp, youth have met educational, behavioral, and treatment expectations. It is crucial that these youth are afforded opportunities to develop and practice
+skills under supervision in the community, such as supervised community work, engagement in social activities, and volunteering in the community. These opportunities in the community increase the
+likelihood a youth will experience a successful transition, but also pose a higher potential risk for escape. These factors make complete elimination of escapes from transition programs unlikely. In FY
+actual target
+2021, there were three escape incidents involving five total youth. One youth escaped from the Young Women’s Transition Program. In one incident at MacLaren Youth Correctional Facility, one youth
+escaped. In another incident at MacLaren, three youth escaped. All were returned to OYA custody. Per OYA’s policy, each of these events resulted in a Critical Incident Review which made
+recommendations to enhance staff and youth safety and minimize the risk of future incidents. All of the Critical Incident Review recommendations from these events have been implemented.
+KPM #2
+RUNAWAYS
+- Number of runaways from provider supervision (including youth on home visit status) per fiscal year.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Runaways
+Actual
+Target
+How Are We Doing
+There were 170 runaway episodes during FY 2021, falling significantly below last year’s number of 238 and our target of 255. The OYA Community Resources Unit (CRU) is working with providers to
+reduce the number of runaways. The majority of youth who run away return within a few days of departure, and many of these youth are able to return to the program from which they left.
+Preliminary analysis of reasons for running away determined that youth often wish to have extra family and staff face-to-face involvement in the days immediately following placement. The agency
+continues enhanced in-person contact between the youth's juvenile probation and parole officer (JPPO) and the youth with the expectation that runaways will continue to stay low. OYA also continues
+to work with its contracted providers to increase the number of family contacts with youth during the first 30 days in a new program. In-person family visits and home visits were not allowed during most
+of this biennium due to the pandemic.
+The fact that the number of runs is the lowest we have seen in years is a testament to the support our residential providers offer youth.  They found creative ways to keep youth and family connected
+and to provide support to youth during these uncertain times.  OYA notes that the significant decrease of runaways over the last four years, in part, mirrors the decrease in the number of youth
+receiving these services. The rate of substitute care placements ending due to the youth running away has also decreased, though only from 23.76 percent to 16.88 percent in the same time period.
+Individual plans have been developed between OYA CRU staff and providers to address the differing factors that may underlie the overall rates of running away.
+Factors Affecting Results
+OYA employed a number of strategies aimed at reducing runaways in the past twelve years. This included implementing evidence-based programming. OYA uses a standardized risk and needs
+assessment to effectively match youth needs with placement options. In 2021, the rates of runs from programs were certainly affected by the COVID-19 pandemic.  While we are still experiencing
+actual target
+these changes and the full effects are not yet known, it is clear that the pandemic is influencing these current trends.
+Multi-disciplinary team (MDT) meetings are held every 90 days to discuss youth needs and to review each youth's individualized case plan. These meetings involve youth, families, assigned JPPOs,
+the community residential provider, and other treatment staff. A key component of this process involves outlining specific transition activities. This forward-thinking approach aims to ensure youth are
+ready for transition, are involved in their case planning, and have clearly articulated future goals; all of which supports the goal of decreasing the likelihood youth will run from community settings.
+Research shows youth engagement with education and/or vocational services is related to a decreased risk for running away. Every effort is made to positively engage youth in school and/or
+employment as quickly as possible when they are placed in a community setting and any time the community placement changes. Programs have continued to make efforts to keep youth busy, future-
+focused, and upbeat, so the relationships between youth and staff also have been increasingly supportive.  This may help youth feel more connected and less tempted to run. In addition, and
+especially during the pandemic, programs have been working hard to increase phone and video interactions with their family. This may also be influencing the youth’s positive attitude and decreased
+run impulses. Youth runaways from foster care and proctor care are reviewed monthly to monitor progress in this area.
+It should be noted that there were fewer youth in substitute care programs in 2021 than the prior year, which also contributed to the lower number of runaways.  However, the rate of runaways is
+calculated each quarter and there is also a decrease in the run rate.
+KPM #3
+YOUTH TO YOUTH INJURIES
+- Number of injuries to youth by other youth per fiscal year.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2017
+2018
+2019
+2020
+2021
+a. Facility
+Actual
+Target
+b. Field
+Actual
+Target
+How Are We Doing
+a. Facilities:
+The agency did not meet its goal in FY 2021 of 25 or fewer incidents of youth-to-youth injuries in facilities. The actual number of injuries was 33. OYA's 16th year of data collection on this
+measure reflected a relatively low number of injuries considering the average daily population of 434 youth. Although the agency strives for no youth-to-youth injuries in facilities, many OYA youth have
+been identified as needing skill development around emotion regulation and emotion management. OYA addresses these needs through culturally responsive, gender-specific, evidence-based
+programming and Positive Human Development principles, aiming to reduce these types of incidents.
+b. Community Placements:
+OYA contracts require community residential programs to report all youth injuries. The OYA CRU staff regularly monitors programs for any incidents.
+OYA had no incidents of youth-to-youth injuries in community settings during FY 2021. OYA consistently exceeds its goal of two or fewer incidents. While these numbers have been very positive, OYA
+cannot be complacent. We are responsible for young people, many of whom have extensive histories of trauma and assaultive behaviors, and the expectation is that future injuries are likely and
+should continue to be guarded against.
+Factors Affecting Results
+a. Facilities:
+The COVID-19 pandemic has presented unprecedented mental health and behavioral challenges for youth committed to OYA. Activities, sports, recreation, cross-unit support groups,
+outside mentoring, opportunities for vocational training or employment have all been changed or limited, which has dramatic impacts on youth and staff.
+actual target
+OYA continues to provide culturally responsive, gender-specific, evidence-based treatment approaches in all close-custody facilities that emphasize skill development, cognitive behavioral change,
+emotion regulation and healthy adolescent development. Staff continue to receive training in the delivery of treatment curricula, proactive problem-solving, verbal de-escalation, behavior management
+techniques, and Positive Human Development principles.
+OYA has updated its policies on time-outs, isolation, special program placements, and behavioral management guidelines, emphasizing proactive problem-solving, emotion regulation and conflict
+resolution. Skill Development Coordinators (SDCs) in three youth correctional facilities focus on using a Positive Human Development approach to proactive skill development and emotion regulation
+with youth identified as having behavioral volatility.
+OYA continues to expand its training of all staff on Positive Human Development and engagement. The ongoing development of the Youth Reformation System has provided risk assessment tools for
+violent and nuisance behaviors in the first six months of close custody placement, as well as need-profile characteristics that assist in informed decision-making about youth placement and service
+needs. These steps all are intended to create environments best suited for positive change and healthy development in youth and to maintain physically, psychologically, and emotionally safe
+environments for youth and staff.
+b. Community Placements:
+OYA continues to work with residential programs and foster care providers to deliver effective treatment interventions. Enhanced treatment modalities consist of problem-
+solving and skill development, as well as teaching prosocial thinking to youth. Prosocial skills training improves youth coping skills and contributes to the limited number of youth-to-youth injuries.
+Additionally, within foster care, ongoing training and increased supervision standards have assisted in avoiding youth-to-youth injuries.
+KPM #4
+STAFF TO YOUTH INJURIES
+- Number of injuries to youth by staff per fiscal year.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2017
+2018
+2019
+2020
+2021
+a. Facilities
+Actual
+Target
+b. Field
+Actual
+Target
+How Are We Doing
+a. Facilities:
+In FY 2021 there were zero staff-to-youth injuries in facilities. OYA is committed to operating safe close-custody facilities and minimizing physical intervention with youth. Accordingly,
+OYA will continue to emphasize the refinement of staff proactive problem-solving and verbal de-escalation skills and continue to provide formal training in the use of safe physical intervention
+techniques staff can use when necessary. In 2017, OYA introduced a new comprehensive crisis management training with an emphasis on early intervention to minimize injuries. This program
+continues to have the expected positive impact on youth and staff safety.
+b. Community Placements:
+OYA contracts require that community residential programs report all incidents of youth injuries. On a monthly basis, the OYA CRU staff monitors all incidents using a
+comprehensive database.
+OYA experienced no injuries to youth by OYA staff or by staff of residential treatment providers during FY 2021.
+Factors Affecting Results
+a. Facilities:
+The most common physical interventions by staff, including intervening in youth fights and removing an escalated youth from a group living environment, have historically resulted in most
+of our staff and youth injuries.
+To help reduce the number of incidents, OYA continues to provide culturally responsive, gender-specific, evidence-based treatment approaches in all close-custody facilities. These emphasize skill
+actual target
+development, cognitive behavioral change, and positive interactions and engagement among youth and staff. Staff continue to receive training in the delivery of treatment curricula as well as in
+proactive problem-solving, crisis management that includes verbal de-escalation, personal protection and physical restraint, behavior management techniques, and Positive Human Development
+principles.
+Additionally, as noted above, the agency continues to implement and train staff on updated comprehensive physical intervention techniques, with an emphasis on early intervention and best practices
+around physical interventions. In accord with best practices, the agency trained internal master instructors and developed an ongoing training schedule for the entire physical intervention continuum
+that includes verbal de-escalation, escorting youth, physical intervention, group control techniques, and defensive tactics.
+These steps are intended to create environments best suited for positive change, healthy development in youth, and to maintain physically, psychologically, and emotionally safe environments for
+youth and staff. In instances where staff must physically intervene, the agency continues to emphasize training that should help ensure staff respond in a manner that minimizes the chance of injury to
+youth or themselves. Administrative reviews of all incidents of physical intervention also help minimize the number of staff-to-youth injuries.
+b. Community Placements:
+OYA has well-established protocols for managing youth who demonstrate out-of-control behaviors while placed with community providers. These procedures include
+requesting assistance from local law enforcement when necessary. Additionally, OYA policies and local procedures clearly outline appropriate and effective processes, trainings, and resources to
+ensure that parole and probation staff and providers have adequate tools to safely intervene when a youth's behavior escalates. We also emphasize the use of verbal de-escalation skills with physical
+intervention as a last resort, which contributes to safer and more effective interventions with youth.  OYA continues to maintain relationships with local service providers and resources to engage youth
+and have appropriate resources available to address problematic behavior before it escalates to physical intervention.
+In the 2021 legislative session, SB 710 was passed which prohibits the use of many types of physical restraints in most residential programs, including those serving youth with severe mentally health
+challenges.  While few OYA programs permit physical intervention by staff to control youth behavior, a possible downstream impact of this new law may be that that programs serving those
+populations will not take youth who cannot maintain physical safety and instead move toward the juvenile justice system.  OYA will continue to monitor programs for all potential training and support
+needs for our community programs.
+KPM #5
+SUICIDAL BEHAVIOR
+- Number of youth with serious suicidal behavior, including attempts, during the fiscal year.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2017
+2018
+2019
+2020
+2021
+a. Facility
+Actual
+Target
+b. Field
+Actual
+Target
+How Are We Doing
+a. Facilities:
+Suicidal behavior in facilities increased in FY 2021 from two incidents to fourteen. The most recent biennial Youth Biopsychosocial Summary data (2020) show that 14 percent of males
+and 30 percent of females placed in OYA close custody had attempted suicide in the three years prior, compared to 12 percent of males and 36 percent of females on the 2018 survey. These statistics
+indicate that OYA facilities are continuing to work with youth at high risk for suicidal behaviors, and their placement in OYA may be attributed largely to the decreased capacity in psychiatric residential
+and developmental disability residential placements throughout the state child-caring system. This diminished capacity has resulted in increased placement of youth who have behavioral health and
+developmental needs beyond the scope of a juvenile justice agency.
+b. Community Placements:
+FY 2021 saw an increase in the number of suicidal behaviors in community placements from one to five events.
+Factors Affecting Results
+a. Facilities:
+Youth placed in close-custody facilities are at a higher risk for suicidal behavior. Risk of suicidal behavior increases for youth who have a history of substance abuse, mental illness,
+trauma, and suicidal behavior are placed in a restrictive environment and separated from their community support systems. The COVID-19 pandemic has presented unprecedented mental health
+challenges for youth committed to OYA. Activities, sports, recreation, cross-unit support groups, outside mentoring, and most importantly in-person visiting with family and other support people have
+been severely limited, which has dramatic impacts on mental health.
+An OYA psychologist consults with staff and clinicians on appropriate follow-up and intervention on an as-needed basis for incidents of suicidal behavior, and reviews all of them to determine if they
+actual target
+meet the criteria for inclusion in the performance measure data. This process allows staff and providers to better identify suicidal behavior, directly affecting the results of this measure.
+OYA continues
+to focus efforts on youth safety and suicide prevention, and has increased its efforts to connect all youth with the Oregon Health Plan and other services when they are eligible so that youths' care and
+treatment are not disrupted due to service coverage lapses when they transition to the community.
+OYA has a suicide prevention policy based on consultation with national experts on youth suicide and grounded in best practices and the current body of research on this subject. This policy is
+currently under review by OYA Health Services and Facilities Services leadership.
+Staff are trained biennially on the agency's suicidal behavior policy. Screening and assessment protocols are reviewed by OYA clinical leadership on a regular basis to update and improve the
+identification and treatment of high-risk youth. OYA uses the Massachusetts Youth Screening Inventory-2 (MAYSI-2), and Inventory of Suicide Orientation-30 (ISO-30) as additional sources of
+information in making determinations about youth suicide risk at intake to close custody. Ongoing assessment includes formulation of suicide risk based on review and consideration of mental status
+and psychosocial factors known to be statistically correlated with risk of suicidal behavior.
+Additionally, because of the decreased numbers of residential beds throughout the state child-caring system for youth with psychiatric and/or intellectual/developmental disabilities, more youth with
+behavioral health and developmental needs that are beyond the scope of a juvenile justice agency are being placed with OYA. OYA is an active participant in numerous statewide workgroups
+assessing system-wide service gaps and making recommendations for capacity-building around residential treatment for youth with acute mental health and/or developmental needs.
+b. Community Placements:
+The COVID-19 pandemic has presented unprecedented mental health challenges for youth committed to OYA. Activities, sports, recreation, cross-unit support groups,
+outside mentoring, opportunities for vocational training or employment have all been changed or limited, which has dramatic impacts on mental health.
+OYA continues to focus efforts on youth safety and suicide prevention and staff are provided suicide prevention refresher training every two years. Over the past several years, OYA implemented a
+new suicide prevention training called Question, Persuade and Refer (QPR).  This program is designed to teach professionals how to look for situational and behavioral warning signs of suicide and to
+get the youth connected to the right resource. OYA has also increased its efforts to connect all youth with the Oregon Health Plan and other services when they are eligible so that the youths' care and
+treatment are not disrupted due to service coverage lapses.
+The most recent biennial Youth Biopsychosocial Summary (2020) data show that 11 percent of males and 29 percent of females placed in the community had attempted suicide in the past three
+years, compared to 12 percent of males and 24 percent of females on the 2018 survey. These self-reported rates are considerably higher than would be expected in the general young adult
+population.
+Ensuring that appropriate supports and resources are in place in the event that a youth displays dangerous self-harming behaviors are critical pieces of ensuring youth safety. The local OYA
+Community Services staff work closely with community mental health providers to triage, screen, and provide intervention services for OYA youth on probation or parole. OYA also collaborates with
+county emergency services to access acute hospitalization services for high-risk youth. OYA has formed a strong relationship with the Transition Age Young Adult Mental Health Programs in efforts to
+provide these youth the services and supports needed upon release from close custody, though these resources have diminished in capacity. Additionally, because of the decreased numbers
+of residential beds throughout the state child-caring system for youth with psychiatric and/or intellectual/developmental disabilities, more youth with behavioral health and developmental needs that are
+beyond the scope of a juvenile justice agency are being placed with OYA.
+These programs are generally the only option these youth have. Because of their incarceration, they have not been able to stay connected to their local community system of care, are not eligible for
+Medicaid, and are therefore not members of a coordinated care organization (which is responsible for referrals to high-end mental health services) until the day they are released from a youth
+correctional facility. Because of the lapse in services, these youth are not well-known to receiving community service providers and accessing support is more difficult.
+In the past three years, OYA has also provided training and support to the foster homes and residential programs where youth are placed.  All placement locations have ‘cut-down’ tools and training in
+their use. Self-harm events are rare overall, but having the training, preparation, and tools to address situations when they arise is imperative. OYA has also identified key Juvenile Parole and
+Probation Officers (JPPOs) and staff who have become QPR trainers. These trainers provide sustainable training in suicide prevention to our staff and foster parents.
+Community Services was also recently awarded a grant to develop a peer support program for the field.  We have contracted with Responder Life, which specializes in supporting first responders. The
+impact of both attempted and completed suicide on our workforce results in a myriad of impacts and vicarious trauma.  The peer support program will provide much needed support to Community
+Services staff, which will also positively impact their ability to support the youth and families we serve.
+KPM #6
+INTAKE ASSESSMENTS
+- Percent of youth who received an OYA Risk/Needs Assessment (OYA/RNA) within 30 days of commitment or admission.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Intake Assessments
+Actual
+89.90%
+87.10%
+88%
+83.20%
+87.50%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+In FY 2021, 87.5 percent of youth received an OYA Risk/Needs Assessment within 30 days of commitment or admission. This is below the 90 percent target, though an improvement from last year.
+Quarterly performance reviews at the local and statewide levels continue to focus on implementation of timely assessments. Field offices are implementing action plans to ensure that assessments are
+completed within the requisite time frame.
+OYA’s rates improve when looking at just the last quarter. Community Services ended the fiscal year strong with a 93.8 percent completion rate in the last quarter. OYA's two close-custody intake
+facilities improved their annual completion rate from last year to 94.3 percent. Facility Services leaders continue to work with facility living unit managers to better support and educate the case
+coordinators who complete this work.
+Factors Affecting Results
+Key factors influencing OYA's results on this measure include the availability of the youth and the background information on the youth’s case. OYA leadership will continue to engage in staff training
+and compliance monitoring with this measure.
+actual target
+KPM #7
+CASE MANAGEMENT - Percent of close-custody and community youth with active case plans that are up-to-date
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2017
+2018
+2019
+2020
+2021
+a. Close-custody population
+Actual
+83.10%
+81.70%
+79.20%
+Target
+90%
+90%
+90%
+b. Community population
+Actual
+71.40%
+69.30%
+80.60%
+Target
+90%
+90%
+90%
+How Are We Doing
+a. Facilities:
+OYA’s performance on this measure fell short of its target of 90 percent for FY 2021 - agency staff documented the timely maintenance of case plans for just over 79 percent of youth
+placed in close-custody facilities. Facility Services leadership hosted two Case Coordinator trainings and more are planned if and when the pandemic situation improves.
+OYA is undergoing a Case Plan redesign process which should also improve the rate of timely case management. OYA will continue to emphasize to staff the importance of documenting case plans
+within appropriate time frames through its performance management system of quarterly target reviews and unit-level action plan development.
+b. Community Placements:
+OYA's performance on this measure fell short of its target of 90 percent for FY 2021 - agency staff documented the timely maintenance of case plans for over 80 percent
+of youth placed in community settings. This is an increase in over 10 percentage points from last FY. OYA will continue to emphasize the importance of documenting case plans within appropriate time
+frames through its performance management system of quarterly target reviews and unit-level action plan development.  As noted above, there is an agency-wide effort to redesign the Case Plan, and
+we will be reaching out to each Field Office to be helping them with the structure of their local Quarterly Target Reviews as the outcomes on this measure vary widely from one region to the next.
+Factors Affecting Results
+a. Facilities:
+Developing and maintaining case plans is critical to effective case management and sequencing of correctional treatment interventions. In OYA facilities, case plans are developed in
+facility treatment units after transfer from OYA intake assessment units. This measure is a composite of three different elements completed every 90 days: case plan reviews, long-term goal reviews,
+and competency reviews.  In a single case plan, there could be multiple long-term goal areas and more than a dozen competency areas, all of which must be individually rated.  All elements must be
+actual target
+completed for the case to be considered up-to-date.  OYA also prioritizes family involvement in the process which has increased significantly over the last year. Family involvement adds another level
+of coordination and, at times, means that the process exceeds the required timeline.
+b. Community Placements:
+Developing and maintaining case plans is critical to effective case management and sequencing of treatment interventions. In community settings, youth behavior
+changes rapidly at different points in time, and updates to the case plan often follow the youth needs but may fall out of alignment with the calendared intervals.  It was originally hoped that a
+modernized Juvenile Justice Information System (JJIS) would include mandatory data elements and procedural gating that would help ensure compliance.  However, given changes to the
+modernization schedule, we are continuing to look for individual processes to maintain this alignment.
+Also, this measure is a composite of three different elements completed every 90 days: case plan reviews, long-term goal reviews, and competency reviews.  In a single case plan, there could be
+multiple long-term goal areas and more than a dozen competency areas, all of which must be individually rated.  All elements must be completed for the case to be considered up to date.  An
+improvement to the JJIS system that requires the review of competencies when a long-term goal is being reviewed may be contributing to the improvement in this area.  Additionally, field supervisors
+are now provided twice monthly reports to increase the frequency of tracking and feedback to their team members.  This has improved our knowledge about any systemic barriers and allows for more
+real time support to our parole and probation officers.  OYA also prioritizes family involvement in the process which adds another level of coordination and, at times, means that the process exceeds
+the required timeline.
+KPM #8
+EDUCATIONAL SERVICES
+- Percent of youth committed to OYA for more than 60 days whose records indicate that they received the education programming prescribed by their OYA case
+plan.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Education Services
+Actual
+88.30%
+89.30%
+90%
+90.70%
+89.30%
+Target
+95%
+95%
+95%
+95%
+95%
+How Are We Doing
+At 89.3 percent, OYA's performance on this key measure in FY 2021 was slightly less than its FY 2020 performance and below the agency's target of 95 percent. OYA continues to emphasize
+appropriate educational assessments and timely educational service delivery.
+Factors Affecting Results
+Several factors have had a positive influence on this measure over the last several years: staff training, communicating with education contractors and providers about the timelines and expectations
+of this KPM, and continued use of the multi-disciplinary team approach.
+Another factor affecting performance on this measure for both facility and field staff is the at-times inconsistent availability of background information and previous educational transcripts for youth,
+particularly those youth who have been away from academic programming for some time. Data collection for this measure is from a secondary versus direct source, which results in issues around data
+integrity. OYA has identified issues with the automated reporting for this measure that result in some skewing of the data.  The agency is working to address these data integrity and reporting issues
+and anticipates that the measure will not only be more accurate but will also move positively toward our target as a result.
+OYA facility and field staff work cooperatively with our education partners to ensure youth are getting the appropriate education services. However, OYA is not the direct provider and therefore not able
+to mandate specific education services. The agency is working with its educational partners to identify direct data sources and enter into data-sharing agreements in order to capture agency
+performance more accurately on this measure.
+actual target
+KPM #9
+COMMUNITY REENTRY SERVICES
+- Percent of youth released from close custody during the fiscal year who are receiving transition services per criminogenic risk and needs (domains)
+identified in OYA case plan.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Metric Value
+Actual
+92.10%
+91.40%
+95.40%
+90.60%
+90.20%
+Target
+90%
+90%
+92%
+92%
+92%
+How Are We Doing
+In FY 2021, the percentage of youth that received transition services in accordance with their case plan was 90.2 percent, which is very similar to last year’s rate and just below the agency's target of
+92 percent. An analysis of the relevant data shows that OYA is not meeting this KPM because audits are not being completed, not because youth are not receiving transition services. OYA is working
+on addressing this issue.
+Factors Affecting Results
+The primary factors affecting transition planning for placement and service coordination are youths’ treatment needs, readiness for transition, and availability of community-based services. A multi-
+disciplinary team meets quarterly to review youth progress and to determine transition planning activities. OYA has continued to coordinate a variety of available evidence-based services in local
+areas. Services focus on skill development and prosocial engagement in the community. These activities directly affect youth releases and transitions back into the community. Additionally, the Office
+of Inclusion and Intercultural Relations provides transition services for youth of color returning from facilities to the community. In Multnomah County, a pilot for Community Intervention Services (CIS)
+began in 2021.  The three CIS providers work with youth of color to provide skills development and support in several areas, including transition.
+OYA continues to partner with the Employment Department to increase access to employment and training for youth as they enter the community. OYA continues to have Transition-JPPOs and Youth
+Services Coordinators. Transition-JPPOs carry smaller caseloads and focus on helping youth across an identified service region during transitions to get quickly involved in educational, vocational,
+and recreational activities. The Transition JPPOs also build networks of resources with employers, training programs, and landlords in each community who are willing to give OYA youth opportunities
+to succeed.
+actual target
+Similarly, Youth Services Coordinator positions from the Office of Inclusion and Intercultural Relations are stationed in Field Offices throughout the state and help JPPOS and Transition-JPPOs
+identify resources, supports and services for youth of color and developing networks and partnerships with resources across the state. During this past year, the ability to get youth engaged in
+transition services, such as education or treatment, has been significantly hampered by the pandemic.  Many youths found engaging in online school or telehealth therapy to be an additional
+challenge. However, over the last six months, there have been more entry level jobs available in the community. As this situation continues forward, it is likely that we will need to continue to adapt
+how we connect youth with the opportunities they need as they re-enter the community.
+KPM #10
+SCHOOL AND WORK ENGAGEMENT
+- Percent of youth living in OYA Family Foster Care, independently or at home (on OYA parole/probation) who are engaged in school, work, or both
+within 30 days of placement.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+School and Work Engagement
+Actual
+70.80%
+75.30%
+71.50%
+72.50%
+74.50%
+Target
+70%
+70%
+75%
+75%
+75%
+How Are We Doing
+The agency came closer to meeting its elevated goal of 75 percent in FY 2021. OYA continues to emphasize the need for youth to be engaged in school or work when transitioning to new community
+placements.
+Factors Affecting Results
+Engaging youth in school or work is a priority for OYA staff, but the reality of securing employment and re-engaging youth in school is challenging. In previous years, youth transitioning from close
+custody encountered difficulty securing employment or enrolling in higher education classes due to not having official identification documentation. To alleviate this barrier and increase youth
+engagement, OYA partnered with DMV to develop a document that establishes the youth’s official address. Now youth may obtain Oregon identification cards more readily than in the past.
+Additionally, funds have been allocated to support the purchase of youth identification cards as needed.
+The COVID pandemic continues to be a barrier to get youth engaged in school. OYA is working with the Oregon Department of Education to make sure community youth have the resources that they
+need to engage in education this Fall.
+OYA collaborates with numerous partners to provide opportunities for youth, including General Education Diploma (GED) tutorials and testing, alternative school placements, vocational training,
+transition to mainstream schools, business-to-hire programs, and professional mentors. Agreements between OYA and school districts and other community partners provide numerous avenues for
+youth engagement. As part of these agreements, youth are provided a copy of their official education transcript upon leaving a close-custody facility to ensure they can be enrolled in school after
+actual target
+release. Additionally, OYA strongly encourages partners to participate in multi-disciplinary team meetings for youth in OYA.
+KPM #11
+RESTITUTION PAID
+- Percent of restitution paid on restitution orders closed during the fiscal year.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Restitution Paid
+Actual
+35.90%
+66.50%
+41.90%
+34.30%
+57.20%
+Target
+40%
+40%
+40%
+50%
+50%
+How Are We Doing
+The percent of restitution paid on conditions closed in FY 2021 increased to 57.2 percent and met the elevated 50 percent target set for the period. OYA has focused on supporting youth to make
+restitution payments and also tracking those payments more closely. A factor that continues to impact this measure is that a relatively small number of youths with large restitution orders can
+significantly sway these payment rates.
+Note that this measure is for restitution orders less than or equal to $10,000. Orders over $10,000 are omitted as outliers.
+Factors Affecting Results
+Administrative support staff in the field offices were trained to track payments on the eCourt system, and restitution goals in case plans were specifically monitored in case reviews and transitions
+between county supervision, OYA parole or probation, and OYA facilities. In addition, careful training and attention were paid to both probation and parole youth to not close conditions for
+administrative reasons. Maintaining these conditions as active and keeping attention on restitution has given youth more opportunities to make payments and reduced the number of times that
+restitution is converted into a money judgment by the courts.  We believe that this careful tracking of payments and attention to not closing restitution orders prematurely will, over time, have a positive
+effect on OYA’s tracking and attention to restitution payments.
+Youth in close-custody facilities have limited access to earning money or performing community service. Youth placed in the community have a greater opportunity to earn money for restitution
+payments because they can gain employment or participate in specific work programs aimed at earning money for restitution. JJIS (Juvenile Justice Information System) is the source of reporting
+information for this KPM; it does not always include all payments. The Odyssey, or "eCourt," system maintained by the Oregon Judicial Department (OJD) is the official record of restitution paid. While
+actual target
+OYA tries to ensure the complete payment balance is recorded in JJIS at the time the condition is closed, incomplete data is a possibility. OYA continues to work with OJD to obtain and maintain
+sufficient access to the Odyssey system to allow tracking of these payments.
+The legislature passed SB 817 in 2021, which removes all fines and fees from juvenile court, but it did not impact restitution.  OYA anticipates a positive impact on this measure as all payments that
+youth now make will go directly to restitution. While this measure will remain sensitive to data artifacts (e.g., large individual restitution orders), we believe that the underlying data will support the
+efforts and attention being paid to this important area.
+KPM #12
+PAROLE RECIDIVISM
+- Percent of youth paroled from an OYA close custody facility during a fiscal year who were adjudicated/convicted of a felony with a disposition or sentence of formal
+supervision by the county or state in the following fiscal year(s) at 36 months.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+PAROLE RECIDIVISM
+Actual
+31.70%
+32.10%
+29.60%
+30.40%
+22.80%
+Target
+31%
+30%
+30%
+30%
+30%
+How Are We Doing
+With a 22.8 percent recidivism rate, OYA met its target less than 30 percent for youth paroled from a youth correctional facility in FY 2021. The rate compares youth released on parole during FY
+2017-2018 who were adjudicated or convicted of a felony with 36 months of their release to all youth released during that year.
+Factors Affecting Results
+OYA continues to work on reducing recidivism through the implementation of a standardized risk/needs assessment to determine criminogenic risk factors and developmental need. This is the first
+step toward a comprehensive treatment plan focused on factors highly correlated with recidivism. The second step is OYA’s implementation of a number of evidence-based curricula in its close-
+custody facilities. OYA has also trained all facility and field staff on cognitive behavioral interventions and Positive Human Development, which is a model to build environments that support the
+development of psychosocial maturity, which correlates with reduced criminal behavior. The third step is OYA’s focus on creating diverse, equitable and inclusive environments that should result in
+better outcomes from youth, especially from historically excluded groups.
+Last year, OYA had to develop a new method to match youth records to adult records across databases in order to determine recidivism in the adult system. While these recidivism rates have
+remained largely consistent over the years, these rates are not the same for all youth.  OYA is aware that recidivism rates are higher for youth of color than for White youth
+.
+As current research
+suggests that youth of all races engage in similar overall levels of delinquent behavior, OYA, as a part of its DEI initiative, will develop and implement steps specifically targeting service provisions for
+youth of color. We believe this will likely have a positive effect on these overall rates.
+actual target
+OYA notes that comparing recidivism rates may be misleading whenever there are differences in populations or definitions of recidivism. Also, the impact of the COVID-19 pandemic on recidivism is
+unclear. Please interpret with caution.
+KPM #13
+PROBATION RECIDIVISM
+- Percent of youth committed to OYA for probation during a fiscal year who were adjudicated/convicted of a felony with a disposition or sentence of formal
+supervision by the county or state in the following fiscal year(s) at 36 months.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+PROBATION RECIDIVISM
+Actual
+23.40%
+20.50%
+25.20%
+23.30%
+17.60%
+Target
+19.80%
+19.50%
+19.50%
+19.50%
+19.50%
+How Are We Doing
+OYA met its recidivism rate target of less than 19.5 percent for youth being paroled from a youth correctional facility. In FY 2021, this rate was 17.6 percent in FY 2021. The rate is determined for youth
+committed to OYA for probation during FY 2017-2018 and tracked for 36 months from their commitment date.
+Factors Affecting Results
+OYA continues to work on reducing recidivism through the implementation of a standardized risk/needs assessment to determine criminogenic risk factors and developmental need. This serves as the
+first step in creating a comprehensive treatment plan focused on factors highly correlated with recidivism. OYA continues to work on reducing recidivism through the implementation of a standardized
+risk/needs assessment to determine criminogenic risk factors and developmental need. This is the first step toward a comprehensive treatment plan focused on factors highly correlated with
+recidivism. The second step is OYA’s implementation of a number of evidence-based curricula in its close-custody facilities. OYA has also trained all facility and field staff on cognitive behavioral
+interventions and Positive Human Development, which is a model to build environments that support the development of psychosocial maturity, which correlates with reduced criminal behavior. The
+third step is OYA’s focus on creating diverse, equitable and inclusive environments that should result in better outcomes from youth, especially from historically excluded groups.
+Other factors, such as keeping youth engaged in school or work, also can significantly impact recidivism rates.
+Earlier this year, OYA had to develop a new method to match youth records to adult records across databases in order to determine recidivism in the adult system. As noted above, OYA is also
+working to identify and provide cultural and focused services for youth of color, as also in probation status youth of color tend to have higher rates of recidivism than do White youth.
+actual target
+OYA notes that comparing recidivism rates may be misleading whenever there are differences in populations or definitions of recidivism. Also, the impact of the COVID-19 pandemic on recidivism is
+unclear. Please interpret with caution.
+KPM #14a
+CUSTOMER SERVICE - Percent of OYA's youth and families (customers) who report positive service experiences with OYA as assessed through the lens of Positive Human
+Development: Community Youth - Independent or Living at Home.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2017
+2018
+2019
+2020
+2021
+a. Safety & Security: Physical
+Actual
+88.50%
+80.50%
+Target
+80%
+80%
+80%
+b. Safety and Security: Emotional
+Actual
+74.70%
+70.10%
+Target
+80%
+80%
+80%
+c. Caring and Supportive Relationships
+Actual
+79.30%
+74.70%
+Target
+80%
+80%
+80%
+d. High Expectations and Accountability
+Actual
+80.50%
+78.20%
+Target
+80%
+80%
+80%
+e. Meaningful Participation
+Actual
+63.20%
+70.10%
+Target
+80%
+80%
+80%
+f. Community Connection
+Actual
+85.10%
+82.80%
+Target
+80%
+80%
+80%
+How Are We Doing
+actual target
+Starting two years ago, OYA converted the Customer Service KPM from the traditional model to a survey based on six Positive Human Development success factors with questions tailored to the
+respective cohort (e.g. youth in residential, independent living, or close custody placements and their families). The questions asked of each cohort align with the agency's key priorities and are
+actionable. Instead of mailing surveys to youth who live independently or at home, OYA engaged JPPOs to contact these youth on their case load with a personal invitation to help improve services
+and a link to an online survey. Youth reported satisfaction levels above the 80 percent target in two of the six PHD success factors.
+Factors Affecting Results
+For each of the six questions, youth living independently or at home could provide one of four responses (always, sometimes, rarely, never). OYA weighs these responses in order to derive the
+satisfaction rating. OYA believes the stress and restrictions experienced over the year due to COVID contributed to the decrease in overall satisfaction. The pandemic has been incredibly difficult for
+youth.
+OYA also believes these numbers will increase over time and remain high as staff integrate the Positive Human Development model into the everyday culture and work and increase our efforts to
+become more diverse, equitable, and inclusive. As this is a brand-new measure, OYA will be working with youth, families, and staff to try to identify and address barriers to meeting the 80% target
+ratings.
+KPM #14b
+CUSTOMER SERVICE - Percent of OYA's youth and families (customers) who report positive service experiences with OYA as assessed through the lens of Positive Human
+Development: Community Youth - Residential Placement
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2017
+2018
+2019
+2020
+2021
+a. Safety and Security: Physical
+Actual
+86%
+84.50%
+84.30%
+Target
+80%
+80%
+80%
+b. Safety and Security: Emotional
+Actual
+75.90%
+77.30%
+71.50%
+Target
+80%
+80%
+80%
+c. Caring and Supportive Relationships
+Actual
+80.30%
+79.10%
+74.60%
+Target
+80%
+80%
+80%
+d. High Expectations and Accountability
+Actual
+83.70%
+83%
+76.70%
+Target
+80%
+80%
+80%
+e. Meaningful Participation
+Actual
+70.90%
+68.10%
+64.70%
+Target
+80%
+80%
+80%
+f. Community Connection
+Actual
+81.40%
+82.30%
+74.60%
+Target
+80%
+80%
+80%
+How Are We Doing
+actual target
+Starting two years ago, OYA converted the Customer Service KPM from the traditional model to a survey based on six Positive Human Development (PHD) success factors with questions tailored to
+the respective cohort (e.g. youth in residential, independent living, or close custody placements and their families). The questions asked of each cohort align with the agency's key priorities and are
+actionable. OYA Community Resource Unit staff completes this survey with youth who live in community residential and foster care settings. Youth reported satisfaction levels above the 80 percent
+target in one of the six PHD success factors.
+Factors Affecting Results
+For each of the six questions, youth in community residential settings could provide one of four responses (always, sometimes, rarely, never). OYA weighs these responses in order to derive the
+satisfaction rating. OYA believes the stress and restrictions experienced over the year due to COVID contributed to the decrease in overall satisfaction. The pandemic has been incredibly difficult for
+youth.
+OYA also believes these numbers will increase over time and remain high as staff integrate the Positive Human Development model into the everyday culture and work and increase our efforts to
+become more diverse, equitable, and inclusive.
+It is important to include that there were 142 youth survey responses in 2020, but only 86 responses in 2021. It is unknown why the number of responses dropped by almost half, but it is noteworthy
+when comparing year to year outcomes.
+KPM #14c
+CUSTOMER SERVICE - Percent of OYA's youth and families (customers) who report positive service experiences with OYA as assessed through the lens of Positive Human
+Development: Close-Custody Youth
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2017
+2018
+2019
+2020
+2021
+a. Safety & Security: Physical
+Actual
+84.50%
+86.70%
+82.30%
+Target
+80%
+80%
+80%
+b. Safety and Security: Emotional
+Actual
+54.50%
+60.30%
+56.90%
+Target
+80%
+80%
+80%
+c. Caring and Supportive Relationships
+Actual
+50.50%
+55.60%
+50.80%
+Target
+80%
+80%
+80%
+d. High Expectations and Accountability
+Actual
+52%
+57.70%
+51.20%
+Target
+80%
+80%
+80%
+e. Meaningful Participation
+Actual
+50.90%
+54.90%
+51.60%
+Target
+80%
+80%
+80%
+f. Community Connection
+Actual
+71.60%
+76.80%
+68.30%
+Target
+80%
+80%
+80%
+How Are We Doing
+actual target
+Starting two years ago, OYA converted the Customer Service KPM from the traditional model to a survey based on six Positive Human Development (PHD) success factors with questions tailored to
+the respective cohort (e.g. youth in residential, independent living, or close custody placements and their families). The questions asked of each cohort align with the agency's key priorities and are
+actionable. Youth residing in OYA facilities can complete this survey as a part of the semi-annual Performance-based Standards review. Participation is voluntary and encouraged. Youth reported
+satisfaction levels above the 80 percent target in one of the six PHD success factors (Safety and Security: Physical).
+Factors Affecting Results
+OYA staff weighted the youth’s response depending on how many possible answers were available. OYA believes the stress and restrictions experienced over the year due to COVID contributed to
+the decrease in overall satisfaction. The pandemic has been extremely challenging for youth.
+On top of this, there has been a staffing shortage, especially at MacLaren YCF, that resulted in regular mandated shift work, instability and high levels of stress leading to a decline in staff morale. This
+stress impacts youth as well. OYA also believes these numbers will increase over time and remain high as staff integrate additional phases of the Fundamental Practices Initiatives and the Positive
+Human Development model into the everyday culture and work and increase our efforts to become more diverse, equitable, and inclusive.
+KPM #14d
+CUSTOMER SERVICE - Percent of OYA's youth and families (customers) who report positive service experiences with OYA as assessed through the lens of Positive Human
+Development: Families.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2017
+2018
+2019
+2020
+2021
+a. Safety & Security: Physical
+Actual
+84.50%
+81%
+76.30%
+Target
+80%
+80%
+80%
+b. Safety and Security: Emotional
+Actual
+85.30%
+80.40%
+74.40%
+Target
+80%
+80%
+80%
+c. Caring and Supportive Relationships
+Actual
+69.40%
+64.30%
+57.70%
+Target
+80%
+80%
+80%
+d. High Expectations and Accountability
+Actual
+85.90%
+79.20%
+71.80%
+Target
+80%
+80%
+80%
+e. Meaningful Participation
+Actual
+73.40%
+67%
+59%
+Target
+80%
+80%
+80%
+f. Community Connection
+Actual
+81.40%
+74.80%
+67.90%
+Target
+80%
+80%
+80%
+How Are We Doing
+actual target
+Starting two years ago, OYA converted the Customer Service KPM from the traditional model to a survey based on six Positive Human Development (PHD) success factors with questions tailored to
+the respective cohort (e.g. youth in residential, independent living, or close custody placements and their families). The questions asked of each cohort align with the agency's key priorities and are
+actionable. Families did not report satisfaction levels above the 80 percent target in any of the six PHD success factors.
+Factors Affecting Results
+For each of the six questions, families of youth receiving services could provide one of four responses (always, sometimes, rarely, never). OYA weighs these responses in order to derive the
+satisfaction rating. OYA believes the stress and restrictions experienced over the year due to COVID contributed to the decrease in overall satisfaction. OYA also believes these numbers will increase
+over time and remain high as staff integrate the Positive Human Development model into the everyday culture and work and increase our efforts to become more diverse, equitable, and inclusive.
+Under the direction of a new Family Engagement Coordinator, OYA is in the process of developing and implementing an action plan aimed at improving our communication with families and
+expressing how we value their opinions. The Family Engagement function will also be moving to the Office of Inclusion and Intercultural Relations, increasing the family engagement resource from a
+single position to a larger team of people, as well as focusing on improving our effectiveness in engaging families of color.
+It is important to include that there were 115 family survey responses in 2020, but only 52 responses in 2021.  It is unknown why the number of responses dropped by almost half, but it is noteworthy
+when comparing year to year outcomes.

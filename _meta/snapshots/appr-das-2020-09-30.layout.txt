@@ -1,0 +1,307 @@
+Administrative Services, Department of
+                   Annual Performance Progress Report
+
+                           Reporting Year 2020
+
+                     Published: 9/30/2020 10:50:52 AM
+ KPM #       Approved Key Performance Measures (KPMs)
+
+1           CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+2           FORECAST RELIABILITY - General Fund Forecast Tracking Metric
+3           FINANCIAL REPORTING - Percent of Agencies receiving Gold Star Award (The Gold Star Award is the state agency equivalent of the GFOA Certificate of Achievement for Excellence in Financial Reporting)
+4           WORKFORCE TURNOVER - Annual voluntary turnover rate for the State and DAS workforce.
+5           WORKFORCE DIVERSITY - Racial/ethnic diversity in DAS and the state workforce as a percentage of the total civilian labor force.
+6           FLEET ADMINISTRATION - Average Miles Per Gallon for DAS Permanently Assigned Fleet Vehicles.
+7           RENT COSTS - DAS negotiated lease rates in private sector vs. average market rates.
+8           INFORMATION SECURITY - Overall information security maturity rating based on a sample of state agencies. Rating achieved using a compilation and aggregate score based on the ISO 27002 standard and assigning a rating using the Carnegie-
+            Mellon Capability Maturity Model. (3rd party conducting information security business risk assessments)
+10          RISK MANAGEMENT - Annual number of Severe Worker's Compensation claims per 100 FTE
+11          DATA CENTER - Percentage of time systems are available.
+
+ Proposal       Proposed Key Performance Measures (KPMs)
+
+Delete         FLEET ADMINISTRATION - Average Miles Per Gallon for DAS Permanently Assigned Fleet Vehicles.
+Delete         INFORMATION SECURITY - Overall information security maturity rating based on a sample of state agencies. Rating achieved using a compilation and aggregate score based on the ISO 27002 standard and assigning a rating using the Carnegie-
+               Mellon Capability Maturity Model. (3rd party conducting information security business risk assessments)
+New            INFORMATION SECURITY - Overall maturity rating for implementation of the Center for Internet Security’s (CIS) Basic Six critical security controls. This rating is an aggregate score based on the Carnegie Mellon Capability Maturity Model Integration
+               (CMMI), and is derived from cybersecurity assessments conducted by the Enterprise Information Services (EIS) Cyber Security Services (CSS) Assessment Team.
+New            PERCENT OF STATE PROCUREMENT SPEND FACILITATED THROUGH THE OREGONBUYS SYSTEM - Measures statewide adoption of the OregonBuys e-Procurement system by measuring the overall percentage of state purchasing
+               facilitated through the system.
+New            GREENHOUSE GAS (GHG) EMISSIONS - Total GHG emissions and intensity from buildings and fleet.
+                                                                                                                         red
+                                                                                                                         green
+                                                                                                                         yellow
+
+ Performance Summary                                                                                                          Green                                          Yellow                                           Red
+
+                                                                                                                          = Target to -5%                             = Target -5% to -15%                               = Target > -15%
+Summary Stats:                                                                                                                 60%                                             0%                                             40%
+KPM #1    CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+          helpfulness, expertise and availability of information.
+          Data Collection Period: Jan 01 - Aug 31
+
+                                                                         actual    target
+
+ Report Year                                                           2018                           2019                          2020                           2021                            2022
+Helpfulness
+Actual                                                               No Data                           0%                            77%                          No Data                         No Data
+Target                                                                 90%                            90%                            90%                            90%                             90%
+Timeliness
+Actual                                                                 67%                             0%                            75%                          No Data                         No Data
+Target                                                                 90%                            90%                            90%                            90%                             90%
+Expertise
+Actual                                                                 72%                             0%                            79%                          No Data                         No Data
+Target                                                                 90%                            90%                            90%                            90%                             90%
+Overall
+Actual                                                                 67%                             0%                            75%                          No Data                         No Data
+Target                                                                 90%                            90%                            90%                            90%                             90%
+Availability of Information
+Actual                                                                 65%                             0%                            72%                          No Data                         No Data
+Target                                                                 90%                            90%                            90%                            90%                             90%
+Accuracy
+Actual                                                                 70%                             0%                            76%                          No Data                         No Data
+Target                                                                 90%                            90%                            90%                            90%                             90%
+
+How Are We Doing
+         DAS has improved on every variable surveyed with the exception of a slight decrease in Helpfulness from 78% in 2016 to 77% in 2020.
+
+         In reviewing the comments made, survey respondents mentioned knowledgeable staff who efficiently address problems for client agencies. Areas mentioned as areas to improve upon include
+         communication with staff, especially those who presently work from home, timeliness of some direction, and changes made in IT platforms.
+
+Factors Affecting Results
+With this survey being run in the midst of COVID-19, DAS is pleased to see these results. The state enterprise has made significant shifts to a work from home model since March of 2020, and while
+there have been challenges, the state’s work on behalf of Oregonians has largely continued uninterrupted.
+KPM #2                     FORECAST RELIABILITY - General Fund Forecast Tracking Metric
+                           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                2018                                 2019                                 2020                                2021                               2022
+General Fund Forecast
+Actual                                                                     103.85%                              111.48%                              100.80%                              No Data                           No Data
+Target                                                                       100%                                 100%                                 100%                                100%                               100%
+
+How Are We Doing
+         Actual General Fund revenues in the 2019-21 biennium are currently on track. There have been large fluctuations in the forecast this year. The June 2020 forecast was a large downward
+         revision due to COVID-19 and the recession. However to date, while the economy remains in bad shape, state tax collections have yet to show any of these impacts. Tax collections are up. As
+         such the current, September 2020 General Fund forecast is now back to being nearly identical to the Close of Session from 2019, upon which the budget was based.
+
+         Under Oregon’s kicker, errors larger than 2 percent are returned to taxpayers (for personal income taxes) as a credit on their tax returns or retained in the General Fund for additional education
+         spending (corporate income taxes).
+
+Factors Affecting Results
+         The state’s volatile underlying economy and current tax structure yield larger year-to-year swings than in the typical state. While Oregon comes out ahead of the typical state in both an
+         economic and revenue sense over the entire business cycle, such variances are more challenging and difficult to accurately forecast.
+
+         Last biennium, 2017-19, our office’s economic forecast was accurate, however revenues, in part due to federal tax law changes, resulted in a large kicker. So far in 2019-21, the economic
+         forecast is off due to the pandemic and recession, but revenues are not, in part due to federal policies like the CARES Act that have kept business and personal income intact, at least so far.
+
+OEA Note: This is submitting the September 2020 forecast General Fund figures for the 2019-21 biennium, comparing them to the 2019 Close of Session forecast for the 2019-21 biennium.
+KPM #3     FINANCIAL REPORTING - Percent of Agencies receiving Gold Star Award (The Gold Star Award is the state agency equivalent of the GFOA Certificate of Achievement for Excellence in
+           Financial Reporting)
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                  2018                              2019                              2020                               2021                                2022
+Percent of agencies receiving the Gold Star Award
+Actual                                                                         96%                               97%                                0%                              No Data                              No Data
+Target                                                                         100%                              100%                               98%                                98%                                 98%
+
+How Are We Doing
+  Agencies have been earning the Chief Financial Officer’s Gold Star Award since 1990. The target percentage of agencies earning the Gold Star Award is 100%.  We have fallen just short of our
+  target for 2019 as three agencies did not earn the Gold Star Award.
+
+Factors Affecting Results
+  The extent and complexity of new accounting and financial reporting standards issued by the Governmental Accounting Standards Board (GASB) affects the agency accounting process.
+  Implementation of new standards on a statewide basis requires focused resources to plan, modify systems as needed, update policies, and provide training to state agencies. Another important
+  factor affecting results include fiscal staffing levels at state agencies, level of staff expertise, turnover, and the ability of each agency to provide accurate and timely information for the fiscal year-end
+  closing.
+
+  (The 2020 GSA percentage will be calculated around February 2021.)
+KPM #4              WORKFORCE TURNOVER - Annual voluntary turnover rate for the State and DAS workforce.
+                    Data Collection Period: Jul 01 - Jun 30
+
+                                                                                 actual     target
+
+  Report Year                                                                 2018                              2019                              2020                               2021                                 2022
+a. State Workforce Turnover
+Actual                                                                        4.97%                             5.03%                             4.67%                             No Data                             No Data
+Target                                                                        5.60%                             5.60%                             5.60%                              5.60%                               5.60%
+b. DAS Workforce Turnover
+Actual                                                                        2.29%                             3.08%                             3.09%                             No Data                             No Data
+Target                                                                        4.50%                             4.50%                             4.50%                              4.50%                               4.50%
+
+How Are We Doing
+  The state’s resignation rate (4a) for FY 20 is 4.67%. This is 0.93% lower than the benchmark of 5.60% set in 2010. The resignation rate for DAS (4b) is 3.09%, indicating a stable workforce. This is
+  1.41% lower than the benchmark of 4.50%. Resignation refers to voluntary separation from employment. Resignation does not include layoffs, involuntary terminations, or retirement. This
+  conceptualization aligns with the definition of “quits” reported by the United States Bureau of Labor Statistics in the Job Openings and Labor Turnover Survey (JOLTS) data.
+
+Factors Affecting Results
+From FY 19 to FY 20, the State of Oregon’s annual turnover rate remained stable, only decreasing by 0.36%. Even though it is an employee’s job market with a low unemployment rate and a
+historically high number of job openings, the State of Oregon’s workforce demonstrates relative stability. The following table lists reasons for employees leaving the state workforce in both FY 19 and
+FY 20. One interesting finding is that advancement and private sector opportunities emerged in FY 20 as top reasons for leaving state employment.
+
+Table 1- Primary Reason for Leaving (Top 5)
+
+                                    FY'20
+Personal / Not Disclosed / Other - 62.76%
+Advancement Opportunities - 7.82%
+Private Sector Opportunities - 7.46%
+Relocation - 6.43%
+Family Reasons - 5.71%
+
+KPM #5         WORKFORCE DIVERSITY - Racial/ethnic diversity in DAS and the state workforce as a percentage of the total civilian labor force.
+               Data Collection Period: Jul 01 - Jun 30
+
+                                                                                  actual     target
+
+  Report Year                                                                  2018                              2019                              2020                                2021                                2022
+a. State Workforce Diversity
+Actual                                                                        77.50%                            79.20%                            80.80%                             No Data                             No Data
+Target                                                                         100%                              100%                              100%                               100%                                 100%
+b. DAS Workforce Diversity
+Actual                                                                        76.70%                            76.20%                            75.50%                             No Data                             No Data
+Target                                                                         100%                              100%                              100%                               100%                                 100%
+
+How Are We Doing
+As of the end of FY 20, the racial and ethnic diversity of the state workforce was 19.8%. This is an absolute increase of 1.1% from the previous fiscal year. While Oregon’s civilian workforce is more
+diverse than Oregon State Government employees, this key performance measure continues to show improvement.
+
+Calculation: 19.8% / 24.5% = 80.8% of the goal of 100% reflection of the Oregon workforce
+
+As of the end of FY’20, the racial and ethnic diversity of the DAS workforce was 18.5%.
+
+Calculation: 18.5% / 24.5% = 75.5% of the goal of 100% reflection of the Oregon workforce
+
+Factors Affecting Results
+One key area of focus for the Department of Administrative Service’s Chief Human Resource Office is to be considered the employer of choice for the people of Oregon, especially for ethnic and racial
+minority groups. During FY2020 staff from DAS CHRO completed training through the Government Alliance on Race and Equity. As a result of this training, we began looking at position descriptions,
+job announcements, policies, and procedures through a racial equity lens, to attempt to eliminate unconscious biased language that might be keeping people of color from applying for jobs or, in the
+case of policies and procedures, language that may inadvertently be negatively impacting racial minority groups, therefore impacting retention of those employees. Additionally, our new HRIS,
+Workday, is allowing us to much more accurately track diversity data across the enterprise than our previous system, providing us more reliable data.
+KPM #6             FLEET ADMINISTRATION - Average Miles Per Gallon for DAS Permanently Assigned Fleet Vehicles.
+                   Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                  2018                              2019                               2020                               2021                                2022
+Average Miles Per Gallon
+Actual                                                                         20.51                             20.84                              20.74                            No Data                              No Data
+Target                                                                           21                                21                                21                                21.22                               21.41
+
+How Are We Doing
+The 2020 average has increased from the 2017 and 2018 values and we have exceeded the target to achieve the 10% increase over 2007 levels by 2020. Currently we are at a 10.7% increase over
+the 18.73 MPG 2007 baseline.
+
+The stated target of 21 MPG for 2019 is an error as 20.6 MPG represents a 10% increase over the 2007 baseline. DAS has submitted a request to delete this KPM and establish a new one to
+increase fuel efficiency another 10% over 2019 values by 2030.
+
+Factors Affecting Results
+Vehicles continue to increase in efficiency and DAS Fleet continues to use fuel efficiency as a main selection factor when purchasing vehicles. DAS has a large project to install EV charging
+infrastructure in the Capital Mall and Salem Motor Pool.  Adding more of these vehicles over the next several biennia will further increase fuels efficiency and help meet Legislative and Governor’s
+goals for Zero Emission Vehicle adoption.
+
+The slight decrease in efficiency from 2019 to 2020 could be attributed to the sharp decrease in travel due to COVID-19 in the latter part of the FY. A higher overall percentage of short range trips and
+drop in highway travel would yield a drop in fuel efficiency.
+KPM #7                RENT COSTS - DAS negotiated lease rates in private sector vs. average market rates.
+                      Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual      target
+
+  Report Year                                                                   2018                               2019                               2020                                2021                                 2022
+DAS negotiated lease rate vs. average market rate (Salem/Keizer)
+Actual                                                                           18%                                 6%                              6.83%                              No Data                              No Data
+Target                                                                            5%                                 5%                                5%                                  5%                                   5%
+
+How Are We Doing
+The 2019-20 measure period was a difficult market with little inventory, placing negotiation power in the hands of the Landlords for the market as a whole. This year, Real Estate Services (RES) has
+seen an increase of Agency requirements for larger-sized office spaces, but a decline in office space requirements as a whole.  Additionally, the market-inventory is low and demand for construction is
+high, pushing market costs even higher than in previous years. However, through many factors (such as external resources, leveraging the buying power of the state as a creditworthy tenant, and
+negotiating longer-term leases at more favorable prices), RES has been able to continue to lease under the market rate.
+
+Factors Affecting Results
+Year over year, RES has continued to accumulate vast savings in facility costs for state agencies. Moving forward in the next few measure periods, the market shows a potential swing from low
+commercial office space inventory to a higher inventory, due in most part to the recent COVID-19 office restrictions, along with a large number of public and private employers exiting the market in an
+attempt to reduce costs in this uncertain time, in order to take advantage of the potential reduction in overhead costs by shifting employees from an in-office style of work into the telecommuting
+environment.
+
+Considering these factors, among others, RES expects to see that market leverage will continue to shift towards the Tenants. Therefore, RES could see an advantage from a negotiation standpoint
+over the next couple of measure periods, when searching for space. However, RES also expects other aspects of the market to continue to be volatile, and anticipates other market increases, such as
+the cost of janitorial services. Recently, for example, RES has seen a large spike in janitorial service costs, due to COVID-19 safety standards and regulations.
+KPM #8     INFORMATION SECURITY - Overall information security maturity rating based on a sample of state agencies. Rating achieved using a compilation and aggregate score based on the ISO
+           27002 standard and assigning a rating using the Carnegie-Mellon Capability Maturity Model. (3rd party conducting information security business risk assessments)
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                   2018                               2019                              2020                                2021                                 2022
+Information Security
+Actual                                                                           1.65                              1.65                                 0                              No Data                              No Data
+Target                                                                           3.50                              3.50                               3.50                                3.50                                 3.50
+
+How Are We Doing
+We have proposed a new metric to be approved during the 21-23 Legislative session. KPM #8 has been proposed for deletion as we are choosing to select a metric that measures our cybersecurity
+posture and success in a more effective way.
+
+Factors Affecting Results
+Cyber Security Services conducts risk assessments based on the Center for Internet Security (CIS) top 6 critical controls.  Reporting on that data does not show the overall state of security for the
+State as it only represents the state of security at a subset of state agencies, boards and commissions.  Furthermore, the entities assessed change each year and CSS has not yet been able to repeat
+an assessment at an agency, board or commission so the data wouldn’t show whether the overall state of security has improved or degraded.  It would only show the state of security of a specific
+subset of agencies.
+
+The proposed metric will give us a better baseline for consistency in our reporting.
+KPM #10               RISK MANAGEMENT - Annual number of Severe Worker's Compensation claims per 100 FTE
+                      Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = negative result
+
+                                                                                 actual     target
+
+  Report Year                                                                 2018                              2019                             2020                               2021                                2022
+Number of Severe Worker's Compensation Claims per 100 FTE
+Actual                                                                         1.52                             1.59                              1.47                            No Data                             No Data
+Target                                                                         1.50                             1.50                              1.50                               1.50                                1.50
+
+How Are We Doing
+We met our goal of 1.50 with actual of 1.47.
+
+Factors Affecting Results
+One of the driving forces for the decrease is that DAS Risk Management set CFR goals for the top 15 policies driving the majority of the frequency for the state. The all but three agencies meet the
+goals set for frequency for the 2019-20 policy year. Some of the results are:
+
+Total claims (severe and non-severe) decreased by 9%.
+
+Total severe claims decreased by 8%.
+
+The FTE count from 2018-19 to 2019-20 was similar with a decrease of .46% from the 2018-19 to the 2019-20 year.
+
+Note:  We are not sure what the impact of COVID-19 had on the results. We did have a decrease in the claims filed in the month of April and May beyond what we would have anticipated.
+KPM #11                          DATA CENTER - Percentage of time systems are available.
+                                 Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                 2018                             2019                              2020                               2021                               2022
+Data Center- Systems Availability
+Actual                                                                      99.84%                            99.94%                            99.93%                            No Data                             No Data
+Target                                                                      99.90%                            99.90%                            99.90%                            99.90%                              99.90%
+
+How Are We Doing
+The availability of 99.93% for FY 2020 is above target.
+
+Factors Affecting Results
+Data Center Services remain stable. Computing platform has virtualized over 98% of the server computing platform. This has improved the stability and reliability of the computing environment as well
+as significantly expanded the use of our computing infrastructure.

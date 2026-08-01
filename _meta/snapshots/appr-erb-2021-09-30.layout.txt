@@ -1,0 +1,170 @@
+Employment Relations Board
+          Annual Performance Progress Report
+
+                  Reporting Year 2021
+
+            Published: 9/30/2021 2:15:18 PM
+ KPM #          Approved Key Performance Measures (KPMs)
+
+1              Union representation - Average number of days to resolve a petition for union representation when a contested case hearing is not required.
+2              Recommended orders - Average number of days for an Administrative Law Judge to issue a recommended order after the record in a contested case hearing is closed.
+3              Final Board orders - Average number of days from submission of a case to the Board until issuance of a final order.
+4              Mediation effectiveness - Percentage of contract negotiations disputes that are resolved by mediation for strike-permitted employees.
+5              Appeals - Percentage of Board Orders which are reversed on appeal.
+6              Mediation effectiveness - Percentage of contract negotiations disputes that are resolved by mediation for strike-prohibited employees.
+7              Customer Satisfaction - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise, and availability of information.
+
+                                                                                                                                                           red
+                                                                                                                                                           green
+                                                                                                                                                           yellow
+
+ Performance Summary                                                                                                                                            Green                                                       Yellow                                                         Red
+
+                                                                                                                                                           = Target to -5%                                          = Target -5% to -15%                                             = Target > -15%
+Summary Stats:                                                                                                                                                  71.43%                                                      14.29%                                                        14.29%
+KPM #1        Union representation - Average number of days to resolve a petition for union representation when a contested case hearing is not required.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                   actual     target
+
+  Report Year                                                                    2017                                2018                               2019                               2020                               2021
+Days to Resolve Petition for Union Rep, No Hearing
+Actual                                                                             50                                 35                                  35                                 33                                 35
+Target                                                                             79                                 79                                  60                                 60                                 60
+
+How Are We Doing
+The agency performed better than its target of 60 days to process and uncontested representation petition.
+
+Factors Affecting Results
+The agency continues to prioritize processing representation matters.  Cases that go to an elections inevitably take longer to process, particularly compared to a card check matter.  Incomplete or
+otherwise improperly filed petitions by the parties can also delay processing a petition.
+KPM #2      Recommended orders - Average number of days for an Administrative Law Judge to issue a recommended order after the record in a contested case hearing is closed.
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2017                              2018                               2019                              2020                               2021
+Average Days Close of Record to Recommended Order
+Actual                                                                           89                                 94                                89                                 97                                87
+Target                                                                           110                               110                                100                               100                                100
+
+How Are We Doing
+The agency performed better than its target of 100 days to issue a recommended order after a record is closed.
+
+Factors Affecting Results
+The number of claims appealed may affect how long it takes to issue an order. In some cases, it is necessary to get a transcript before drafting a final order.  Finally, cases where the Board is unable
+to reach a unanimous opinion usually take more time.
+KPM #3           Final Board orders - Average number of days from submission of a case to the Board until issuance of a final order.
+                 Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2017                              2018                               2019                               2020                               2021
+Average Days Submission to Final Order
+Actual                                                                            24                                 27                                 21                                 29                                 23
+Target                                                                            60                                 60                                 50                                 50                                 50
+
+How Are We Doing
+The agency has performed better than the target of 50 days.
+
+Factors Affecting Results
+The number of claims appealed may affect how long it takes to issue an order. In some cases, it is necessary to get a transcript before drafting a final order.  Finally, cases where the Board is unable
+to reach a unanimous opinion usually take more time.
+KPM #4         Mediation effectiveness - Percentage of contract negotiations disputes that are resolved by mediation for strike-permitted employees.
+               Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2017                               2018                               2019                               2020                                2021
+Strike-Permitted - Percent of Negotiations Resolved
+Actual                                                                           100%                                93%                                100%                               100%                                90%
+Target                                                                            94%                                94%                                 95%                                95%                                95%
+
+How Are We Doing
+The percentage of contract disputes resolved without a strike or the employer's unilateral implementation was under our target of 95%.
+
+Factors Affecting Results
+The agency provides mediation services for the parties under its jurisdiction. Mediators help parties reach a contract settlement, but the parties alone control whether a settlement occurs.  Many
+factors that influence settlement are beyond the control of the mediator and parties. Such factors include, but are not limited to, the economy, health insurance costs, local and statewide political
+trends, and tax revenues.
+
+This percentage is determined by the number of cases closed during the fiscal year and is based on whether a strike or final-offer implementation occurred.
+KPM #5                    Appeals - Percentage of Board Orders which are reversed on appeal.
+                          Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                actual     target
+
+  Report Year                                                                  2017                              2018                               2019                              2020                              2021
+Percentage of Board Orders Reversed by the Court
+Actual                                                                           0%                                0%                                0%                                0%                                0%
+Target                                                                          10%                               10%                                5%                                5%                                5%
+
+How Are We Doing
+The agency performed better than its goal of 5%.
+
+Factors Affecting Results
+The number of cases appealed, the complexity of the cases, and the clarity of the Board's orders all can affect the results.
+
+The percentage reflects the reversal rate of the highest appellate body by the fiscal year of the Board order.
+KPM #6         Mediation effectiveness - Percentage of contract negotiations disputes that are resolved by mediation for strike-prohibited employees.
+               Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2017                               2018                               2019                               2020                                2021
+Strike-Prohibited - Percent of Negotiations Resolved
+Actual                                                                            81%                                96%                                 91%                               100%                                86%
+Target                                                                            80%                                80%                                 85%                                85%                                85%
+
+How Are We Doing
+The agency performed better than its goal of 85%.
+
+Factors Affecting Results
+The agency provides mediation services for the parties under its jurisdiction.  Mediators help parties reach a contract settlement, but the parties alone control whether a settlement occurs.  Many
+factors that influence settlement are beyond the control of the mediator and parties.  Such factors include, but are not limited to, the economy, health insurance costs, local and statewide political
+trends, and tax revenues.
+
+The percentage is determined by the number of cases closed during the fiscal year and is based on whether the agency received an interest arbitration award in that fiscal year.
+KPM #7    Customer Satisfaction - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise, and
+          availability of information.
+          Data Collection Period: Jul 01 - Jun 30
+
+                                                                            actual    target
+
+ Report Year                                                               2017                            2018                             2019                            2020                            2021
+Expertise
+Actual                                                                                                      93%                                                              87%
+Target                                                                      0%                              95%                                                              95%
+Helpfulness
+Actual                                                                                                      93%                                                              81%
+Target                                                                      0%                              95%                                                              95%
+Accuracy
+Actual                                                                                                     100%                                                              81%
+Target                                                                      0%                              95%                                                              95%
+Timeliness
+Actual                                                                                                      93%                                                              94%
+Target                                                                      0%                              95%                                                              95%                             95%
+Overall
+Actual                                                                                                      96%                                                              77%
+Target                                                                      0%                              95%                                                              95%
+Availability of Information
+Actual                                                                                                      82%                                                              84%
+Target                                                                      0%                              95%                                                              95%
+
+How Are We Doing
+The agency only reports on even numbered years.
+
+Factors Affecting Results
+The agency only collects customer satisafaction data on even numbered years.

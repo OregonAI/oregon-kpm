@@ -1,0 +1,472 @@
+Judicial, Department of
+Annual Performance Progress Report
+Reporting Year 2019
+Published: 9/27/2019 3:33:02 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+Access and Fairness - Rating of court users on the court's accessibility and its treatment of customers in terms of fairness, equality, respect.
+Clearance Rates - Clearance rates measure whether the courts are keeping up with their incoming caseload. If cases are not disposed in a timely manner, a backlog of cases awaiting disposition will grow. This measure is a single number that can
+be compared within the court for any and all case types, from month to month and year to year, or between one court and another.
+This information can help courts pinpoint emerging problems and indicate where improvements can be made.
+Time to Disposition - The percentage of cases disposed or otherwise resolved within established time frames.
+Time to Judgement Entry - The percent of criminal cases that have a final judgment entered into the case register within three business days of the sentencing hearing or disposition.
+Time to First Permanency Hearing - Child abuse and neglect cases are driven by one underlying principle: expeditious permanency for children. The longer children are in substitute care, the longer they are in doubt as to where their permanent home
+will be and the more likely it is that they will have multiple placements.
+Percent of cases that have first permanency hearing within 14 months
+Collection Rate - Percent of cases paid in full within a year of
+judgment (violations only)
+This measure focuses solely on violations to evaluate the timeliness and effectiveness of collection actions. Most violations do not have the same barriers to
+collections that are encountered when collecting on felony and misdemeanor debt (debtors with history of criminal activity or drug/alcohol abuse, incarceration, unemployment, multiple debts with OJD and other probation/parole agencies, higher
+amounts owed).
+By evaluating violations only, OJD can determine which collection practices are most successful and what needs to change to see improvement.
+The collection practices that apply well in violations can often be applied to
+misdemeanor and felony cases even if the collection rate will be lower in those case types because of the barriers to collection described above.
+Drug Court Recidivism - The percent of adult drug court graduates with no misdemeanor or felony charges filed in Oregon circuit courts within one year of program graduation.
+Effective Use of Jurors - The percentage of available jurors who are selected for jury duty who are qualified and available to serve (juror yield) The National Center for State Courts (NCSC) commonly uses a juror yield goal of 40 percent, a value
+demonstrated to be realistic in many well-managed courts. The national average juror yield is approximately 53 percent. Although variations are expected, points falling well above or well below the average can alert the court to the need for
+possible adjustments to the number of persons summoned.
+Employee Retention - Annual employee turnover rate.
+Our target is to have a retention rate with no greater annual turnover than the State of Oregon’s Department of Administrative Service (DAS) annual retention rate.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+11.11%
+0%
+88.89%
+red
+green
+yellow
+KPM #1
+Access and Fairness - Rating of court users on the court's accessibility and its treatment of customers in terms of fairness, equality, respect.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2015
+2016
+2017
+2018
+2019
+Access
+Actual
+No Data
+No Data
+No Data
+87.400%
+No Data
+Target
+TBD
+TBD
+TBD
+85%
+85%
+Fairness
+Actual
+No Data
+No Data
+No Data
+84.300%
+No Data
+Target
+TBD
+TBD
+TBD
+85%
+85%
+How Are We Doing
+Data for calendar year 2019 not available yet, will be reported January 2020.
+KPM #2
+Clearance Rates - Clearance rates measure whether the courts are keeping up with their incoming caseload. If cases are not disposed in a timely manner, a backlog of cases awaiting
+disposition will grow. This measure is a single number that can be compared within the court for any and all case types, from month to month and year to year, or between one court and
+another.
+This information can help courts pinpoint emerging problems and indicate where improvements can be made.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Clearance Rates
+Actual
+No Data
+No Data
+90%
+94%
+No Data
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+Data for calendar year 2019 not available yet, will be reported January 2020.
+KPM #3
+Time to Disposition - The percentage of cases disposed or otherwise resolved within established time frames.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2015
+2016
+2017
+2018
+2019
+Administration of Estates (720 Days)
+Actual
+No Data
+No Data
+No Data
+90.500%
+No Data
+Target
+TBD
+TBD
+TBD
+98%
+98%
+Adult Protective Proceedings (90 Days)
+Actual
+No Data
+No Data
+No Data
+81.300%
+No Data
+Target
+TBD
+TBD
+TBD
+98%
+98%
+Domestic Relations (365 Days)
+Actual
+No Data
+No Data
+No Data
+91.400%
+No Data
+Target
+TBD
+TBD
+TBD
+98%
+98%
+FEDs (90 Days)
+Actual
+No Data
+No Data
+No Data
+92.200%
+No Data
+Target
+TBD
+TBD
+TBD
+98%
+98%
+Felony (365 Days)
+Actual
+No Data
+No Data
+No Data
+91.900%
+No Data
+Target
+TBD
+TBD
+TBD
+98%
+98%
+General Civil (540 Days)
+Actual
+No Data
+No Data
+No Data
+96.800%
+No Data
+Target
+TBD
+TBD
+TBD
+98%
+98%
+Juvenile Delinquency (180 Days)
+Actual
+No Data
+No Data
+No Data
+92.900%
+No Data
+Target
+TBD
+TBD
+TBD
+98%
+98%
+Juvenile Dependency (90 Days)
+Actual
+No Data
+No Data
+No Data
+64.600%
+No Data
+Target
+TBD
+TBD
+TBD
+98%
+98%
+Juvenile TPR (270 Days)
+Actual
+No Data
+No Data
+No Data
+69.700%
+No Data
+Target
+TBD
+TBD
+TBD
+98%
+98%
+Misdemeanor (180 Days)
+Actual
+No Data
+No Data
+No Data
+87.200%
+No Data
+Target
+TBD
+TBD
+TBD
+98%
+98%
+Small Claims (180 Days)
+Actual
+No Data
+No Data
+No Data
+88.300%
+No Data
+Target
+TBD
+TBD
+TBD
+98%
+98%
+Violations (90 Days)
+Actual
+No Data
+No Data
+No Data
+88.500%
+No Data
+Target
+TBD
+TBD
+TBD
+98%
+98%
+Report Year
+2015
+2016
+2017
+2018
+2019
+How Are We Doing
+Data for calendar year 2019 not available yet, will be reported January 2020.
+KPM #4
+Time to Judgement Entry - The percent of criminal cases that have a final judgment entered into the case register within three business days of the sentencing hearing or disposition.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2015
+2016
+2017
+2018
+2019
+Felony
+Actual
+No Data
+No Data
+No Data
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+98%
+98%
+Misdemeanor
+Actual
+No Data
+No Data
+No Data
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+98%
+98%
+How Are We Doing
+Data for calendar year 2019 not available yet, will be reported January 2020.
+KPM #5
+Time to First Permanency Hearing - Child abuse and neglect cases are driven by one underlying principle: expeditious permanency for children. The longer children are in substitute care,
+the longer they are in doubt as to where their permanent home will be and the more likely it is that they will have multiple placements.
+Percent of cases that have first permanency hearing
+within 14 months
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Time to First Permanency Hearing
+Actual
+91%
+87%
+83%
+84%
+No Data
+Target
+95%
+95%
+95%
+95%
+95%
+How Are We Doing
+Data for calendar year 2019 not available yet, will be reported January 2020.
+KPM #6
+Collection Rate - Percent of cases paid in full within a year of
+judgment (violations only)
+This measure focuses solely on violations to evaluate the timeliness and effectiveness of collection
+actions. Most violations do not have the same barriers to collections that are encountered when collecting on felony and misdemeanor debt (debtors with history of criminal activity or
+drug/alcohol abuse, incarceration, unemployment, multiple debts with OJD and other probation/parole agencies, higher amounts owed).
+By evaluating violations only, OJD can determine
+which collection practices are most successful and what needs to change to see improvement.
+The collection practices that apply well in violations can often be applied to misdemeanor
+and felony cases even if the collection rate will be lower in those case types because of the barriers to collection described above.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Collection Rate
+Actual
+81%
+82.10%
+81.20%
+89.50%
+No Data
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+Data for calendar year 2019 not available yet, will be reported January 2020.
+KPM #7
+Drug Court Recidivism - The percent of adult drug court graduates with no misdemeanor or felony charges filed in Oregon circuit courts within one year of program graduation.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Drug Court Recidivism
+Actual
+No Data
+No Data
+No Data
+No Data
+No Data
+Target
+TBD
+TBD
+TBD
+TBD
+90%
+How Are We Doing
+This KPM is in development, data will be reported at a later date.
+KPM #8
+Effective Use of Jurors - The percentage of available jurors who are selected for jury duty who are qualified and available to serve (juror yield) The National Center for State Courts (NCSC)
+commonly uses a juror yield goal of 40 percent, a value demonstrated to be realistic in many well-managed courts. The national average juror yield is approximately 53 percent. Although
+variations are expected, points falling well above or well below the average can alert the court to the need for possible adjustments to the number of persons summoned.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Effective Use of Jurors
+Actual
+No Data
+No Data
+46.40%
+47.40%
+No Data
+Target
+TBD
+TBD
+53%
+53%
+53%
+How Are We Doing
+Data for calendar year 2019 not available yet, will be reported January 2020.
+KPM #9
+Employee Retention - Annual employee turnover rate.
+Our target is to have a retention rate with no greater annual turnover than the State of Oregon’s Department of Administrative
+Service (DAS) annual retention rate.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Employee Retention
+Actual
+84%
+86%
+85%
+87%
+86.50%
+Target
+88%
+88%
+88%
+88%
+88%
+How Are We Doing
+OJD has consistently met our goal of retaining current employees and has exceeded the national average of 83 percent for government jobs as reported by the Bureau of Labor Statistics. The DAS
+calculated retention rate is 88.3 percent for the fiscal year ending June 30, 2018. The OJD target is 88 percent at this time. The target rate may adjust if the DAS calculated rate rises significantly
+above 88 percent in the future since the OJD target goal is to exceed the state rate as a measure.
+Over ninety-percent of our turnover was due to voluntary resignations in FY 2019. We continue to analyze the specific reasons for the voluntary resignations. Additionally, retirements accounted for
+20 percent of our turnover. We will continue to collect data from exiting employees and analyze their reasons for leaving as part of our strategy to maintain and improve our performance in this
+measure.

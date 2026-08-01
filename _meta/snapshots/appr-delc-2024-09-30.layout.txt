@@ -1,0 +1,225 @@
+Department of Early Learning and Care
+                   Annual Performance Progress Report
+
+                          Reporting Year 2024
+
+                     Published: 9/30/2024 9:53:56 AM
+ KPM #         Approved Key Performance Measures (KPMs)
+
+1            Protecting the Health and Safety of Children in Care - Percentage of citations for a serious valid finding that received a timely follow-up visit to confirm compliance
+2            Access to Early Care and Education: Infants & Toddlers - Percentage of infants/toddlers (birth – 2 years) with access to a regulated child care slot
+3            Access to Early Care and Education: Preschool Age - Percentage of preschool age children (3-4 years) with access to a regulated child care slot. Regulated child care slots include Centers, Certified Family, and Registered Family Providers
+4            Early Learning Workforce Retention (all) - Percentage of early learning providers who have remained in the workforce
+5            Early Learning Workforce Retention (by race and ethnicity) - Percentage of early learning providers who have remained in the workforce disaggregated by race and ethnicity
+6            Timely Central Background Registry (CBR) Approvals - Percentage of Central Background Registry (CBR) applications conditionally or fully approved in four weeks or less
+7            Customer Satisfaction - Percent of customers rating their satisfaction with the DELC customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise, and availability of information.
+
+                                                                                                                                                             red
+                                                                                                                                                             green
+                                                                                                                                                             yellow
+
+ Performance Summary                                                                                                                                               Green                                                        Yellow                                                          Red
+
+                                                                                                                                                              = Target to -5%                                           = Target -5% to -15%                                             = Target > -15%
+Summary Stats:                                                                                                                                                       80%                                                          20%                                                            0%
+KPM #1       Protecting the Health and Safety of Children in Care - Percentage of citations for a serious valid finding that received a timely follow-up visit to confirm compliance
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                     actual     target
+
+  Report Year                                                                      2020                                2021                                2022                                2023                                2024
+Protecting the Health and Safety of Children in Care
+Actual                                                                                                                                                                                          86%                                 90%
+Target                                                                                                                                                                                                                              87%
+
+How Are We Doing
+DELC exceeded the target value for 2024. The percentage of citations for serious valid findings that received timely follow-up to confirm compliance was 90%, which is a 3% increase from the
+previous year. In this legislative fiscal year, there were 667 confirmed citations with serious valid findings. Of these serious valid findings, 599 had compliance verified timely, within 33 business days of
+the citation.
+
+Factors Affecting Results
+The Child Care Licensing Division (CCLD) uses a legacy database to collect data needed to report on this KPM and extracting this data is complex and requires substantial data cleaning. It is difficult
+to interpret the observed change in the value for this KPM from 2023 to 2024. However, clear processes and procedures helped to support staff in doing this work. Improvements to administrative
+oversight to support staff in their documentation processes have been identified as goals for continuing the achievement of the target in the future.
+KPM #2        Access to Early Care and Education: Infants & Toddlers - Percentage of infants/toddlers (birth – 2 years) with access to a regulated child care slot
+              Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                  2020                              2021                              2022                                 2023                                2024
+Access to Early Care and Education: Infants & Toddlers
+Actual                                                                                                                                                                                17.900%
+Target
+
+How Are We Doing
+Data for this KPM is not available this year.
+
+This KPM is from DELC's Estimating Supply dataset, which is updated in partnership with Central Coordination and the Oregon Child Care Research Partnership. The Estimating Supply data are
+collected every two years. 2022 data are the most recent data available and were reported in our 2023 KPM submission. 2024 data will be available in Spring 2025 and reported on in our 2025 KPM
+submission.
+
+Factors Affecting Results
+N/A
+KPM #3     Access to Early Care and Education: Preschool Age - Percentage of preschool age children (3-4 years) with access to a regulated child care slot. Regulated child care slots include Centers,
+           Certified Family, and Registered Family Providers
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                  2020                              2021                              2022                                2023                                 2024
+Access to Early Care and Education: Preschool Age
+Actual                                                                                                                                                                               34.240%
+Target
+
+How Are We Doing
+Data for this KPM is not available this year.
+
+This KPM is from DELC's Estimating Supply dataset, which is updated in partnership with Central Coordination and the Oregon Child Care Research Partnership. The Estimating Supply data are
+collected every two years. 2022 data are the most recent data available and were reported in our 2023 KPM submission. 2024 data will be available in Spring 2025 and reported on in our 2025 KPM
+submission.
+
+Factors Affecting Results
+N/A
+KPM #4           Early Learning Workforce Retention (all) - Percentage of early learning providers who have remained in the workforce
+                 Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                 2020                             2021                              2022                                2023                                  2024
+Early Learning Workforce Retention (all)
+Actual                                                                                                                                                                             74.440%                               77.490%
+Target                                                                                                                                                                                                                   66.050%
+
+How Are We Doing
+Overall retention increased 3.05% from our 2023 submission.
+
+Factors Affecting Results
+A person is considered part of the child care workforce in a given year if they worked any part of that year based on ORO start, hire, and end dates. By matching data for multiple years using a
+person’s unique identification number, we are able to see which years the person has been in the child care workforce. “Remained in the workforce” is anyone in the 2021 workforce who continued
+into the 2022 workforce. The number of people in the 2021 workforce who continued to work in 2022 is 17,874.
+KPM #5    Early Learning Workforce Retention (by race and ethnicity) - Percentage of early learning providers who have remained in the workforce disaggregated by race and ethnicity
+          Data Collection Period: Jan 01 - Dec 31
+
+                                                                           actual    target
+
+ Report Year                                                           2020                           2021                           2022                             2023                                2024
+American Indian/Alaskan Native
+Actual                                                                                                                                                              76.950%                             79.060%
+Target                                                                                                                                                                                                  67.150%
+Asian
+Actual                                                                                                                                                              79.510%                             78.430%
+Target                                                                                                                                                                                                  69.250%
+Black/African American
+Actual                                                                                                                                                              79.850%                             80.660%
+Target                                                                                                                                                                                                  70.300%
+Hispanic/Latino/Spanish
+Actual                                                                                                                                                              79.990%                             83.360%
+Target                                                                                                                                                                                                  75.550%
+Native Hawaiian/Pacific Islander
+Actual                                                                                                                                                              78.060%                             79.890%
+Target                                                                                                                                                                                                  65.050%
+White
+Actual                                                                                                                                                              77.880%                             79.400%
+Target                                                                                                                                                                                                  71.350%
+Multiracial
+Actual                                                                                                                                                              76.690%                             84.860%
+  Report Year                                                                 2020                             2021                              2022                                2023                                  2024
+
+Target                                                                                                                                                                                                                   72.400%
+e. Early Learning Workforce Retention (by race and ethnicity)
+Actual
+Target
+
+How Are We Doing
+Retention increased for the American Indian/Alaska Native (2.11%), Black/African American (0.81%), Hispanic/Latino/Spanish (3.37%), Native Hawaiian/Pacific Islander (1.83%), White (1.52%), and
+Multiracial (8.17%) groups from our 2023 submission. Retention minimally decreased for the Asian (-1.08%) group from our 2023 submission.
+
+Factors Affecting Results
+A person is considered part of the child care workforce in a given year if they worked any part of that year based on ORO start, hire, and end dates. By matching data for multiple years using a
+person’s unique identification number, we are able to see which years the person has been in the child care workforce. “Remained in the workforce” is anyone in the 2021 workforce who continued
+into the 2022 workforce.
+
+Also, disaggregating the retention indicator by racial/ethnic groups results in some small groups. The indicator for groups with small numbers is less likely to be stable over time. This must be kept in
+mind when setting targets and tracking progress towards the targets.
+
+The number of people in the 2021 workforce who continued to work in 2022 disaggregated by racial/ethnic group is:
+       American Indian/Alaska Native members: 219
+       Asian members: 560
+       Black/African American members: 534
+       Hispanic/Latino/Spanish: 3,190
+       Native Hawaiian/Pacific Islander members: 139
+       White members: 9,507
+       Multiracial members: 185
+KPM #6      Timely Central Background Registry (CBR) Approvals - Percentage of Central Background Registry (CBR) applications conditionally or fully approved in four weeks or less
+            Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                 2020                              2021                              2022                              2023                                 2024
+Timely Central Background Registry (CBR) Approvals
+Actual                                                                                                                                                                                                                   71%
+Target                                                                                                                                                                                                                64.410%
+
+How Are We Doing
+CBR application data from January 1 to December 31 of 2023 was analyzed to determine the percent of CBR applications conditionally or fully approved in four weeks or less. The target 2024 percent
+was exceeded by just over 6.5%.
+
+Factors Affecting Results
+In 2023, CCLD identified and implemented efficiencies in the processing of background checks. An online system was set up to streamline communication between the Intake and Background units
+and the two teams began meeting regularly to discuss processing needs. The Background unit improved tools used to track their work, improving both a Background Procedures Manual and an Out-
+of-State Procedures Manual. In early 2023, CCLD received approval to hire additional intake and background staff and by the end of 2023, the CCLD Intake and Background teams were fully staffed.
+In 2022, prior to implementing these changes, 61.41% of CBR approvals were conditionally or fully approved in four weeks or less.
+KPM #7    Customer Satisfaction - Percent of customers rating their satisfaction with the DELC customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness,
+          expertise, and availability of information.
+          Data Collection Period: Jan 01 - Jun 30
+
+                                                                               actual     target
+
+  Report Year                                                               2020                             2021                             2022                             2023                                2024
+g. Customer Service Overall
+Actual                                                                                                                                                                                                           70.200%
+Target                                                                                                                                                                                                             75%
+g. Timeliness
+Actual                                                                                                                                                                                                           67.200%
+Target                                                                                                                                                                                                             75%
+g. Helpfulness
+Actual                                                                                                                                                                                                           78.900%
+Target                                                                                                                                                                                                             75%
+g. Expertise
+Actual                                                                                                                                                                                                           76.700%
+Target                                                                                                                                                                                                             75%
+g. Availability of Information
+Actual                                                                                                                                                                                                           66.400%
+Target                                                                                                                                                                                                             75%
+g. Accuracy
+Actual                                                                                                                                                                                                           71.500%
+Target                                                                                                                                                                                                             75%
+
+How Are We Doing
+In our first year reporting on these Customer Service measures, DELC has surpassed our target for two dimensions of Customer Service, specifically Helpfulness and Expertise. The dimensions of
+Customer Service Overall and Accuracy did not meet our target of 75% but did exceed 70%. The Customer Service measures with the most room for improvement include Timeliness and Availability
+of Information, which were 7.8% and 8.6% below our target, respectively.
+
+Factors Affecting Results
+This is DELC's first time reporting Customer Service KPMs. DELC was established July 2023, and participants in our inaugural Customer Service Survey reported on their experiences between July
+2023 and June 2024.
+
+The Customer Service Survey was open from August 1 to August 30, 2024. A total of 296 customers provided valid responses. The respondents identified themselves as members of the following
+customer bases (respondents could select multiple roles, so the sum across groups will exceed the total number of respondents):
+       Child Care Providers: 199
+       Regional Service Partners: 128
+       Contracted External Partners: 26
+       Tribal Organizations: 6
+       None of the above: 48
+In the first year of operation, DELC has been working to build new structures for operations and communications while maintaining service levels. The feedback provided from our customers will guide
+continuous improvement of our agency's customer service efforts.

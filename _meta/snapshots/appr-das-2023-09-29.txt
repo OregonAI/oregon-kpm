@@ -1,0 +1,709 @@
+Department of Administrative Services
+Annual Performance Progress Report
+Reporting Year 2023
+Published: 9/29/2023 7:46:10 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+FORECAST RELIABILITY
+- General Fund Forecast Tracking Metric
+FINANCIAL REPORTING
+- Percent of Agencies receiving Gold Star Award (The Gold Star Award is the state agency equivalent of the GFOA Certificate of Achievement for Excellence in Financial Reporting)
+WORKFORCE TURNOVER
+- Annual voluntary turnover rate for the State and DAS workforce.
+WORKFORCE DIVERSITY
+- Racial/ethnic diversity in DAS and the state workforce as a percentage of the total civilian labor force.
+RENT COSTS - DAS negotiated lease rates in private sector vs. average market rates.
+INFORMATION SECURITY
+- Overall maturity rating for implementation of the Center for Internet Security’s (CIS) Basic Six critical security controls. This rating is an aggregate score based on the Carnegie Mellon Capability Maturity Model Integration
+(CMMI), and is derived from cybersecurity assessments conducted by the Enterprise Information Services (EIS) Cyber Security Services (CSS) Assessment Team.
+PERCENT OF STATE PROCUREMENT SPEND FACILITATED THROUGH THE OREGONBUYS SYSTEM - Measures statewide adoption of the OregonBuys e-Procurement system by measuring the overall percentage of state purchasing facilitated
+through the system.
+RISK MANAGEMENT - CFR - Annual statewide number of workers' compensation claims filed per 200,000 hours worked (aka, Claims Frequency Rate (CFR)).
+DATA CENTER
+- Percentage of time systems are available.
+GREENHOUSE GAS (GHG) EMISSIONS - Total GHG emissions and intensity from buildings and fleet.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+50%
+25%
+25%
+red
+green
+yellow
+KPM #1
+CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+helpfulness, expertise and availability of information.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2019
+2020
+2021
+2022
+2023
+Helpfulness
+Actual
+0%
+77%
+0%
+53%
+Target
+90%
+90%
+90%
+90%
+Timeliness
+Actual
+0%
+75%
+0%
+49%
+Target
+90%
+90%
+90%
+90%
+Expertise
+Actual
+0%
+79%
+0%
+53%
+Target
+90%
+90%
+90%
+90%
+Overall
+Actual
+0%
+75%
+0%
+49%
+Target
+90%
+90%
+90%
+90%
+Availability of Information
+Actual
+0%
+72%
+0%
+47%
+Target
+90%
+90%
+90%
+90%
+Accuracy
+Actual
+0%
+76%
+0%
+54%
+Target
+90%
+90%
+90%
+90%
+How Are We Doing
+actual target
+No data for 2023 only even numbered years.
+Factors Affecting Results
+N/A
+KPM #2
+FORECAST RELIABILITY
+- General Fund Forecast Tracking Metric
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2019
+2020
+2021
+2022
+2023
+General Fund Forecast
+Actual
+111.48%
+100.80%
+113.10%
+119.50%
+101.60%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+OEA Note regarding the "Actual": This is submitting the September 2023 forecast General Fund figures for the 2023-25 BN, comparing them to the 2023 Close of Session forecast for the
+2023-25 BN.
+General Fund revenues overall in the 2023-25 biennium are coming in slightly above expectations. Based on the latest forecast, expectations are that Oregon’s unique kicker law will not be triggered
+for the personal kicker, but will be triggered for the corporate kicker. Under Oregon’s kicker, errors larger than 2 percent are returned to taxpayers (for personal income taxes) as a credit on their tax
+returns or retained in the General Fund for additional education spending (corporate income taxes). Based on the most recent forecast, the projected 2023-25 corporate kicker will be $321 million.
+With two tax filing seasons still to come this biennium, there remains much uncertainty as to where state revenues will ultimately land.
+Factors Affecting Results
+The state’s volatile underlying economy and current tax structure yield larger year-to-year swings than in the typical state. While Oregon comes out ahead of the typical state in both an economic and
+revenue sense over the entire business cycle, such variances are more challenging and difficult to accurately forecast.
+Revenues in recent biennia have come in considerably higher than forecast and stronger than the underlying economy alone would suggest. This was in large part due to taxpayer’s response to the
+large, federal tax reforms a few years ago, combined with federal aid during the pandemic, and record-setting asset markets in recent years. Additionally, the current inflationary economic boom has
+actual target
+also played a larger role in generating public revenues. Taxes are not collected on an inflation-adjusted basis, leading to rapid growth across all major tax instruments. The ongoing strength in
+traditional corporate taxes this biennium is likely related to the continued impacts of the federal tax reform a few years ago.
+KPM #3
+FINANCIAL REPORTING
+- Percent of Agencies receiving Gold Star Award (The Gold Star Award is the state agency equivalent of the GFOA Certificate of Achievement for Excellence in
+Financial Reporting)
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2019
+2020
+2021
+2022
+2023
+Percent of agencies receiving the Gold Star Award
+Actual
+97%
+97%
+96%
+75%
+Target
+100%
+98%
+98%
+98%
+How Are We Doing
+Agencies have been earning the Chief Financial Officer’s Gold Star Award since 1990. The target percentage of agencies earning the Gold Star Award is 98%. We experienced the lowest percentage
+of agencies earning the Gold Star Award since 2003. There were three overarching challenges faced by agencies during the year: (1) implementation of a new accounting standard, dramatically
+revising the accounting and financial reporting for leases; (2) staffing turnover at agencies, particularly in accounting manager and senior accountant positions; and (3) the implementation of a new tool
+to query the data warehouse that contains the state’s accounting records.
+The FY 2023 information won’t be known until early in calendar year 2024.
+Factors Affecting Results
+The extent and complexity of new accounting and financial reporting standards issued by the Governmental Accounting Standards Board (GASB) affects the agency accounting process.
+Implementation of new standards on a statewide basis requires focused resources to plan, modify systems as needed, update policies, and provide training to state agencies. Another important factor
+affecting results include fiscal staffing levels at state agencies, level of staff expertise, turnover, and the ability of each agency to provide accurate and timely information for the fiscal year-end closing.
+actual target
+KPM #4
+WORKFORCE TURNOVER
+- Annual voluntary turnover rate for the State and DAS workforce.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2019
+2020
+2021
+2022
+2023
+a. State Workforce Turnover
+Actual
+5.03%
+4.67%
+5.17%
+6.98%
+6.77%
+Target
+5.60%
+5.60%
+5.60%
+5.60%
+5.60%
+b. DAS Workforce Turnover
+Actual
+3.08%
+3.09%
+2.34%
+3.75%
+3.30%
+Target
+4.50%
+4.50%
+4.50%
+4.50%
+4.50%
+How Are We Doing
+The state’s resignation rate (4a) for FY’23 is 6.77%. This is a 0.95% higher resignation rate than the benchmark of 5.60% set in 2010. While the turnover rate for the state exceeds the benchmark,
+the resignation rate has decreased for the state as an employer compared to the previous fiscal year. The resignation rate for DAS (4b) is 3.30%. This is 1.20% lower than the benchmark of 4.50%.
+Resignation refers to voluntary separation from employment. Resignation does not include layoffs, involuntary terminations, or retirement. This conceptualization aligns with the definition of “quits”
+reported by the United States Bureau of Labor Statistics in the Job Openings and Labor Turnover Survey (JOLTS) data.
+Factors Affecting Results
+From FY’22 to FY’23, the State of Oregon’s annual turnover rate decreased slightly by 0.21% This slight decrease in turnover is congruent with the national trends reported by the U.S. Bureau of
+Labor Statistics in June of 2023
+[1]
+. However, some of the factors that are preventing attainment of the KPM #4 goal include continued impacts associated with the unique economic and social
+conditions stemming from the COVID-19 pandemic, factors which Gartner
+[2]
+predicted would continue to impact turnover rates in labor market for years to come.
+Turnover will continue to be tracked and assessed to determine whether turnover decreases persist to return to pre-pandemic levels.
+The following table lists reasons for employees leaving the state workforce across the past three fiscal years. Advancement Opportunities, Private Sector Opportunities, Family Reasons, and
+Relocation continue to be the most frequently disclosed reasons for voluntary employee resignations.
+actual target
+Table 1- Primary Reason for Leaving (Top 5)
+FY'23
+Personal/Not Disclosed/Other - 56.45%
+Advancement Opportunities - 10.71%
+Private Sector Opportunity - 8.92%
+Relocation - 6.7%
+Family Reasons - 5.64%
+FY'21
+FY'22
+Personal / Not Disclosed / Other -
+64.86%
+Personal / Not Disclosed / Other –
+56.85%
+Private Sector Opportunities - 10.54%
+Private Sector Opportunities – 11.40%
+Family Reasons – 8.63%
+Relocation – 7.46%
+Relocation - 8.38%
+Advancement Opportunities – 6.71%
+Advancement Opportunities – 7.58%
+Family Reasons – 5.57%
+[1]
+U.S. Bureau of Labor Statistics. (2023, August 29).
+Economic News Release – Job Openings and Labor Turnover News Release. https://www.bls.gov/news.release/jolts.htm
+[2]
+Gartner. (2022, April 28).
+Gartner says U.S. Total Annual Employee Turnover Will Likely Jump by nearly 20% From the Prepandemic Annual Average
+[press release].
+https://www.gartner.com/en/newsroom/04-28-2022-gartner-says-us-total-annual-employee-turnover-will-likely-jump-by-nearly-twenty-percent-from-the-prepandemic-annual-average
+KPM #5
+WORKFORCE DIVERSITY
+- Racial/ethnic diversity in DAS and the state workforce as a percentage of the total civilian labor force.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2019
+2020
+2021
+2022
+2023
+a. State Workforce Diversity
+Actual
+79.20%
+80.80%
+83.70%
+82.50%
+83.30%
+Target
+100%
+100%
+100%
+100%
+100%
+b. DAS Workforce Diversity
+Actual
+76.20%
+75.50%
+76.60%
+74.30%
+69.30%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+The State of Oregon acknowledges racial equity must be at the forefront of our efforts and all other forms of diversity will benefit from these efforts. In addition, Department of Administrative Services
+(DAS) is committed to advancing diversity, equity, inclusion and belonging (DEIB).
+The current target is for the State and DAS to 100% reflect Oregon’s civilian workforce.
+State of Oregon
+As of the end of FY’23, the racial and ethnic diversity of the state workforce was 23.9%. This is an absolute increase of 0.8% from the previous fiscal year. While Oregon’s civilian workforce continues
+to be more diverse than the Oregon State Government’s workforce, this key performance measure continues to show improvement.
+Calculation: 23.9% / 28.7% = 83.3% of the goal of 100% reflection of the Oregon workforce.
+Department of Administrative Services (DAS)
+As of the end of FY’23, the racial and ethnic diversity of the DAS workforce was 19.9%. This is a decrease of 1.1% from the previous fiscal year.
+actual target
+Calculation: 19.9% / 28.7% = 69.3% of the goal of 100% reflection of the Oregon workforce.
+Factors Affecting Results
+State of Oregon
+Diversity, equity, and inclusion (DEI) were a priority at the State of Oregon. In 2021, the Statewide
+DEI Action Plan
+was developed to resource State agencies to implement strategies toward
+advancing DEI. This includes a specific strategy recommendation to “build a more diverse workforce and create an inclusive workforce” (strategy 8). Taking it a step further, Governor Kotek delivered
+agency expectations which included a requirement that agencies have either a Diversity, Equity, and Inclusion Plan (DEI Plan) or a Plan for a Plan submitted by June 1, 2023. As a result, agencies
+started developing DEI Plans by the end of FY’23, using the DEI Action Plan as a resource and guide. This process could have impacted hiring, promotions, and retention as agencies were
+developing strategies to advance DEI and grow a more inclusive culture.
+In addition to the expectation around DEI Plans, Governor Kotek’s expectations also included requirements related to hiring, which likely impacted hiring and promotions at the State:
+Performance feedback for employees to be completed quarterly, starting on June 1, 2023.
+Monitor hiring practices to ensure the average time to fill positions does not exceed more than 50 days.
+New state employees were required to participate in a customer service training within 60 days of hire. This training was to be developed and implemented by June 1, 2023.
+New employees were required to participate in Uplift Oregon’s benefits workshop within 30 days of hire support employees in making fully informed decisions when choosing benefits.
+Managers new to State government were required to complete the introductory manager training program within 3 months of their new position, starting June 1, 2023.
+Agencies also worked with the Office of Cultural Change to develop, integrate feedback, and implement Affirmative Action Plans for the upcoming 2023-2025 biennium “to improve hiring and
+development opportunities.” The Affirmative Action Plans also continue “promoting Diversity, Equity, and Inclusion in the workplace, and the elimination of the effects of past and present
+discrimination, intended or unintended” (Governor’s Executive Order 17-11).
+While these activities were happening across the State enterprise, a DEI community of practice was also launched in partnership with Uplift Oregon. The Oregon Peer Equity Network (OPEN) was
+launched in Winter 2022 and continues to meet regularly as a community of practice for State of Oregon staff on equity and justice in their agencies. The purpose of OPEN is to improve on and share
+knowledge, as well as build relationships and common practices for DEI across the enterprise of State Government. This cohort has created opportunities for staff to not only engage around DEI, but
+also resource and build relationships with one another to elevate this work. Learnings from this cohort will help inform how to approach a DEI community of practice moving forward.
+The Office of Cultural Change, who leads DEI strategies at the State enterprise, underwent some transitions during FY’23. These transitions may have impacted or slowed progress toward advancing
+DEI, even though this work was continuing during these shifts.
+Department of Administrative Services (DAS)
+While DEI and belonging are a priority at DAS, DAS is newer on its DEI journey. Specific to DAS, the transitions at the Office of Cultural Change includes vacancies and the office moving from the
+Chief Human Resources Office (CHRO) to a new division, the Strategic Initiatives and Enterprise Accountability Division, and a Director of Cultural Change was hired at the end of FY’23. These
+transitions, along with being newer on a DEI journey, may have impacted the racial/ethnic diversity of the department.
+Even with these transitions, work was continuing in order to advance DEI. For an example of this work, the DAS CHRO started using Vidcruiter video interviewing as part of the hiring process. Video
+interviewing can increase equity in hiring by:
+Humanizing job applications by giving hiring managers opportunities to interview more candidates and in a shorter amount of time.
+Allowing candidates to interview from home or another location that is accessible to them, which increases access to participate in interviews for people who face barriers due to lack of:
+transportation, time to take off work to interview, childcare, etc.
+Creating a more equitable evaluation process because candidates are asked the same interview questions in the same ways, within the same timeframes. Therefore, it minimizes unconscious
+bias that may be happening in the delivering of the interview questions.
+Lastly, DAS launched its strategic planning process at the end of FY’23. The strategic plan will integrate the department’s DEI Action Plan so that DEI is not a separate activity, but is integrated into
+DAS’ values, priorities, and operations.
+Notes:
+Data Sources: The State has completed a transition to a new human resources information system (HRIS). The data source for 2017, and 2018 is the Position and Personnel Database; data for 2019
+was combined from the Position and Personnel Database (dates: 07/01/2018 – 12/31/2018) and the new HRIS, Workday, (dates: 1/01/2019-06/30/2019). All 2022 and 2023 data are from Workday.
+Department of Administrative Services, Chief Human Resources Office
+Only individuals under ORS 240 are included in the data. This data does not include temporary workers. Gender, Race/Ethnicity, and Disability Status are all data that is self-reported by the employee,
+and its disclosure is not required. Race/ethnicity includes visual assessments as required for EEO reporting.
+A small percentage of employees chose not to disclose race and ethnicity. They are excluded from the comparisons based on race and ethnicity.
+KPM #6
+RENT COSTS - DAS negotiated lease rates in private sector vs. average market rates.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2019
+2020
+2021
+2022
+2023
+DAS negotiated lease rate vs. average market rate (Salem/Keizer)
+Actual
+6%
+6.83%
+28.03%
+20.31%
+7%
+Target
+5%
+5%
+5%
+5%
+5%
+How Are We Doing
+Better inventory in major market areas, along with increased agency movement and decision making have allowed RES to continue to deliver office rates well below market rates during this measure
+period.
+However, RES is seeing trends indicating a slight downturn in the economy, including inflation, which are having an effect on rental rate negotiations.
+RES has employed different strategies to be able to continue to lease under the market rate, such as: consolidating space and working with space planners to better use space in this era of remote
+and hybrid work; negotiating differing lease rent structures (which help both agencies and landlords separately track and account for lease expenses); and negotiating added value tenant
+improvements or rent concessions to offset inflationary annual increases.
+2019
+Values
+2020
+Values
+2021 Values
+2022
+Values
+2023 Values
+Percentage
+change
+(July 1, 18
+through
+June 30,
+19)
+(July 1, 19
+through
+June 30,
+20)
+(July 1, 20
+through
+June 30, 21)
+(July 1, 21
+through
+June 30,
+22)
+(July 1, 22
+through
+June 30, 23)
+(from 2022
+to 2023)
+actual target
+State Uniform Rent Rate
+$1.55
+$1.55
+$1.55
+$1.78
+$2.03
+12.32%
+Average cost of Salem/Keizer market (full
+service, grossed-up)
+$1.90
+$1.97
+$2.01
+$2.09
+$1.89
+-10.35%
+Quantity of Leases
+(negotiated in Salem)
+-33%
+Volume (Square footage in Salem)
+336,213
+378,206
+166,576
+212,566
+115,417
+-84.17%
+Quantity of Leases
+(negotiated in *entire portfolio)
+26.67%
+Volume (Square footage of *entire portfolio)
+1,164,922
+870,787
+487,831
+668,342
+649,068
+-2.97%
+*The square footage and volume figures in the table above do not represent RES’ entire portfolio; it includes the office space component only.  Certain subleases, interagency and intergovernmental
+leases, office sharing agreements, warehouse leases, and lease terminations have been excluded from the dataset.
+Factors Affecting Results
+While significant (because the Salem area portion of the portfolio often makes up the costliest type of space in our portfolio), this data represents approximately 10% of the statewide transactions
+during this measure period.
+RES saw a large jump in the number of requested transactions statewide during this measure period.  Currently, RES is seeing trends of more movement in the Salem area, particularly consolidation
+in state-owned buildings.
+During the 2022-2023 measure period, RES also began to see a visible change in the real estate market conditions.  In comparison to the prior measure period, RES is finding a lot of available
+inventory in the market, in major market areas.  This includes Portland, Salem/Keizer, Eugene, and Bend/Redmond.  However, outside of major market areas, inventory is still low, especially for small
+or specialty requests.
+Additionally, agencies have been moving towards making decisions to downsize.  Some agencies are simply no longer stagnating space-related decision making, while certain others have been more
+proactive.  The proactive agencies have worked with RES to focus on consolidating into existing available space, utilizing state-owned space (which generally have slightly lower rates than market).
+Furthermore, these agencies can otherwise plan to reduce or avoid certain costs when consolidating by looking at natural expirations first.  By terminating underutilized leased space based on
+expiration dates, these agencies avoid payment of early termination fees and reduce relocation costs.
+In combination, better inventory and increased agency movement have allowed RES to continue to negotiate below the average market rate.
+However, RES has seen general inflationary pressures raising prices during this measure period.  RES is currently seeing trends indicating a downturn in the economy, such as the increase in
+inventory in major market areas and continued high costs for construction and related materials.  Landlords are also continuing to cite inflation as a prime reason for seeking high initial and annual
+inflation-related cost increases, as they try to negotiate with RES.
+KPM #7
+INFORMATION SECURITY
+- Overall maturity rating for implementation of the Center for Internet Security’s (CIS) Basic Six critical security controls. This rating is an aggregate score based
+on the Carnegie Mellon Capability Maturity Model Integration (CMMI), and is derived from cybersecurity assessments conducted by the Enterprise Information Services (EIS) Cyber Security
+Services (CSS) Assessment Team.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2019
+2020
+2021
+2022
+2023
+INFORMATION SECURITY
+Actual
+0.90
+0.80
+1.25
+Target
+3.50
+3.50
+3.50
+How Are We Doing
+During the July 2022 – June 2023 reporting period, Enterprise Information Services, Cyber Security Services (EIS-CSS) transitioned from assessing Executive Branch agencies, boards, and
+commissions against Version 7.1 of the Center for Internet Security (CIS) Critical Security Controls to Version 8.0 of the controls. This transition presented challenges in terms of updating and
+developing the tools and processes required to assess the new set of controls, as well as the increased scope of controls being measured expanding from 41 to 65 (a 59% increase). As of this writing,
+the Assessment Team has completed assessments on five Executive Branch agencies, boards and commissions, with another 12 assessments currently in progress.
+EIS-CSS CIS Control Assessments measure agency, board, and commission implementation of the CIS Critical Security Controls and constituent safeguards according to at least two of the following
+four criteria, depending on the Safeguard:
+.
+Whether or not procedures are established and documented to support the safeguard;
+.
+Whether or not the safeguard is implemented and, if so, to what degree (e.g. Not implemented, implemented on some systems, implemented on most systems, implemented on all
+systems);
+.
+The degree to which safeguards are automated or technically enforced (If applicable); and
+.
+Whether or not the safeguard is regularly reviewed and reported to leadership (if applicable).
+Each of the above criteria is evaluated and assigned a percentage score. For example, regarding Safeguard implementation, scoring options include:
+actual target
+Not Implemented (Defined as implemented on between 0% - 2% of in scope systems tested) = 0%
+Implemented on Some Systems (Defined as implemented on between 3% - 50% of in scope systems tested) = 33%
+Implemented on Most Systems (Defined as implemented on between 51% - 92% of in scope systems tested) = 66%
+Implemented on All Systems (Defined as implemented on between 93% - 100% of in scope systems tested) = 100%
+From the above assessment evaluation criteria, EIS leadership has chosen the second metric (whether or not the safeguard is implemented and, if so, to what degree) as the metric for Key
+Performance Measure #8: Information Security. The average control implementation score across the five organizations assessed to date is 1.25 (implemented on some systems).
+Factors Affecting Results
+The most significant factor affecting agency implementation of the CIS Controls and constituent safeguards appears to be the existence and adoption of Enterprise solutions to meet the functional
+requirements of the Safeguards. For example, the current assessment data shows that Executive Branch agencies, boards and commissions performed best in terms of network defense (CIS v8.0
+Control 13) and vulnerability management (CIS v8.0 Control 7.) Conversely, agencies, boards, and commissions struggle in areas for which there are no Enterprise service offerings. Service provider
+management (CIS v8.0 Control 15) and hardware asset inventory (CIS v8.0 Control 1) are two examples. For CIS controls that have no enterprise solution, assessors generally encounter a diverse
+ecosystem of tools, systems, and processes ranging from spreadsheets to complex asset inventory and configuration management tools. Lacking a unified approach and standardized tool set
+generally results in ad-hoc control implementation and insufficient control coverage and complicates top-down Enterprise guidance around the same.
+KPM #8
+PERCENT OF STATE PROCUREMENT SPEND FACILITATED THROUGH THE OREGONBUYS SYSTEM - Measures statewide adoption of the OregonBuys e-Procurement system by
+measuring the overall percentage of state purchasing facilitated through the system.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2019
+2020
+2021
+2022
+2023
+Percentage of state agency SPOTS card spend
+Actual
+0%
+Target
+80%
+a. Percentage of Small Procurement[1] contract spend
+Actual
+0%
+Target
+80%
+b. Percentage of Intermediate Procurement[2] contract spend
+Actual
+0%
+Target
+80%
+How Are We Doing
+This is a new measure and there are no results to report at this time.
+This metric is dependent upon data to be derived from Phase 2 of the OregonBuys Project – implementation of the “pay” aspects of the procure-to-pay OregonBuys system will not be fully
+implemented Enterprise wide until October 31, 2023.  A first preliminary reporting will not be possible until the report on the period July 1, 2023 – June 30, 2024.
+Factors Affecting Results
+N/A
+actual target
+KPM #9
+RISK MANAGEMENT - CFR - Annual statewide number of workers' compensation claims filed per 200,000 hours worked (aka, Claims Frequency Rate (CFR)).
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2019
+2020
+2021
+2022
+2023
+ # of Workers' Comp. Claims per 200,000 hours worked
+Actual
+4.17
+Target
+3.99
+How Are We Doing
+We ended the fiscal year slightly above the targeted goal of 3.99.
+Factors Affecting Results
+We are working with SAIF Corporation and agency “safety” contacts to address the following:
+Increase of 9% in number of claims related to “shoulders, knees and back”
+Increase in number of claims for employees with a 0-5 year tenure with the agency
+Increase slip/trip and fall claims
+Increase motor vehicle accidents
+Increase dog/insect claims
+How are we addressing the above increases?
+Due to a number of new safety and workers’ compensation claims manager at the agencies:
+Implemented a safety managers’ academy with SAIF Corporation
+Developing a workers’ compensation claims managers’ academy with SAIF and agency representatives.  Anticipate implementation the 4
+quarter of 2023 or the 1
+quarter of 2024.
+SAIF Corporation
+actual target
+th
+st
+Continue to identify the larger agencies who are impacting the over statewide results
+Sr. Safety Management Consultants, from SAIF Corporation, will focus on the above listed topics, including ergonomics
+Lunch & Learn topics at least six times with topics to address the topics listed above for all agencies.
+DAS RM will continue to hold our statewide hybrid meetings three times a-year, with an emphasis on the topics driving the overall statewide results.
+The target numbers are set annually around the renewal of the workers’ compensation policy with SAIF Corporation.  We develop the target goal in August of each year.
+The unit type is a number.  Here is the calculator:  (Total # of claims/Total # of hours worked)*200,000.   This is a target goal, therefore having a number slightly below the goal would be best.
+KPM #10
+DATA CENTER
+- Percentage of time systems are available.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2019
+2020
+2021
+2022
+2023
+Data Center- Systems Availability
+Actual
+99.94%
+99.93%
+99.93%
+99.90%
+99.96%
+Target
+99.90%
+99.90%
+99.90%
+99.90%
+99.90%
+How Are We Doing
+The availability of 99.96% for FY 2023 has met the target.
+Factors Affecting Results
+Data Center Services (DCS) continues to meet its performance target.  DCS continues to mature and change its operations based on best practices and evolving industry trends including:
+Close management and replacement of aged technology through a lifecycle and asset management program that help avoid system outages
+Management and monitoring of compute, network and storage capacity to ensure systems have the resources needed and contention for resources is addressed prior to an issue
+Increased repeatability and consistency through automation tools used in its service lines
+Identification and elimination of single points of failure within system architecture to enable resiliency and availability
+Investments in monitoring and alerts with tolerance thresholds for system administrators to respond and eliminate potential service outages
+Continued regulatory compliance and security adherence through regular software updates and patches that help reduce exposure to system by bad actors
+actual target
+KPM #11
+GREENHOUSE GAS (GHG) EMISSIONS - Total GHG emissions and intensity from buildings and fleet.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2019
+2020
+2021
+2022
+2023
+Buildings- Total Metric Tons Annually of Carbon Dioxide Equivalent Greenhouse Gases (MTCO2e)
+Actual
+0%
+37%
+Target
+32%
+33%
+Buildings- Metric Tons of Carbon Dioxide Equivalent Greenhouse Gases Per Gross Square Foot of Building Space (MTCO2e/GSF)
+Actual
+0%
+37%
+Target
+32%
+33%
+Fleet- Total Metric Tons Annually of Carbon Dioxide Equivalent Greenhouse Gases (MTCO2e)
+Actual
+0%
+13%
+Target
+32%
+33%
+Fleet- Metric Tons of Carbon Dioxide Equivalent Greenhouse Gases Per Vehicle Mile Traveled (MTCO2e/VMT)
+Actual
+0%
+13%
+Target
+32%
+33%
+How Are We Doing
+In calendar year 2022, energy use in DAS buildings generated a calculated 17,035 metric tons of carbon dioxide equivalent GHG emissions (MTCO2e), or 0.0061300859 MTCO2e per square foot of
+building space. Fuel use in the DAS owned and managed fleet generated 21,204 MTCO2e, or 0.00045358886 MTCO2e per vehicle mile traveled.
+The state of Oregon’s GHG reduction goals for 2035 and 2050 reference 1990 as the baseline year. Since no agencies, including DAS, have building energy use or fleet records from 1990 sufficient to
+calculate a GHG baseline for that year, DAS has been unable to calculate an actual percentage reduction compared to targets. In 2022, DAS developed a climate action planning tool that allows
+agencies to set reduction targets with consideration of state GHG emission trends since 1990. DAS proposes to work with LFO/CFO to refine annual GHG targets for the next reporting cycle using the
+tool, and factor in overall statewide GHG trends from 1990 to the current reporting year.
+actual target
+For both buildings and fleets, there are data reporting lags, with data for a prior year generally available by the middle of the following year. Future reporting years will include data from the prior
+calendar year. This is due to the effort to collect, verify and process data across the fleet and building portfolio, and to calculate GHG emission factors for both fleet fuels consumed and building
+energy provided by utilities. Data for both fleets and buildings are collected and reported by calendar year in accordance with DAS GHG data reporting requirements, as well as the Oregon
+Department of Energy’s SEED reporting for state building energy use. Building energy use is reported for all DAS-owned buildings over 5,000 square feet in accordance with SEED reporting
+requirements. This also applies to GHG emissions.
+Factors Affecting Results
+Covid and the resultant decrease in fleet vehicle use and building occupancy continued to have a significant impact during the 2021 reporting period due to building closures. Use of the DAS fleet by
+agencies continued to be significantly lower during the reporting period from pre-Covid operations. While buildings were significantly less occupied, lighting and heating/cooling were still necessary to
+continue operations in most buildings. DAS also continued operating with increased building ventilation to provide more fresh air to help reduce Covid impacts.
+In DAS buildings, energy management efforts, including operational changes and capital projects, continued to drive down the energy use intensity (EUI) and resulting GHG emissions in many
+buildings. In some cases, however, such as the need for extended operations to respond to Covid, wildfires and other issues, EUI increased during the reporting period. DAS also acquired the North
+Valley Mall building in Wilsonville in 2020, which added both square footage and additional energy use to its portfolio.

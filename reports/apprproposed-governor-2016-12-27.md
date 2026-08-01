@@ -12,6 +12,7 @@ agency: Governor's Office
 agency_code: GOVERNOR
 reporting_year: '2016'
 year_source: document
+text_source: pdf-text
 filename_year: '2016'
 measure_status: proposed
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_GOVERNOR_2016-12-27.pdf

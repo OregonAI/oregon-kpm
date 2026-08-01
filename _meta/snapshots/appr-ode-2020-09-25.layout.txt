@@ -1,0 +1,448 @@
+Education, Department of
+       Annual Performance Progress Report
+
+               Reporting Year 2020
+
+         Published: 9/25/2020 12:13:06 PM
+ KPM #        Approved Key Performance Measures (KPMs)
+
+1            QUALITY LEARNING ENVIRONMENTS - Increase the percentage of early learning and development programs participating in the statewide Quality Rating and Improvement System
+2            QUALITY LEARNING ENVIRONMENTS - Increase the percentage of high quality early learning and development programs as measured by the statewide Quality Rating and Improvement System (rated as 3, 4, or 5 star)
+3            KINDERGARTEN ASSESSMENT - Increase performance of entering kindergarten children on the Kindergarten Assessment
+4            EARLY LITERACY - Percentage of students meeting or exceeding statewide academic achievement standards in 3rd grade reading
+5            STUDENTS ON TRACK TO GRADUATE - Percentage of 9th grade students on track to graduate.
+6            HIGH SCHOOL COMPLETION - Percentage of students who complete high school within four years
+7            COLLEGE GOING - College-going rate of Oregon residents into post-secondary institutions
+8            CHRONIC ABSENTEEISM - Percentage of students who are absent more than 10% of days of the school year
+9            CUSTOMER SERVICE - Percentage of customers rating the agency's customer service as "good" or "excellent"
+
+                                                                                                                                                 red
+                                                                                                                                                 green
+                                                                                                                                                 yellow
+
+ Performance Summary                                                                                                                                  Green                                                   Yellow                                                     Red
+
+                                                                                                                                                 = Target to -5%                                       = Target -5% to -15%                                        = Target > -15%
+Summary Stats:                                                                                                                                        11.11%                                                  44.44%                                                    44.44%
+KPM #1     QUALITY LEARNING ENVIRONMENTS - Increase the percentage of early learning and development programs participating in the statewide Quality Rating and Improvement System
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                  2016                                2017                                2018                               2019                             2020
+percentage of early learning and development programs participating in the statewide Quality Rating and Improvement System
+Actual                                                                       No Data                             No Data                             No Data                              40%                               42%
+Target                                                                          TBD                                TBD                                 TBD                                TBD                               50%
+
+How Are We Doing
+As of August 31, 2020, 1,559 programs have intentionally engaged in Spark. By comparison, there were 1,518 in August 2018, 1,489 in 2017 and 1,370 in August 2016.  The percentage of those
+engaged that are quality rated has increased even as the totals have stayed steady.  This year, Oregon’s QRIS, Spark, has effectively engaged over 42% of the early care and education programs in
+Oregon, (1,559 Spark out of 3,735 licensed programs) up from 36% in 2018 and 40% in 2019. This is measured by the number of Commitment to Quality, 3 star, 4 star, and 5 star programs.
+
+Factors Affecting Results
+With the state-wide closure of child care due to COVID-19 in March, the child care landscape drastically changed in the state of Oregon. The pandemic has caused many permanent closures throughout
+the state. Once an emergency child care procedure was put in place, there are still restrictions on how programs are able to operate, which has reduced the number of operators throughout the state,
+including some of those that were participating in Spark prior to the pandemic. With such a profound shift, recruitment within Spark slowed as state priorities shifted to deal with the crisis presented by
+COVID. However, even with the change, Spark participation increased from 1,520 in January 2020 to 1,559 in August.
+
+Two other factors that are affecting the data is the participation of programs that were called “Alternative Pathway” programs but are now called “voluntary licensed” programs. These are public school-
+based programs for which licensing rules changed about two years ago, and at the time, no longer needed to be licensed however were still allowed to participate in Spark. Their presence affects the
+denominator as the total of non-spark participating programs in this category are unknown. In addition, programs participating in a Focused Child Care Network may not be in the Spark numbers due to
+not being licensed yet, or they have not applied, but are still receiving funds and technical assistance similar to that of Spark-participating programs.
+KPM #2     QUALITY LEARNING ENVIRONMENTS - Increase the percentage of high quality early learning and development programs as measured by the statewide Quality Rating and Improvement
+           System (rated as 3, 4, or 5 star)
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2016                               2017                              2018                               2019                               2020
+Percentage of high quality early learning and development programs as rated by the QRIS
+Actual                                                                           33%                                45%                                50%                                48%                                47%
+Target                                                                           25%                                30%                                40%                                45%                                55%
+
+How Are We Doing
+As of August 31, 2020, 47% of programs participating in Oregon’s Quality Rating and Improvement System (Spark) received a 3, 4, or 5 star rating. Of the 1,559 intentionally engaged programs, 727 are
+3, 4, or 5 star rated. Numbers stayed similar for the star ratings levels. There is minimal variation from month to month due to the dynamics of the overall system. Programs drop from the rated group
+due to closures or loss of star rating due to compliance issues, while other programs newly achieve a rating. For example, the number of star rated programs for the last three Augusts (2018-2020) have
+been 724, 725, and 727. Since Spark began in 2013, 730 programs that participated in it have either closed or become ineligible. Of those, almost half (353) have been since August 2018, and yet there
+are 122 more programs participating now than in August 2018.
+
+Factors Affecting Results
+Spark has been in a maintenance state over the last year. The number of programs that have increased in their rating has been balanced out by the number of programs losing their rating due to license
+compliance issues. As there is an overall decrease in licensed programs with small family homes are seeing the greatest decline, the denominator of all eligible programs is lower. This is a trend being
+seen nationally as well as in Oregon. In addition, there is a category of programs that are newly license exempt that are rated and are not captured in this denominator.
+KPM #3        KINDERGARTEN ASSESSMENT - Increase performance of entering kindergarten children on the Kindergarten Assessment
+              Data Collection Period: Aug 01 - Oct 31
+
+                                                                          actual   target
+
+ Report Year                                                             2016                            2017                           2018                           2019                           2020
+Percent of students entering kindergarten who can identify 18 uppercase English letters
+Actual                                                                 No Data                           49%                          47.30%                         46.40%                         46.40%
+Target                                                                   TBD                             TBD                            60%                            70%                            70%
+Percent of students entering kindergarten who can identify 15 lowercase English letters
+Actual                                                                 No Data                         46.20%                         43.50%                         42.30%                         41.70%
+Target                                                                   TBD                             TBD                            60%                            70%                            70%
+Percent of students entering kindergarten who can identify at least 3 letter sounds
+Actual                                                                 No Data                         57.50%                         53.40%                         50.40%                         50.90%
+Target                                                                   TBD                             TBD                            60%                            70%                            70%
+percent of students entering kindergarten who can respond correctly to 8 math questions
+Actual                                                                 No Data                         61.60%                         84.80%                         83.30%                         83.60%
+Target                                                                   TBD                             TBD                            60%                            70%                            85%
+percent of students entering kindergarten who fall into either the Approaching or Demonstrating & Above benchmark levels in Self-Regulation
+Actual                                                                 No Data                         77.60%                         77.80%                         76.10%                         76.60%
+Target                                                                   TBD                             TBD                            85%                            95%                            95%
+percent of students entering kindergarten who fall into either the Approaching or Demonstrating & Above benchmark levels in Interpersonal Skills
+Actual                                                                 No Data                           86%                          86.50%                         85.10%                         85.60%
+Target                                                                   TBD                             TBD                            95%                            95%                            95%
+
+How Are We Doing
+Over the last four years, the Oregon Department of Education and the Early Learning Division shifted how Kindergarten Assessment Outcomes are measured. The rationale behind this change is to
+better align with the change in the Early Literacy measures and allow for the use of interpretive guidance. By taking a deeper look at what the data is telling us, we are able to provide better outcomes
+for students entering kindergarten.
+
+In the fall of 2019, 98% of entering kindergartners participated in the Oregon Kindergarten Assessment. This is a slight increase from 2017, where there was a 98.5% participation rate. The results
+from 2019-20 demonstrate that different populations of students are entering kindergarten with different levels of exposure to literacy, math, and social-emotional skills.
+
+Factors Affecting Results
+Implementation of a statewide assessment provides a state-level perspective on the social, self-regulatory, and academic skills that students have when they enter kindergarten so that change can be
+measured over time. Additionally, the information can help school districts, communities, and Early Learning Hubs coordinate an approach to early childhood education and school readiness. The
+point in time “snapshot” of students’ foundational skills upon entry to kindergarten can contribute to and help address important policy questions:
+       Are Oregon’s children arriving at kindergarten prepared to be successful in school?
+       Is their level of foundational skills improving or declining over time?
+       Are there disparities (geographical, cultural, racial, and socio-economic) between groups of children that must be addressed?
+       Are there particular foundational skill areas that Oregon should target?
+Oregon’s Early Learning System is continuing the process of transformation, and as part of this transformation, the Early Learning Hubs continue to develop. The programs and initiatives produced by
+the Hubs are targeted for children ages 0-6. Some of the students who are benefitting from these services have not yet reached kindergarten age. The Early Learning Hubs use the Hub Metric and
+Accountability Framework, which provides a 3-5 year horizon for seeing measurable increases on the Kindergarten Assessment. The Kindergarten Assessment is suspended for 2020-21 and its
+purpose, utility, and design will be evaluated with education and community partner feedback in the coming school year.
+
+Group-level Interpretive Guidance was introduced in 2016 for the Approaches to Learning Measure. The scores from the Approaches to Learning measure are depicted along a developmental
+continuum that describes the skills that typical students should be able to demonstrate upon entry into kindergarten. Benchmark level expectations are assigned based upon a range of scores and will
+help provide a baseline for student growth in subsequent years, as well as enable teachers to identify targeted areas for supporting the social-emotional and interpersonal development of groups of
+children. The benchmark level expectations are:
+
+Developing (1.00-2.90), Approaching (2.91-3.99), and Demonstrating & Above (4.00-5.00).
+
+In addition, the Early Literacy measures were revised for 2016-17 to better align with Early Learning and Oregon’s adopted State Content Standards in early English language arts and mathematics.
+ODE anticipates that the change in measures will allow for more accurate measurement of change over time. Group-level Interpretive Guidance was introduced in 2017 for the English Early Literacy
+Measure. The scores from the English Early Literacy Measure are depicted along a developmental continuum that describes the skills that typical students should be able to demonstrate upon entry
+into kindergarten. Benchmark level expectations are assigned based upon a range of scores and will help provide a baseline for student growth in subsequent years, as well as enable teachers to
+identify targeted areas for supporting early literacy development. The benchmark level expectations are:
+
+Developing: 0-7 uppercase letters, 0-4 lowercase letters, 0-3 sounds
+
+Approaching: 8-17 uppercase letters, 5-14 lowercase letters, 4-6 sounds
+
+Demonstrating & Above 18 or more uppercase letters, 15 or more lowercase letters, 7 or more sounds
+
+The Kindergarten Assessment Advisory Panel went through an extensive process to align the Early Math items with Early Learning and Oregon’s adopted State Content Standards in early English
+language arts and mathematics. As a result of this process, 14 items were revised to better align with these two sets of standards. The new items are introduced on an annual basis. As a result of the
+items being more aligned with standards, the percentage of students who could correctly answer 8 or more math items out of 16, was approximately the same as prior years.
+
+The passage of the Student Success Act (SSA) allocates 20% of an historic investment in education to an Early Learning Account. The funding will be dedicated to fully funding Early
+Intervention/Early Childhood Special Education, expanding Relief Nurseries and preschool programs, and providing professional development for early childhood educators. Though substantial
+reductions are anticipated to the funding associated with the SSA, these investments should help more children enter kindergarten with the skills and supports necessary for success.
+KPM #4        EARLY LITERACY - Percentage of students meeting or exceeding statewide academic achievement standards in 3rd grade reading
+              Data Collection Period: Feb 01 - Jun 30
+
+                                                                               actual     target
+
+  Report Year                                                                2016                              2017                             2018                              2019                              2020
+a. All Students
+Actual                                                                      48.50%                            46.10%                           47.70%                           47.20%                             No Data
+Target                                                                        39%                              42%                               51%                              53%                                66%
+b. Students of Color
+Actual                                                                      29.10%                            26.40%                           28.50%                           28.50%                             No Data
+Target                                                                        21%                              23%                               30%                              32%                                56%
+c. Special Ed Students
+Actual                                                                      25.50%                            23.30%                           24.10%                           24.70%                             No Data
+Target                                                                        21%                              21%                               29%                              30%                                48%
+
+How Are We Doing
+The COVID-19 pandemic and shift to emergency distance learning in spring 2020 resulted in the suspension of the statewide summative assessments for the 2019-20 school year. Therefore, ODE is
+unable provide updated data for KPM 4: Early Literacy for 2019-20.
+
+Factors Affecting Results
+Oregon’s state content standards for English Language Arts were adopted by the State Board of Education in June of 2019, following a process of review and revision. The shifts in the revised
+standards resulted in a need for change in our instructional strategies and learning routines. These revised standards come from work done on a national level by Student Achievement Partners and
+The Council of the Great City Schools. They include a focus on foundational reading, including the core components such as phonological awareness, phonics, phonemic awareness, and fluency.
+During the 2019-20 school year, ODE began updating resources to help align educators’ implementation efforts around the state using evidence-based instructional best practices. In addition, ODE
+has revised the criteria for ELA instructional materials adoption to ensure a greater focus on early literacy in newly-adopted instructional materials. ODE has also prioritized standards to focus on those
+that will help students eventually meet the College and Career Readiness Anchor Standards.
+Recently, ODE has developed training materials to better support districts in effectively using Oregon Statewide Summative Assessment (OSAS) results in third grade aligned to assessed assessment
+targets. ODE continues to work developing districts’ understanding in both use and interpretation of Target Reports available through the OSAS Portal’s Online Reporting System, which allows districts
+to make connections between summative assessment targets, Oregon Standards, and instructional practices. In addition, new for the 2020-21 school year, districts have access to the Oregon
+Statewide Interim Assessment System which is aligned the full rigor and complexity of the Oregon state standards in reading, writing, listening, and research. ODE is supporting districts to build local
+capacity for utilizing the interim assessments as part of a balanced assessment system to gauge students’ proficiency throughout the course of the year. Such practices are supported by the research
+surrounding literacy best practices encouraging districts to complete a fall winter and spring benchmarking cycle to monitor how well students are progressing towards mastery of the grade-level
+standards and identify the need for and implement early interventions using current grade-level text to accelerate learning.
+
+Additionally, in spring 2020 ODE launched Oregon Open Learning (OOL). The primary purpose of OOL is to set up an open education resources (OER) Commons hub that contains curated, created,
+and reviewed OERs from educators and partners aligned to Oregon standards. OER are teaching, learning, and research resources that reside in the public domain or that have been released under
+an intellectual property license that permits their free use and re-purposing by others. The COVID-19 pandemic has underscored the tremendous inequities and various levels of access to learning
+resources across Oregon and the nation. While this event has created significant disequilibrium in the state’s educational systems, ODE recognizes the responsibility and opportunity to rethink and
+rebuild the collective approach to instructional materials and educational resources. The Oregon Open Learning Hub and Open Education Resources enable a shift in the power structures that have
+historically driven the development of educational materials by broadening access to authorship, and supporting the diverse voices that the education system has historically marginalized. Open
+educational resources include full courses, course materials, modules, textbooks, streaming videos, tests, software, and any other tools, materials, or techniques used to support access to knowledge.
+Oregon Open Learning and the resources available there for educators include a focus on early literacy for grades K-3, in particular.
+KPM #5             STUDENTS ON TRACK TO GRADUATE - Percentage of 9th grade students on track to graduate.
+                   Data Collection Period: Jul 01 - Jun 30
+
+                                                                                 actual    target
+
+  Report Year                                                                  2016                              2017                               2018                              2019                              2020
+a. All Students
+Actual                                                                        83.50%                            83.40%                            84.50%                             85.30%                            85.60%
+Target                                                                          85%                             87.50%                              90%                                93%                               89%
+b. Students of Color
+Actual                                                                        77.70%                            76.80%                            78.80%                             79.90%                            80.60%
+Target                                                                          83%                             87.50%                              75%                                77%                               86%
+c. Special Ed Students
+Actual                                                                        68.60%                            69.50%                            71.40%                             71.70%                            75.50%
+Target                                                                          80%                             87.50%                              73%                                75%                               81%
+
+How Are We Doing
+85.6% of ninth grade students were identified as being on track to graduate at the end of the 2019-20 school year, continuing an increasing trend since ODE first began collecting data on ninth grade on
+track. Significantly, Oregon also experienced gains for both students of color and students with disabilities. Oregon was less than one percentage point from the target for students of color and was
+within five percentage points of the target for students with disabilities. (A note about the data: due to the lack of a spring membership report in 2019-20 due to the COVID-19 pandemic, ODE was not
+able to exactly match the denominator as in past years. However, the denominator when looked at for the state level was able to be approximated enough as to not have a significant impact on the rate
+calculation. Also, while there were no changes to the Ninth Grade On-Track Collection due to COVID-19, because Distance Learning for All in the Spring of 2020 allowed for “Incomplete” grades to be
+recorded, ODE advised school districts that students with incomplete credits should not have those credits count toward their On-Track requirement to be reported in the collection.)
+
+Factors Affecting Results
+ODE has applied the following strategies to increase the number of Oregon’s 9th grade students who are on track to graduate:
+       During the 2019-2020 school year ODE invested in training the High School Success staff and management about effective systems to increase the number of 9th grade students on track to
+
+                                     th
+       graduate. ODE is using 9th grade on track as a metric for evaluating High School Success fund success, and districts are more focused on using these data to drive institutional practices. To
+       support districts in sharpening their focus and apply an equity lens to their data, ODE provided guidance and a self-assessment system for districts to use as they applied for High Schoolth
+       Success Funds.  COVID school building closures may have impacted 9                        grade on track improvements. Oregon’s guidance included pass/incomplete requirement for students finishing the year
+       through distance learning.  Students have a credit assurance plan requirement that will give them opportunity to complete any courses that they were unable to complete during the Spring of
+       2020.ODE partnered with the Confederation of Oregon School Administrators and Stand for Children to support trainings and sharing of practices from districts in Oregon implementing 9th grade on
+       track systems and convened graduation and student success coaches from across the state to share resources and strategies for improving 9th grade on track.
+       ODE provided supports to the high schools receiving targeted or comprehensive support from ODE to increase student achievement, including increasing 9th grade students on track to
+       graduate.ODE continues to provide statewide technical assistance to all districts to improve the quality of special education services, the Individualized Education Program (IEP) process, and ultimately,
+       results for students with disabilities, including the percentage who are on track to graduate by the end of 9th grade. IEP teams must meet no less than annually but can meet more frequently in
+       order to ensure a Free Appropriate Public Education (FAPE) is provided. Each IEP team is responsible for individually problem-solving the barriers that keep a child from independently
+       accessing the general curriculum. This includes determining a child’s present levels of academic achievement and functional performance (which could include on-track status), setting goals to
+       enable the child to make progress in the general education curriculum, and determine the supports needed to allow the child to progress towards annual goals and the general education
+       curriculum.
+A focus on culturally responsive pedagogy and practice as well as strategic investments for students of color and English Learners provided evidence of the impact such supports provide.  When
+educators can implicitly use the cultural knowledge, prior experiences, frame of reference, and performance styles of diverse students in a learning environment, educators can make learning
+appropriate (Gay, 2010). To that end, several of the grants funded by the African American/Black Student Success Act are focused on high school success, particularly directed at a strong first year
+performance, offering tutoring and mentoring programs to ensure consistent and significant support toward a positive 9th grade outcome.
+KPM #6             HIGH SCHOOL COMPLETION - Percentage of students who complete high school within four years
+                   Data Collection Period: Jul 01 - Jun 30
+
+                                                                                actual    target
+
+  Report Year                                                                  2016                              2017                              2018                             2019                              2020
+All students
+Actual                                                                       No Data                            74.80%                            76.70%                           78.70%                              80%
+Target                                                                         TBD                                TBD                              81%                               81%                               80%
+Students of color
+Actual                                                                       No Data                            68.30%                            71.10%                           73.40%                            75.20%
+Target                                                                         TBD                                TBD                              74%                               77%                               77%
+Special Education students
+Actual                                                                       No Data                            55.50%                            58.80%                           60.60%                            63.40%
+Target                                                                         TBD                                TBD                              61%                               64%                               65%
+
+How Are We Doing
+The statewide graduation rate for the class of 2018-19 is 80%, up 1.3 percentage points over the previous year and the highest graduation rate ever recorded in Oregon. The four-year graduation rate
+has increased eight percentage points over five years. In addition to these overall gains, Oregon’s students who have been historically underserved by the system also experienced continuing gains
+compared with previous years. The year-to-year increase in graduation rates was greater for every underserved student group than the increase in the state average, bringing underserved student
+groups closer to the statewide average than ever before. Compared with the graduating class of 2014, the rate for the graduating class of 2019 has increased by 14.2 percentage points for students who
+are American Indian / Alaska Native, 11.3 percentage points for students who are Hispanic/Latino, 10.2 percentage points for students who are Black/African American, 8.8 percentage points for
+students who are Native Hawaiian / Pacific Islander, and 6.4 percentage points for students who are Asian. In addition, students receiving Special Education supports experienced gains of 12.3
+percentage points and English Learners in High School experienced gains of 8.5 percentage points.
+
+These gains made by student populations historically underserved by the system are particularly important given the alarming historic persistence of a significant achievement gap in Oregon between
+white students and students of color, including multiracial students Remaining gaps provide stark evidence of a failing system for children of color in Oregon schools that continues to create a
+considerable challenge for our collective future.
+Other highlights include:
+       Students who have successfully completed English Learner programs in Oregon graduate at a rate of 84.3 percent, higher than the statewide average. Speaking multiple languages improves
+       education outcomes no matter which language a student learns first.
+       Students taking a Career and Technical Education (CTE) course graduated at a rate of 88.9 percent in four years and those enrolled in a CTE program of study had a 93.5 percent graduation
+       rate in four years.
+       The graduation rate for students experiencing homelessness is up from 50.7 percent from the class of 2017, to 55.4 percent for the class of 2019. The class of 2017 was the first class for which
+       this data was collected.
+       Students in the Migrant Education Program saw a 4.4 percentage point increase in graduation rates over last year to 79.4 percent, less than a percentage point below the statewide average.
+It is also important to note that not all those who do not graduate in four years drop out of school. Many go on to a fifth year or earn GED credentials.
+
+Factors Affecting Results
+ODE is continuing its comprehensive plan to address chronic absenteeism, backed by a $7.4 million investment by the 2017 Legislature. Through implementation of the High School Graduation and
+College and Career Readiness Act of 2016 (High School Success), ODE has provided funding to improve high schools through ninth grade teacher collaboration meetings; building data systems to
+track behavior, attendance, and course performance; and building partnerships, systems to ensure on-time graduation, systems to address chronic absenteeism, and systems to ensure equitable
+assignment to courses.  Recipients of the funds hired staff and supported educator professional learning, built CTE programs, and implemented drop out preventions strategies. Access to career and
+technical education (CTE) and other hands-on learning experiences has expanded in part as a result of High School Success funding. Students in Career and Technical Education (CTE) courses have a
+far higher graduation rate than the state average. CTE programs continued to expand in the 2018-2019 school year. ODE continued to partner with community organizations, such as the immigrant and
+Refugee Community Organization, to support emerging bilingual students. The Department also supported school districts expanding their capacity to engage with community members to design high
+school programs that engage students.
+
+The state also continued support of the Regional Promise Program to bring equitable participation in accelerated learning to Oregon schools.  An Education Northwest study showed that students who
+participated in college courses while in high school were 30 percentage points more likely to graduate from high school, 25 percentage points more likely to enroll in college and 22 percentage points
+more likely to persist in college compared to their peers who did not take college credit courses while in high school. The expansion of college level courses to more students and targeting historically
+underrepresented student groups has helped boost our graduation rate. ODE also continues to offer support to districts in using student data to improve outcomes in partnership with Education Service
+Districts and Stand for Children and provides regional support on evidence based strategies to improve graduation such as advisory periods, career exploration, and equity and inclusion practices in
+teaching and curriculum development.
+
+ODE continues to convene advisory panels of teachers, education leaders, and education partners serving diverse Oregon communities (such as community based organization) to discuss necessary
+policy and practice changes to improve graduation. ODE’s engagement efforts have included asking students to voice their needs and partner with the school to find mechanisms that speak to their
+needs, soliciting advice and recommendations from community based organizations serving communities of color, and engaging parents and the community in conversations about the resources
+needed to encourage graduation and completion. ODE has also solicited recommendations from various equity-focused, ODE sponsored advisory groups that have developed plans that provide
+guidance on improving graduation outcomes for traditionally marginalized student populations (i.e., the African American/Black Student Success Plan, the American Indian/Alaska Native State Plan, and
+the English Learner Strategic Plan).
+
+ODE has applied the following additional strategies focused on improving outcomes for students from culturally, racially, ethnically, and linguistically diverse backgrounds:
+       color through the African American/Black Student Success Plan. Making graduation a high priority for all of our high schools and asking our leaders, teachers, and staff to identify structural supports that can provide pathways for graduation for students of
+       Analyzing trends for students of color and identifying the strategies that are making the mark.
+       The Office of Equity, Diversity, and Inclusion at ODE providing professional development and resources to district and school staff on culturally responsive pedagogy and practice.
+ODE has applied the following additional strategies focused specifically on improving outcomes for students with disabilities:
+
+       Continue the successful pilot using the State Toolkit for Examining Post-School Success – STEPSS with five more school districts in 2019-20 to improve transition programs and post school
+       outcomes for students with disabilities. This data-based decision-making tool used by the five school districts has been used in collaboration with the National Technical Assistance Center on
+       Transition (NTACT). It is used to help local educators, in partnership with other stakeholders, use a continuous data-based decision-making model with secondary transition data related to
+       graduation (Indicator 1), dropout (Indicator 2), compliant IEPs (Indicator 13), and post-school outcomes (Indicator 14) data to improve transition programs for youth with disabilities.
+       Collaborate with the Department of Human Services (DHS) to support and increase the Youth Transition Program (YTP) in more than 120 high schools.
+       Continue training local education agencies to write effective Summary of Performance (SOP) documents that identify a student’s strengths and needs so the student has documentation to
+       provide in the next environment they choose after high school.
+       Ongoing partnership with our Parent Training Institute (PTI) to train parents, families, and staff on understanding and participating in the IEP process and to create a culture that sets high
+       expectations for students with disabilities.
+       Work closely with VR, DD, and OCDD to create systems that work to improve employment and post-school outcomes for students with disabilities.
+       Provide professional development to school districts using post-school outcome data (PSO) to make changes to transition programs by implementing evidence based practices and predictors of
+       post school success for students with disabilities.Collaborate with Vocational Rehabilitation (VR) and Oregon Developmental Disabilities (ODD) to develop and implement 36 cross-agency Regional Employment Collaboration (REC)
+       professional development trainings focused on employment opportunities for staff working in VR, Parent Training Information (PTI), Developmental Disabilities, tribal VR, and education. These
+       trainings were designed to facilitate universal information sharing, encourage collaborative resource delivery, and promote the shared outcome of employment for all transition age student with
+       disabilities.
+       Collaboration with VR to fund the Transition Technical Assistance Network (TTAN), which continues the work to improve Oregon’s systems of designing and delivering employment services for
+       students with disabilities. The Transition Network Facilitators (TNF) work to support the collaborative efforts of Vocational Rehabilitation, Developmental Disability Services, Employment First
+       Teams, and Local Education Agencies in Oregon in the implementation of the Workforce Innovation and Opportunity Act (WIOA) and the provision of Pre-Employment Transition Services (Pre-
+       ETS). Transition Network Facilitators provide training and technical assistance in their communities by supporting school districts to recognize and understand the outcomes of Executive Order
+       No. 15-01 and WIOA, specifically focusing on successful transition to employment and/or education.
+       Continue work with the National Technical Assistance Center on Transition (NTACT) for intensive technical assistance to support Oregon’s continual efforts to improve outcomes for youth with
+       disabilities.
+The Oregon Statewide Transition Conference (OSTC) provides attendees an opportunity to learn, network, and share innovative approaches regarding transition practices in Oregon. The over 620
+attendees included educators, community college and university representatives, services providers, state agencies staff, and other support staff were able to choose from 72 different sessions to
+build their capacity in assisting, designing, and implementing services to improve successful transition from school to employment.
+KPM #7               COLLEGE GOING - College-going rate of Oregon residents into post-secondary institutions
+                     Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2016                               2017                               2018                               2019                                2020
+College-going rate
+Actual                                                                          62.90%                               64%                               64.90%                             64.10%                             61.80%
+Target                                                                            63%                                63%                                 63%                                65%                                68%
+
+How Are We Doing
+Because the Extended Participation Rate tracks participation within 16 months of high school graduation, the most recent year for which data is available is for the high school graduating class of
+2017-18. For the class of 2017-18, the Extended Participation Rate for Oregon students was 61.8%. Oregon’s current rates declined slightly in 2012-13 and 2013-14 but then started increasing again
+in 2014-15[1]. Up through the high school class of 2016-17, the rates were close to the targets needed to keep Oregon on track to get to its year 2025 goal of 40% of high school students earning a
+bachelor’s degree or higher, 40% earning an associate’s degree or other postsecondary credential, and 20% earning a high school diploma (the “40-40-20 goal”). The fall in the Extend Participation
+Rate to 61.8% for the class of 2017-18, however, puts it more than 6 percentage points below the target. The fall in the rate may be attributable to the continuing strong economy and tuition and fee
+increases that continue to outpace inflation.
+
+[1] A correction in the data received by the Oregon Department of Education from the National Student Clearinghouse resulted in upward revisions to the Extended Participation Rates in data years
+2014-15 and 2015-16.
+
+Factors Affecting Results
+A number of factors affect the college participation and success of Oregon high school graduates.  Principal among them is the quality of preparation that students receive in the early grades and in
+high school.  A number of other factors, however, also affect the rate at which students enter college and the success they have there, including the impact students’ financial and family circumstances
+has on their ability to attend college and to remain there once they start. In addition, college attendance rates are sensitive to labor market conditions, with fewer students enrolling in college when job
+prospects are better in a growing economy.
+KPM #8           CHRONIC ABSENTEEISM - Percentage of students who are absent more than 10% of days of the school year
+                 Data Collection Period: Jul 01 - Jun 30
+
+                                                                                actual     target
+
+  Report Year                                                                2016                               2017                               2018                              2019                             2020
+All students
+Actual                                                                     No Data                            No Data                            No Data                           20.40%                            No Data
+Target                                                                       TBD                                TBD                                TBD                               TBD                               16%
+Students of color
+Actual                                                                     No Data                            No Data                            No Data                           24.50%                            No Data
+Target                                                                       TBD                                TBD                                TBD                               TBD                               19%
+Students with disabilities
+Actual                                                                     No Data                            No Data                            No Data                           27.50%                            No Data
+Target                                                                       TBD                                TBD                                TBD                               TBD                               22%
+
+How Are We Doing
+The COVID-19 pandemic and shift to emergency distance learning in spring 2020 resulted in the suspension of local attendance-taking protocols and ODE’s chronic absenteeism data collection for the
+2019-20 school year. Therefore, ODE is unable provide updated data for KPM 8: Chronic Absenteeism for 2019-20.
+
+Factors Affecting Results
+ODE and consortia of ESDs have continued to implement a statewide attendance plan through HB4002 and have designed a plan of supports through communities of practice that are held monthly/bi-
+monthly across Oregon. Oregon districts have the opportunity to attend, receive extra capacity building support, and connect with other cross-sector agencies through engagement with their
+local/regional capacity builder that is positioned within the ESD. ODE and consortia of ESDs have hired ten regional capacity builders across the state of Oregon to address chronic absenteeism,
+specifically in our historically underserved student populations, and to build capacity within district systems that create sustainable change over time.  ESDs and ODE are using a collective impact model
+from the Tamarack Institute, which aligns cross-sector agencies, community organizations, districts, schools, and the needs of families within those regions around a specific problem of practice that all
+of the collective efforts from these various entities can engage and create a theory of action for change. ODE in partnership with the Public Health Division, Oregon Health Authority, Oregon Department
+of Transportation, and other cross-sector agencies, is looking at regions across Oregon and designing a plan of support around transportation and health supports. The focus of the cross-sector
+agencies is to build a cohesive plan that collectively impacts all agencies and communities across Oregon. We do know for sure, students and families across Oregon continue to face housing
+challenges, which contribute to our highest population of chronically absent students experiencing homelessness. In addition, students’ mobility rate has greatly impacted their outcomes for attending
+school. During this last year, COVID-19 impacted the implementation of ODE’s statewide attendance initiative. Due to biennial budget reductions and the shift to distance learning, the scope and
+sequence of this work has shifted to support districts and regions in a virtual environment. The focus on student and family engagement through community support remains at the heart of increasing
+regular attendance, even in a virtual setting.
+
+ODE has also continued direct supports to 27 of the school districts with the highest rates of Chronic Absenteeism. Supports include grant dollars and ESD coaches to continue to diagnose the barriers
+to regular attendance, create plans to address those barriers, track data, communicate more effectively with families and students, and change the systems that disproportionately affect our historically
+underserved students. End-of-year reports from those school districts showed progress on their plans prior to the pandemic, and supports from the plans helping in their work as they moved into
+Distance Learning for All.
+
+The Tribal Attendance Promising Practices (TAPP) grant in the State Plan for American Indian/Alaska Native (AI/AN) students is another strategy working to improve attendance for AI/AN students.
+Although the focus is on AI/AN students, TAPP’s efforts are school-wide and have the ability to positively impact all students’ attendance rates. Through focused efforts to decrease chronic absenteeism
+rates, the state has seen AI/AN students’ attendance improve by 3% since the start of TAPP while their peers have increased chronic absenteeism rates. Even more important, TAPP is one mechanism
+that brings together tribes, school districts and community based organizations to collaborate and find solutions for students for whom they have shared concerns. Some of the resources provided
+through their collaboration include finding shelter for homeless students, referrals to mental health providers, providing food for hungry students, and providing opportunities for enrichment for students.
+TAPP has strengthened or was the catalyst for districts to create wrap-around teams to serve their most vulnerable students and families. In addition, TAPP has provided school districts with
+professional development and trainings (some examples are Tribal History, Restorative Justice, Family Engagement and Health Improvement strategies) and funded AI/AN curriculum development,
+books, cultural events and the number one driver for positive attendance, Relationship Building. During the transition to emergency distance learning in spring 2020 in response to the COVID-19
+pandemic, school districts were able to rely on the relationships built through TAPP to reach families that teachers were having difficulty connecting with and provide food, packets, and supplies.
+KPM #9        CUSTOMER SERVICE - Percentage of customers rating the agency's customer service as "good" or "excellent"
+              Data Collection Period: Dec 01 - Dec 31
+
+                                                                     actual   target
+
+ Report Year                                                       2016                          2017                         2018                         2019                         2020
+Overall
+Actual                                                              78%                          75%                          77%                           78%                          80%
+Target                                                              70%                          73%                          85%                           85%                          85%
+Expertise
+Actual                                                              77%                          76%                          76%                           78%                          79%
+Target                                                              70%                          73%                          85%                           85%                          85%
+Helpfulness
+Actual                                                              82%                          78%                          81%                           79%                          82%
+Target                                                              70%                          73%                          85%                           85%                          85%
+Timeliness
+Actual                                                              68%                          68%                          68%                           69%                          73%
+Target                                                              70%                          73%                          85%                           85%                          85%
+Accuracy
+Actual                                                              74%                          77%                          76%                           74%                          78%
+Target                                                              70%                          73%                          85%                           85%                          85%
+Availability of Information
+Actual                                                              73%                          68%                          70%                           73%                          75%
+Target                                                              70%                          73%                          85%                           85%                          85%
+
+How Are We Doing
+ODE completed its 2019 customer satisfaction survey in January 2019. ODE experienced increased ratings for all criteria and was within five percentage points of its target for two service criteria,
+Helpfulness and Overall customer service. Helpfulness remains ODE’s highest rated service criteria, with 82 percent of respondents rating ODE as good or excellent. While Timeliness remains ODE’s
+lowest rated service criteria, 2019 marks the highest rating in the 12-year history of the survey, with 73 percent of respondents rating ODE as good or excellent.
+
+Factors Affecting Results
+ODE’s mission and vision focus on fostering excellence for every learner, with an emphasis on providing excellent customer service to attain this goal. ODE has committed to transitioning from what
+has traditionally been viewed as a compliance-oriented relationship with its customers to a service-oriented relationship. A review of respondent comments indicates that our customers generally see
+ODE staff as service-oriented and wanting to help. Respondent comments also note the following themes, listed in order of prominence:
+       Insufficient or sporadic communication about new or changing rules, deadlines, and webinar/training opportunities create challenges for customers
+       The webpage contains a lot of information, but it is difficult to navigate
+       Staff are responsive, knowledgeable, and helpful, with the following caveats:
+               Response accuracy and timeliness vary from person to person
+               Knowing who to contact with specific questions and staff availability can be challenging
+       While capacity is growing in the areas of theory, research, and evidence-based practice, expertise still focuses primarily on rules and laws
+       Processing times (e.g., for grant fund distribution, fingerprinting, background checks) are lengthy and create challenges for customers

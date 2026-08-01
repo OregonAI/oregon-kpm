@@ -1,0 +1,375 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-dpsst-2025-10-01
+title: Department of Public Safety Standards and Training — Annual Performance Progress Report, Reporting
+  Year 2025
+doc_type: performance_report
+citation: APPR DPSST 2025
+authority_level: agency_report
+issuing_body: Department of Public Safety Standards and Training
+agency: Department of Public Safety Standards and Training
+agency_code: DPSST
+reporting_year: '2025'
+year_source: document
+text_source: pdf-text
+filename_year: '2025'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_DPSST_2025-10-01.pdf
+source_filename: APPR_DPSST_2025-10-01.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c3512bab562b6fd03946fb28677b726e5bd795a697b291778ecfb1d262f4635e
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: 'missing expected anchors: Data Collection Period'
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2025
+---
+
+## At a glance
+
+**APPR DPSST 2025** — Department of Public Safety Standards and Training, Reporting Year 2025
+
+- Agency: Department of Public Safety Standards and Training
+- Reporting year: 2025 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_DPSST_2025-10-01.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Department of Public Safety Standards and Training
+Annual Performance Progress Report
+Reporting Year 2025
+Published: 10/1/2025 11:22:27 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+Average increase in Police Officer Trainee test scores based on assessments at entry and completion of Police Basic Training. -
+Percentage of attendees who ranked the usefulness of DPSST criminal justice regional training courses at or above "6" on a scale of 1-7. (Added per 2003 legislative direction) -
+Percentage of attendees who ranked the usefulness of DPSST fire service regional training courses at or above "6" on a scale of 1-7. (Added per 2003 legislative direction) -
+Percentage of revocation or denial actions appealed that are upheld at the appellate level. -
+Average increase in Corrections Officer Trainee test scores based on assessments at entry and completion of Corrections Basic Training. -
+Armed Private Security Providers - Percentage of armed private security providers and private security firearms instructors whose armed certifications are suspended due to a failure to successfully complete the required annual training
+CUSTOMER SERVICE - Percent of customers rating satisfaction with agency services "good" or"excellent" for: timeliness, accuracy, helpfulness, expertise, information availability.
+Average increase in the Center for Policing Excellence test scores based on assessments at entry and completion of Supervisory Leadership Academy and Organizational Leadership Management Academy
+-
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+37.50%
+0%
+62.50%
+red
+green
+yellow
+KPM #1
+Average increase in Police Officer Trainee test scores based on assessments at entry and completion of Police Basic Training. -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Average increase in Police Officer Trainee test scores based on assessments at entry and completion of Police Basic Training.
+Actual
+21%
+27%
+23%
+23%
+20%
+Target
+40%
+40%
+40%
+40%
+40%
+How Are We Doing
+The average increase in police officer trainee test scores decreased from the prior reporting period.
+Factors Affecting Results
+Classes in this measurement period performed better overall on the pre-test than those classes from the prior reporting period while their average performance on the final did not change or fluctuate
+a great deal. These two factors created a reduced average increase in scores from the pre-test to the final.
+KPM #2
+Percentage of attendees who ranked the usefulness of DPSST criminal justice regional training courses at or above "6" on a scale of 1-7. (Added per 2003 legislative direction) -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percentage of attendees who ranked the usefulness of DPSST criminal justice regional training course at or above
+Actual
+94%
+96.90%
+98.50%
+100%
+100%
+Target
+95%
+95%
+95%
+95%
+95%
+How Are We Doing
+The percentage of criminal justice regional classes with an average evaluation above 6 reach 100%  during the 2024/2025 reporting period. This reflects the continued progress since 2018. The
+DPSST Criminal Justice Regional advanced training program continues to maintain a consistent presence throughout the State working with our constituent partners delivering requested training.
+Factors Affecting Results
+While the regional training program continues to provide highly regarded training, the demand for regional training has increased with continued wait list for field training, firearms, defensive tactics and
+driver related programing.  The current staff size limits the number of trainings conducted.
+KPM #3
+Percentage of attendees who ranked the usefulness of DPSST fire service regional training courses at or above "6" on a scale of 1-7. (Added per 2003 legislative direction) -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percentage attendees who ranked the usefulness of DPSST fire service regional training course at or above
+Actual
+94%
+96.40%
+95.50%
+95%
+96%
+Target
+95%
+95%
+95%
+95%
+95%
+How Are We Doing
+Percentage of attendees who ranked the usefulness of DPSST fire service district training courses above a 6 has increased and is above the target percentage. We anticipate percentages will
+continue to be above target as we work to provide training opportunities statewide to fulfill fire service agency needs. The Fire Program continually evaluates the program's structure, training delivery,
+training topics, and communication with constituents to fulfill the Oregon fire service’s training needs and remain relevant and contemporary.
+Factors Affecting Results
+The Fire Program continues to work on safe, quality training focused on knowledge, skills, and abilities. The Fire Program is able to provide training that fire departments are otherwise unable to
+conduct on their own by utilizing the Fire Program’s fire training props, providing entry-level training from content experts, and offering leadership and developmental classes from qualified instructors.
+Our program staff provides a variety of perspectives, backgrounds, and skillsets that create a diverse training cadre which enhances our training abilities and footprint statewide.
+KPM #4
+Percentage of revocation or denial actions appealed that are upheld at the appellate level. -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percentage of certification revocations upheld at appellate level
+Actual
+100%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+No data to report - no revocation or denial actions were brought before a court of appeals during the requested timeframe.
+Factors Affecting Results
+KPM #5
+Average increase in Corrections Officer Trainee test scores based on assessments at entry and completion of Corrections Basic Training. -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Average increase in Corrections Officer Test Scores
+Actual
+24%
+36%
+27%
+25%
+22%
+Target
+50%
+40%
+40%
+50%
+50%
+How Are We Doing
+Basic Corrections-Local student test scores from entry (pre-test) to completion (final) during this reporting period indicate an increase in scores. The average improvement in test scores during the
+current reporting period was 22%
+Factors Affecting Results
+Overall, students in this reporting period performed slightly worse on the post-test than those in the previous reporting period but did not perform noticeably better on the pre-test. This created a
+smaller average percentage increase in scores from pre-test to final. There exact factors that led to the decreased final scores scores are unknown.
+KPM #6
+Armed Private Security Providers - Percentage of armed private security providers and private security firearms instructors whose armed certifications are suspended due to a failure to
+successfully complete the required annual training
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percentage of armed private security providers and private security firearms instructors whose armed certifications are suspended due to a failure to successfully complete the required
+annual training
+Actual
+99%
+99.80%
+100%
+100%
+100%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+The monthly average reported for certified armed private security providers is 2,471. During the reporting year, 691 providers were suspended; of those, 153 were reinstated once they completed the
+required annual training.
+Factors Affecting Results
+Current standards require armed providers to complete the firearms marksmanship qualification and armed refresher course annually to demonstrate proof of their current knowledge and skills with a
+firearm.
+The due date for qualification and training is determined by the last successfully completed course per OAR 259-060-0120 and 0135. This qualification and training requirement must be successfully
+completed, submitted to, and accepted by DPSST by the due date. Individuals who do not submit proof of successful completion of training are emergency suspended and may no longer provide
+armed private security services.
+The high rate highlights the effectiveness of the Board’s established training standards for Oregon armed private security providers and the DPSST’s ability to enforce these established standards.
+Both of which contributes to the professionalism, public trust, public safety and confidence in Oregon’s private security providers.
+KPM #7
+CUSTOMER SERVICE - Percent of customers rating satisfaction with agency services "good" or"excellent" for: timeliness, accuracy, helpfulness, expertise, information availability.
+- Jun 30
+Report Year
+2021
+2022
+2023
+2024
+2025
+1. Expertise
+Actual
+0%
+93.70%
+87.30%
+Target
+100%
+95%
+95%
+95%
+95%
+2. Helpfulness
+Actual
+0%
+93.80%
+92.10%
+Target
+90%
+90%
+90%
+90%
+90%
+3. Timeliness
+Actual
+0%
+81.30%
+75.20%
+Target
+90%
+90%
+90%
+90%
+90%
+4. Accuracy
+Actual
+0%
+88.80%
+83.60%
+Target
+90%
+90%
+90%
+90%
+90%
+5. Availability of Information
+Actual
+0%
+80.60%
+81.40%
+Target
+90%
+90%
+90%
+90%
+90%
+6. Overall
+Actual
+0%
+84.40%
+78%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+No data to report. The data for this KPM are based on the Customer Satisfaction Survey that is administered only in even-numbered years.
+Factors Affecting Results
+KPM #8
+Average increase in the Center for Policing Excellence test scores based on assessments at entry and completion of Supervisory Leadership Academy and Organizational Leadership
+Management Academy
+-
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Center For Policing Excellence Pre and Post-Test Score
+Actual
+38%
+40%
+41%
+45%
+30%
+Target
+80%
+40%
+40%
+40%
+40%
+How Are We Doing
+The SLA and OLM courses continue to improve students’ self-assessed confidence to apply learned knowledge and/or skills in identified areas.  The 30% average increase in assessment scores is
+down from 2024’s 45% average. This is most likely due to students entering Leadership classes with a higher average “pre” assessment of their confidence, limiting the amount of growth that can be
+measured by the current scoring system (ratings are between 1-4). The pre scores were - on average - 0.3 points higher in 2025 than 2024, while post scores were only 0.02 points higher.
+Student confidence increased in all critical areas connected with CPE’s legislative expectations – problem solving, use of research, and addressing future challenges. The average percent increases
+were 20%, 39%, and 33% respectively. On average, students arrive needing some assistance or practice in identified areas, and complete training with an increased confidence that they can apply
+learned knowledge and/or skills on their own.
+Factors Affecting Results
+While the leadership program continues to deliver high quality leadership training for new first line supervisors and management level personnel, the program saw significant changes during the
+2024/2025 reporting period.  In November of 2024, the program had an interim coordinator overseeing the delivery of these two programs.  In January of 2025, the entire leadership program moved to
+a new manager and program, and beginning in April of 2025, the agency hired a new program coordinator.  With the changes in personnel and leadership the leadership programs have started the
+begun the process to review curriculum, involving constituent feedback.  We have seen positive results and feedback and continue to rebuild.

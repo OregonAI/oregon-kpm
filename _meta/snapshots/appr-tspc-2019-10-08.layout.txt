@@ -1,0 +1,150 @@
+Teacher Standards and Practices Commission
+                        Annual Performance Progress Report
+                               Reporting Year 2019
+                         Published: 10/8/2019 10:14:03 AM
+ KPM #       Approved Key Performance Measures (KPMs)
+1           EMAIL CUSTOMER SERVICE - Percent of emails responded to w ithin 3 days.
+2           APPLICANT CUSTOMER SERVICE - Percent of license applications initially processed w ithin 30 days.
+3           INVESTIGATION SPEED - Percent of investigated cases resolved in 180 days (unless pending in another forum).
+4           PHONE CUSTOMER SERVICE - Percent of phone calls responded to that are not abandoned.
+5           CUSTOMER SERVICE - Percent of customers rating their satisfaction w ith the agency's customer service as "good" or "excellent" overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+
+                                                                                                                                                red
+                                                                                                                                                green
+                                                                                                                                                yellow
+
+ Performance Summary                                                                                                                                Green                                                   Yellow                                                      Red
+
+                                                                                                                                               = Target to -5%                                      = Target -5% to -15%                                         = Target > -15%
+Summary Stats:                                                                                                                                       20%                                                       0%                                                       80%
+KPM #1                  EMAIL CUSTOMER SERVICE - Percent of emails responded to within 3 days.
+                        Data Collection Period: Jan 01 - Sep 15
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                  2015                               2016                              2017                              2018                               2019
+Email Custome r Se rv ice
+Actual                                                                         No Data                            No Data                              62%                               63%                             No Data
+Target                                                                            TBD                                TBD                               85%                               85%                               85%
+
+How Are We Doing
+2019 data is not available due to preparation and transition to the agency's eLicensing system. (See Factors Affe cting our Re sults, below, for further details.) The collection of this data will
+resume at completion of the system transition.
+Factors Affecting Results
+With the transition to the eLicensing system, TSPC is moving to a system of Messaging within the database application. While Messaging is available and functioning within eLicensing, data is not
+yet available on how quickly staff is able to respond to those Messages. The prior process collected email through Microsoft Outlook then overnight, an automated process moved the email from
+Outlook to the legacy database. That process was discontinued in eLicensing, and since implementation in April of 2019, responding to electronic communications has been a combination of
+working in both Outlook and eLicensing.
+
+With the launch of eLicensing, it was expected that educators would have a more transparent view into their TSPC account to view items such as documents received and application status, two of
+the most common questions receive via electronic communications. As indicated in KPM #2, the implementation of eLicensing had a significant impact to the application backlog, which in turn,
+caused an increase in these inquiries. The loss of two limited duration Public Service Representatives at the end of the 2017-2019 biennium also contributed to a larger than expected electronic
+communications backlog.
+
+Email and Message queues are monitored by agency management and staff are appropriately directed to respond to the oldest communications first.
+KPM #2            APPLICANT CUSTOMER SERVICE - Percent of license applications initially processed within 30 days.
+                  Data Collection Period: Jan 01 - Sep 15
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                   2015                              2016                              2017                               2018                               2019
+Pe rce nt of applications initially proce sse d in 30 days
+Actual                                                                            17%                                12%                             21.40%                              17%                              No Data
+Target                                                                            50%                                50%                               50%                               60%                                65%
+
+How Are We Doing
+In April 2019, the agency launched Phase 2 of the eLicensing online database, adding the ability to issue licenses to eLicensing and making it the database of record. The Legacy database was
+retired and all work is completed in eLicensing. Specific data as to the percent of applications initially processed in 30 days is not available during the transition to the new system. However, data is
+available of the average number of weeks for applications to be initially processed. Through March 2019, TSPC was averaging just under four weeks processing time. In April 2019, with the
+implementation of eLicensing, the initial processing time was seven weeks. Processing times increased through August to a maximum of 14 weeks. As of September 2019, processing times are
+beginning to improve.
+
+Factors Affecting Results
+Prior to the April 2019 launch, evaluation staff was meeting the 30 day processing target. Issued with data migration, background check turnaround time and functionality of eLicensing caused a
+complete shutdown of application processing from April 9 through the end of May. By early June, functionality began to improve slightly. The ability for Educator Preparation Programs to submit the
+Program Completion Report was added in early July, meaning that applications for new Oregon program completers could be processed after a delay of nearly three months. Issues with the
+background check processing were resolved in early August, and production began to stabilize.
+
+Evaluators report that even though applicants are directed to a list of required items that must accompany each license type after submission, applicants wait to receive notice from TSPC about
+what else must be submitted. Nearly half of applications processed by evaluators require additional information from the applicant, even ten or more weeks after submission.
+KPM #3           INVESTIGATION SPEED - Percent of investigated cases resolved in 180 days (unless pending in another forum).
+                 Data Collection Period: Jan 01 - Aug 01
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                   2015                              2016                               2017                              2018                               2019
+Pe rce nt of inv e stigate d case s re solv e d in 180 days (unle ss pe nding in anothe r forum)
+Actual                                                                            21%                                22%                              31.40%                              43%                              29.10%
+Target                                                                            75%                                75%                               75%                                75%                                75%
+
+How Are We Doing
+With eight (8) months of complete data for 2019, TSPC is resolving 29.1% of our Professional Practices investigations within 180 days.
+
+NOTE ON DATA SET: The Data for KPM #3 was collected from January 2019 to August 2019. As August was the last Commission meeting in 2019 prior to the KPM report deadline, all data
+collected after August 2019 is considered incomplete until the conclusion of the November 2019 meeting. For the purposes of this data, the length of a TSPC investigation is defined as the span of
+time beginning when TSPC received the complaint requiring investigation to the time the completed TSPC investigation report is submitted to the agency director.
+
+Factors Affecting Results
+From January 2019, through June 2019, TSPC staffed three (3) full-time investigators and one (1) limited duration investigator to work cases. The limited duration investigator position was
+scheduled to end June 30, 2019. Because TSPC needed to clear the case load of the limited duration investigator prior to his departure, the limited duration investigator was tasked solely with
+working his caseload to completion before his departure. He was assigned no new or additional investigations during this time. The impact of his departure was multiple:
+   1.  The limited duration investigator was brought to TSPC in 2015 specifically to assist in reducing the backlog of pending TSPC investigations. By the nature of the position, his caseload
+       consisted of cases which have been awaiting investigation longer than most. From January through June, the number of cases completed by the limited duration investigator increased and,
+       because these were older cases being completed, the average completion rate of TSPC cases completed in 6 months was affected.
+   2.  With the limited duration investigator not receiving new cases from January through June of 2019, TSPC’s remaining three full-time investigators were the only investigators receiving new
+       investigations. The increase to their caseloads during this period was substantial, with multiple TSPC investigators carrying caseloads at or near 100 cases. High caseloads per investigator
+        has negative impacts upon the completion rates of TSPC investigations.
+
+Since July of 2019, TSPC has been able move forward with expanded resources through the provisions of Senate Bill 155. TSPC has already increased the number of full time investigator’s on staff
+from three (3) to five (5), with additional plans to add to the agency’s investigations team before January 1, 2020. The average caseload per investigator has dropped from 76 cases per investigator
+down to 49 cases per investigator due to the increase in staff.
+
+Looking ahead, TSPC’s Investigations Unit has established an agency-level goal to have all pending TSPC investigations be no older than 9 months by June 30, 2020.
+KPM #4             PHONE CUSTOMER SERVICE - Percent of phone calls responded to that are not abandoned.
+                   Data Collection Period: Jan 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                  2015                               2016                              2017                              2018                             2019
+Phone  Custome r Se rv ice
+Actual                                                                         No Data                            No Data                            89.60%                             93%                             81.40%
+Target                                                                           TBD                                TBD                               85%                               85%                               85%
+
+How Are We Doing
+Prior to the launch of eLicensing Phase 2 in April 2019, staff was exceeding this goal (93.3% from January-April 2019). With implementation, the goal became difficult to achieve.
+Factors Affecting Results
+The launch of eLicensing and loss of production time had a significant impact to the agency’s ability to meet this KPM. Soon after launch, for much of April and May, staff did not have adequate
+access to account information required to answer phone calls and the call center phone line was frequently unavailable to applicants. Beginning June, in order to provide adequate coverage and
+prepare for the loss of the last Limited Duration PSR on June 30, the agency reduced the phone hours to 7:30 to 11am and 3 to 5pm. This gave staff time to execute other duties such as electronic
+communications responses and document entry. In July and August, issues with the OpenScape Call Center software upgrade also prevented staff from taking calls. The agency’s phone availability
+remains at the reduced hours.
+KPM #5     CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent" overall customer service, timeliness, accuracy,
+           helpfulness, expertise and availability of information.
+           Data Collection Period: Jan 01 - Apr 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Re port Ye ar                                                                    2015                              2016                               2017                               2018                               2019
+Ov e rall
+Actual                                                                             29%                                22%                                45%                                48%                               60%
+Target                                                                             TBD                                80%                                80%                                80%                               80%
+
+How Are We Doing
+Prior to the April 2019 launch of eLicensing Version 2.0, the agency had made significant progress in overall satisfaction, with 60% of respondents reporting Excellent or Above Average customer
+service.  Data on this KPM during the eLicensing transition months is not available.  The agency is currently reviewing its customer service indicators and will resume data collection at the
+conclusion of the transition.
+Factors Affecting Results
+With the implementation of eLicensing Version 2.0 in April 2019, educators submitting applications and receiving licenses were no longer offered the link to the survey to provide data used for this
+KPM. The database administrator (NIC USA) has not given agency staff the ability to customize messages sent at the time a license is issued. Prior to launch, a new link was included with the notice
+that a license was issued with an invitation to complete the survey. Of approximately 1700 licenses issued each month, the agency would receive approximately 250 responses to the survey, for a
+15% response rate. The agency is exploring additional ways to measure overall customer service satisfaction, with emphasis on the agency as a whole rather than only on applicants and licensees.

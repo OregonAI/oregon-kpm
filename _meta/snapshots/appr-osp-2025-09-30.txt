@@ -1,0 +1,456 @@
+Department of State Police
+Annual Performance Progress Report
+Reporting Year 2025
+Published: 9/30/2025 1:18:32 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+Transportation Safety
+- Enhance transportation safety by reducing fatal crashes on state and interstate highways to fewer than 5.06 per 100,000,000 vehicle miles traveled (VMT) where the Oregon State Police (OSP) have primary responsibility.
+Traffic Incident Management
+- Percent of lane blocking crashes cleared within 90 minutes.
+Ignition Interlock Device Compliance - Increase compliance with the requirement of offenders to install Ignition Interlock Devices to reduce crashes and improve transportation safety on Oregon roadways.
+Angler and Hunter Contacts
+- Increase interactions with anglers and hunters.
+Illegal Harvest
+- Improve detection of illegally harvested non-commercial fish and wildlife.
+Crime Reduction
+- Percent of major crime team call-outs resolved within 12 months from date of call-out.
+Crime Reduction
+- Number of Dismantled or Disrupted Drug Trafficking Organizations (DTO's).
+Forensic Analysis
+- Percentage of analytical requests completed within 30 days or less.
+Criminal Justice Information Services (CJIS) Division Turnaround Time
+- Average turnaround time, from the date of receipt of manual and electronic criminal justice fingerprint cards by the CJIS Division, until the criminal justice data is posted into the
+Computerized Criminal History (CCH) Files.
+Customer Satisfaction - Percent of customers rating their satisfaction with the agency customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+44.44%
+11.11%
+44.44%
+red
+green
+yellow
+KPM #1
+Transportation Safety
+- Enhance transportation safety by reducing fatal crashes on state and interstate highways to fewer than 5.06 per 100,000,000 vehicle miles traveled (VMT) where the
+Oregon State Police (OSP) have primary responsibility.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = negative result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Transportation Safety
+Actual
+8.60
+10.76
+10.85
+12.06
+9.65
+Target
+5.06
+5.06
+5.06
+5.06
+5.06
+How Are We Doing
+Historical Context: The previous metric for this Key Performance Metric (KPM) was to reduce fatal crashes on state and interstate highways where OSP has primary responsibility by 2.5% annually
+(from 2012 to 2022), reaching a target of 101 fatal crashes by 2022. Due to factors beyond OSP's control, such as the licensed number of drivers and vehicle miles traveled, it was unlikely that OSP
+would be able to achieve a purely nominal target.
+Instead, OSP changed the metric based on the number of fatal crashes in vehicle miles traveled (VMT) on highway segments where Oregon State Police has primary responsibility. In 2015, the fatal
+crash rate per 1,000,000,000 VMT was 7.79. Between 2010 - 2015, the lowest fatal crash rate per 1,000,000,000 VMT was 5.63 (in 2013). Using an average of 100 fatal crashes per 1,000,000,000
+VMT over six years (2010 - 2015), OSP's new target is a fatal crash rate of 5.06 or lower per 1,000,000,000 VMT.
+OSP investigated 212 fatal crashes in 2024 on OSP patrolled highways, a 20% decrease from the previous calendar year. State Highway VMT data is not yet published for 2024, so this update will
+use 2023 data (21.962 million VMT).  ODOT’s data would calculate the fatal crash rate at 9.65 for the 2024 calendar year.
+Data for this KPM is sourced from the ODOT Crash Analysis & Reporting Unit's Crash Data Viewer, and ODOT’s Initial Fatal Crash Information Viewer online dashboards. Data is preliminary and
+subject to change until official crash data summaries are published.
+Factors Affecting Results
+Sworn vacancies in the Patrol Services Division in nearly every patrol office impact our ability to provide visible deterrence, education, and enforcement of traffic violations frequently attributed to
+collisions. If the trend of improved recruiting for new Troopers continues, we expect improvement in visible patrols and proactive engagement around traffic safety issues.
+Within OSP's control, we emphasize enforcement priorities for existing staff and public messaging about driving behaviors most often contributing to serious injury and fatal crashes (SOLID:
+S
+peed,
+O
+ccupant Safety,
+L
+ane Safety,
+I
+mpaired Driving,
+D
+istracted Driving). Efforts to enhance the capacity of patrol offices to utilize a data-driven approach to crash reduction are ongoing, paired with high-
+visibility patrol saturations. The creation of the part-time High Visibility Enforcement Unit following a successful internal pilot project is directing resources to events and geographical areas
+experiencing significant traffic safety issues.
+Patrol offices around the state collaborate with ODOT and other partners on engineering and education efforts to reduce crashes. Troopers continue to receive enhanced training in rendering medical
+aid, including the recognition and treatment of life-threatening trauma. Factors outside OSP control include economic conditions contributing to changes in traffic volume/patterns, adverse weather
+events, the number of active drivers on roadways, and annual vehicle miles traveled.
+KPM #2
+Traffic Incident Management
+- Percent of lane blocking crashes cleared within 90 minutes.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percentage of crashes cleared within 90 minutes on highways where OSP has primary responsibility
+Actual
+75%
+79%
+79%
+79%
+70%
+Target
+80%
+80%
+80%
+80%
+80%
+How Are We Doing
+OSP clearance rates for the last five years have been revised downward to reflect data corrections. OSP recently communicated with ODOT to ensure OSP patrol coverage on interstate and highway
+segments was accurate in their analytics. It appears some highway segments were previously excluded from the data set, which may have contributed to the reported clearance rate skewing higher.
+The past five years now shows a clearance rate ranging from 70-74%.
+OSP clearance rates for statewide lane-blocking crashes in 2024 held steady at 70% compared to recent years. Incomplete 2025 data shows a slight improvement year to date. (Source: ODOT Traffic
+Incident Management website - OSP Clearance dashboard)
+Factors Affecting Results
+Staffing shortages affecting nearly every OSP patrol office and worksite impact our ability to respond to lane-blocking crashes rapidly and consistently. Patrol Division staffing continues to improve into
+2025, but there is a delay between hiring and fielding new Troopers on the highway due to training requirements. The rural nature of Eastern Oregon contributes to longer response times for first
+responders, including law enforcement, emergency medical, ODOT Incident Response or maintenance staff, and tow companies. In 2024, only 30% of crashes investigated by OSP were east of the
+Cascades but were overrepresented in those incidents with lane closures exceeding 90 minutes (44%).  (Source: ODOT Traffic Incident Management website - OSP Clearance dashboard)
+Traffic Incident Management (TIM) classes are regularly provided at the Oregon Public Safety Academy, which introduces these concepts to new officers (including all Troopers) early in their careers.
+OSP Troopers also teach TIM classes to first responders around the state to enhance safe and efficient response to roadway-blocking incidents. Advanced collision reconstruction technology and
+growth in investigative competencies have generally reduced on-scene investigation time, but recent case law has led to longer time on scene to secure vehicles in criminal crash investigations.
+KPM #3
+Ignition Interlock Device Compliance - Increase compliance with the requirement of offenders to install Ignition Interlock Devices to reduce crashes and improve transportation safety on
+Oregon roadways.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Ignition Interlock Device Compliance
+Actual
+23%
+21%
+20%
+20%
+19%
+Target
+45%
+50%
+55%
+45%
+45%
+How Are We Doing
+Compliance continues to fall well below our target rate. While the number of drivers with devices installed continues to increase, it continues to be outpaced by the increase in drivers required to install
+a device. This is partially attributed to the efforts of program staff to identify and track non-compliant offenders who were previously unknown to DMV or the IID program due to notification errors.
+Factors Affecting Results
+Existing IID statutes are violations and must be witnessed first-hand, so enforcement is difficult, and violations are generally discovered during the course of traffic stops. Voluntary compliance with
+court-mandated IID installations remains low. The Ignition Interlock Program continues to prioritize communication and collaboration with courts, prosecutors, Alcohol Drug Screening Specialists
+(ADSS), DMV. The program continues to identify and address issues generated by inconsistent reporting and communication between involved partners.  Hiring for compliance specialist positions
+authorized in the 2025 Legislative Session is expected in Fall 2025.
+KPM #4
+Angler and Hunter Contacts
+- Increase interactions with anglers and hunters.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Number of Angler and Hunter Contacts
+Actual
+76,208
+58,133
+60,755
+90,308
+90,032
+Target
+85,000
+85,000
+85,000
+85,000
+85,000
+How Are We Doing
+In calendar year 2024, the Fish and Wildlife Division achieved 90,032 angler and hunter contacts, exceeding the target level of 85,000 angler and hunter contacts per year. As with last year’s
+reporting, this is a significant increase from previous years and exceeds the target number by over 5%.
+Factors Affecting Results
+The Division has taken steps to enhance its reporting system, which was fully revamped at the start of 2022 to a web-based application. Additionally, a supervisory check piece was added to ensure
+completeness and accuracy. With these factors in place, it was previously reported that results would hopefully stabilize and be near or exceeding expectations in the coming years. This seems to be
+occurring in this KPM.
+KPM #5
+Illegal Harvest
+- Improve detection of illegally harvested non-commercial fish and wildlife.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Illegal Harvest
+Actual
+1,317
+1,073
+1,671
+1,488
+Target
+2,000
+2,000
+2,000
+2,000
+2,000
+How Are We Doing
+In calendar year 2024, Fish and Wildlife Division Troopers detected 1,488 illegally harvested fish and wildlife species (for purposes of KPMs), achieving approximately 74% of the target. This is a
+decrease of approximately 11% from last year.
+Factors Affecting Results
+While there is a decrease from the previous year’s reporting, the numbers are higher than any of the previous 3 reporting periods. And while 2025 numbers are not yet complete, they are already at
+1,777 and should exceed the target of 2000. Numbers are hopefully starting to stabilize in this KPM after steps were taken to enhance the Division’s reporting system.
+KPM #6
+Crime Reduction
+- Percent of major crime team call-outs resolved within 12 months from date of call-out.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percent of major crime team call-outs resolved within 12 months from date of call-out
+Actual
+99%
+97%
+98%
+92%
+96%
+Target
+95%
+95%
+95%
+95%
+95%
+How Are We Doing
+In 2023 (reported in 2025) we exceeded the target and resolved 96% of Major Crime Team investigations within 12 months.
+Every year since 2014, the 93% resolution rate target (established in 2009) had been met or exceeded. For 2018 (reported in 2020), the target was raised to a 95% resolution rate. Fortunately, the
+Major Crime Section detectives achieved a 96% resolution rate in 2018, which exceeded the new target. The resolution rate for 2019 (reported in 2021) climbed to 99%. For 2020 (reported in 2022),
+the resolution rate was 97%, once again exceeding the target. In 2021 we hit 98% resolution rate, continuing to exceed the target rate. In 2022 (reported in 2024) we missed the target by a small
+margin (3%), receiving a 92% resolution rate. Of the 83 cases Major Crimes detectives investigated in 2022 only 7 remained open past 12 months, which represents only 8% of those cases.
+Factors Affecting Results
+Major crime investigations are inherently complex and require a coordinated, resource-intensive approach. Our CID Detectives consistently rise to this challenge, balancing their investigative
+responsibilities with a wide range of specialized assignments, including SWAT, Crisis Response Team (CRT), and Mobile Response Team (MRT) deployments. These roles often place them at the
+forefront of critical incidents and civil disturbances, where their expertise directly supports community safety and life-saving operations.  While these high-priority assignments may occasionally impact
+the pace of investigations, they also reflect the versatility and commitment of our detectives. Major crimes are typically handled by a team, and even when one member is temporarily reassigned, the
+collaborative structure ensures continuity. Despite demanding caseloads, ongoing training, and administrative duties, our teams remain focused on delivering thorough, high-quality investigations.
+These factors, while influencing performance metrics, also highlight the depth of responsibility our detectives carry and the exceptional service they provide across multiple fronts.
+KPM #7
+Crime Reduction
+- Number of Dismantled or Disrupted Drug Trafficking Organizations (DTO's).
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Number of Drug Trafficking Organizations Dismantled / Disrupted
+Actual
+Target
+How Are We Doing
+In 2024 (reported in 2025), the Oregon State Police Drug Enforcement Section (DES) dismantled or disrupted 82 Drug Trafficking Organizations (DTOs)—exceeding the Key Performance Measure
+(KPM) target of 45 by 37. This marks the highest total in the past five years and reflects a continued upward trend from the numbers reported in 2022 (13 DTOs), 2023 (39 DTOs), and 2024 (44
+DTOs).
+This success is attributed to DES’s strategic realignment of resources, a sharpened focus on fentanyl and methamphetamine, and improvements in data collection methodology. The last time the KPM
+was exceeded to this degree was in 2019, when 73 DTOs were dismantled or disrupted. The 2025 results not only surpass that benchmark but also demonstrate a sustained recovery from the lower
+numbers seen during the COVID-19 pandemic and the early impacts of Measure 110.
+Factors Affecting Results
+In alignment with the agency’s mission to preserve life, the Drug Enforcement Section (DES) continues to refine its strategy, placing a strong emphasis on interdicting methamphetamine and fentanyl
+—the substances most responsible for Oregon’s ongoing overdose epidemic. According to preliminary data from the Oregon Health Authority, 1,832 Oregonians died from drug overdoses in 2023,
+with methamphetamine and fentanyl identified as the primary contributors.
+To address this crisis, DES implemented several key changes. In 2023, detectives were reassigned from marijuana investigations to local task forces and the Domestic Highway Enforcement (DHE)
+team. This strategic realignment led to a 152% increase in methamphetamine seizures, rising from 785 pounds in 2023 to 1,982 pounds in 2024. Fentanyl seizures, measured in dosage units due to
+the drug’s high potency, also increased significantly—by 32%—from 1.8 million in 2023 to nearly 2.4 million in 2024. Meanwhile, heroin seizures continued their downward trend, with only 25 pounds
+seized in 2024, representing a 78% decrease from the 116 pounds seized in 2020.
+OSP also continues to maintain a strong presence on multi-jurisdictional drug task forces, particularly those focused on mid- to upper-level DTOs. These investigations are often complex and time-
+intensive but yield more impactful and lasting results. Additionally, while DES supported nine missions in Downtown Portland during 2023 and 2024 to address public drug use and overdose concerns,
+fewer such missions were conducted in 2025. This allowed detectives to redirect their efforts toward long-term DTO investigations, contributing to the record number of dismantled or disrupted
+organizations.
+KPM #8
+Forensic Analysis
+- Percentage of analytical requests completed within 30 days or less.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percentage of analytical requests completed within 30 days
+Actual
+22%
+24%
+16%
+19%
+20%
+Target
+71%
+74%
+77%
+28%
+32%
+How Are We Doing
+In the 2024 calendar year (2025 report year), the percentage of analytical requests completed in 30 days or less was 20%, which was an increase from the previous year (19%). It should also be noted
+that the percentage of requests completed within 90 days improved from 54% to 61%.
+Individual discipline KPMs for Blood Alcohol (sub-discipline of Toxicology), Field Investigations, and Biology were the highest in the Division, all over 30%. The largest year over year KPM increases
+were in Biology (33% to 46%), Blood Alcohol (31% to 38%) and Toxicology (2% to 8%).
+The most significant decrease in individual discipline KPMs was in Drug Chemistry, from 53% to 24%.
+Although casework production increased by 12% in 2024 as compared to 2023, it did not keep up with demand. The total number of requests received by the FSD in 2024 was up 20% from the prior
+year.
+The Forensic Services Division (FSD) previously requested a resetting of KPM goals beginning in 2023, with a 4% increase every year until reaching 80% in 2037.
+Factors Affecting Results
+Multiple factors have impacted this KPM.
+The passage of HB4002 significantly increased the number of drug chemistry submissions coming into the laboratory system. Total submissions were up 43% in 2024 even though HB4002 only went
+into effect the last quarter of the year.
+The volume of Toxicology work as a percent of the Division total increased from 54% to 59% in 2024, which has an outsized impact to the total KPM. The Toxicology KPM increased from 3% to 8%
+during this same time period.
+Although the new drugs in blood toxicology workflows are 2-3 times faster than previous methods, the Division has not seen a corresponding drop in requests for drugs in urine analysis. Additionally,
+the FSD is seeing 3-4 times more postmortem toxicology submissions than anticipated based on the best data available at the time. Postmortem toxicology submissions increased by 84% in 2024 and
+antemortem toxicology requests increased by 10%.
+To keep up with the increasing number and complexity of discovery and public record requests, the FSD has had to shift resources into that work unit. The FSD responded to 568 requests in 2024,
+which was more than double the 264 requests received in 2023. Although the bulk of this work is performed by managerial and support staff, certain aspects involve Forensic Scientists, which takes
+them away from casework.
+Manager Comments:
+The passage of HB4002 included position authority and funding for two new support staff and four new Drug Chemists. The new two support staff are fully trained and are currently assisting with
+multiple aspects of Drug Chemistry. All four Drug Chemists have been hired and are in various stages of training. Three of them are projected to be fully authorized to perform this work in Q4 of 2025
+and the last should complete her training in Q2 of 2026. This is in addition to two other scientists who are also expected to be fully authorized in Drug Chemistry by the end of 2025. The extra capacity
+should help address the Drug Chemistry backlog, which has been growing steadily since 2024. It should be noted that the Drug Chemistry unit completed 25% more requests the first 6 months of
+2025 (1424) than in 2024 (1140), but submissions increased by 109% during that same time.
+One last note, two recent Oregon Appellate Court rulings have also negatively impacted casework production. The Widerman opinion is resulting in more scientists spending more time in court and
+therefore less time on the bench. For example, the DNA section spent twice the number of hours in court in 2025 as compared to the same time in 2024. The Adams ruling impacted the admissibility
+of firearm comparison testimony. Managing that change has required significant resources from the Division and Firearms section. Although neither of these rulings impacted the KPM for work
+performed in 2024, we anticipate that they will have a continuing impact for 2025 and beyond.
+KPM #9
+Criminal Justice Information Services (CJIS) Division Turnaround Time
+- Average turnaround time, from the date of receipt of manual and electronic criminal justice fingerprint cards by the
+CJIS Division, until the criminal justice data is posted into the Computerized Criminal History (CCH) Files.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2021
+2022
+2023
+2024
+2025
+Manual Fingerprint Cards Average Turnaround (Days)
+Actual
+1.20
+0.56
+1.88
+1.38
+Target
+a. Electronic Fingerprint Cards Average Turnaround (Hours)
+Actual
+0.38
+0.70
+0.34
+0.54
+0.78
+Target
+How Are We Doing
+The Oregon State Police's ability to meet this performance measure depends on heavily staff resources within the Criminal Justice Information Services (CJIS) Division. Livescan technology and
+automated processing improvements have significantly improved our ability to meet and/or exceed the set Manual Fingerprint Cards Average Turnaround time target of 4-days and the Electronic
+Fingerprint Cards Average Turnaround time target of 2-hours.
+For the most current calendar year (9/1/2024 - 8/31/2025, there were 114,682 total criminal cards received. There were 986 criminal arrest cards processed manually during the reporting period and
+95% of the manual card total (938) were processed under the target turnaround time. Manual cards represented <1% of the total criminal arrest cards received. The manual card average turnaround
+time for the reporting period was 1.38 days (33.20 hours).
+For the most current calendar year (9/1/2024 - 8/31/2025) automated submissions, represented >99% of the total criminal arrest cards received. There were 113,696 cards received and processed
+automatically. 112,946, or 99.8% of all automatic submissions were processed under the target turnaround time. The electronic card average turnaround time for the reporting period was 0.78 hours
+(45.87 minutes).
+Factors Affecting Results
+Staffing levels, outliers, and agencies use of livescan technology have a direct effect on our performance results, as does the availability of our infrastructure systems. All of Oregon's county jail
+facilities use livescan technology to submit their arrest fingerprint cards, with a growing number of local police departments also acquiring livescan technology. All agencies using livescan devices
+submit fingerprints using the automated process. However, there continue to be instances where manually captured prints are necessary due to either an agency not having a livescan machine or
+circumstances that make a manual print necessary (i.e., natural disaster, power issues, ADA compliance, etc.). Therefore, OSP will continue to maintain some level of accepted manual processing
+services to meet this need. Outliers can include rejected cards or cards submitted incorrectly or need to gather additional information from the submission agency, as well as unexpected downtimes.
+KPM #10
+Customer Satisfaction - Percent of customers rating their satisfaction with the agency customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness,
+expertise and availability of information.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2021
+2022
+2023
+2024
+2025
+1. Timeliness
+Actual
+71%
+69%
+Target
+90%
+90%
+2. Helpfulness
+Actual
+88%
+91%
+Target
+95%
+95%
+3. Expertise
+Actual
+95%
+91%
+Target
+100%
+100%
+4. Availability of Information
+Actual
+70%
+62%
+Target
+90%
+90%
+5. Accuracy
+Actual
+90%
+80%
+Target
+95%
+95%
+6. Overall
+Actual
+79%
+78%
+Target
+90%
+90%
+How Are We Doing
+KPM #10 involves even-numbered year reporting of customer service metrics so it is left blank in odd numbered years.
+Factors Affecting Results

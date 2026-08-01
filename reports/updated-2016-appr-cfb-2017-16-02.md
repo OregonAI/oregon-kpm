@@ -12,6 +12,7 @@ agency: Blind Commission
 agency_code: null
 reporting_year: '2016'
 year_source: document
+text_source: pdf-text
 filename_year: null
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/Updated%202016%20APPR_CFB_2017-16-02.pdf

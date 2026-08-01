@@ -104,3 +104,10 @@ jobs:
       # way available.
       - name: Derived KPM series must be current
         run: python3 src/build_series.py --check
+      # The rules AGENTS.md states that no schema can express: a reporting year must carry
+      # where it came from, proposed-vs-approved must be explicit, every body must say the
+      # numbers are the agency's own claim, and nothing may publish a green/yellow/red
+      # assessment we computed ourselves. That last one is the most tempting field to add
+      # here and the one that would most convincingly misrepresent the source.
+      - name: Corpus guardrails
+        run: python3 src/check_guardrails.py

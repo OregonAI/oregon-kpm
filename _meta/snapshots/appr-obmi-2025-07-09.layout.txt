@@ -1,0 +1,134 @@
+Board of Medical Imaging
+       Annual Performance Progress Report
+
+               Reporting Year 2025
+
+         Published: 7/9/2025 3:10:09 PM
+ KPM #          Approved Key Performance Measures (KPMs)
+
+1              Timely Licensure - Percent of initial and renewal license and limited permit applications from qualified applicants that are processed within 5 business days.
+2              Timely Resolution of Complaints - Average number of days from the date an investigation is opened to completion of investigation report for Board action
+3              Customer Service - Percent of customers rating their satisfaction with the agency’s customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+4              Discipline Resolution - Percentage and number of complaints resolved by means other than from formal administrative hearings within a year.
+5              Best Practices - Percent of total best practices met by the Board.
+
+                                                                                                                                                          red
+                                                                                                                                                          green
+                                                                                                                                                          yellow
+
+ Performance Summary                                                                                                                                            Green                                                       Yellow                                                         Red
+
+                                                                                                                                                           = Target to -5%                                          = Target -5% to -15%                                            = Target > -15%
+Summary Stats:                                                                                                                                                   100%                                                          0%                                                           0%
+KPM #1       Timely Licensure - Percent of initial and renewal license and limited permit applications from qualified applicants that are processed within 5 business days.
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2021                               2022                                2023                               2024                                2025
+Timely Licensure
+Actual                                                                             97%                                98%                                100%                               100%                               100%
+Target                                                                            100%                               100%                                100%                               100%                               100%
+
+How Are We Doing
+The OBMI went live with a new database in 2021 that is increasing our productivity and decreasing our licensure process time. All licensure procedures are completed without paper and fully on line.
+
+Factors Affecting Results
+The OBMI processes 100% of applications that are submitted within three days, provided all required documents are accurate and complete with the application. If required documentation is not
+provided, we attempt to contact the applicant by telephone or email and indicate information that is missing from the application which is often criminal background or education documentation.
+For initial license applications, we must submit fingerprints to the Oregon State Police (OSP) for a background check. When we receive an initial license application, we immediately release the
+fingerprints (electronically) to the OSP. The OSP turn-around time for results can take an average of fourteen days and during these past two years, turn around time was a month or more in many
+cases. During a Governor's declaration of emergency, we accommodated the hospital needs by passing an Administrative rule that provided an expedited process; by rule issue a license, prior to
+getting OSP background results, using a declaration from the applicant that attests to a clean background. In that way, OBMI can confidently license applicants that are needed in a hospital crisis.
+Background results are delivered electronically through a web-based program. For initial licenses, the Board's
+application process effectively begins not when we receive the application, but when we receive the background check from the OSP.
+KPM #2       Timely Resolution of Complaints - Average number of days from the date an investigation is opened to completion of investigation report for Board action
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                  actual      target
+
+  Report Year                                                                    2021                               2022                               2023                               2024                               2025
+TIMELY RESOLUTION OF COMPLAINTS
+Actual                                                                                                                                                   45                                 45                                 45
+Target                                                                                                                                                   60                                 60                                 60
+
+How Are We Doing
+Although this is a new KPM, our investigative reports are completed with accuracy and efficiency.
+
+Factors Affecting Results
+There were 88 cases for this reporting year. Of those 25 cases were classified as Unprofessional Conduct, these types of cases are time consuming and require considerable time to do a full
+investigation that includes subpoenas and video or in person interviews. The remaining 63 cases were licensure related or similar civil penalty outcomes. Licensure cases are more straight forward
+and take less time, which reflects the average time showing the target is well within our capabilities.
+KPM #3    Customer Service - Percent of customers rating their satisfaction with the agency’s customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise, availability
+          of information.
+          Data Collection Period: Jul 01 - Jun 30
+
+                                                                          actual   target
+
+ Report Year                                                            2021                            2022                           2023                           2024                            2025
+1. Accuracy
+Actual                                                                   80%                           90.40%                         91.80%                         92.20%                          92.70%
+Target                                                                   95%                            95%                             95%                            95%                            95%
+2. Availability of Information
+Actual                                                                   80%                           89.30%                         90.20%                         90.30%                          90.60%
+Target                                                                   95%                            95%                             95%                            95%                            95%
+3. Helpfulness
+Actual                                                                   82%                           92.90%                         94.50%                         94.70%                          94.60%
+Target                                                                   95%                            95%                             95%                            95%                            95%
+4. Timeliness
+Actual                                                                   81%                           92.20%                         94.10%                         93.70%                          94.40%
+Target                                                                   95%                            95%                             95%                            95%                            95%
+5. Expertise
+Actual                                                                   80%                           89.80%                         91.80%                         91.70%                          92.40%
+Target                                                                   95%                            95%                             95%                            95%                            95%
+6. Overall
+Actual                                                                   80%                           91.30%                         92.90%                         93.20%                          93.20%
+Target                                                                   95%                            95%                             95%                            95%                            95%
+
+How Are We Doing
+As of January 1, 2021, OBMI instituted a new and completely online Self-Service Portal. We have detailed information on our website on how to navigate the Portal and all renewal applicants are sent
+multiple automated renewal email reminders.
+
+Factors Affecting Results
+OBMI has an accessible and easy to use customer service survey that is linked on all email signatures and on our website homepage. We see a range of responses averaging 50 per year. Key drivers
+of our high ratings have to do with staff quickly answering emails and phone calls. The responses routinely compliment our ability to solve problems quickly, offer advice on licensure and other medical
+imaging issues and provide one-on-one help for applicants who are unfamiliar with online forms.  All IT issues concerning our database have been resolved.
+KPM #4       Discipline Resolution - Percentage and number of complaints resolved by means other than from formal administrative hearings within a year.
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                               actual    target
+
+  Report Year                                                                2021                              2022                             2023                              2024                             2025
+Discipline Resolution
+Actual                                                                       100%                               99%                             100%                              100%                             100%
+Target                                                                       100%                              100%                             100%                              100%                             100%
+
+How Are We Doing
+100% of all complaint/disciplinary cases have been resolved through negotiation.
+
+Factors Affecting Results
+KPM #5                      Best Practices - Percent of total best practices met by the Board.
+                            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2021                               2022                               2023                               2024                               2025
+Best Practices
+Actual                                                                           100%                               100%                               100%                               100%                               100%
+Target                                                                           100%                               100%                               100%                               100%                               100%
+
+How Are We Doing
+The Board is dedicated to assuring high standards for OBMI that align with the Board's mission. The executive director sends the Best Practice survey by email every January.
+
+Factors Affecting Results
+Board members are involved in all of the Best Practices subjects. All members are provided with documents for approval relating to performance, policy, rulemaking, training and financial information.
+The survey is completed by at least 4-5 of the 12 members including the Chair, Vice-Chair and public member(s). The goal for next reporting year is to have a more comprehensive participation in the
+survey that reflects the real-life dedication of the members to the Best Practices subjects.

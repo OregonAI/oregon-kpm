@@ -1,0 +1,501 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: apprproposed-hcsd-2024-10-17
+title: Housing and Community Services Department — Annual Performance Progress Report, Reporting Year
+  2024
+doc_type: performance_report
+citation: APPR HCSD 2024
+authority_level: agency_report
+issuing_body: Housing and Community Services Department
+agency: Housing and Community Services Department
+agency_code: HCSD
+reporting_year: '2024'
+year_source: document
+text_source: pdf-text
+filename_year: '2024'
+measure_status: proposed
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_HCSD_2024-10-17.pdf
+source_filename: APPRProposed_HCSD_2024-10-17.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 92ecaf1b652fb6e13f487e706466de7b6b9dc009206a10018f82e39ef6caee69
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2024
+---
+
+## At a glance
+
+**APPR HCSD 2024** — Housing and Community Services Department, Reporting Year 2024
+
+- Agency: Housing and Community Services Department
+- Reporting year: 2024 (stated in the document)
+- Measures reported as: proposed to the Legislature
+- Source file: `APPRProposed_HCSD_2024-10-17.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Housing and Community Services Department
+Annual Performance Progress Report
+Reporting Year 2024
+Published: 10/17/2024 3:18:49 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+Reducing Homelessness - Percentage of homeless households who exited into permanent housing and retained that housing for six months or longer.
+Energy Assistance - Of all crisis energy payments, the percentage of payments made to prevent power disconnections. Crisis payments include those for preventing disconnection of service or restoring service which was shut off.
+Affordable Rental Housing - Percentage of regulated multifamily housing units funded with grants, tax credits, and bonds, that will be affordable to households earning at or below 50% of the area median income.
+Affordable Rental Housing for People with Disabilities - Percentage of affordable rental housing units funded that provide rental opportunities for low-income individuals with physical or mental disabilities.
+Affordable Rental Housing (Construction Costs) - Construction costs per square foot for: newly constructed housing units developed through grant and tax credit programs; and construction costs per square foot for rehabilitated housing units developed
+through grant and tax credit programs, as compared to national RS Means data.
+Affordable Rental Housing (Areas of Opportunity) - Percentage of affordable rental housing units funded with 9% Low Income Housing Tax Credits or HOME program funds that will be developed in high opportunity areas. High opportunity areas are
+defined as census tracts that meet two of the following three criteria: low poverty rate, below average unemployment rate, high ratio of jobs to labor force.
+Affordable Rental Housing in Rural Areas - Percent increase in the number of affordable rental housing units that will be developed in rural areas. Rural areas are defined as: communities with population 15,000 or less outside of the Portland Urban
+Growth Boundary in counties within Metropolitan Statistical Areas (Benton, Clackamas, Columbia, Deschutes, Jackson, Josephine, Lane, Marion, Multnomah, Polk, Washington and Yamhill Counties) and communities with 40,000 population or less in
+the balance of the state.
+Homeownership - Percentage of households at or below the county median family income served by the Oregon Bond Residential Loan program.
+Homeownership Services to People of Color - Percentage of people served by all OHCS homeownership programs who identify as people of color.
+Agency Customer Service - Percentage of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: timeliness, accuracy, helpfulness, expertise, availability of information, overall.
+Proposal
+Proposed Key Performance Measures (KPMs)
+New
+Exits to Permanent Housing
+- Percentage of households enrolled in emergency shelter, street outreach, or rapid rehousing projects who exited to permanent housing.
+Delete
+Affordable Rental Housing - Percentage of regulated multifamily housing units funded with grants, tax credits, and bonds, that will be affordable to households earning at or below 50% of the area median income.
+New
+Affordable Rental Housing: Affordability - Percentage of regulated rental housing units funded that will be affordable to households making at or below 50% of the area median income, whether through rent restrictions on the units or through Project
+Based Rent Assistance (PBRA).
+Delete
+Affordable Rental Housing for People with Disabilities - Percentage of affordable rental housing units funded that provide rental opportunities for low-income individuals with physical or mental disabilities.
+New
+Affordable Rental Housing: Unit Accessibility - Percentage of affordable rental housing units funded that meet the definition of accessible as defined by the Building Codes Division of Department of Consumer and Business Services.
+Delete
+Affordable Rental Housing (Construction Costs) - Construction costs per square foot for: newly constructed housing units developed through grant and tax credit programs; and construction costs per square foot for rehabilitated housing units
+developed through grant and tax credit programs, as compared to national RS Means data.
+New
+Affordable Rental Housing: Development Costs - Percentage of newly constructed affordable rental housing projects with total development costs that fit within the bounds established through OHCS’s predictive cost model. This model is based on
+Oregon projects and is specific to affordable housing development.
+Delete
+Affordable Rental Housing (Areas of Opportunity) - Percentage of affordable rental housing units funded with 9% Low Income Housing Tax Credits or HOME program funds that will be developed in high opportunity areas. High opportunity areas are
+defined as census tracts that meet two of the following three criteria: low poverty rate, below average unemployment rate, high ratio of jobs to labor force.
+Delete
+Affordable Rental Housing in Rural Areas - Percent increase in the number of affordable rental housing units that will be developed in rural areas. Rural areas are defined as: communities with population 15,000 or less outside of the Portland Urban
+Growth Boundary in counties within Metropolitan Statistical Areas (Benton, Clackamas, Columbia, Deschutes, Jackson, Josephine, Lane, Marion, Multnomah, Polk, Washington and Yamhill Counties) and communities with 40,000 population or less
+in the balance of the state.
+New
+Affordable Rental Housing : Rural Housing - Percentage of affordable rental housing units funded that will be developed in rural areas as defined by OHCS.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+70%
+0%
+30%
+red
+green
+yellow
+KPM #1
+Reducing Homelessness - Percentage of homeless households who exited into permanent housing and retained that housing for six months or longer.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+Percentage of homeless Oregonians remaining in permanent housing six months or longer
+Actual
+87%
+94%
+91%
+Target
+80%
+80%
+80%
+80%
+How Are We Doing
+From July 1, 2023 through June 30, 2024, 91% of households who exited into permanent housing after receiving state homeless assistance funds had retained their housing for six months. There
+were a total of 10,347 households who exited to permanent housing and 9,437 of them retained housing after six months. This is above the target of 80%.
+Factors Affecting Results
+Executive Order 23-02 and the related investments in the Balance of State for Emergency Shelter, Rehousing, and Homelessness Prevention led to a concerted effort across the state on Rehousing
+previously unsheltered households into permanent housing situations and ensuring they can retain that housing. Even before the EO and related investments, OHCS had been prioritizing its rehousing
+and homeless retention efforts. These efforts have all contributed to OHCS meeting the target for this KPM.
+In 2022 OHCS shifted the methodology to measure this KPM to improve the data. Prior to 2022, Community Action Agencies used data collected from 6-month follow-up client contacts. In 2022 the
+method shifted to measuring “return to homeless” data reported in Homeless Management Information Systems (HMIS). The 2022 method queries all clients who exit into Permanent Housing from a
+Street Outreach, Emergency Shelter, Transitional Housing, Safe Haven, or a Permanent Housing program in the date range, 6-months prior to the report date range. Of those clients, the measure
+reports on how many of them did not return to homelessness as indicated in the HMIS system. A return is an entry into a Street Outreach, Emergency Shelter, Transitional Housing, Safe Haven or a
+new entry into a Permanent Housing program. This method matches the HUD System Performance Measure 2.  The results indicated that only 9% of the households that were enrolled and exited into
+permanent housing returned less than 6 months after exiting the program. This leads us to infer that the remainder of households who did not re-enter the system have remained stably housed.
+KPM #2
+Energy Assistance - Of all crisis energy payments, the percentage of payments made to prevent power disconnections. Crisis payments include those for preventing disconnection of service
+or restoring service which was shut off.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+Energy Assistance
+Actual
+92%
+91%
+88%
+Target
+90%
+90%
+90%
+90%
+How Are We Doing
+From July 1, 2023 through June 30, 2024, 88% of households receiving crisis energy assistance received payment for the prevention of power disconnections. This is below the target of 90%.
+Factors Affecting Results
+There has been a concerted long-term effort by the state and our community action partners to reduce the need for crisis interventions, focusing instead on the prevention of service disconnection.
+Restoration of service results in increased costs for families, for utility companies, and less efficiency for energy assistance programs. These efforts have been successful, with prevention services
+going from 82% of crisis payments in FY11 up to a high point of 96% in FY21. While the target of 90% was not met this year, we are pleased to see our prevention efforts are working and fewer
+households have sought assistance for restoration of services due to disconnections.
+KPM #3
+Affordable Rental Housing - Percentage of regulated multifamily housing units funded with grants, tax credits, and bonds, that will be affordable to households earning at or below 50% of the
+area median income.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+Affordable Rental Housing
+Actual
+40%
+31%
+64%
+Target
+50%
+50%
+50%
+50%
+How Are We Doing
+From July 1, 2023 through June 30, 2024, 1,557 units, or 64% of rental units approved for funding, will be affordable to households with income at or below 50% of the area median income. This is
+above our goal of 50%.
+Factors Affecting Results
+Most of our funding sources serve households earning at or below 60% of AMI, and in fiscal year 2024 several programmatic policies, including points in competitive LIFT and 9% LIHTC funding and
+continued investment in Permanent Supportive Housing (PSH) development for chronically homeless individuals gave further preference to serving lower incomes. As a result, we approved many
+projects that focused on housing for people with income at or below 50% of AMI. These figures include the rehabilitation and preservation of public housing properties in addition to other preservation
+and new construction of projects that include project-based rent assistance, which ensure that households only pay 30% of their income towards rent. This fiscal year half of all units funded either
+preserved or created project-based assistance, which is well above the 16% of units with project-based rental assistance (PBRA) approved last fiscal year.
+KPM #4
+Affordable Rental Housing for People with Disabilities - Percentage of affordable rental housing units funded that provide rental opportunities for low-income individuals with physical or
+mental disabilities.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+Affordable Rental Housing
+Actual
+12%
+7%
+11%
+Target
+7%
+7%
+7%
+7%
+How Are We Doing
+From July 1, 2023 through June 30, 2024, 265 units, or 11% of rental units approved for funding, will be set-aside for individuals with physical, developmental, or mental disabilities. This is above our
+goal of 7%.
+Factors Affecting Results
+There were several properties approved this fiscal year that set-aside units for those with mental, developmental, or physical disabilities. Not reflected in these numbers are 197 additional units that will
+be Permanent Supportive Housing (PSH). While these units are not directly set-aside for persons with disabilities, the populations they are designed to target do also have co-occurring disabilities.
+Everyone who is served with our Permanent Supportive Housing resources must be chronically homeless – which is a population defined both by the duration and recurrence of homelessness in
+addition to having co-occurring disabilities. Housing for those with disabilities like these requires intensive supportive services be provided in order to make the projects successful and ensure tenants
+remain stable within their housing.  These specifically dedicated PSH resources allow us to serve these populations with more acute needs and challenges far more successfully through the use of the
+PSH model. In addition, we work with our partners at Oregon Health Authority (OHA) and Oregon Department of Human Services (ODHS) for the HUD 811 Project-based Rent Assistance (PRA)
+program. This program is funded through a grant from the US Dept. of Housing and Urban Development (HUD) and pays project-based rent assistance for persons who are living with a mental illness
+or an intellectual/developmental disability. The rent assistance is matched with services through OHA and ODHS, who are also responsible for the referral of prospective program participants.
+KPM #5
+Affordable Rental Housing (Construction Costs) - Construction costs per square foot for: newly constructed housing units developed through grant and tax credit programs; and construction
+costs per square foot for rehabilitated housing units developed through grant and tax credit programs, as compared to national RS Means data.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2022
+2023
+2024
+2025
+2026
+a. Cost per square foot of newly constructed housing developed through grant and tax credit programs
+Actual
+100%
+121%
+138%
+Target
+100%
+100%
+100%
+100%
+b. Cost per square foot for rehabilitated housing units developed through grant and tax credit programs
+Actual
+169%
+199%
+131%
+Target
+100%
+100%
+100%
+100%
+How Are We Doing
+From July 1, 2023 through June 30, 2024, the average cost per square foot of new construction properties that completed construction during that period was $328.73, or 138% of the combined 2023
+and 2024 national average construction costs per square foot as reported by RS Means data ($238.53). This is above the target of 100%, which is a negative result. For properties that were preserved
+and went through significant rehabilitation, the average cost per square foot of that rehabilitation was $146.21, which is 131% of the combined 2023 and 2024 national average rehabilitation costs per
+square foot as reported by RS Means data ($111.88). This is above the target of 100%, which is a negative result.
+Factors Affecting Results
+Many requirements can increase costs in the development or rehabilitation of affordable housing, including but not limited to: paying workers prevailing wages, building to LEED standards, site work,
+design standards, the fluctuating costs and availability of materials, and locational factors. In addition, for many of our older projects needing rehabilitation, namely preservation properties, we are
+finding the need to invest in large systems upgrades necessary for tenant health and safety that would be less likely to have seen reflected in a normal market rehab that would be more aligned with
+the national average rehabilitation costs from RS Means. Furthermore, we are using national RS Means data because statewide data is not available, but Oregon construction costs tend to be higher
+than the national average, especially in urban areas.
+KPM #6
+Affordable Rental Housing (Areas of Opportunity) - Percentage of affordable rental housing units funded with 9% Low Income Housing Tax Credits or HOME program funds that will be
+developed in high opportunity areas. High opportunity areas are defined as census tracts that meet two of the following three criteria: low poverty rate, below average unemployment rate,
+high ratio of jobs to labor force.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+Affordable Rental Housing
+Actual
+43%
+70%
+100%
+Target
+40%
+40%
+40%
+40%
+How Are We Doing
+From July 1, 2023 through June 30, 2024, 100% of units funded with 9% Low Income Housing Tax Credits or HOME program funds through a competitive process scored at least 3 out of 5 points in
+the updated location opportunity and environmental factors section of OHCS’s 2022 Qualified Allocation Plan. This is above the target of 40%.
+Factors Affecting Results
+The definition of high opportunity areas provided in this KPM is no longer being used or tracked by OHCS. In 2022 the Agency’s Qualified Allocation Plan was updated after robust stakeholder
+engagement and approval by our Housing Stability Council. New construction developments can now receive up to five points in the Location Opportunity & Environmental Factors section which
+includes the following criteria: 1 point if Project is not in a USDA food desert; 1 point if Project has access to Parks & Public Space; 1 point if Project is in a census tract where 50% or more of
+households earned more than 100% of the area median income and the poverty rate is less than or equal to 20%; 1 point for access to School/Education/Library/Workforce Training; 1 point for
+projects in urban areas if in a Transit-Oriented Development or within a half mile of fixed transit stop OR 1 point for projects in rural areas with access to transit options. There is also a maximum of
+negative 2 points for Projects sited in Balance of State – Urban and Rural and negative 3 points for Projects sited in Metro and Non-Metro HOME PJs that are in tracts with greater health risks due to
+environmental factors compared to the rest of the State, as defined by the Environmental Protection Agency’s Environmental Justice Screening and Mapping Tool.
+KPM #7
+Affordable Rental Housing in Rural Areas - Percent increase in the number of affordable rental housing units that will be developed in rural areas. Rural areas are defined as: communities
+with population 15,000 or less outside of the Portland Urban Growth Boundary in counties within Metropolitan Statistical Areas (Benton, Clackamas, Columbia, Deschutes, Jackson,
+Josephine, Lane, Marion, Multnomah, Polk, Washington and Yamhill Counties) and communities with 40,000 population or less in the balance of the state.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+Affordable Rental Housing in Rural Areas
+Actual
+-24%
+0.25%
+-45%
+Target
+5%
+5%
+5%
+5%
+How Are We Doing
+From July 1, 2023 through June 30, 2024, 25% of rental units approved for funding were in rural areas. The number of units funded in rural areas was 1,156 in FY 2023 and decreased 45% to 631 in
+FY 2024. This is below the target of a 5% increase, but meets the target of 25% of approved units being in rural areas.
+Factors Affecting Results
+While we did not meet our target of a 5% increase of units funded in rural areas of the state this year, we have met our Statewide Housing Plan goal of increasing OHCS-funded housing in Oregon’s
+rural areas by 75%. From July 1, 2014 through June 30, 2019 we had only funded 1,454 units in rural areas. The five year period of the Statewide Housing Plan ended on June 30, 2024 and OHCS
+funded 5,058 units in rural areas over that time period, for an increase of 248% over the prior five year period. This shows a real commitment to reaching more rural communities throughout the state.
+The overall number of units funded this fiscal year decreased by 53% from the previous fiscal year, which is why the number of rural units also decreased. This decrease is primarily due to the roll out
+of the new application system for all OHCS funds – the Oregon Centralized Application (ORCA) – which delayed the release of funds that typically would have been awarded in the first half of 2024 to
+later in the year.
+The percentage of all units funded in rural areas does remain above what it was in FY 2020 (19%), at 25%. We recommend re-establishing the target for this KPM to align with the percentage of
+overall units that are located in rural areas. The percent of units funded in rural areas as a percent of total units funded was 19% in FY 2020, 30% in FY 2021, 24% in FY 2022, 21% in FY 2023 and
+now is 25% in FY 2024. Using these data points as a baseline, we would like to continue using this measurement, with a target that 25% of the funded units be located in rural areas of the state.
+KPM #8
+Homeownership - Percentage of households at or below the county median family income served by the Oregon Bond Residential Loan program.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+Homeownership
+Actual
+86%
+77%
+79%
+Target
+70%
+70%
+70%
+70%
+How Are We Doing
+From July 1, 2023 through June 30, 2024, 79% of loans made through the Oregon Bond Residential Loan Program went to households at or below the county median family income. This is above our
+target of 70%.
+Factors Affecting Results
+The lowest income limits OHCS uses for the residential loan program is 100% of statewide median family income. The statewide median family income for 2024 was $99,200 while the county median
+family income ranges from $65,800 in Malheur County up to $116,900 in the Portland Metropolitan Area. The highest limit for a larger size household is 140% of statewide MFI or 140% of county MFI,
+whichever is greater.
+KPM #9
+Homeownership Services to People of Color - Percentage of people served by all OHCS homeownership programs who identify as people of color.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+Homeownership Services to People of Color
+Actual
+32%
+34.50%
+44%
+Target
+30%
+30%
+30%
+30%
+How Are We Doing
+From July 1, 2023 through June 30, 2024, 44% of clients served by our homeownership programs were Black, Indigenous, and People of Color (BIPOC). This is above our target of 30%.
+Factors Affecting Results
+Programs such as the Home Ownership Assistance Program (HOAP), the Down Payment Assistance (DPA), and the Oregon Bond Residential Loan (OBRL) program represent a substantial
+proportion of our results. There were 3206 new clients served by the HOAP program, and 49% of them identified as BIPOC. With the DPA program 319 clients became new homeowners and 55%
+where People of Color. In the OBRL program, 127 of the 479 loans (27%) went to first-time homebuyers who were People of Color.
+For the Homeowner Assistance Fund (HAF), 452 clients approved for assistance were BIPOC, which is 39% of the 1148 total clients approved in the fiscal year. And lastly, in the 2024 fiscal year FAC
+served 236 new clients, and 25% of them were BIPOC (59 clients).
+KPM #10
+Agency Customer Service - Percentage of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: timeliness, accuracy, helpfulness, expertise,
+availability of information, overall.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2022
+2023
+2024
+2025
+2026
+Availability of Information
+Actual
+45%
+45%
+38%
+Target
+80%
+80%
+80%
+80%
+Overall
+Actual
+55%
+55%
+43%
+Target
+80%
+80%
+80%
+80%
+Timeliness
+Actual
+47%
+47%
+34%
+Target
+80%
+80%
+80%
+80%
+Accuracy
+Actual
+48%
+48%
+36%
+Target
+80%
+80%
+80%
+80%
+Expertise
+Actual
+58%
+58%
+47%
+Target
+80%
+80%
+80%
+80%
+Helpfulness
+Actual
+60%
+60%
+52%
+Target
+80%
+80%
+80%
+80%
+How Are We Doing
+Our tenth customer service survey, conducted in 2024, received 132 complete responses. While 43% of respondents rated the overall quality of service positively (“excellent” or “good”), this fell below
+our 80% target. We conduct this survey every other year.
+Factors Affecting Results
+The 2024 Customer Service Survey results were lower than the 2022 results when 55% of 77 respondents rated OHCS’ overall quality of service as “excellent” or “good,” and lower than the 2020
+results when 79% of respondents rated us favorably. Many of the “poor” or “fair” ratings were attributed to a lack of satisfaction with the agency’s response to the 2020 wildfires.
+OHCS works with hundreds of partners across Oregon’s housing continuum. This year, 59% of survey respondents were individual members of the public and 41% were organizations. That’s up from
+28% of individuals who responded in 2022 and 10% in 2020. Although we are not a direct service provider, OHCS’ expanded role in meeting Oregon’s housing needs through implementing historic
+investments with new programs and initiatives has increased our visibility, attracting a broader range of respondents. Given our evolving role, we anticipate identifying new trends in customer service.
+OHCS received its highest ratings for employe helpfulness (52%) and expertise (47%). The timeliness of services (34%) is the factor the survey shows OHCS needs to focus on improving the most.
+We added questions to this year’s survey about communication methods to better understand stakeholder needs and improve our practices. OHCS is also currently implementing internal strategic
+operation changes, including a focused effort to better define our customer base and enhance our operations to ensure greater accountability in meeting the diverse needs of our customers.
+OHCS values stakeholder feedback as an essential component of government accountability and transparency. We are committed to providing excellent service and will continue to focus on
+improving timeliness of services, enhancing communication and outreach efforts, and strengthening community partnerships.

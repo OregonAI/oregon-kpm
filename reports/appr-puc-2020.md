@@ -1,0 +1,376 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-puc-2020
+title: Public Utility Commission — Annual Performance Progress Report, Reporting Year 2020
+doc_type: performance_report
+citation: APPR PUC 2020
+authority_level: agency_report
+issuing_body: Public Utility Commission
+agency: Public Utility Commission
+agency_code: PUC
+reporting_year: '2020'
+year_source: document
+text_source: pdf-text
+filename_year: '2020'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_PUC_2020.pdf
+source_filename: APPR_PUC_2020.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c23f7146f57edb4e5a6b2d20a2571d7d61e7b5f767fbc21a81a10b10df55fa24
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: 'missing expected anchors: Data Collection Period'
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2020
+---
+
+## At a glance
+
+**APPR PUC 2020** — Public Utility Commission, Reporting Year 2020
+
+- Agency: Public Utility Commission
+- Reporting year: 2020 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_PUC_2020.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Public Utility Commission
+Annual Performance Progress Report
+Reporting Year 2020
+Published: 9/14/2020 9:15:49 AM
+KPM # Approved Key Performance Measures (KPMs)
+1 Water Utilities - Percentage of rate regulated water companies with rate designs promoting efficient use of water resources.
+2 Price of Electricity - Average price of electricity for residential users from Oregon Investor Owned Utilities as a percent of the national average price.
+3 Electric Energy - Percentage of business customers’ electric energy usage supplied by alternative suppliers.
+4 Electric Utility Operations - Effectiveness of staff audits in preventing injuries caused by electric utility operations per 100,000 utility customers.
+5 Unsafe Acts - Effectiveness of Utility and PUC promoted education in preventing injuries from unsafe acts per 100,000 utility customers.
+6 Natural Gas Operations - Personal injuries related to Natural Gas Operations per 100,000 utility customers.
+7 Switched Access Lines - Percent of total switched access lines provided by competitive local exchange carriers, statewide.
+8 Evidentiary Record - Percent of Consumer Complaint Orders issued within 30 days of close of evidentiary record.
+9 Oregon Telephone Assistance Program - Percentage of Supplemental Nutrition Assistance Program (SNAP) recipients participating in the Oregon Telephone Assistance Program.
+10 Access to Telephone Services - Percentage of disabled senior citizens (65 years and older) with access to the Telecommunications Devices Access Program.
+11 Complaint Investigation - Percent of complaint investigation cases open 50 days or less.
+12 Customer Service - Percent of customers rating their satisfaction with the agency's customer service as good or excellent in overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+13 Best Practices - Percent of total best practices met by the Board of Maritime Pilots.
+14 Vessel Incidents - The number and severity of incidents involving vessels under the direction of licensees, and as a percentage of total vessels piloted annually.
+15a Met performance measures in OPUC's annual grant agreement. - Met 12 of 13 established internal performance measures
+15b Obtained an unmodified financial audit annually - Obtaining an annual unqualified financial audit.
+15c Keep administrative costs below 8% of annual revenue. - Keep administrative and programs support costs below 8 percent of annual revenue.
+15d Annually report the total resource cost of conservation programs and maintain a score above 1 for each program. - Reporting the benefit/cost ratio for conservation programs based on utility system societal perspective.
+15e Report quarterly expenditures and variances by program, and total quarterly progress to annual goals for energy efficiency savings and renewable generation in the Q1, Q2, Q3 and Q4 reports. - Reporting significant mid-year changes to benefit/cost
+performance as necessary in quarterly reports.
+Proposal Proposed Key Performance Measures (KPMs)
+New Administrative and Overhead Costs - Percentage of actual administrative and overhead costs, excluding State Government Service Charge (SGSC).
+Performance Summary Green Yellow Red
+= Target to -5% = Target -5% to -15% = Target > -15%
+Summary Stats: 84.21% 10.53% 5.26%
+red
+green
+yellow
+KPM #1 Water Utilities - Percentage of rate regulated water companies with rate designs promoting efficient use of water resources.
+* Upward Trend = positive result
+Report Year 2018 2019 2020 2021 2022
+% Rate Reg. Water Co. w/ Efficiency Enhancing Rate Des.
+Actual 94% 94% 94% No Data No Data
+Target 98% 98% 97% 97% 97%
+How Are We Doing
+The PUC has been effective in encouraging non-metered systems to install meters and providing timely recovery of such costs. There are only two companies without meters of the
+current 33 companies that are rate regulated.
+In addition to the effort to move all companies to meters, efforts are being made to remove any inclusion of water use in base rates. This change takes place when companies file
+for a rate review.
+Factors Affecting Results
+The timing of general rate filings by non-metered water systems is typically outside the control of the PUC. As non-metered, rate-regulated companies file for a rate review, they are moved to a
+metered system. Other factors affecting the results are new companies becoming rate regulated or rate regulation being removed from existing companies. Two new companies came under
+rate regulation in reporting year 2020. The number of companies without meters remains at two, and the overall percentage of companies with rate designs promoting efficient use of water
+resources remained at 94% in reporting year 2020.
+KPM #2 Price of Electricity - Average price of electricity for residential users from Oregon Investor Owned Utilities as a percent of the national average price.
+* Upward Trend = negative result
+Report Year 2018 2019 2020 2021 2022
+Ave. Price of Elec. for Res. Users from OR Investor-Owned Util. as a % of the Nat. Ave. Price
+Actual 89% 90% 90% No Data No Data
+Target 92% 94% 94% 92% 92%
+How Are We Doing
+The reporting year 2020 performance was slightly below the target of 94%. Oregon’s average residential electric price slightly increased from 11.63 cents/kWh in reporting year 2019 to 11.77
+cents/kWh in reporting year 2020. At the same time, the national average residential electric price increased from 12.89 cents/kWh in 2018 to 13.04 cents/kWh in reporting year 2020.
+This performance measure shows the extent to which Oregon Investor-Owned Utilities (IOUs) residential customers’ rates for electricity are below the national average. The lower rates are largely
+due to the region’s retention of federal hydropower or system benefits and other hydroelectric resources. The PUC authorizes utilities to include only prudently incurred costs in rates.
+Factors Affecting Results
+On a national level, wholesale market prices for electricity have remained stable as natural gas prices have remained at historic lows. The price of natural gas is projected to remain low in 2020. As
+new generating resources are added to meet load growth and Oregon Renewable Portfolio Standards (RPS – 50% by 2040), hydroelectric resources will comprise a smaller percentage of the
+Investor-Owned Utilities (IOUs) resource mix. This effect would normally tend to progressively move Oregon’s residential electricity rates toward the national average. However, the continuing
+decreasing prices of renewables, decreased market prices, and low natural gas prices in combination with system benefits of federal hydropower is projected to continue contributing to the lower
+Oregon prices.
+KPM #3 Electric Energy - Percentage of business customers’ electric energy usage supplied by alternative suppliers.
+* Upward Trend = positive result
+Report Year 2018 2019 2020 2021 2022
+% of Bus. Cust. Elec. En. Usage Supplied by Alt Suppliers
+Actual 11.40% 12.70% 13% No Data No Data
+Target 10% 10% 10% 11% 11%
+How Are We Doing
+The ten percent target was exceeded in reporting year 2019. This measures the percentage of Portland General Electric (PGE) and PacifiCorp non-residential load served by alternative suppliers and
+indicates how the competitive market in Oregon is functioning.
+Factors Affecting Results
+PacifiCorp’s and Portland General Electric’s long-term direct access programs each grew at a moderate pace. The overall increase continues to be supported by the robust economy.
+KPM #4 Electric Utility Operations - Effectiveness of staff audits in preventing injuries caused by electric utility operations per 100,000 utility customers.
+* Upward Trend = negative result
+Report Year 2018 2019 2020 2021 2022
+Effec. of Staff Aud. in Prev. Inj. Caused by Elec. Oper. per 100,000 Utility Customers
+Actual 0.50 0.10 0.10 No Data No Data
+Target 0.11 0.11 0.11 0.11 0.11
+How Are We Doing
+Accidents in this field typically result in serious injuries or fatalities and are tragic. Any incidents are unacceptable. The decrease in injuries observed after 2018 are largely the result of Safety staff
+and OPUC management aggressively working with the utilities to improve safety performance. Staff’s audits for compliance with the National Electrical Safety Code would not have identified or
+prevented any of the incidents reported here. However, Staff’s observations of utility employee behaviors identified areas for improvement.
+Staff meets quarterly with the two largest electric utilities in the state. In those meetings, staff reviews each utility’s safety programs, metrics, as well as utility system performance.
+Factors Affecting Results
+The Public Utility Commission’s Electric Safety Program conducts inspections of utility facilities statewide for compliance with the NESC and OPUC rules. Staff also provides training statewide on the
+specifics of the code and the administrative rules. All Staff in the electric safety program worked in the utility industry prior to working for the Commission. That experience provides the program the
+ability to recognize unsafe work practices and has made it possible for the program to impact more than just code compliance but also influence utility safety culture.
+KPM #5 Unsafe Acts - Effectiveness of Utility and PUC promoted education in preventing injuries from unsafe acts per 100,000 utility customers.
+* Upward Trend = negative result
+Report Year 2018 2019 2020 2021 2022
+Effec. of Util. and PUC Promoted Ed. in Prev. Inj, from Unsafe Acts per 100,000 Util. Cust.
+Actual 0.36 0.18 0.21 No Data No Data
+Target 0.45 0.45 0.45 0.45 0.45
+How Are We Doing
+There were five unsafe acts by members of the public that resulted in six injuries. All were unintended contact with energized facilities. Two injuries were serious and occurred when two transients
+moved a concrete vault lid to access the vault. They then made contact with primary.
+Staff will continue to review all incidents reported to the Commission and look for trends and opportunities to educate the public.
+Factors Affecting Results
+Electric utilities continue to conduct public safety campaigns reminding people to watch for power lines when working outside.
+KPM #6 Natural Gas Operations - Personal injuries related to Natural Gas Operations per 100,000 utility customers.
+* Upward Trend = negative result
+Report Year 2018 2019 2020 2021 2022
+Personal Injuries Related to Nat. Gas Oper. per 100,000 Utility Cust.
+Actual 0 0 0 No Data No Data
+Target 0 0 0 0 0
+How Are We Doing
+Gas utilities continue to operate in ways that do not result in injuries or fatalities. The target should always be zero.
+Staff continues to streamline and standardize inspection reports using digital devices in the field. This allows staff to spend more time making observations and improves the quality of the records.
+Factors Affecting Results
+The Natural Gas Safety Program conducts ongoing safety inspections and investigations, as well as safety training statewide to ensure compliance with federal pipeline safety regulations. Staff will
+continue to inspect natural gas operator’s facilities, operations, and procedures for compliance with federal safety code, which is the standard to help ensure the safety of employees and the public.
+Excavation damage is the primary cause of damages to natural gas pipelines. The Oregon Public Utility Commission’s Safety Division enforces complaints that allege violations of the dig safe laws.
+The Commission has recently created a position within the Natural Gas Safety Program to focus on damage prevention programs, investigations and data analysis.
+KPM #7 Switched Access Lines - Percent of total switched access lines provided by competitive local exchange carriers, statewide.
+* Upward Trend = positive result
+Report Year 2018 2019 2020 2021 2022
+% of Total Switched Acc. Lines Prov. by Comp. Local Ex. Carriers Statewide
+Actual 54.90% 56.10% 61% No Data No Data
+Target 34.25% 50.50% 50.50% 58% 58%
+How Are We Doing
+In reporting year 2020, Competitive Local Exchange Carriers (CLECs) had a 61.0% share of the switched access-line and interconnected VoIP market. Their share of the market has
+been growing steadily since 2015 and we are expecting it to continue to grow over the next five years.
+The 61.0% share is taken from the Oregon Public Utility Commission’s (PUC) Local Telecommunication Competition Survey, a report given to the 2020 Oregon legislature. Data from
+this report is gathered from annual filings to the PUC. This data source was chosen over FCC data, as FCC data often lags behind several years in reporting accurate line counts at the
+state level.
+Factors Affecting Results
+There are many factors driving the change in the telecommunications industry. A significant factor shifting the percent of total switched access lines provided by CLECs statewide is VoIP business
+lines. CLECs provide a significantly higher amount of business lines (typically by VoIP) compared to ILECs. It should be noted that line counts for CLECs, which are ILEC affiliates, are included in the
+CLEC count. As traditional switched access lines continue to decrease and VoIP as an alternative option for businesses grows CLECs continue to have an increased share in the overall market.
+KPM #8 Evidentiary Record - Percent of Consumer Complaint Orders issued within 30 days of close of evidentiary record.
+* Upward Trend = positive result
+Report Year 2018 2019 2020 2021 2022
+% of Cons. Comp. Orders Issued within 30 Days of Close of Evid. Rec.
+Actual 71% 50% 100% No Data No Data
+Target 100% 100% 100% 100% 100%
+How Are We Doing
+So far in 2020, we have met our target.
+The Administrative Hearings Division reexamined its internal processes and business practices in 2019 to ensure that factors within its control are aligned with the goal of achieving timely and
+expedited resolution of consumer complaint cases. We instituted a heightened emphasis on timely resolution of cases. Consumer complaints have been prioritized.
+Factors Affecting Results
+In creating this KPM, we recognized that some factors beyond the reasonable control of the Administrative Hearings Division may cause delays in processing of cases. These include the
+complexity of the factual and legal issues presented, the overall workload of the Commission, and the availability of other Commission employees required for decision-making, etc.
+The consumer complaints filed in 2020 have been simple and relatively easy to address.
+KPM #9 Oregon Telephone Assistance Program - Percentage of Supplemental Nutrition Assistance Program (SNAP) recipients participating in the Oregon Telephone Assistance Program.
+* Upward Trend = positive result
+Report Year 2018 2019 2020 2021 2022
+Percentage of SNAP Recipients Who Receive OTAP Benefits
+Actual 15% 14% 13% No Data No Data
+Target 27% 28% 28% 21% 21%
+How Are We Doing
+From January to June 2019, the OTAP participation rate was gradually increasing to an average of 15%.  However, the OTAP participation rate declined sharply to 10% in September 2019.  A
+wireless provider de-enrolled nearly half of its customer base after OTAP Staff at the PUC identified that the wireless provider violated FCC regulations governing customer usage of the subsidized
+service.  The OTAP participation rate is gradually increasing again and averaged 11% for the last three months of 2019.
+Although the participation rate also includes OTAP households that qualified based on income or participation in other public assistance programs (e.g. Medicaid, etc.), a majority qualified based
+on their SNAP participation. Therefore, the participation rate is only based on SNAP data from the Oregon Department of Human Services and the total number of OTAP households.
+Factors Affecting Results
+Factors affecting the OTAP participation rate among SNAP households include, but is not limited to, the following:
+Health of Oregon economy,
+Number of SNAP recipients who have service with a participating provider,
+Outreach efforts of providers and PUC,
+Leading providers (e.g., Comcast, Verizon Wireless, etc.) do not participate,
+The subsidized service offering does not meet customer’s needs,
+The subsidy amount is not sufficient compared to the cost of the service offering,
+Some Federal Communications Commission (FCC) regulations (e.g. minimum service standards, etc.) limit customer choice, and
+FCC is reducing and phasing out low-income support for voice services and transitioning it to broadband internet access service. Federal support for voice service will no longer be available as
+of December 2021, but still be available for mobile and fixed broadband internet access service.
+KPM #10 Access to Telephone Services - Percentage of disabled senior citizens (65 years and older) with access to the Telecommunications Devices Access Program.
+* Upward Trend = positive result
+Report Year 2018 2019 2020 2021 2022
+Percentage of disabled TDAP participants who are 65 years and older
+Actual 73% 72% 70% No Data No Data
+Target 70% 70% 60% 72% 72%
+How Are We Doing
+PUC continues to achieve its goal of providing TDAP services to the senior and aging population of Oregon.
+Factors Affecting Results
+The steady trend is likely still attributed to the aging baby boom population with acquired disabilities, ongoing outreach efforts, and the array of specialized telephone equipment designed to meet
+the various needs of senior citizens.
+KPM #11 Complaint Investigation - Percent of complaint investigation cases open 50 days or less.
+* Upward Trend = positive result
+Report Year 2018 2019 2020 2021 2022
+Percent of Complaint Invest. Cases Open 50 Days or Less
+Actual 90% 90% 87% No Data No Data
+Target 75% 75% 75% 75% 75%
+How Are We Doing
+In reporting year 2020, 87% of investigations were completed in 50 days or less, slightly less than reporting year 2019, but still exceeding the target. Case cycle time increased slightly in reporting
+year 2020.
+Factors Affecting Results
+Case cycle time directly effects the achievement of this goal. For reporting year 2020, case cycle time increased to an average of 22 days, up from 19 days in reporting year 2019. This increase
+was due to the loss of two experienced employees to other jobs, and the replacement of only one of those positions.
+KPM #12 Customer Service - Percent of customers rating their satisfaction with the agency's customer service as good or excellent in overall customer service, timeliness, accuracy, helpfulness,
+expertise and availability of information.
+Report Year 2018 2019 2020 2021 2022
+Helpfulness
+Actual 80% 81% 79% No Data No Data
+Target 85% 85% 85% 85% 85%
+Availability of Information
+Actual 72% 74% 69% No Data No Data
+Target 75% 75% 75% 75% 75%
+Overall
+Actual 79% 79% 76% No Data No Data
+Target 82% 82% 82% 82% 82%
+Accuracy
+Actual 76% 79% 75% No Data No Data
+Target 80% 80% 80% 80% 80%
+Expertise
+Actual 83% 81% 80% No Data No Data
+Target 83% 83% 83% 83% 83%
+Timeliness
+Actual 83% 79% 79% No Data No Data
+Target 85% 85% 85% 85% 85%
+How Are We Doing
+Reporting year 2018 showed results nearing the targets, and reporting year 2019 showed even better  results. Reporting year for 2020 showed a small decline from the prior year
+across most measures.
+It is important to note PUC staff must often deliver news that the customer does not wish to hear when their allegations are not supported by the evidence, and when the utility has acted
+correctly. Maintaining a satisfaction ratings above 80 percent despite regularly delivering unpleasant news to customers can be very difficult. However, even if a customer does not
+experience the outcome they sought, PUC can always be professional, courteous, and helpful. That is what we endeavor to do.
+Factors Affecting Results
+Results for reporting year 2020 were down for two important reason: 1. The PUC lost two experienced employees to other positions and replaced only one of those positions, and 2. There were a
+very high number of complaints about a utility imposing a smart meter program where complainants were not satisfied with Commission action. Considering these factors, results were still
+reasonable.
+KPM #13 Best Practices - Percent of total best practices met by the Board of Maritime Pilots.
+* Upward Trend = positive result
+Report Year 2018 2019 2020 2021 2022
+Percent of Yes Responses
+Actual 70% 92% 91% No Data No Data
+Target 100% 100% 100% 100% 100%
+How Are We Doing
+The Board continues its ongoing rule review. The Board has made use of its new single issue rate proceeding process twice; and conducted upcoming interview examinations of Columbia River
+and Columbia Bar Pilot applicants. Board member responses have been generally satisfied with the results of their efforts to meet or exceed best practices despite limited resources.
+Factors Affecting Results
+The Board members are volunteers and their time is limited to be able to address new and emerging issues.
+KPM #14 Vessel Incidents - The number and severity of incidents involving vessels under the direction of licensees, and as a percentage of total vessels piloted annually.
+* Upward Trend = negative result
+Report Year 2018 2019 2020 2021 2022
+Incidents Since 1980
+Actual 4 1 2 No Data No Data
+Target 4 4 4 4 4
+How Are We Doing
+There were only two incidents involving a piloted vessel in reporting year 2020. Both were directly attributable to mechanical failure of the vessel with no pilot error. In one incident, the vessel lost
+power and came into contact with a buoy and took it off station.  In the other incident, the vessel’s rudder failed to respond and grounded. There was no damage to the vessels or environment, and
+no danger to the public.
+The target for any measurement of incidents should be 0. In the maritime environment vessel movements fluctuate annually – between 4,100 and 4,500 annually over the last five years.  In a
+restricted waterway, it is presumed that incidents will likely occur. However, the goal for the Board of Maritime Pilots is to put policies and procedures in place that help ensure none of these
+incidents occur due to Pilot Licensee error.
+Factors Affecting Results
+Incidents due to mechanical failure or other shipboard system malfunction do not accurately represent the actions of the Pilot Licensees or any error on their part.
+KPM #15a Met performance measures in OPUC's annual grant agreement. - Met 12 of 13 established internal performance measures
+* Upward Trend = positive result
+Report Year 2018 2019 2020 2021 2022
+Met 12 of 13 established internal performance measures
+Actual 100% 100% 100% No Data No Data
+Target 100% 100% 100% 100% 100%
+How Are We Doing
+The Commission develops annual performance metrics for Energy Trust as part of grant agreement between the organizations. For the reporting period, Energy Trust must report on fifteen
+performance metrics. The performance metrics cover savings goals, levelized cost targets, benefit cost ratios, renewable generation, administrative costs, staff, customer satisfaction, and market
+transformation.  In reporting year 2020, Energy Trust met all fifteen of the Commission’s performance measures.
+The purpose of Energy Trust performance measures is to clearly define the Commission’s minimum expectations. Performance measures are not meant to be targets or goals. Rather they reflect
+a threshold by which regulators can determine the health of Energy Trust programs. They are meant to provide early indicators of poor performance that if not met, signal that intervention may be
+required. Staff needs to continue to monitor performance and require changes if needed to improve results. Since the last reporting year, two additional metrics were created to focus on
+administrative and staffing costs, expanding the count from 13 to 15. The staffing cost metrics are in transition and will decrease to one metric in the next reporting period, along with a new metric
+addressing “Diversity, Equity, & Inclusion” initiatives.
+Factors Affecting Results
+Customer interest in energy efficiency and renewable generation began strong in reporting year 2020, but declined later in the year. By adjusting offerings in Q4, Energy Trust exceeded savings
+metrics goals within cost-effective requirements for all five of the investor-owned utilities it represents. Energy Trust also exceeded renewables goals. For both energy efficiency and renewable
+generation, market conditions, such as contractor availability and capital investment by businesses play a strong role in affecting results and need to be monitored along with Energy Trust’s
+performance.
+KPM #15b Obtained an unmodified financial audit annually - Obtaining an annual unqualified financial audit.
+* Upward Trend = positive result
+Report Year 2018 2019 2020 2021 2022
+Annual Unqualified Financial Audit
+Actual 1 1 1 No Data No Data
+Target 1 1 1 1 1
+How Are We Doing
+Energy Trust has completed an unqualified financial audit every year since this requirement has been put in place. The purpose of Energy Trust performance measures is to clearly define the
+Commission's minimum expectations. The company is required to obtain an unqualified financial audit.
+Factors Affecting Results
+The key factor affecting results is whether or not Energy Trust has an audit performed. In the audit, there may be recommendations for areas of improvement. PUC staff will review the
+recommendations and follow up on them in subsequent years. Accordingly, once the annual audit is obtained, another factor affecting results is PUC staff’s follow-through on areas identified in the
+audit.
+KPM #15c Keep administrative costs below 8% of annual revenue. - Keep administrative and programs support costs below 8 percent of annual revenue.
+* Upward Trend = negative result
+Report Year 2018 2019 2020 2021 2022
+Administrative and program support below 8 percent
+Actual 5.20% 5.70% 6.24% No Data No Data
+Target 7.90% 7.90% 9% 7.99% 7.99%
+How Are We Doing
+Energy Trust consistently comes in well below this eight percent target. Energy Trust regularly reports administrative and program support costs approximately six percent or less, substantially
+below the eight percent target. Staff will continue to monitor performance against this measure and may consider reducing the percentage in the future.
+The Secretary of State conducted an audit of OPUC oversight in 2018 and found that both Energy Trust and the OPUC have adequate controls in place to keep administrative costs reasonable.
+Factors Affecting Results
+Factors affecting administrative and program support costs include things like employee turnover, implementation of new computer systems that require additional staff time to implement, complexity
+of efficiency programs, and the amount of management and administration time required to achieve savings.
+KPM #15d Annually report the total resource cost of conservation programs and maintain a score above 1 for each program. - Reporting the benefit/cost ratio for conservation programs based on
+utility system societal perspective.
+* Upward Trend = positive result
+Report Year 2018 2019 2020 2021 2022
+Benefit/cost ratio for conservation programs
+Actual 1 1 1 No Data No Data
+Target 1 1 1 1 1
+How Are We Doing
+Energy Trust has consistently provided this reporting to the Commission staff. Continue to track benefit/cost ratios.
+Factors Affecting Results
+Factors affecting results are whether or not Energy Trust reports the utility and societal benefit/cost ratios.
+KPM #15e Report quarterly expenditures and variances by program, and total quarterly progress to annual goals for energy efficiency savings and renewable generation in the Q1, Q2, Q3 and Q4
+reports. - Reporting significant mid-year changes to benefit/cost performance as necessary in quarterly reports.
+* Upward Trend = positive result
+Report Year 2018 2019 2020 2021 2022
+Reporting changes in quarterly reports
+Actual 1 1 1 No Data No Data
+Target 1 1 1 1 1
+How Are We Doing
+Energy Trust is doing well on this performance measure and it regularly provides very detailed and timely quarterly reports to the Commission.
+Staff should continue to monitor quarterly reports and annual reports to make sure that no surprises show up in annual reports, and that all significant mid-year changes are reported in quarterly
+reports.
+Factors Affecting Results
+Factors affecting results are whether or not Energy Trust provides appropriate information to the Commission and Commission staff in its quarterly reports.

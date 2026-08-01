@@ -1,0 +1,238 @@
+Public Employees Retirement System, Oregon
+                        Annual Performance Progress Report
+
+                               Reporting Year 2020
+
+                         Published: 9/24/2020 11:21:51 AM
+ KPM #       Approved Key Performance Measures (KPMs)
+
+1           TIMELY RETIREMENT PAYMENTS - Percent of initial service retirements paid within 45 days from retirement date.
+2           TOTAL BENEFIT ADMIN COSTS - Total benefit administration costs per member.
+3           MEMBER TO STAFF RATIO - Ratio of members to FTE staff.
+4           ACCURATE BENEFIT CALCULATIONS - Percent of service retirement monthly benefits accurately calculated to within $5 per month.
+5           LEVEL OF PARTICIPATION - Percent of state employees participating in the deferred compensation program.
+6           CUSTOMER SERVICE - Percent of member customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+7           TIMELY BENEFIT ESTIMATES - Percent of benefit estimates processed within 30 days.
+8           BOARD OF DIRECTORS BEST PRACTICES - Percent of total best practices criteria met by the PERS board.
+
+                                                                                                                                                  red
+                                                                                                                                                  green
+                                                                                                                                                  yellow
+
+ Performance Summary                                                                                                                                    Green                                                    Yellow                                                     Red
+
+                                                                                                                                                   = Target to -5%                                       = Target -5% to -15%                                         = Target > -15%
+Summary Stats:                                                                                                                                         37.50%                                                     25%                                                      37.50%
+KPM #1           TIMELY RETIREMENT PAYMENTS - Percent of initial service retirements paid within 45 days from retirement date.
+                 Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2016                               2017                              2018                               2019                              2020
+Percent of Service Retirements Paid within 45 Days from Retirement Date
+Actual                                                                           60%                             79.40%                               65%                               77%                                62%
+Target                                                                           80%                               80%                                80%                               80%                                80%
+
+How Are We Doing
+During FY2020, PERS issued 62% of its pension benefit inceptions within 45 days of the member’s effective retirement date, a decrease from the 77% performance rate in FY2019.
+
+Factors Affecting Results
+This year’s decrease can be tied to a couple of factors that affected PERS’ speed in processing new benefit inceptions. The most significant impact was PERS' efforts to implement a major piece of
+legislation, SB1049. Implementing SB1049 is a multi-year effort that has involved bringing in many additional staff, and moving some existing staff over to the project. This has impacted
+resources available for other PERS functions, including calculating and incepting benefits. Another factor impacting performance was the effect of the COVID-19 office closures. While PERS has
+proven successful at transitioning to a workforce working mostly from home, there have been adjustments along the way that impact performance.
+KPM #2                 TOTAL BENEFIT ADMIN COSTS - Total benefit administration costs per member.
+                       Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                 actual     target
+
+  Report Year                                                                 2016                               2017                               2018                                2019                               2020
+Total Benefit Administration Costs per Member
+Actual                                                                       $150.00                            $155.00                            $145.00                            $144.00                            $172.00
+Target                                                                       $140.00                            $140.00                            $145.00                            $145.00                            $165.00
+
+How Are We Doing
+For FY2020, PERS’ cost per member is $172, up from $144 in FY2019.  In FY2020, PERS administrative costs increased significantly by 21.7% to $70.5 million, from the $57.9 million in FY2019. The
+overall membership increased by 2.2% in FY2020, to nearly 409,000 members, up from 400,000 in FY2019. The large increase in administrative cost this year is due to project costs to implement
+SB1049.
+
+Factors Affecting Results
+FY2020 total attributable administrative costs (non-inflation adjusted) are up by $12.6 million from FY2019. This represented a 21.7% increase. And with membership numbers increasing by 2.2%, the
+resulting overall cost per member increased by $28.
+
+As described in the narrative for KPM #3, part of what drives PERS’ administrative costs is the complexity of the multiple plans under Oregon PERS. This complexity makes it more difficult to
+automate some retirement functions that PERS administers, which increases the reliance on staff-intensive processes. This drives up the cost of administering PERS and thus adds to the cost per
+member measured here. But the main reason for the large increase in costs in FY2020 is the onset of SB1049 implementation. This major project has required PERS to hire staff and consultants and
+conduct extensive work on our Individual Account Program (IAP).
+KPM #3                       MEMBER TO STAFF RATIO - Ratio of members to FTE staff.
+                             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2016                               2017                              2018                               2019                               2020
+Member to Staff Ratio
+Actual                                                                            977                              1,005                              1,048                              1,071                               983
+Target                                                                            995                                995                               995                                995                               1,055
+
+How Are We Doing
+PERS’ member to staff ratio decreased to 983:1 in FY2020, down from 1,071:1 in FY2019. The staffing for FY20 increased by 12% from FY19 levels, while the membership levels are up by 2.2% this
+year. Due to a large legislative implementation project for SB1049, PERS added 37 FTE in FY2020. Because of the large staffing increase, the resulting Member to Staff ratio dropped accordingly.
+
+Factors Affecting Results
+It is important to note that PERS was observed to be the second most complex system among nearly 70 other domestic and international public retirement systems identified in the CEM
+Benchmarking, Inc. Benchmarking Analysis for 2019. This complexity is driven by PERS’ service to multiple classes of public employees, including part-time employees, the large number of retirement
+options, multiple retirement benefit calculations, and a number of other benefit add-ons. The complexity has made it difficult to provide enterprise-level, IT-based applications and solutions.
+
+The 2003 PERS Reform legislation contributed to system complexity and increased staffing by adding two new retirement programs (OPSRP and IAP). PERS grew to an agency of 420 positions in FY
+03-05 when the reform legislation implementation began and many permanent and limited duration staff were added. PERS’ Legislatively Approved Budget for 2017-19 included staffing of 377
+positions (373.31 FTE), a decrease of 43 positions (10 percent) from the FY 03-05 peak staffing. But with the onset of the SB1049 implementation, PERS’ Legislatively Approved Budget for 2019-21
+includes increased staffing to 417 positions (415.72 FTE). The Member to Staff Ratio measurement will remain significantly impacted during the course of SB1049 implementation.
+KPM #4        ACCURATE BENEFIT CALCULATIONS - Percent of service retirement monthly benefits accurately calculated to within $5 per month.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2016                              2017                               2018                              2019                              2020
+Percent of service retirement monthly benefits accurately calculated within $5 per month
+Actual                                                                          95%                               97%                              100%                             98.30%                              100%
+Target                                                                         100%                              100%                              100%                               100%                              100%
+
+How Are We Doing
+In FY2020, initial service retirement benefit calculations were accurate to within $5 per month for 100% of the calculations included in the annual random sample audit. The performance increased by
+2% in FY2020, improved from 98% in FY2019. There were no errors found in the annual random sample of 60 benefits.
+
+Factors Affecting Results
+PERS places a high value on calculating benefits correctly the first time. Our Operations Division continues to perform monthly quality assurance samplings of various calculations. The error rate of
+these quality assurance monthly audits hovered near 0% for 2020.
+KPM #5            LEVEL OF PARTICIPATION - Percent of state employees participating in the deferred compensation program.
+                  Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual      target
+
+  Report Year                                                                    2016                               2017                               2018                                2019                               2020
+Percent of State Employees Participating in the Deferred Compensation Program
+Actual                                                                            39%                                40%                                42%                                41%                                37%
+Target                                                                            38%                                38%                                50%                                50%                                45%
+
+How Are We Doing
+State government employee participation in OSGP decreased to 36.6% in FY2020, down from 41.2% in FY2019. Due to more reliable data that we are now receiving from DAS on the volume of
+eligible state employees, we feel the measurement this year represents much more accurate data than in past years.
+
+Factors Affecting Results
+While the participation has been increased by 1% annually over the previous few years, achieving participation into the higher 40% range is highly unlikely due to this being an optional benefit
+program. With a large number of employees eligible to retire, an ambitious but achievable goal would be to reach and maintain a participation level in the low to mid 40% range. Considering a national
+average participation rate of 26% among similar deferred compensation plans, a target in the low/mid 40% range still puts OSGP well ahead of its peers. During the 2019-21 budget cycle, we were
+assigned 45% for FY2020 and 50% for FY2021.Based on more accurate data from DAS regarding the volume of eligible state employees, the reflected value is lower than in past years and may
+necessitate lower targets in the future.
+
+Because OSGP is voluntary for state employees, to have both a relatively high rate of penetration and increasing average monthly deferrals reflects that the Deferred Compensation program is both
+well-known and represents an important retirement savings tool for many state employees. Despite this, there are other factors that potentially limit the participation rates. There are a large number of
+employees who are eligible to retire in the near future. Many of these retirees will withdraw their OSGP accounts or roll them into other retirement accounts and the demographics of their replacements
+(normally younger and lower paid) will create a challenge for increasing participation rates. To help increase participation, OSGP has begun sponsoring an annual retirement expo each fall, which has
+resulted in increased enrollments. This expo has even been recognized by groups nationally that want to mirror these efforts.
+KPM #6   CUSTOMER SERVICE - Percent of member customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+         helpfulness, expertise and availability of information.
+         Data Collection Period: Jul 01 - Jun 30
+
+                                                                        actual    target
+
+ Report Year                                                           2016                          2017                           2018                           2019                          2020
+Helpfulness
+Actual                                                                 92%                            87%                           91%                            87%                            89%
+Target                                                                 95%                            95%                           95%                            95%                            95%
+Overall
+Actual                                                                 92%                            87%                           91%                            87%                            89%
+Target                                                                 95%                            95%                           95%                            95%                            95%
+Availability of Information
+Actual                                                                 90%                            83%                           88%                            80%                            86%
+Target                                                                 95%                            95%                           95%                            95%                            95%
+Timeliness
+Actual                                                                 92%                            86%                           90%                            86%                            89%
+Target                                                                 95%                            95%                           95%                            95%                            95%
+Accuracy
+Actual                                                                 91%                            87%                           91%                            88%                            90%
+Target                                                                 95%                            95%                           95%                            95%                            95%
+Expertise
+Actual                                                                 93%                            89%                           92%                            88%                            90%
+Target                                                                 95%                            95%                           95%                            95%                            95%
+
+How Are We Doing
+For the FY2020 member survey, PERS received improved ratings from the 2019 levels in all categories. Members rated PERS between 86% and 90% “good” or “excellent”, with 89% of members
+rating PERS overall service as good or excellent. Members rated PERS highest in Accuracy and Expertise (both 90%) and lowest in Availability of Information (86%).
+
+In the FY2020 employer survey, the results also reflected improved ratings in every category. Employers rated PERS between 80% and 92% “good” or “excellent,” with 89% of employers rating PERS
+overall service as excellent or good. Employers rated PERS highest in Helpfulness (92%) and lowest in Availability of Information (80%).
+
+Factors Affecting Results
+PERS continues to keep customer service and satisfaction as a major focus in its agency strategies and staff efforts. Member-oriented services such as the one-on-one retirement application
+assistance program continue to be very successful. PERS has also continued to offer workshops and presentations with individual employers and groups beyond the usual outreach presentations.
+This effort, along with continued success in its employer advocate program and other training efforts, have helped to bolster customer service to employers. In this year’s survey, members listed
+legislative/economic and communication/education as areas of concern, and employers listed training/education and customer service as areas of needed improvement.
+
+For members, PERS is working hard to communicate clearly about all issues that may impact service and administration of their benefits. While PERS cannot take any stances regarding proposed or
+passed legislation, we do our best to keep members informed about potential impacts.
+
+For the Employers, PERS is working hard to reach out to our employer contacts and offering training and education opportunities. The COVID 19 restrictions and closures did impact our ability to do
+onsite reviews and trainings in the last part of the fiscal year, but PERS is working hard to provide as much training and service as we possibly can in a remote working environment.
+KPM #7               TIMELY BENEFIT ESTIMATES - Percent of benefit estimates processed within 30 days.
+                     Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2016                               2017                              2018                               2019                               2020
+Percent of Benefit Estimates Processed within 30 Days
+Actual                                                                           56%                               52%                                34%                                75%                               63%
+Target                                                                           95%                               95%                                95%                                95%                               95%
+
+How Are We Doing
+For FY2020, PERS provided member benefit estimates within 30 days 63% of the time. This is a decrease from the FY2019 performance of 75%. Despite the decrease, the 63% performance still
+rates as the second-highest over the last 5 years. This is remarkable considering some of the challenges faced in 2020 (SB1049 implementation work and COVID-19 impacts).
+
+Factors Affecting Results
+As with some of our other operational functions (and as described for KPM #1), PERS’ ability to process Benefit Estimates was impacted by several factors in FY2020. The most significant of these
+factors was PERS’ efforts to implement a major piece of legislation, SB1049. Implementing SB1049 is a multi-year effort that has involved hiring additional staff and resources, and moving some
+existing staff over to the project. This has impacted staff available for other PERS functions, including preparing benefit estimates. Another factor impacting performance was the effect of the COVID-
+19 office closures. While PERS has proven successful at transitioning to a workforce working mostly from home, there have been adjustments during this transition that impact our performance.
+KPM #8            BOARD OF DIRECTORS BEST PRACTICES - Percent of total best practices criteria met by the PERS board.
+                  Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                    2016                                2017                               2018                               2019                               2020
+Metric Value
+Actual                                                                           100%                               100%                                100%                               100%                               100%
+Target                                                                           100%                               100%                                100%                               100%                               100%
+
+How Are We Doing
+The PERS Board completed the self-assessment survey process for the 2019-21 biennium using the online SurveyMonkey.com tool in November 2019.  Continuing the approach used in previous
+biennia, the Board assessed their 2019-21 performance in three categories:  fully meets, meets but needs improvement, or does not meet.  For KPM purposes, the Board concluded that the “meets
+but needs improvement” and the “meets” responses would be rated as a “yes,” or favorable rating for this KPM.  The results of the survey showed a majority favorable rating for each of the 15 criteria.
+There was one criterion, “The Board reviews its management practices to ensure best practices are utilized” that received a single “Does not meet” vote. There were three votes for “Meets”, so the
+result is a success for this criterion, while there will need to be some discussion and action taken to address this.
+
+Factors Affecting Results
+The PERS Board recognizes the importance of providing strategic guidance, budget and financial control, customer service emphasis, regular communications with stakeholders, and maintaining
+agency focus on cost effective and efficient operations.  This emphasis has resulted in increased attention at the staff level on organizational structure and operational best practices, which takes on
+increasing importance in periods of economic stress.  The Board and agency management will continue to support this best practices focus through their activities and discussions at Board and Audit
+Committee meetings. And in response to the current self-evaluation, more attention and effort will be placed on ensuring the PERS Board takes every step to review management practices and utilize
+industry best practices as much as possible.
+
+While the PERS Board did realize a majority favorable rating on 100% of the 15 criteria for the 2019-21 biennium, there were seven of the criteria that received a single vote of “Meets but needs
+improvement”. The PERS Board will work to maintain and enhance their overall performance on these best practices criteria whenever possible.  PERS staff can assist the Board in this endeavor by
+ensuring there are opportunities to review the director’s performance, that all budget requests get presented at Board meetings, and by communicating and sharing training opportunities with the
+Board on topics such as governance and benefit administration. The Board Chair will work with the Executive Director to identify specific areas of improvement and possible courses of action to make
+those improvements.  At the same time, the Board will continue to focus on their full range of governance responsibilities and implementation all the identified Board best practices.

@@ -1,0 +1,193 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-district-attorney-2020-09-29
+title: District Attorneys and Their Deputies — Annual Performance Progress Report, Reporting Year 2020
+doc_type: performance_report
+citation: APPR DISTRICT-ATTORNEYS-AND-T 2020
+authority_level: agency_report
+issuing_body: District Attorneys and Their Deputies
+agency: District Attorneys and Their Deputies
+agency_code: null
+reporting_year: '2020'
+year_source: document
+text_source: pdf-text
+filename_year: '2020'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_District%20Attorney_2020-09-29.pdf
+source_filename: APPR_District Attorney_2020-09-29.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5c65247232ac983e0d72cc77daf94bf634a2f0d3b742decfb355b0f62ed7fd80
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2020
+---
+
+## At a glance
+
+**APPR DISTRICT-ATTORNEYS-AND-T 2020** — District Attorneys and Their Deputies, Reporting Year 2020
+
+- Agency: District Attorneys and Their Deputies
+- Reporting year: 2020 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_District Attorney_2020-09-29.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+District Attorneys and Their Deputies
+Annual Performance Progress Report
+Reporting Year 2020
+Published: 9/29/2020 1:29:08 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+Child Support Collections
+- Percentage of current child support collected relative to total child support owed.
+Services to Victims
+- Percentage of adult criminal cases where the named victim(s) are provided "prompt notice" of their rights as crime victims.
+Early and Special Resolution Programs
+- Percentage of District Attorney offices resolving cases through early and special resolution, number of cases resolved.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+33.33%
+66.67%
+0%
+red
+green
+yellow
+KPM #1
+Child Support Collections
+- Percentage of current child support collected relative to total child support owed.
+Data Collection Period: Oct 01
+- Sep 30
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Percentage of current child support collected relative to total child support owed
+Actual
+78.20%
+77.69%
+78.28%
+74.98%
+77%
+Target
+80%
+80%
+80%
+85%
+85%
+How Are We Doing
+This KPM is on a federal fiscal year basis.  Actual data for the KPM will not be available until November 2020.  For reporting purposes, estimated data is being used and will be updated in November.
+Factors Affecting Results
+The amount collected depends in part on the effectiveness and efficiency of the tools available under state and federal law to collect from non-custodial parents who are able but unwilling to meet their
+obligations.  This measure also depends on court ordered amounts being set at a level that allows non-custodial parents to pay the full amount each month.  In order to receive full credit for a
+collection on current support due, the entire monthly court-ordered amount must be received.  The number of non-custodial parents paying on support may increase, but this measure only increases if
+the amount of money collected increases.  Economic factors impact this measure as lower incomes make collections more difficult and higher incomes make collecting easier.  The Program's
+effectiveness in collecting funds from non-custodial parents who have the ability to pay depends to a great extent on the resources invested to carry out collection activities.  Timing of payments is also
+a factor.  Payments received even one day into the following month do not count as a current support payment in the month the payment was due.  Therefore, individuals on a 26 paycheck cycle
+(every other week) have months where the final payment on COA comes after the end of the month.  The individual may be current on support payments at the end of the year, but the collections on
+current will not reach 100%.
+KPM #2
+Services to Victims
+- Percentage of adult criminal cases where the named victim(s) are provided "prompt notice" of their rights as crime victims.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+% of cases where victim was provided notice of victims' rights w/in 5 business days of defendant's arraignment
+Actual
+97%
+98%
+98%
+97%
+95%
+Target
+95%
+95%
+95%
+100%
+100%
+How Are We Doing
+Our performance for the state fiscal year ending June 30, 2020 was 95% (35 of 36 counties responding to survey). Since the addition of the victims' rights enforcement provisions in the Oregon
+Constitution in 2008, the District Attorneys have been changing their practices to ensure a better response rate for this measure. Of all the groups providing services to victims, only District Attorneys
+are responsible for the Constitutional rights of victims. District Attorneys' offices have varying practices of delivering prompt notice, due to size and county resource capabilities. D.A. offices are
+experimenting with different ways and times to provide this notice. Many District Attorney offices give victims of felonies the required information on Grand Jury day. Most counties rely on mailing or
+emailing notices to victims of misdemeanors within five days of arraignment, which aligns with the time period required by Grand Jury. Other smaller counties rely on phoning each victim or notifying
+the victims in person.
+Factors Affecting Results
+While the compliance rate for this measure is high, the number of victims notified is affected by factors that are common to all programs that provide services to a diverse population. First, victims may
+be difficult to locate because: 1) They don't want law enforcement contact because they are aligned with the suspect or are wanted themselves; 2) They are afraid for their safety; 3) There is
+incomplete or incorrect contact information for the victims; and 4) Logistical and budgetary restrictions. Multnomah and Marion counties, for example, have automated systems which send rights letters
+out in the appropriate time period and those systems make tracking this measure much easier. Several other counties across the state have switched to automated, email based systems to increase
+their ability to track these notifications. Some counties still call or write each victim individually or provide the information to victims when they appear for Grand Jury.  Depending on the size and
+available technology of each county office, the ability to track this information can either be simple or onerous. This lack of uniformity impacts the net results.
+KPM #3
+Early and Special Resolution Programs
+- Percentage of District Attorney offices resolving cases through early and special resolution, number of cases resolved.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Percentage of District Attorney Offices resolving cases through early resolution and specialty courts
+Actual
+89%
+90%
+93%
+93%
+83%
+Target
+92%
+92%
+92%
+95%
+95%
+How Are We Doing
+In Fiscal Year 2020, 30 of 36 counties surveyed (83%), reported having early or special resolution programs or courts.  10 counties reported either adding new programs or starting their first program.
+A National Institute of Justice report determined that drug court participants were less likely to test positive for drug use, had fewer arrests, reported less criminal activity, and experienced less
+recidivism.  Incarceration of drug-using offenders costs county taxpayers and appropriately $21,000 per person per year, according to figures from Douglas County Corrections.  In contrast the Drug
+Court treatment program costs approximately $2,500 per offender.  Recidivism rates are dramatically reduced through the Drug Court treatment program, thus resulting in lowering crime and building
+safer communities while saving tax dollars.  Types of specialty courts operating during Fiscal Year 2020 include the following: Family Drug, Adult Drug/Treatment, Juvenile Drug, Women's Recovery,
+Mental Health, Domestic Violence, DUII, Veteran's, Restitution, Downward Dispositional Departure and Family Dependency.  Statewide, drug courts are the most prevalent type of specialty court with
+Mental Health courts being the second most prevalent.
+Factors Affecting Results
+The two main factors that affect a greater result in this performance measure are the lack of participation by one or more of the necessary justice system participants and the lack of financial and/or
+staff support to expand these courts.  Available court/judge time is beginning to become a problem in some counties.  Finally, small counties have difficulty maintaining a caseload that justifies the cost
+and time necessary to operate a specialty court.

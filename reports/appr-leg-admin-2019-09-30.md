@@ -1,0 +1,311 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-leg-admin-2019-09-30
+title: Legislative Administration — Annual Performance Progress Report, Reporting Year 2019
+doc_type: performance_report
+citation: APPR LEGISLATIVE-ADMINISTRATI 2019
+authority_level: agency_report
+issuing_body: Legislative Administration
+agency: Legislative Administration
+agency_code: null
+reporting_year: '2019'
+year_source: document
+text_source: pdf-text
+filename_year: '2019'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_LEG%20ADMIN_2019-09-30.pdf
+source_filename: APPR_LEG ADMIN_2019-09-30.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8f1a41a1e54201005cc5cc0625fde4702e7bb51cd0313fd58b64870fca20c414
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2019
+---
+
+## At a glance
+
+**APPR LEGISLATIVE-ADMINISTRATI 2019** — Legislative Administration, Reporting Year 2019
+
+- Agency: Legislative Administration
+- Reporting year: 2019 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_LEG ADMIN_2019-09-30.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Legislative Administration
+Annual Performance Progress Report
+Reporting Year 2019
+Published: 9/30/2019 8:17:21 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+CUSTOMER SERVICE
+- The percentage of customers rating their satisfaction with the agency’s customer service as "good" or "excellent" overall, timeliness, accuracy, helpfulness, expertise, information available.
+IT CUSTOMERS
+- The percentage of customers rating overall satisfaction with problem solution as above average or excellent.
+WEB-SITE - The percentage approval rating of web-site users.
+DIVERSITY
+- Racial/ethnic diversity in Legislative Administration as compared to the total State's diversity.
+TURNOVER
+- Annual voluntary turnover rate of the Legislative Administration continuing workforce.
+GOLD STAR CERTIFICATE
+- Number of years out of last five that Financial Services earns State Controller's Division Gold Star Certificate for the Legislative agencies it serves.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+66.67%
+16.67%
+16.67%
+red
+green
+yellow
+KPM #1
+CUSTOMER SERVICE
+- The percentage of customers rating their satisfaction with the agency’s customer service as "good" or "excellent" overall, timeliness, accuracy, helpfulness,
+expertise, information available.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2015
+2016
+2017
+2018
+2019
+Timeliness
+Actual
+86%
+94%
+96%
+94%
+94%
+Target
+90%
+90%
+90%
+90%
+90%
+Expertise
+Actual
+86%
+93%
+92%
+92%
+94%
+Target
+90%
+90%
+90%
+90%
+90%
+Overall
+Actual
+86%
+93%
+93%
+92%
+93%
+Target
+90%
+90%
+90%
+90%
+90%
+Helpfulness
+Actual
+89%
+96%
+96%
+92%
+97%
+Target
+90%
+90%
+90%
+90%
+90%
+Accuracy
+Actual
+87%
+94%
+92%
+93%
+95%
+Target
+90%
+90%
+90%
+90%
+90%
+Availability of Information
+Actual
+80%
+88%
+91%
+87%
+84%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+Overall customer service continues to be stable and above the target. The one category that has fallen is availability of information.
+With only 90 possible responses the scores can easily be skewed from one year to another depending on whether or not a member responds. The quantity of reponses have been generally
+declining.
+KPM #2
+IT CUSTOMERS
+- The percentage of customers rating overall satisfaction with problem solution as above average or excellent.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+User satisfaction with IT problem resolution
+Actual
+97%
+97%
+96%
+97%
+98%
+Target
+95%
+95%
+95%
+95%
+97%
+How Are We Doing
+Satisfaction continues to be high and stable with a slight uptick from 2018. The target was increased for 2019 renewing the focus on problem resolution.
+Information Services focuses heavily on continual improvements and the unique requirements of Legislative processes.
+KPM #3
+WEB-SITE - The percentage approval rating of web-site users.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Percentage approval rating of web site users
+Actual
+80%
+82%
+78%
+83%
+75%
+Target
+80%
+80%
+80%
+80%
+85%
+How Are We Doing
+Web-site users showed a lower approval rating. The target was increased making the target hard reach.
+The number of respondents fell creating a larger fluctuation in the results and the ratings often include comments relating the Legislative satisfaction and not the users experience with the web site.
+KPM #4
+DIVERSITY
+- Racial/ethnic diversity in Legislative Administration as compared to the total State's diversity.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Workforce diversity representation
+Actual
+135%
+119%
+89%
+117%
+165%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+Currently the agency is at 20.6% which is notably above the goal of 12.5%.
+Employees are not required to provide a response and may not fully represent the agency's diversity rate.
+KPM #5
+TURNOVER
+- Annual voluntary turnover rate of the Legislative Administration continuing workforce.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Annual turnover due to voluntary resignation
+Actual
+12.60%
+16.48%
+11.11%
+6.33%
+8.11%
+Target
+20%
+20%
+20%
+20%
+20%
+How Are We Doing
+Voluntary turnover remains under the target.
+With relatively stable private and governmental opportunities the rate is not expected to change significantly.
+KPM #6
+GOLD STAR CERTIFICATE
+- Number of years out of last five that Financial Services earns State Controller's Division Gold Star Certificate for the Legislative agencies it serves.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Number of years of last five that Financial Services has received Gold Star Certificate
+Actual
+No Data
+Target
+How Are We Doing
+Financial Services has recieved five gold stars for all but one of the past five years, but will take another year of recieving five gold stars to be back at the target of five. Stars are not issued until
+February of each year and 2019's stars won't be issued until February 2020.
+Complexity of accounting transactions and reporting fluctuate signficantly depending on the quantity of investments and activities of the Legislative branch.

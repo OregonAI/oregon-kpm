@@ -1,0 +1,51 @@
+.venv/
+__pycache__/
+
+# Written by the MCP framework itself at runtime (the FTS index). Copying a host-built one
+# in would ship an index whose cache key does not match this image's HEAD, so it would be
+# discarded and rebuilt on the first request anyway.
+_meta/.cache/
+
+# Generated at deploy time by the pages workflow; never needed at runtime.
+site/
+
+# THE REASON THIS FILE EXISTS AT ALL, and why it is worth having before there is a
+# Dockerfile to pair it with.
+#
+# This corpus is snapshot_policy: hash-only -- `_meta/snapshots/*.pdf` is gitignored and
+# never committed (789 sources, 1.2 GB). So a build from a shallow clone, which is what the
+# platform's Dockerfiles instruct, cannot see the PDFs and needs no rule to exclude them.
+#
+# A build from THIS WORKING TREE can, and would: `COPY . .` does not consult .gitignore. It
+# reads the build context, and the context here holds the full 1.2 GB. That is the specific
+# accident this file prevents -- the one an ingest run leaves loaded and ready.
+#
+# The committed .txt extractions go too, and unlike the PDFs that needs justifying rather
+# than assuming. They are the provenance evidence corpus-verify-provenance checks the
+# `## Full text` body against, and they are what source_sha256 hashes. Verified for THIS
+# corpus, not inherited from a sibling: the only readers under src/ are build_series.py and
+# ingest_kpm.py, both offline; src/citation_schemes.py -- the one plugin the server loads,
+# per plugins.citation_module -- does not reference snapshots at all; and there is no
+# reference to snapshots anywhere under corpus_toolkit/mcp/.
+#
+# federal-reference is the counter-example that makes the check mandatory rather than
+# ceremonial: there, src/citation_schemes.py reads a snapshot .txt AT IMPORT, so excluding
+# this directory raised FileNotFoundError before the server answered a single request. The
+# rule is not "snapshots are never runtime" -- it is "confirm which files the citation
+# module opens, per corpus."
+#
+# Consequence, stated so it is not a surprise: `corpus-verify-provenance` cannot run INSIDE
+# the container. It is a CI gate and belongs there; run it against a checkout, not an image.
+_meta/snapshots/
+
+# NOTE: .git is deliberately NOT ignored -- it is a RUNTIME dependency. The FTS cache key is
+# `git rev-parse HEAD` plus a hash of `git status --porcelain`, and corpus_overview() shells
+# out to `git log -1`. Without it repo_state() collapses to a constant, so content changes
+# are never picked up for the life of the process and corpus_overview reports an empty
+# commit -- silently, in both cases. Build from a depth-1 clone to keep it small.
+#
+# Cheap here, unlike next door: this corpus commits no PDFs, so its blobs are markdown and
+# text. executive-regulatory-frameworks commits 218 MB of PDFs and therefore carries them in
+# /repo/.git even though this same rule excludes them from the working tree -- a cost that
+# excluding _meta/snapshots/ does not touch. Nothing to inherit here; just do not add PDFs
+# to the repo later and assume this file still covers them.

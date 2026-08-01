@@ -1,0 +1,855 @@
+Human Services, Department of
+            Annual Performance Progress Report
+                    Reporting Year 2019
+              Published: 10/7/2019 10:03:53 AM
+KPM #       Approved Key Performance Measures (KPMs)
+1          OLDER ADULTS NEEDING LONG TERM CARE SERVICES (APD) - The percentage of older adults (65+) needing publicly-funded long term care services
+2          LONG TERM CARE RECIPIENTS LIVING OUTSIDE OF NURSING FACILITIES (APD) - The percentage of Oregonians accessing publicly-funded long-term care services w ho are living outside of nursing facilities
+3          TIMELY APD ABUSE INVESTIGATIONS - The percentage of abuse reports assigned for field contact that meet policy timelines
+4          ABSENCE OF REPEAT MALTREATMENT OF ABUSED/NEGLECTED CHILDREN (CW) - The percentage of abused/neglected children w ho w ere not subsequently victimized w ithin 6 months of prior victimization
+5          TIMELY REUNIFICATION OF FOSTER CHILDREN (CW) - The percentage of foster children exiting to reunification w ithin 12 months of foster care entry
+6          TIMELY ADOPTION ONCE CHILDREN ARE LEGALLY FREE (CW) - The percentage of legally free children adopted in less than 12 months
+7          DISPARITY OF FOSTER YOUTH ACHIEVING PERMANENCY (CW) - The disparity in foster youth achieving permanency w ith 2 years by race/ethnicity
+8          CHILDREN SERVED BY CHILD WELFARE RESIDING IN PARENTAL HOME - The percentage of children served in Child Welfare on an average daily basis (in home and foster care) w ho w ere served w hile residing in their parent’s home
+9          TIMELY ELIGIBILITY DETERMINATION FOR ODDS SERVICES - The percentage of individuals w ho apply for ODDS services w ho are determined eligible w ithin 90 days from application
+10         ADULTS ENROLLED IN ODDS PROGRAM RECEIVING IN-HOME SERVICES - The percentage of adults enrolled in the Intellectual/Developmental Disabilities program w ho are receiving services in their ow n home, including family home
+11         SUPPORTED EMPLOYMENT SERVICES TO OBTAIN COMPETITIVE INTEGRATED EMPLOYMENT - Number of individuals in sheltered w orkshop target population receiving supported and/or related employment services from ODDS and VR w ho obtain
+           competitive integrated employment
+12         ABUSE/NEGLECT OF ADULTS WITH DEVELOPMENTAL DISABILITIES (ODDS) - The percentage of substantiated abuse/neglect of adults in licensed and endorsed programs
+13         HOUSEHOLDS AT, OR ABOVE, LIVING WAGE FOUR QUARTERS AFTER LEAVING SSP PROGRAM - The median percentage of households leaving Self Sufficiency w ho are at, or above, a living w age four quarters out
+14         SSP PARTICIPANTS REPORTING HOUSING STABILITY - The percentage of Self Sufficiency participants w ho report their housing needs are fully met
+15         SSP PARTICIPANTS REPORTING FOOD SECURITY - The percentage of Self Sufficiency participants w ho report they did not w orry about having enough food, or actually run out of food, in the past 12 months
+16         SSP PARTICIPANTS REPORTING GREATER SELF-EFFICACY - The percentage of Self Sufficiency participants w ho report they feel more confident in their ability to improve their current circumstances because of SSP and other services they w ere
+           connected to
+17         OVRS CONSUMERS WHO ARE SUCCESSFULLY EMPLOYED AT PROGRAM EXIT - The percentage of Office of Vocational Rehabilitation Services (OVRS) consumers w ith a goal of employment w ho are employed at program exit
+18         OVRS CONSUMERS EMPLOYED IN SECOND QUARTER FOLLOWING PROGRAM EXIT - The percentage of OVRS clients closed from plan w ho are employed during second quarter follow ing program exit
+19         OVRS CONSUMERS EMPLOYED IN FOURTH QUARTER FOLLOWING PROGRAM EXIT - The percentage of OVRS clients closed from plan w ho are employed during fourth quarter follow ing program exit
+20         OVRS MEDIAN QUARTERLY WAGE AT SECOND QUARTER FOLLOWING PROGRAM EXIT - Median quarterly w age at second quarter follow ing OVRS program exit
+21         DHS CUSTOMER SATISFACTION - The percentage of customers rating their satisfaction w ith DHS above average, or excellent
+                                                                                                                       red
+                                                                                                                       green
+                                                                                                                       yellow
+
+ Performance Summary                                                                                                     Green                                          Yellow                                           Red
+
+                                                                                                                      = Target to -5%                             = Target -5% to -15%                              = Target > -15%
+Summary Stats:                                                                                                           57.14%                                         23.81%                                          19.05%
+KPM #1      OLDER ADULTS NEEDING LONG TERM CARE SERVICES (APD) - The percentage of older adults (65+) needing publicly-funded long term care services
+            Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                 2015                             2016                              2017                             2018                              2019
+LTC NEED PREVENTION
+Actual                                                                         3.07%                             3.09%                            3.12%                             3.05%                            2.95%
+Target                                                                           5%                                5%                             3.10%                             3.10%                            3.08%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 10 to 1 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+In 2019, only 2.95% of Oregonians 65 or older needed assistance with publicly funded long term care. This is a noticeable downward trend that exceeds legislative targets.
+Factors Affecting Results
+Oregon has adopted the Community First Choice Model, also known as the K Plan.  This is a big driver in these results as the K Plan has numerous tools that are designed to keep people
+independent.  Additionally, the success of the AAA network administering Oregon Project Independence, Older Americans Act programs and the Aging and Disability Resource Connection
+contribute towards keeping older adults independent.  More preventative programs should be considered to ensure targets continue to be met, ultimately resulting in system sustainability.
+KPM #2     LONG TERM CARE RECIPIENTS LIVING OUTSIDE OF NURSING FACILITIES (APD) - The percentage of Oregonians accessing publicly-funded long-term care services who are living
+           outside of nursing facilities
+           Data Collection Period: Jul 01 - Jul 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                  2015                              2016                               2017                              2018                               2019
+LTC RECIPIENTS LIVING OUTSIDE OF NURSING FACILITIES
+Actual                                                                          86.10%                            86.90%                            87.20%                             87.40%                            87.20%
+Target                                                                          85.96%                            85.96%                              87%                                88%                               89%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 11 to 2 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+APD has begun to fall behind the goals established.  Recent programmatic changes designed to promote sustainability have resulted in increased acuity levels of individuals served.  As a result,
+continued progress towards decreasing the number of individuals served outside of nursing facilities will be challenging.
+
+Factors Affecting Results
+Hospitals continue to discharge patients “sicker and quicker.”  In many cases, hospitals prefer to discharge older adults needing additional care to nursing facilities.  Institutional care may be
+appropriate for certain individuals for short periods of time.  DHS must continue to aggressively ensure that seniors are appropriately transitioned from nursing facilities when their care can be
+supported in less restrictive and costly settings.  Doing this will allow DHS to continue meeting our targets. APD also needs to focus efforts on developing new adult foster homes and preserving our
+existing provider base.
+KPM #3         TIMELY APD ABUSE INVESTIGATIONS - The percentage of abuse reports assigned for field contact that meet policy timelines
+               Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                  2015                               2016                               2017                              2018                              2019
+Abuse  Inv e stigation Time line ss
+Actual                                                                          No Data                            No Data                            97.70%                            97.82%                            96.70%
+Target                                                                            TBD                                TBD                                TBD                               95%                               95%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 16 to 3 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+Response to Abuse Allegations continues to occur at a rate higher than the target of 95%.
+Factors Affecting Results
+This measure includes a wide variety of assigned response times.  APS Community Investigations have response times of same day, end of next business day, or within 5 business days.  APS
+Facility Investigations have response times of same day and end of next business day.  During this reporting period, there were 11,229 APS investigations.  Of the 11,229 APS investigations, 99.8%
+were responded to within their assigned response time.
+
+Also included in this measure are Nursing Facility Investigations completed by the Nursing Facility Survey Unit within Safety, Oversight and Quality.  NF investigations have assigned timelines of two
+days or ten days.  During this reporting period there were 508 Nursing Facility Investigations. Of the 508 Nursing Facility Investigations, 31.3% were responded to within their assigned response
+time.
+KPM #4     ABSENCE OF REPEAT MALTREATMENT OF ABUSED/NEGLECTED CHILDREN (CW) - The percentage of abused/neglected children who were not subsequently victimized within 6
+           months of prior victimization
+           Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                   2015                              2016                              2017                              2018                               2019
+ABSENCE OF REPEAT CHILD M ALTREATM ENT
+Actual                                                                            95%                             94.60%                             93.87%                              92%                             93.20%
+Target                                                                            96%                               96%                                96%                               96%                               97%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 7 to 4 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+The outcome of 93.2% is Federal Fiscal Year 2018 data, for Report Year 2019. While Oregon still falls short of the 97% target, much work is happening around efforts to improve this child safety
+outcome.  Oregon continues its commitment to not only ensure the number remains consistent moving forward, but to make continued efforts to improve. The Child Safety Program consultants
+continue focused efforts on districts in Oregon who have sustained a high rate of recurrence of abuse. Cases with recurrence are reviewed monthly and in-depth information is shared with district
+leadership on a quarterly basis, including developing actions that need to be taken to improve this child safety outcome. There has been a positive shift in district leadership leading efforts in
+partnership with program consultants to decrease recurrence.  One rural district has implemented joint Child Welfare and Self-Sufficiency case staffings to collaborate and discuss sustainability of
+child safety through service coordination on cases where maltreatment has occurred.  This has resulted in cultivating community responses to prevent further child maltreatment. This district has
+subsequently seen a significant decline in recurrence of abuse.  In other districts throughout the state, leadership is requiring group supervision on cases where a new maltreatment report is
+received following a previous founded maltreatment report to comprehensively assess and determine child safety. Child Safety Program provides training on correctly identifying dispositions which is
+vital for new CPS workers to ensure dispositions are in line with Oregon Administrative Rule.  Child Safety Program is also reviewing CFSR debrief results for Safety Outcomes (#3) Risk and
+Management to develop a comprehensive plan around improving this measurement.
+Factors Affecting Results
+Multiple factors impact this measurement. There are notable aberrations, particularly in branches where due to small populations one case may dramatically skew data metrics. An additional area of
+practice impacting recurrence are assessments completed through a practice lens of disposition and legal sufficiency rather than comprehensive child safety.  Ongoing training efforts on Oregon’s
+safety model is necessary for our legal representatives and judicial partners to ensure legal interventions occur when necessary and reunification occurs when conditions for return have been met.
+In some cases with recurrence, children are returned home against the Department’s recommendation and this has resulted in a subsequent report of child abuse.
+
+Finally, some recurrence data is reflective of inaccurate documentation or duplication of founded dispositions.  Cases resulting in recurrence of maltreatment frequently involve domestic violence
+and chronic neglect in root cause analysis.
+
+The Department recognizes improving child safety by reducing the recurrence of child maltreatment cannot be achieved through one mechanism.  Integration of four essential components including:
+hiring of additional staff including case workers and supervisors; immediate onboarding and training of supervisors; concentrating efforts to increase staff retention; and cross program collaboration
+and service delivery will provide a multisystem approach offering better outcomes.
+KPM #5       TIMELY REUNIFICATION OF FOSTER CHILDREN (CW) - The percentage of foster children exiting to reunification within 12 months of foster care entry
+             Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                  actual      target
+
+  Re port Ye ar                                                                   2015                               2016                               2017                              2018                               2019
+Time ly Re unification
+Actual                                                                           62.90%                             66.10%                            73.70%                             71.60%                             71.90%
+Target                                                                             66%                              70.60%                            75.20%                               75%                                76%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 8 to 5 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+Over the past year, Oregon’s performance in this measure has remained stable, while trending up over the last five years overall.
+Factors Affecting Results
+There are multiple factors- internal and external to the agency- that affect performance in this measure. Services available in the community to support families while children are served in home
+after reunifying vary greatly by county across the state. Additionally, the court’s oversight in this area of practice varies, and effects this measure. Internally, the agency is hiring and training
+additional workforce, and still struggling with retention of caseworkers. Multiple workers on a case negatively impact this measure.
+
+The passage of Family First, community efforts focused on timely reunification, and focused consulting in the field across Oregon should positively impact this measure.
+KPM #6        TIMELY ADOPTION ONCE CHILDREN ARE LEGALLY FREE (CW) - The percentage of legally free children adopted in less than 12 months
+              Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                 2015                              2016                              2017                              2018                              2019
+Time line ss of Adoption Once  Le gally Fre e
+Actual                                                                         44.30%                            46.10%                            48.50%                            42.10%                           43.70%
+Target                                                                         42.70%                            48.20%                            53.70%                            53.70%                             54%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 9 to 6 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+In 2019, Oregon has improved performance in this measure from last year by 1.6%.
+Factors Affecting Results
+The work of finalizing adoption within 12 months of a child being legally freed is a workload that rests solely on the agency. For caseworkers who have many tasks on any given day that may include
+managing multiple crises, this work may be prioritized lower and thus takes longer to accomplish. Via the Performance Improvement Plan, Oregon focused on strategies to improve this measure by
+centralizing processes whenever possible and providing technical assistance to caseworkers managing cases where children are legally free and pending adoption finalization.
+
+The efforts of the Performance Improvement Plan will continue through the next year, along with focused delivery of data to appropriate field management and staff. Performance in this measure
+should continue to improve.
+KPM #7      DISPARITY OF FOSTER YOUTH ACHIEVING PERMANENCY (CW) - The disparity in foster youth achieving permanency with 2 years by race/ethnicity
+            Data Collection Period: Oct 01 - Sep 30
+
+                                                                             actual    target
+
+  Re port Ye ar                                                             2015                              2016                            2017                            2018                             2019
+Disparity of Non-Hispanic African Ame rican Youth
+Actual                                                                     No Data                          No Data                            0.80                            0.70                            0.70
+Target                                                                       TBD                              TBD                              TBD                               1                               1
+Disparity of Non-Hispanic Asian/Pacific Islande r Youth
+Actual                                                                     No Data                          No Data                            1.30                            0.90                            1.30
+Target                                                                       TBD                              TBD                              TBD                               1                               1
+Disparity of Non-Hispanic White  Youth (always=1)
+Actual                                                                     No Data                          No Data                              1                               1                               1
+Target                                                                       TBD                              TBD                              TBD                               1                               1
+Disparity of Non-Hispanic Nativ e  Ame rican/Alaska Nativ e  Youth
+Actual                                                                     No Data                          No Data                              1                               1                               1
+Target                                                                       TBD                              TBD                              TBD                               1                               1
+Disparity of Hispanic (any race ) Youth
+Actual                                                                     No Data                          No Data                              1                               1                             1.10
+Target                                                                       TBD                              TBD                              TBD                               1                               1
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 18 to 7 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+Non-hispanic African-American disparity in Oregon is following the national trend.  Efforts underway to address this include:
+        Department is moving forward with a unified equity framework. This includes work through the Office of Equity and Multicultural Services (OEMS) to develop Child Welfare (CW) specific
+        dashboard measures and a CW specific equity plan. OEMS and CW will work with the DHS Office of Reporting, Research, Analytics, and Implementation (ORRAI) to best understand and
+        effectively use our data. The new dashboard measures will better reflect known disparities for children/families of color, resulting in more meaningful measures and plans regarding
+        disproportionality and overrepresentation rates. OEMS and CW will identify strategies to ameliorate the disparities.
+        Department is acknowledging institutional racism/discrimination within all levels of management, staff, and community.
+        Child Welfare leadership is being trained to lead with a racial equity lens through efforts such as participation in Undoing Racism and related trainings and activities.
+        Child Welfare updates to rules, policies, and procedures are increasingly viewed through an equity lens that is intending to eliminate practice that results in racial disparities.
+        New worker training is focusing on engagement with families to respectfully and intentionally gather information on a family’s pimary race and culture to eliminate disparate treatment or
+        impacts.
+        Community engagement and strategic planning through district leadership is focused on intentional, dedicated discussions on the practice and impact of child welfare on communities to
+        include communities of diverse racial and ethnic persons.
+Factors Affecting Results
+See above.  The data in this measure will undergo further analysis to include breakdown by decision points and by district as there is a significant variance across the state. Timely and accurate
+data entry, turnover of staff, delay in case plans, lack of culturally appropriate services and service providers, and lack of community engagement are some of the areas believed to be impacting
+our current state.
+KPM #8    CHILDREN SERVED BY CHILD WELFARE RESIDING IN PARENTAL HOME - The percentage of children served in Child Welfare on an average daily basis (in home and foster care) who
+          were served while residing in their parent’s home
+          Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                  2015                              2016                              2017                              2018                               2019
+CHILDREN RESIDING AT HOM E IN LEAST RESTRICTIVE SETTING
+Actual                                                                          25.20%                            23.90%                            25.40%                            23.80%                              23%
+Target                                                                            27%                               30%                               33%                               33%                               33%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 19 to 8 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+The outcome of 23.0% is Federal Fiscal Year 2018 data, for Report Year 2019. Oregon has seen a slight decrease in this performance measure since the previous FFY.  With the impending
+implementation of Family First Act, Oregon’s initial candidates for federal funding will include children at imminent risk for removal.  This provides the Department an opportunity with a renewed
+focus on this population of children served in-home. Oregon’s practice around serving children in-home varies around the state with some in-home cases remaining in Child Protective Service Units
+while services are provided, and others transitioning to Permanency units for ongoing case and safety management. Ongoing efforts to train staff on Oregon’s safety practice model has resulted in
+the need to once again focus efforts on supervisors to ensure caseworkers have support necessary to practice fidelity to the safety model.
+Factors Affecting Results
+The lack of resources in communities and natural supports for families to manage safety threats while children remain in-home has been a consistent factor for numerous years. Cases where
+children remain in-home must receive consistent safety management until parents/caregivers have made sustainable behavior changes.  Case reviews, however indicate in-home cases are often
+closed prior to the family conditions being fully addressed or insufficient safety planning resulting in removal and placement in foster care. While in-home services may be provided, there is a lack of
+sustained focus on monitoring safety.  In order to manage these high-risk cases, caseworkers require in-depth knowledge of Oregon’s practice model which provides specific criteria and guidance
+for all child safety decisions throughout the life of the case.
+Placement of children in foster care is the most restrictive and least desirable outcome to manage child safety.  Whenever possible, children who can be safety reunified with their family will continue
+to receive services in-home. Currently, Oregon’s practice for offering in-home cases is inconsistent around the state.  Additionally, the number of children served in-home has seen minor downward
+trend since the previous FFY.  The Department believes the implementation of Family First Act will counter this decline and offer specific focus on children at imminent risk for removal.
+KPM #9     TIMELY ELIGIBILITY DETERMINATION FOR ODDS SERVICES - The percentage of individuals who apply for ODDS services who are determined eligible within 90 days from application
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                 2015                              2016                               2017                              2018                              2019
+SERVICE ELIGIBILITY - ODDS
+Actual                                                                        No Data                            No Data                           No Data                            No Data                           69.18%
+Target                                                                          TBD                                TBD                               TBD                                TBD                               70%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 12 to 9 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+This is a new measure and the first time data has been collected. Targets have been set based on this baseline data, and may be adjusted once we collect additional data. The data provided is
+cumulative data for calendar year 2019.
+
+Factors Affecting Results
+While the goal is to have all individuals’ eligibility determined within 90 days, there are times a 90-day extension is granted (e.g., individual needs an evaluation, delays from the individual/family
+getting data, etc.). Additionally, because data has not been measured before, targets and ranges have not been set. As more data is collected and analyzed and discussed, benchmarks will be
+established.
+KPM #10     ADULTS ENROLLED IN ODDS PROGRAM RECEIVING IN-HOME SERVICES - The percentage of adults enrolled in the Intellectual/Developmental Disabilities program who are receiving
+            services in their own home, including family home
+            Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                 2015                               2016                               2017                               2018                              2019
+In-Home  Se rv ice s
+Actual                                                                         No Data                            No Data                            No Data                           No Data                            66.30%
+Target                                                                           TBD                                TBD                                TBD                                TBD                               75%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 13 to 10 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+Oregon does not have any institutional care settings for people with intellectual/developmental disabilities. All services are provided in a community setting. Additionally, two of our five strategic goal
+areas are focused on supporting people’s living options and providing adequate support to individuals and families, so they can be happy, safe, and healthy in the home setting they choose.
+
+The target is based on a comparison with others states based on data reported by the Institute on community integration through the university of Minnesota. The specific report was "In-Home &
+Residential Supports for Persons with Intellectual or Developmental Disabilities: Status and Trends Through 2016 Residential Information Systems Project Report (RISP)" Published in June 2018.
+Data represents calendar year to date.
+Factors Affecting Results
+Group homes and foster homes fulfill an essential role in providing supports and services to those that may not have access to in-home supports or whose support needs are specialized enough
+that providing them in the family home would provide a major disruption to others living in the home.
+KPM #11     SUPPORTED EMPLOYMENT SERVICES TO OBTAIN COMPETITIVE INTEGRATED EMPLOYMENT - Number of individuals in sheltered workshop target population receiving supported
+            and/or related employment services from ODDS and VR who obtain competitive integrated employment
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                 2015                              2016                              2017                             2018                              2019
+SUPPORTED EM PLOYM ENT - EM PLOYM ENT FIRST
+Actual                                                                         No Data                             399                               542                              780                               914
+Target                                                                           TBD                               235                               395                              565                               735
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 14 to 11 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+For Fiscal Year 2018 we provided supported employment services to 780 individuals who had previously been in a Sheltered Workshop and continue to be in compliance with Lane v. Brown. DHS
+continues to grow competitive integrated and supported employment for individuals who have I/DD as required by Lane v. Brown, as well as state initiatives. Fiscal Year 2019 demonstrates that 914
+individuals who had previously been in a SW, gained competitive integrated employment.
+Factors Affecting Results
+The way the data was reported changed in 2016, which is why it is reflected differently here. The cumulative target is to have 1,115 working age individuals in the Sheltered Workshop Target
+population employed in Competitive Integrated Employment by 2022. Targets are based on Executive Order 15-01 and the Lane v Brown Settlement Agreement. Data is collected in September
+each year. 2019 data will be reported in the fourth quarter of this year. Supported employment providers in the state are continuing to make significant changes as they transform from traditional
+facility based services to community services. DHS is on target to continue to grow supported employment services for those with I/DD.
+
+KPM #12      ABUSE/NEGLECT OF ADULTS WITH DEVELOPMENTAL DISABILITIES (ODDS) - The percentage of substantiated abuse/neglect of adults in licensed and endorsed programs
+             Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                 2015                              2016                               2017                               2018                              2019
+ABUSE OF PEOPLE WITH DEVELOPM ENTAL DISABILITIES
+Actual                                                                        No Data                            No Data                            No Data                           No Data                             2.49%
+Target                                                                          TBD                                TBD                                TBD                                TBD                              1.70%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 15 to 12 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+Changes to the definition of the KPM make direct comparisons with previous years inappropriate. Historically, the population was based on all people with developmental disabilities—adults and
+children, whether they lived in residential settings, received services provided by programs with endorsements or not. In 2019, the metric changed to focus on substantiated abuse of adults in
+licensed and endorsed programs. The metric now applies to a smaller group of individuals, and it is a more responsive metric. Because these programs have sought licenses or endorsements,
+ODDS can have a direct impact on the provider agencies involved in abuse and neglect.
+
+In previous years, the majority of reports of abuse and neglect involved licensed settings. Employees in these settings are mandatory reporters of abuse and are trained to recognize signs of
+abuse. It appears that abuse has increased by half a percent from last year to this. However, because the data for this year looks only at adults in licensed and endorsed programs the number of
+individuals in the population decreased by 59%. The apparent increase in abuse is, at least in part, due to a decreased population.
+
+Because of a lack of national abuse data, it is a challenge drawing comparisons to the I/DD abuse rate targets.  Targets are currently based on trends of historical data.
+
+Oregon is in the process of developing a Centralized Abuse Management (CAM) information system that will allow for enhanced tracking and monitoring of abuse referrals and investigations.  I/DD
+service cases will be included in the second phase of implementation. Piloting will begin as of October 2019, and all new I/DD investigations will be entered in the system beginning in March 2020.
+The implementation of CAM will enhance access and availability of information across the state and greatly improve the ability to make data informed decisions.
+Factors Affecting Results
+Abuse rates for people with intellectual/developmental disabilities can be affected by many factors, including:
+        The high acuity and service needs of residents being served in community-based care settings.
+        High turnover rate of treatment and support staff in all settings.
+        An adult’s right to make decisions about their living situation, companions, etc.
+        Barriers to the reporting of abuse by cognitively impaired clients.
+        Limited resources available to respond and support people with intellectual/developmental disabilities who are abused (e.g. domestic violence shelters, counseling resources, etc.).
+        Current data systems do not have the capacity to clearly identify risks associated with reports of abuse.
+What needs to be done in this area includes:
+        Ongoing training for service coordinators, personal agents, personal support workers, direct support providers, service providers and facility staff in recognizing, reporting, and preventing
+        abuse.
+        Research and collaboration with community response systems and resources, including domestic violence interventions, sexual assault response, mental health services, housing, etc.
+        Coordination and participation with local area multidisciplinary teams and coordinated care organizations.
+        Increased investigator access to content experts such as forensic nurses, psychologists and other health care professionals.
+KPM #13     HOUSEHOLDS AT, OR ABOVE, LIVING WAGE FOUR QUARTERS AFTER LEAVING SSP PROGRAM - The median percentage of households leaving Self Sufficiency who are at, or
+            above, a living wage four quarters out
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                  2015                               2016                              2017                               2018                               2019
+HOUSEHOLDS AT, OR ABOVE, LIVING WAGE
+Actual                                                                         No Data                            No Data                            No Data                            No Data                            68.10%
+Target                                                                           TBD                                TBD                                TBD                                TBD                               71%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 5 to 13 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+The Office of Self-Sufficiency Programs’ (SSP) mission is to provide a safety net, family stability and a connection to careers that guide Oregonians out of poverty. A key dimension to address
+poverty and maximize people’s potential is the ability to earn living wages. It is well known that families who are employed with incomes at, or just above the federal poverty level often cannot make
+ends meet. In these circumstances, individuals and families find it difficult to pay for the necessities like food, housing, utilities, child care, clothing, etc. This measure tracks the median percent of
+participants who exit all Self-Sufficiency programs and are earning at, or above, living wages four quarters after they leave the programs. The most recent data available shows that 68.1 median
+percent of those participants are earning living wages.
+Factors Affecting Results
+This measure relies on Oregon Employment Department (OED) reported earnings for SSP participants one year after they left all SSP programs and comparing these earnings to the most recent
+Washington State University Self-Sufficiency Standard for Oregon. It is important to note that only the SSP exiters with income captured by OED are included in the pool. The Self-Sufficiency
+Standard calculates how much income a family must earn to meet basic needs, with the amount varying by family composition and where they live[1]. This measure may be affected by several
+things, including the status of the economy, the availability of jobs, geography, standard costs for basic living needs by county, and family composition. It can also be affected by the structure of
+SSP employment and training programs and the effectiveness of other agency and community partnerships that connect SSP participants into living wage jobs.
+Over the past three years the Oregon Workforce System became more aligned and includes coordinated partnerships and service delivery.
+       Data-sharing agreements are in place to include Supplemental Nutrition Assistance Program (SNAP) employment plans in the Oregon Employment Department’s (OED) data-system.
+       People served by the SNAP-Able-Bodied Adults Without Dependents (ABAWD) program now access enhanced employment services from OED.
+       In the Fall 2018, DHS SSP and workforce system partners participated in regional poverty simulations to ensure goals and approach to servicing families are aligned beginning with a common
+       understanding and framework.
+Over the past three years DHS SSP invested in expanded employment and training opportunities and supports:
+       SNAP Training and Employment Program (STEP) has expanded investments in partnership with OED, community colleges and local community organizations, drawing additional federal
+       dollars to offer a more comprehensive set of training and employment opportunities for SNAP participants.
+       DHS SSP invested seed money so that OED can pay for things such as uniforms, scrubs, etc. that their STEP participants need to start a new job.
+       Job Opportunity and Basic Skills (JOBS) Program investments include expansion of a more comprehensive model of vocational training and education, expanded supports and payments for
+       family stability services and housing assistance to support Temporary Assistance for Needy Families (TANF) and former TANF participants.
+DHS SSP plans to continue expansion of employment and training programs in partnership with communities, participants, agencies, employers and nonprofit organizations.
+
+We are reporting using State Fiscal Year data for 2018. The cohort is composed of participants leaving all SSP programs anytime between Quarter three 2016 and Quarter two 2017, and their
+wage status four quarters later. These targets are provisional as they're based on one data point. We anticipate we will modify them in the future once we collect additional data.
+
+[1] Dr. Diana M. Pearce, “The Self-Sufficiency Standard for Oregon 2017”, Center for Women’s Welfare at the University of Washington. Available online at: http://selfsufficiencystandard.org/oregon
+KPM #14        SSP PARTICIPANTS REPORTING HOUSING STABILITY - The percentage of Self Sufficiency participants who report their housing needs are fully met
+               Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                 2015                               2016                              2017                               2018                              2019
+HOUSING STABILITY
+Actual                                                                        No Data                            No Data                            No Data                           No Data                            22.20%
+Target                                                                           TBD                               TBD                                TBD                                TBD                               25%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 6 to 14 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+The Office of Self-Sufficiency Programs’ (SSP) mission is to provide a safety net, family stability and a connection to careers that guide Oregonians out of poverty. Housing is an important dimension
+of poverty and a foundation for successful communities. The goal of this measure is to track the percentage of households connecting to Self-Sufficiency programs who report housing stability. In
+the Spring 2019, we conducted a statewide survey of Supplemental Nutrition Assistance Program (SNAP) participants who applied or reapplied for SNAP or other SSP programs. Of 30,374 SNAP
+applicants in M arch and April 2019, the re  we re  5,863 surv e y re sponde nts which re pre se nts a 19.3% ov e rall re sponse  rate .
+
+The survey found that only 22.2% of respondents reported housing stability. This means that based on the survey, over half of the respondents reported housing instability, meaning that their
+housing needs are not fully met.
+The following is a breakdown of participant responses to the KPM question: “Ple ase  se le ct what you fe e l is most true  for your family now”
+
+                Pe rce ntage        Re sponse
+
+                19.0%                I and/or my family need(s) immediate help getting into housing
+
+                11.8%                I and/or my family have housing, but it is temporary and/or inadequate
+
+                27.9%                I and/or my family needs help at times with rent and/or bill payment
+
+                22.2%                I and/or my family’s housing needs are fully met (i.e., I can afford to pay rent/mortgage and utilities without difficulty)
+
+                19.2%                Decline to answer
+
+The following is the breakdown of participants’ responses to: “What is your current living situation?”:
+
+                Pe rce ntage           Re sponse
+
+                31.0%                  Staying or living with family / friends
+
+                28.4%                  Rental housing with no subsidy / rent room / exchange work for room
+
+                7.9%                    Rental housing with subsidy (Section 8, public housing, or other housing assistance)
+
+                7.9%                    Living on the street / no physical shelter
+
+                6.4%                    Own home / own trailer
+
+                5.3%                    Emergency shelter / transitional shelter
+
+                5.3%                    Living in car
+
+                3.7%                    Other
+
+                3.1%                    About to lose housing / facing eviction
+
+                1%                      Hotel / motel
+
+The following are a few of the quotes from participants who opted to provide more input:
+
+          “We struggle day to day to mak e sure we have electricity and a roof over our heads. We mak e too much money for cash assistance but too much money still doesn’t pay all the bills. Each
+          month we have to decide what we can or can’t live without. As of right now, we don’t have telephone. But that was the sacrifice we had to mak e to k eep the roof over our head”.
+          “Rent has been raised twice since the 1st of this year. I now pay 45% of my monthly income for housing that is overpriced for my grandchild and I.”
+
+          “I have two k ids and because rent is so high…we have to have a roommate in our home which is not an ideal lifestyle for my k ids”.
+
+          “They have discovered mold in my apartment, and I have to move out and can’t find a new apartment”.
+
+          “I’m currently living with friends, it’s hard to mak e ends meet. Rent is hard to pay sometimes”.
+
+          “Need housing so [that] soon to be employment has a higher success rate”.
+         “Help for immediate housing assistance funds would be most beneficial”.
+Factors Affecting Results
+According to the Department of Housing and Community Services, housing has emerged as a paramount concern across Oregon and the lack of available housing, high rents and high home prices
+are driving rapid increases in housing instability and homelessness[1]. These themes rang true and were reflected throughout the SSP well-being survey we conducted in the Spring.
+
+Over the past two years SSP expanded TANF funded supports to cover housing related emergent needs. SSP has also provided for innovative contracting for housing related services, including
+navigation services, in partnership with community-based organizations and agencies.
+
+The 2019 Oregon Legislature made a historic investment in housing and DHS SSP stands ready to collaborate with OHCS, SSP participants, and stakeholders to do our part to ensure those
+investments reach communities in need.
+
+The target of 25% for housing stability is provisional and based on one data point. We anticipate we will modify these targets in the future based on the results of next year’s survey which will yield
+one more data point.
+
+[1] Oregon Statewide Housing Plan 2019-2023, Oregon Housing and Community Services. Available online at: https://www.oregon.gov/ohcs/DO/shp/SWHP-Executive-Summary.pdf
+KPM #15     SSP PARTICIPANTS REPORTING FOOD SECURITY - The percentage of Self Sufficiency participants who report they did not worry about having enough food, or actually run out of food,
+            in the past 12 months
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                 2015                               2016                              2017                               2018                              2019
+FOOD SECURITY
+Actual                                                                        No Data                            No Data                            No Data                           No Data                            12.30%
+Target                                                                           TBD                               TBD                                TBD                                TBD                               15%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 20 to 15 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+The Office of Self-Sufficiency Programs’ (SSP) mission is to provide a safety net, family stability and a connection to careers that guide Oregonians out of poverty. Food and nutrition encompass
+one of the dimensions of poverty. The goal of this measure is to track the percentage of households connecting to Self-Sufficiency programs who report food security. The United States Department
+of Agriculture defines food security as having consistent, dependable access to enough food for active, healthy living. In the Spring 2019, we conducted a statewide survey of Supplemental Nutrition
+Assistance Program (SNAP) participants who applied or reapplied for SNAP or other SSP programs. Of 30,374 SNAP applicants in M arch and April 2019, the re  we re  5,863 surv e y
+re sponde nts which re pre se nts a 19.3% ov e rall re sponse  rate .
+
+The survey found that only 12.3% of respondents reported experiencing food security[1]. This means that based on the survey, over two-thirds of the respondents reported experiencing food
+insecurity, meaning that their access to adequate food is limited by a lack of money or other resources.
+The following is a breakdown of participant responses to: “Within the  past 12 months, we  worrie d whe the r our food would run out be fore  we  got mone y to buy more ”
+
+                Pe rce ntage        Re sponse
+
+                37.4%               Often true
+
+                41.1%               Sometimes true
+
+                12.3%               Never true
+
+                3.6%                 Don’t know
+
+                5.7%                 Decline to answer
+
+The following is the breakdown of participants’ responses to “Within the past 12 months, the food we bought just didn’t last and we didn’t have money to get more”
+
+                Pe rce ntage                Re sponse
+
+                29.0%                        Often true
+
+                43.0%                        Sometimes true
+
+                18.2%                        Never true
+
+                3.7%                          Don’t know
+
+                6.1%                          Decline to answer
+
+The following are a few of the quotes from participants who opted to provide more input:
+
+         “The amount I have for money usually gets me through half the month and no more”.
+
+         “Often the food stamps don’t last until the end of the month unless I buy cheap food but then the k ids are hungry shortly after so end of the month is sk im but we try to do the best with our
+         abilities”.
+
+         “[I’m] work ing full time but need help with food”.
+
+         “..Just trying to live within my means. Usually [by the] fourth week  of the month very low with no food money”.
+
+         “Single mother with no current child support. I finally brok e out of the minimum wage income, believing I would be able to breathe. When in fact, all my benefits were cut abruptly. I mak e just
+         over the amount to get anything more than $15 in SNAP benefits.”
+
+         “With .. only being a one income household and my husband’s income not being nearly enough to cover bills and other necessities for our children we are struggling severely and the $207
+         in SNAP benefits doesn’t even mak e a dent in our grocery costs for a household of 5 let alone relieve some of the financial pressure/stress”.
+
+[1] The SSP Well-being survey incorporated the Hunger Vital Sign™, a validated 2-question food insecurity screening tool developed by Drs. Erin Hager and Anna Quigg and the Children’s
+HealthWatch team. The Hunger Vital Sign™ identifies households as being at risk for food insecurity when they answer that either or both of the 2-question statements are “often true” or sometimes
+true”. For more information visit the Children’s HealthWatch website at: https://childrenshealthwatch.org/public-policy/hunger-vital-sign/
+Factors Affecting Results
+These results are derived from participants’ entries on the SSP well-being survey which will be conducted by SSP each year. Our survey population is composed of persons applying or reapplying
+for SNAP or other SSP benefits. Oregon has had great success in easing access to SNAP benefits. One effort has been encouraging the use of the on-line application. Another has been issuing
+benefits within the same or next work day after they apply for SNAP. Oregon continues to expand outreach efforts to connect with difficult to reach populations by providing information on the
+benefits of qualifying for and maintaining SNAP eligibility, dispelling myths, providing application assistance, advocating on behalf of participants, and numerous other strategies to reach populations
+in need. These strategies include identifying and removing barriers to the SNAP program across all populations. We currently collaborate with 15 different community agencies who serve as Oregon
+SNAP outreach partners.
+
+Despite these efforts, people continue to experience hunger in Oregon but at an overall lower rate. The USDA Household Food Security in the United States in 2018 report found that 11.1% of
+Oregon households are food insecure, down from 11.8% in 2017[1]. The same report ranks Oregon as 24th in the nation for food insecurity[2].
+
+The target of 15% for food security is provisional and based on one data point. We anticipate we will modify these targets in the future based on the results of next year’s survey which will yield one
+more data point.
+
+[1] Alisha Coleman-Jensen, Matthew P. Rabbitt, Christian A. Gregory, and Anita Singh. 2019. Household Food Security in the United States in 2018, ERR-270, U.S. Department of Agriculture,
+Economic Research Service. Available online at: https://www.ers.usda.gov/webdocs/publications/94849/err-270.pdf?v=963.1
+
+[2] Ibid
+KPM #16     SSP PARTICIPANTS REPORTING GREATER SELF-EFFICACY - The percentage of Self Sufficiency participants who report they feel more confident in their ability to improve their current
+            circumstances because of SSP and other services they were connected to
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                  2015                               2016                               2017                               2018                              2019
+SELF-EFFICACY/HOPE
+Actual                                                                         No Data                            No Data                            No Data                            No Data                            66.50%
+Target                                                                            TBD                               TBD                                TBD                                TBD                                70%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 21 to 16 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+The Office of Self-Sufficiency Programs’ (SSP) mission is to provide a safety net, family stability and a connection to careers that guide Oregonians out of poverty. Poverty is multidimensional,
+meaning that it is more than a lack of adequate income[1]. Multidimensional poverty asserts that there are multiple dimensions of deprivation that must be addressed for people to be equipped to
+exit poverty and build well-being[2]. This new measure aims to track one dimension of poverty: whether participants perceive a sense of influence over their own circumstances. Specifically, we are
+tracking participants’ reported increased self-efficacy and hope as a result of their involvement with Self-Sufficiency Programs and the connections to other services SSP makes. In the Spring 2019,
+we conducted a statewide survey of Supplemental Nutrition Assistance Program (SNAP) participants who applied or reapplied for SNAP or other SSP programs. Of 30,374 SNAP applicants in
+M arch and April 2019, the re  we re  5,863 surv e y re sponde nts which re pre se nts a 19.3% ov e rall re sponse  rate .
+
+Based on the survey, 66.5% of survey respondents reported feeling more confident about their ability to improve their current circumstances as a result of their involvement with SSP and the
+services SSP connected them to. In addition, 67.3% of respondents reported they feel more hopeful about their future as a result of their involvement with SSP and the services SSP connected
+them to.
+
+The following is a breakdown of participant responses to: “M y inv olv e me nt with DHS Se lf-Sufficie ncy and the  se rv ice s DHS has conne cte d me  to hav e  he lpe d me  fe e l more  confide nt
+in my ability to improv e  my curre nt circumstance s”
+
+                Pe rce ntage       Re sponse
+
+                24.4%              Strongly agree
+
+                42.1%              Agree
+
+                20.7%              No opinion
+
+                4.5%                Disagree
+
+                2.0%                Strongly disagree
+
+                6.2%                Decline to answer
+
+The following is the breakdown of participants’ responses to “My involvement with DHS Self-Sufficiency and the services DHS has connected me to have helped me feel more hopeful about my
+future”:
+
+                Pe rce ntage       Re sponse
+
+                26.0%              Strongly agree
+
+                41.3%              Agree
+
+                20.2%              No opinion
+
+                3.6%                Disagree
+
+                2.0%                Strongly disagree
+
+                6.9%                Decline to answer
+
+The following are a few of the quotes from survey participants who opted to provide more input:
+
+          “I was feeling really hopeless and felt lik e giving up, but my case work er really helped me get out of that mindset. I appreciate you all for this amazing help you give”.
+
+          “I am grateful for the opportunity to receive the food money. I am hopeful this year I will no longer need it at the end of the year. I am hopeful for that”.
+
+          “If I had not been in this program, I might not be as able as I have become”.
+
+          “I am blessed to have DHS and their wonderful employees who give hope [I] need in my life. They all treat me with dignity and respect with a smile. Who could ask  for more than that?”
+
+          “Life is tough enough, without DHS probably unbearable. They k eep families alive”.
+
+           “The help we receive just barely k eeps our heads above water. I spend inordinate amounts of time doing meal planning, shopping, and preparation to be able to get the most for my SNAP
+          dollars, mak ing them stretch to feed my family 3 nutritious meals a day. And we are absolutely grateful for what we get because we don’t k now what we would do without it. But let’s be real
+          here, it just gets us the bare minimum-it’s not “hope” or “confidence” inspiring – but it does fill our bellies to be able to face another day of hard work  for not enough money to pay …
+          exorbitant rents and live in a city we can’t afford to do anything in”.
+
+[1] “Policy – A Multidimensional Approach”, Oxford Poverty & Human Development Initiative, University of Oxford. Available online at: https://ophi.org.uk/policy/multidimensional-poverty-index/
+[2] Torgerson, March 2017, “Measuring Community Action Program Impacts on Multi-Dimensional Poverty: Final Report of the Futures Project”, Oregon State University. Available online at:
+https://caporegon.org/what-we-do/the-future/
+Factors Affecting Results
+These results are derived entirely from participants’ entries on the SSP well-being survey which will be conducted by SSP each year. We define Self-efficacy as participants having a sense of
+control or influence over the events and circumstances that affect them and can act on it. We define Hope as participants’ belief that their current circumstances will improve. Our desired outcome is
+that in partnership with participants, agencies and communities, SSP provides programs and services that maximize the potential that lies within everyone. Foundational to these changes are:
+intentionally involving families; having a philosophy and practice of being person centered; being strengths based and having resources that build broader well-being.
+
+Hope and self-efficacy are interactively related, having influence on each other, but are also separate, stand-alone concepts. Self-efficacy often generates hope and hope can inspire a person to
+feel more able to achieve a goal. The SSP program decided to use two questions and measures to bring greater clarity to the impact of SSP services for each, with the primary KPM of self-efficacy.
+
+Self-Efficacy is the primary measure included in this report while hope is also being tracked. The target of 70% for self-efficacy is provisional and based on one data point. We anticipate we will
+modify this target in the future based on the results of next year’s survey which will yield one more data point.
+KPM #17     OVRS CONSUMERS WHO ARE SUCCESSFULLY EMPLOYED AT PROGRAM EXIT - The percentage of Office of Vocational Rehabilitation Services (OVRS) consumers with a goal of
+            employment who are employed at program exit
+            Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                               actual    target
+
+  Re port Ye ar                                                                2015                             2016                             2017                             2018                             2019
+OVRS CLOSED - EM PLOYED
+Actual                                                                        62.44%                           62.34%                           60.20%                             57%                            56.50%
+Target                                                                         66%                               66%                              66%                              63%                              65%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 1 to 17 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+Placements over the past year dipped slightly (0.5% < 25 clients). Variance in this measure has been less than 3% year-over-year and saw an increase during the period 2012 through 2016 when
+the overall economy saw even greater gains. Those gains in the economy have eased and we have seen a softening in the placement rates over the period 2016 through 2019.
+
+The Oregon target of 66% has historically been optimistic when compared to federal expectations. The Oregon VR Program has met or exceeded the federal expectation. This is not longer a
+federally required metric under the Workforce Innovation and Opportunity Act of 2014 (WIOA). However, we will continue to work toward increasing this outcome as administrative staff see value in
+this measure.
+Factors Affecting Results
+Additionally, significant numbers of clients with intellectual and developmental disabilities as a result of the Lane v. Brown Settlement have influenced this metric in that the resources necessary to
+place the most significantly disabled individuals within our state has had an impact on the overall program. We anticipate and increase in this population group as we work through the initial high
+numbers.
+
+We are working to improve placement opportunities by engaging in employer relationships at a much higher degree as required by WIOA and this has resulted in increased training for potential
+employers. Staff in Vocational Rehabilitation meet monthly with staff from the Office of Developmental Disabilities Services (ODDS) to jointly plan and coordinate services and to improve outcomes
+for this population and continue to develop the resources to mainstream this activity to improve on the service delivery model.
+KPM #18     OVRS CONSUMERS EMPLOYED IN SECOND QUARTER FOLLOWING PROGRAM EXIT - The percentage of OVRS clients closed from plan who are employed during second quarter
+            following program exit
+            Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                 2015                              2016                              2017                               2018                              2019
+EM PLOYM ENT IN SECOND QUARTER
+Actual                                                                        No Data                           No Data                            No Data                           No Data                           57.50%
+Target                                                                          TBD                                TBD                               TBD                               TBD                               52%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 2 to 18 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+For the period October 1, 2016 through September 30, 2017, the most recent period for which all needed data are available, 57.5% of individuals exited from Vocational Rehabilitation services were
+employed during the second quarter following exit. Staff are working toward more effective career counseling and guidance to ensure employment longevity for our clients.
+
+The program is working to emphasize non-technical employment skills (soft skills) to improve employability and retention in employment.
+Factors Affecting Results
+This result is impacted by the sophistication of the individual’s skills in seeking and maintaining employment is a major factor in this measure. The economic realities of the geographic areas in which
+they live and the available workforce supports also impact this measure.
+
+We have not yet set annual targets for this measure. We would prefer to wait with this until the federal Rehabilitation Services Administration has set goals for Oregon. This will occur in the federal
+program year 2020-2023 State Plan approval process.
+KPM #19     OVRS CONSUMERS EMPLOYED IN FOURTH QUARTER FOLLOWING PROGRAM EXIT - The percentage of OVRS clients closed from plan who are employed during fourth quarter
+            following program exit
+            Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                 2015                              2016                              2017                               2018                              2019
+EM PLOYM ENT IN FOURTH QUARTER
+Actual                                                                        No Data                           No Data                            No Data                           No Data                            54.30%
+Target                                                                          TBD                                TBD                               TBD                                TBD                               52%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 3 to 19 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+For the period October 1, 2016 through September 30, 2017, the most recent period for which all needed data are available, 57.5% of individuals exited from Vocational Rehabilitation services were
+employed during the second quarter following exit. Staff are working toward more effective career counseling and guidance to ensure employment longevity for our clients.
+
+The program is working to emphasize non-technical employment skills (soft skills) to improve employability and retention in employment.
+Factors Affecting Results
+This result is impacted by the sophistication of the individual’s skills in seeking and maintaining employment is a major factor in this measure. The economic realities of the geographic areas in which
+they live and the available workforce supports also impact this measure.
+
+We have not yet set annual targets for this measure. We would prefer to wait with this until the federal Rehabilitation Services Administration has set goals for Oregon. This will occur in the federal
+program year 2020-2023 State Plan approval process.
+KPM #20      OVRS MEDIAN QUARTERLY WAGE AT SECOND QUARTER FOLLOWING PROGRAM EXIT - Median quarterly wage at second quarter following OVRS program exit
+             Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                              2015                             2016                             2017                             2018                                 2019
+M EDIAN QUARTERLY WAGE
+Actual                                                                     No Data                          No Data                          No Data                           No Data                            $3,378.00
+Target                                                                       TBD                              TBD                               TBD                              TBD                              $3,300.00
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 4 to 20 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+We are working to increase both the hourly wage and the total hours worked per quarter for clients. By delivering both technical skills for employment and soft skills for maintaining and advancing in
+employment.
+
+Factors Affecting Results
+This is influenced by career counseling to individual job seekers to move them toward career choices that can improve income potential by increasing job skills. As a result of efforts to meet the
+requirements of the Lane v Brown settlement, the program is currently placing many clients with intellectually/developmentally disabled for the most part at minimum wage. This large number of
+minimum wage employees has depressed this number.
+
+Staff are working to meet the needs of employers in sectors offering higher salaries. Additionally, this is impacted by both hourly wage and total hours worked.
+
+We have not yet set annual targets for this measure. We would prefer to wait with this until the federal Rehabilitation Services Administration has set goals for Oregon. This will occur in the federal
+program year 2020-2023 State Plan approval process.
+KPM #21        DHS CUSTOMER SATISFACTION - The percentage of customers rating their satisfaction with DHS above average, or excellent
+               Data Collection Period: Jan 01 - Jan 31
+
+                                                                      actual    target
+
+ Re port Ye ar                                                       2015                          2016                         2017                          2018                          2019
+Time line ss
+Actual                                                               74%                           74%                           79%                         73.80%                          62%
+Target                                                               75%                           75%                           75%                           75%                           75%
+Accuracy
+Actual                                                               85%                           84%                           89%                         78.80%                        67.90%
+Target                                                               75%                           75%                           75%                           85%                           85%
+Ov e rall
+Actual                                                               83%                           82%                           88%                         75.70%                        79.20%
+Target                                                               75%                           75%                           75%                           82%                           82%
+He lpfulne ss
+Actual                                                             No Data                         83%                         No Data                       No Data                       No Data
+Target                                                               75%                           75%                           75%                           85%                           85%
+Expe rtise
+Actual                                                               85%                           84%                           88%                         78.50%                        66.30%
+Target                                                               75%                           75%                           75%                           85%                           82%
+Av ailability of Information
+Actual                                                               86%                         No Data                         90%                         No Data                       No Data
+Target                                                               75%                           75%                           75%                           88%                           88%
+
+How Are We Doing
+Since  the  2019 le gislativ e  se ssion, this KPM  was administrativ e ly re numbe re d from 17 to 21 to support grouping KPM s by program are a. In addition, the  KPM  title  was also
+modifie d to improv e  clarity and consiste ncy.
+
+For 2019, we saw a decline in satisfaction with timeliness, accuracy and expertise, and an increase in overall satisfaction. Overall satisfaction results were used from the CAPI survey which is sent to
+individuals who have applied online for benefits. Of the 12,563 respondents, 9,961 indicated excellent or good overall satisfaction. These results were combined with our usual customer satisfaction
+survey that was sent to a group of Vocational Rehabilitation (VR) clients. Since VR is such a small program, we wanted to be sure we had better representation from this group. The overall
+response rate was still small - 82 respondents. These are the numbers used to report on timeliness, accuracy and expertise.
+Factors Affecting Results
+Aside from the increase in overall satisfaction, it's discouraging to see a drop in the other categories. Over the past two years, the five Programs of DHS have done a significant amount of work to
+advance their management systems which provides clarity around the core routine work, who our primary customers are, what they need from us, and how we successfully meet those needs. If we
+do the routine work well it allows us to spend more time on things that deliver new value to our customers, resulting in an improvement in satisfaction levels as well as client outcomes. This will
+continue to be a valuable tool to inform our actions as an agency. Over the next year, work will be happening at the DHS level, including shared and central services, to advance the agency
+management system.

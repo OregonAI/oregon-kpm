@@ -12,6 +12,7 @@ agency: Transportation, Department of
 agency_code: null
 reporting_year: '2018'
 year_source: document
+text_source: pdf-text
 filename_year: '2018'
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/ODOT%202018%20APPR%20with%20Proposed.pdf

@@ -1,0 +1,129 @@
+Board of Accountancy
+    Annual Performance Progress Report
+
+            Reporting Year 2024
+
+     Published: 10/15/2024 4:37:06 PM
+ KPM #       Approved Key Performance Measures (KPMs)
+
+1           CUSTOMER SATISFACTION - Percent of customers rating satisfaction with agency services as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+2           TIMELY COMPLAINT RESPONSE - Percentage of complaints filed wherein letters advising the parties of either an inquiry or investigation will be initiated and a letter advising the parties are mailed within five business days of the receipt of the initial
+            complaint.
+3           TIMELY REVIEW OF NEW COMPLAINTS - Number of days from the date of letter advising parties that an inquiry has been opened to completion of an inquiry report and approval from Director.
+4           TIMELY INVESTIGATION - Number of days from the date of letter advising parties that an investigation has been opened to completion of investigation report and approval from Director.
+5           BEST PRACTICES - Percent of total best practices met by the Board.
+
+                                                                                                                                                         red
+                                                                                                                                                         green
+                                                                                                                                                         yellow
+
+ Performance Summary                                                                                                                                          Green                                                      Yellow                                                         Red
+
+                                                                                                                                                         = Target to -5%                                         = Target -5% to -15%                                            = Target > -15%
+Summary Stats:                                                                                                                                                  40%                                                        40%                                                          20%
+KPM #1   CUSTOMER SATISFACTION - Percent of customers rating satisfaction with agency services as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise
+         and availability of information.
+         Data Collection Period: Jul 01 - Jun 30
+
+                                                                        actual    target
+
+ Report Year                                                           2020                           2021                          2022                           2023                           2024
+Availability of Information
+Actual                                                                 90%                            95%                                                          63%                            61%
+Target                                                                 90%                            90%                            90%                           90%                            90%
+Timeliness
+Actual                                                                 92%                            92%                                                          62%                            59%
+Target                                                                 90%                            90%                            90%                           90%                            90%
+Helpfulness
+Actual                                                                 95%                            96%                                                          53%                            58%
+Target                                                                 90%                            90%                            90%                           90%                            90%
+Overall
+Actual                                                                 90%                            95%                                                          68%                            65%
+Target                                                                 90%                            90%                            90%                           90%                            90%
+Accuracy
+Actual                                                                 95%                            95%                                                          60%                            58%
+Target                                                                 90%                            90%                            90%                           90%                            90%
+Expertise
+Actual                                                                 96%                            96%                                                          56%                            56%
+Target                                                                 90%                            90%                            90%                           90%                            90%
+
+How Are We Doing
+This KPM has not yet shown improvement over FY 2023 results, which were a low for the agency after complete staff turnover in all positions except one in the second half of FY 2022.
+
+Factors Affecting Results
+There are three factors impacting this KPM.  The first factor is continued recovery from complete staff turnover in 2022 and not being able to achieve benefits of full staffing due to two long term
+medical absences on a small staff of seven.  The second factor is that the staff licensing side is brand new and the loss of historical expertise is still an issue.  The third factor is that our IT systems are
+highly fragmented slowing down business processes and creating far greater opportunities for error in manual data re-entry. Solving all these factors is moving in the right direction and the agency has
+the resources to do so.  Full staffing is expected to be finally achieved by November 2024, and initial IT investments are resourced and under way in FY 2025.  Given those developments, continued
+improvement is expected for FY 2025, and a fuller performance recovery is not expected until FY 2026.
+KPM #2     TIMELY COMPLAINT RESPONSE - Percentage of complaints filed wherein letters advising the parties of either an inquiry or investigation will be initiated and a letter advising the parties are
+           mailed within five business days of the receipt of the initial complaint.
+           Data Collection Period: Jun 30 - Jul 01
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                    2020                               2021                               2022                                2023                               2024
+TIMELY COMPLAINT RESPONSE
+Actual                                                                                                                0%                                25%                                38%                                80%
+Target                                                                                                               14%                                85%                                85%                                85%
+
+How Are We Doing
+Even though it is slightly below target, this represents a dramatic improvement from FY 2023 (38%).
+
+Factors Affecting Results
+The primary factor impacting this result is return of the CPA investigator to compliance duties in FY 2024.  The investigator was assigned to licensing duties during large portions of FY 2023 to help the
+agency maintain basic services during a complete staff turnover in its licensing staff.
+KPM #3     TIMELY REVIEW OF NEW COMPLAINTS - Number of days from the date of letter advising parties that an inquiry has been opened to completion of an inquiry report and approval from
+           Director.
+           Data Collection Period: Jun 30 - Jul 01
+
+* Upward Trend = negative result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2020                              2021                               2022                              2023                              2024
+TIMELY REVIEW OF NEW COMPLAINTS
+Actual                                                                                                               0                                133                               209                               136
+Target                                                                                                             120                                120                               120                               120
+
+How Are We Doing
+This represents a dramatic improvement over FY 2023 results (209 days).
+
+Factors Affecting Results
+The primary factor impacting this result is return of the CPA investigator to compliance duties in FY 2024.  The investigator was assigned to licensing duties during large portions of FY 2023 to help the
+agency maintain basic services during a complete staff turnover in its licensing staff.
+KPM #4     TIMELY INVESTIGATION - Number of days from the date of letter advising parties that an investigation has been opened to completion of investigation report and approval from Director.
+           Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = negative result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2020                               2021                               2022                                2023                               2024
+TIMELY INVESTIGATION
+Actual                                                                                                                  0                                204                                 123                                160
+Target                                                                                                                180                                240                                 240                                240
+
+How Are We Doing
+The agency is continuing to exceed targets in this KPM significantly. The agency is proposing to reduce targets to 180 days for future fiscal years to bring actual performance more in line with the
+targets the agency can clearly achieve,
+
+Factors Affecting Results
+The primary factor impacting this result is return of the CPA investigator to compliance duties in FY 2024.  The investigator was assigned to licensing duties during large portions of FY 2023 to help the
+agency maintain basic services during a complete staff turnover in its licensing staff.
+KPM #5                   BEST PRACTICES - Percent of total best practices met by the Board.
+                         Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                              actual     target
+
+  Report Year                                                                2020                             2021                             2022                              2023                             2024
+Metric Value
+Actual                                                                        100                              100                               73                               100                              100
+Target                                                                        100                              100                              100                               100                              100
+
+How Are We Doing
+Factors Affecting Results

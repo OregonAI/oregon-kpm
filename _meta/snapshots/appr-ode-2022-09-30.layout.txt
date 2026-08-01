@@ -1,0 +1,502 @@
+Education, Department of
+       Annual Performance Progress Report
+
+               Reporting Year 2022
+
+         Published: 9/30/2022 11:28:12 AM
+ KPM #        Approved Key Performance Measures (KPMs)
+
+1           Protecting the Health & Safety of Children in Child Care - Percentage of citations for a serious valid finding that received a timely follow-up visit to confirm compliance
+2           Access to Early Care and Education: Infants & Toddlers - Percentage of infants/toddlers (birth-2 years) with access to a regulated child care slot.
+3           Access to Early Care and Education: Preschool Age - Percentage of preschool age children (3-4 years) with access to a regulated child care slot. Regulated child care slots include Certified Centers, Certified Family, and Registered Family Providers.
+4           Early Learning Workforce Retention (all) - Percentage of early learning providers who have remained in the workforce.
+5           Early Learning Workforce Retention (by race and ethnicity) - Percentage of early learning providers who have remained in the workforce disaggregated by race and ethnicity.
+6           EARLY LITERACY - Percentage of students meeting or exceeding statewide academic achievement standards in 3rd grade reading
+7           STUDENTS ON TRACK TO GRADUATE - Percentage of 9th grade students on track to graduate.
+8           HIGH SCHOOL COMPLETION - Percentage of students who complete high school within four years
+9           COLLEGE GOING - College-going rate of Oregon residents into post-secondary institutions
+10          CHRONIC ABSENTEEISM - Percentage of students who are absent more than 10% of days of the school year
+11          CUSTOMER SERVICE - Percentage of customers rating the agency's customer service as "good" or "excellent"
+
+                                                                                                                                                         red
+                                                                                                                                                         green
+                                                                                                                                                         yellow
+
+ Performance Summary                                                                                                                                          Green                                                       Yellow                                                        Red
+
+                                                                                                                                                         = Target to -5%                                         = Target -5% to -15%                                            = Target > -15%
+Summary Stats:                                                                                                                                                 9.09%                                                      36.36%                                                      54.55%
+KPM #1       Protecting the Health & Safety of Children in Child Care - Percentage of citations for a serious valid finding that received a timely follow-up visit to confirm compliance
+             Data Collection Period: Apr 01 - Mar 31
+
+* Upward Trend = positive result
+
+                                                                                    actual     target
+
+  Report Year                                                                      2018                               2019                                2020                                2021                                2022
+Protecting the Health & Safety of Children in Child Care
+Actual                                                                                                                                                                                                                           93.60%
+Target                                                                                                                                                                                                                             86%
+
+How Are We Doing
+The percentage of citations for a serious valid finding that received a timely follow-up visit to confirm compliance has increased from 81% (2021) to 93.6% (2022). ELD has exceeded the target of 86%
+that was set in 2021.
+
+Factors Affecting Results
+The current report period represents the first full year that data has been available to analyze for this KPM. The value reported for 2021 (81%) was based on data from only a 2-month period, after the
+"serious" data point had been added to ELD’s database to allow for data collection. Therefore, it is difficult to interpret the observed change in the value for this KPM from 2021 to 2022.
+KPM #2        Access to Early Care and Education: Infants & Toddlers - Percentage of infants/toddlers (birth-2 years) with access to a regulated child care slot.
+              Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2018                               2019                               2020                               2021                               2022
+Access to Early Care and Education: Infants & Toddlers
+Actual
+Target                                                                                                                                                                                                                      15.40%
+
+How Are We Doing
+ELD is currently waiting on updated data for this KPM.
+
+Factors Affecting Results
+The COVID-19 pandemic produced tremendous turmoil to the field of child care. ELD recognizes that the numbers available for 2018 (12%) and 2020 (14%) may not yet reflect the full impact of the
+pandemic on families’ access to early care and education, and ELD is continuing to monitor this.
+KPM #3     Access to Early Care and Education: Preschool Age - Percentage of preschool age children (3-4 years) with access to a regulated child care slot. Regulated child care slots include Certified
+           Centers, Certified Family, and Registered Family Providers.
+           Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2018                               2019                               2020                               2021                               2022
+Access to Early Care and Education: Preschool Age
+Actual
+Target                                                                                                                                                                                                                      35.65%
+
+How Are We Doing
+ELD is currently waiting on updated data for this KPM.
+
+Factors Affecting Results
+The COVID-19 pandemic produced tremendous turmoil to the field of child care. ELD recognizes that the values available for 2018 (29%) and 2020 (31%) may not yet reflect the full impact of the
+pandemic on families’ access to early care and education, and ELD is continuing to monitor this.
+KPM #4           Early Learning Workforce Retention (all) - Percentage of early learning providers who have remained in the workforce.
+                 Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2018                               2019                               2020                              2021                               2022
+Early Learning Workforce Retention (all)
+Actual
+Target                                                                                                                                                                                                                     65.05%
+
+How Are We Doing
+ELD is currently waiting on updated data for this KPM.
+
+Factors Affecting Results
+The COVID-19 pandemic produced tremendous turmoil to the field of child care. ELD recognizes that the values available for 2017-2018 (62%) and 2018-2019 (61%) may not yet reflect the full impact
+of the pandemic on early learning workforce retention, and ELD is continuing to monitor this.
+KPM #5     Early Learning Workforce Retention (by race and ethnicity) - Percentage of early learning providers who have remained in the workforce disaggregated by race and ethnicity.
+           Data Collection Period: Jan 01 - Jan 01
+
+                                                                              actual     target
+
+ Report Year                                                                 2018                              2019                             2020                              2021                              2022
+a. American Indian/Alaskan Native
+Actual
+Target                                                                                                                                                                                                            66.15%
+b. Asian
+Actual
+Target                                                                                                                                                                                                            68.25%
+c. Black/African American
+Actual
+Target                                                                                                                                                                                                            69.30%
+d. Hispanic/Latino/Spanish
+Actual
+Target                                                                                                                                                                                                            74.55%
+e. Native Hawaiian/Pacific Islander
+Actual
+Target                                                                                                                                                                                                            64.05%
+f. White
+Actual
+Target                                                                                                                                                                                                            70.35%
+g. Multiracial
+Actual
+  Report Year                                                                    2018                              2019                               2020                               2021                               2022
+
+Target                                                                                                                                                                                                                     71.40%
+
+How Are We Doing
+ELD is currently waiting on updated data for this KPM.
+
+Factors Affecting Results
+The COVID-19 pandemic produced tremendous turmoil to the field of child care. ELD recognizes that the most-recently available values (listed below) may not yet reflect the full impact of the
+pandemic on early learning workforce retention, and ELD is continuing to monitor this.
+
+2018-2019: American Indian/Alaskan Native: 63%; Asian 65%; Black/African American 66%; Hispanic/Latino/Spanish 71%; Native Hawaiian/Pacific Islander 61%; White 67%; Multiracial 68%
+KPM #6         EARLY LITERACY - Percentage of students meeting or exceeding statewide academic achievement standards in 3rd grade reading
+               Data Collection Period: Feb 01 - Jun 30
+
+                                                                                 actual      target
+
+  Report Year                                                                   2018                               2019                               2020                              2021                               2022
+a. All Students
+Actual                                                                         47.70%                             47.20%                                                                                                    40%
+Target                                                                           51%                                53%                               66%                                68%                                68%
+b. Students of Color
+Actual                                                                         28.50%                             28.50%                                                                                                  21.70%
+Target                                                                           30%                                32%                               56%                                60%                                60%
+c. Special Ed Students
+Actual                                                                         24.10%                             24.70%                                                                                                  16.30%
+Target                                                                           29%                                30%                               48%                                54%                                54%
+
+How Are We Doing
+Oregon implemented the comprehensive state summative assessment system in 2021-22, including a return to full test blueprints for English language arts and mathematics. The pandemic
+substantially impacted student learning, with proficiency dropping from 2019 to 2022 overall in every grade level and content area, as well as in all student groups. This pattern is also present in other
+data sources from national assessments, such as NAEP long-term trend data, and in reviewing other states’ data.
+
+Factors Affecting Results
+Summative Assessment Participation: Though there are grade levels in which participation remains a concern in Oregon, participation improved compared to the spring 2021 administration.
+Participation at 3rd grade, in particular, was strong enough to make state level reporting and decision making a defensible practice.
+
+Instructional Materials: Oregon’s state content standards for English Language Arts were adopted by the State Board of Education in June of 2019, following a process of review and revision.  This
+revision resulted in the development of more robust foundational reading skills standards. In addition, ODE revised the criteria for ELA instructional materials adoption to ensure a greater focus on
+early literacy in newly-adopted instructional materials. Districts are implementing their newly-adopted ELA instructional materials in fall of the 2022-23 school year.
+New and Renewed Agency Positions: ODE has a Language Arts Standards and Instruction Specialist, an English Language Arts Assessment Specialist, a PreK-3rd Grade Coordinator, a K-2
+Balanced Assessment Specialist, and an Early Language and Literacy Intervention Specialist. This team works to build agency capacity around early literacy in the areas of policy advice, technical
+assistance, systems, and organizational improvement regarding strategy implementation. Additionally, ODE has hired a K-5 literacy program coordinator to help organize and oversee the K-5 Literacy
+ESSER III Investment.
+
+K-5 Literacy Investment: One of 12 key ESSER III investments, the K-5 Literacy investment is aimed at developing and promoting literacy in Kindergarten through Grade 5. To address unfinished
+learning and support literacy education infrastructure for the long term, ODE will invest American Rescue Plan Elementary and Secondary School Emergency Relief (ESSER III) funds for three
+purposes:
+
+       Update K-5 Literacy Framework. ODE will update Oregon’s K-5 Literacy Framework, with input from a diverse group of educators, researchers and other partners. The revised framework will
+       elevate knowledge and practices that have emerged from decades of research, which have become collectively known as The Science of Reading, and will incorporate the most recent findings
+       on literacy development and instruction. The Framework will include research about teaching literacy to multilingual students and those who speak other dialects of English.
+       Fund Literacy Professional Development. The literacy catalyst professional development series will ground educators in the most current foundational literacy pedagogy and cultivate a
+       network of peer support for best practices. Equity will guide the system-wide vision at the state, district, and school levels, bringing coherence across educator knowledge, instructional materials,
+       evidence-based practices, and formative assessment.
+       Revitalize Small School Libraries. ODE will support small school libraries through revitalization grants, to expand library collection size and range.
+
+Across these projects, ODE is committed to dismantling systemic barriers to literacy as well as providing tools to help students develop as readers, writers, speakers, and critical thinkers.  ODE will
+ensure funds are prioritized for students facing disparities that were only worsened by the pandemic, specifically students from African American/Black, American Indian/Alaska Native, Latino/a/x, and
+Pacific Islander communities; students experiencing disabilities; multilingual students; and students navigating poverty. Teacher training and framework recommendations will focus on addressing
+unfinished literacy learning.
+KPM #7             STUDENTS ON TRACK TO GRADUATE - Percentage of 9th grade students on track to graduate.
+                   Data Collection Period: Jul 01 - Jun 30
+
+                                                                                 actual      target
+
+  Report Year                                                                   2018                               2019                               2020                              2021                               2022
+a. All Students
+Actual                                                                         84.50%                             85.30%                            85.60%                             73.60%                             82.80%
+Target                                                                           90%                                93%                               89%                                90%                                90%
+b. Students of Color
+Actual                                                                         78.80%                             79.90%                            80.60%                             64.90%                             76.80%
+Target                                                                           75%                                77%                               86%                                88%                                88%
+c. Special Ed Students
+Actual                                                                         71.40%                             71.70%                            75.50%                             60.80%                             72.30%
+Target                                                                           73%                                75%                               81%                                83%                                83%
+
+How Are We Doing
+2021-22 was a year of strong growth for 9th grade students on track to graduate. While not entirely back to pre-pandemic levels, rates increased dramatically from 2020-21. This increase is a
+testament to the hard work and innovative practices of Oregon’s educators and students in working to complete unfinished learning and become on-track to graduate.
+
+The rate for students of color (Black, Hispanic, American Indian/Alaska Native, and Native Hawaiian/Pacific Islander students) and for students with disabilities grew more than the overall rate,
+representing progress towards gap closure, though work remains to be done to ensure that all students are on-track to graduate at the end of their 9th grade year.
+
+Factors Affecting Results
+Students in this cohort experienced substantial disruption to their education throughout their 8th grade year as schools shifted to offering comprehensive distance learning (CDL), hybrid, and in-person
+instruction at various times during the year.  Students, families, and communities feel the impact of school closures and loss of access to normally relied-upon resources.  CDL may have resulted in
+interruptions not only to instructional models, but also to engagement efforts and other resources designed to help students get and remain on-track to graduate.  While most schools returned to in-
+person instruction for 2021-22, some disruptions continued due to the ongoing pandemic conditions, and the impact of disruptions in the prior year may have some students starting high school with
+fewer than normal credits, and less well-prepared to earn high school credits. Districts and schools will continue to maintain rigorous expectations and support to accelerate learning for all students to
+help bring these students back on-track to graduate.
+
+The gaps identified above reflect the disproportionate impact of the pandemic and related closures on students of color. The Oregon Department of Education is committed to promoting educational
+systems that support every child’s identity, health and wellbeing, beauty, and strengths. ODE has developed and continues to develop resources and research on the best ways to support students
+who are not on-track to graduate in order to help them graduate on time.
+
+ODE has applied the following strategies to increase the number of Oregon’s 9th grade students who are on track to graduate:
+
+        In early 2022, High School Success staff conducted comprehensive eligibility reviews of each recipient, evaluating among other things the recipient’s practices to evaluate data and develop
+        strategies to make sure 9th graders get and remain on-track. 23 recipients were identified as not meeting in one or both of these two areas. These recipients were provided with technical
+        assistance and corrective action plans starting in Spring 2022, to support them in developing systems to help all students get and remain on-track to graduation.
+        Since the creation of the High School Success Initiative, ODE has invested in training the High School Success staff and management about effective systems to increase the number of 9th
+        grade students on track to graduate. ODE is using 9th grade on track as a metric for evaluating High School Success fund success, and districts are more focused on using these data to drive
+        institutional practices. With the adoption of guidance integrating multiple grant programs, and the resumption of longitudinal performance growth target setting under the Student Investment
+        Account, grantees will participate in a collaborative goal setting process around 9th grade on-track rates, both overall and for focal student groups.
+
+        ODE provided supports to the high schools receiving targeted or comprehensive support from ODE to increase student achievement, including increasing 9th grade students on track to
+        graduate.
+        ODE continues to provide statewide technical assistance to all districts to improve the quality of special education services, the Individualized Education Program (IEP) process, and ultimately,
+        results for students with disabilities, including the percentage who are on track to graduate by the end of 9th grade. IEP teams must meet no less than annually but can meet more frequently in
+        order to ensure a Free Appropriate Public Education (FAPE) is provided. Each IEP team is responsible for individually problem-solving the barriers that keep a child from independently
+        accessing the general curriculum. This includes determining a child’s present levels of academic achievement and functional performance (which could include on-track status), setting goals to
+        enable the child to make progress in the general education curriculum, and determine the supports needed to allow the child to progress towards annual goals and the general education
+        curriculum.
+
+A focus on culturally responsive pedagogy and practice as well as strategic investments for students of color and English Learners provided evidence of the impact such supports provide. To that end,
+several of the grants funded by ODE's equity initiatives are focused on high school success, particularly directed at a strong first year performance, offering tutoring and mentoring programs to ensure
+consistent and significant support toward a positive 9th grade outcome.
+KPM #8             HIGH SCHOOL COMPLETION - Percentage of students who complete high school within four years
+                   Data Collection Period: Jul 01 - Jun 30
+
+                                                                                 actual     target
+
+  Report Year                                                                   2018                              2019                               2020                              2021                               2022
+All students
+Actual                                                                         76.70%                            78.70%                              80%                              82.60%                             80.60%
+Target                                                                          81%                                81%                               80%                                82%                               85%
+Students of color
+Actual                                                                         71.10%                            73.40%                             75.20%                            78.60%                             76.10%
+Target                                                                          74%                                77%                               77%                                80%                               81%
+Special Education students
+Actual                                                                         58.80%                            60.60%                             63.40%                              68%                              66.10%
+Target                                                                          61%                                64%                               65%                                69%                               78%
+
+How Are We Doing
+The statewide graduation rate for the class of 2020-21 is 80.6 percent, the second highest cohort graduation rate ever recorded in Oregon. The 80.6 percent rate represents a slight uptick from the
+most recent, pre-pandemic rate of 80.0 for the class of 2018-19, but a 2 percentage point decrease from last year.
+
+In addition to these overall gains, Oregon’s students who have been historically underserved by the system also experienced continuing gains compared with previous pre-pandemic years. The year-
+to-year increase in graduation rates was greater for nearly every underserved student group than the increase in the state average, bringing those underserved student groups closer to the statewide
+average than ever before. Other key findings from the data:
+
+       Students participating in a Career and Technical Education (CTE) course of study significantly exceeded the statewide average, graduating at a rate of 92.9 percent.
+       Students who have successfully completed English Learner programs in Oregon graduated at 84.2 percent, 3.6 percentage points higher than the statewide average.
+       Black/African American students’ graduation rate of 73.5 percent was down from 76.3 percent the year before, but still higher than the 70.4 percent graduation rate for the Class of 2019.
+       Hispanic/Latino/a/x students’ graduation rate of 77.0 percent was down from 79.5 percent the previous year, but still higher than the 76.2 graduation rate for the Class of 2019.
+       The Native Hawaiian/Pacific Islander, American Indian/Alaska Native, and Multiracial student groups saw declines that put their graduation rates below pre-pandemic levels, as did CTE
+       Concentrators and participants, though in most cases the declines over those two years were small.
+       The graduation rate for students experiencing homelessness dropped five percentage points to 55.4 percent, the same rate as the Class of 2019.
+
+These gains made by some of the student populations that have historically been underserved by the system are particularly important given the alarming historic persistence of a significant
+achievement gap in Oregon between white students and students of color, including multiracial students Remaining gaps provide stark evidence of a failing system for children of color in Oregon
+schools that continues to create a considerable challenge for our collective future. Additionally, decreases among some student groups may reflect an exacerbation of disparities during the pandemic,
+as well as additional challenges to providing quality CTE instruction and access.
+
+Factors Affecting Results
+Through implementation of the High School Graduation and College and Career Readiness Act of 2016 (High School Success), ODE has provided funding to improve high schools through ninth grade
+teacher collaboration meetings; building data systems to track behavior, attendance, and course performance; and building partnerships, systems to ensure on-time graduation, systems to address
+chronic absenteeism, and systems to ensure equitable assignment to courses.  Recipients of the funds hired staff and supported educator professional learning, built CTE programs, and implemented
+strategies to increase student engagement and reduce pushout. Access to career and technical education (CTE) and other hands-on learning experiences has expanded in part as a result of High
+School Success funding. Students who earn credits in Career and Technical Education (CTE) have a far higher graduation rate than the state average. Even during the pandemic CTE programs
+continued to expand, though at a reduced rate.
+
+High School Success also provides funding for districts and schools to increase access to college-level opportunities for students. An Education Northwest study showed that students who participated
+in college courses while in high school were 30 percentage points more likely to graduate from high school, 25 percentage points more likely to enroll in college and 22 percentage points more likely to
+persist in college compared to their peers who did not take college credit courses while in high school. The expansion of college level courses to more students, particularly those belonging to
+historically underrepresented student groups, has helped boost our graduation rate; however, participation rates in these challenging courses did fall during the pandemic.
+
+Districts and schools receiving grants through High School Success and/or through the Student Success Act conduct extensive needs assessments and community engagement in order to identify the
+best strategies to engage and support all of their students, with particular emphasis on the needs of focal student populations, which reflect historically underserved groups such as English Learners,
+students of color, and students with disabilities. Beginning next year, these needs assessments will be part of an integrated budgeting and planning process, bringing these two programs together with
+four others to increase coordination and better identify and meet student needs.
+
+ODE has also solicited recommendations from various equity-focused, ODE-sponsored advisory groups that have developed plans that provide guidance on improving graduation outcomes for
+traditionally marginalized student populations (i.e., the African American/Black Student Success Plan, the American Indian/Alaska Native State Plan, and the English Learner Strategic Plan). These
+plans provide actionable steps that schools and districts can take to improve outcomes for students in these groups and for students overall.
+
+In 2021 and 2022, ODE conducted an extensive data review and community engagement process under SB744, culminating in a report investigating inequities in Oregon graduation outcomes, and
+making recommendations for modifications to graduation requirements to address those inequities and respond to statewide concerns heard throughout the engagement process.
+
+Research shows that 9th grade on-track rates are strong predictors of a student’s likelihood of on-time graduation; ODE is also investing in efforts to improve 9th grade on-track rates, detailed under
+KPM 2.
+
+ODE has applied the following additional strategies focused on improving outcomes for students from culturally, racially, ethnically, and linguistically diverse backgrounds:
+
+       Making graduation a high priority for all of our high schools and asking our leaders, teachers, and staff to identify structural supports that can provide pathways for graduation for students of
+       color through the African American/Black Student Success Plan.
+       Analyzing trends for students of color and identifying the strategies that are making the mark.
+       Providing professional development and resources to district and school staff on culturally responsive pedagogy and practice, via the Office of Equity, Diversity, and Inclusion at ODE.
+
+ODE has applied the following additional strategies focused specifically on improving outcomes for students with disabilities:
+
+       Provide professional development to school districts using post-school outcome data (PSO) to make changes to transition programs by implementing evidence based practices and predictors of
+       post school success for students with disabilities.
+        Collaborate with Vocational Rehabilitation (VR) and Oregon Developmental Disabilities (ODD) to develop and implement 36 cross-agency Regional Employment Collaboration (REC)
+        professional development trainings focused on employment opportunities for staff working in VR, Parent Training Information (PTI), Developmental Disabilities, tribal VR, and education. These
+        trainings were designed to facilitate universal information sharing, encourage collaborative resource delivery, and promote the shared outcome of employment for all transition-age students with
+        disabilities.
+        Ongoing partnership with our Parent Training Institute (PTI) to train parents, families, and staff on understanding and participating in the IEP process and to create a culture that sets high
+        expectations for students with disabilities.
+        Collaboration with VR to fund the Transition Technical Assistance Network (TTAN), which continues the work to improve Oregon’s systems of designing and delivering employment services for
+        students with disabilities. The Transition Network Facilitators (TNF) work to support the collaborative efforts of Vocational Rehabilitation, Developmental Disability Services, Employment First
+        Teams, and Local Education Agencies in Oregon in the implementation of the Workforce Innovation and Opportunity Act (WIOA) and the provision of Pre-Employment Transition Services (Pre-
+        ETS). Transition Network Facilitators provide training and technical assistance in their communities by supporting school districts to recognize and understand the outcomes of Executive Order
+        No. 15-01 and WIOA, specifically focusing on successful transition to employment and/or education.
+        Continued work with the National Technical Assistance Center on Transition (NTACT) for intensive technical assistance to support Oregon’s continual efforts to improve outcomes for youth with
+        disabilities.
+        A new general supervision plan to better identify and support districts in providing high-quality and equitable services to students with disabilities, in support of their progress towards graduation.
+
+In addition, as part of Oregon’s pandemic relief efforts, districts spent $24 million in funds allocated by the Governor and the Legislature over summer 2021, and over $32 million over summer 2022, to
+help more than 18,000 high school students earn credits towards graduation. Community-based organizations across the state were allocated an additional $50 million to help remove barriers to
+student participation for students with disabilities and other groups who have been historically underserved.
+KPM #9               COLLEGE GOING - College-going rate of Oregon residents into post-secondary institutions
+                     Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                    actual     target
+
+  Report Year                                                                      2018                                2019                               2020                                2021                                2022
+College-going rate
+Actual                                                                           64.90%                              64.10%                              61.80%                                                                  56.40%
+Target                                                                             63%                                 65%                                 68%                                 71%                                 71%
+
+How Are We Doing
+Because the Extended Participation Rate tracks participation within 16 months of high school graduation, the most recent year for which data is available is for the high school graduating class of
+2019-20.
+
+For the class of 2019-20, the Extended Participation Rate for Oregon students was 56.4%. Oregon’s rates declined slightly for the class of 2014-15, increased for the class of 2015-16 through 2016-
+17, then dropped sharply in 2017-18 and again in 2018-19. The rate remained relatively flat in 2019-20. Up through the high school class of 2017-18, the rates exceeded the targets needed to keep
+Oregon on track to get to its year 2025 goal of 40% of high school students earning a bachelor’s degree or higher, 40% earning an associate’s degree or other postsecondary credential, and 20%
+earning a high school diploma (the “40-40-20 goal”). The fall in the Extend Participation Rate to 61.8% for the class of 2017-18, however, put it more than 3 percentage points below the target. The
+Extended Participation Rate currently sits more than 14 percentage points below the target for the class of 2019-20. The decrease in Extended Participation Rates may be attributable to the economic
+factors and tuition and fee increases that continue to outpace inflation.
+
+Factors Affecting Results
+A number of factors affect the college participation and success of Oregon high school graduates.  Principal among them is the quality of preparation that students receive in the early grades and in
+high school.  A number of other factors, however, also affect the rate at which students enter college and the success they have there, including the impact students’ financial and family circumstances
+has on their ability to attend college and to remain there once they start. In addition, college attendance rates are sensitive to labor market conditions, with fewer students enrolling in college when job
+prospects are better in a growing economy. Nationally, first-time college student enrollment has been down since at least the fall of 2016 (National Student Clearinghouse, ). Enrollment of first-time
+freshman college students decreased by 2 percent each fall term from 2016 through 2017, followed by a 4 percent drop in fall 2018 and an additional 2 percent drop in fall 2019. Due to the the Covid-
+19 pandemic, enrollment dropped by nearly 10 percent in Fall 2020. By Fall 2021, enrollment had nearly stabilized.
+KPM #10             CHRONIC ABSENTEEISM - Percentage of students who are absent more than 10% of days of the school year
+                    Data Collection Period: Jul 01 - Jun 30
+
+                                                                                 actual     target
+
+  Report Year                                                                   2018                               2019                               2020                              2021                               2022
+All students
+Actual                                                                                                            20.40%                                                               28.10%                             36.10%
+Target                                                                                                                                                16%                                15%                               15%
+Students of color
+Actual                                                                                                            24.50%                                                               37.70%                             44.70%
+Target                                                                                                                                                19%                                18%                               18%
+Students with disabilities
+Actual                                                                                                            27.50%                                                                 37%                              43.70%
+Target                                                                                                                                                22%                                21%                               21%
+
+How Are We Doing
+The regular attender rates for 2021-2022 decreased from previous years of reporting. There was  also an increase in disproportionality of chronic absenteeism; students of color, students who are of
+historically underserved races and ethnicities, students navigating poverty, and students with disabilities all experienced even higher rates compared to prior years.
+
+Educators and school staff have found innovative and creative ways to provide resources and maintain communication and connection with students and families through in-person, hybrid, and remote
+learning. However, as schools are developing hybrid, remote, and customized learning options, attendance may not fully capture the extent of these connections and student learning.
+
+Factors Affecting Results
+Chronic absenteeism is a measure of how many students have missed 10% or more of their enrolled days in a school year. Changes to how student attendance is reported during the school year
+potentially have large effects on chronic absenteeism rates at the end of the year. ODE expects that a few changes in reporting for the 2021-22 school year had such effects:
+
+       The 2021-22 school year was the first full year of in-person schooling since the onset of the COVID-19 pandemic. During the 21-22 school year, students, families, and educators all faced two
+       COVID-19 waves - “a larger Delta wave during August-September peaking August 16 with 2,625 case onsets; and the largest wave to date, the Omicron wave,” which rose into early 2022.
+       Students and families were, and still are, navigating COVID-19 concerns, exposure, quarantines, changing COVID-19 guidelines, and long-covid. The many reasons for a student’s absence are
+       not shown in the Chronic Absenteeism rate, as there is no state-wide attendance coding system that identifies absence reason, COVID-19 exposure, illness, mental health, or otherwise.
+        In 2021-22, the 10-day drop was reinstated, and districts and schools continued to develop innovative hybrid options for students. Schools and districts have experienced three consecutive
+       years of disruptions to attendance reporting. Temporary changes to attendance reporting guidance to support distance learning in 2020-21 reflected ways to track engagement beyond seat time.
+       Online school enrollment sustained, and some new online options were opened in 2021-22. ODE shared guidance on attendance reporting for 2021-22, although reporting may have been
+       implemented differently from school district to school district in implementing codes with fidelity. As with any large shift in the way data is collected, it is expected that it will take a couple of years
+       for remote learning to become both valid and reliable across the state as training is provided, data is audited, and increased communication on best practices in reporting occurs. ODE maintains
+       its commitment to clear guidance and training on attendance data collection and expects this to be a temporary lapse in data validity and reliability.
+       Beginning in the 2020-2021 school year, online schools were required to track attendance daily, meaning that students had more opportunities to be counted as absent. This was a continued
+       requirement for remote/hybrid attendance reporting in the 2021-22 school year, which may have contributed to current chronic absenteeism rates.
+
+This data analysis reveals the continued need to address attendance barriers for Oregon’s students of color and students with disabilities. The Tribal Attendance Promising Practices and Every Day
+Matters work uses this state-wide data to focus support and investment in addressing the root causes of absenteeism.
+
+Every Day Matters (EDM) and Aligning for Student Success: Integrated Guidance for 6 ODE Initiatives
+
+Every Day Matters addresses the root causes of chronic absenteeism through attention to student engagement, school culture, climate, and safety, culturally sustaining pedagogy, and family and
+community involvement. Every Day Matters is the foundation for the five other initiatives in the Aligning for Student Success: Integrated Guidance for 6 ODE Initiatives, which center on equity and
+community engagement, expanding well-rounded education, and strengthening systems and capacities. As the foundation for the Integrated Guidance, EDM seeks to expand systemic understanding
+and support to address the root causes of chronic absenteeism.
+
+Tackling the root causes of chronic absenteeism involves the whole system – ESDs, districts, schools, families, communities, community-based organizations, state agencies, and more. Partnerships
+between school districts, students and caregivers, community-based organizations, and ESDs are the pathways that center students’ sense of self, belonging, and well-being both within schools and
+the larger community. To deepen partnerships and alignment, EDM provides funding to all 19 Education Service Districts (ESDs) for technical assistance, coaching, and additional support for school
+districts and charter schools, specifically focusing on student attendance, belonging, and engagement. EDM is also developing a funding stream for community-based partnerships to deepen the
+involvement of communities in addressing chronic absenteeism directly with students and in collaboration with districts, ESDs, and other partners. This approach aims to address chronic absenteeism
+in ways that create the relational conditions that build trust between families, communities, districts, and ESDs to address the root causes of chronic absenteeism (Henderson, Mapp, et al. 2016).
+
+Tribal Attendance Promising Practices (TAPP) program
+
+The work to decrease Chronic Absenteeism continued with the new biennium of TAPP Grants being renewed at the nine TAPP school district sites, with an additional site added in January of 2022.
+Participating districts continued to receive grant funding to hire a community advocate position with deep local connections to the tribal community to create a school-wide initiative to reduce chronic
+absenteeism and to eliminate the disparity in attendance data between AI/AN and non-Native student groups. This position, known as the TAPP Family Advocate, works in close partnership with a
+named school district leader (known as the Project Director) and a designated staff member connected to educational efforts with the tribe (known as the Tribal Partner) to address and respond to the
+root causes of Chronic Absenteeism with American Indian/Alaska Native students in the local schools.
+
+It is important to note that nine out of the ten TAPP district sites are school districts located the closest geographically to the tribal headquarters of the nine federally recognized tribes of Oregon. The
+schools served directly in the various TAPP school districts by a TAPP Family Advocate support 19% of the total population of AI/AN students in Oregon, with the potential to influence the educational
+experience of 47% of the AI/AN students in Oregon - the total percentage of AI/AN students enrolled in the ten TAPP district sites.
+
+With school districts needing to respond rapidly to the COVID-19 global pandemic in March of 2020, TAPP programs and TAPP school sites shifted from monitoring and responding to attendance data
+with pre-pandemic best practices, to leveraging the relationships made with their tribal partners to create new systems and structures to respond to the immediate needs of families in crisis. TAPP
+Family Advocates continued to find themselves at the helm of this emergency response throughout the 2021-2022 school year, as COVID-19 safety guardrails, masking, and vaccination guidance
+continued to impact schools and to disproportionately impact our Native American community of Oregon. School sponsored Native American cultural activities and programs, as well as
+homework/tutoring centers which had become common practice throughout TAPP school sites, significantly decreased and even had to close due to COVID-19 guardrails. Delivering groceries,
+picking up medication for quarantined families, triaging and responding to technology needs related to virtual learning, connecting families with community based organizations to help with housing
+and utilities assistance, became a Tier 1 intervention, as the intergenerational nature of households with Native American families - many with unvaccinated children and elders living under one roof -
+meant that the day to day lives of AI/AN students dramatically shifted as social distancing and quarantining was ever-increasingly difficult, impacting regular attendance to school.
+
+Despite COVID-19’s disproportional impact on all AI/AN communities, while AI/AN students’ chronic absenteeism rates were still 15.4% higher than the state overall average, this still reflects a
+continued drop in the overall data disparity since 2016. However, AI/AN chronic absenteeism rates increased statewide and at TAPP sites since 2020-2021, as the pandemic exacerbated inequities in
+our tribal communities.
+
+In early drafts of a comprehensive evaluation of the TAPP program being completed by Western Oregon University, some of the most significant outcomes of the TAPP program related to equity have
+undoubtedly been the reason why chronic absenteeism rates were not higher. TAPP efforts at addressing the impacts of systemic racism in school districts serving some of our highest numbers of
+AI/AN students and their families are positively impacting our AI/AN community of Oregon. TAPP school districts have cited an increase of trauma-informed practices being implemented in schools to
+address chronic absenteeism, moving away from punitive measures implemented before. Furthermore, at several sites, the TAPP program’s collaboration with the local tribe was found to play an
+important role in healing for tribes who have experienced trauma from the local school districts or school sites, by shifting the perception of schools perpetuating harmful practices to schools becoming
+a critical partner with the tribes in ensuring the dynamic needs of tribal families are met in real-time and delivered at the school site.
+
+The Office of Indian Education is continuing to understand COVID-19’s impact on the educational experience of AI/AN students throughout the state of Oregon, including paying close attention to the
+unique nature of TAPP school district sites,  and are continuing to shift resources and leverage their Government to Government partnership with tribes to fully understand and meet this need. In the
+immediate future, TAPP Districts are receiving support from the TAPP Grant Manager in analyzing data with an equity lens, to identify root causes of AI/AN disengagement from schools. TAPP Family
+Advocates, Project Directors, and Tribal Partners are receiving professional development on  data justice to further center the voice of the AI/AN community on how the pandemic has impacted them
+and what is needed from ODE to respond to and meet their needs.
+KPM #11          CUSTOMER SERVICE - Percentage of customers rating the agency's customer service as "good" or "excellent"
+                 Data Collection Period: Dec 01 - Dec 31
+
+                                                                     actual   target
+
+ Report Year                                                        2018                         2019                          2020                         2021                          2022
+Overall
+Actual                                                               77%                          78%                          80%                                                        71%
+Target                                                               85%                          85%                          85%                           85%                          85%
+Expertise
+Actual                                                               76%                          78%                          79%                                                        74%
+Target                                                               85%                          85%                          85%                           85%                          85%
+Helpfulness
+Actual                                                               81%                          79%                          82%                                                        76%
+Target                                                               85%                          85%                          85%                           85%                          85%
+Timeliness
+Actual                                                               68%                          69%                          73%                                                        64%
+Target                                                               85%                          85%                          85%                           85%                          85%
+Accuracy
+Actual                                                               76%                          74%                          78%                                                        78%
+Target                                                               85%                          85%                          85%                           85%                          85%
+Availability of Information
+Actual                                                               70%                          73%                          75%                                                        73%
+Target                                                               85%                          85%                          85%                           85%                          85%
+
+How Are We Doing
+ODE administered its annual customer service survey in February 2022, asking customers to rate ODE’s customer service during the 2021 calendar year. ODE experienced a slight decrease in
+ratings for all criteria compared with pre-pandemic years, with the most significant drops in Timeliness and Overall customer service. Accuracy was ODE’s highest rated service criteria, with 78 percent
+of respondents rating ODE as good or excellent, followed by Helpfulness, at 76 percent.
+
+Factors Affecting Results
+ODE’s mission and vision focus on fostering excellence for every learner, with an emphasis on providing excellent customer service to attain this goal. Throughout the pandemic, ODE, ELD, and YDD
+have continued to keep this mission statement front and center, maintaining a commitment to service in the face of highly volatile circumstances. In addition to maintaining pre-existing processes to
+provide excellent customer service, ODE, ELD, and YDD continued to implement new service strategies aimed at helping Oregon youth, schools, and communities recover from the pandemic. These
+efforts ranged in scope from supporting schools and districts in providing students with equitable access to education to ensuring that youth and their families had sustained access to nutritious food
+and other services. Staff continued to work tirelessly to distribute unprecedented levels of both federal and state relief funding and provide customers with updated guidance in response to the shifting
+landscape of the pandemic. Throughout the year, staff also centered care and connection with ODE’s many partners and customers, including schools, other agencies, education partners, Tribes,
+community members, and families to align resources in support of Oregon’s youth.
