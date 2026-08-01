@@ -12,6 +12,7 @@ agency: Board of Pharmacy
 agency_code: null
 reporting_year: '2024'
 year_source: document
+text_source: pdf-text
 filename_year: '2024'
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_OBOP_2024-9-26.pdf

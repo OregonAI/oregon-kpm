@@ -12,6 +12,7 @@ agency: Water Resources Department
 agency_code: null
 reporting_year: '2020'
 year_source: document
+text_source: pdf-text
 filename_year: null
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_WRD%209.29.20.pdf

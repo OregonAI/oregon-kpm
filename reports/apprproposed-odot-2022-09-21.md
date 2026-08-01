@@ -12,6 +12,7 @@ agency: Transportation, Department of
 agency_code: ODOT
 reporting_year: '2022'
 year_source: document
+text_source: pdf-text
 filename_year: '2022'
 measure_status: proposed
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_ODOT_2022-09-21.pdf

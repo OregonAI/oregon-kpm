@@ -12,6 +12,7 @@ agency: State Police, Oregon
 agency_code: OSP
 reporting_year: '2022'
 year_source: document
+text_source: pdf-text
 filename_year: '2022'
 measure_status: proposed
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OSP_2022-09-29.pdf

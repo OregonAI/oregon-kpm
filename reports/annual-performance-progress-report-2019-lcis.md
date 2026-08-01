@@ -13,6 +13,7 @@ agency: Indian Services, Legislative Commission on
 agency_code: LCIS
 reporting_year: '2019'
 year_source: document
+text_source: pdf-text
 filename_year: '2019'
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/Annual%20Performance%20Progress%20Report%20-%202019%20%28LCIS%29.pdf

@@ -12,6 +12,7 @@ agency: Treasury, Oregon State
 agency_code: OST
 reporting_year: '2020'
 year_source: document
+text_source: pdf-text
 filename_year: '2020'
 measure_status: proposed
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OST_2020-12-31.pdf

@@ -12,6 +12,7 @@ agency: Environmental Quality, Department of
 agency_code: null
 reporting_year: '2018'
 year_source: document
+text_source: pdf-text
 filename_year: '2018'
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/12.01_DEQ%20KPM%20Report%20-%20Final.pdf

@@ -12,6 +12,7 @@ agency: Administrative Services, Department of
 agency_code: null
 reporting_year: '2016'
 year_source: document
+text_source: pdf-text
 filename_year: null
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/DAS_APPR_FY%2815-16%29.pdf

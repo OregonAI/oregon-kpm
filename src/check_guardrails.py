@@ -28,6 +28,7 @@ SERIES = ROOT / "_meta" / "series.json"
 
 YEAR_SOURCES = {"document", "filename", "filename-scan", "socrata"}
 STATUSES = {"approved", "proposed"}
+TEXT_SOURCES = {"pdf-text", "ocr"}
 
 
 def frontmatter(path: Path) -> dict:
@@ -97,6 +98,45 @@ def check_no_invented_assessment(docs) -> list[str]:
     return bad
 
 
+def check_ocr_is_declared(docs) -> list[str]:
+    """OCR'd text must never be indistinguishable from text the PDF actually contained.
+
+    Six reports in this corpus are scans with no text layer. Their bodies are a MACHINE
+    READING OF AN IMAGE, and the reading is good but not clean -- the DOGAMI 2017 report
+    yields "pernitted rrine sites" for "permitted mine sites". Mostly-right text is the
+    dangerous case: it reads as authoritative, and a figure misread by one digit is a
+    fabricated number wearing the agency's authority.
+
+    So text_source is required on every document and the caveat is required in the BODY of
+    the OCR'd ones, for the same reason check_agency_claim_disclaimer looks at the body --
+    that is what a caller is actually shown. Same shape as year_source, one rule up: the
+    value and where it came from are two facts, and the second is what makes the first
+    auditable.
+    """
+    bad = []
+    for path, fm in docs:
+        ts = fm.get("text_source")
+        if ts not in TEXT_SOURCES:
+            bad.append(f"{path.name}: text_source={ts!r} "
+                       f"(must be one of {sorted(TEXT_SOURCES)})")
+        elif ts == "ocr":
+            body = path.read_text(encoding="utf-8", errors="replace").split("---", 2)[-1]
+            if "MACHINE READING OF AN IMAGE" not in body:
+                bad.append(f"{path.name}: text_source is ocr but the body does not say so")
+            # THE CORROBORATION MUST BE ON THE RECORD, not just performed once at ingest.
+            # Condition 6 of the two-engine rule: a reader who cannot see which engines
+            # agreed, by how much, and that no human checked it, has no way to weigh the
+            # text -- and a later re-ingest under a weaker configuration would leave no
+            # trace. `agree` and the engine names come from ocr_corroborate.notes().
+            cn = fm.get("conversion_notes") or ""
+            for needle, what in (("agree on", "cross-engine agreement rate"),
+                                 ("dictionary-recognizable", "dictionary ratio"),
+                                 ("NOT human-verified", "the NOT human-verified statement")):
+                if needle not in cn:
+                    bad.append(f"{path.name}: conversion_notes is missing {what}")
+    return bad
+
+
 def check_series_is_current(docs) -> list[str]:
     """Every document with rows in the series must still exist, and vice versa.
 
@@ -119,6 +159,7 @@ CHECKS = [
     ("proposed vs approved is explicit", check_measure_status),
     ("body carries the agency-claim caveat", check_agency_claim_disclaimer),
     ("no invented green/yellow/red assessment", check_no_invented_assessment),
+    ("OCR'd text declares itself", check_ocr_is_declared),
     ("series matches the documents", check_series_is_current),
 ]
 

@@ -29,3 +29,9 @@ pyyaml
 # Stage 2 commits extracted text — pin it exactly at that point, not before, so the pin
 # documents a real constraint instead of a guess.
 pypdf
+
+# OCR, needed only for `ingest_kpm.py --ocr` (6 of 789 sources are scans with no text
+# layer). Two engines, because one engine's reading is unverifiable -- see
+# src/ocr_corroborate.py. tesseract and poppler are SYSTEM packages, not pip:
+#   sudo apt install -y ocrmypdf tesseract-ocr poppler-utils
+paddleocr>=3.7.0        # cross-check engine; paddlepaddle(-gpu) is its runtime

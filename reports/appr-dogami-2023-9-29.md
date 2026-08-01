@@ -13,6 +13,7 @@ agency: Department of Geology and Mineral Industries
 agency_code: null
 reporting_year: '2023'
 year_source: document
+text_source: pdf-text
 filename_year: '2023'
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_DOGAMI_2023-9-29.pdf

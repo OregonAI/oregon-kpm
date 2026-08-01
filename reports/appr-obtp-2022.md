@@ -12,6 +12,7 @@ agency: Tax Practitioners, Board of
 agency_code: OBTP
 reporting_year: '2022'
 year_source: document
+text_source: pdf-text
 filename_year: '2022'
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_OBTP_2022.pdf

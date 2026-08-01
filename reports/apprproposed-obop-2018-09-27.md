@@ -12,6 +12,7 @@ agency: Oregon Board of Psychology
 agency_code: OBOP
 reporting_year: '2018'
 year_source: document
+text_source: pdf-text
 filename_year: '2018'
 measure_status: proposed
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OBOP_2018-09-27.pdf

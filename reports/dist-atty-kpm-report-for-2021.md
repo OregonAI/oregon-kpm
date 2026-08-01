@@ -12,6 +12,7 @@ agency: District Attorneys and Their Deputies
 agency_code: null
 reporting_year: '2021'
 year_source: document
+text_source: pdf-text
 filename_year: '2021'
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/Dist%20Atty%20-%20KPM%20Report%20for%202021.pdf

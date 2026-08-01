@@ -1,7 +1,7 @@
 {
  "corpus": "oregon-kpm",
- "n_nodes": 779,
- "n_edges": 606,
+ "n_nodes": 785,
+ "n_edges": 611,
  "n_edges_external": 0,
  "nodes": [
   {
@@ -9,6 +9,12 @@
    "title": "Environmental Quality, Department of — Annual Performance Progress Report, Reporting Year 2018",
    "doc_type": "performance_report",
    "path": "reports/12-01-deq-kpm-report-final.md"
+  },
+  {
+   "id": "2016-dogami-kpm-report",
+   "title": "Geology & Mineral Industries, Department of — Annual Performance Progress Report, Reporting Year 2016",
+   "doc_type": "performance_report",
+   "path": "reports/2016-dogami-kpm-report.md"
   },
   {
    "id": "2016oyaapprreportwithproposedchanges-final",
@@ -381,6 +387,12 @@
    "title": "Construction Contractors Board — Annual Performance Progress Report, Reporting Year 2018",
    "doc_type": "performance_report",
    "path": "reports/appr-ccb-2018.md"
+  },
+  {
+   "id": "appr-ccb-2019-10-02",
+   "title": "Construction Contractors Board — Annual Performance Progress Report, Reporting Year 2019",
+   "doc_type": "performance_report",
+   "path": "reports/appr-ccb-2019-10-02.md"
   },
   {
    "id": "appr-ccb-2020",
@@ -927,6 +939,12 @@
    "title": "Energy, Oregon Department of — Annual Performance Progress Report, Reporting Year 2022",
    "doc_type": "performance_report",
    "path": "reports/appr-doe-2022-09-29.md"
+  },
+  {
+   "id": "appr-dogami-09-26-2017",
+   "title": "Geology & Mineral Industries, Department of — Annual Performance Progress Report, Reporting Year 2017",
+   "doc_type": "performance_report",
+   "path": "reports/appr-dogami-09-26-2017.md"
   },
   {
    "id": "appr-dogami-2018-10-02",
@@ -2663,6 +2681,12 @@
    "path": "reports/appr-odva-2022-09-29-1.md"
   },
   {
+   "id": "appr-odva-2023-9-26",
+   "title": "9/25/23, 5:36 PM — Annual Performance Progress Report, Reporting Year 2023",
+   "doc_type": "performance_report",
+   "path": "reports/appr-odva-2023-9-26.md"
+  },
+  {
    "id": "appr-odva-2024",
    "title": "Department of Veterans' Affairs — Annual Performance Progress Report, Reporting Year 2024",
    "doc_type": "performance_report",
@@ -3147,6 +3171,12 @@
    "title": "Parks and Recreation Department — Annual Performance Progress Report, Reporting Year 2021",
    "doc_type": "performance_report",
    "path": "reports/appr-oprd-2021-08-26.md"
+  },
+  {
+   "id": "appr-oprd-2022-08-15",
+   "title": "Parks and Recreation, Oregon Department of — Annual Performance Progress Report, Reporting Year 2022",
+   "doc_type": "performance_report",
+   "path": "reports/appr-oprd-2022-08-15.md"
   },
   {
    "id": "appr-oprd-2023-10-17",
@@ -3927,6 +3957,12 @@
    "title": "Racing Commission, Oregon — Annual Performance Progress Report, Reporting Year 2021",
    "doc_type": "performance_report",
    "path": "reports/appr-racing-2021-09-29.md"
+  },
+  {
+   "id": "appr-racing-2022",
+   "title": "Racing Commission, Oregon — Annual Performance Progress Report, Reporting Year 2022",
+   "doc_type": "performance_report",
+   "path": "reports/appr-racing-2022.md"
   },
   {
    "id": "appr-rea-2016-11-15",
@@ -4711,6 +4747,36 @@
    "to": "appr-deq-2021-10-04"
   },
   {
+   "from": "appr-dogami-09-26-2017",
+   "type": "related",
+   "to": "2016-dogami-kpm-report"
+  },
+  {
+   "from": "appr-dogami-2018-10-02",
+   "type": "related",
+   "to": "appr-dogami-09-26-2017"
+  },
+  {
+   "from": "appr-dogami-2019-09-26",
+   "type": "related",
+   "to": "appr-dogami-2018-10-02"
+  },
+  {
+   "from": "appr-dogami-2020-09-30",
+   "type": "related",
+   "to": "appr-dogami-2019-09-26"
+  },
+  {
+   "from": "appr-dogami-2021-09-28",
+   "type": "related",
+   "to": "appr-dogami-2020-09-30"
+  },
+  {
+   "from": "apprproposed-dogami-2022-10-05",
+   "type": "related",
+   "to": "appr-dogami-2021-09-28"
+  },
+  {
    "from": "appr-oya-2017-10-13",
    "type": "related",
    "to": "2016oyaapprreportwithproposedchanges-final"
@@ -5181,6 +5247,16 @@
    "to": "apr-ccb-9-14-17"
   },
   {
+   "from": "appr-ccb-2019-10-02",
+   "type": "related",
+   "to": "appr-ccb-2018"
+  },
+  {
+   "from": "appr-ccb-2020",
+   "type": "related",
+   "to": "appr-ccb-2019-10-02"
+  },
+  {
    "from": "appr-ccb2021",
    "type": "related",
    "to": "appr-ccb-2020"
@@ -5579,26 +5655,6 @@
    "from": "appr-doe-2021-09-30",
    "type": "related",
    "to": "appr-doe-2020-09-30"
-  },
-  {
-   "from": "appr-dogami-2019-09-26",
-   "type": "related",
-   "to": "appr-dogami-2018-10-02"
-  },
-  {
-   "from": "appr-dogami-2020-09-30",
-   "type": "related",
-   "to": "appr-dogami-2019-09-26"
-  },
-  {
-   "from": "appr-dogami-2021-09-28",
-   "type": "related",
-   "to": "appr-dogami-2020-09-30"
-  },
-  {
-   "from": "apprproposed-dogami-2022-10-05",
-   "type": "related",
-   "to": "appr-dogami-2021-09-28"
   },
   {
    "from": "appr-dogami-2024-09-19",
@@ -7574,6 +7630,11 @@
    "from": "appr-racing-2021-09-29",
    "type": "related",
    "to": "appr-racing-2020-09-30"
+  },
+  {
+   "from": "appr-racing-2022",
+   "type": "related",
+   "to": "appr-racing-2021-09-29"
   },
   {
    "from": "appr-rea-2017-09-29",

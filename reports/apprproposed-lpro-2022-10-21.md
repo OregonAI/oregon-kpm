@@ -12,6 +12,7 @@ agency: Legislative Policy and Research Office
 agency_code: LPRO
 reporting_year: '2022'
 year_source: document
+text_source: pdf-text
 filename_year: '2022'
 measure_status: proposed
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_LPRO_2022-10-21.pdf

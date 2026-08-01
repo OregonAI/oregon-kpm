@@ -12,6 +12,7 @@ agency: Medical Board, Oregon
 agency_code: OMB
 reporting_year: '2022'
 year_source: document
+text_source: pdf-text
 filename_year: '2022'
 measure_status: proposed
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OMB_2022-09-26.pdf

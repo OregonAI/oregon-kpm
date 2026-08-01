@@ -12,6 +12,7 @@ agency: Legislative Administration
 agency_code: null
 reporting_year: '2018'
 year_source: document
+text_source: pdf-text
 filename_year: '2018'
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_LEG%20ADMIN_2018-10-12.pdf

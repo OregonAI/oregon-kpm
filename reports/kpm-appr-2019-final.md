@@ -12,6 +12,7 @@ agency: 9/26/2019 KPM - View Report
 agency_code: null
 reporting_year: '2019'
 year_source: document
+text_source: pdf-text
 filename_year: '2019'
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/KPM%20APPR%202019_final.pdf

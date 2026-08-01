@@ -12,6 +12,7 @@ agency: Military Department
 agency_code: OMD
 reporting_year: '2021'
 year_source: document
+text_source: pdf-text
 filename_year: '2021'
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_OMD_2021.pdf

@@ -12,6 +12,7 @@ agency: Veterinary Medical Examining Board
 agency_code: OVMEB
 reporting_year: '2025'
 year_source: document
+text_source: pdf-text
 filename_year: '2025'
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_OVMEB_2025-10-03.pdf

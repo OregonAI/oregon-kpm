@@ -12,6 +12,7 @@ agency: Mortuary and Cemetery Board
 agency_code: null
 reporting_year: '2019'
 year_source: document
+text_source: pdf-text
 filename_year: '2019'
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/OMCB%20Annual%20KPM%20Progress%20Report%20%282019%29.pdf

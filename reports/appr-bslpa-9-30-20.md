@@ -12,6 +12,7 @@ agency: Speech-Language Pathology and Audiology
 agency_code: null
 reporting_year: '2020'
 year_source: document
+text_source: pdf-text
 filename_year: null
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_BSLPA%209.30.20.pdf

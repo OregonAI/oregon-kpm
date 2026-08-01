@@ -12,6 +12,7 @@ agency: Oregon Racing Commission
 agency_code: ORC
 reporting_year: '2024'
 year_source: document
+text_source: pdf-text
 filename_year: '2024'
 measure_status: proposed
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_ORC_2024-10-17.pdf

@@ -12,6 +12,7 @@ agency: Library of Oregon, State
 agency_code: OSL
 reporting_year: '2022'
 year_source: document
+text_source: pdf-text
 filename_year: '2022'
 measure_status: proposed
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OSL_2022-09-28.pdf

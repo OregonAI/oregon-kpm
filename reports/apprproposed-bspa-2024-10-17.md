@@ -13,6 +13,7 @@ agency: Board of Speech-Language Pathology and Audiology
 agency_code: BSPA
 reporting_year: '2024'
 year_source: document
+text_source: pdf-text
 filename_year: '2024'
 measure_status: proposed
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_BSPA_2024-10-17.pdf

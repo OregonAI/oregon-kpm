@@ -12,6 +12,7 @@ agency: Dentistry, Board of
 agency_code: null
 reporting_year: '2019'
 year_source: document
+text_source: pdf-text
 filename_year: null
 measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/OBD%20Annual%20Performance%20Progress%20Report.pdf

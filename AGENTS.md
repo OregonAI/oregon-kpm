@@ -125,3 +125,64 @@ step is exactly the failure that job exists to prevent, and it is silent by cons
 stale. A corpus that ships `joins:` owes itself the same treatment: the toolkit resolves
 each `joins[].document_id`, but only this corpus can check that a `{dataset, key}` pair
 selects any rows at all.
+
+## OCR — the default stack is tesseract + PaddleOCR
+
+When a source PDF has no text layer (`0 chars extracted`), this is the stack. Do not
+hand-roll a renderer, and do not substitute a hosted or generative model.
+
+**Primary: `ocrmypdf` (tesseract).** Writes a text layer into a COPY beside the
+original — never over it, so `source_sha256` keeps hashing the bytes upstream served.
+
+```
+ocrmypdf -l eng --optimize 0 --output-type pdf --rotate-pages --deskew in.pdf out.pdf
+```
+
+**Cross-check: PaddleOCR (PP-OCRv6).** Reads the ORIGINAL scan, so the two engines
+share nothing but the pixels — corroborating against the other engine's output is an
+echo, not evidence. Measured word-sequence agreement across the six oregon-kpm scans:
+**0.82–0.93**, every one clearing the 0.80 bar.
+
+**Tiebreaker: docTR (DBNet + CRNN).** Not the default — it agrees with tesseract less
+than Paddle does on every document (0.75–0.86), so it would lower every score. Reach
+for it when the primary pair disagrees, and when orientation is in doubt: it straightens
+pages itself and was the only engine that read a 180°-rotated scan correctly with no
+document-specific retry.
+
+**Every engine needs its orientation handling verified separately**, or the
+corroboration check quietly becomes an orientation check. Measured: with Paddle's
+`use_doc_orientation_classify=False`, a rotated scan scored **0.050** against tesseract;
+with it on, **0.929**. Same page, same engines. Tesseract needs
+`--rotate-pages-threshold 0` on that document — at default OSD confidence it leaves page
+1 upside down and emits `:Peusiiqnd` for `Published:`, thousands of characters of
+confident garbage that passes every length check.
+
+**`pdftotext -layout` (poppler) is for a different fault** — a text layer that extracts
+letter-spaced (`A c t u a l 9 3 %`) or in column rather than reading order. That is not
+a scan; OCR is the wrong tool, and re-extracting with another engine recovers the real
+spacing instead of guessing it back.
+
+### Promotion into `## Full text`
+
+Governed by the **two-engine rule** in `oregon-policy-repo/AGENTS.md`. A single
+engine's output is never promotable. Reference implementations:
+`oregon-policy-repo/src/ocr_fallback_eo.py` and `oregon-kpm/src/ocr_corroborate.py`.
+
+Two traps worth inheriting, both found by measurement:
+
+* **Never build the dictionary from a corpus that already contains OCR output.** The
+  errors enter the vocabulary that judges them — `pernitted` becomes a recognised word —
+  and every OCR'd document scores 100% dictionary-recognizable however badly it was
+  read. A gate that cannot fail is worse than no gate, because it looks like evidence.
+  Exclude `text_source: ocr` documents when building the vocabulary.
+* **Score the figures separately from the words.** The reference metric counts
+  `[a-z]{2,}` and so excludes every digit. On the oregon-kpm scans, word agreement ran
+  88–98% while agreement on the FIGURES ran **69–85%** — digits are exactly where two
+  engines diverge, and the headline number hides it. In any corpus whose payload is
+  numbers, report both; a low figure score means human review, not rejection.
+
+**OCR text is a machine reading of an image, not the source's own text.** Agreement is
+evidence the words are on the page. It is NOT evidence they were read correctly, and two
+engines can misread the same smudged digit identically. Record the engines, both
+agreement rates and the dictionary ratio in `conversion_notes`, end with
+`NOT human-verified`, and warn the reader in the document body.

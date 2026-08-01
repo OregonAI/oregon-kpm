@@ -6,9 +6,9 @@ Generated 2026-07-31. Non-authoritative; see DISCLAIMER.md.
 
 | doc_type | count |
 |---|---|
-| performance_report | 779 |
+| performance_report | 785 |
 
-**Total: 779**
+**Total: 785**
 
 ## Source manifest
 
@@ -16,11 +16,12 @@ Generated 2026-07-31. Non-authoritative; see DISCLAIMER.md.
 
 ## Freshness (reverify every 90 days)
 
-779 of 779 document(s) overdue for re-verification.
+785 of 785 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
 | 12-01-deq-kpm-report-final | performance_report | never |
+| 2016-dogami-kpm-report | performance_report | never |
 | 2016oyaapprreportwithproposedchanges-final | performance_report | never |
 | 2018-09-21-appr-odva | performance_report | never |
 | 2018-appr-omd | performance_report | never |
@@ -69,6 +70,5 @@ Generated 2026-07-31. Non-authoritative; see DISCLAIMER.md.
 | appr-boppps-2018 | performance_report | never |
 | appr-boppps-2020 | performance_report | never |
 | appr-boppps-2022 | performance_report | never |
-| appr-boppps-25500-2019 | performance_report | never |
-| … | *729 more* | |
+| … | *735 more* | |
 
