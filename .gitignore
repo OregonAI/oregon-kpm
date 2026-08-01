@@ -34,3 +34,10 @@ credentials.json
 # full-text coverage check diffs against, so hash-only keeps both guarantees. What is
 # lost is the archival copy -- a real cost here, since 41 manifest URLs already 404.
 _meta/snapshots/*.pdf
+
+# The semantic vector artifact. DERIVED and REBUILDABLE from the documents beside it
+# (`python3 -m corpus_toolkit.semantic.build`), and large — a chunk-level index runs from a
+# few MB to a few hundred. It is built on a GPU host and mounted into the container at
+# runtime, never committed and never baked, the same arrangement the platform already uses
+# for executive-regulatory-frameworks.
+_meta/embeddings/
