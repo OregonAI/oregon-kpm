@@ -9,6 +9,9 @@ citation: APPR ENVIRONMENTAL-QUALITY-DE 2018
 authority_level: agency_report
 issuing_body: Environmental Quality, Department of
 agency: Environmental Quality, Department of
+agency_key: environmental-quality
+agency_registry_slug: department-of-environmental-quality
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2018'
 year_source: document

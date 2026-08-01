@@ -9,6 +9,9 @@ citation: APPR PHARMACY-BOARD-OF 2018
 authority_level: agency_report
 issuing_body: Pharmacy, Board of
 agency: Pharmacy, Board of
+agency_key: pharmacy
+agency_registry_slug: board-of-pharmacy
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2018'
 year_source: document

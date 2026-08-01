@@ -9,6 +9,9 @@ citation: APPR OMCB 2021
 authority_level: agency_report
 issuing_body: Mortuary and Cemetery Board
 agency: Mortuary and Cemetery Board
+agency_key: cemetery-mortuary
+agency_registry_slug: mortuary-and-cemetery-board
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: OMCB
 reporting_year: '2021'
 year_source: document

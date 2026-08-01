@@ -9,6 +9,9 @@ citation: APPR OBDD 2022
 authority_level: agency_report
 issuing_body: Business Oregon
 agency: Business Oregon
+agency_key: business
+agency_registry_slug: oregon-business-development-department
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: OBDD
 reporting_year: '2022'
 year_source: document

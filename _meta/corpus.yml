@@ -67,10 +67,33 @@ plugins:
 # own corpus, and the damage lands here, as a resolution returning a stale title.
 #
 # Mark the matching citation schemes with register_scheme(..., corpus="<sibling id>").
-# siblings:
-#   - id: "sibling-corpus-name"
-#     index_url: "https://ORG.github.io/sibling-corpus-name/corpus-index.json"
-#     web_base:  "https://github.com/ORG/sibling-corpus-name/blob/main/"
+siblings:
+  # MEASURED before declaring, not assumed -- the standard oregon-audits set. Across the 785
+  # reports: ORS 202 occurrences in 77 documents over 36 distinct sections, OAR 39
+  # occurrences in 19 documents over 11 rules. Against this sibling's published index
+  # (75,250 documents), 26 of 36 ORS targets resolve (72%) and 9 of 11 OAR (82%) -- 127 of
+  # 202 ORS occurrences and 37 of 39 OAR.
+  #
+  # The unresolved remainder is ERF COVERAGE, not citations this corpus got wrong: ORS
+  # 197.296-197.299 and 197A.320 (land use), 403.115/403.130 (9-1-1), 468A.205/468A.793
+  # (air quality). Each begins resolving the day ERF ingests that chapter, with no change
+  # here.
+  #
+  # THIS ENTRY IS A BUG FIX, not a new feature. src/citation_schemes.py has registered
+  # `ors-section` and `oar-rule` with corpus="executive-regulatory-frameworks" since Stage 4,
+  # and with no sibling declared the framework returned `available: False` for every one of
+  # them -- surfacing as `sibling_unavailable`, which a caller reads as "could not check"
+  # rather than "does not exist". Configuration missing behind a shipped feature is worse
+  # than the feature being absent, because it looks like a working edge that finds nothing.
+  - id: "executive-regulatory-frameworks"
+    index_url: "https://oregonai.github.io/executive-regulatory-frameworks/corpus-index.json"
+    web_base:  "https://github.com/OregonAI/executive-regulatory-frameworks/blob/main/"
+# oregon-budget and oregon-audits are NOT declared, and the omission is deliberate. The join
+# this corpus most wants -- dollars appropriated against outcomes reported -- matches on
+# AGENCY and BIENNIUM, not on a citation string an APPR contains, so no `corpus=` scheme can
+# reach it and declaring the sibling would add configuration that resolves nothing. See the
+# note in src/citation_schemes.py, and _meta/agency-crosswalk.yml for the agency half.
+# Declare them with the scheme, not before it.
 
 disclaimer_marker: "NON-AUTHORITATIVE"
 graph_path: "_meta/graph.json"
@@ -85,6 +108,27 @@ provenance:
 mcp:
   server_name: "oregon-kpm"
   transports: [stdio, http]
+  # WITHOUT THIS LIST THE SERVER DROPS THESE FIELDS ENTIRELY. `get_document` emits a fixed
+  # base contract plus whatever a corpus allow-lists here (corpus_toolkit/mcp/backends.py
+  # ~line 514), so until now a caller could not see the reporting year, the agency, or how
+  # either was obtained -- fields `src/check_guardrails.py` makes MANDATORY on every
+  # document. Required by our own rules and unreachable through the interface is the trap
+  # the toolkit's own comment warns about.
+  #
+  # `year_source` and `text_source` are here for the same reason they exist at all: a value
+  # whose provenance is invisible is a value a caller cannot weigh. Shipping
+  # `agency_registry_slug` without them would put a cross-corpus link in the corpus and
+  # leave it unreadable.
+  extra_document_fields:
+    - agency
+    - agency_key
+    - agency_code
+    - agency_registry_slug
+    - agency_registry_corpus
+    - reporting_year
+    - year_source
+    - measure_status
+    - text_source
 
 status:
   reverify_days: 90                  # quarterly re-verification SLA

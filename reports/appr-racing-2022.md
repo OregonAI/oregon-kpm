@@ -9,6 +9,9 @@ citation: APPR RACING 2022
 authority_level: agency_report
 issuing_body: Racing Commission, Oregon
 agency: Racing Commission, Oregon
+agency_key: racing
+agency_registry_slug: oregon-racing-commission
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: RACING
 reporting_year: '2022'
 year_source: document

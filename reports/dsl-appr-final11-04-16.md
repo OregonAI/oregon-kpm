@@ -9,6 +9,9 @@ citation: APPR LANDS-DEPARTMENT-OF-STAT 2016
 authority_level: agency_report
 issuing_body: Lands, Department of State
 agency: Lands, Department of State
+agency_key: lands
+agency_registry_slug: department-of-state-lands
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2016'
 year_source: document

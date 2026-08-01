@@ -9,6 +9,9 @@ citation: APPR DOC 2018
 authority_level: agency_report
 issuing_body: Corrections, Department of
 agency: Corrections, Department of
+agency_key: corrections
+agency_registry_slug: department-of-corrections
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: DOC
 reporting_year: '2018'
 year_source: document

@@ -10,6 +10,9 @@ citation: APPR OBLPCT 2016
 authority_level: agency_report
 issuing_body: Licensed Professional Counselors and Therapists, Board of
 agency: Licensed Professional Counselors and Therapists, Board of
+agency_key: counselors-licensed-professional-therapists
+agency_registry_slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: OBLPCT
 reporting_year: '2016'
 year_source: document

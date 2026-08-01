@@ -9,6 +9,9 @@ citation: APPR OJD 2022
 authority_level: agency_report
 issuing_body: Judicial Department, Oregon
 agency: Judicial Department, Oregon
+agency_key: judicial
+agency_registry_slug: judicial-department
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: OJD
 reporting_year: '2022'
 year_source: document

@@ -9,6 +9,9 @@ citation: APPR DENTISTRY-BOARD-OF 2020
 authority_level: agency_report
 issuing_body: Dentistry, Board of
 agency: Dentistry, Board of
+agency_key: dentistry
+agency_registry_slug: oregon-board-of-dentistry
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2020'
 year_source: document

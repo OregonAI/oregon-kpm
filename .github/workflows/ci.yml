@@ -111,3 +111,14 @@ jobs:
       # here and the one that would most convincingly misrepresent the source.
       - name: Corpus guardrails
         run: python3 src/check_guardrails.py
+      # Every agency must have a recorded decision about its counterpart in the
+      # executive-regulatory-frameworks registry -- mapped, or absent with a stated reason.
+      # Without this a new agency arrives silently unmapped and the crosswalk degrades by
+      # omission rather than by anything anyone can see.
+      #
+      # Runs WITHOUT a sibling checkout on purpose. Referential integrity against ERF
+      # (--verify-registry) needs that repo and is a local/review step, the same split
+      # oregon-budget's build_joins.py makes: what CI verifies must be verifiable from what
+      # is committed here.
+      - name: Agency registry crosswalk must be complete
+        run: python3 src/link_agency_registry.py --check

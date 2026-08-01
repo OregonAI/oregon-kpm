@@ -9,6 +9,9 @@ citation: APPR JUSTICE 2021
 authority_level: agency_report
 issuing_body: Justice, Department of
 agency: Justice, Department of
+agency_key: justice
+agency_registry_slug: department-of-justice
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: JUSTICE
 reporting_year: '2021'
 year_source: document

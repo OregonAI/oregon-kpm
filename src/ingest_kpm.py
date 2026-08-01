@@ -83,6 +83,26 @@ UA = "OregonAI-corpus-platform/1.0 (+https://github.com/OregonAI/oregon-kpm)"
 # ingestion rather than discovered by Stage 3 as a mysterious empty series.
 ANCHORS = ["KPM #", "Report Year", "Actual", "Target", "Data Collection Period"]
 
+# PAGE-1 FURNITURE THAT IS NOT AN AGENCY NAME. find_agency takes the first substantial line
+# on page 1, and for three documents that line was the BROWSER'S PRINT HEADER, so the corpus
+# shipped 195 rows attributed to agencies called `9/25/23, 5:36 PM`, `9/26/2019 KPM - View
+# Report`, and `Agency Management Report`.
+#
+# These reports are printed to PDF from kpm.dasapp.oregon.gov, and the print header carries a
+# timestamp, the source URL, and the application's own page title above the real cover line.
+# The agency was there all along -- `Department of Veterans' Affairs` is the FOURTH line of
+# appr-odva-2023-9-26 -- so this skips the furniture rather than reaching for a fallback.
+#
+# Matched anywhere in the line, not anchored: OCR of a print header interleaves the timestamp
+# and the page number on one line.
+PAGE_FURNITURE = re.compile(
+    r"https?://"                              # the source URL the browser stamps
+    r"|\d{1,2}/\d{1,2}/\d{2,4}"               # a printed date, with or without a time
+    r"|KPM\s*-\s*View\s*Report"               # the web application's page title
+    r"|Agency\s+Management\s+Report"          # the report generator's own banner
+    r"|KPMs?\s+for\s+Reporting\s+Year"        # ditto, the subtitle
+    r"|^\s*Published\s*:", re.I)
+
 REPORTING_YEAR = re.compile(r"Reporting\s+Year\s*[:\-]?\s*((?:19|20)\d{2})", re.I)
 REPORTING_YEAR_TIGHT = re.compile(r"ReportingYear[:\-]?((?:19|20)\d{2})", re.I)
 
@@ -330,11 +350,69 @@ def find_agency(first_page: str, socrata_name: str | None) -> tuple[str, str]:
             continue
         if re.search(r"annual\s*p?\s*erform", line, re.I):   # the title line, spacing-tolerant
             continue
+        if PAGE_FURNITURE.search(line):
+            continue
         if len(line) > 3:
             return line, "document"
     if socrata_name:
         return socrata_name, "socrata"
     return "", "unknown"
+
+
+def agency_key(name: str) -> str:
+    """A stable identity for one agency across the many ways its cover page names it.
+
+    THE STATED NAME IS NOT AN IDENTIFIER, and treating it as one broke the series chain.
+    `build_graph.py` links each agency's report to the year before it by matching on the
+    agency string, so the Board of Accountancy filing as `Board of Accountancy` one year and
+    `Accountancy, Board of` the next got NO edge between those years -- silently, because a
+    missing edge looks exactly like an agency that did not report. Measured: 152 distinct
+    agency strings across the corpus resolve to 98 actual agencies, with 47 of them split
+    across two or three spellings.
+
+    The rule is word-order-insensitive and drops the structural words agencies reorder
+    around, then sorts what is left. That merges `Oregon Youth Authority` with `Youth
+    Authority, Oregon` and `Geology & Mineral Industries, Department of` with `Department of
+    Geology and Mineral Industries`.
+
+    IT IS DELIBERATELY CONSERVATIVE. All 47 groups it merges were inspected and every one is
+    the same body under a reordered name. It leaves `Psychologist Examiners, Board of` apart
+    from `Board of Psychology`, and `District Attorneys and Their Deputies` apart from
+    `District Attorneys` -- those are renames or scope changes, and deciding they are the
+    same agency is curation, not a mechanical rule. A wrong merge would attribute one
+    agency's performance to another, which is worse than the missing edge this fixes.
+
+    `agency` itself is untouched. The cover page's wording is what the document says and
+    stays the served value; this is the derived key beside it, the same way `year_source`
+    and `text_source` record how a value was obtained rather than altering it.
+    """
+    s = re.sub(r"[^a-z0-9 ]", " ", (name or "").lower())
+    s = re.sub(r"\b(department|dept|of|the|oregon|state|board|commission|office|division"
+               r"|bureau|and|their)\b", " ", s)
+    return "-".join(sorted(s.split()))
+
+
+_CROSSWALK: dict | None = None
+
+
+def registry_slug(key: str) -> str | None:
+    """The ERF registry slug for an agency_key, or None if unmapped or unrecorded.
+
+    Read from `_meta/agency-crosswalk.yml`, which is curated and validated separately by
+    src/link_agency_registry.py. Lazily, because most runs of this ingester never need it and
+    a missing crosswalk must not stop a corpus from being ingested -- the crosswalk is
+    derived FROM the corpus, so requiring it here would be circular on a first ingest.
+
+    Deliberately silent on a miss. An unmapped agency is a recorded decision in that file,
+    not an error here, and stamping a null would put a claim in frontmatter that the
+    crosswalk deliberately declines to make.
+    """
+    global _CROSSWALK
+    if _CROSSWALK is None:
+        p = ROOT / "_meta" / "agency-crosswalk.yml"
+        _CROSSWALK = (yaml.safe_load(p.read_text(encoding="utf-8")) or {}) if p.is_file() else {}
+    entry = (_CROSSWALK.get("mapping") or {}).get(key or "")
+    return entry.get("slug") if isinstance(entry, dict) else None
 
 
 def build_document(src: dict, text: str, sha: str, year: str, agency: str,
@@ -371,6 +449,21 @@ def build_document(src: dict, text: str, sha: str, year: str, agency: str,
         "authority_level": "agency_report",
         "issuing_body": agency or "Unnamed agency",
         "agency": agency or None,
+        # Derived identity, NOT a replacement for `agency`. See agency_key(): the stated name
+        # varies year to year and the series chain is keyed on this instead.
+        "agency_key": agency_key(agency) or None,
+        # The SAME agency in the executive-regulatory-frameworks registry, where it is a
+        # first-class entity with an OAR chapter, a governance class and a citation basis.
+        # Written only when the crosswalk maps it; omitted entirely otherwise, because
+        # `null` would read as "this agency has no counterpart" when the honest state is
+        # recorded next door in _meta/agency-crosswalk.yml's `unmapped` with a reason.
+        #
+        # The slug is a REFERENCE, not a copy. ERF's name, governance and hierarchy stay in
+        # ERF; duplicating them here would create a second source of truth that drifts,
+        # which is the failure `siblings:` exists to avoid.
+        **({"agency_registry_slug": registry_slug(agency_key(agency)),
+            "agency_registry_corpus": "executive-regulatory-frameworks"}
+           if registry_slug(agency_key(agency)) else {}),
         "agency_code": code,
         # From the DOCUMENT, per the module docstring. year_source says so explicitly so a
         # reader never has to guess whether a year was stated or inferred.

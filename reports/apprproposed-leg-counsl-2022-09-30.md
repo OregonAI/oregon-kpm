@@ -9,6 +9,9 @@ citation: APPR LEGISLATIVE-COUNSEL 2022
 authority_level: agency_report
 issuing_body: Legislative Counsel
 agency: Legislative Counsel
+agency_key: counsel-legislative
+agency_registry_slug: legislative-counsel-office
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2022'
 year_source: document

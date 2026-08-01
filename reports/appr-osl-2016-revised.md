@@ -9,6 +9,9 @@ citation: APPR LIBRARY-OREGON-STATE 2016
 authority_level: agency_report
 issuing_body: Library, Oregon State
 agency: Library, Oregon State
+agency_key: library
+agency_registry_slug: oregon-state-library
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2016'
 year_source: document

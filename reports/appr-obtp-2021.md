@@ -9,6 +9,9 @@ citation: APPR OBTP 2021
 authority_level: agency_report
 issuing_body: Tax Practitioners, Board of
 agency: Tax Practitioners, Board of
+agency_key: practitioners-tax
+agency_registry_slug: state-board-of-tax-practitioners
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: OBTP
 reporting_year: '2021'
 year_source: document

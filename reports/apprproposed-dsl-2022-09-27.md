@@ -9,6 +9,9 @@ citation: APPR DSL 2022
 authority_level: agency_report
 issuing_body: State Lands, Department of
 agency: State Lands, Department of
+agency_key: lands
+agency_registry_slug: department-of-state-lands
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: DSL
 reporting_year: '2022'
 year_source: document

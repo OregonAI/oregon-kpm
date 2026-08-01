@@ -9,6 +9,9 @@ citation: APPR LONG-TERM-CARE-OMBUDSMAN 2019
 authority_level: agency_report
 issuing_body: Long Term Care Ombudsman, Office of
 agency: Long Term Care Ombudsman, Office of
+agency_key: care-long-ombudsman-term
+agency_registry_slug: long-term-care-ombudsman
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2019'
 year_source: document

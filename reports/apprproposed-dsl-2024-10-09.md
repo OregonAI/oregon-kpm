@@ -9,6 +9,9 @@ citation: APPR DSL 2024
 authority_level: agency_report
 issuing_body: Department of State Lands
 agency: Department of State Lands
+agency_key: lands
+agency_registry_slug: department-of-state-lands
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: DSL
 reporting_year: '2024'
 year_source: document

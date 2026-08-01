@@ -3,12 +3,16 @@ schema_version: 1
 corpus: oregon-kpm
 jurisdiction: oregon
 id: dlcdappr2016-final
-title: Agency Management Report — Annual Performance Progress Report, Reporting Year 2016
+title: Land Conservation and Development Department — Annual Performance Progress Report, Reporting Year
+  2016
 doc_type: performance_report
-citation: APPR AGENCY-MANAGEMENT-REPORT 2016
+citation: APPR LAND-CONSERVATION-AND-DE 2016
 authority_level: agency_report
-issuing_body: Agency Management Report
-agency: Agency Management Report
+issuing_body: Land Conservation and Development Department
+agency: Land Conservation and Development Department
+agency_key: conservation-development-land
+agency_registry_slug: land-conservation-and-development-department
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2016'
 year_source: document
@@ -41,9 +45,9 @@ tags:
 
 ## At a glance
 
-**APPR AGENCY-MANAGEMENT-REPORT 2016** — Agency Management Report, Reporting Year 2016
+**APPR LAND-CONSERVATION-AND-DE 2016** — Land Conservation and Development Department, Reporting Year 2016
 
-- Agency: Agency Management Report
+- Agency: Land Conservation and Development Department
 - Reporting year: 2016 (stated in the document)
 - Measures reported as: legislatively approved
 - Source file: `DLCDAPPR2016_Final.pdf`

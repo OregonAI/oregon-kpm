@@ -9,6 +9,9 @@ citation: APPR FORESTRY-DEPARTMENT-OF 2016
 authority_level: agency_report
 issuing_body: Forestry, Department of
 agency: Forestry, Department of
+agency_key: forestry
+agency_registry_slug: department-of-forestry
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2016'
 year_source: document

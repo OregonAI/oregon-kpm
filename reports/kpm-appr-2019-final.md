@@ -3,12 +3,15 @@ schema_version: 1
 corpus: oregon-kpm
 jurisdiction: oregon
 id: kpm-appr-2019-final
-title: 9/26/2019 KPM - View Report — Annual Performance Progress Report, Reporting Year 2019
+title: Revenue, Department of — Annual Performance Progress Report, Reporting Year 2019
 doc_type: performance_report
-citation: APPR 9-26-2019-KPM-VIEW-REPOR 2019
+citation: APPR REVENUE-DEPARTMENT-OF 2019
 authority_level: agency_report
-issuing_body: 9/26/2019 KPM - View Report
-agency: 9/26/2019 KPM - View Report
+issuing_body: Revenue, Department of
+agency: Revenue, Department of
+agency_key: revenue
+agency_registry_slug: department-of-revenue
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2019'
 year_source: document
@@ -41,9 +44,9 @@ tags:
 
 ## At a glance
 
-**APPR 9-26-2019-KPM-VIEW-REPOR 2019** — 9/26/2019 KPM - View Report, Reporting Year 2019
+**APPR REVENUE-DEPARTMENT-OF 2019** — Revenue, Department of, Reporting Year 2019
 
-- Agency: 9/26/2019 KPM - View Report
+- Agency: Revenue, Department of
 - Reporting year: 2019 (stated in the document)
 - Measures reported as: legislatively approved
 - Source file: `KPM APPR 2019_final.pdf`

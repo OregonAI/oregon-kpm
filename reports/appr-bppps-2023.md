@@ -9,6 +9,9 @@ citation: APPR BPPPS 2023
 authority_level: agency_report
 issuing_body: Board of Pharmacy
 agency: Board of Pharmacy
+agency_key: pharmacy
+agency_registry_slug: board-of-pharmacy
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: BPPPS
 reporting_year: '2023'
 year_source: document

@@ -9,6 +9,9 @@ citation: APPR PDS 2021
 authority_level: agency_report
 issuing_body: Public Defense Services Commission
 agency: Public Defense Services Commission
+agency_key: defense-public-services
+agency_registry_slug: office-of-public-defense-services
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: PDS
 reporting_year: '2021'
 year_source: document

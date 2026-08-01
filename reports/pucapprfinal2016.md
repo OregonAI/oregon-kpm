@@ -9,6 +9,9 @@ citation: APPR PUBLIC-UTILITY-COMMISSIO 2016
 authority_level: agency_report
 issuing_body: Public Utility Commission
 agency: Public Utility Commission
+agency_key: public-utility
+agency_registry_slug: public-utility-commission
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2016'
 year_source: document

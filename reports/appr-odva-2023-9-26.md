@@ -3,12 +3,15 @@ schema_version: 1
 corpus: oregon-kpm
 jurisdiction: oregon
 id: appr-odva-2023-9-26
-title: 9/25/23, 5:36 PM — Annual Performance Progress Report, Reporting Year 2023
+title: Department of Veterans’ Affairs — Annual Performance Progress Report, Reporting Year 2023
 doc_type: performance_report
-citation: APPR 9-25-23-5-36-PM 2023
+citation: APPR DEPARTMENT-OF-VETERANS-A 2023
 authority_level: agency_report
-issuing_body: 9/25/23, 5:36 PM
-agency: 9/25/23, 5:36 PM
+issuing_body: Department of Veterans’ Affairs
+agency: Department of Veterans’ Affairs
+agency_key: affairs-veterans
+agency_registry_slug: department-of-veterans-affairs
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2023'
 year_source: document
@@ -43,9 +46,9 @@ tags:
 
 ## At a glance
 
-**APPR 9-25-23-5-36-PM 2023** — 9/25/23, 5:36 PM, Reporting Year 2023
+**APPR DEPARTMENT-OF-VETERANS-A 2023** — Department of Veterans’ Affairs, Reporting Year 2023
 
-- Agency: 9/25/23, 5:36 PM
+- Agency: Department of Veterans’ Affairs
 - Reporting year: 2023 (stated in the document)
 - Measures reported as: legislatively approved
 - Source file: `APPR_ODVA_2023-9-26.pdf`

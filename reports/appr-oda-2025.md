@@ -9,6 +9,9 @@ citation: APPR ODA 2025
 authority_level: agency_report
 issuing_body: Department of Agriculture
 agency: Department of Agriculture
+agency_key: agriculture
+agency_registry_slug: department-of-agriculture
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: ODA
 reporting_year: '2025'
 year_source: document

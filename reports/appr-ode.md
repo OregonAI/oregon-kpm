@@ -9,6 +9,9 @@ citation: APPR EDUCATION-DEPARTMENT-OF 2018
 authority_level: agency_report
 issuing_body: Education, Department of
 agency: Education, Department of
+agency_key: education
+agency_registry_slug: oregon-department-of-education
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2018'
 year_source: document

@@ -9,6 +9,9 @@ citation: APPR LABOR-AND-INDUSTRIES-BUR 2017
 authority_level: agency_report
 issuing_body: Labor and Industries, Bureau of
 agency: Labor and Industries, Bureau of
+agency_key: industries-labor
+agency_registry_slug: bureau-of-labor-and-industries
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2017'
 year_source: document

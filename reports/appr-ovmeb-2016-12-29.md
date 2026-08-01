@@ -9,6 +9,9 @@ citation: APPR OVMEB 2016
 authority_level: agency_report
 issuing_body: Veterinary Medical Examining Board
 agency: Veterinary Medical Examining Board
+agency_key: examining-medical-veterinary
+agency_registry_slug: veterinary-medical-examining-board
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: OVMEB
 reporting_year: '2016'
 year_source: document

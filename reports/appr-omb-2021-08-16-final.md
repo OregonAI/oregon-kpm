@@ -9,6 +9,9 @@ citation: APPR MEDICAL-BOARD-OREGON 2021
 authority_level: agency_report
 issuing_body: Medical Board, Oregon
 agency: Medical Board, Oregon
+agency_key: medical
+agency_registry_slug: oregon-medical-board
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2021'
 year_source: document

@@ -10,6 +10,9 @@ citation: APPR CJFD 2022
 authority_level: agency_report
 issuing_body: Judicial Fitness and Disability Commission
 agency: Judicial Fitness and Disability Commission
+agency_key: disability-fitness-judicial
+agency_registry_slug: commission-on-judicial-fitness-and-disability
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: CJFD
 reporting_year: '2022'
 year_source: document

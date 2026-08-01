@@ -9,6 +9,9 @@ citation: APPR JUSTICE-DEPARTMENT-OF 2022
 authority_level: agency_report
 issuing_body: Justice, Department of
 agency: Justice, Department of
+agency_key: justice
+agency_registry_slug: department-of-justice
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2022'
 year_source: document

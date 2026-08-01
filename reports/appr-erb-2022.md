@@ -9,6 +9,9 @@ citation: APPR ERB 2022
 authority_level: agency_report
 issuing_body: Employment Relations Board
 agency: Employment Relations Board
+agency_key: employment-relations
+agency_registry_slug: employment-relations-board
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: ERB
 reporting_year: '2022'
 year_source: document
