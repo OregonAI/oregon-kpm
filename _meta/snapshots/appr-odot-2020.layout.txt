@@ -664,7 +664,7 @@ Ask ODOT Trends and Topics:
 Illegal Camping: This problem is growing statewide and homeowners believe ODOT is liable. It’s a visible problem and more people are asking why the agency doesn’t enforce the law (illegal
 camping).
 
-Technology Expectations:  Oregonians expect immediate answers and are frustrated with the need to research. People expect instant answers from databases and are less patient with waiting for
+Technology Expectations: Oregonians expect immediate answers and are frustrated with the need to research. People expect instant answers from databases and are less patient with waiting for
 answers.
 KPM #15              Certified Firms (DMWESB*) - Percent of ODOT Awarded Contracts to Oregon Certified Small Businesses.
                      Data Collection Period: Jan 01 - Dec 31

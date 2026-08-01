@@ -21,8 +21,8 @@ measure_status: approved
 source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_ODOT_2020.pdf
 source_filename: APPR_ODOT_2020.pdf
 source_format: pdf
-retrieved: '2026-07-31'
-source_sha256: 772c137193cad322e50e01aec73c12a8e9b5133c0d42d19c4cf37ee9b318e6be
+retrieved: '2026-08-01'
+source_sha256: 86d417a538da491418c20eb0fb2f4f1eb2103857b6d30ae76dd7cf25fd5af8bc
 status: current
 content_mode: verbatim
 snapshot_policy: hash-only
@@ -908,7 +908,7 @@ representatives answer questions on the spot or refer you to a broad range of co
 Ask ODOT Trends and Topics:
 Illegal Camping: This problem is growing statewide and homeowners believe ODOT is liable. It’s a visible problem and more people are asking why the agency doesn’t enforce the law (illegal
 camping).
-Technology Expectations:  Oregonians expect immediate answers and are frustrated with the need to research. People expect instant answers from databases and are less patient with waiting for
+Technology Expectations: Oregonians expect immediate answers and are frustrated with the need to research. People expect instant answers from databases and are less patient with waiting for
 answers.
 KPM #15
 Certified Firms (DMWESB*) - Percent of ODOT Awarded Contracts to Oregon Certified Small Businesses.
