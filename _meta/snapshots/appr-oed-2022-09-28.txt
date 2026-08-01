@@ -1,0 +1,762 @@
+Employment Department
+Annual Performance Progress Report
+Reporting Year 2022
+Published: 9/28/2022 5:29:09 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+ENTERED EMPLOYMENT
+- Percentage of job seekers who receive service from Workforce Operations that are still employed after six months.
+EMPLOYMENT RETENTION
+- Percent of job seekers who receive service from Workforce Operations that are still employed after 12 months.
+COST PER PLACEMENT - Total cost of Workforce Operations (Business & Employment Services) program divided by the total number of job seekers entered into employment after receiving services.
+FIRST PAYMENT TIMELINESS - Percentage of initial Unemployment Insurance payments made within 21 days of eligibility.
+NON-MONETARY DETERMINATIONS TIMELINESS
+- Percentage of claims that are adjudicated within 21 days of issue detection.
+UNEMPLOYMENT INSURANCE ADMINISTRATIVE COSTS AS A PERCENT OF BENEFITS PAID - Compares dollars paid to unemployed workers against the cost of providing those benefits. Specifically, all costs associated with Unemployment
+Insurance administration, including related Department of Justice and Office of Administrative Hearings costs, less Re-Employment Eligibility Assessments and State Government Service Charges, divided by Total Unemployment Insurance Benefits
+paid.
+UNEMPLOYMENT INSURANCE APPEALS TIMELINESS - Percentage of cases requesting a hearing that are heard or are otherwise resolved within 30 days of the date of request.
+NON-UNEMPLOYMENT INSURANCE APPEALS TIMELINESS
+- Percentage of orders issued within the standards established by the user agencies.
+AVERAGE DAYS TO ISSUE AN ORDER
+- Average number of days to issue an order following the close of record.
+COST PER REFERRAL TO OAH
+- Average cost of hearing referral to the Office of Administrative Hearings.
+HIGHER AUTHORITY APPEALS TIMELINESS - Percentage of cases requesting an appeal that receive a decision within 45 days of the date of request.
+TIMELINESS OF NEW STATUS DETERMINATIONS
+- Percentage of new status determinations completed within 90 days of the end of the liable quarter.
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent," including overall customer service, timeliness, accuracy, helpfulness, expertise, and availability of information.
+FOUNDATIONAL SURVEY RESPONSE RATE - Ordinary (non-weighted) arithmetic mean of four annual response rates: (1) Occupational Employment Statistics employment; (2) Occupational Employment Statistics units; (3) Annual Refiling Survey
+employment; and (4) Annual Refiling Survey units.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+50%
+21.43%
+28.57%
+red
+green
+yellow
+KPM #1
+ENTERED EMPLOYMENT
+- Percentage of job seekers who receive service from Workforce Operations that are still employed after six months.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Entered Employment - Percent of Job Seekers who got a Job with New Employer
+Actual
+69%
+68%
+68%
+60%
+58%
+Target
+63%
+63%
+63%
+63%
+63%
+How Are We Doing
+PERFORMANCE: The 6-month Entered Employment Rate for State Fiscal Year (SFY) 2022 is 58%, which is below the target of 63%.
+OUR STRATEGY: To improve employment outcomes by providing services, in collaboration with our workforce partners, that are customized to the needs of individual job seekers.
+ABOUT THE TARGET: Targets are negotiated directly between the U.S. Department of Labor and the Oregon Employment Department (the Department). A higher percentage is better.
+HOW WE COMPARE: The performance in SFY 2022 was 58% compared to 60% in 2021, 68% in 2020 and 2019, and 69% in 2018. The national average for SFY 2021 was 62% (national data for
+SFY 2022 is not yet available). Of note, SFY 2021 regional performance varied across states with Alaska reporting 60%, California 53%, Hawaii 50%, Idaho 64%, and Washington 61%.
+Factors Affecting Results
+This measure is directly affected by labor market conditions. The COVID-19 pandemic and the recession that started in March 2020, which resulted in widespread business closures, including the
+closure of WorkSource Oregon centers for approximately 15 months to in-person services, significantly impacted this measure.
+Despite the remarkable turnaround of the state’s labor market in 2022, the Entered Employment Rate in SFY 2022 for those facing barriers to employment (ex-offenders, long-term unemployed, low-
+income, displaced homemakers and single parents) was 52%, well below the statewide average of 58%. Challenges in returning to work include lack of current and transferable skills, employment
+gaps, transportation, child care and other factors disproportionally affecting underserved and underrepresented communities. Some of these individuals may have also delayed returning to work to
+look for more favorable working conditions given the abundance of job openings. The return and retention of these workers to employment is holding steady as Oregon’s labor market tightens.
+As the economy continues its recovery, the evolving job market has required job seekers to obtain training in virtual skills and other new areas. The Department, along with its WorkSource Oregon
+partners, has supported job seekers through the changing landscape by shifting service access to include online, and offering new workshops focused on topics such as Virtual Interview Skills. The
+department continues to provide reemployment services to job seekers in person and virtually; focusing on Unemployment Insurance claimants, migrant and seasonal farmworkers, SNAP recipients,
+Veterans, and other targeted and underrepresented populations.
+Examples of reemployment services include virtual job-finding workshops; an online scheduling tool for setting up virtual or in-person meetings with staff; local resource rooms equipped with
+computers, phones, and photocopy machines; job fairs and networking events; and support services (transportation assistance, etc.) through the SNAP Training and Employment Program and other
+grants.
+The Department has focused on business services, using a regional business services model to support workforce investment activities and meet the needs of local businesses. This model has
+proven successful in building high-functioning business services teams which serve as a single point of contact for businesses across the state in rural and metro communities. Improved
+communication and coordination of service delivery between workforce partners has resulted from this braided service approach, and allowed for more streamlined and targeted placement of
+WorkSource Oregon customers, particularly those facing barriers to employment.
+KPM #2
+EMPLOYMENT RETENTION
+- Percent of job seekers who receive service from Workforce Operations that are still employed after 12 months.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Employment Retention
+Actual
+69%
+68%
+70%
+61%
+63%
+Target
+62%
+62%
+65%
+65%
+65%
+How Are We Doing
+PERFORMANCE: The 12-month Employment Retention Rate for SFY 2022 is 63%, which is below the target of 65%.
+OUR STRATEGY: To improve long-term employment outcomes by providing services, in collaboration with our workforce partners, that are customized to the needs of individual job seekers.
+ABOUT THE TARGET: Targets are negotiated directly between the U.S. Department of Labor and the Oregon Employment Department (the Department). A higher percentage is better.
+HOW WE COMPARE:  The performance was 63% in SFY 2022 compared to 61% in SFY 2021, 70% in 2020, 68% in 2019, and 69% in 2018. The national average for SFY 2021 was 62% (national
+data for SFY 2022 is not yet available). Of note, SFY 2021 regional performance varied across states with Alaska reporting 58%, California 56%, Hawaii 52%, Idaho 65%, and Washington 63%.
+Factors Affecting Results
+The SFY 2022 Employment Retention Rate increased two percentage points over SFY 2021, a clear indication of an improving economy. However, the ERR in SFY 2022 for many customers facing
+barriers to employment (ex-offenders, low-income, displaced homemakers, individuals with disabilities, and single parents) is 54%, and is 16 points below the statewide average of 70% in SFY 2020.
+Many of the challenges in returning to work faced by those with barriers to employment as descried in KPM #1 also apply to this measure. While this group has not returned to work as quickly as the
+statewide average, a 2% increase over last year indicates participation is increasing.
+A strong alignment between employer needs and job seeker's interests and skills improves job retention. Prior results reflect that a high percentage of workers who obtain employment after receiving
+workforce services remained employed, indicating a good match was made between employers and new hires.
+To build on that success, the Department has launched several innovative programs. These include a partnership with LinkedIn that allows employers to match to and network with WorkSource
+Oregon candidates through a recruiter platform; hiring job developers to help connect job seekers facing barriers to employment with businesses; and a ‘work ready’ pilot that provides a set of criteria
+for staff to assess an individual’s readiness to plan and carry out a successful job search.
+KPM #3
+COST PER PLACEMENT - Total cost of Workforce Operations (Business & Employment Services) program divided by the total number of job seekers entered into employment after
+receiving services.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Cost per Placement
+Actual
+$510.00
+$620.00
+$481.00
+$568.00
+$2,899.00
+Target
+$416.00
+$416.00
+$424.00
+$433.00
+$441.00
+How Are We Doing
+PERFORMANCE: The number of placements was 18,529 in SFY 2022 and expenditures in Workforce Operations were $53,715,876. The cost per placement was $2,899, which is 557% higher
+(worse) than the target.
+OUR STRATEGY: To continue monitoring budgetary constraints and fiscal responsibility. We continue to work with our WorkSource Oregon partners to leverage resources, reduce costs, and address
+changing customer needs while seeking to improve outcomes across local communities.
+ABOUT THE TARGET: Cost per placement measures the cost of the program between fiscal years. The targets will be adjusted for inflation each biennium by a maximum of 4%. A lower cost is
+better.
+HOW WE COMPARE: The cost per placement increased by 410% between SFY 2022 and SFY 2021, when it was $568. There is not a national measure compiled for comparison.
+Factors Affecting Results
+Placements dropped from 52,013 in SFY 2021 to 18,529 in SFY 2022 due to operational disruptions resulting from the pandemic, while overall operating costs for Workforce Operations increased, in
+part due to increased staffing levels (approximately 28 positions were added), technology improvements enhancing our ability to serve customers virtually, building security, and inflation.
+It’s important to note that placements are a direct reflection of the number of customers served by the Department. Unfortunately the closure of WorkSource Centers to in-person traffic and the
+suspension of the Department’s claimant reemployment program (which normally serves upwards of 30,000 claimants annually) resulted in significantly fewer customers served during the time period
+in which placements were calculated for SFY 2022. This combination of factors has a compounding, negative effect on how this measure reflects cost performance.
+Together, the drop in placements and corresponding increase in operating costs negatively impacted the cost per placement compared to prior fiscal years. The Department believes this measure will
+be closer to pre-pandemic levels in SFY 2023 now that WorkSource Centers are fully staffed and open for business, operating costs have normalized, and the Department’s claimant reemployment
+program is operational.
+As in the past, our business processes have and will continue to adapt to provide the necessary assistance to help job seekers find work, particularly those impacted by COVID-19. This service
+strategy aligns with our federal funders’ expectations that workforce programs provide a higher level of intensive, customized service to individuals with barriers, which often requires more time and
+resources, thus increasing the cost for customer service.
+The Department will continue working with state and local WorkSource Oregon partners to effectively address Oregon businesses’ labor needs and to connect job seekers to available employment
+opportunities. We have had success providing customized services to employers and tailoring job seeker services to meet local demand. This program continues to produce higher levels of employer
+satisfaction and demand continues to grow. To help meet this demand, business and employment specialists are focusing on job development and other placement strategies to match targeted
+populations such as Unemployment Insurance claimants, migrant and seasonal farmworkers, SNAP recipients, Veterans, and other underrepresented populations with employment opportunities.
+KPM #4
+FIRST PAYMENT TIMELINESS - Percentage of initial Unemployment Insurance payments made within 21 days of eligibility.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+First Pay Timeliness
+Actual
+94%
+90%
+73%
+42%
+85%
+Target
+87%
+87%
+89%
+89%
+89%
+How Are We Doing
+PERFORMANCE: The timeliness of first payments was 85% in SFY 2022, which is lower (worse) than the target of 89%.
+OUR STRATEGY: We work in pursuit of efficiencies by streamlining UI processes and leveraging new technologies, which improve timeliness and the customer experience. We continue hiring and
+training employees and updating the employee training process and support tools. We are monitoring performance metrics and anticipating when and where reallocation of resources can improve
+performance.
+ABOUT THE TARGET: The 89% target for this measurement was established in the 2019-21 biennium. This is 2% higher than the US Department of Labor (DOL) target. The percentage of claims
+paid within 21 days of the initial claim filing reflects the efficiency of determining eligibility and giving unemployed workers their first benefit payment. A higher percentage of timely first payments is
+better.
+HOW WE COMPARE: The measure ranged from 42% to 94% between SFY 2018 and SFY 2022. The performance in SFY 2022 of 85% was above the average national performance of 57%. Oregon
+averaged 86% from January 2022 through March 2022 and 84% from April 2022 through June 2022. The national average for January 2022 through March 2022 was 60% and was 64% for April 2022
+through June 2022.
+Factors Affecting Results
+The Department continues to prioritize timely benefit payments. Until May 2020, when the COVID-19 pandemic significantly affected the timeliness of first payments, the measure was above the target
+of 89%.
+By the end of June 2020, the Department had about ten times more employees processing claims than in March 2020. This was accomplished by hiring new employees, contracting with temporary
+employment agencies, re-deploying other agency staff to process the unprecedented volume of UI claims. Other major adjustments implemented to improve timeliness included leasing a new UI
+Contact Center in Wilsonville where the hundreds of new employees could work; setting up numerous new phone lines to support claimant call volumes; allowing hundreds of employees to work
+remotely under the state’s remote guidelines during the COVID-19 pandemic; partnering with Google to develop an online application process for the new Pandemic Unemployment Assistance (PUA)
+program; and, leveraging partnerships across state agencies and branches of government.
+This measure continued to be a challenge throughout SFY 2021 due primarily to the unprecedented number of initial claims the Department received. Oregon went from record low unemployment to
+seeing the most severe recession, and the quickest onset of a recession, in the state's history. These factors followed a period of many years of chronic federal underfunding of UI administration.
+Other challenges include the need to train hundreds of new employees on the wide range of new federal UI programs enacted under the CARES Act, often with delayed and changing federal
+guidance, outdated technology, and amid ongoing efforts to minimize fraud and benefit overpayments. The increased complexity of the multiple new, and changing, benefit programs was also a factor.
+Additional factors related to the Department’s normal claims taking and processing affect first payment timeliness. Processing initial claims within four to seven days of filing positively affects first pay
+timeliness. The backdating of initial claims resulted in situations where a timely first payment moved to a date that had already elapsed at the time of the backdating, causing the first payment to
+appear untimely. Waiving the waiting week also caused reporting complications and negatively impacted reporting of timely first payment data. A reduction of adjudication non-monetary timeliness
+such as that experienced between the first and second quarters of 2022 negatively affected first payment timeliness in claims where benefit payment was initially suspended and later determined to be
+payable. Pandemic-caused backlogs in investigations, lower authority appeals, and higher authority appeals can also negatively impact first payment timeliness in claims where an initial determination
+of ineligibility is reversed and later determined to be payable.
+The Department has been in communication with the US DOL regarding reporting issues related to backdating initial claims and waiving the waiting week, and is following their instructions. However,
+to date, we are unable to correct the data issues of when an initial claim is backdated more than 21 days, even if it is processed the same day it was received, it will appear to be late since the first
+payment was issued more than 21 days after the effective date of the claim. The Department has developed comprehensive reporting dashboards to measure and monitor how quickly we process
+initial claims, non-monetary determinations, suspended claims, and investigation workloads. The Department has also developed reporting dashboards specific to first-payment timeliness to measure
+and monitor the workloads which significantly affect the metric and ensure we are correctly prioritizing those workloads. The Department is in the process of modernizing our technology systems for UI
+programs. While modernization is a multi-year endeavor, this data reporting issue will be corrected as part of this work effort.
+KPM #5
+NON-MONETARY DETERMINATIONS TIMELINESS
+- Percentage of claims that are adjudicated within 21 days of issue detection.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Percent of Claims that are Adjudicated with 21 days (Non-Monetary
+Determinations Timeliness)
+Actual
+72%
+56%
+56%
+17%
+80%
+Target
+80%
+80%
+80%
+80%
+80%
+How Are We Doing
+PERFORMANCE: The percent of timely non-monetary determinations was 80%, meeting the target of 80%.
+OUR STRATEGY: To seek new efficiencies through process improvements that will result in improved timeliness without adversely impacting other customer service standards, including developing
+new tools and reviewing and revising production standards. New telephone system capabilities are being leveraged to provide better data, allowing us to have adjudicators, who issue non-monetary
+decisions, spend more time focused on that work. The Department is prioritizing getting all adjudicator positions filled and building the skills and experience needed for employees to be able to resolve
+claims quickly. Additionally, the adjudicator training program is being restructured to better help new employees quickly become more proficient and better prepared to handle high volumes of work.
+ABOUT THE TARGET: The 80% target is the target established by the DOL. A higher percentage of non-monetary determinations adjudicated within 21 days is better.
+HOW WE COMPARE: This measure has ranged from 17% to 80% between SFY 2018 and SFY 2022. The performance of 80% in SFY 2022 is above the average national performance of 48%. From
+January 2022 through March 2022, Oregon showed improvement in this performance measure, averaging 88%, and from April 2022 through June 2022 averaging 84%. The national average for
+January 2022 through March 2022 was 45%, and the national average for April 2022 through June 2022 was 52%.
+Factors Affecting Results
+Prior to the pandemic, declining federal revenue led the Department to reduce costs that resulted in lower staffing levels, which ultimately had a negative impact on performance. The Department had
+proportionally higher staffing during the Great Recession. As staffing returned to non-recessionary levels and the complexity of laws added over several years increased, it has been more difficult to
+make timely determinations. This complexity has resulted in additional processes, which take additional staff time that could otherwise be focused on timelier claims processing. With the strong
+economic conditions seen during the early part of SFY 2020, it also became more difficult to hire and retain employees for this work. It has and continues to be a challenge to balance the need to
+quickly make determinations and to have as complete information as possible to minimize fraud and potential overpayments.
+Pandemic conditions resulted in historically low performance in the area of non-monetary timeliness, requiring surge-hiring large numbers of adjudicators to address the workloads. By the end of June
+2020, the Department more than doubled the number of adjudicators working claims as compared to March 2020, and by the end of December 2020 the Department developed workload and
+performance monitoring tools to provide greater insight into origins and age of the adjudication workload, including: a daily timeliness monitoring dashboard; quarterly forecasting models that
+accurately predict workload trends and allow proactive adjustment of staffing assignments and priorities to meet workload demands and maintain timeliness; a daily dashboard that monitors incoming
+work, older work, and the median and average ages of all claims in the Adjudication workflow; a stale folder report that monitors the Adjudication workflow on a granular level, including tracking the
+amount of time that has lapsed since folders have been worked by staff; reporting to monitor the age of all claims with suspended payment, including those claims that are in the Adjudication workflow;
+monitoring staffing and attrition levels to maintain full staffing to the extent budget allows; and staff performance reports that monitor the productivity of each staff member. This large influx of new
+employees, comprehensive training initiatives, and enhanced suite of performance management tools had positive long-term results. By mid-2021, the Department had resolved its pandemic-related
+adjudication backlogs, and since January 2022, the Department has exceeded the 80% metric in eight out of nine months.
+The Department will continue to be challenged to meet this measure due to long-term pressures from added program requirements, inadequate federal funding, and outdated technology. Aging
+technology, while not the sole cause of declining performance, continues as a very significant contributing factor and something that constrains the Department's ability to fully make process
+improvements. The Department is in the process of modernizing both our business processes and our technology systems for UI programs. While modernization is a multi-year endeavor, modernized
+systems and processes will allow for more system automation and gathering of important fact-finding information upfront, which will ultimately lead to sustained improved timeliness of non-monetary
+determinations.
+KPM #6
+UNEMPLOYMENT INSURANCE ADMINISTRATIVE COSTS AS A PERCENT OF BENEFITS PAID - Compares dollars paid to unemployed workers against the cost of providing those
+benefits. Specifically, all costs associated with Unemployment Insurance administration, including related Department of Justice and Office of Administrative Hearings costs, less Re-
+Employment Eligibility Assessments and State Government Service Charges, divided by Total Unemployment Insurance Benefits paid.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2018
+2019
+2020
+2021
+2022
+UNEMPLOYMENT INSURANCE ADMINISTRATIVE COSTS AS A PERCENT OF BENEFITS PAID
+Actual
+12%
+12%
+3%
+3%
+11%
+Target
+10%
+10%
+10%
+10%
+10%
+How Are We Doing
+PERFORMANCE: Controllable administrative costs were $163,421,064 and benefit payments were $1,552,228,926 in SFY 2022 resulting in cost relative to benefits paid of 11%. This is higher (worse)
+than the target of 10%.
+OUR STRATEGY: To continue pursuing efficiencies from centralization and new technology implementation to streamlined UI processes to improve timeliness and customer service. This pursuit
+includes a focus on expanding ways in which the public can more easily gain self-service access and obtain information that traditionally required staff involvement.
+ABOUT THE TARGET: The target for this measurement was set at 10% in the 2017 Legislative Session. As a newer measurement, there was minimal historical data upon which to set this target. The
+ratio of administrative cost divided by benefits paid reflects the efficiency of making benefit payments. A lower percent is better.
+HOW WE COMPARE: The 11% measure in SFY 2022 was the median value over the last 5 years. The measure was 12% in 2018 and 2019, and 3% in 2020 and 2021. There is not a national
+measure compiled for comparison.
+Factors Affecting Results
+The Department's experience is that administrative costs, as a percent of benefits paid, tends to be lower (better) during recessionary periods and higher (worse) with a strong economy. During a
+recession, benefits paid increase at a faster rate than administrative costs because while some administrative costs are fixed, more people claim more benefits for a longer period of time.
+Under the CARES Act, Continued Assistance Act (CAA), and American Rescue Plan (ARP), dedicated staff rapidly set up several new federal benefit programs: Federal Pandemic Unemployment
+Compensation (FPUC), Pandemic Unemployment Assistance (PUA), Pandemic Emergency Unemployment Compensation (PEUC), Mixed Earners Unemployment Compensation (MEUC), and the
+Federal Emergency Management Agency (FEMA) program Lost Wages Assistance (LWA). These programs increased benefit payments in a number of ways, including the amount of each weekly
+payment (FPUC, MEUC, and LWA), the number of people eligible for payment (PUA), and the number of weeks eligible for payment (PEUC). Of these new programs, only PEUC and FPUC benefit
+payments were used in the calculation of this performance measurement. Inclusion of the other new programs would further improve the measurement’s performance. As the economy improves and
+less benefits are paid out, this measure has started to move towards the historical average.
+The Department’s existing aging technology restricts the ability to fully automate many manual processes that could further improve the flow of benefit payments. Work to decrease overpayment of
+benefits and to better identify overpayments is required by the DOL to ensure the integrity of the UI system. This requirement creates additional manual work that tends to increase administrative costs
+more than it reduces benefits paid. Additionally, changes to overpayment waivers by the federal and state legislatures have created a significant workload that must be completed manually.
+Administrative costs were also increased by continued efforts to support how quickly people become re-employed.
+Automating claims processes and modernizing the technical and business environments will improve staff efficiency. The Department remains focused on increasing self-service options for the public
+as a way to improve customer service and further decrease Department costs. The Department is currently in the process of modernizing the UI business processes and systems, which will eventually
+increase our efficiency and effectiveness in how we administer the UI benefits and other federal benefits programs.
+KPM #7
+UNEMPLOYMENT INSURANCE APPEALS TIMELINESS - Percentage of cases requesting a hearing that are heard or are otherwise resolved within 30 days of the date of request.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Unemployment
+Insurance
+Appeals Timeliness
+Actual
+61%
+83%
+72%
+52%
+27%
+Target
+60%
+60%
+60%
+60%
+60%
+How Are We Doing
+PERFORMANCE: The percent of timely UI appeals was 27% in SFY 2022, which is below (worse than) the target of 60%.
+OUR STRATEGY: The Office of Administrative Hearings (OAH) responded by doubling the size of staff focused on UI program appeals. This staff increase was accomplished by leveraging creative
+recruitment and budget practices that included hiring both limited duration positions and offering job rotations for qualified OED adjudicators. OAH has also shifted and reprioritized existing resources.
+As a result of these practices, OED estimates that OAH will clear the lower appeals backlog by the end of Q1 2023.
+ABOUT THE TARGETS: For UI cases, timeliness is defined as the percentage of cases in which a party has requested a hearing that are heard or otherwise resolved within 30 days of a hearing
+request. The target of 60% is the target established by the DOL. A higher percentage is better.
+HOW WE COMPARE: SFY 2022 performance was 27%. The measure varied from 52% to 83% during SFY 2018-2021.
+Factors Affecting Results
+For many years the OAH has exceeded the targets set by the DOL.  As recently as fiscal year ending June 30, 2020, the OAH issued decisions in 72% of all UI appeals within 30 days from the hearing
+request; a number that exceeded federal standards. The COVID-19 pandemic resulted in unprecedented demand on Oregon’s unemployment benefits system. Record numbers of Oregonians filed
+initial claims resulting in a backlog in adjudication. As this demand worked through the system to lower appeals it naturally resulted in a significant increase in the number of requests for a UI hearing,
+beginning in December of 2020. At the time these hearing requests were received by OAH, many were already past the 30 day timeliness standard. During previous economic downturns, associated
+workload increases occurred over a more protracted timeframe. However, as a result of the pandemic, OAH experienced a sharp spike in workload increase during a short 2-3 week period.
+Hearing requests have continued at near record levels with the period of January 1, 2019 to July 1, 2019, receiving 6,121 UI referrals; yet, for the same period in 2022, OAH received 9,544 UI referrals
+(roughly 56% increase). The majority of these cases continue to be related to the COVID-19 pandemic, included CARES Act cases and work separations. OAH responded by bringing a record number
+of staff into the UI program. Recruitment began in May 2022 and resulted in hiring 14 additional staff which doubled the size of staff focused on UI program appeals. OAH leveraged creative
+recruitment and budget practices for these positions, hiring both for limited duration positions and offering job rotations for qualifying OED adjudicators. These new Administrative Law Judges (ALJ)
+began their work in late August of 2022. Additionally, ALJs from other program areas assisted by offering to take on UI cases as time allows. As a result of these practices, OED estimates that OAH
+will clear the lower appeals backlog by the end of Q1 2023.
+KPM #8
+NON-UNEMPLOYMENT INSURANCE APPEALS TIMELINESS
+- Percentage of orders issued within the standards established by the user agencies.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Non-UI Appeals Timeliness
+Actual
+92%
+92%
+91%
+93%
+89%
+Target
+93%
+93%
+93%
+93%
+93%
+How Are We Doing
+PERFORMANCE: The percentage of non-UI cases disposed of within the standards for SFY 2022 was 89%, which is lower (worse than) the target of 93%.
+OUR STRATEGY: The timeliness standards for non-UI appeals are mostly established by the user agencies. The OAH monitors decision deadlines to ensure that orders are issued within established
+timeframes.
+ABOUT THE TARGETS: Most timeliness standards for non-UI hearings are established the user agencies.  A higher percentage of orders issued within the standard set by the user agency is better.
+HOW WE COMPARE: The OAH was below (worse than) the standard of 93% during SFY 2022. The OAH achieved this standard in SFY2021 yet ranged between 91% to 89% from SFY 2018-2022.
+Factors Affecting Results
+While non-UI hearings have not experienced the same spike in workload as UI, these program areas have not been immune to the effects of the pandemic. With unprecedented demand for public
+services, OAH has seen an increase in the number of hearings requests across the state enterprise. However, the backlog in UI cases has necessitated a reprioritization of existing resources. These
+combined factors have result in a slight negative impact to the non-UI timeliness standard. OAH continues to closely monitor decisions deadlines to ensure that orders are issued in a timely manner.
+KPM #9
+AVERAGE DAYS TO ISSUE AN ORDER
+- Average number of days to issue an order following the close of record.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Average Days to Issue Order
+Actual
+4.50
+5.07
+4.40
+4.12
+4.25
+Target
+6.60
+6.60
+6.60
+6.60
+6.60
+How Are We Doing
+PERFORMANCE: During SFY 2022 performance was 4.25 days, which is lower (better) than the target of 6.60 days.
+OUR STRATEGY: The OAH monitors the number of days to produce legally sufficient decisions. The OAH goal is to be as prompt as possible.
+ABOUT THE TARGETS: An important aspect of timeliness is the average number of days it takes an Administrative Law Judge to issue an order following the close of the record. The time needed to
+write and issue an order varies with the complexity and duration of a hearing. With quality maintained, the public is better served by orders that are issued promptly.
+HOW WE COMPARE: The average days to issue an order was 4.25 days in SFY 2022. The measure varied from 4.1 to 5.07 days during SFY 2015-2021.
+Factors Affecting Results
+The average number of days in which cases were resolved in SFY 2022 was consistent with past years’ performance. The complexity of cases handled in a year, the number of cases that settle prior
+to a hearing, and the number of cases in which a party fails to appear are all influencing factors.
+Orders in UI cases are typically issued within a few days after the hearing. While there is a backlog of cases that have requested a hearing, this has not resulted in a tandem backlog in the issuance of
+orders. Thus, with the significant increase of UI cases, the OAH experienced a decline in the average number of days to issue an order in SFY 2021. That decline is likely to continue during SFY 2022
+as UI caseloads are expected to remain higher than they were prior to December 2020.
+KPM #10
+COST PER REFERRAL TO OAH
+- Average cost of hearing referral to the Office of Administrative Hearings.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Cost Per Referral to OAH
+Actual
+$564.00
+$686.00
+$737.00
+$456.00
+$472.00
+Target
+$532.00
+$532.00
+$657.00
+$657.00
+$742.00
+How Are We Doing
+PERFORMANCE: The cost per referral was $472 in SFY 2022, which is below (better) than the target of $742.
+OUR STRATEGY: To maintain service levels without increasing costs to agencies that refer cases to the OAH.
+ABOUT THE TARGETS: Cost per referral is derived from the cost of the OAH program between years. The target is adjusted for inflation and the mix of referrals each biennium based on the
+Governor's Budget. An estimated target of $742 was assigned for SFY 2022 and 2023 and will be updated as applicable within the schedule established by the Legislature. A lower cost per referral is
+better.
+HOW WE COMPARE: The average cost per referral was $472 in SFY 2022, which is an increase of 4% compared to SFY 2021, a 37% decrease compared to SFY 2020, and a 31% decrease
+compared to SFY 2019.
+Factors Affecting Results
+The decreased cost per referral reflects the sharp increase in the number of UI cases referred to the OAH. In the immediate aftermath of the pandemic, the OAH saw a significant decrease in the
+number of UI hearings as the Department adopted more lenient eligibility rules and few employers contested claims for benefits. Those aspects changed dramatically in December 2020 when UI
+cases increased to levels not seen since the Great Recession. This increase has resulted in a similar effect to KPM #9. Because UI hearing are typically fairly brief, they are the least expensive
+hearings held at the OAH. Consequently, the increase in UI hearing referrals decreased the average overall cost per hearing for the OAH.
+KPM #11
+HIGHER AUTHORITY APPEALS TIMELINESS - Percentage of cases requesting an appeal that receive a decision within 45 days of the date of request.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Higher Authority Appeals Timeliness
+Actual
+100%
+100%
+100%
+96%
+77%
+Target
+80%
+80%
+80%
+80%
+80%
+How Are We Doing
+PERFORMANCE: During SFY 2022, the percent of appeals that received a decision within 45 days or less was 77%.
+OUR STRATEGY: To follow an internal decision timeliness standard of issuing all decisions within 39 days of a party’s application for review. To address the increase in applications for review, the
+Oregon Employment Appeals Board (EAB) has advocated for increased legal staff to write decisions, continues to streamline the decision-writing process where possible, and has shifted some
+decision-writing duties to board members.
+ABOUT THE TARGET: The target of 80% is established by the DOL. A higher percentage is better.
+HOW WE COMPARE: EAB performance in SFY 2022 was 77%. The performance of 77% is higher (better) than the average national performance of 44%.
+Factors Affecting Results
+Several factors caused the timeliness of Employment Appeals Board (EAB) decisions to decrease from 96% in report year 2021 to 77% in report year 2022. The percentage of orders issued by the
+Office of Administrative Hearings (OAH, KPM #10) that are appealed to EAB has remained consistent. However, the number of appeals to EAB increased progressively beginning in the fourth quarter
+of 2021. The increased number of appeals to EAB corresponded to an increased number of orders issued by OAH after OAH increased its number of administrative law judges conducting
+unemployment benefits hearings to address a backlog of hearing referrals from the Oregon Employment Department (OED). At the same time, due to budget limitations, one of EAB’s staff positions
+responsible for writing decisions was eliminated, and EAB did not have the funds to add staff to correspond with the increased workload from OAH. In addition, the percentage of applications for
+review that were referred to EAB from OED and lower appeals that were already more than 45 days old at the time of referral increased from July 1, 2021 through June 30, 2022. Parties file
+applications for review directly with EAB, with OED, or with OAH. EAB cannot issue a decision within 45 days when the application for review is more than 45 days old.
+KPM #12
+TIMELINESS OF NEW STATUS DETERMINATIONS
+- Percentage of new status determinations completed within 90 days of the end of the liable quarter.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Timeliness of New Status Determination
+Actual
+74%
+78%
+79%
+74%
+54%
+Target
+80%
+80%
+80%
+80%
+80%
+How Are We Doing
+PERFORMANCE: 54% of registrations were completed within 90 days in SFY 2022.
+OUR STRATEGY: To implement processes to monitor and ensure tax accounts are established within 90 days of the end of the first of the quarter in which liability occurs. This includes working with
+those who do not provide the Department with timely information needed to start the status determination process and identifying ways to streamline processes and more agilely utilize our staff.
+ABOUT THE TARGET: The DOL sets the target of the timeliness for new status determinations at 70%. The Department set a higher target based on the importance of this measurement to the
+Department’s business and the long-term goal of the DOL to reach 89%. Determining employer status in a timely manner influences the timeliness of getting wage data that is needed to quickly and
+accurately process claims and influences the timeliness of UI tax payments.
+HOW WE COMPARE: Performance in SFY 2022 was 54%. The measure ranged from 54% to 79% during SFY 2018-2022. The SFY 2022 performance is lower (worse) than the target of 80% and
+lower than the target of 70% established by the DOL.
+Factors Affecting Results
+In the last quarter of SFY 2020, there was an unprecedented demand for experienced UI staff to assist with processing the influx of initial claims in response to the pandemic and that demand
+continued into SFY 2021. Many of the staff who would otherwise focus on the tax work that improves the timeliness of new status determinations were temporarily reassigned to process claims.
+Additionally, the unit processing status determinations experienced a loss of experienced staff and a record number of staff vacancies throughout the year. The loss in experienced staff was the
+primary factor in the reduction of performance of this KPM. While staffing the processing unit has been a challenge throughout the year, in mid-2022, additional staff were added and are in the process
+of being trained. As the newer staff become trained, registration timeliness will improve.
+The Department’s technology used to process the determinations is an aging infrastructure and must be updated to provide for more timely determinations and more automated processes. The
+Department implemented an automated report to monitor progress on a weekly basis, which helped improve the historical performance and allows for better management of the registration process.
+However, additional improvements to the online combined registration system are necessary to ensure registrations contain complete information and allow for more automated determinations. The
+Department continues to outreach to employers and their representatives to reduce the number of late registrations and to monitor timeliness.
+A significant percentage of status determination work arrives at the Department as part of a shared combined business registration process coordinated by the Secretary of State, which also involves
+the Department of Revenue and the Department of Consumer and Business Services. Maintaining a system that meets the diverse needs of these agencies can also present challenges.
+The Department is in the process of modernizing both our business processes and our technology systems for UI programs. While this is a multi-year endeavor, modernized systems and processes
+will allow for needed additional improvements to the online combined registration system and will ultimately provide for greater customer service. In addition, the increased reporting capabilities and
+the workflow tools of the modernized system create greater visibility into processing queues allow for continued process improvement and streamlining. This in combination with trained staff and the
+movement from legacy account determinations to account determinations native to the modernized system will have a positive effect on registration timeliness. Assuming stabilized staffing, we
+anticipate seeing improvements to this KPM starting in early 2023.
+KPM #13
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent," including overall customer service, timeliness, accuracy,
+helpfulness, expertise, and availability of information.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2018
+2019
+2020
+2021
+2022
+Expertise
+Actual
+82.70%
+81.95%
+60.20%
+59.38%
+69.92%
+Target
+95.50%
+95.50%
+95.50%
+95.50%
+95.50%
+Accuracy
+Actual
+79.90%
+78.15%
+62.60%
+62.10%
+67.47%
+Target
+95.50%
+95.50%
+95.50%
+95.50%
+95.50%
+Availability of Information
+Actual
+81.70%
+79.80%
+64.20%
+62.14%
+67.49%
+Target
+95.50%
+95.50%
+95.50%
+95.50%
+95.50%
+Timeliness
+Actual
+81.40%
+78.15%
+61.80%
+61.08%
+69.18%
+Target
+95.50%
+95.50%
+95.50%
+95.50%
+95.50%
+Overall
+Actual
+83.30%
+81.95%
+65.30%
+64.45%
+69.96%
+Target
+95.50%
+95.50%
+95.50%
+95.50%
+95.50%
+Helpfulness
+Actual
+84%
+83%
+61%
+59.85%
+71.28%
+Target
+95.50%
+95.50%
+95.50%
+95.50%
+95.50%
+How Are We Doing
+PERFORMANCE: Data for SFY 2022 represents survey responses from job seekers and employers who listed openings with the Department. Performance in overall service quality during SFY 2022
+was 69.96% and is closely tied to the other measures of performance for customer satisfaction including expertise, accuracy, availability of information, timeliness, and helpfulness. The performance is
+below (worse than) the target of 95.50%.
+OUR STRATEGY: To continuously prioritize and execute customer service improvements. The Department monitors the information received from monthly customer satisfaction surveys, seeking to
+identify ways to improve.
+ABOUT THE TARGET: The Department set the target for favorable rating at 95.50% to aspire for the highest quality customer service for job seekers, businesses with recruitments, and UI claimants.
+Although the target was set based on a completely different survey methodology, the Department continues to pursue the high standard to support business and promote employment.
+HOW WE COMPARE: The performance in overall service quality in SFY 2022 was 69.96%. The measure has varied between 64.45% and 83.30% during SFY 2018-2022.
+UI claimants were excluded from the survey universe during SFY 2021 as a result of the COVID-19 pandemic.  UI claimants were added again beginning with SFY 2022.
+Factors Affecting Results
+The drop in satisfaction across all categories beginning in SFY 2020 and continuing into SFY 2021 is a testament of the demand the COVID-19 pandemic and the unprecedented volume of claims
+placed on the Department. However, as employment services staff began the gradual shift away from UI claims support and back to employment services, a corresponding positive shift across
+customer satisfaction also followed. WorkSource Oregon (WSO) centers were closed to in-person services in April 2020, continuing into 2021, and a number of employment services were restricted.
+With the modification of work search requirements for SFY 2021, many employment services staff were shifted from providing job seeker and employer services to UI claims functions. Beginning in
+April 2021, a gradual shift of employment services staff back to employment service operations began. Primarily, only employment services staff who were fully-trained in UI Claims, PUA Claims, or
+Resolution Team members continued providing UI claims support.  In January 2021, 169 employment services FTE were allocated to UI claims support. FTE numbers in April 2021 reduced to 156,
+and by June 2021, there were 84 FTE (approximately 25% of the employment services FTE total.  By August 2021, there were 12 remaining employment services FTE assisting on the Resolution
+Team, UI Claims, and PUA Adjudication.
+From October thru December 2021, leadership determined employment services staff would continue providing UI services up to their individual training. Beginning in January 2022, a transition to
+statewide standard service levels of UI support in the WSO centers was initiated which provided UI support by employment services staff at a level above pre-pandemic levels yet below the full extent
+provided during the pandemic. It also provided a uniform level of service to be provided by all employment services staff, rather than at tiered levels of support that was provided during the
+pandemic. Training has been implemented to support employment services new hires in providing UI support at this newly established level moving forward.
+For job seekers and businesses: The Department has continued to actively focus on its evolving service delivery model as emergence from the pandemic progresses. Efficiencies, best-practices, and
+customer-centric services identified during the pandemic were retained and, in some cases, improved upon such as appointment scheduling for in-person and remote services. The Department
+continues to examine the design of WSO centers to reflect a customer-centric, professional, and welcoming environment to determine what customers are seeking and what can be retained as the
+Department moves forward.
+Additionally, the Department is investing in technology to support system requirements that meet WSO Standards, and will continue working with system partners to provide customers with better
+resources and services that meet their needs. While current technology platforms limit the Department's ability to fully automate processes and make other adjustments, some efforts to streamline
+processes and improve the customer experience are being implemented. With the help of customer-based focus groups, public-facing documents have been revised to be more helpful and
+understandable as well as accessible in multiple languages. The Department has also implemented more digital communication tools, making the customer experience more convenient and providing
+a quicker option than a phone call. The multi-year endeavor to modernize both our business processes and our systems for UI programs continues, which will allow for more self-service options, more
+timely responses to claimants, and ultimately provides for greater customer satisfaction.
+KPM #14
+FOUNDATIONAL SURVEY RESPONSE RATE - Ordinary (non-weighted) arithmetic mean of four annual response rates: (1) Occupational Employment Statistics employment; (2)
+Occupational Employment Statistics units; (3) Annual Refiling Survey employment; and (4) Annual Refiling Survey units.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+FOUNDATIONAL SURVEY RESPONSE RATE
+Actual
+86%
+85%
+86%
+74%
+73%
+Target
+73%
+73%
+80%
+80%
+80%
+How Are We Doing
+PERFORMANCE: Data reported reflect response rates for the calendar year. The 2022 measure (based on 2021 calendar year data) shows a 73% response rate which is below (worse than) the
+target of 80%.
+OUR STRATEGY: The Workforce and Economic Research Division (Research) follows a well-established research protocol in partnership with the federal Bureau of Labor Statistics (BLS) to
+complete the Quarterly Census of Employment and Wages and Occupational Employment Statistics surveys. Research staff work towards maximizing compliance and lessening reporting burden.
+ABOUT THE TARGETS: Higher response rates (percent) lead to more robust data that can produce more reliable estimates. The target response rate incorporates data from both the BLS and the
+Department. The target response rate is 80%.
+HOW WE COMPARE: The actual response rate of 73% for reporting year 2022 is below the target of 80%. The measure has varied between 73% and 86% during reporting years 2018-2022.
+Factors Affecting Results
+The data represent response rates from the Quarterly Census of Employment and Wages and the Occupational Employment and Wage Statistics surveys. These two sources of information, gathered
+from employers in every industry and area of Oregon, are foundational to the Research Division's published and publicly available industry and occupational statistics.
+Survey response rates are influenced by: an appropriate survey length; relevancy of a survey topic to the recipient; follow-up actions, such as multiple contacts to request completions; and delivery
+methods. The Research Division uses survey instruments designed by the BLS to provide high-quality data that meet national statistical standards. Also, research staff work with employers to collect
+detailed and accurate responses.
+In 2021 and the first two quarters of 2022, staffing levels were down 50% in the Occupational Employment and Wage Statistics (OEWS) program which made reaching the 80% target very difficult.
+Additionally, a new electronic reporting system, QUEST, was implemented by the BLS for the Quarterly Census of Employment and Wages (QCEW) program while at the same time the Department
+was training new staff and planning for the transition to the FRANCES system internally. Despite these challenges, the Research team continued to meet federal program deliverables. The
+Department anticipates continued challenges as new staff are onboarding, training, and settling into their new roles; and, the Department expects to increase performance in the 2023 calendar year.

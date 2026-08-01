@@ -1,0 +1,276 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-racing-2019
+title: Racing Commission, Oregon — Annual Performance Progress Report, Reporting Year 2019
+doc_type: performance_report
+citation: APPR RACING-COMMISSION-OREGON 2019
+authority_level: agency_report
+issuing_body: Racing Commission, Oregon
+agency: Racing Commission, Oregon
+agency_code: null
+reporting_year: '2019'
+year_source: document
+filename_year: '2019'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR.RACING.2019.pdf
+source_filename: APPR.RACING.2019.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 507c33aac303ed4ff3cffa352f9c90a22d06615b252e745603f848d2cf242067
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2019
+---
+
+## At a glance
+
+**APPR RACING-COMMISSION-OREGON 2019** — Racing Commission, Oregon, Reporting Year 2019
+
+- Agency: Racing Commission, Oregon
+- Reporting year: 2019 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR.RACING.2019.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Racing Commission, Oregon
+Annual Performance Progress Report
+Reporting Year 2019
+Published: 9/26/2019 9:00:44 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+Animal Safety - Number of horses euthanized by the Oregon Racing Commission veterinarian due to catastrophic injury occuring during racing per every 1,000 starters. The target represents 1.5 horses per every 1,000 starters. Results in 2018
+represented 0.874 per 1,000 starters.
+License Turnaround Time - Average number of work days from receipt of a complete individual application and questionnaire to conclusion of a criminal background check.
+Excellent Customer Service - Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+Best Practices - Percent of total best practices met by the Board.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+100%
+0%
+0%
+red
+green
+yellow
+KPM #1
+Animal Safety - Number of horses euthanized by the Oregon Racing Commission veterinarian due to catastrophic injury occuring during racing per every 1,000 starters. The target
+represents 1.5 horses per every 1,000 starters. Results in 2018 represented 0.874 per 1,000 starters.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+ORC KPM #1
+Actual
+273%
+95.50%
+82.40%
+171.60%
+136.35%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+The Oregon Racing Commission continues to see a downward trend in catastrophic equine injuries.
+Oregon’s target is no more than 1.5 horses euthanized per 1,000 starters; the rate for FY 2019 was 1.1.  That is below the national average of 1.68 horses euthanized per 1,000 starters.
+Out of a total of 3,621 starters for FY 2019, at the commercial meet and five summer meets, four horses suffered catastrophic injuries and were euthanized.
+Totals are shown in percentages.
+1.5 = 100% of goal
+1.1 = 136.35% of goal
+Factors Affecting Results
+A variety of factors affect racing injuries, including:  condition of the race horse, training methods, race track surface, medications, jockey skill and racing luck.  Reducing equine injuries is a
+continuing focus of the Oregon Racing Commission.  During fiscal 2019, the ORC veterinarian inspected a random sampling of horses on the morning of each race day; in September 2019, the
+Commission increased these inspections during the commercial meet to include all horses competing each day, an industry best practice.  Medication reforms have been enacted that bring the
+actual target
+ORC into alignment with other jurisdictions in an effort to provide safe, therapeutic medication levels consistent with best industry practices.  The ORC has hired a track consultant to assist with fair
+meets in maintaining a safe, consistent track surface.
+With a new commercial meet beginning in Grants Pass in September 2019, the ORC is monitoring safety initiatives at the track, including improvements to the racing surface, installation of a safety
+rail and initiation of monthly safety committee meetings.
+KPM #2
+License Turnaround Time - Average number of work days from receipt of a complete individual application and questionnaire to conclusion of a criminal background check.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+ORC KPM #2
+Actual
+Target
+How Are We Doing
+The Oregon Racing Commission's Licensing Office has a target of issuing licenses within five days of receipt.  The office generally issues licenses the same day as received, unless staff is out of
+town or on vacation.  The office meets its target of five days.
+Factors Affecting Results
+Efficiencies in the allocation of staff time have allowed additional staff hours to be dedicated to processing licenses. Cross-training also has provided better coverage.
+Changes in staff workload, depending on the racing schedule, and applicants who require extensive background checks understandably can take more time to process.
+actual target
+KPM #3
+Excellent Customer Service - Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall, timeliness, accuracy, helpfulness, expertise,
+availability of information.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2015
+2016
+2017
+2018
+2019
+a. Timeliness
+Actual
+94%
+82%
+No Data
+83%
+91%
+Target
+75%
+75%
+75%
+75%
+75%
+b. Accuracy
+Actual
+59%
+82%
+No Data
+80%
+91%
+Target
+75%
+75%
+75%
+75%
+75%
+c. Overall
+Actual
+59%
+80%
+No Data
+82%
+91%
+Target
+75%
+75%
+75%
+75%
+75%
+d. Expertise
+Actual
+88%
+82%
+No Data
+82%
+96%
+Target
+75%
+75%
+75%
+75%
+75%
+e. Helpfulness
+Actual
+50%
+62%
+No Data
+87%
+91%
+Target
+75%
+75%
+75%
+75%
+75%
+f. Availability of Information
+Actual
+50%
+82%
+No Data
+77%
+91%
+Target
+75%
+75%
+75%
+75%
+75%
+How Are We Doing
+actual target
+The Oregon Racing Commission is exceeding targets in all categories. In an optional "comments" section, respondents to a survey praised the staff's professionalism, knowledge and helpfulness.
+Comments included: "I have dealt with a number of regulators and I have been so pleasantly surprised by the level of professionalism and open-mindedness of ORC. I have found the regulatory
+process ... very efficient, yet thorough."   Another respondent praised the "very experienced staff" that is "ALWAYS available and willing to help."
+Our success continues to hinge on collaboration with stakeholders. We continually reach out to, and work with, the Oregon Horsemen's Benevolent & Protective Association, the Oregon Quarter
+Horse Racing Association, the Oregon Thoroughbred Owners & Breeders Association, and the Advance Deposit Wagering (ADW) companies. We also actively engage with fair managers to provide
+safe, entertaining and exciting horse races and pari-mutuel wagering at the Eastern Oregon Livestock Show in Union, the Grants Pass race meet, the Crooked River Roundup in Prineville, and the
+Tillamook and Harney county fairs. Collaborative efforts extend to setting policy through our administrative rules process and cross-training staff.
+One survey commenter noted minor challenges with the website.  A website redesign in planned for fiscal 2020.
+Factors Affecting Results
+Tthe Oregon Racing Commission seeks responses to its online survey by sending an email to everyone on our list of stakeholders, and asking industry groups -- the Oregon Horsemen's
+Benevolent & Protective Association, the Oregon Quarter Horse Racing Association, and the Oregon Thoroughbred Owners & Breeders Association --  to ask that their members to fill out the
+survey, run through SurveyMonkey.
+The survey is also available in hard copy near the licensing desk at the summer race meets, with a box available to submit them.  For the first time this year, the hard-copy survey was made
+available in Spanish, and as part of the redesign of the ORC webstie, it will be available in Spanish and English there.
+Because of the voluntary nature of the response, the sample is not scientific.
+KPM #4
+Best Practices - Percent of total best practices met by the Board.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+ORC KPM #4
+Actual
+100%
+100%
+100%
+100%
+98.70%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+All best practices for fiscal year 2019 were met; however, one Commissioner urged more active Commission participation in development of agency goals.
+Factors Affecting Results
+The best practices are part of the Commissioners' oversight of the staff and Commission's work.
+actual target

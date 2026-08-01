@@ -1,0 +1,442 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-osl-2020
+title: Library, Oregon State — Annual Performance Progress Report, Reporting Year 2020
+doc_type: performance_report
+citation: APPR LIBRARY-OREGON-STATE 2020
+authority_level: agency_report
+issuing_body: Library, Oregon State
+agency: Library, Oregon State
+agency_code: null
+reporting_year: '2020'
+year_source: document
+filename_year: '2020'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_OSL%202020.pdf
+source_filename: APPR_OSL 2020.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 30cc6e95cb8b12ee1e9840e8a18e8ebc7d2799237d67d2f136ab158016217ac6
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2020
+---
+
+## At a glance
+
+**APPR LIBRARY-OREGON-STATE 2020** — Library, Oregon State, Reporting Year 2020
+
+- Agency: Library, Oregon State
+- Reporting year: 2020 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_OSL 2020.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Library, Oregon State
+Annual Performance Progress Report
+Reporting Year 2020
+Published: 9/25/2020 3:08:58 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+RESEARCH TRANSACTIONS
+- Number of research assistance transactions for state employees.
+USE OF GOVERNMENT SERVICES ELECTRONIC RESOURCES - Average [daily] use of Government Information and Library Services electronic resources.
+TALKING BOOK AND BRAILLE SERVICES USERS
+- Number of individuals registered to receive Talking Book and Braille Services.
+COST PER CIRCULATION - Cost per circulation of talking books and Braille books.
+USE OF THE OREGON SCHOOL LIBRARY INFORMATION SYSTEM
+- Average daily visits to the Library-funded Oregon School Library Information System.
+PUBLIC LIBRARIES MEETING APPLICABLE OLA STANDARDS - Percentage of Oregon public libraries meeting essential and enhanced level of applicable Oregon Library Association Standards for a Public Library.
+CUSTOMER SATISFACTION
+- Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+Proposal
+Proposed Key Performance Measures (KPMs)
+Delete
+RESEARCH TRANSACTIONS
+- Number of research assistance transactions for state employees.
+New
+Patron Service Transactions - Number of reference queries, document delivery and interlibrary loan requests, and outreach/instruction sessions to state agency employees.
+Delete
+USE OF GOVERNMENT SERVICES ELECTRONIC RESOURCES - Average [daily] use of Government Information and Library Services electronic resources.
+New
+State Agency Employee Use of Electronic Resources - Total yearly use of Government Information and Library Services electronic resources.
+Delete
+TALKING BOOK AND BRAILLE SERVICES USERS
+- Number of individuals registered to receive Talking Book and Braille Services.
+New
+Talking Book and Braille Library Average Use by User - Total number of circulations per year divided by the number of registered users at the end of the fiscal year.
+Delete
+COST PER CIRCULATION - Cost per circulation of talking books and Braille books.
+New
+Value of Talking Book and Braille Library
+- Percent of Talking Book users that strongly agree or agree that the Talking Book and Braille Library has added value to their life.
+Delete
+USE OF THE OREGON SCHOOL LIBRARY INFORMATION SYSTEM
+- Average daily visits to the Library-funded Oregon School Library Information System.
+New
+Value of Library Support Programs and Services - Percent of Oregon library staff that strongly agree or agree that the services and programs offered by Library Support help them provide better library service to their community.
+Delete
+PUBLIC LIBRARIES MEETING APPLICABLE OLA STANDARDS - Percentage of Oregon public libraries meeting essential and enhanced level of applicable Oregon Library Association Standards for a Public Library.
+New
+Ready to Read Participation - Total annual participation of youth 0 – 14 years of age in a Ready to Read grant funded activity.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+28.57%
+28.57%
+42.86%
+red
+green
+yellow
+KPM #1
+RESEARCH TRANSACTIONS
+- Number of research assistance transactions for state employees.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Number of Research Assistance Transactions for State Employees
+Actual
+8,657
+8,423
+7,907
+No Data
+No Data
+Target
+9,000
+9,000
+10,000
+10,000
+10,000
+How Are We Doing
+Research Transactions include total reference transactions, total outreach presentations, and total document delivery requests. The total number of research transactions has decreased slightly from
+the previous year, likely impacted by the COVID-19 pandemic and the resulting work transitions for state employees. Reference interactions have reduced in volume, but time spent on these queries is
+increasing per interaction.
+Factors Affecting Results
+Librarians are assigned to each state agency to provide research support through our embedded librarian program. The success of this program has led to a significant increase in the number of
+instruction classes and research support for the projects of state agency staff. The complexity of reference questions has increased as noted by the time spent on these transactions.  We continue to
+use the Reference Transaction Tracker utilizing the READ Scale, (Reference Effort Assessment Data), a six point scale for recording supplemental qualitative statistics. The statistics for reference,
+outreach, and document delivery are below.
+Reference Statistics
+2019
+2020
+Reference Transactions
+1820
+1559
+Time spent on reference transactions
+831 hours
+757 hours
+Average time per transaction
+.46 hours
+.49 hours
+Outreach Statistics
+2019
+2020
+Outreach Presentations (classes)
+Outreach Participants
+1207
+1637
+Document Delivery Statistics
+2019
+2020
+Document Delivery Total
+6508
+6228
+KPM #2
+USE OF GOVERNMENT SERVICES ELECTRONIC RESOURCES - Average [daily] use of Government Information and Library Services electronic resources.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Average [daily] use of Government Information and Library Services electronic resources.
+Actual
+1,014
+1,135
+1,408
+No Data
+No Data
+Target
+1,055
+1,115
+1,115
+How Are We Doing
+There continues to be robust usage of Research Databases (electronic resources offered by the State Library, Government Information and Library Services Division), with an increase over the
+previous year.
+Factors Affecting Results
+Defining and measuring average daily use, when interactions may take place and be counted in a variety of ways depending on the specific database, is complex.
+A Search is when a user enters a search in an e-resource.
+An Action is when a user performs an action to access information related to a source
+A Download is when a user accesses the full text of a source; a specific form of action
+The average daily use reported above is a total of the average daily searches, actions, and downloads. These different actions are difficult to fold into a single number, however, due to the variety of
+formats of our resources (article, ebook, dataset, map, audiovisual, etc.) and how they are used to gather information. The most accurate measure of average daily use is to look at each type of
+interaction with the resources separately. See table below:
+2019
+2020
+Average Daily Searches
+Average Daily Actions
+Average Daily Downloads
+Total
+1,135
+1,408
+KPM #3
+TALKING BOOK AND BRAILLE SERVICES USERS
+- Number of individuals registered to receive Talking Book and Braille Services.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Number of Individuals Registered to Receive Talking Books and Braille Services
+Actual
+5,304
+5,220
+5,004
+No Data
+No Data
+Target
+5,300
+5,300
+5,400
+5,400
+5,400
+How Are We Doing
+In general, we are holding steady in the number of people registering for the program versus leaving the program through death, lack of interest, or decline in health.
+Factors Affecting Results
+Outreach activities at the state and national level and the availability of self-serve downloadable books have increased registrations. However, during the statewide stay at home order, our registrations
+dropped significantly as many of our application certification sources (assisted living, health providers, schools, public libraries, etc.) were closed to the public or only providing limited services.
+Additionally, our potential patrons were staying home and not visiting or interacting with various professionals who would normally have certified applications for service.
+KPM #4
+COST PER CIRCULATION - Cost per circulation of talking books and Braille books.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Cost per Circulation of Talking Books and Braille Books
+Actual
+$2.12
+$2.20
+$2.36
+No Data
+No Data
+Target
+$2.00
+$2.00
+$2.00
+$2.00
+$2.00
+How Are We Doing
+As operational costs increase, such as rent and staff salaries, we anticipate that the cost per circulation will also increase over time. We continue working to register new users and increase circulation
+by current users to keep the overall cost per circulation down.
+Factors Affecting Results
+Due to COVID-19, circulation was temporarily suspended until safety measures for circulating materials were put in place.  Upon restarting circulation, the library moved from a one-one (one book, one
+cartridge) service model to a duplication-on-demand (up to 8 titles per cartridge) service model that will increase circulation to patrons due to the fact that they will no longer have to wait for high-
+demand titles.
+KPM #5
+USE OF THE OREGON SCHOOL LIBRARY INFORMATION SYSTEM
+- Average daily visits to the Library-funded Oregon School Library Information System.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Average Daily Visits to the Library-funded Oregon School Library Information System
+Actual
+2,193
+2,641
+1,735
+No Data
+No Data
+Target
+4,500
+4,500
+2,500
+2,500
+2,500
+How Are We Doing
+We are below the target and below the average from last year.
+Factors Affecting Results
+The current Oregon School Library Information System (OSLIS) platform is providing a stable environment for students to access the databases and other materials. However, a twofold effect of a
+decline in the number of certified school librarians to promote the platform and instruct students and teachers on the resources, and tech savvy librarians linking directly to the statewide databases and
+bypassing the OSLIS platform are impacting the average daily visits. The COVID-19 pandemic also had a profound impact on the usage during the last quarter of the fiscal year. Teachers were
+focused on moving to an online learning platform and not on assigning research topics.
+KPM #6
+PUBLIC LIBRARIES MEETING APPLICABLE OLA STANDARDS - Percentage of Oregon public libraries meeting essential and enhanced level of applicable Oregon Library Association
+Standards for a Public Library.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Percentage of Oregon public libraries meeting essential and enhanced level of applicable Oregon Library Association Standards for Public Library.
+Actual
+53%
+53%
+57%
+No Data
+No Data
+Target
+60%
+60%
+60%
+62%
+62%
+How Are We Doing
+There are 136 public libraries in the state, and 61 responded to a survey to report their attainment of the standards versus 112 libraries responding the previous year.  Of those libraries that submitted
+the survey, the overall percentage of libraries meeting 80% of the essential and enhanced standards in the areas of staff, materials, services and programs, and technology is below the target number.
+However, when the overall percentage number is broken into essential and enhanced, the percentage of libraries meeting 80% of the essential standards is 71%, while 43% of libraries are meeting
+the enhanced level.  This is an increase of 4% in both categories from the previous year.
+Factors Affecting Results
+The State Library received a lower response rate to the survey that libraries use to report their attainment of the standards than in the previous year, which is due to the COVID-19 pandemic and the
+closing of libraries.  The response rate was approximately 42% in 2018, 82% in 2019 and 45% in 2020.  We will continue working with library directors to increase the response rate. In addition, the
+standards were updated to reflect current practices, with additions and revisions to the criteria in categories such as technology. These changes resulted in more rigorous standards, raising the bar for
+libraries to meet the essential and enhanced criteria.
+KPM #7
+CUSTOMER SATISFACTION
+- Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall, timeliness, accuracy, helpfulness, expertise,
+availability of information.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2018
+2019
+2020
+2021
+2022
+Availability of Information
+Actual
+94%
+92.70%
+92.20%
+No Data
+No Data
+Target
+98%
+98%
+98%
+90%
+90%
+Expertise
+Actual
+97%
+96.90%
+88.20%
+No Data
+No Data
+Target
+98%
+98%
+98%
+90%
+90%
+Helpfulness
+Actual
+97%
+96.90%
+90.60%
+No Data
+No Data
+Target
+98%
+98%
+98%
+90%
+90%
+Timeliness
+Actual
+97%
+95.20%
+91.90%
+No Data
+No Data
+Target
+98%
+98%
+98%
+90%
+90%
+Overall
+Actual
+97%
+96.70%
+94.10%
+No Data
+No Data
+Target
+98%
+98%
+98%
+90%
+90%
+Accuracy
+Actual
+95%
+94.30%
+90.60%
+No Data
+No Data
+Target
+98%
+98%
+98%
+90%
+90%
+How Are We Doing
+Expertise and Helpfulness are showing the greatest decline at 8% and 6% respectfully.  All of the other categories are within three percentage points of last year.
+Factors Affecting Results
+Surveys with an "N/A" or "don't know" option continue to impact our ability to reach targets. The lack of communications staff to assist with promotion and awareness efforts continues to impact
+customer ability to identify when services they may already be receiving or utilizing are from the State Library. The response rate in the Library Support & Development Services and Government
+Information & Library Services Divisions was lower than previous years, likely impacted by the COVID-19 pandemic. The widespread disruption to library operations across the state impacted library
+worker access to work email and attention was focused on how to serve patrons in new ways. Many state employees transitioned to remote work environments and work priorities shifted dramatically
+for some employees with attention focused on COVID-19 response and new ways of doing business.

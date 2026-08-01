@@ -1,0 +1,311 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-blpct-2025-09-30
+title: Board of Licensed Professional Counselors and Therapists — Annual Performance Progress Report,
+  Reporting Year 2025
+doc_type: performance_report
+citation: APPR BLPCT 2025
+authority_level: agency_report
+issuing_body: Board of Licensed Professional Counselors and Therapists
+agency: Board of Licensed Professional Counselors and Therapists
+agency_code: BLPCT
+reporting_year: '2025'
+year_source: document
+filename_year: '2025'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_BLPCT_2025-09-30.pdf
+source_filename: APPR_BLPCT_2025-09-30.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 43f8d99fa065b0c96d1ed1e029409250c6427df0e8619a9578a5bef84420c932
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2025
+---
+
+## At a glance
+
+**APPR BLPCT 2025** — Board of Licensed Professional Counselors and Therapists, Reporting Year 2025
+
+- Agency: Board of Licensed Professional Counselors and Therapists
+- Reporting year: 2025 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_BLPCT_2025-09-30.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Board of Licensed Professional Counselors and Therapists
+Annual Performance Progress Report
+Reporting Year 2025
+Published: 9/30/2025 11:40:49 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+CUSTOMER SERVICE
+-
+Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+Board Best Practices
+- Percent of total best practices met by the Board.
+Timely Investigations - Percent of complaints presented to the Board within 180 days of receipt of complaint.
+Efficient Application Processing - Average number of calendar days from completed license application file to application approval.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+50%
+0%
+50%
+red
+green
+yellow
+KPM #1
+CUSTOMER SERVICE
+-
+Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise,
+availability of information.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2021
+2022
+2023
+2024
+2025
+Expertise
+Actual
+88%
+65%
+76%
+49%
+55%
+Target
+75%
+75%
+75%
+75%
+75%
+Overall
+Actual
+76%
+68%
+68%
+42%
+52%
+Target
+75%
+75%
+75%
+75%
+75%
+Availability of Information
+Actual
+71%
+58%
+63%
+43%
+52%
+Target
+75%
+75%
+75%
+75%
+75%
+Timeliness
+Actual
+69%
+59%
+68%
+36%
+51%
+Target
+75%
+75%
+75%
+75%
+75%
+Helpfulness
+Actual
+80%
+61%
+70%
+42%
+48%
+Target
+75%
+75%
+75%
+75%
+75%
+Accuracy
+Actual
+79%
+61%
+69%
+44%
+52%
+Target
+75%
+75%
+75%
+75%
+75%
+How Are We Doing
+actual target
+Customer service ratings increased across the board from the prior year, but unfortunately still fell below the target of 75% in all areas of customer service in 2025.
+Overall Customer Satisfaction
+increased by 10 points, from 42% to 52%, which is still 23 points below target.  From 2024 to 2025,
+Accuracy
+increased by 8 points, from 44% to 52%, which is 23 points below target.
+Availability of
+Information
+increased by 9 points, from 43% to 52%, also sitting at 23 points below target.
+Expertise
+and
+Helpfulness
+increased the least amount, by 6 points each, from 49% to 55% for expertise
+(now the highest ranked area) and from 42% to 48% for helpfulness (now the lowest ranked area).
+Timeliness
+increased the most significantly by 15 points, from 36% to 51%.
+Factors Affecting Results
+The customer service ratings, which exceeded target by 7 to 15 points in every area in the 2019 survey results, trended downward from 2020 through 2024 when they reached an all-time low.  These
+unfortunate results reflected inadequate staff training, low morale, and continuous turnover resulting primarily from poor former management of the agency Licensing Section, and also reflected some
+disruption caused by the pandemic.  The new MHRA Executive Director and leadership team, beginning in mid-2024, have worked diligently to prioritize consistent, accurate, and courteous customer
+service.  The effort has included ensuring that vacancies are timely filled and that staff training does not fall to the wayside.  Mandatory overtime was eliminated. The agency is undergoing a positive
+culture shift, and staff morale has greatly improved.
+One particular legislative change significantly contributed to the improvements seen in the 2025 results.  The requirement for Board staff to review new and amended professional disclosure
+statements (PDS) was removed per HB 4010 (2024).  In 2023, staff reviewed nearly 10,000 PDS submissions, which represented the most significant bottleneck to application file completion.
+Licensing staff saw substantial relief in 2024, allowing them to refocus on customer service efforts.
+While significant improvement has been made, it will take time for the survey results to catch up.  Many of the respondents in the current 2025 result (which reflects the 2024 calendar year) likely
+experienced negative service under former management that was in place until mid-2024.  These adverse experiences will continue to affect survey results in future years as well, but it is expected
+that ratings will continue to improve until they are restored to meeting or exceeding target.
+Generally, survey results reflect some stakeholders who have experienced an adverse enforcement action, do not agree with laws or rules that the Board is charged with enforcing, or are unsatisfied
+with the policy direction of the Board or State Government in general.  These individuals will often respond "poor" to each satisfaction area, regardless of their experience with Board staff.  Another
+factor limiting improvement from the 2024 survey results is the ongoing pressure for Board staff to keep pace with the continued growth in licensure applications, renewals, and compliance
+investigations.  The Board's licensee base has grown by an average of 9.4% per year over the last decade, more than doubling in size from 2015 to 2024.  The volume of licensure applications
+received, which represents the most significant workload burden for front-line staff, grew from 837 in 2019 to 2,014 in 2024, more than doubling in just five years.  As authorized by HB 3300 (2023),
+BLPCT issued 98 limited permits in its inaugural year of 2024.  Compliance cases have grown by an average of 21.1% per year over the last five years, and are seeing a surge in 2025, with the
+volume of cases received by the date of this report already exceeding the 2024 amount. Additional staffing resources approved for the 2025-27 biennium are expected to contribute to better survey
+results in 2025, and agency management will continue to monitor staffing needs for 2027-29 to maintain the momentum.  Board leadership and staff members will continue to work diligently to recover
+from prior setbacks and challenges, centering excellent customer service in everything we do.
+KPM #2
+Board Best Practices
+- Percent of total best practices met by the Board.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Metric Value
+Actual
+99%
+92%
+97%
+99%
+99%
+Target
+85%
+85%
+95%
+95%
+95%
+How Are We Doing
+In the past five years, the Board has exceeded the target in Board best practices.  The most recent result for the 2025 reporting period was 99%, the same result from the prior period.  In previous
+years the Board was further above target; however, in 2024 and 2025 it is only 4 points above target, since the Legislative Fiscal Office increased the target from 85% to 95% beginning in 2023.
+Factors Affecting Results
+Agency leadership continues to look for opportunities for improved performance and increased transparency, regardless of the Board members' reports of success. Board staff sends materials with
+the survey to help clarify survey questions and explain how they directly relate to agency operations; however, members report on their perceptions of best practices which could reflect aspirational
+rather than actual performance levels.  The survey will fall below 100% if just one of the eight Board members opines that any one of the 15 best practice measures are not being met.
+actual target
+KPM #3
+Timely Investigations - Percent of complaints presented to the Board within 180 days of receipt of complaint.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Timely Investigations
+Actual
+24%
+46%
+47%
+64%
+51%
+Target
+75%
+75%
+75%
+75%
+75%
+How Are We Doing
+In the 2024 reporting year, 51% of complaints were presented to the Board within 180 days of receipt.  This falls below the target of 75% by 24 points, and represents a 13-point decrease from the
+64% result in 2024, but still exceeds results from 2021 to 2023.
+Factors Affecting Results
+The Agency has set an ambitious goal to present most complaint investigations to the Board within 180 days of receipt; however, there are many factors affecting our ability to expediently resolve a
+complaint. These include the varying complexity of cases, increasing volume of complaints received, arranging witness interviews, travel time, coordinating respondent, attorney, and witness
+schedules for interviews, and waiting for necessary records to be submitted (including issuing and enforcing subpoenas. Sometimes the Board receives emergency high-priority cases involving
+serious public protection concerns that take staff resources away from other cases.
+The goal is to present a thorough and complete investigation report to the Board the first time, which often is not possible to achieve within the required 180 days.  The Board meets bimonthly, so
+timing is a major factor as well.  Compliance staff continue to receive pressure from respondents, their attorneys, and the local professional association to allow respondents more and more time to
+respond to allegations and produce records, which reduces the Board's ability to achieve timeliness goals.  In the current reporting period (reflecting investigations opened in 2024), significant growth
+in the licensee base and compliance caseload continued to contribute to challenges in maintaining timeliness, which negatively affected customer service as described under KPM #1.  The volume of
+new investigations increased by 18.9% from 2023 to 2024, adding to the Compliance Section workload and making it a challenge to keep up.  The current surge of cases in 2025 is posing a challenge
+to their ability to present cases in a timely manner.
+actual target
+The Agency was approved for additional compliance staffing resources in its 2025-27 Agency Request Budget, and this is expected to help the investigative team keep up with the ever-increasing
+caseload.  Agency leadership has been working diligently to hire and train new staff members and improve complaint-processing speeds, but without compromising the integrity of the investigation
+process.  The Agency does not expect to show further decline in the 2026 report, as management continues to work towards a sufficiently staffed and trained compliance section that is dedicated to
+clearing out the backlog and staying ahead of the curve despite extraordinary growth.
+KPM #4
+Efficient Application Processing - Average number of calendar days from completed license application file to application approval.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = negative result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Efficient Application Processing
+Actual
+Target
+How Are We Doing
+The Board has surpassed its goal to take an average of no more than five calendar days to approve a completed licensure application.  The 2025 report, which reflects applications processed during
+the 2024 calendar year, shows an average of two days.  This is the same result as the 2024 report.
+Factors Affecting Results
+Efficient application processing has been highly prioritized by the Board, as it is a crucial step in ensuring licensed behavioral health providers can quickly provide necessary services to Oregonians.
+Agency leadership has continued to implement streamlined processes and best practice sharing between the two regulated boards that has enabled more efficient application processing.  Despite
+these good results, the Agency is still continuously looking for ways to improve, including staff retention, cross-training to help cover for absences and vacancies, improvements in the licensing system
+and website, and continuous feedback.  While speed of service is important, so too is the quality of customer service we provide along the way, which as described in KPM #1 will be a major focus
+area for improvement in the coming years.
+actual target

@@ -1,0 +1,586 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-governor-2019-10-01
+title: Governor's Office — Annual Performance Progress Report, Reporting Year 2019
+doc_type: performance_report
+citation: APPR GOVERNOR 2019
+authority_level: agency_report
+issuing_body: Governor's Office
+agency: Governor's Office
+agency_code: GOVERNOR
+reporting_year: '2019'
+year_source: document
+filename_year: '2019'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_GOVERNOR_2019-10-01.pdf
+source_filename: APPR_GOVERNOR_2019-10-01.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8f2d9af5d3f0fe3ed4be423b72c406f15a1e57224447bd7fddea28ed72a671d3
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2019
+---
+
+## At a glance
+
+**APPR GOVERNOR 2019** — Governor's Office, Reporting Year 2019
+
+- Agency: Governor's Office
+- Reporting year: 2019 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_GOVERNOR_2019-10-01.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Governor's Office
+Annual Performance Progress Report
+Reporting Year 2019
+Published: 10/1/2019 3:12:34 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+Customer Satisfaction - Percent of participants (customers) who rate the Regional Solutions process very good to excellent.
+Percentage of State Contract Awards to Business Certified by the Certification Office for Business Inclusion and Diversity -
+State Hiring - Number of protected classes being hired, promoted, and retained in state agencies.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+66.67%
+0%
+33.33%
+red
+green
+yellow
+KPM #1
+Customer Satisfaction - Percent of participants (customers) who rate the Regional Solutions process very good to excellent.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2015
+2016
+2017
+2018
+2019
+Timeliness
+Actual
+89.70%
+91.60%
+91.60%
+91.30%
+91.30%
+Target
+90%
+90%
+90%
+90%
+90%
+Overall
+Actual
+87.90%
+91.60%
+91.60%
+91.80%
+91.80%
+Target
+90%
+90%
+90%
+90%
+90%
+Helpfulness
+Actual
+89.10%
+89.60%
+89.60%
+93.20%
+93.20%
+Target
+90%
+90%
+90%
+90%
+90%
+Availability of Information
+Actual
+86.20%
+87.70%
+87.70%
+88.20%
+88.20%
+Target
+90%
+90%
+90%
+90%
+90%
+Accuracy
+Actual
+88.60%
+92%
+92%
+87.70%
+87.70%
+Target
+90%
+90%
+90%
+90%
+90%
+Expertise
+Actual
+92%
+91.80%
+91.80%
+93.20%
+93.20%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+actual target
+Goal:
+Improve the quality and efficiency of delivering state services to local governments and businesses.
+Oregon Context:
+OBM 35 - Public Management and Regional Solutions Mission
+Data Source:
+The Governor's Regional Solutions Office conducts a customer satisfaction survey on a biennial basis. The 2018 Customer Satisfaction Survey was developed following the DAS
+Recommended Statewide Customer Service Performance Measure Guidelines.
+The Governor's Office used SurveyMonkey.com to collect and analyze the results. The Regional Solutions Office maintains copies of the raw survey results.  A final report detailing the survey
+methodology and findings was prepared by and is available from the Regional Solutions Office.
+Owner:
+Jody Christensen, Regional Solutions
+Every two years the Governor's office conducts a survey in order to assess its performance in meeting the customer satisfaction measure for Regional Solutions. The survey assesses services
+provided by the Regional Solutions Centers' coordinators and state agency team members. For 2018, the survey was conducted from May 25, 2018 through June 25, 2018. As a result of the two
+year survey cycle, the 2018 survey will be used for the 2019 report. In 2020, the Regional Solutions Program is scheduled to conduct a new survey. The 2020 survey will be updated based on
+recommendations from the Secretary of State’s 2019 Audit Management Letter.
+The Regional Solutions KPM target is set at 90% to serve as a motivator for continually improving state agency service delivery to local jurisdictions and businesses. The survey measures how
+close Regional Solutions is to that 90% target for overall customer service and five specific areas of service (Timeliness, Accuracy, Helpfulness, Expertise, and Availability of Information), as per
+the DAS Guidelines for customer satisfaction surveys.
+The 2018 survey revealed that Regional Solutions continues to provide exceptional customer service, as evidenced by the high percentage of respondents rating Regional Solutions service as
+"Excellent to Good." The Regional Solutions program met or exceeded the 90% target in all but two areas, and the 2018 results were very similar to 2016.
+Three open ended questions were included in the 2018 survey. The data collected in the responses were quite useful. Comments addressed how the Regional Solutions program adds value to
+the work of organizations and what teams could do to promote economic development in the state, as well as general feedback about the program.
+Factors Affecting Results
+There are a number of factors that impact the Regional Solutions approach and the work of the Regional Solutions team members. For the most part, Regional Solutions is asked to become
+engaged in local projects that are complex, and many of these projects have long-standing issues that are beyond the scope of traditional state agency processes. The high customer service
+ratings may be influenced by the fact that the coordinators and state agency participants in Regional Solutions often play a key role in facilitating resolutions to tough issues and, in some instances,
+bringing a project that has run into problems to a successful conclusion. The high ratings may also reflect how the teams often work with local partners on an extended, concerted basis to get a
+problem addressed for the community or region.
+The Regional Solutions program continues to face a high demand for its services compared to its limited resources. The teams must constantly balance the need to work with particular communities
+to move high priority projects forward, while trying to be available for all communities that request assistance. In addition, they must be flexible to respond to the widely varying capacity of partners to
+work on economic and community development, i.e., depending on jurisdiction size, resources, and related factors.
+KPM #2
+Percentage of State Contract Awards to Business Certified by the Certification Office for Business Inclusion and Diversity -
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Metric Value
+Actual
+6.72%
+0.70%
+1.30%
+1.60%
+0.70%
+Target
+12%
+10%
+10%
+10%
+10%
+How Are We Doing
+Data Used:
+ORPIN original contracts issued by state government Q3 2009 – Q2 2017 (FY 2010 - 2018)
+Added for FY2019 analysis the ORPIN report “Original State Contracts Issued 7.1.18-6.30.19”
+Filtering of ORPIN data for:
+Contracts with value > $5K (Q3 ’09 – Q4 ’14) >$10K (FY 2017 – FY 2019)
+Contracts issued by state agencies
+Contracts applicable for COBID businesses, filtering out:
+Inter government agreements
+Work orders
+Qualified Rehabilitation Facility (QRF) contracts
+Statewide PA’s (removed Price Agreements and contracts marked as statewide)
+Reporting contract values:
+Report total award/spend value for the fiscal year the contract was issued
+actual target
+DAS Remarks:
+The report by DAS was produced with limited knowledge of past reporting methodology used, which may have an impact in outcomes of the report provided. It is unknown if all the information
+provided for 2019 accurately measures up to previous data collection. OregonBuys system will significantly improve ability to report with a high level of confidence and detail regarding the State’s
+spend and level of engagement with the COBID Certified Firms.
+Table 1. Results from analysis performed 9/24/19
+FY
+Total Contracts
+Awarded
+COBID Contracts
+Awarded
+Reporting
+Agencies
+Awarding
+Agencies
+% Awarded to
+COBID
+2010
+$ 1,644,255,266.00
+$   9,396,071.00
+0.6%
+2011
+$ 3,929,150,253.00
+$ 39,425,072.00
+1.0%
+2012
+$ 1,770,200,609.00
+$ 21,446,766.00
+1.2%
+2013
+$ 2,099,222,928.00
+$ 36,147,065.00
+1.7%
+2014
+$ 1,758,035,190.00
+$ 12,762,419.00
+0.7%
+2015
+$ 2,855,051,377.20
+$ 94,423,195.00
+3.3%
+2016
+$ 4,178,055,231.08
+$ 29,408,719.00
+0.7%
+2017
+$ 2,347,725,162.58
+$ 30,721,868.00
+1.3%
+2018
+$ 2,598,852,600.00
+$ 43,521,287.00
+1.6%
+2019
+$1,729,404,795.00
+$ 11,832,925.00
+0.7%
+Table 2. Results from analysis performed 9/26/19 for FY2019
+FY
+Total Contracts
+Awarded
+COBID
+Contracts
+Awarded
+Reporting
+Agencies
+Awarding
+Agencies
+% Awarded
+to COBID
+2019
+$1,729,404,795.00
+$ 11,832,925.00
+0.7%
+Table 3. Spend on statewide PA’s which use COBID vendors for FY 2019.
+PA
+Vendor
+COBID
+Total
+%COBID
+0483
+Covendis
+$ 343,310.00
+$ 432,910.00
+79%
+1408
+Grainger*
+-
+-
+-
+1407
+North Coast Electric
+-
+-
+-
+1409
+Fastenal
+-
+-
+-
+Note 1
+: PA1407, PA1408, and PA1409 expired in 2019-Q2. No sales were recorded.
+Note 2
+: $89,600 of the totals sales of $432,910 were to Marion County, an ORCPP member; it may or may not qualify to be counted on this report.
+COBID CERTIFIED FIRM DATA
+Provided by Business Oregon, COBID
+Ethnicity/Gender
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+1/1/2019
+to
+9/9/2019
+African American (Male)
+African American (Female)
+Asian Pacific (Male)
+Asian Pacific (Female)
+Caucasian (Male)
+1085
+1170
+1150
+1212
+1187
+1146
+1076
+Caucasian (Female)
+1158
+1227
+1233
+1328
+1359
+1411
+1430
+1397
+Hispanic (Male)
+Hispanic (Female)
+Native American (Male)
+Native American (Female)
+Subcontinent Asian (Male)
+Subcontinent Asian (Female)
+Other (Male)
+Other (Female)
+Unknown (Male)
+Unknown (Female)
+Total Number of Certified Firms
+2006
+2426
+3058
+3261
+3235
+3470
+3513
+3616
+3573
+*3350
+*NOTE:
+The reduction of COBID Certified Firms is due to graduating ESB Firms and efforts related to compliance.
+New Applications Received
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+1/1/2019 to
+9/9/2019
+ACDBE
+DBE
+MBE
+WBE
+SDV
+ESB
+Totals
+1007
+Graduating Firms
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+1/1/2019 to
+9/9/2019
+M/WBE
+MBE
+WBE
+ESB (Minority)
+ESB (Caucasian Female)
+ESB (Caucasian Male)
+Unknown
+Totals
+Factors Affecting Results
+Data from subcontracting is not reported in the COBID contract values but are significant. Adding this data into future reporting will better reflect the contracting dollars going to COBID
+certified contractors.
+The large number of graduated firms for the ESB program for 2018 occurred due to the 12-year limitation in the program.  In 2006, new rules reset the ESB program and those firms
+previously certified received an additional 12 years in the program reset.
+MANAGEMENT COMMENTS
+COBID (Certification Office of Business Inclusion and Diversity) certifies minority-owned, women-owned, and service-disabled veteran-owned businesses and emerging small businesses
+Currently, the state does not have systems in place to collect subcontractor data, only direct awards to COBID Certified Firms. This data will be collected as available by the awarded firm or
+prime. Many opportunities for COBID Certified Firms fall within a subcontracting opportunity.
+OregonBuys will be fully rolled out by end of 2020. In order to have consistent tracking of state spend, it is highly suggested that all agencies are required to utilize OregonBuys on agency
+purchases.
+Propose that DAS consider increased engagement with the business communities, statewide, to ensure awareness of upcoming Price Agreement contracting opportunities by hosting public
+forums, providing information to the Governor’s Economic and Business Equity Manager of such open opportunities to share with organizations and other networks. This has the potential to
+increase participation of COBID Certified Firms.
+Executive Order 18-03, promoting equity in contracting, directs all state agencies, boards and commissions within the Executive Branch, to coordinate with the Governor’s Office, Department
+of Administrative Services, and Business Oregon for training, community engagement activities, quarterly reporting, and to create and implement community and small business engagement
+plans for the purpose of bringing the State of Oregon to an increased utilization of COBID Certified Firms.  All agencies are working to increase the use of COBID Certified Firms and improve
+outreach.  Tracking of these efforts will occur through yearly reporting submitted by each agency to the Governor’s Office.
+The Executive Order 18-03 Steering Committee made the unanimous decision to write a new Executive Order based on what we learned from the implementation of EO 18-03.  The new EO
+will further clarify main components of reporting and help state agencies to better track the percentage of our state contract awards.
+The Governor’s Marketplace (GMP) 2020 is planned for October and will include workshops on becoming certified, using certified businesses, accessing contract opportunities on
+OregonBuys and increasing agency use of OregonBuys for contracting. Outcomes to watch for will include increased numbers of businesses completing their COBID process and increased
+numbers and value of contracts awarded to COBID certified firms. The anticipated number of attendees is approximately 1200 over a two-day event, including speakers, exhibitors, and
+businesses. The GMP is typically planned in the spring of each year; however, it is following the rollout of OregonBuys.
+In 2019 the Governor’s Office partnered with Oregon Small Business Development Centers in 7 location to resume the Governor’s Marketplace Editions, established in 2017. The editions for
+2020 will be partnered with Oregon SBDC and locations will be determined by March 2020. The Construction Contractors Board partnered in 2019 to offer continuing education credits.
+Reporting for all years prior to 2019 does not reflect all state agencies, boards and commissions under the Executive Branch. The Executive Order 18-03 requires such agencies to utilize
+ORPIN; however, the approval of OregonBuys impacted this requirement.  It was decided that it would not be a good use of resources to train agencies on ORPIN with a rollout of OregonBuys
+underway by end of 2020.
+Economic and Business Equity is collaborating with Business Oregon on increasing awareness to the public of the COBID Certification program with the intent to grow the number of COBID
+Certified Firms in commodity areas that are needed by agencies. The messaging emphasizes inclusion of all small businesses to participate on state contracts.
+A new initiative for prompt pay to subcontractors and suppliers was finalized and approved in September of 2019 and will be inserted into the master contract template by November of 2019.
+The issue of prompt payment has been a barrier for many years.  With this new initiative, it will be a win for all small businesses engaging as subcontractors on prime contracts.
+Our office is researching methods to capture spending under $10K as well as to increase the accessibility of contracts of $10K and below for COBID Certified Firms.
+The role of the Economic and Business Equity Manager has expanded beyond ensuring agencies are utilizing COBID Certified Firms and breaking down barriers.  With the ultimate goal of
+economic stability in Oregon communities, the EBE Manager is engaging on an economic development level as well as working with Tribal communities throughout the state to support
+established business programs. As EBE is based on economic development outcomes, we are seeking new ways to engage with Regional Solutions.
+KPM #3
+State Hiring - Number of protected classes being hired, promoted, and retained in state agencies.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Percentage of Race and Disabled in the State Work Force
+Actual
+18.70%
+19.50%
+20.30%
+22%
+23.10%
+Target
+22%
+22%
+22%
+22%
+22%
+How Are We Doing
+2015: Women – 21588 (52.8%); Men - 19280 (47.2%); People of Color – 6363 (15.6%); People with Disabilities – 1253 (3.1%); Total employees – 40,879*
+2016: Women – 22098 (52.9%); Men – 19664 (47.1%); People of Color – 6912 (16.6%); People with Disabilities – 1217 (2.9%); Total employees – 41,762
+2017: Women – 23388 (54.6%); Men – 19413 (45.3%); People of Color – 7252 (16.9%); People with Disabilities – 1457 (3.4%); Total employees – 42,801
+2018:  Women – 21309 (53.4%); Men – 18625 (46.6%); People of Color – 7371 (18.5%); People with Disabilities – 1271 (3.2%)  Total Employees – 39,934**
+2019: Women – 22178 (53.4%); Men – 19332 (46.6%); People of Color – 8299 (20%); People with Disabilities – 1271 (3.1%)  Total Employees – 41,512
+The 2019 data covers numbers spanning from July 1, 2018 to June 30, 2019.
+actual target
+2018 US Census Quick Facts for Oregon, total population estimates:
+2018
+Total Population
+4,190,713
+Women
+50.4%
+People of Color
+24.8%
+People with disabilities under age 65 years
+10.2%
+WORKFORCE TRENDS
+(July 1, 2018 to June 30, 2019)
+41,512 Employees
+New Hires
+Promotions
+Resignations
+Gender
+Female
+2626
+1409
+1246
+Male
+2335
+Race/Ethnicity
+People of
+Color
+Caucasian
+3549
+1901
+1646
+Disability
+Status
+Disabled
+NotDisabled
+4879
+2330
+2050
+Data Source:
+Department of Administrative Services, Chief Human Resources Office
+Data analysis
+: Between July 1, 2018 to June 30, 2019:
+Number of protected classes being hired was 21.77% of total hires.
+Number of protected classes being promoted was 23.03% of total promotions.
+Number of protected classed being retained was 23.04% of total retentions.
+Important Methodological Notes
+:
+Data was combined from the Position and Personnel Database (dates: 07/01/2018 – 12/31/2018) and Workday® (dates: 1/01/2019-06/30/2019). Only individuals
+under ORS 240 are included in the data. This data does not include temporary workers. Gender, Race/Ethnicity, and Disability Status are all data that is self-reported by the employee.
+Race/ethnicity includes visual assessments as required for EEO reporting. Disability Status is not a required field.
+Items affecting total numbers:
+For Race/ethnicity, individuals who did not wish to answer or did not have to answer were excluded from percentages. This included 416 individuals in the new hires
+data, 18 individuals in the promotions data, and 36 individuals in the resignations data. For Gender and Disability Status, two individuals in the new hires data did not have this data captured in
+Workday®.
+Factors Affecting Results
+*The total number of employees is based on the Executive branch agencies only and excluded board members, temporaries, commissions and committees.
+People of color represents Black or African American alone, American Indian and Alaska Native alone, Asian alone, Native Hawaiian and other Pacific Islander alone, Two or More Races,
+Hispanic or Latino.
+**This corrects the number of employees reported in the 2018 KPM Report.
+MANAGEMENT COMMENTS
+The Governor’s Office of Diversity, Equity, and Inclusion exists to ensure State compliance with Title VI and VII of the 1964 Civil Rights Act, covering nondiscrimination in public funds and affirmative
+action, Oregon Revised Statutes 200 and 659, as well as implementing the Governor’s Executive Order No. 17-11 relating to Affirmative Action, Equal Employment Opportunity, Diversity, Equity and
+Inclusion. The DEI Office has prioritized the following actions in 2019-2020:
+.
+Identify state agencies’ goals and review their 2019 – 2021 Affirmative Action Plans to measure the employment and retention of employees
+.
+Develop the Governor’s 2019 – 2021 Affirmative Action Report and implement the Governor’s Executive Order 17-11.
+.
+Review and approve state agency 2019 - 2021 biennium Affirmative Action Reports
+.
+Engage with state agencies, boards and commissions and assess their recruitment, hiring, retention, promotion and succession plans
+.
+Assess and develop enterprise implementation of affirmative action monitoring tool
+.
+Developing guidelines for 2021-23 Affirmative Action Reports
+.
+Assist agencies with compliance that mandates on equal employment opportunities, diversity, and internal and external public relations strategies
+.
+Provide oversight leadership to state agencies, boards and commissions on how to reach their target goals

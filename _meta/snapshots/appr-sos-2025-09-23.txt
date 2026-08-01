@@ -1,0 +1,390 @@
+Secretary of State
+Annual Performance Progress Report
+Reporting Year 2025
+Published: 9/23/2025 9:33:24 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+Electronic Access to Public Information - Percentage of targeted records made available electronically.
+Audit Efficiency - Dollar savings per dollar spent on economy and efficiency audits.
+Audit Recommendation Implementation - Percentage of audit recommendations implemented.
+Business registration - Document processing turnaround time from receipt.
+Notary - Document processing turnaround time from receipt.
+UCC - Document processing turnaround time from receipt.
+Campaign Finance Information - Percent of committee filings determined to be sufficient.
+Elections Investigations - Percentage of investigations opened - Investigation opened July-June that had a finding made within 120 days
+Staff Diversity - Employment of Women, People of Color, and Persons with Disabilities as a percentage of the SOS workforce.
+Customer Satisfaction - Percent of customers rating their overall satisfaction with the agency as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+55.56%
+11.11%
+33.33%
+red
+green
+yellow
+KPM #1
+Electronic Access to Public Information - Percentage of targeted records made available electronically.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Public Information Access- Improve access to public information
+Actual
+99%
+99%
+99%
+99%
+Target
+98%
+99%
+99%
+99%
+99%
+How Are We Doing
+This KPM is on Calendar Year and will be updated in January.
+Factors Affecting Results
+KPM #2
+Audit Efficiency - Dollar savings per dollar spent on economy and efficiency audits.
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+DOLLAR SAVINGS PER DOLLAR SPENT- Dollar savings per dollar spent on economy and efficiency
+Actual
+$15.65
+$20.31
+$21.62
+$60.98
+$49.46
+Target
+$12.00
+$12.00
+$12.00
+$12.00
+$12.00
+How Are We Doing
+Since 1999 when the tracking of this measure began, we have consistently identified more in revenue enhancements, savings, and questioned costs than our performance audits have cost. The
+cumulative amount identified has been $2.04 billion with a return on investment of $25.11. In fiscal year 2025, we identified $227.9 million in fiscal impacts for a return on investment of $49.46 for
+every $1 spent.
+Factors Affecting Results
+Our results on this measure depend on how many audits we undertake that have the potential for identifiable and quantifiable revenue enhancements, savings, or questioned costs. Identifying fiscal
+impact is but one of the many benefits produced by our performance audit work. Valuable objectives such as evaluating how well state government manages important issues or how effectively
+program services are being delivered do not always have a tie to dollar savings.  For example, reports issued in fiscal year 2025 provided assurance that the Department of Motor Vehicles computer
+system accurately assessed and collected fees for Oregon drivers licenses. We also found the Oregon Department of Human Service’s and Oregon Health Authority’s ONE system used by Oregon
+citizens to apply for public assistance was determining eligibility appropriately, but the system struggled at times with manual overrides. Our office also reported on decades of gaps in Oregon’s
+behavioral health system. This work delivered important information to decision makers and the public but did not have specific cost savings to report.
+KPM #3
+Audit Recommendation Implementation - Percentage of audit recommendations implemented.
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+IMPLEMENTED RECOMMENDATIONS- Percentage of recommendations implemented
+Actual
+89%
+92.39%
+96%
+90.48%
+90.48%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+In fiscal year 2024, we issued 84 recommendations in our financial and performance audits. We followed up a year later and found 90% of our recommendations had some action taken to
+implement/resolve them with 50% reported to be fully implemented. There were two recommendations from this period that the agency declined to implement. Data collection is lagged by at least one
+year given the time agencies need to implement our recommendations and to perform audit follow-up.
+Factors Affecting Results
+Many responses from agencies regarding the status of their implementation efforts indicated that recommendations not implemented, or partially implemented, reflected work in progress. The failure
+to act on audit findings may reflect deeper issues such as poor leadership, lack of resources, or resistance to change within the organization. Over time, this inertia can hinder performance
+improvements, delay strategic goals, and make future corrective actions more difficult and costly to implement. Continued inaction can damage public trust, erode accountability, and reduce
+transparency.
+KPM #4
+Business registration - Document processing turnaround time from receipt.
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2021
+2022
+2023
+2024
+2025
+TIMELY DOCUMENT PROCESSING-CORPORATION DIVISION- Business Registration document processing turnaround time from receipt
+Actual
+1.30
+2.60
+3.10
+1.90
+1.70
+Target
+0.60
+0.60
+0.60
+0.60
+0.60
+How Are We Doing
+Currently, due to staffing limitations and the slower processing times associated with internal systems, the Business Registry is not meeting its KPMs.
+Factors Affecting Results
+We are actively exploring and implementing strategies to improve processing times and meet these performance goals in the future.
+KPM #5
+Notary - Document processing turnaround time from receipt.
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2021
+2022
+2023
+2024
+2025
+TIMELY DOCUMENT PROCESSING- CORPORATION DIVISION- Notary Public document processing turnaround time from receipt
+Actual
+0.10
+0.20
+0.30
+0.30
+0.20
+Target
+0.20
+0.20
+0.20
+0.20
+0.20
+How Are We Doing
+The Oregon Secretary of State Corporation Division evaluates key performance measures (KPMs) based on the processing dates of documents received in our office. These measures include both
+online and paper filings.
+Factors Affecting Results
+We are actively exploring and implementing strategies to improve processing times and meet these performance goals in the future.
+KPM #6
+UCC - Document processing turnaround time from receipt.
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2021
+2022
+2023
+2024
+2025
+TIMELY DOCUMENT PROCESSING- CORPORATION DIVISION - Uniform Commercial Code document processing turnaround time from receipt
+Actual
+0.80
+0.80
+0.10
+0.10
+0.10
+Target
+0.20
+0.20
+0.20
+0.20
+0.20
+How Are We Doing
+By statute, Uniform Commercial Code (UCC) filings must be recorded with the date they are received. We strive to meet the same standard for notary documents whenever possible.
+Factors Affecting Results
+Our online system supports most new business filings, renewals, many reinstatements, and updates for limited liability companies and corporations. However, some filing types are not available online
+and must be submitted on paper.
+KPM #7
+Campaign Finance Information - Percent of committee filings determined to be sufficient.
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Public Access to Campaign Finance Information
+Actual
+99.20%
+98.80%
+98.57%
+97.94%
+97.91%
+Target
+99%
+99%
+99%
+99%
+99%
+How Are We Doing
+This year’s 97.91% is consistent with past results.
+Factors Affecting Results
+The Elections Division continues to work toward improved accuracy and transparency for voters.  This requires the team to identify insufficient filings, even though that works against this KPM
+reaching the benchmark of 99%.  The Division has increased training and education efforts in recent years, but with turnover in filers and the large overall volume of filings, there will always be a small
+portion of filers that require additional outreach and support to achieve a sufficient filing.  The Division will continue efforts to educate and support filers in filing sufficient reports.
+KPM #8
+Elections Investigations - Percentage of investigations opened - Investigation opened July-June that had a finding made within 120 days
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Elections Investigation Requests - Percentage of investigations opened
+Actual
+Target
+How Are We Doing
+This KPM is on Calendar Year and will be updated in January.
+Factors Affecting Results
+KPM #9
+Staff Diversity - Employment of Women, People of Color, and Persons with Disabilities as a percentage of the SOS workforce.
+- Jun 30
+Report Year
+2021
+2022
+2023
+2024
+2025
+a. Representation of Women as a Percentage of the SOS
+Workforce
+Actual
+58.40%
+59%
+59%
+62%
+59%
+Target
+62%
+62%
+62%
+62%
+62%
+b. Representation of People of Color as a Percentage of SOS’ Workforce
+Actual
+17.10%
+18.20%
+19.40%
+23.20%
+23%
+Target
+12%
+12%
+12%
+12%
+12%
+c. Representation of Persons with Disabilities as a Percentage of SOS’ Workforce
+Actual
+4.10%
+4.10%
+4.60%
+5%
+4%
+Target
+5%
+5%
+5%
+5%
+5%
+How Are We Doing
+In all categories we had slight fluctuations downward, however we continue to exceed our target for representation of people of color as a percentage of SOS’ workforce.
+Factors Affecting Results
+The greatest factors impacting these fluctuations were retirements, transition in administrations and Information Systems Division reduction in force related to campaign finance project direction.
+KPM #10
+Customer Satisfaction - Percent of customers rating their overall satisfaction with the agency as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise
+and availability of information.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2021
+2022
+2023
+2024
+2025
+Expertise
+Actual
+80%
+91%
+91%
+97%
+Target
+90%
+90%
+90%
+90%
+90%
+Overall
+Actual
+77%
+85%
+90%
+94%
+Target
+90%
+90%
+90%
+90%
+90%
+Accuracy
+Actual
+80%
+88%
+91%
+95%
+Target
+90%
+90%
+90%
+90%
+90%
+Timeliness
+Actual
+77%
+88%
+92%
+97%
+Target
+90%
+90%
+90%
+90%
+90%
+Helpfulness
+Actual
+81%
+87%
+90%
+94%
+Target
+90%
+90%
+90%
+90%
+90%
+Availability of Information
+Actual
+69%
+83%
+87%
+90%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+This KPM is on Calendar Year and will be updated in January.
+Factors Affecting Results

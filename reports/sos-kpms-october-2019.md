@@ -1,0 +1,387 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: sos-kpms-october-2019
+title: Secretary of State — Annual Performance Progress Report, Reporting Year 2019
+doc_type: performance_report
+citation: APPR SECRETARY-OF-STATE 2019
+authority_level: agency_report
+issuing_body: Secretary of State
+agency: Secretary of State
+agency_code: null
+reporting_year: '2019'
+year_source: document
+filename_year: '2019'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/SOS%20KPMs%20October%202019.pdf
+source_filename: SOS KPMs October 2019.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: cc2513cfa27d94c3a7130e09d2e901e147b2770ab767cbe4d0d4a3e879779c71
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2019
+---
+
+## At a glance
+
+**APPR SECRETARY-OF-STATE 2019** — Secretary of State, Reporting Year 2019
+
+- Agency: Secretary of State
+- Reporting year: 2019 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `SOS KPMs October 2019.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Secretary of State
+Annual Performance Progress Report
+Reporting Year 2019
+Published: 9/24/2019 4:18:14 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+Electronic Access to Public Information - Percentage of targeted records made available electronically.
+Audit Efficiency - Dollar savings per dollar spent on economy and efficiency audits.
+Audit Recommendation Implementation - Percentage of audit recommendations implemented.
+Business registration - Document processing turnaround time from receipt.
+Notary - Document processing turnaround time from receipt.
+UCC - Document processing turnaround time from receipt.
+Campaign Finance Information - Percent of committee filings determined to be sufficient.
+Staff Diversity - Employment of Women, People of Color, and Persons with Disabilities as a percentage of the SOS workforce.
+Customer Satisfaction - Percent of customers rating their overall satisfaction with the agency as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+66.67%
+0%
+33.33%
+red
+green
+yellow
+KPM #1
+Electronic Access to Public Information - Percentage of targeted records made available electronically.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Public Information Access- Improve access to public information
+Actual
+No Data
+98%
+99%
+97%
+No Data
+Target
+35%
+98%
+98%
+98%
+98%
+Reporting period is January to December. KPM's will be updated when data is collected in December.
+KPM #3
+Audit Efficiency - Dollar savings per dollar spent on economy and efficiency audits.
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+DOLLAR SAVINGS PER DOLLAR SPENT- Dollar savings per dollar spent on economy and efficiency
+Actual
+$15.51
+$2.09
+$3.86
+$14.00
+$85.48
+Target
+$15.00
+$12.00
+$12.00
+$12.00
+$12.00
+KPM #4
+Audit Recommendation Implementation - Percentage of audit recommendations implemented.
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+IMPLEMENTED RECOMMENDATIONS- Percentage of recommendations implemented
+Actual
+88%
+79%
+68.30%
+65.40%
+No Data
+Target
+90%
+90%
+90%
+90%
+90%
+KPM #5
+Business registration - Document processing turnaround time from receipt.
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2015
+2016
+2017
+2018
+2019
+TIMELY DOCUMENT PROCESSING-CORPORATION DIVISION- Business Registration document processing turnaround time from receipt
+Actual
+0.70
+0.60
+0.50
+0.80
+0.50
+Target
+1.20
+0.60
+0.60
+0.60
+0.60
+KPM #6
+Notary - Document processing turnaround time from receipt.
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2015
+2016
+2017
+2018
+2019
+TIMELY DOCUMENT PROCESSING- CORPORATION DIVISION- Notary Public document processing turnaround time from receipt
+Actual
+0.10
+0.02
+0.04
+0.09
+0.05
+Target
+0.60
+0.60
+0.20
+0.20
+KPM #7
+UCC - Document processing turnaround time from receipt.
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2015
+2016
+2017
+2018
+2019
+TIMELY DOCUMENT PROCESSING- CORPORATION DIVISION - Uniform Commercial Code document processing turnaround time from receipt
+Actual
+0.04
+0.01
+0.03
+0.05
+0.02
+Target
+1.20
+0.40
+0.30
+0.20
+0.20
+KPM #8
+Campaign Finance Information - Percent of committee filings determined to be sufficient.
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Public Access to Campaign Finance Information
+Actual
+98.05%
+98.91%
+No Data
+99.09%
+98.80%
+Target
+98%
+99%
+99%
+99%
+99%
+KPM #9
+Staff Diversity - Employment of Women, People of Color, and Persons with Disabilities as a percentage of the SOS workforce.
+- Jun 30
+Report Year
+2015
+2016
+2017
+2018
+2019
+a. Representation of Women as a Percentage of the SOS
+Workforce
+Actual
+58%
+57%
+59%
+56%
+57%
+Target
+62%
+62%
+62%
+62%
+62%
+b. Representation of People of Color as a Percentage of SOS’ Workforce
+Actual
+10%
+13.50%
+8%
+15%
+16%
+Target
+12%
+12%
+12%
+12%
+12%
+c. Representation of Persons with Disabilities as a Percentage of SOS’ Workforce
+Actual
+2%
+2%
+5%
+5%
+5%
+Target
+5%
+5%
+5%
+5%
+5%
+The Agency increased both Women and POC numbers over the last year and maintained the PWD percentage.
+Factors contributing to our ability to meet Agency targets are driven in part by the applicant pool for vacant positions as well as our relatively small workforce and significant impact of even minor
+attrition, which varies our representation.  We have increased our recruiting efforts to reach these diverse populations in an effort to increase their representation in our applicant pools.
+KPM #10
+Customer Satisfaction - Percent of customers rating their overall satisfaction with the agency as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise
+and availability of information.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2015
+2016
+2017
+2018
+2019
+Expertise
+Actual
+No Data
+93%
+96%
+96%
+No Data
+Target
+85%
+85%
+85%
+90%
+90%
+Overall
+Actual
+No Data
+94%
+95%
+94%
+No Data
+Target
+85%
+85%
+85%
+90%
+90%
+Accuracy
+Actual
+No Data
+94%
+97%
+95%
+No Data
+Target
+85%
+85%
+85%
+90%
+90%
+Timeliness
+Actual
+No Data
+95%
+94%
+96%
+No Data
+Target
+85%
+85%
+85%
+90%
+90%
+Helpfulness
+Actual
+No Data
+94%
+97%
+96%
+No Data
+Target
+85%
+85%
+85%
+90%
+90%
+Availability of Information
+Actual
+No Data
+91%
+92%
+90%
+No Data
+Target
+85%
+85%
+85%
+90%
+90%
+Reporting period is January to December. KPM's will be updated when data is collected in December.

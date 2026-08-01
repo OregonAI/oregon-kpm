@@ -1,0 +1,629 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-das-2021
+title: Administrative Services, Department of — Annual Performance Progress Report, Reporting Year 2021
+doc_type: performance_report
+citation: APPR ADMINISTRATIVE-SERVICES- 2021
+authority_level: agency_report
+issuing_body: Administrative Services, Department of
+agency: Administrative Services, Department of
+agency_code: null
+reporting_year: '2021'
+year_source: document
+filename_year: '2021'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_DAS-2021.pdf
+source_filename: APPR_DAS-2021.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: aeb63039e77e10f5cf4aa93f12a96b450c089da2e6da05c0bdc9b1a32968bcbe
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2021
+---
+
+## At a glance
+
+**APPR ADMINISTRATIVE-SERVICES- 2021** — Administrative Services, Department of, Reporting Year 2021
+
+- Agency: Administrative Services, Department of
+- Reporting year: 2021 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_DAS-2021.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Administrative Services, Department of
+Annual Performance Progress Report
+Reporting Year 2021
+Published: 9/29/2021 11:21:00 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+FORECAST RELIABILITY
+- General Fund Forecast Tracking Metric
+FINANCIAL REPORTING
+- Percent of Agencies receiving Gold Star Award (The Gold Star Award is the state agency equivalent of the GFOA Certificate of Achievement for Excellence in Financial Reporting)
+WORKFORCE TURNOVER
+- Annual voluntary turnover rate for the State and DAS workforce.
+WORKFORCE DIVERSITY
+- Racial/ethnic diversity in DAS and the state workforce as a percentage of the total civilian labor force.
+RENT COSTS - DAS negotiated lease rates in private sector vs. average market rates.
+INFORMATION SECURITY
+- Overall maturity rating for implementation of the Center for Internet Security’s (CIS) Basic Six critical security controls. This rating is an aggregate score based on the Carnegie Mellon Capability Maturity Model Integration
+(CMMI), and is derived from cybersecurity assessments conducted by the Enterprise Information Services (EIS) Cyber Security Services (CSS) Assessment Team.
+PERCENT OF STATE PROCUREMENT SPEND FACILITATED THROUGH THE OREGONBUYS SYSTEM - Measures statewide adoption of the OregonBuys e-Procurement system by measuring the overall percentage of state purchasing facilitated
+through the system.
+RISK MANAGEMENT
+- Annual number of Severe Worker's Compensation claims per 100 FTE
+DATA CENTER
+- Percentage of time systems are available.
+GREENHOUSE GAS (GHG) EMISSIONS - Total GHG emissions and intensity from buildings and fleet.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+55.56%
+0%
+44.44%
+red
+green
+yellow
+KPM #1
+CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+helpfulness, expertise and availability of information.
+Data Collection Period: Jan 01
+- Aug 31
+Report Year
+2017
+2018
+2019
+2020
+2021
+Helpfulness
+Actual
+0%
+77%
+0%
+Target
+90%
+90%
+90%
+90%
+90%
+Timeliness
+Actual
+67%
+0%
+75%
+0%
+Target
+90%
+90%
+90%
+90%
+90%
+Expertise
+Actual
+72%
+0%
+79%
+0%
+Target
+90%
+90%
+90%
+90%
+90%
+Overall
+Actual
+67%
+0%
+75%
+0%
+Target
+90%
+90%
+90%
+90%
+90%
+Availability of Information
+Actual
+65%
+0%
+72%
+0%
+Target
+90%
+90%
+90%
+90%
+90%
+Accuracy
+Actual
+70%
+0%
+76%
+0%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+No data for 2021 only even numbered years.
+While DAS has no new data to report for 2021 focus continues on areas of needed improvement identified in the 2019 survey. Meeting customer needs in a remote environment has been a major
+focus, the use of electronic platforms such as Teams and Zoom have allowed staff to interact with customers on a personal level.  DAS has developed a “Reopening Advisory Team” comprised of both
+DAS employees and employee representatives from other executive branch agencies. The Team is focused on issues such as public access, workforce re-entry to state office buildings,
+telecommuting, in-office staff, information technology needs, workspace, facilities, parking, and human resource policies.
+Factors Affecting Results
+Navigating through the COVID-19 response continues to provide challenges. The state enterprise is constantly exploring opportunities to deliver services in an ever changing environment.
+KPM #2
+FORECAST RELIABILITY
+- General Fund Forecast Tracking Metric
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+General Fund Forecast
+Actual
+103.19%
+103.85%
+111.48%
+100.80%
+113.10%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+OEA Note regarding the "Actual": This is submitting the September 2021 forecast General Fund figures for the 2019-21 BN, comparing them to the 2019 Close of Session forecast for the
+2019-21 BN.
+Actual General Fund revenues in the 2019-21 biennium came in significantly above expectations, triggering the state’s unique kicker law. Under Oregon’s kicker, errors larger than 2 percent are
+returned to taxpayers (for personal income taxes) as a credit on their tax returns or retained in the General Fund for additional education spending (corporate income taxes). In 2019-21 the corporate
+kicker totaled $847 million, while the personal kicker (technically all revenues excluding corporate) totaled $1.9 billion. The personal kicker is a record dollar amount and when measured as a share of
+underlying tax liability (or as a share of the economy) it is our office’s second largest on record.
+Factors Affecting Results
+The state’s volatile underlying economy and current tax structure yield larger year-to-year swings than in the typical state. While Oregon comes out ahead of the typical state in both an economic and
+revenue sense over the entire business cycle, such variances are more challenging and difficult to accurately forecast.
+Revenues in each of the past two biennia – 2017-19 and 2019-21 – have come in considerably higher than forecast and stronger than the underlying economy alone would suggest. In 2017-19 this
+was in part due to taxpayer’s response to the large, federal tax reforms. In 2019-21 the combination of large federal aid during the pandemic, and record-setting asset markets resulted in strong tax
+receipts. Our office is continuing to research the reasons why taxes paid continue to outstrip underlying economic gains.
+KPM #3
+FINANCIAL REPORTING
+- Percent of Agencies receiving Gold Star Award (The Gold Star Award is the state agency equivalent of the GFOA Certificate of Achievement for Excellence in
+Financial Reporting)
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Percent of agencies receiving the Gold Star Award
+Actual
+99%
+96%
+97%
+97%
+Target
+98%
+100%
+100%
+98%
+98%
+How Are We Doing
+Agencies have been earning the Chief Financial Officer’s Gold Star Award since 1990. The target percentage of agencies earning the Gold Star Award is 98%.  We have fallen just short of our target
+for 2020 as three agencies did not earn the Gold Star Award.
+The FY 2021 information won’t be known until early in calendar year 2022.
+Factors Affecting Results
+The extent and complexity of new accounting and financial reporting standards issued by the Governmental Accounting Standards Board (GASB) affects the agency accounting process.
+Implementation of new standards on a statewide basis requires focused resources to plan, modify systems as needed, update policies, and provide training to state agencies. Another important
+factor affecting results include fiscal staffing levels at state agencies, level of staff expertise, turnover, and the ability of each agency to provide accurate and timely information for the fiscal year-end
+closing.
+KPM #4
+WORKFORCE TURNOVER
+- Annual voluntary turnover rate for the State and DAS workforce.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2017
+2018
+2019
+2020
+2021
+a. State Workforce Turnover
+Actual
+5.32%
+4.97%
+5.03%
+4.67%
+5.17%
+Target
+5.60%
+5.60%
+5.60%
+5.60%
+5.60%
+b. DAS Workforce Turnover
+Actual
+3.61%
+2.29%
+3.08%
+3.09%
+2.34%
+Target
+5.50%
+4.50%
+4.50%
+4.50%
+4.50%
+How Are We Doing
+The state’s resignation rate (4a) for FY 21 is 5.17%. This is 0.43% lower than the benchmark of 5.60% set in 2010. The resignation rate for DAS (4b) is 2.34%, indicating a stable workforce. This is
+2.16% lower than the benchmark of 4.50%. Resignation refers to voluntary separation from employment. Resignation does not include layoffs, involuntary terminations, or retirement. This
+conceptualization aligns with the definition of “quits” reported by the United States Bureau of Labor Statistics in the Job Openings and Labor Turnover Survey (JOLTS) data.
+Factors Affecting Results
+From FY 20 to FY 21, the State of Oregon’s annual turnover rate remained stable, only increasing by 0.50%. Even though it is an employee’s job market with a low unemployment rate and a
+historically high number of job openings, the State of Oregon’s workforce demonstrates relative stability. The following table lists reasons for employees leaving the state workforce in both FY 20
+and FY 21. One interesting finding is that private sector opportunities and advancement emerged in FY 21 as top reasons for leaving state employment.
+Table 1- Primary Reason for Leaving (Top 5)
+FY21
+Personal / Not Disclosed / Other - 64.86%
+Private Sector Opportunities - 10.54%
+Family Reasons – 8.63%
+Relocation - 8.38%
+Advancement Opportunities – 7.58%
+KPM #5
+WORKFORCE DIVERSITY
+- Racial/ethnic diversity in DAS and the state workforce as a percentage of the total civilian labor force.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2017
+2018
+2019
+2020
+2021
+a. State Workforce Diversity
+Actual
+76.81%
+77.50%
+79.20%
+80.80%
+83.70%
+Target
+100%
+100%
+100%
+100%
+100%
+b. DAS Workforce Diversity
+Actual
+72.15%
+76.70%
+76.20%
+75.50%
+76.60%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+As of the end of FY 21, the racial and ethnic diversity of the state workforce was 21.1%. This is an absolute increase of 1.3% from the previous fiscal year. While Oregon’s civilian workforce is more
+diverse than Oregon State Government employees, this key performance measure continues to show improvement.
+Calculation: 21.1% / 25.2% = 83.7% of the goal of 100% reflection of the Oregon workforce.
+As of the end of FY’21, the racial and ethnic diversity of the DAS workforce was 19.3%.
+Calculation: 19.3% / 25.2% = 76.6% of the goal of 100% reflection of the Oregon workforce.
+Factors Affecting Results
+A key area of focus for the Department of Administrative Service’s Chief Human Resources Office (CHRO) is to be considered the employer of choice for all. With a focus effort to reach the historically
+underserved and under-resourced populations in Oregon. Beginning FY2020, staff from DAS CHRO completed annual training through the Government Alliance on Race and Equity (GARE). As a
+result of that training, we took the opportunity to review position descriptions, job announcements, policies, and procedures through a racial equity lens, in an attempt to eliminate
+conscious/unconscious bias language that kept women, people of color, people with disabilities, and LGBTQ+ from applying for jobs. In the case of policies and procedures we eliminated language
+that inadvertently or negatively impacted these same groups of people, therefore, impacting the retention of state employees. Additionally, our new HRIS, Workday, allows us to accurately track
+demographic data across the enterprise than the previous system, providing more reliable data.
+KPM #7
+RENT COSTS - DAS negotiated lease rates in private sector vs. average market rates.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+DAS negotiated lease rate vs. average market rate (Salem/Keizer)
+Actual
+4%
+18%
+6%
+6.83%
+28.03%
+Target
+0%
+5%
+5%
+5%
+5%
+How Are We Doing
+Note regarding "Actual" # above: without including a 75k square foot transaction with ODOT, the “Actual” savings percentage would have been 10.55% - as the rate we got on the ODOT
+transaction was far under-market. DAS calculations are done with weighted averages, therefore inclusion of the ODOT transaction drastically skews the “Actual” savings percentage.
+Also, the actual number is a “full service, grossed-up” figure, which includes an amount for additional expenses to compare with Leases with a full service rent structure ($.10 added to
+costs)
+The 2021-20 measure period was a difficult market with extreme uncertainty from Agencies. During this period, Agencies were more hesitant to commit to leasing space at the moment. This year,
+Real Estate Services (RES) has seen an increase in Agency requests to reduce costs by reducing space that is not currently being utilized by employees who now are able to work from home.
+Inventory in the market remains low and demand for construction and materials are high, continuing to push market costs higher than in previous years. However, through many factors (such as
+external resources, leveraging the buying power of the state as a creditworthy tenant, and negotiating longer-term leases at more favorable prices), RES has been able to continue to lease under the
+market rate.
+2018 Values
+(July 1, 17 – June
+30, 18)
+2019 Values
+(July 1, 18 – June
+30, 19)
+2020 Values
+(July 1, 19 – June
+30, 20)
+2021 Values
+(July 1, 20 – June
+30, 21)
+% change
+(from 2020 to
+2021)
+State Uniform Rent Rate
+$1.45
+$1.55
+$1.55
+$1.55
++ 00.00 %
+Average cost of Salem/Keizer market  (full
+service, grossed-up)
+$1.72
+$1.90
+$1.97
+$2.01
++ 02.00 %
+Quantity of Leases (negotiated in Salem)
+- 18.75 %
+Volume   (in Salem)
+135,000
+336,213
+378,206
+166,576
+- 55.96 %
+Quantity of Leases (negotiated in entire
+portfolio)
+- 30.63 %
+Volume  (of entire portfolio)
+795,000
+1,164,922
+870,787
+487,831
+- 43.98 %
+Factors Affecting Results
+Year over year, RES has continued to accumulate vast savings in facility costs for state agencies. Moving forward in the next few measure periods, the market shows a potential swing from low
+commercial office space inventory to a higher inventory, due (in most part) to the recent COVID-19 workplace restrictions, an increase in general acceptance of a telecommuting environment, and a
+large number of public and private employers exiting the market in an attempt to reduce costs in this uncertain time.
+Considering these factors, among others, RES expects market leverage to continue to shift towards Tenants. Therefore, RES could see an advantage from a negotiation standpoint over the next
+couple of measure periods, when searching for space. However, RES also expects other aspects of the market to continue to be volatile, and anticipates other market increases, such as the cost of
+janitorial services due to COVID-19 safety standards and regulations, and extreme construction costs.
+KPM #8
+INFORMATION SECURITY
+- Overall maturity rating for implementation of the Center for Internet Security’s (CIS) Basic Six critical security controls. This rating is an aggregate score based
+on the Carnegie Mellon Capability Maturity Model Integration (CMMI), and is derived from cybersecurity assessments conducted by the Enterprise Information Services (EIS) Cyber Security
+Services (CSS) Assessment Team.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+INFORMATION SECURITY
+Actual
+0.90
+Target
+3.50
+How Are We Doing
+During the July 2020 – June 2021 reporting period, Cyber Security Assessors from Enterprise Information Services – Cyber Security Services (EIS-CSS) performed assessments against the Center
+for Internet Security’s (CIS) Controls v7.1, “Basic Six” controls for 23 of 77 Executive Branch agencies, boards, and commissions. This represents an increase of approximately 188% from the
+previous year (2019 – 2020) wherein 8 organizations were assessed. The increase in the number of completed assessments is due to the addition of 3 cybersecurity assessors, in addition to a change
+in the way that boards and commissions that use the same IT Managed Service Provider (MSP) are assessed. For boards and commissions using the same MSP, the Assessment Team has started
+conducting “group” cybersecurity assessments of the MSP, and providing the results to the administrator of the board or commission, as well as the MSP.
+Since the start of the assessment program in the fall of 2018, CSS has assessed 52 out of 77 agencies. The CSS Assessment Team will be developing next year’s 2022 assessment calendar and will
+be completing assessments of the remaining agencies. The goal is to assess approximately half of the executive branch agencies/boards/commissions each fiscal year. Through automation, the use
+of an Integrated Risk Management (IRM) platform, and continued process improvement, the assessment window can be compressed, which will allow more assessments to be completed each
+calendar year.
+In order to assess and score the maturity of a given control, Assessors evaluate a set of criteria relative to each control, based on the Carnegie Mellon Capability Maturity Model Integration (CMMI).
+Specifically, Assessors consider whether or not written, well-documented procedures exist to support the control, whether or not and to what degree the control is automatically or technically enforced,
+whether or not the control is reported to relevant stakeholders if applicable, and the overall control coverage or implementation of the control, in order to determine the control effectiveness.
+During this reporting period, the Enterprise averaged a maturity score of 0.9 (on a CMMI scale of 0 – 5) for all CIS v7.1 Basic Six controls, across all 24 Executive Branch agencies, boards, and
+commissions. On the CMMI, this equates to a maturity score of “1 – Initial / Ad-Hoc.” At Maturity Level 1 processes are ad-hoc and generally not documented, are reactive, and rely on institutional
+knowledge as opposed to formally documented policies, procedures, and standards. Success at Maturity Level 1 is generally the result of the individual heroics of the people within the organization, as
+opposed to documented, managed, measured, and repeatable processes.
+Factors Affecting Results
+The most significant factor affecting the overall Enterprise maturity score for the CIS v7.1 Basic Six controls during this reporting period, other than a lack of control implementation, is a consistent lack
+of formal written procedures to support existing controls. Defined and documented procedures are essential to ensure control effectiveness by communicating expectations and directions to relevant
+personnel, for the purpose of reducing variance from an intended state, condition, or process. While controls may be implemented and working as designed, lack of documented procedures increases
+the likelihood of variance in the processes required to operate and maintain those controls and increases the risk of reduced control effectiveness over time.
+In some cases, Assessors found commendable controls and practices in place at certain agencies, boards, and commissions. However, in most of these cases, the organization relied on manual
+processes and institutional knowledge (as opposed to clearly defined, managed, and measured processes) to perform the required tasks to implement the controls. As part of the assessment service,
+the Assessment Team provides agencies, boards, and commissions with supplemental guidance and resources from EIS-CSS, and the CIS, including templates for standard operating procedures to
+support the CIS Basic 6 Controls, to assist organizations in efforts to advance control maturity.
+Additionally, many of the organizations assessed lack processes around regular review and reporting of control outputs and outcomes to relevant stakeholders. Since improved organizational maturity
+is associated with improvement in expected results, advancement to the higher CMMI maturity ratings requires that organizations continually monitor and report on outcomes, and establish a feedback
+loop for continuous improvement in risk-related efforts.
+Another factor affecting the Enterprise maturity score is a lack of a unified approach to control implementation. During the assessments, Assessors encounter a diverse ecosystem of tools, systems,
+and processes ranging from spreadsheets to complex asset inventory and configuration management tools. Lacking a unified approach and standardized tool set generally results in ad-hoc control
+implementation and complicates top-down enterprise guidance around the same.
+KPM #9
+PERCENT OF STATE PROCUREMENT SPEND FACILITATED THROUGH THE OREGONBUYS SYSTEM - Measures statewide adoption of the OregonBuys e-Procurement system by
+measuring the overall percentage of state purchasing facilitated through the system.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2017
+2018
+2019
+2020
+2021
+Percentage of state agency SPOTS card spend
+Actual
+Target
+a. Percentage of Small Procurement[1] contract spend
+Actual
+Target
+b. Percentage of Intermediate Procurement[2] contract spend
+Actual
+Target
+How Are We Doing
+This is a new measure and there are no results to report at this time.
+Phase one of the OregonBuys project – replacement of the ORPIN system – went live on July 1, 2021, which is after the current reporting period.  Phase 2 of the OregonBuys Project – implementation
+of the “pay” aspects of the procure-to-pay OregonBuys system will not be fully implemented Enterprise wide until mid-2023.  While it is possible we will have some preliminary – and incomplete –
+results to report in 2022, a full first reporting will not be possible until the report on the period July 1, 2023 – June 30, 2024.
+Factors Affecting Results
+n/a
+KPM #10
+RISK MANAGEMENT
+- Annual number of Severe Worker's Compensation claims per 100 FTE
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Number of Severe Worker's Compensation Claims per 100 FTE
+Actual
+1.70
+1.52
+1.59
+1.47
+1.56
+Target
+1.50
+1.50
+1.50
+1.50
+How Are We Doing
+We did not meet our goal of 1.50 with actual of 1.56.
+Factors Affecting Results
+We continue to have a decrease in frequency; however, we did see an increase in the number of disabling claims. Disabling claims are those that receive time loss payments. With the COVID
+pandemic it was and still is difficult to find transitional work for the agencies to return employees to work.
+The National Guard was deployed in the Fall of 2020 related to the wildland fire fighting. There were 62 claims filed for COVID exposure with 61 claims receiving time loss associated with the
+exposure.
+There are 9 claims with reserves of over $200,000. One claim is reserved for over $1 million, a severe “motor vehicle accident” (hit from the rear by another vehicle). The agency is engaged with SAIF
+Corporation and looking for transitional work for the employee. We also saw one claim associated with the wildland fire exposure where the employee was struck by a tree. This employee is still not
+working. There is also one claim filed and denied related to COVID pandemic exposure, the employee is back at work, the claim has gone to hearing and SAIF Corporation won. SAIF Corporation is
+anticipating that the claimant’s attorney will appeal the decision.
+Finally, we are also seeing an increase in PTSD “presumptive claims” with the passage of the workers’ compensation law. Presumptive claims assume that the exposure was work related. The
+employer/insurance carrier needs to prove that this was not true. We have seen this increase with the following agencies: Oregon State Police and Oregon Department of Corrections. Out of the 9
+claims 6 are related to the PTSD presumptive law. Not all 6 have been accepted, however SAIF Corporation is anticipating that a hearing will be requested.
+KPM #11
+DATA CENTER
+- Percentage of time systems are available.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Data Center- Systems Availability
+Actual
+99.91%
+99.84%
+99.94%
+99.93%
+99.93%
+Target
+99.90%
+99.90%
+99.90%
+99.90%
+99.90%
+How Are We Doing
+The availability of 99.93% for FY 2021 is above target.
+Factors Affecting Results
+Data Center Services (DCS) continues to meet and exceed it’s performance target.  Close management of technology lifecycle, investment in the upgrade of the power and infrastructure of the data
+center, increased automation in its service lines and upgrade to a high speed network on the data center floor have all contributed to improved performance of DCS.
+KPM #12
+GREENHOUSE GAS (GHG) EMISSIONS - Total GHG emissions and intensity from buildings and fleet.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2017
+2018
+2019
+2020
+2021
+Buildings- Total Metric Tons Annually of Carbon Dioxide Equivalent Greenhouse Gases (MTCO2e)
+Actual
+Target
+Buildings- Metric Tons of Carbon Dioxide Equivalent Greenhouse Gases Per Gross Square Foot of Building Space (MTCO2e/GSF)
+Actual
+Target
+Fleet- Total Metric Tons Annually of Carbon Dioxide Equivalent Greenhouse Gases (MTCO2e)
+Actual
+Target
+Fleet- Metric Tons of Carbon Dioxide Equivalent Greenhouse Gases Per Vehicle Mile Traveled (MTCO2e/VMT)
+Actual
+Target
+How Are We Doing
+As this reporting period establishes the initial year of data reporting, no year-over-year comparisons are yet available. DAS also researching best methods for an accurate back-casting to establish the
+1990 baseline from which year over year improvements will be measured, as data for 1990 is largely unavailable. DAS will be able to report and show the most recent years of data for comparison to
+the established 1990 baseline for the 2022 KPM report.
+Note that for both buildings and fleets, there are data reporting lags, with data for a prior year generally available by the middle of the following year. As a result, future reporting years will include data
+from the prior calendar year. This is due to the effort to collect, verify and process data across the fleet and building portfolio, and to calculate greenhouse gas emission factors for both fleet fuels
+consumed and building energy provided by utilities.  Data for both fleets and buildings are collected and reported by calendar year in accordance with fleet greenhouse gas data reporting
+requirements, as well as the Oregon Department of Energy’s SEED reporting for state building energy use. Building energy use is reported for all DAS-owned buildings over 5,000 square feet in
+accordance with SEED reporting requirements.
+In calendar year 2020, energy use in DAS buildings generated a calculated 16,718 metric tons of carbon dioxide equivalent greenhouse gas emissions (MTCO2e), or 0.006118 MTCO2e per square
+foot of building space. Fuel use in the DAS owned and managed fleet generated 14,440 MTCO2e, or 0.000612 MTCO2e per vehicle mile traveled.
+Factors Affecting Results
+Covid and resultant decrease in fleet vehicle use and building occupancy had a significant impact during the reporting period, in particular from March-December. Use of the DAS fleet by agencies
+decreased during the reporting period from the prior year. While buildings were significantly less occupied, lighting and heating/cooling were still necessary to continue operations in most buildings.
+DAS also increased building ventilation to provide more fresh air to help reduce Covid impacts.
+In DAS buildings, energy management efforts, including operational changes and capital projects, continued to drive down the energy use intensity (EUI) and resulting greenhouse gas emissions in
+many buildings. In some cases, however, such as the need for extended operations to respond to Covid, wildfires and other issues, EUI increased during the reporting period.

@@ -1,0 +1,250 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: apprproposed-orc-2024-10-17
+title: Oregon Racing Commission — Annual Performance Progress Report, Reporting Year 2024
+doc_type: performance_report
+citation: APPR ORC 2024
+authority_level: agency_report
+issuing_body: Oregon Racing Commission
+agency: Oregon Racing Commission
+agency_code: ORC
+reporting_year: '2024'
+year_source: document
+filename_year: '2024'
+measure_status: proposed
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_ORC_2024-10-17.pdf
+source_filename: APPRProposed_ORC_2024-10-17.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a73e6bca8307fd6a26b6ca86af35c49a5abfb8978c862e5936f4bec815371f53
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2024
+---
+
+## At a glance
+
+**APPR ORC 2024** — Oregon Racing Commission, Reporting Year 2024
+
+- Agency: Oregon Racing Commission
+- Reporting year: 2024 (stated in the document)
+- Measures reported as: proposed to the Legislature
+- Source file: `APPRProposed_ORC_2024-10-17.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Oregon Racing Commission
+Annual Performance Progress Report
+Reporting Year 2024
+Published: 10/17/2024 1:07:36 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+Animal Safety - Number of race-related equine fatalities per every 1,000 starters. Oregon's target is no more than 1.5 fatalities per 1,000 starters.
+License Turnaround Time - Average number of work days from receipt of a complete individual application and questionnaire to conclusion of a criminal background check. Target equals 5-day turnaround.
+Best Practices - Percent of total best practices met by the Board.
+Excellent Customer Service - Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+Proposal
+Proposed Key Performance Measures (KPMs)
+New
+Horse welfare - No more than 1 out of 250 tests for controlled substences come back with a positive result.
+New
+Equine safety - Injuries - Number of race-related equine injuries per every 1000 starters.
+Oregon’s target is no more than 5 per 1000 starts.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+50%
+25%
+25%
+red
+green
+yellow
+KPM #1
+Animal Safety - Number of race-related equine fatalities per every 1,000 starters. Oregon's target is no more than 1.5 fatalities per 1,000 starters.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+ORC KPM #1
+Actual
+73%
+58%
+41.60%
+Target
+100%
+100%
+100%
+100%
+How Are We Doing
+The Oregon Racing Commisison saw an increase in fatalities in fiscal year 2024. The number per 1000 was 3.6 on a goal of 1.5.  Five horses were euthenized due to racing injuries that were
+catastrophic.
+The Oregon Racing Commission is deeply committed to the safety of both our human and equine athletes. Since last year, we have implemented numerous changes, including updating our mission
+statement to better reflect our dedication to safety, revising multiple rules to enhance protections, appointing an expert in equine racing veterinary practices, and increasing training and knowledge
+within the commission. Additionally, we have arranged for the leading race track testing company to visit in the spring to provide recommendations. This is in addition to our annual practice of bringing
+in a track consultant each year.
+We believe that a multi-faceted approach is essential to improving safety from all perspectives. This includes, but is not limited to, rule changes, enhanced safety checks, increased testing, additional
+training, and higher fines. Safety will remain a key focus at every commission meeting. Additionally, the tracks are independently conducting their own safety committee meetings and reviews to
+further strengthen these efforts.
+Factors Affecting Results
+Factors that may have impacted us in the past include the way fatalities were reported, limitations in testing facilities, and the accuracy of reports from other jurisdictions. There was also some
+confusion around the implementation of HISA rules, though most of these issues have now been resolved.
+actual target
+Except for two cases, each catastrophic injury was unique. The two similar cases have prompted us to make changes through additional rules and screening processes we have now put in place.
+KPM #4
+License Turnaround Time - Average number of work days from receipt of a complete individual application and questionnaire to conclusion of a criminal background check. Target equals 5-
+day turnaround.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+ORC KPM #2
+Actual
+Target
+How Are We Doing
+95% of licenses were processed within five days of receipt.
+Factors Affecting Results
+One of the factors impacting this was the resignation of our Chief Investogator which caused us to bring on our seasonal investogator early and provided a short gap in coverage.
+An additional factor was that the current system requires all licenses to be manuyally completed and mailed in to a PO Box.  A new licensing database is currently in the final stages of procurement
+and this will greatly increase processing times and customer service.
+actual target
+KPM #5
+Best Practices - Percent of total best practices met by the Board.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+ORC KPM #4
+Actual
+89%
+100%
+93%
+Target
+100%
+100%
+100%
+100%
+How Are We Doing
+Overall, the agency is performing exceptionally well. Several new processes have been implemented, including enhanced transparency and the establishment of a robust commission that brings
+together expertise in equine health, mental health, and counseling, with a focus on addiction and suicide prevention, as well as strong governmental and legal knowledge.
+One area identified for improvement in the coming year is fostering a more comprehensive understanding of the budget across all commission members. While we have a budget committee and
+regularly report on financial matters, we believe that a deeper engagement with the budget by all members will further strengthen the agency.
+Factors Affecting Results
+The biggest factor influencing best practices for the Oregon Racing Commission is the relative newness of its members. The commissioner with the longest tenure has only been with the commission
+for two years. This presents both a strength and a challenge: while it brings fresh perspectives and expertise, it also requires extensive training and orientation.
+actual target
+KPM #6
+Excellent Customer Service - Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall, timeliness, accuracy, helpfulness, expertise,
+availability of information.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2022
+2023
+2024
+2025
+2026
+a. Timeliness
+Actual
+0%
+100%
+94%
+Target
+80%
+80%
+80%
+80%
+b. Accuracy
+Actual
+0%
+95%
+92%
+Target
+80%
+80%
+80%
+80%
+c. Overall
+Actual
+0%
+95%
+85%
+Target
+80%
+80%
+80%
+80%
+d. Expertise
+Actual
+0%
+95%
+80%
+Target
+80%
+80%
+80%
+80%
+e. Helpfulness
+Actual
+0%
+100%
+89%
+Target
+80%
+80%
+80%
+80%
+f. Availability of Information
+Actual
+0%
+85%
+87%
+Target
+80%
+80%
+80%
+80%
+How Are We Doing
+actual target
+Overall, our survey results were very good.  One area of concern is the fact that most of the commissioners are new and do not have a background in horse racing.
+Factors Affecting Results
+One significant factor that influenced our best practices survey was the historically low response rate. In the past, we received feedback from only a few respondents. This time, however, we made a
+concerted effort to encourage greater participation, resulting in a much higher number of responses.

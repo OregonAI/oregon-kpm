@@ -1,0 +1,623 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-doj-2020-09-29-final
+title: Justice, Department of — Annual Performance Progress Report, Reporting Year 2020
+doc_type: performance_report
+citation: APPR JUSTICE-DEPARTMENT-OF 2020
+authority_level: agency_report
+issuing_body: Justice, Department of
+agency: Justice, Department of
+agency_code: null
+reporting_year: '2020'
+year_source: document
+filename_year: '2020'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_DOJ_2020-09-29%20FINAL.pdf
+source_filename: APPR_DOJ_2020-09-29 FINAL.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c943d5ee7530372b599646a804565eba475794e4247ec629919c516e0d783631
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2020
+---
+
+## At a glance
+
+**APPR JUSTICE-DEPARTMENT-OF 2020** — Justice, Department of, Reporting Year 2020
+
+- Agency: Justice, Department of
+- Reporting year: 2020 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_DOJ_2020-09-29 FINAL.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Justice, Department of
+Annual Performance Progress Report
+Reporting Year 2020
+Published: 9/29/2020 1:59:47 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+Percentage of legal cases in which the state's position is upheld or partially upheld -
+Percentage of appropriate litigation resolved through settlement -
+Percentage of Defense of Criminal Convictions (DCC) cases briefed within 182 days. -
+Amount of monies recovered for the state (excluding punitive damage recoveries) divided by the cost of recovery -
+Percent of delinquent annual filers notified within 160 days of late filing -
+Average working days from receipt of contracting document to first substantive response to agency. -
+Customer Service - Percent of customers rating their satisfaction with the agency’s customer service as "good" or "excellent" on overall, timeliness, accuracy, helpfulness, expertise, availability of information
+Percentage of legal billings receivables collected within 30 days -
+Percentage of Criminal Justice Division cases resolved successfully -
+Percentage of support collected by the Child Support Program that is distributed to families -
+Percentage of child support cases with support orders during the federal fiscal year. -
+Percentage of dollars collected for current support in the child support cases -
+Percentage of eligible child support cases paying toward arrears -
+Percentage of crime victims' compensation orders issued within 90 days of claim receipt -
+Percentage of adult victims leaving domestic violence shelters with a safety plan after a stay of five days or more -
+Percentage of sexual assault exams conducted by specially trained Sexual Assault Nurse Examiners (SANE) -
+Proposal
+Proposed Key Performance Measures (KPMs)
+Delete
+Percentage of appropriate litigation resolved through settlement -
+New
+Percentage of juvenile dependency appeals cases briefed within 42 days. - This is a proposed new KPM for the Appellate Division to measure responsiveness and timeliness in addressing these important cases related to juvenile dependency.
+New
+Number of permanency hearings in which the state agency's (DHS) position is upheld or partially upheld. - This is a proposed new KPM for the Civil Enforcement - Child Advocacy program.
+A significant child advocacy program was funded by the
+2019 Legislature and so this KPM is to provide a measure of performance success in representing our client agency.
+Delete
+Percentage of Criminal Justice Division cases resolved successfully -
+Delete
+Percentage of support collected by the Child Support Program that is distributed to families -
+New
+Percentage of cases referred to the Criminal Justice Division in which a decision whether to investigate is made within two weeks of receiving a request for an investigation. - This KPM is meant to measure and track the responsiveness to state law
+enforcement agencies when requests for an investigation are submitted to the division.
+Delete
+Percentage of adult victims leaving domestic violence shelters with a safety plan after a stay of five days or more -
+Delete
+Percentage of sexual assault exams conducted by specially trained Sexual Assault Nurse Examiners (SANE) -
+New
+The completion of onsite compliance reviews of grant recipients to ensure compliance with internal control procedures, policies, uses of funds and accurate reporting. - The receipt of federal funds requires the monitoring of sub-recipients of the
+federal funds to ensure the funds are used in accordance with grant purposes and that procedures are in place to ensure compliance with federal regulations.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+56.25%
+18.75%
+25%
+red
+green
+yellow
+KPM #1
+Percentage of legal cases in which the state's position is upheld or partially upheld -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+PERCENTAGE OF LEGAL CASES IN WHICH THE STATE'S POSITION IS UPHELD
+Actual
+90%
+87%
+92%
+No Data
+No Data
+Target
+95%
+98%
+95%
+85%
+85%
+How Are We Doing
+Factors Affecting Results
+KPM #2
+Percentage of appropriate litigation resolved through settlement -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+PERCENTAGE OF APPROPRIATE LITIGATION RESOLVED THROUGH SETTLEMENT
+Actual
+31%
+31%
+32%
+No Data
+No Data
+Target
+70%
+70%
+32%
+32%
+32%
+How Are We Doing
+Factors Affecting Results
+KPM #2
+Percentage of Defense of Criminal Convictions (DCC) cases briefed within 182 days. -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+Percentage of Defense of Criminal Convictions (DCC) Cases Briefed within 210 days
+Actual
+83%
+81%
+69%
+No Data
+No Data
+Target
+95%
+95%
+95%
+85%
+85%
+How Are We Doing
+The change in this KPM from 210 days to 182 days represents a significant change from last year where the Appellate Division briefed 82% of cases within 210 days.  For an apples to apples
+comparison, this year, the Appelllate Division briefed 78% of cases within 210 days.  So, there is a decline from last year's number but not as significant of a decline as what is reflected in this revised
+KPM.
+Factors Affecting Results
+KPM #4
+Amount of monies recovered for the state (excluding punitive damage recoveries) divided by the cost of recovery -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+AMOUNT OF MONIES RECOVERED FOR THE STATE DIVIDED BY THE COST OF RECOVERY
+Actual
+$12.18
+$18.56
+$19.00
+No Data
+No Data
+Target
+$28.00
+$28.00
+$25.00
+$17.00
+$17.00
+How Are We Doing
+Amount of monies recovered for the state was $13,907,383 at a cost of $740,358.
+Factors Affecting Results
+KPM #5
+Percent of delinquent annual filers notified within 160 days of late filing -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+% TIMELY & COMPLETE CHARITIES' REPORTS SUBMITTED RELATIVE TO TOTAL REGISTERED
+Actual
+65%
+63%
+63%
+No Data
+No Data
+Target
+70%
+70%
+70%
+90%
+90%
+How Are We Doing
+The results remained slightly below the target for the state fiscal year ending June 30, 2020.
+Factors Affecting Results
+This KPM measures the receipt of timely and complete reports received by the Charitable Activities Section.  This KPM does not measure activities done by staff in the Charitable Activities Section,
+but rather measures whether a charitable entity voluntarily complied in the first instance.  DOJ has little to no control over initial compliance by a charitable entity.  When an entity fails to comply, staff
+send reminder letters and take other actions to enforce the reporting requirement, but those efforts are not included in this measure. DOJ tries to make compliance as easy as possible by publishing
+reporting forms, training the personnel of charitable organizations, and answering technical assistance questions. Additionally, for this reporting period the number of charitable organizations in Oregon
+continued to increase with over 20,00 charities required to file reports.
+KPM #7
+Average working days from receipt of contracting document to first substantive response to agency. -
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2018
+2019
+2020
+2021
+2022
+AVERAGE WORKING DAYS FROM RECEIPT OF CONTRACTING DOCUMENT TO 1ST SUBSTANTIVE RESPONSE
+Actual
+5.76
+5.75
+6.32
+No Data
+No Data
+Target
+How Are We Doing
+Factors Affecting Results
+The Coronavirus pandemic created a very significant amount of additional work for the General Counsel Division during the fiscal year ended June 30, 2020 which negatively impacted the response
+time for our client agencies.
+KPM #8
+Customer Service - Percent of customers rating their satisfaction with the agency’s customer service as "good" or "excellent" on overall, timeliness, accuracy, helpfulness, expertise,
+availability of information
+- Jun 30
+Report Year
+2018
+2019
+2020
+2021
+2022
+Availability of Information
+Actual
+98%
+96%
+95%
+No Data
+No Data
+Target
+98%
+98%
+98%
+98%
+98%
+Accuracy
+Actual
+98%
+97%
+96%
+No Data
+No Data
+Target
+99%
+99%
+99%
+99%
+99%
+Overall
+Actual
+96%
+94%
+93%
+No Data
+No Data
+Target
+98%
+98%
+98%
+98%
+98%
+Helpfulness
+Actual
+96%
+95%
+95%
+No Data
+No Data
+Target
+99%
+99%
+99%
+99%
+99%
+Expertise
+Actual
+100%
+99%
+98%
+No Data
+No Data
+Target
+99%
+99%
+99%
+99%
+99%
+Timeliness
+Actual
+94%
+95%
+95%
+No Data
+No Data
+Target
+98%
+98%
+98%
+98%
+98%
+How Are We Doing
+The aggregate average of the six categories was 95.48% for fiscal year ending June 30, 2020, which did not meet the target level average of 98.50%. The targets had all recently increased from 95%.
+One of the six individual categories was just 1% from the target, three of the five categories were 3% from the target, one category was 4% from the target and one category was 5% from the target.
+Factors Affecting Results
+The coronavirus pandemic created a signficant amount of additional work for the General Counsel Division making it challenging to keep up with the regular work of serving our agency clients.
+KPM #9
+Percentage of legal billings receivables collected within 30 days -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+PERCENTAGE OF LEGAL BILLING RECEIVABLES COLLECTED WITHIN 30 DAYS
+Actual
+84%
+87%
+91%
+No Data
+No Data
+Target
+90%
+90%
+88%
+88%
+88%
+How Are We Doing
+The results for the state fiscal year ending June 30, 2020 are above the target.
+Factors Affecting Results
+Some agencies are heavy consumers of DOJ's legal services.  Agencies occasionally have questions about their invoices, take time in circulating their invoices for the appropriate approvals, or even
+delay payment due to employee absence or vacancies.  If even one of those agencies fails to timely pay a DOJ invoice, DOJ's performance on this KPM can slip below the target.
+Note:  The reporting cycle is the Oregon fiscal year.  All attorneys and other legal services personnel routinely enter data into the automated system on billable hours worked.  All billing and receivable
+processing is done centrally through DOJ's Administrative Services Division.  Policies are in place to ensure accuracy and appropriateness of billings resulting from the time capture system for legal
+services personnel.  Additionally, monthly reports are shared with Executive Staff on billing trends and any client agency payment or collection issues to allow for timely corrections.
+KPM #10
+Percentage of Criminal Justice Division cases resolved successfully -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+PERCENTAGE OF CRIMINAL JUSTICE DIVISION CASES RESOLVED SUCCESSFULLY
+Actual
+100%
+100%
+100%
+No Data
+No Data
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+The result for fiscal year ending June 30, 2020 met the target.
+Factors Affecting Results
+The number of cases for which the division has provided assistance has grown significantly in recent years.  2017 = 245.  2018 = 270.  2019 = 574.  2020 = 533.  Budget reductions for this division will
+negatively impact the division in the ability to provide assistance in as many cases and/or to successfully resolve the cases.
+KPM #10
+Percentage of support collected by the Child Support Program that is distributed to families -
+Data Collection Period: Oct 01
+- Sep 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+% OF SUPPORT COLLECTED BY THE CSP, WHICH IS DISTRIBUTED TO FAMILIES
+Actual
+92%
+94%
+92%
+No Data
+No Data
+Target
+95%
+95%
+95%
+95%
+95%
+How Are We Doing
+This KPM is on a federal fiscal year basis.  Therefore, data for the federal fiscal year ended September 30, 2020 will not be available until November 2020.  For reporting purposes, estimated data is
+listed and will be updated when final, actual data become available.
+Factors Affecting Results
+KPM #11
+Percentage of child support cases with support orders during the federal fiscal year. -
+Data Collection Period: Oct 01
+- Sep 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+PERCENTAGE OF
+CSP CASES WITH SUPPORT ORDERS RELATIVE TO TOTAL CSP CASES
+Actual
+89%
+86%
+86%
+No Data
+No Data
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+This KPM is on a federal fiscal year basis.  Therefore, data for the federal fiscal year ended September 30, 2020 will not be available until November 2020.  For reporting purposes, an estimated
+percentage will be used for FY 2020.
+Factors Affecting Results
+KPM #12
+Percentage of dollars collected for current support in the child support cases -
+Data Collection Period: Oct 01
+- Sep 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+% OF CURRENT CHILD SUPPORT COLLECTED RELATIVE TO TOTAL CHILD SUPPORT OWED
+Actual
+64%
+61%
+61%
+No Data
+No Data
+Target
+65%
+65%
+65%
+65%
+65%
+How Are We Doing
+THis KPM is on a federal fiscal year basis.  The data for the federal fiscal year ending September 30, 2020 will not be available until November 1, 2020.  For reporting purposes, estimated data is
+being reported and will be updated when final actual data is available.
+Factors Affecting Results
+KPM #13
+Percentage of eligible child support cases paying toward arrears -
+Data Collection Period: Oct 01
+- Sep 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+% OF CSP CASES PAYING TOWARDS ARREARS RELATIVE TO TOTAL CSP CASES WITH ARREARS DUE
+Actual
+63%
+63%
+62%
+No Data
+No Data
+Target
+65%
+65%
+65%
+65%
+65%
+How Are We Doing
+This KPM is on a federal fiscal year basis.  Therefore, the results for the federal fiscal year ending September 30, 2020 will not be available until around November 2020.  For reporting purposes,
+estimated data is listed and will be updated when final actual data becomes available.
+Factors Affecting Results
+KPM #14
+Percentage of crime victims' compensation orders issued within 90 days of claim receipt -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+PERCENTAGE OF VICTIMS' COMPENSATION ORDERS ISSUED WITHIN 90 DAYS OF CLAIM RECEIPT
+Actual
+84%
+76%
+82%
+No Data
+No Data
+Target
+98%
+98%
+95%
+95%
+95%
+How Are We Doing
+The percentage for the fiscal year ended June 30, 2020 are below the target percentage.  THis years percentage is consistent with FY 2017 and FY 2018 and six percentage points above FY 2019.
+Factors Affecting Results
+KPM #14
+Percentage of adult victims leaving domestic violence shelters with a safety plan after a stay of five days or more -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+% OF ADULT VICTIMS LEAVING DV SHELTERS WITH A SAFETY PLAN AFTER STAY OF 5 DAYS OR MORE
+Actual
+93%
+92%
+99%
+No Data
+No Data
+Target
+95%
+95%
+95%
+95%
+95%
+How Are We Doing
+The results for the state fiscal year ending June 30, 2020 is 1,478 safety plans in 1,493 cases of individuals staying five days or more which is 99%.
+Factors Affecting Results
+DOJ makes grants to support domestic violence shelters. The shelters are operated by private non
+profit agencies, not DOJ personnel. The result measured by KPM 14 may be affected by several
+outside factors including staffing levels at shelters. DOJ along with other statewide partners provides training and technical assistance to these organization but DOJ is not directly responsible or
+involved in day-to-day operations of shelters.  Since DOJ does not have any managerial control over this KPM, the KPM has been proposed for deletion.
+KPM #15
+Percentage of sexual assault exams conducted by specially trained Sexual Assault Nurse Examiners (SANE) -
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2018
+2019
+2020
+2021
+2022
+% OF SEXUAL ASSAULT EXAMS CONDUCTED BY SPECIALLY TRAINED SANEs
+Actual
+67%
+64%
+58%
+No Data
+No Data
+Target
+75%
+75%
+75%
+75%
+75%
+How Are We Doing
+The result for the state fiscal year ending June 30, 2020 are below the target percentage.
+Factors Affecting Results
+DOJ administers the Sexual Assault Victims Emergency Medical Response (SAVE) Fund.  The SAVE Fund helps offset costs arising from SANE training and from the examination of victims of sexual
+assault by trained Sexual Assault Nurse Examiners - (SANE).  The SANEs are employed by health care providers; they are not DOJ personnel.  The result measured by KPM 15 is, therefore, affected
+directly by personnel who do not serve under DOJ's direction or control.  The availability of SANEs is still an issue in some areas of the state, due to both geographic challenges and lack of funding for
+24 hour / 7 day coverage.  The ongoing training provided by the Attorney General's Sexual Assault Task Force to certify more SANEs is a critical element contributing to this measure.  There are
+approximately 135 trained SANEs in Oregon.  There will always be a need for ongoing training as SANE certifications expire after 3 years.

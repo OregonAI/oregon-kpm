@@ -1,0 +1,589 @@
+Revenue, Department of
+Annual Performance Progress Report
+Reporting Year 2021
+Published: 9/24/2021 9:00:58 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+Average Days to Process Personal Income Tax Refund. -
+Percent of Personal Income Tax Returns Filed Electronically -
+Employee Training Per Year (percent receiving 20 hours per year). -
+Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good"; or "excellent" based on overall experience, timeliness, accuracy, helpfulness, expertise, and availability of information.
+Effective Taxpayer Assistance - Provide effective taxpayer assistance through a combination of direct assistance and electronic self-help services.
+Appraisal Program Equity and Uniformity - We will measure the degree to which county appraisal program equity and uniformity is achieved by determining the percentage of study areas statewide with real market values that are within accepted
+appraisal standards.
+Appraisal Value Uniformity
+- We will demonstrate our ability to deliver high quality business results by measuring appraisal equity and uniformity for DOR industrial accounts.
+Direct Enforcement Dollars Cost of Funds
+- We will demonstrate our efficiency and effectiveness at funding services that preserve and enhance the quality of life for all citizens by measuring the cost of funds (COF) for every direct enforcement dollar
+received by our agency.
+Collection Dollars Cost of Funds
+- We will demonstrate our efficiency and effectiveness at funding services that preserve and enhance the quality of life for all citizens by measuring the cost of funds (COF) for every dollar collected by our agency.
+Cost of Assessments
+- We will demonstrate our efficiency and effectiveness of our suspense, audit and filing enforcement functions by measuring the cost of every audit and filing enforcement dollar assessed.
+Employee Engagement
+- Percentage of employees considered actively engaged by a standardized survey.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+45.45%
+45.45%
+9.09%
+red
+green
+yellow
+KPM #1
+Average Days to Process Personal Income Tax Refund. -
+Data Collection Period: Jan 01
+- Aug 01
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Average Days to Process Personal Income Tax Refund
+Actual
+Target
+How Are We Doing
+We are not meeting this target. The agency averaged 18 days to refund in 2021, two days longer than the target of 16 days.
+For the 2021 tax season, the department processed approximately 1.9 million 2020 personal income tax returns; about 55 percent (1.04 million) were refund claims. This measurement is the average
+amount of time it takes from when the agency received a return until a refund was issued. In response to a desire to balance timeliness with fraud reduction, the Oregon Legislature modified the target
+from eight days in 2019 to 16 days in 2020.
+The primary factors that impact return processing and slow down refunds include:
+Paper return filing.
+Preparing a paper return to enter our processing system is mostly a manual process (receiving mail, opening envelopes and removing returns, preparing returns to be
+scanned, scanning the returns, and keying the information) compared to electronically filed returns that enter the processing system directly without manual intervention. The manual process of
+entering paper tax return information into the processing system can take hours to weeks depending on the time of year.
+Manual review.
+Some returns divert from automatic processing for manual review because of errors, fraud, or missing information. These "suspended" returns require additional time and
+information to process.
+The following table provides information on average processing timelines overall and for nonsuspended and suspended returns.
+Average Days to Process Returns - Returns Suspended*
+Type of Return
+Overall
+Nonsuspended
+Suspended
+Percentage of Returns Suspended
+All
+18.21
+16.15
+71.07
+3.74%
+E-file
+17.81
+15.79
+75.83
+3.36%
+Paper
+23.86
+21.60
+46.32
+9.15%
+*This table illustrates that e-filed returns that don't suspend have the shortest average processing time of 16 days. E-filed returns are the most common filing method.
+Direct Deposit.
+Having refunds direct deposited into bank accounts, without issuing a paper check, also results in faster processing.
+The following table provides information on average processing timelines overall, and for direct deposit and paper check refunds.
+Average Days to Process Returns - Direct Deposit*
+Type of Return
+Overall
+Direct Deposit
+Paper Check
+Percentage of Returns with Direct Deposit
+All
+18.21
+14.16
+31.58
+76.78%
+E-file
+17.81
+13.83
+32.30
+78.47%
+Paper
+23.86
+21.14
+26.92
+52.88%
+*This table illustrates that direct deposit decreases the average refund processing time.
+Factors Affecting Results
+Aside from suspended returns, other factors within the agency's control that impact return processing include:
+Business edits/rules on processing returns.
+The agency has more than 200 rules that incorporate statutory limits, correct math errors, match against third-party information, and allow the
+agency to request additional documentation. Some rules are system processed (math errors), while others require a manual review. Annually, business rules are improved to close known gaps
+and keep fewer legitimate refunds from suspending.
+Fraud.
+The fraud module in the agency's tax processing system uses analytics to identify potentially fraudulent refunds. Each year, the agency reviews fraud triggers to address known gaps and
+to make improvements. There will always be a need for manual review to combat fraud, but Revenue is working to identify those that the system can better sort through.
+Early season refund hold.
+The agency did not issue refunds prior to February 23. This allows the agency time to load income and withholding information submitted by payors (due January
+31) and match it to the information reported by the taxpayer on their tax return. Over 319,000 refund returns were received prior to February 23. This is similar to the IRS holding refunds until
+mid-February due to the Earned Income Tax Credit and the Additional Child Tax Credit.
+Unemployment Project.
+The department undertook a major project adjusting returns to remove non-taxable unemployment income due to a midseason tax law change by the federal
+government. This project affected nearly every area of the agency and reduced the time available to spend on enforcement activity. The personal income tax section was particularly impacted
+with nearly all staff working full time on this project from March 30, 2021, to May 4, 2021. The department processed 164,000 returns and issued $91.5 million in adjustments to taxpayers due to
+the project. Work on this project increased return processing time.
+Factors outside the agency's control that impact return processing include:
+Taxpayers choose their filing method.
+Electronically filed returns are typically more accurate and take less time to process than other filing methods. E-file is the recommended option for a
+faster refund, but there is not an individual e-file mandate. For more details on e-filed returns, see KPM #2.
+W-2 information submitted by employers
+. Information to verify withholding on a taxpayer's return is due from their employer by January 31. If a large employer is late in submitting their
+information, it can cause their employee's returns to stop for review unnecessarily.
+Midseason changes to tax law by the IRS.
+The federal American Rescue Plan Act made a retroactive change to the taxability of unemployment benefits after the start of the 2021 filing
+season. This change, which affected Federal adjusted gross income, affected Oregon personal income tax returns and temporarily shifted staff resources to correct already filed returns and
+delayed processing of refunds overall.
+KPM #2
+Percent of Personal Income Tax Returns Filed Electronically -
+Data Collection Period: Jan 01
+- Aug 01
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Percent of Personal Income Tax Returns Filed Electronically
+Actual
+87%
+88%
+89%
+91.30%
+90.70%
+Target
+82%
+88%
+90%
+90%
+90%
+How Are We Doing
+We are exceeding this target. Over this reporting period, the agency had a 90.7 percent rate of returns filed electronically. This is slightly less than last year's percentage but it marks the second
+straight year of being over the 90 percent threshold.  The decrease is likely due to this being a non-kicker year with fewer refund returns filed than last fiscal year.
+Filing Method
+Count
+Percent
+Electronic
+947,935
+90.7%
+Paper
+200,039
+9.3%
+E-filing is preferred over other methods of filing. These returns are more accurate because they are software-generated, less costly, quicker to process, and require less handling and storage than
+paper returns.
+Factors Affecting Results
+The agency takes several steps that are designed to encourage e-filing:
+Promotion.
+Like the IRS, the agency discusses e-file in our publications, press releases and on our website to promote the accuracy and typically quicker refunds for e-filing.
+Analysis of paper filers.
+The agency is taking a closer look at the demographics of paper filers to develop more targeted outreach strategies.
+Ease of filing.
+The agency has a direct e-file system that allows any full-year resident taxpayer to enter their return information into an online form and file the return directly with us for free,
+regardless of income level or return type.
+Free File Alliance.
+Revenue also participates in the Free File Alliance where taxpayers meeting certain income, age, veteran, and return-type criteria are able to e-file for free. The agency posts
+a list of software companies offering free services on our website.
+E-file mandate.
+Like the IRS, the agency has an e-file mandate for tax practitioners. There is no penalty for non-compliance, but the agency sends a reminder letter each year to those
+practitioners who didn't file their clients' returns electronically.
+KPM #3
+Employee Training Per Year (percent receiving 20 hours per year). -
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Employee Training Per Year (percent receiving 20 hours per year)
+Actual
+75%
+64%
+37%
+26%
+26%
+Target
+60%
+80%
+85%
+65%
+65%
+How Are We Doing
+We are not meeting this target. The agency exceeded its performance goals for this measure in 2016 and 2017, reflective of the intensive training, required of nearly all staff, as a part of the Core
+Systems Replacement (CSR) Project. The agency missed the increased target set by the Legislature in 2018, in part due to the limited scope of the final implementation stage of the CSR Project and
+the resulting loss of resources and personnel. The agency anticipated not meeting the target in 2019, 2020, and 2021 due to continued limited resources and personnel.
+The agency acknowledges it will be unable to make demonstrative inroads towards meeting the agency's target without adequate training resources and staff. Revenue will continue to request
+additional training positions to allow the agency to be more responsive to its training needs, proactively plan and design training programs for employee personal and professional development, and
+offer enough in-house, no-cost, targeted training to begin improving performance in this key performance measure.
+Factors Affecting Results
+While the agency did not anticipate meeting the target for 2021, it performed to the level it expected, considering resource constraints and initially limited training opportunities during the COVID-19
+pandemic. The agency was able to shift its training delivery method and begin to provide developmental, technical, and professional training to employees virtually. Of note, the agency was able to
+complete its Respectful Workplace Training initiative and begin targeted training for managers to assist with managing and engaging the remote workforce. Additionally, many external training vendors
+also shifted to offering virtual training opportunities and conferences, in some cases allowing more employees the opportunity to participate with expanded enrollment and the elimination of travel
+costs. The agency continues to focus on ensuring all training is captured in Workday and encourages employees and managers to create professional growth goals that involve training to enhance
+knowledge, skills, or abilities.
+KPM #4
+Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good"; or "excellent" based on overall experience, timeliness, accuracy, helpfulness,
+expertise, and availability of information.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2017
+2018
+2019
+2020
+2021
+a. Overall
+Actual
+65%
+81%
+90%
+91%
+92%
+Target
+98%
+98%
+98%
+85%
+85%
+b. Availability of Information
+Actual
+66%
+80%
+89%
+90%
+93%
+Target
+97%
+97%
+97%
+85%
+85%
+c. Helpfulness
+Actual
+75%
+86%
+94%
+94%
+96%
+Target
+98%
+98%
+98%
+85%
+85%
+d. Timeliness
+Actual
+68%
+81%
+90%
+91%
+92%
+Target
+97%
+97%
+97%
+85%
+85%
+e. Accuracy
+Actual
+71%
+83%
+92%
+94%
+95%
+Target
+97%
+97%
+97%
+85%
+85%
+f. Expertise
+Actual
+77%
+86%
+94%
+94%
+96%
+Target
+97%
+97%
+97%
+85%
+85%
+How Are We Doing
+We are exceeding this target. The agency's customer service ratings increased in all of the six categories in 2021. Helpfulness and expertise are the highest scoring categories with a rating of 96
+percent. Availability of information increased by three points to 93 percent and no longer lags other categories. Availability of information is an indicator of self-service and will continue to be a focus for
+the next year.
+This measure provides information on customers' assessment of agency performance related to key drivers of customer satisfaction. While the agency recognizes that paying taxes may not make
+taxpayers happy, it is important they rate their experiences with the agency as satisfactory. During the 2021 session, the Oregon Legislature modified the targets in all categories to 90 percent,
+beginning in 2022.
+The data is collected from a survey. Taxpayers can take the survey by telephone or online. About 99 percent of the surveys are by telephone. The responses are from several different tax programs
+but predominantly from the Personal Income Tax Program.
+Factors Affecting Results
+The agency standardized the data collection processes for this measure. As a result, the sample size jumped from 1,875 in 2016 to more than 27,000 in 2021. The agency believes there is a
+relationship between timely processing of returns and customer satisfaction. Despite not meeting the target in the number of days to process a refund, customer satisfaction has increased. Revenue
+believes this is attributable to:
+Separate telephone lines for tax professionals, as well as one for corporations.
+Staff encouraging taxpayers who use services to take the survey, increasing the sample size.
+Anecdotally, even though call wait times were longer than last year, we heard that we were answering phones more quickly than our partner agencies and private industry, and taxpayers
+appreciated our response times during the pandemic.
+Revenue's work to automatically send refunds to taxpayers who had filed returns claiming unemployment income before the passage of the American Rescue Plan, which exempted all or a
+portion of their income from taxation.
+During the pandemic, the agency continued to process returns and implemented filing requirements and administrative relief for impacted taxpayers in the form of the agency's Director's Orders that
+extended the filing due date to May 15, 2021. A tax relief webpage was created to keep taxpayers and tax professionals informed on the latest relief provisions.
+KPM #5
+Effective Taxpayer Assistance - Provide effective taxpayer assistance through a combination of direct assistance and electronic self-help services.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Effective Taxpayer Assistance
+Actual
+Target
+How Are We Doing
+We are not meeting this target. Performance decreased from the previous year to below the target of 85 set in the 2019 budget process.
+Factors Affecting Results
+The results of this measure are affected by the performance of three components that form this composite measure. Each component is weighted:
+Call wait time (40 percent).
+Calls with less than a five-minute wait time made up 83 percent of total calls, down from 90 percent in 2020. Staffing issues due to COVID-19, such as staff taking
+leave time to take care of family members and difficulty hiring temporary staff, were the primary drivers of the increase in wait times.
+Where's My Refund inquiries (50 percent).
+The percentage of "successful" inquiries made through phone or web applications was 76 percent, which reflects a 2 percent decrease from 2020.
+Successful inquiries are defined as any response other than "not found," which means the return is not in the system when the taxpayer asks. We instruct taxpayers to wait two weeks after they
+file before requesting a status update.
+Customer service rating (10 percent).
+The percentage of customers rating our service as "good" or "excellent" is 92 percent, up from 91 percent in 2020.
+KPM #6
+Appraisal Program Equity and Uniformity - We will measure the degree to which county appraisal program equity and uniformity is achieved by determining the percentage of study areas
+statewide with real market values that are within accepted appraisal standards.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Appraisal Uniformity
+Actual
+95%
+96%
+95%
+97%
+98%
+Target
+95%
+98%
+98%
+98%
+98%
+How Are We Doing
+We are meeting this target. Prior to 2018, the agency had consistently met or exceeded established targets for this measure. In 2018, the target was increased to 98 percent and performance was at
+96 percent, slightly below the target but consistent with previous years' performance levels. Statewide county appraisal performance has now met the 98 percent target.
+The 2019 Legislature provided funding to fill existing department positions that work closely with counties on assessment and taxation. This resulted in the agency meeting its performance target of 98
+percent. This additional resourcing enabled enhanced analysis of the sales used by counties in determining whether their appraised values are compliant with appraisal standards.
+Factors Affecting Results
+The number of county appraisals that meet this standard is tracked and reported as a percentage annually in the Ratio Report (as directed by statute). While the counties self-report results, the
+department has instituted a process of reviewing the data and calculations provided by each county. Revenue makes official recommendations and can order adjustments to county processes to
+ensure standards are met. County performance may be impacted by county budget constraints and turnover.
+The agency considers this an effective outcome measure because the primary goal of the Support, Assistance, and Oversight (SAO) Section is to support and monitor the performance of assessment
+and taxation at the local government level. This is accomplished by providing training, teaching best practices, and reviewing processes of county appraisal programs statewide.
+KPM #7
+Appraisal Value Uniformity
+- We will demonstrate our ability to deliver high quality business results by measuring appraisal equity and uniformity for DOR industrial accounts.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Appraisal Value Uniformity
+Actual
+18%
+20%
+15%
+12%
+4%
+Target
+20%
+30%
+32%
+20%
+20%
+How Are We Doing
+We are exceeding this target. The reported metric is the measure of variance between the values from site-specific appraisals and the values from the annual mass-appraisal program of processing
+taxpayer-filed industrial property returns. Performance for 2021 was 4 percent, well below the target of 20 percent, indicating a high degree of equity and uniformity in appraisals.
+Measuring the coefficient of dispersion is an appraisal industry-standard metric for uniformity. The metric is reliant on market sale transactions. In the last five years, the agency hasn't had a large
+enough sampling of usable sale transactions, so, the agency used site-specific appraisals to calculate results.
+Factors Affecting Results
+The agency is required to appraise Oregon's highly complex industrial properties that are engaged in processing and manufacturing activities. These properties don't sell often. When they do, many
+factors make it difficult to compare the sales price to assessment roll values. Therefore, the limited number of sales transactions has decreased the reliability of this indicator.
+Some properties have valuation issues, including omitted property, taxpayer reporting errors (duplicates, age of assets, failure to report), and reclassification of assets. These issues can create a
+greater separation between the value determined via Revenue's mass appraisal process and the value determined via the site-specific appraisal process, resulting in a higher coefficient of dispersion
+(COD) and greater deviation between real market value (RMV) and the roll value.
+In 2017, the agency refined its business strategy and set a goal to appraise industrial sites on an eight-year cycle. Through the implementation of our eight-year appraisal cycle, we should continue to
+see a reduction in the deviation between roll values and RMV.
+KPM #8
+Direct Enforcement Dollars Cost of Funds
+- We will demonstrate our efficiency and effectiveness at funding services that preserve and enhance the quality of life for all citizens by measuring
+the cost of funds (COF) for every direct enforcement dollar received by our agency.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Cost of Direct Enforcement Funds
+Actual
+$0.30
+$0.27
+$0.24
+$0.21
+$0.23
+Target
+$0.33
+$0.25
+$0.20
+$0.20
+$0.20
+How Are We Doing
+We are not meeting this target. The agency's cost of funds for direct enforcement for fiscal year 2021 (FY 2021) was $0.23. For this measure, a lower value is better. This represents an increase from
+the 2020 cost of $0.21. Dollars received decreased from $253.9 million in 2020 to $224.9 million in 2021. The enforcement function funding in the Legislatively Adopted Budget (LAB) remained
+constant at $52.4 million from 2020 to 2021. The Corporate Activity Tax program, implemented in FY 2021, is not included in this measure as enforcement activity has not yet begun. We expect to
+include these program costs and revenues in future reporting years.
+Factors Affecting Results
+Many factors impact the cost of funds. Some of the external factors affecting enforcement revenue include the health of the overall economy and the labor market participation rate. However, Revenue
+doesn't have a way to measure the impact of those factors on its activities. Internal factors influencing enforcement revenue include:
+COVID-19 affected enforcement dollars collected.
+Collection payments were delayed due to more lenient time frames to pay and extended due dates for filing returns.  COVID-19 affected
+audit enforcement activity for the individual income tax program as audit timelines were delayed to allow taxpayers more time to gather documents and care for sick family members.  For July
+and August 2020, we stopped audit work and focused on training and staff development due to the pandemic.
+Unemployment Project.
+The department undertook a major project adjusting returns to remove non-taxable unemployment income due to a midseason tax law change by the federal
+government. This project impacted nearly every area of the agency and reduced the time spent on enforcement activity. The personal income tax section was particularly impacted with nearly all
+staff working full time on this project from March 30 to May 4, 2021. The department processed 164,000 returns and issued $91.5 million in adjustments to taxpayers due to the project.
+KPM #9
+Collection Dollars Cost of Funds
+- We will demonstrate our efficiency and effectiveness at funding services that preserve and enhance the quality of life for all citizens by measuring the cost
+of funds (COF) for every dollar collected by our agency.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Cost of Collections Funds
+Actual
+$0.14
+$0.12
+$0.11
+$0.10
+$0.11
+Target
+$0.14
+$0.10
+$0.10
+$0.10
+$0.10
+How Are We Doing
+We are not meeting this target. Our cost of funds for collections for FY 2021 was $0.11. For this measure, a lower value is better. This represents a slight increase from the FY 2020 cost of $0.10.
+Dollars collected decreased from $253.9 million in 2019 to $224.9 million in 2021. The collections function funding in the Legislatively Adopted Budget (LAB) remained constant at $25.5 million from
+2020 to 2021. The Corporate Activity Tax program, implemented in FY 2021, is not included in this measure as enforcement activity has not yet begun. We expect to include these program costs and
+revenues in future reporting years.
+Factors Affecting Results
+Many factors impact the cost of funds. Some of the external factors that affect enforcement revenue include the health of the overall economy and the labor market participation rate. However,
+Revenue doesn't have a way to measure the impact of those factors on its activities. Internal factors influencing enforcement revenue include:
+COVID-19 affected enforcement dollars collected.
+Collection payments were delayed due to more lenient time frames to pay and extended due dates for filing returns.  COVID-19 affected
+audit enforcement activity for the individual income tax program as audit timelines were delayed to allow taxpayers more time to gather documents and care for sick family members. For July
+and August 2020, we stopped audit work and focused on training and staff development due to the pandemic.
+Unemployment Project.
+The department undertook a major project adjusting returns to remove non-taxable unemployment income due to a midseason tax law change by the federal
+government. This project impacted nearly every area of the agency and reduced time spent on enforcement activity. The personal income tax section was particularly impacted with nearly all
+staff working full time on this project from March 30 to May 4, 2021. The department processed 164,000 returns and issued $91.5 million in adjustments to taxpayers due to the project.
+KPM #10
+Cost of Assessments
+- We will demonstrate our efficiency and effectiveness of our suspense, audit and filing enforcement functions by measuring the cost of every audit and filing
+enforcement dollar assessed.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Cost of Assessments
+Actual
+$0.12
+$0.15
+$0.17
+$0.06
+$0.04
+Target
+$0.23
+$0.20
+$0.18
+$0.18
+$0.18
+How Are We Doing
+We are exceeding this target. In 2021, the cost of assessments decreased to $0.04. For this measure, a lower value is better. This represents a decrease from the FY 2020 costs of $0.06. This was
+mostly due to increased assessments in the withholding and corporation sections. Assessed dollars increased from $458.3 million in 2020 to $629.8 million in 2021. The audit and filing enforcement
+funding in our Legislatively Adopted Budget remained constant at $26.9 million from 2020 to 2021. The Corporate Activity Tax program, implemented in FY 2021, is not included in this measure as
+enforcement activity has not yet begun. We expect to include these program costs and revenues in future reporting years.
+This measure is calculated using both audit and filing enforcement data. The filing enforcement portion includes "failure to file" data, which is a department estimate of owed revenues. This estimate is
+typically quite different than actual monies owed, which is determined when the taxpayer files.
+Factors Affecting Results
+Many factors impact the cost of assessments. COVID-19 reduced many enforcement activities but had little impact on our filing enforcement function which is mostly automated. In addition, the
+Withholding Section had one large failure to file assessment, which dramatically shifted the dollars billed.
+KPM #11
+Employee Engagement
+- Percentage of employees considered actively engaged by a standardized survey.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2017
+2018
+2019
+2020
+2021
+Employee Engagement
+Actual
+Target
+How Are We Doing
+We are not meeting this target. In 2013, the agency contracted with the Department of Administrative Services to access an employee engagement tool used by several other state agencies. This tool
+was used to report results from 2013 to 2018. In 2018, the Department of Administrative Services stopped using this tool and the Department of Revenue followed suit.
+In August 2020, the agency conducted a survey using Gallup Consulting's Q12 employee engagement survey, the most widely used survey of this type used in the world. Gallup's survey identifies key
+elements that exist in every high-performing work environment. The department achieved a response rate of 74 percent which was the highest rate out of any previous engagement survey Revenue
+conducted. While the agency did not meet the target for this KPM, Gallup estimates that typically 33 percent of employees in the United States are actively engaged in businesses using their
+models. The agency's rate of 52 percent is 19 points higher than this average.
+Factors Affecting Results
+There are many potential impacts on employee engagement. The most recent survey was taken during the unprecedented time of the COVID-19 pandemic which likely influenced the results. The shift
+in employee engagement survey methodology in relation to the target likely influenced the results as well.

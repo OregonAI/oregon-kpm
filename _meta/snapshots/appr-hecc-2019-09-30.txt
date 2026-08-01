@@ -1,0 +1,1629 @@
+Higher Education Coordinating Commission
+Annual Performance Progress Report
+Reporting Year 2019
+Published: 9/30/2019 10:18:19 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+Oregon High School Graduates Attending College
+- Percentage of Oregon students enrolled in college within 16 months of their 4-year high school cohort graduation date.
+Racial/Ethnic Differences Among Oregon High School Graduates Attending College - Percentage of Oregon students enrolled in college within 16 months of their 4-year high school cohort graduation date, disaggregated by race/ethnicity
+College Credits Earned by K-12 Students
+- Amount of postsecondary credit per graduate awarded to K-12 students.
+Oregon Educational Attainment - Percent of young Oregon adults with post secondary degree or certificate
+Community College Completion and Transfer Rate - Percentage of community college students who complete an associate degree or certificate or who transfer to the university system within three years.
+Racial/Ethnic Differences for Community College Completion and Transfer Rate - Percentage of community college students who complete an associate degree or certificate or who transfer to university system within three years by race/ethnicity.
+Public University Graduation Rate - Percentage of public university college students who complete a bachelor’s degree within 6 years.
+Racial/Ethnic Differences for Public University Graduation Rate - Percentage of public university students who complete a bachelor’s degree within 6 years, by race/ethnicity.
+Percentage of resident enrolled students who are incurring unaffordable costs - Percentage of resident enrolled students who are incurring unaffordable costs adjusted with institutional aid.
+Racial/Ethnic Differences in Percentage of Resident Students incurring Unaffordable Costs - Percentage of resident enrolled students who are incurring unaffordable costs adjusted with institutional aid, by race/ethnicity.
+Earnings of Community College Completers - Median earnings of community college completers five years after completion.
+Racial/Ethnic Differences in Earnings of Community College Completers
+- Median earnings of community college completers, five years after completion, by race/ethnicity.
+Earnings of bachelor's degree completers - Median earnings of graduates with bachelor's degrees five years after completion
+Racial/Ethnic Differences in Earnings of Bachelor's Degree Completers - Median earnings of graduates with bachelor's degrees, five years after completion, by race/ethnicity.
+Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+Commission Best Practices - Percent of total best practices met by the Commission.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+43.75%
+50%
+6.25%
+red
+green
+yellow
+KPM #1
+Oregon High School Graduates Attending College
+- Percentage of Oregon students enrolled in college within 16 months of their 4-year high school cohort graduation date.
+Data Collection Period: Jan 01
+- Oct 31
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Oregon High School Graduates Attending College
+Actual
+63.20%
+62.30%
+64%
+64.80%
+64.10%
+Target
+66%
+66%
+66%
+66%
+66%
+How Are We Doing
+Following two years of gradual increase in the percentage of Oregon high school graduating seniors who enroll in college within 16 months of graduation, there was a very slight decline for the most
+recent year. For the graduation class of 2016-17, 64.1 percent of students enrolled in college within 16 months, a decrease of 0.67% over the class of 2015-16.
+We note that previous years of data in this report have been replaced and will not match reports from earlier years. This is because the Department of Education, which calculates this measure, had
+a change in their calculation approach.
+Factors Affecting Results
+College costs, the availability of need-based financial aid, geographic proximity of postsecondary institutions, state and regional economic outlooks and job markets, and the aspirations of high
+school graduates and Oregon's young adults affect college enrollment rates.
+Oregon remains below the national rate of high school seniors attending college after graduation. Nationally, 66.7 percent of seniors who graduated from high school between January and October
+of 2017 were enrolled in college by October 2017. For 2016, 69.8 percent of seniors who graduated from high school between January and October of 2016 were enrolled in college that October.
+The narrower window for college enrollment (between zero and ten months after high school graduation, compared with 16 months for the Oregon measure) likely underestimates the difference
+between the national and Oregon rates. If Oregon’s measure used the same zero to ten-month window to measure college enrollment after high school, Oregon’s rate would likely be slightly lower.
+Other Comments:
+actual target
+This measure presents an estimate of how many high school graduates continue their education in a postsecondary institution immediately or soon after high school.
+We define this concept in the following terms:
+(Number of high school graduates enrolled in college within 16 months of graduation)
+divided by
+(Number of students in high school 4-year graduating class)
+NOTE: “High school graduates” includes all students who received a regular four-year diploma, a modified four-year diploma, or a GED within four years of high school.
+Limitations of this definition/data limitations are:
+The measure uses a 16-month window after high school graduation during which graduating seniors can enroll in college to be included in the measure. This contrasts with the federal definition,
+which uses a zero- to ten-month window (enrollment in October for those graduating from high school between January and October of the same year). This makes national comparisons less
+precise than if the measures were the same. The measure uses a slightly different definition of high school graduates than the federal definition. The federal definition is a self-reported measure
+based on self-reported answers to a question asking whether respondents graduated from high school. It is not clear how respondents who received a modified four-year diploma or a GED within
+that zero-to-ten-month window answered this question.
+KPM #2
+Racial/Ethnic Differences Among Oregon High School Graduates Attending College - Percentage of Oregon students enrolled in college within 16 months of their 4-year high school cohort
+graduation date, disaggregated by race/ethnicity
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2015
+2016
+2017
+2018
+2019
+American Indian or Alaskan Native
+Actual
+51.80%
+54.50%
+55.70%
+53.50%
+50.40%
+Target
+TBD
+TBD
+TBD
+62.50%
+66%
+b. Asian American
+Actual
+81.10%
+80.70%
+79.70%
+82.50%
+81.40%
+Target
+TBD
+TBD
+TBD
+66%
+73%
+c. Black or African American
+Actual
+69.10%
+64.30%
+66%
+64.60%
+63.50%
+Target
+TBD
+TBD
+TBD
+66%
+66%
+d. Hispanic or Latina/-o
+Actual
+51.30%
+52.50%
+56.90%
+58.50%
+57.80%
+Target
+TBD
+TBD
+TBD
+61.70%
+66%
+e. Native Hawaiian or Pacific Islander
+Actual
+57%
+51.70%
+55.70%
+54.40%
+51.30%
+Target
+TBD
+TBD
+TBD
+61.30%
+66%
+f. White
+Actual
+64.60%
+63.40%
+64.80%
+65.50%
+64.90%
+Target
+TBD
+TBD
+TBD
+65.20%
+66%
+How Are We Doing
+actual target
+The percentage of Oregon high school graduating seniors who enroll in college within 16 months of graduation varies substantially by race/ethnicity. For the graduation class of 2016-17, the
+college-going rate ranges from a high of 81.4 percent for Asian American students to a low of 50.4 percent for Native American/Alaska Native and 51.3 percent for Native Hawaiian/Pacific Islander
+students. White students have the second highest college-going rate (64.9 percent), followed by Black/African American students (63.5 percent) and Hispanic or Latina/o students (57.8 percent).
+As shown below, Oregon is close to the national averages for Asian American and Hispanic students, above the national average for African American students, and behind the national average for
+white students. Note that national data are not available for all groups.
+Asian
+American
+Black/African
+American
+Hispanic
+Anglo White
+Oregon, 16 months
+81.4
+63.5
+57.8
+64.9
+National, 4 to 10 months
+82.7
+59.4
+61.0
+69.1
+Source for national data:  National Center for Education Statistics,
+https://nces.ed.gov/programs/digest/d18/tables/dt18_302.20.asp
+Factors Affecting Results
+College costs, the availability of need-based financial aid, geographic proximity of postsecondary institutions, state and regional economic outlooks and job markets, the aspirations of high school
+graduates and Oregon's young adults, and racial/ethnic disparities in any of these categories affect college enrollment rates.
+Other Comments:
+This measure presents an estimate of how many high school graduates continue their education in a postsecondary institution immediately or soon after high school.
+We define this concept in the following terms:
+(Number of high school graduates enrolled in college within 16 months of graduation)
+divided by
+(Number of students in high school 4-year graduating class)
+NOTE: “High school graduates” includes all students who received a regular four-year diploma, a modified four-year diploma, or a GED within four years of high school.
+Limitations of this definition/data limitations are:
+The measure uses a 16-month window after high school graduation during which graduating seniors can enroll in college to be included in the measure. This contrasts with the federal definition,
+which uses a zero- to ten-month window (enrollment in October for those graduating from high school between January and October of the same year). This makes national comparisons less
+precise than if the measures were the same. The measure uses a slightly different definition of high school graduates than the federal definition. The federal definition is a self-reported measure
+based on self-reported answers to a question asking whether respondents graduated from high school. It is not clear how respondents who received a modified four-year diploma or a GED within
+that zero-to-ten-month window answered this question.
+KPM #3
+College Credits Earned by K-12 Students
+- Amount of postsecondary credit per graduate awarded to K-12 students.
+Data Collection Period: Sep 01
+- Aug 31
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+College Credits Earned by K-12 Students
+Actual
+8.81
+9.90
+10.64
+10.55
+10.44
+Target
+8.70
+9.70
+10.50
+10.50
+How Are We Doing
+In 2017-18, K-12 students earned an average of 10.44 college credits per high school graduate. This is the second year in a row that the average number of credits has declined in comparison with
+the preceding year. In 2017-18, Oregon K-12 students earned between 0 and 77 credits in a single academic year.
+Factors Affecting Results
+Data availability, availability of, access to, and financing of programs allowing high school students to earn college credits at a minimal or no cost, academic preparation.
+Other Comments:
+This measure identifies the college credit earned by students in kindergarten through twelfth grade.  It is an indicator of the “leg up” that students have entering postsecondary education.  Students
+who have completed six to nine credits have an advantage in completing postsecondary education and training. This measure is a calculation that represents the number of college credits awarded
+to K-12 students, per high school graduate, in one academic year.
+We define this concept in the following terms:
+(Sum of credits earned by K-12 students in community colleges and universities)
+actual target
+divided by
+(Number of students in high school 4-year graduating class)
+Credits included in the calculation of the numerator include credits earned by:
+Students reported by community colleges as participating in the Dual Credit Program
+Students reported by community colleges as participating in the Expanded Options Program
+Students reported by universities as enrolled in Dual Credit courses
+"Dual Credit" is defined as awarding secondary and postsecondary credit for a course offered in a high school during regular school hours, as determined by local school board and
+community college board policy. Dual Credit courses include both lower division collegiate courses and career/technical preparation courses. Dual Credit courses are designed to help high
+school students’ progress through postsecondary education by eliminating duplication of course work.
+“Expanded Options Program” allows high school students to take courses at Oregon community colleges and universities to earn concurrent high school and college credits. If accepted into
+the program, the student's sponsoring high school covers the cost of tuition and fees.
+Postsecondary credits earned by students described above were totaled for the academic year. In community colleges, all credits earned by these students were included in the calculation,
+including credits in courses that were not designated Dual Credit or Expanded Options courses.
+Only credits from courses that were completed successfully were included in the calculation. Successful completion is defined as course completion with a grade ‘C- ‘or better, or with a grade
+‘Pass’ in Pass/No Pass courses.
+The denominator is the number of students in high school 4-year graduating class as reported by the Oregon Department of Education. It should be noted that in 2013-14 the methodology
+used by the Oregon Department of Education for calculating the number of high school graduates changed. In addition to students receiving a regular high school diploma, the graduating
+class includes those who received a modified diploma and those who earned their diplomas, but had not yet received them.
+Limitations of this definition/data limitations are:
+The numerator and denominator in this calculation do not represent the same student cohort. The numerator includes credits earned by high school seniors, juniors, sophomores, freshmen
+and possibly younger students in a single academic year. The denominator includes the count of graduating high school seniors.
+The calculation does not include high school students who took college classes and earned college credits independently, without being formally enrolled in the Dual Credit or Expanded
+Options program, due to difficulties identifying such students in the available data sets.
+Credits earned by ‘fifth year seniors’ (high school students enrolled in high school for the fifth year after completing HS graduation requirements in order to earn college credits at no charge)
+are not included in the calculation of the numerator. This is because the denominator includes students graduating after 4 years.
+The calculation does not include potential credits that can be awarded by postsecondary institutions to students for successful completion of AP and IB courses.
+Given these limitations, results suggest:
+The number of college credits earned by K-12 students, per high school graduate, has been increasing for the 2010-11 through 2015-16 academic years from 6.80 credits in 2010-11 to 10.64
+credits in 2015-16. The number of average college credits declined slightly in the 2016-17 and 2017-18 academic years.  The slight decline in the average number of college credits is accompanied
+and possibly explained by the decline in the number of high school student enrolled in college credit in community colleges. As the same time, the number of high school students enrolling in college
+credits in universities is on the rise. College credits earned by secondary students may help these students to move forward to postsecondary education.
+Report Year
+2015
+2016
+2017
+2018
+2019
+Data Year
+2013-14
+2014-15
+2015-16
+2016-17
+2017-18
+Count of K-12
+students who earned
+credit (with a C- or
+better) at community
+colleges
+28,469
+32,055
+34,834
+34,346
+33,951
+Count of K-12
+students who earned
+credit (with a C- or
+better) at universities
+4,404
+5,551
+7,617
+7,805
+9,517
+Improvements to this measure would come from:
+The current calculation provides an approximation of the number of credits earned by each high school graduating cohort over their K-12 career. A better measure would result from calculating the
+number of credits earned by students in a high school graduating cohort.  Such measure would require collaboration and data sharing between the Higher Education Coordinating Commission and
+the Oregon Department of Education.
+KPM #4
+Oregon Educational Attainment - Percent of young Oregon adults with post secondary degree or certificate
+Data Collection Period: Jan 01
+- Jan 01
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Oregon Educational Attainment
+Actual
+49.80%
+50.60%
+52.50%
+53.60%
+54.60%
+Target
+TBD
+TBD
+TBD
+TBD
+59%
+How Are We Doing
+We estimate that the percentage of Oregon adults age 25 to 34 in 2017 who have a postsecondary degree or certificate is 53.6 percent.
+Attainment in previous years are shown below and show a steady increase in the proportion of the young adult population with postsecondary education and training. The percentage of young
+adults with a degree or certificate beyond high school was 49.6 percent in 2012 and had risen to 54.6 percent in 2017. Continued progress—and progress at a faster rate—will be necessary to
+meet the state's goal of 80 percent of the young adult population with a postsecondary degree or certificate.
+2013
+2014
+2015
+2016
+2017
+Bachelor's degree or more
+30.7%
+32.0%
+34.3%
+34.9%
+36.7%
+Associate degree or certificate
+19.1%
+18.6%
+18.2%
+18.7%
+17.9%
+Some college
+21.2%
+21.0%
+20.2%
+19.9%
+18.5%
+High school diploma or
+equivalent
+19.2%
+18.6%
+18.3%
+18.1%
+18.7%
+Less than high school
+9.8%
+9.8%
+9.0%
+8.4%
+8.2%
+actual target
+Factors Affecting Results
+The amount of educational attainment among Oregon young adults reflects both the attainment of Oregon youth moving into adulthood and the migration of young adults into the state. These data
+do not allow for disaggregating how much of the increase in attainment is the result of in-migration.
+Other Comments:
+This estimate comes from U.S. Census Bureau data drawn from the annual American Community Survey, 5-year estimates. The data include an estimate of certificate attainment, based on
+estimates of certificate rates put forth by the Census Bureau using Survey of Income and Program Participation data (
+https://www.census.gov/prod/2014pubs/p70-138.pdf
+) and a Lumina Foundation
+survey from the University of Chicago's NORC survey group (
+http://strongernation.luminafoundation.org/report/2017/#page/narrative
+).
+We define this concept in the following terms:
+Limitations of this definition/data limitations are:
+Given these limitations, results suggest:
+Improvements to this measure would come from:
+KPM #5
+Community College Completion and Transfer Rate - Percentage of community college students who complete an associate degree or certificate or who transfer to the university system
+within three years.
+Data Collection Period: Jan 01
+- Jan 01
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Community College Completion and Transfer Rate
+Actual
+43.60%
+43.80%
+46%
+47.80%
+48.30%
+Target
+TBD
+TBD
+TBD
+TBD
+49%
+How Are We Doing
+Out of all credential-seeking students who were new to Oregon community colleges in the fall of 2014, 48.3% either earned an associate degree or certificate, or enrolled at a 4-year institution
+(nationwide) within four years.
+Factors Affecting Results
+Tuition and fees, availability of financial aid, academic preparation, non-academic circumstances (work, family, health), student services, academic guidance and understanding of pathways to
+completion, personal goals, data availability and calculation methodology.
+Other Comments:
+This measure enables the HECC and its partner community colleges to assess whether the likelihood of completing community college is improving over time. The measure is similar to outcome
+measures in the national community college Voluntary Framework of Accountability that Oregon community colleges have begun to adopt. Because it is a newly constructed measure, and because
+of corrections made to the calculation methodology from last year, targets are still in the process of being established.
+actual target
+We define this concept in the following terms:
+(Number of community college students identified as completers within three years)
+divided by
+(Number of students in the entering credential-seeking cohort of fall 2014)
+For the purposes of the KPM, completers include students who earned an associate degree or certificate and students who did not earned an award, but enrolled in a 4-year institution within
+four years.
+For the purposes of the KPM, the Credential-Seeking cohort is defined similarly to the Credential-Seeking Cohort of the Volunteer Framework of Accountability (VFA).
+It includes students who were new to the institution (community college) in the fall of 2014 or preceding summer term; AND were not enrolled in dual credit courses or reported as an
+accelerated learning student; AND attempted a credit course in the fall of 2014; AND earned a minimum of 18 quarter credits in the first two years or earned an award requiring than 18
+quarter credits.
+Students may be enrolled full-time or part-time.
+Students in the cohort are new to the institution in the fall of 2014, but not necessarily new to postsecondary education.
+The completed 18 quarter credits are inclusive of all college-level coursework AND developmental coursework.
+The completed 18 quarter credits must be earned at a community college between the summer to 2014 and spring of 2016; they do not include credits for prior learning or college credits
+earned before graduating from high school.
+A student is considered to have transferred if there is any evidence of enrollment at a 4-year institution after the last enrollment of the community college and before the end of the four-year
+tracking period. For this KPM, enrollment records were obtained through a data match with the National Student Clearinghouse (public and private 4-year institutions) and the Oregon Public
+University database.
+Limitations of this definition are:
+This KPM uses student behavior (credit accrual) to define “credential-seeking” due to inconsistency and unreliability of a student’s self-report of their intentions to complete a credential. While
+this method captures more students who eventually earned an award, it may also exclude some students who planned to earn a credential but were unsuccessful in earning 18 quarter credits
+in 2 years.
+Records of enrollment at 4-year institutions obtained through the National Student Clearinghouse (NSC) may include non-credit enrollment.
+Given these limitations, results suggest:
+Out of all students in the fall of 2014 cohort, 24.0% earned an associate degree or certificate within four years. For another 14.7% of the students in the cohort there is evidence of enrollment at a
+4-year institution. In total, 38.8% of the cohort either earned an award or enrolled at a 4-year institution. This is the same percentage as the previous year. The remaining 61.2% of students in the
+cohort were either still enrolled at the community college at the end of the four-year tracking period or left the community college with or without college credits.
+Report Year
+2017
+2018
+2019
+Cohort Year
+Fall 2012
+Fall 2013
+Fall 2014
+Cohort size
+100.0%
+100.0%
+100.0%
+Associate degree
+25.5%
+26.6%
+26.3%
+Certificate
+5.7%
+6.2%
+6.1%
+Total awards
+31.2%
+32.8%
+32.4%
+No award, transfer
+14.7%
+15.0%
+15.8%
+Total award or
+transfer*
+46.0%
+47.8%
+48.3%
+*Note: Totals may not sum due to rounding
+Improvements to this measure would come from:
+KPM #6
+Racial/Ethnic Differences for Community College Completion and Transfer Rate - Percentage of community college students who complete an associate degree or certificate or who
+transfer to university system within three years by race/ethnicity.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2015
+2016
+2017
+2018
+2019
+American Indian or Alaska Native
+Actual
+32.20%
+38.50%
+33.70%
+40.40%
+43.40%
+Target
+TBD
+TBD
+TBD
+TBD
+49%
+b. Asian American
+Actual
+53%
+50.20%
+52.60%
+52.70%
+54.80%
+Target
+TBD
+TBD
+TBD
+TBD
+55%
+c. Black or African American
+Actual
+35.10%
+32.90%
+33.60%
+38.90%
+38.20%
+Target
+TBD
+TBD
+TBD
+TBD
+49%
+d. Hispanic or Latina/-o
+Actual
+37.80%
+37.40%
+40.20%
+44.20%
+44%
+Target
+TBD
+TBD
+TBD
+TBD
+49%
+e. Native Hawaiian or Pacific Islander
+Actual
+46.30%
+42.50%
+34.30%
+48%
+35.90%
+Target
+TBD
+TBD
+TBD
+TBD
+49%
+f. White
+Actual
+44.30%
+44.90%
+47.50%
+49.70%
+50.30%
+Target
+TBD
+TBD
+TBD
+TBD
+51%
+How Are We Doing
+actual target
+There are significant differences in the completion and transfer rates of the six racial/ethnic groups examined in this measure. Total award and transfer rates range from 35.9% for Native
+Hawaiian/Pacific Islander students to 54.8% for Asian American students. The overall completion and transfer rate for the fall 2014 credential-seeking cohort is 48.3% within four years.
+Factors Affecting Results
+Cultural sensitivity of programs, availability of student services and guidance, availability of bilingual services, tuition and fees, availability of financial aid, academic preparation, non-academic
+circumstances  (work, family, health), personal goals and cultural influences, data availability and calculation methodology.
+Other Comments:
+This measure enables the HECC and its partner community colleges to assess whether the likelihood of completing community college is improving over time.  KPM 6 tracks these completion rates
+by race/ethnicity to evaluate progress in equity in postsecondary education.
+We define this concept in the following terms:
+(Number of community college students identified as completers within three years)
+divided by
+(Number of students in the entering credential-seeking cohort of fall 2014)
+For the purposes of the KPM, completers include students who earned an associate degree or certificate and students who did not earned an award, but enrolled in a 4-year institution within
+four years.
+For the purposes of the KPM, the Credential-Seeking cohort is defined similarly to the Credential-Seeking Cohort of the Volunteer Framework of Accountability (VFA).
+It includes students who were new to the institution (community college) in the fall of 2014 or preceding summer term; AND were not enrolled in dual credit courses or reported as an
+accelerated learning student; AND attempted a credit course in the fall of 2014; AND earned a minimum of 18 quarter credits in the first two years or earned an award requiring than 18
+quarter credits.
+Students may be enrolled full-time or part-time.
+Students in the cohort are new to the institution in the fall of 2014, but not necessarily new to postsecondary education.
+The completed 18 quarter credits are inclusive of all college-level coursework AND developmental coursework.
+The completed 18 quarter credits must be earned at a community college between the summer to 2014 and spring of 2016; they do not include credits for prior learning or college credits
+earned before graduating from high school.
+A student is considered to have transferred if there is any evidence of enrollment at a 4-year institution after the last enrollment of the community college and before the end of the four-year
+tracking period. For this KPM, enrollment records were obtained through a data match with the National Student Clearinghouse (public and private 4-year institutions) and the Oregon Public
+University database.
+Limitations of this definition are:
+This KPM uses student behavior (credit accrual) to define “credential-seeking” due to inconsistency and unreliability of a student’s self-report of their intentions to complete a credential. While
+this method captures more students who eventually earned an award, it may also exclude some students who planned to earn a credential but were unsuccessful in earning 18 quarter credits
+in 2 years.
+Records of enrollment at 4-year institutions obtained through the National Student Clearinghouse (NSC) may include non-credit enrollment.
+Given these limitations, results suggest:
+The completion and transfer rates of Asian American and White students exceed the overall statewide completion and transfer rate of the fall 2014 cohort. The completion and transfer rates of
+Black/African American students, Native American/Alaska Natives, Native Hawaiian/Pacific Islander students, as well as Hispanic students are below the state average.
+An examination of community college award rates (without transfer rates) produces similar results. Asian American and White students’ completion rates exceed the state average, while all other
+racial/ethnic groups’ completion rates are below the state average. Black and African American students have the lowest attainment rates of associate degrees and certificates. Asian American and
+White students have the highest overall rate of award attainment among the six racial/ethnic groups.
+An examination of transfer rates (without an award at a community college) shows that Asian American students have the highest transfer rate to 4-year institutions at 21.8% within 4 years. African
+American students have the second highest transfer rate at 16.4% within 4 years, followed by White students at 15.7%. For this KPM a student is considered to have transferred if there is any
+evidence of enrollment at a 4-year institution without consideration of the type, length or outcome of enrollment at the 4-year institution, or possible “reverse transfer” later. Thus, these rates may
+also be an indicator of the degree of “swirling”, or non-linear student pathway, which may or may not lead to a credential.
+Fall 2014 Cohort
+Associate
+degree
+Certificate
+only
+Total
+awards
+No award,
+transfer
+Total
+awards
+and
+transfer
+Asian American
+27.4%
+5.6%
+33.0%
+21.8%
+54.8%
+Black or African American
+17.1%
+4.6%
+21.7%
+16.4%
+38.2%
+Hispanic or Latina/o
+24.4%
+6.2%
+30.7%
+13.3%
+44.0%
+Native American or Alaska Native
+28.3%
+5.7%
+34.0%
+9.4%
+43.4%
+Native Hawaiian or Pacific
+Islander
+19.6%
+6.5%
+26.1%
+9.8%
+35.9%
+White
+28.2%
+6.4%
+34.6%
+15.7%
+50.3%
+KPM #7
+Public University Graduation Rate - Percentage of public university college students who complete a bachelor’s degree within 6 years.
+Data Collection Period: Sep 01
+- Aug 31
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Public University Graduation Rate
+Actual
+62.60%
+62.80%
+63.10%
+64.40%
+64.50%
+Target
+60%
+60.50%
+63%
+63.50%
+64%
+How Are We Doing
+University graduation rates crossed over the 60% mark starting with the 2008 entering cohort and have shown increases every year since. Growth slowed a bit with the most recent cohort (2012)
+but still reached an all-time high mark of 64.5%, exceeding our target of 64.0%.
+Factors Affecting Results
+A number of factors influence student retention and completion, including adequate academic preparation for college, essential support services (e.g., freshmen orientation and engagement
+programs, tutoring, academic advising, early warning programs, faculty and peer mentors), financial issues, and personal and family events.
+Other Comments:
+This measure presents the percentage of first-time, full-time Oregon public university students starting in a given Fall term and graduating from an Oregon public university within six years.
+We define this concept in the following terms:
+actual target
+(Number of students in the cohort who graduate within six years)
+divided by
+(Total number of students enrolled in the Fall entering freshman cohort)
+We use the IPEDS definition for the Fall entering freshman cohort. This restricts the cohort to first-time, full-time freshmen.
+This is a rate that counts inter-institutional transfers as graduating. In other words, the student does not need to graduate at the same university that they entered as a freshman. If they
+transfer to and graduate from any one of the Oregon public universities they are included in the count of graduates.
+Although this metric is framed as a six-year graduation rate. It could more accurately be described as the percentage of students graduating within 150% of normal time. For those pursuing a
+bachelor’s degree this is, indeed, six years. However, Oregon public universities do award a small number of associate degrees as well. For students receiving an associate degree, they are
+included in the numerator only if they graduate within 3 years (150% of normal time for an associate degree).
+Limitations of this definition/data limitations are:
+Given these limitations, results suggest:
+Improvements to this measure would come from:
+KPM #8
+Racial/Ethnic Differences for Public University Graduation Rate - Percentage of public university students who complete a bachelor’s degree within 6 years, by race/ethnicity.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2015
+2016
+2017
+2018
+2019
+American Indian or Alaska Native
+Actual
+47.20%
+44%
+44.40%
+37.40%
+43.30%
+Target
+TBD
+TBD
+63%
+63.50%
+64%
+b. Asian American
+Actual
+No Data
+No Data
+67.50%
+74.50%
+73.50%
+Target
+TBD
+TBD
+63%
+70%
+75%
+c. Black or African American
+Actual
+46%
+38.40%
+48.80%
+54.70%
+49.80%
+Target
+TBD
+TBD
+63%
+63.50%
+64%
+d. Hispanic or Latina/-o
+Actual
+57.50%
+57.20%
+57.40%
+59.50%
+62%
+Target
+TBD
+TBD
+63%
+63.50%
+64%
+e. Native Hawaiian or Pacific Islander
+Actual
+No Data
+No Data
+56.50%
+50%
+38.80%
+Target
+TBD
+TBD
+63%
+63.50%
+64%
+f. White
+Actual
+63.80%
+63.80%
+64.50%
+65.20%
+65.50%
+Target
+TBD
+TBD
+63%
+65%
+66%
+How Are We Doing
+actual target
+There are significant differences in graduation rates between the various racial/ethnic subcategories ranging from a high of 73.5% to a low of 38.8%. Asian American and White students graduate
+at the highest rates, with Asian Americans being the only group to top 70%. The Hispanic group has shown strong growth over the most recent 5-year period, landing just 2 percentage points shy of
+their target in the most recent year and becoming the third racial/ethnic group with a graduation rate over 60%.
+The remaining groups, displayed the larger variance that is exhibited by groups with smaller populations. The American Indian or Alaska Native group experienced an increase while the African
+American and Pacific Islander groups experienced decreases in their graduation rates. None of these changes is significantly out of line with historical variances, however, the large drop for the
+Pacific Islander group resulted in a lower graduation rate than we have seen in the past from this group. It remains to be seen if it will rebound in the same way that the American Indian or Alaska
+Native group’s rate did after similarly low mark for the 2011 cohort.
+Currently, we still have a limited amount of historical data for the Asian American and Pacific Islander categories. Prior to the 2010 cohort, racial/ethnic categories combined these two subgroups
+into a single category (Asian or Pacific Islander).
+Factors Affecting Results
+A number of factors influence student retention and completion, including adequate academic preparation for college, essential support services (e.g., freshmen orientation and engagement
+programs, tutoring, academic advising, early warning programs, faculty and peer mentors), financial issues, and personal and family events.
+Other Comments:
+This measure presents the percentage of first-time, full-time Oregon public university students starting in a given Fall term and graduating from an Oregon public university within six years.
+We define this concept in the following terms:
+(Number of students in the cohort who graduate within six years)
+divided by
+(Total number of students enrolled in the Fall entering freshman cohort)
+We use the IPEDS definition for the Fall entering freshman cohort. This restricts the cohort to first-time, full-time freshmen.
+This is a rate that counts inter-institutional transfers as graduating. In other words, the student does not need to graduate at the same university that they entered as a freshman. If they
+transfer to and graduate from any one of the Oregon public universities they are included in the count of graduates.
+Although this metric is framed as a six-year graduation rate. It could more accurately be described as the percentage of students graduating within 150% of normal time. For those pursuing a
+bachelor’s degree this is, indeed, six years. However, Oregon public universities do award a small number of associate degrees as well. For students receiving an associate degree, they are
+included in the numerator only if they graduate within 3 years (150% of normal time for an associate degree).
+Limitations of this definition/data limitations are:
+Given these limitations, results suggest:
+Improvements to this measure would come from:
+KPM #9
+Percentage of resident enrolled students who are incurring unaffordable costs - Percentage of resident enrolled students who are incurring unaffordable costs adjusted with institutional
+aid.
+Data Collection Period: Jan 01
+- Jan 01
+* Upward Trend = negative result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Percentage of resident enrolled students who are incurring unaffordable costs adjusted with institutional aid.
+Actual
+No Data
+No Data
+40.70%
+40.60%
+41.60%
+Target
+TBD
+TBD
+TBD
+TBD
+40%
+How Are We Doing
+This is the third year we have produced this metric and the percentage of students incurring unaffordable costs has increased by about 1 percentage point over that span.
+This year an error was discovered in the calculation of this metric. The stated methodology of the metric has not changed, but the calculation has been fixed to accurately represent the
+methodology. Some grant aid to students was not being accounted for and some student costs were being overestimated, resulting in the percentage of students incurring unaffordable costs being
+too high. Because of this, all three years of data have been updated, as well as our target, and are lower than previously reported values.
+Factors Affecting Results
+General factors affecting this metric include state support and expanded costs of providing education.
+Other Comments:
+This measure presents a calculation of the percentage of resident undergraduates enrolled at public higher education institutions (excluding OHSU) who incurred unaffordable total cost of
+attendance during the academic year while accounting for any grant aid that they received.
+actual target
+We define this concept in the following terms:
+“Unaffordable Costs Adjusted with Institutional Aid” –  A total cost of attendance that exceeds the student’s expected family contribution (EFC) plus their grant aid plus their earnings from a
+reasonable amount of work (the student’s share). We used OSAC’s method of estimating a student’s share which is calculated as 90% of the minimum wage times 15 hours per week times 48
+weeks. For 2016-17 this figure was $6,300.
+“Resident Undergraduate” is restricted to resident admitted undergraduates at the universities and is restricted to students who attempted at least one credit at the community colleges. The
+entire population is restricted to only those students who filled out a Free Application for Federal Student Aid (FAFSA).
+Limitations of this definition/data limitations are:
+Due to data limitations, this definition ignores scholarship awards and excludes all students who did not fill out a FAFSA. In addition, calculating total cost of attendance for each student requires
+some broad assumptions to be made, given the data sources that are available.
+Given these limitations, results suggest:
+Even given these limitations, the results suggest that a significant percentage of Oregon students will need to take on debt to go to college.
+Improvements to this measure would come from:
+There could be some benefit in breaking this measure out by university and community college students.
+KPM #10
+Racial/Ethnic Differences in Percentage of Resident Students incurring Unaffordable Costs - Percentage of resident enrolled students who are incurring unaffordable costs adjusted with
+institutional aid, by race/ethnicity.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2015
+2016
+2017
+2018
+2019
+American Indian or Alaska Native
+Actual
+No Data
+No Data
+38.60%
+37%
+38.40%
+Target
+TBD
+TBD
+TBD
+TBD
+36%
+b. Asian American
+Actual
+No Data
+No Data
+50.40%
+54%
+53.30%
+Target
+TBD
+TBD
+TBD
+TBD
+40%
+c. Black or African American
+Actual
+No Data
+No Data
+35.60%
+39.90%
+40.10%
+Target
+TBD
+TBD
+TBD
+TBD
+39%
+d. Hispanic or Latina/-o
+Actual
+No Data
+No Data
+43.30%
+43.60%
+46.50%
+Target
+TBD
+TBD
+TBD
+TBD
+40%
+e. Native Hawaiian or Pacific Islander
+Actual
+No Data
+No Data
+34.70%
+39.20%
+39.50%
+Target
+TBD
+TBD
+TBD
+TBD
+38%
+f. White
+Actual
+No Data
+No Data
+39.80%
+39%
+39.50%
+Target
+TBD
+TBD
+TBD
+TBD
+38%
+How Are We Doing
+actual target
+This is only the third year we have produced this metric, but the early trend seems to be that the percentage of students incurring unaffordable costs is either increasing or holding steady across
+every racial/ethnic category. Two groups (Asian American and Hispanic or Latina/o students) have a somewhat higher likelihood to incur unaffordable costs with the rest of the groups being around
+40%.
+As mentioned in the notes to KPM #9, the calculation for this metric has been corrected and the data points are lower than previously reported values.
+Factors Affecting Results
+General factors affecting this metric include state support and expanded costs of providing education.
+Other Comments:
+This measure presents a calculation of the percentage of resident undergraduates enrolled at public higher education institutions (excluding OHSU) who incurred unaffordable total cost of
+attendance during the academic year while accounting for any grant aid that they received.
+We define this concept in the following terms:
+“Unaffordable Costs Adjusted with Institutional Aid” –  A total cost of attendance that exceeds the student’s expected family contribution (EFC) plus their grant aid plus their earnings from a
+reasonable amount of work (the student’s share). We used OSAC’s method of estimating a student’s share which is calculated as 90% of the minimum wage times 15 hours per week times 48
+weeks. For 2016-17 this figure was $6,300.
+“Resident Undergraduate” is restricted to resident admitted undergraduates at the universities and is restricted to students who attempted at least one credit at the community colleges. The
+entire population is restricted to only those students who filled out a Free Application for Federal Student Aid (FAFSA).
+Limitations of this definition/data limitations are:
+Due to data limitations, this definition ignores scholarship awards and excludes all students who did not fill out a FAFSA. In addition, calculating total cost of attendance for each student requires
+some broad assumptions to be made, given the data sources that are available.
+Given these limitations, results suggest:
+Even given these limitations, the results suggest that a significant percentage of Oregon students will need to take on debt to go to college.
+Improvements to this measure would come from:
+There could be some benefit in breaking this measure out by university and community college students.
+KPM #11
+Earnings of Community College Completers - Median earnings of community college completers five years after completion.
+Data Collection Period: Jan 01
+- Jan 01
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Five years after completion
+Actual
+No Data
+$34,358.00
+$35,215.00
+$37,699.00
+$38,238.00
+Target
+TBD
+TBD
+$35,045.00
+$35,745.00
+$38,000.00
+How Are We Doing
+The data show that the median wage of the 2011-2012 community college award recipients was $38,238 five years after the year of the award. This continues an upward trend over the last two
+years and exceeds this year’s target for this measure.
+Factors Affecting Results
+Labor market, inflation, career advising, wage data availability all affect the earnings of completers.
+Other Comments:
+This measure is
+a calculation of the median annual wage of community college completers (certificate or associate degree holders) 5 years after completion.
+We define this concept in the following terms:
+“Community college completers” are defined as individuals who were awarded a career/technical certificate, Oregon Transfer Module (OTM) certificate or an associate degree in 2011-12.
+actual target
+The information on community college completers was matched with Unemployment Insurance wage data provided by the Oregon Employment Department. The metric includes annualized
+wages from July 2017-June 2018.
+Limitations of this definition/data limitations are:
+A wage match was possible if:
+a
+.
+A valid social security number was available for the community college award recipient. Valid social security numbers were available for 97% of 2011-12 Oregon community college
+completers; AND
+b
+.
+A wage record for the social security number was found in the Unemployment Insurance database of the Oregon Employment Department for quarter 3 of 2017, quarter 4 of 2017, quarter 1
+of 2018, or quarter 2 of 2018.  Wage data are not available for graduates who are working in other states or countries, who are self-employed, employed by the federal government or
+unemployed. A wage match was found for 71% of community college completers with a valid social security number (69% of all completers).
+Students who were awarded degrees and certificates by Treasure Valley Community College were not included in the calculations due to data unavailability.
+The measure does not claim that the 2011-12 certificates and associate degrees represent the highest education attainment of these individuals. It is possible that some of the award
+recipients received other educational awards prior to 2011-12, and some continued their education in the years following the 2011-12 award and received additional awards prior to the wage
+match year.
+Given these limitations, results suggest:
+The limitations described above suggest that the group may include individuals who attained bachelor’s and graduate degrees prior to the wage match year. However, the overall wage change over
+time, as well as a comparison with the wage data for Oregon public universities’ graduates remain valuable tools in identifying how educational attainment influences individual economic outcomes.
+The median earnings of community college award recipients increased in comparison with the last year’s data. The earnings of associate degree holders surpassed the earning of certificate/OTM
+holders 5 years after graduation ($38,760 vs $36,638, median annual).
+A comparison of data from KPM 11 (earnings of community college completers) and KPM 13 (earnings of bachelor's degree completers) shows that more advanced credential holders earned higher
+wages 5 years after the award:
+Wage year
+2017
+July 2017 - June 2018
+July 2017 - June 2018
+KPM
+n/a
+KPM 11
+KPM 13
+Credential
+attained
+High school diploma
+or equivalent*
+Community college
+certificates/OTM and
+associate degrees
+Bachelor’s degree
+Median earnings
+$28,232
+$38,238
+$45,785
+*Data source: 2013-2017 American Community Survey 5-year Estimates, 2017
+https://data.census.gov/cedsci/table?q=S2001&lastDisplayedRow=20&table=S2001&tid=ACSST5Y2017.S2001&hidePreview=true&g=0400000US41
+Improvements to this measure would come from:
+KPM #12
+Racial/Ethnic Differences in Earnings of Community College Completers
+- Median earnings of community college completers, five years after completion, by race/ethnicity.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2015
+2016
+2017
+2018
+2019
+American Indian and Alaska Native
+Actual
+No Data
+No Data
+$31,231.00
+$36,554.00
+$36,340.00
+Target
+TBD
+TBD
+$35,045.00
+$35,745.00
+$38,000.00
+b. Asian American
+Actual
+No Data
+No Data
+$39,172.00
+$39,842.00
+$41,239.00
+Target
+TBD
+TBD
+$35,045.00
+$35,745.00
+$40,000.00
+c. Black or African American
+Actual
+No Data
+No Data
+$32,488.00
+$34,202.00
+$33,975.00
+Target
+TBD
+TBD
+$35,045.00
+$35,745.00
+$38,000.00
+d. Hispanic or Latina/-o
+Actual
+No Data
+No Data
+$34,911.00
+$35,406.00
+$35,890.00
+Target
+TBD
+TBD
+$35,045.00
+$35,745.00
+$38,000.00
+e. Native Hawaiian or Pacific Islander
+Actual
+No Data
+No Data
+$32,630.00
+$32,574.00
+$33,345.00
+Target
+TBD
+TBD
+$35,045.00
+$35,745.00
+$38,000.00
+f. White
+Actual
+No Data
+No Data
+$35,256.00
+$38,046.00
+$38,671.00
+Target
+TBD
+TBD
+$35,045.00
+$35,745.00
+$38,500.00
+How Are We Doing
+actual target
+There are significant differences between the median earnings of the six racial/ethnic groups of community college award recipients. Asian American graduates have the highest median earnings 5
+years after the award at $41,239 while Native Hawaiian/Pacific Islander and Black/African American graduates have the lowest median earnings at $33,345 and $33,975, respectively. Median
+earnings for Asian American and White students meet or exceed the target earnings for this measure. The median earnings of Black or African American, Hispanic, Native American/Alaska Native
+and Native Hawaiian/Pacific Islander graduates are below the target for this measure.
+Factors Affecting Results
+Academic preparation; availability of culturally sensitive career advising and education guidance; occupation or industry; other societal and socio-economic factors.
+Other Comments:
+This measure expands the KPM 11 by calculating it for separate racial/ethnic groups.  It thus provides information about both the value of a community college degree or certificate and about how
+that value might vary for different racial/ethnic groups.  It is an indicator of both return on investment and equity.
+A comparison with the earnings of bachelor’s degree recipients at Oregon public universities (KPM 14) demonstrates that education is key to upward mobility and higher earnings for all racial/ethnic
+groups. However, the data show that there are significant differences in between the median earnings among the six racial/ethnic group examined in this measure.
+Award year
+2011-12
+2011-12
+KPM
+KPM 12
+KPM 14
+Credentials attained
+All community college
+awards (associate
+degrees and
+certificates)
+Bachelor’s degree
+Asian American
+$41,239
+$51,145
+Black or African American
+$33,975
+$42,482
+Hispanic or Latina/o
+$35,890
+$44,848
+Native American or Alaska Native
+$36,340
+$42,432
+Native Hawaiian or Pacific Islander
+$33,345
+$41,137
+White
+$38,671
+$45,805
+KPM #13
+Earnings of bachelor's degree completers - Median earnings of graduates with bachelor's degrees five years after completion
+Data Collection Period: Jan 01
+- Jan 01
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+Earnings of bachelor degree completers
+Actual
+No Data
+$40,517.00
+$42,143.00
+$45,080.00
+$45,785.00
+Target
+TBD
+TBD
+$41,327.00
+$42,145.00
+$46,000.00
+How Are We Doing
+The data show that the median wage of the 2011-12 bachelor’s degree recipients was $45,785 five years after the year of the award. This continues an upward trend over the last two years and
+exceeds this year’s target for this measure.
+Factors Affecting Results
+Labor market, inflation, career advising, wage data availability all affect the earnings of completers.
+Other Comments:
+This measure is
+a calculation of the median annual wage of bachelor’s degree recipients at Oregon public universities 5 years after the award.
+We define this concept in the following terms:
+“Bachelor’s degree completers” are defined as individuals who were awarded a baccalaureate degree by an Oregon public university during the 2011-12 academic year.
+The information on community college completers was matched with Unemployment Insurance wage data provided by the Oregon Employment Department. The metric includes annualized
+actual target
+wages from July 2017-June 2018.
+Limitations of this definition/data limitations are:
+A wage match was possible if:
+a
+.
+A valid social security number was available for the bachelor’s degree recipient. Valid social security numbers were available for 97% of 2011-12 Oregon public university graduates; AND
+b
+.
+A wage record for the social security number was found in the Unemployment Insurance database of the Oregon Employment Department for quarter 3 of 2017, quarter 4 of 2017, quarter 1
+of 2018, or quarter 2 of 2018.  Wage data are not available for graduates who are working in other states or countries, who are self-employed, employed by the federal government or
+unemployed. A wage match was found for 56% of bachelor’s degree completers with a valid social security number (54% of all graduates).
+The measure does not claim that the 2011-12 bachelor’s degrees represent the highest education attainment of these individuals. It is possible that some of the bachelor’s degree completers
+received other educational awards prior to 2011-12, and some continued their education in the years following the 2011-12 award and received additional awards prior to the wage match
+year.
+Given these limitations, results suggest:
+The median earnings of bachelor’s degree recipients increased in comparison with the last year’s data. A comparison of data from KPM 11 (earnings of community college completers) and KPM 13
+(earnings of bachelor's degree completers) shows that more advanced credential holders earned higher wages 5 years after the award:
+Wage year
+2017
+July 2017 - June 2018
+July 2017 - June 2018
+KPM
+n/a
+KPM 11
+KPM 13
+Credential
+attained
+High school diploma
+or equivalent*
+Community college
+certificates/OTM and
+associate degrees
+Bachelor’s degree
+Median earnings
+$28,232
+$38,238
+$45,785
+*Data source: 2013-2017 American Community Survey 5-year Estimates, 2017
+https://data.census.gov/cedsci/table?q=S2001&lastDisplayedRow=20&table=S2001&tid=ACSST5Y2017.S2001&hidePreview=true&g=0400000US41
+Improvements to this measure would come from:
+KPM #14
+Racial/Ethnic Differences in Earnings of Bachelor's Degree Completers - Median earnings of graduates with bachelor's degrees, five years after completion, by race/ethnicity.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2015
+2016
+2017
+2018
+2019
+American Indian or Alsaska Native
+Actual
+No Data
+$36,544.00
+$40,173.00
+$46,997.00
+$42,432.00
+Target
+TBD
+TBD
+$41,327.00
+$42,154.00
+$47,500.00
+b. Asian American
+Actual
+No Data
+$44,003.00
+$45,671.00
+$47,435.00
+$51,145.00
+Target
+TBD
+TBD
+$41,327.00
+$42,154.00
+$48,000.00
+c. Black or African American
+Actual
+No Data
+$39,109.00
+$39,304.00
+$41,283.00
+$42,482.00
+Target
+TBD
+TBD
+$41,327.00
+$42,154.00
+$46,000.00
+d. Hispanic or Latina/-o
+Actual
+No Data
+$40,543.00
+$40,971.00
+$44,557.00
+$44,848.00
+Target
+TBD
+TBD
+$41,327.00
+$42,154.00
+$46,000.00
+e. Native Hawaiian or Pacific Islander
+Actual
+No Data
+$40,405.00
+$37,178.00
+$41,223.00
+$41,137.00
+Target
+TBD
+TBD
+$41,327.00
+$42,154.00
+$46,000.00
+f. White
+Actual
+No Data
+$40,620.00
+$42,472.00
+$45,372.00
+$45,805.00
+Target
+TBD
+TBD
+$41,327.00
+$42,454.00
+$46,000.00
+How Are We Doing
+actual target
+There are significant differences between the median earnings of the six racial/ethnic groups of bachelor’s degree recipients. Asian American graduates have the highest median earnings 5 years
+after the award at $51,145, while Native Hawaiian or Pacific Islander graduates have the lowest median earnings at $41,137. Median earnings for Asian Americans students exceed the target
+earnings for this measure. Median earnings of all other groups are below the target for this measure.
+Factors Affecting Results
+Academic preparation; availability of culturally sensitive career advising and education guidance; occupation or industry; other societal and socio-economic factors.
+Other Comments:
+This measure expands the KPM 13 by calculating it for separate racial/ethnic groups.  It thus provides information about both the value of a community college degree or certificate and about how
+that value might vary for different racial/ethnic groups.  It is an indicator of both return on investment and equity.
+A comparison with the earnings of Oregon community college award recipients (KPM 12) demonstrates that education is key to upward mobility and higher earnings for all racial/ethnic groups.
+However, the data show that there are significant differences in between the median earnings among the six racial/ethnic group examined in this measure.
+Award year
+2011-12
+2011-12
+KPM
+KPM 12
+KPM 14
+Credentials attained
+All community college
+awards (associate
+degrees and
+certificates)
+Bachelor’s degree
+American Indian or Alaska Native
+$41,239
+$51,145
+Asian American
+$33,975
+$42,482
+Black or African American
+$35,890
+$44,848
+Hispanic or Latina/o
+$36,340
+$42,432
+Native Hawaiian or Pacific Islander
+$33,345
+$41,137
+White
+$38,671
+$45,805
+KPM #15
+Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise,
+availability of information.
+Data Collection Period: Jan 01
+- Jan 01
+Report Year
+2015
+2016
+2017
+2018
+2019
+a. Overall
+Actual
+61%
+No Data
+57%
+No Data
+53%
+Target
+90%
+90%
+90%
+90%
+75%
+b. Expertise
+Actual
+67%
+No Data
+75%
+No Data
+53%
+Target
+90%
+90%
+90%
+90%
+75%
+c. Helpfulness
+Actual
+70%
+No Data
+88%
+No Data
+79%
+Target
+90%
+90%
+90%
+90%
+90%
+d. Availability of Information
+Actual
+60%
+No Data
+44%
+No Data
+63%
+Target
+90%
+90%
+90%
+90%
+90%
+e. Timeliness
+Actual
+54%
+No Data
+46%
+No Data
+42%
+Target
+90%
+90%
+90%
+90%
+75%
+f. Accuracy
+Actual
+No Data
+No Data
+58%
+No Data
+63%
+Target
+90%
+90%
+90%
+90%
+75%
+How Are We Doing
+actual target
+The agency obtained stakeholder input for this KPM
+The Oregon Department of Administrative Services defines the measures of customer service with the six questions below.  We defined and surveyed a list of stakeholders on these questions.  The
+stakeholder list was defined as those groups or organizations to which the HECC provides some level of technical or customer support.  Three to five representatives of each group were selected.
+Selections were reviewed and replaced if necessary to ensure a mix of institutional partners (i.e., to avoid over-representation of particular universities or community colleges).  These groups
+included:  public university and community college financial/budgetary staff, public university and community college faculty and program staff, public university and community college institutional
+research staff, local workforce investment board partners, private postsecondary schools, staff at related government agencies, and external non-governmental organization staff.  In total, 39
+persons were surveyed, and 19 responded, yielding a response rate of 49 percent.
+Across all six questions, HECC customer service was rated “good” or “excellent” 59 percent of the time.  Results are comparable to the last time the survey was conducted, in 2017, when HECC
+customer service was rated “good” or “excellent” 61 percent of the time.  For the current year, the percentage rated “good” or “excellent” ranged from a low of 42 percent (Question 5) to a high of
+79 percent (Question 3).  Areas for greatest improvement for the agency are timeliness of service, accuracy of information, and availability of information.  Areas where the agency’s service is
+strongest are helpfulness of staff, knowledge/expertise of staff, and overall service.  The overall average rating across all questions was 2.8 out 4, or a “good” level of service.  Results for most
+questions are comparable to the results from 2017.  We note that the relatively small number of respondents makes reliable comparisons between the two years difficult to make.
+Factors Affecting Results
+In addition to the work of agency staff, the sample of individuals surveyed, the sample of individuals responding, and the timing of the survey all may affect the results.
+KPM #16
+Commission Best Practices - Percent of total best practices met by the Commission.
+Data Collection Period: Sep 01
+- Sep 30
+* Upward Trend = positive result
+Report Year
+2015
+2016
+2017
+2018
+2019
+BEST PRACTICES
+Actual
+No Data
+97%
+90%
+100%
+93%
+Target
+TBD
+TBD
+100%
+100%
+100%
+How Are We Doing
+This KPM examines the percentage of commission best practices met by the HECC Commission. DAS defines this as the percentage of Board members or Commissioners who agreed or strongly
+agreed that they and the Commission followed best practices. We defined these best practices with 24 rated questions and 3 open-ended questions, shown below.
+Across all questions, 93% of responding Commissioners agreed or strongly agreed that they followed the 24 best practices identified here. This is slightly down from the 2018 results, likely because
+of small sample sizes, which can sway results.
+In addition, while no Commissioner responded “disagree” or “strongly disagree” on any question, one Commissioner responded with “neutral” on many questions. This response category is difficult
+to interpret; we do not know whether this respondent indicating poorer performance of the Commission or does not have sufficient information to answer the question. We have a number of newer
+members on the Commission.
+The rated questions had possible answers of:
+strongly agree (5 points)
+agree (4 points)
+neutral (3 points)
+disagree (2 points)
+strongly disagree (1 point)
+actual target
+The mean response across all questions was 4.8 out of 5.
+The questions are:
+As an Individual Commissioner:
+Q1:  I am able to devote the time and energy necessary to actively participate in Commission meetings.
+100% agreed or strongly agreed; mean response 4.8
+Q2:  The amount of time expected of commissioners to prepare and participate in Commission meetings is reasonable.
+83% agreed or strongly agreed; mean response 4.5
+Q3:  The amount of time expected of commissioners outside of Commission meetings is reasonable.
+83% agreed or strongly agreed; mean response 4.7
+Q4:  The Commission is effectively utilizing my skills and expertise.
+100% agreed or strongly agreed; mean response 4.3
+Q5:  I can speak candidly at Commission meetings.
+83% agreed or strongly agreed; mean response 4.5
+Q6:  I can participate in subcommittee meetings in which I am not a subcommittee member.
+83% agreed or strongly agreed; mean response 4.5
+Q7:  Serving on this Commission is satisfying.
+100% agreed or strongly agreed; mean response 4.8
+As a Commission:
+Q8:  The Commission as a whole has a clear understanding of its role and responsibilities.
+100% agreed or strongly agreed; mean response 4.8
+Q9:  The Commission understands and respects the distinction between its responsibilities and those of management.
+83% agreed or strongly agreed; mean response 4.5
+Q10:  Commissioners actively participate in discussions
+83% agreed or strongly agreed; mean response 4.7
+Q11:  The Commission has diversity of representation (e.g., gender, ethnicity, age, vocation, etc.).
+67% agreed or strongly agreed; mean response 4.3
+Q12:  Commissioners listen to and value each other's comments.
+83% agreed or strongly agreed; mean response 4.5
+Q13:  The leadership of the Commission is effective.
+100% agreed or strongly agreed; mean response 5
+Q14:  Public comment during the public comment section of the meeting and during action items is a valuable opportunity to gather input.
+100% agreed or strongly agreed; mean response 4.5
+Q15:  The Commission ... Provides insight and guidance to the HECC’s strategic direction.
+83% agreed or strongly agreed; mean response 4.7
+Q16:  The Commission ... Ensures the agency’s fiscal integrity by monitoring the agency’s financial policies and operating performance and by submitting the agency’s biennial budgets.
+83% agreed or strongly agreed; mean response 4.7
+Q17:  The Commission ... Assesses the performance of the Executive Director on an annual basis
+83% agreed or strongly agreed; mean response 4.7
+Q18:  The Commission ... Follows the highest standards of fiduciary duty and avoids conflict of interest in decision-making
+100% agreed or strongly agreed; mean response 4.7
+Q19:  The Commission ... Operates in a transparent and open fashion.
+100% agreed or strongly agreed; mean response 4.5
+Q20:  Commission meetings... Have agendas and materials that are distributed far enough in advance to give them adequate consideration.
+100% agreed or strongly agreed; mean response 4.7
+Q21:  Commission meetings... Rely on written and presentation materials that provide the right type and amount of information and are clearly written.
+83% agreed or strongly agreed; mean response 4.7
+Q22:  Commission meetings... Cover the right combination of information-sharing, discussion, decision-making, and board education.
+83% agreed or strongly agreed; mean response 4.5
+Q23:  Commission meetings... Allow enough time for the exchange of ideas and thoughtful deliberation.
+83% agreed or strongly agreed; mean response 4.3
+Q24:  Commission meetings... Strike the right balance between long-range, strategic matters and routine matters of oversight.
+83% agreed or strongly agreed; mean response 4.5
+Open-ended:
+Q25:  What do you find most satisfying in your role as a Commissioner?
+Q26:  What do you find least satisfying in your role as a Commissioner?
+Q27:  What can HECC staff do to enable you to serve more effectively or with greater satisfaction?
+Factors Affecting Results

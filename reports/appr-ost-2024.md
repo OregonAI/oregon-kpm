@@ -1,0 +1,599 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-ost-2024
+title: State Treasurer — Annual Performance Progress Report, Reporting Year 2024
+doc_type: performance_report
+citation: APPR OST 2024
+authority_level: agency_report
+issuing_body: State Treasurer
+agency: State Treasurer
+agency_code: OST
+reporting_year: '2024'
+year_source: document
+filename_year: '2024'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_OST_2024.pdf
+source_filename: APPR_OST_2024.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 3d43a952850a016689ff03bff4ecaed40755c288bf5f1985a4714e83a080066b
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2024
+---
+
+## At a glance
+
+**APPR OST 2024** — State Treasurer, Reporting Year 2024
+
+- Agency: State Treasurer
+- Reporting year: 2024 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_OST_2024.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+State Treasurer
+Annual Performance Progress Report
+Reporting Year 2024
+Published: 12/20/2024 9:04:44 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+Oregon Public Employees Retirement Fund Net Performance - Historical 20-year Net Performance compared to target returns.
+2A
+Oregon Short-Term Fund Expenses - Biennial asset management fee charged against Oregon Short-Term Fund assets for Treasury operations compared to peer group.
+2B
+Oregon Short-Term Fund Performance - Annual performance of the Oregon Short-Term Fund compared to benchmark rates.
+Local Government Participation in the Oregon Short-Term Fund - Annual change in the participation of local governments in the Oregon Short-Term Fund.
+Tax-exempt general obligation bond interest rates. - Average interest rate on tax-exempt general obligation bonds issued as compared to targets.
+Percentage of eligible Oregonians with a College Savings Account - The total number of 529 college savings accounts as a percentage of the total eligible population in Oregon compared to the national average.
+6A
+Unclaimed Property Disbursements - Percentage of total unclaimed property returned to owners and/or heirs compared to total amount received.
+6B
+Unclaimed Property Claim Response Time - Average number of days to respond to Unclaimed Property claims as compared to statutory maximum.
+Adherence to Board Best Practices - Percent of total best practices met by the Oregon 529 Savings Board and Oregon Retirement Savings Board.
+Customer Service
+- Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+77.78%
+11.11%
+11.11%
+red
+green
+yellow
+KPM #1
+Oregon Public Employees Retirement Fund Net Performance - Historical 20-year Net Performance compared to target returns.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+Oregon Public Employees Retirement Fund Net Performance
+Actual
+6.98%
+8.33%
+8.69%
+7.90%
+Target
+7.76%
+7.76%
+7.76%
+7.66%
+How Are We Doing
+2024 APPR Treasury-Wide Note: Nine of Treasury’s ten KPMs were newly established in the 2021-23 biennium, and accordingly there are no historical actuals or targets for the KPM in
+the 2020 column.
+The Public Employee Retirement Fund represents the majority of assets managed by the Oregon State Treasury and is the largest revenue source. Assets are to be managed to meet the long- term
+policy rate of return. Legislative budget investments in program operations should be to improve long-term target returns.
+Historical returns are reported by the investment custodian monthly. This information is provided by Treasury staff to the Oregon Investment Council (OIC). The reported 20-year historical performance
+for the OPERF Regular Account from the previous calendar year end is entered for each APPR update. The target is based on the PERS assumed rate of return with a 20-year annualized rate. The
+numbers are based on the rate in affect for the last 18 years and the current rate set for the next two years.
+To the extent possible, in consideration of market conditions, the goal of this KPM is to exceed the actuarial discount rate approved by the PERS Board, while applying the investment standards
+stablished in ORS 293.721 and 293.726. Net of fees, OPERF’s 20-year average annual investment performance of 7.90% outperformed the actuarial discount rate, currently set at 6.9%, and also
+exceeded its policy benchmark for the twenty-year period ending 12/31/23 (7.90% vs.7.78%).
+Factors Affecting Results
+Numerous macroeconomic and geopolitical events have impacted financial markets throughout the historical 20-year period. The fallout of the ‘Dotcom Bubble’ and the Global Financial Crisis
+actual target
+bookended the first decade of the 21st century, which resulted in a muted equity market performance during that period. That was followed by a decade of very strong equity markets, particularly in the
+U.S. and more specifically in the U.S. Information Technology sector, despite the second decade ending in a global pandemic. Developed market interest rates fell for most of the 20-year period, as
+proxied by the U.S. 10-Year interest rate which was at 5.11% the end of last century and at 0.91% the end of 2020. This was followed by heightened concerns about global inflation, reflected by sharp
+increases in prices of goods & services after the lifting of Covid-related shutdowns and the Russian invasion of Ukraine. By the end of 2022, the Federal Reserve raised the target range for the Federal
+Fund Rate above 4%, after spending most of the previous decade below 1%. Concurrently, the U.S. 10-Year interest rate rose through 2022 and ended at 3.88% by the end of the year. While the
+equity markets continued their strong performance in 2021, inflation concerns led to market selloffs in 2022, particularly in the U.S. Information Technology sector that previously led the strong market
+performance.
+As illustrated in the preceding paragraph, the dominant factor influencing OPERF investment performance is prevailing economic and financial conditions as largely determined by monetary, fiscal and
+regulatory policies on both national and international levels. Social, political, and foreign policy matters also impact investment performance in the form of overall investment sentiment. In addition, the
+complex structure of institutional-quality investment portfolios, particularly with large allocations to illiquid private market investment strategies, remains a primary theme, both in terms of forward-
+looking, return-seeking opportunities and in terms of heightened risk management considerations and perennial resource and personnel constraints.
+Consistent with its fiduciary duty, the OIC has directed OST investment staff to diversify OPERF among multiple asset classes, geographies, and strategies, including a substantial and peer-leading
+commitment to private market and other alternative investments. Deliberate and broad diversification is designed to maximize risk-adjusted, long-term investment returns, and OPERF’s historically
+strong performance record, which has significantly reduced contribution obligations for Oregon taxpayers and businesses, is a testament to the success of this approach.
+KPM #2A
+Oregon Short-Term Fund Expenses - Biennial asset management fee charged against Oregon Short-Term Fund assets for Treasury operations compared to peer group.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2020
+2021
+2022
+2023
+2024
+Oregon Short-Term Fund Expenses
+Actual
+0.052%
+0.052%
+0.052%
+0.052%
+Target
+0.160%
+0.160%
+0.160%
+0.130%
+How Are We Doing
+2024 APPR Treasury-Wide Note: Nine of Treasury’s ten KPMs were newly established in the 2021-23 biennium, and accordingly there are no historical actuals or targets for the KPM in
+the 2020 column.
+The Oregon Short Term Fund (OSTF) is managed by the Oregon State Treasury to keep taxpayer dollars safe and to help governments of all sizes to stretch public funds. The OSTF enables
+governments to earn a rate of return (interest) on money between the time when revenue is received and when the money is needed to pay bills. A portion of the earnings is required to pay for fund
+operations at Treasury and is reflected in the net returns earned by the fund. Statute has a fee cap of 0.5 bps per month for this reporting period. This KPM compares the fee collected on OSTF to the
+Lipper Money Market Peer Group Management Fee.
+Asset management fees are generally set biennially based on the legislatively approved budget; current fees are set at 0.435 bps per month for this reporting period. The peer group comparison is
+based on the Lipper Money Market Peer Group Management Fee for March 31 at the time of the legislative session. This reflects the median management fee of the peer group over the last twelve
+months. As the target rates are not reset each year from what was approved by the Legislature during session (reflected in the Target row in the table above), there will be a natural time disconnect
+between the actuals and target rates. Standard reporting to the OIC and legislature uses consistent time periods, so any non-KPM reporting would show the current actual expenses compared to the
+peer group median rate for the same time period.
+The goal of KPM #2A is to provide investment and banking services that are cost-efficient compared to external sources. The Oregon Short Term Fund consistently provides low-cost investment and
+cash management services to state agencies and local governments. As of June 30, 2024, OSTF had an annual management fee of 0.052% compared to the current Lipper Money Market Peer Group
+actual target
+Median of 0.130% (and compared to the 0.130% Target established in the 2023 legislative session). Although the Lipper median is lower than the previous period, the OST management fee is still
+significantly lower by 0.078%.
+Factors Affecting Results
+The Oregon Short Term Fund is operated not-for-profit and as such provides services at a lower cost than external, for-profit commercial enterprises. As the fee for OSTF is set by statute and the
+Lipper Money Market Peer Group Median remains relatively stable from year to year, we expect the fee differential to remain stable.
+KPM #2B
+Oregon Short-Term Fund Performance - Annual performance of the Oregon Short-Term Fund compared to benchmark rates.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+Oregon Short-Term Fund Performance
+Actual
+0.48%
+-0.76%
+3.64%
+5.88%
+Target
+0.12%
+0.12%
+0.12%
+2.50%
+How Are We Doing
+2024 APPR Treasury-Wide Note: Nine of Treasury’s ten KPMs were newly established in the 2021-23 biennium, and accordingly there are no historical actuals or targets for the KPM in
+the 2020 column.
+Investment division staff work to manage the investments of the fund to preserve the principal in the fund, provide liquidity to participants and return yields above what would typically be obtained if the
+state and local governments were purchasing money market investments.
+The goal of KPM #2B is to provide investment returns and banking services that are cost-efficient compared to external sources. The Oregon Investment Council (OIC) determines the OSTF
+benchmark. Meeting or beating that benchmark, net of fees, is one of the fund's objectives, along with principal preservation and providing liquidity. For fiscal year 2024, OSTF's investment
+performance exceeded its 91-Day Treasury Bills benchmark (5.88% vs. 5.40%).
+Factors Affecting Results
+Fund investments with original maturities greater than three months are marked-to-market monthly; therefore, interest rate and credit risks affect OSTF investment performance. The Federal Reserve
+has continued the tightening campaign in an effort to contain inflation by raising the Federal Funds rate four times in 2023 to a current target of 5.50%, increasing by 25 basis points at four of the five
+Federal Open Market Committee meetings with no action at their June 2023 meeting. This brings the Fed’s total number of increases to eleven since March 2022, raising the Federal Funds rate by a
+total of 525 basis points. This has been beneficial to the OSTF as the rate paid to participants has continued to follow the upward trajectory of short-term interest rates such as Federal Funds, 3-Month
+Treasury Bills and 2-Year Treasury Notes.
+actual target
+KPM #3
+Local Government Participation in the Oregon Short-Term Fund - Annual change in the participation of local governments in the Oregon Short-Term Fund.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+Local Government Participation in the Oregon Short-Term Fund
+Actual
+0.58%
+0.87%
+1.05%
+2.37%
+Target
+0%
+0%
+0%
+0%
+How Are We Doing
+2024 APPR Treasury-Wide Note: Nine of Treasury’s ten KPMs were newly established in the 2021-23 biennium, and accordingly there are no historical actuals or targets for the KPM in
+the 2020 column.
+Treasury helps governments across the state, including schools and cities and counties, to stretch taxpayer dollars. Between the time that revenue is received and when the money is needed to pay
+expenses, governments can deposit money and earn a rate of return by accessing the Treasury-managed Oregon Short Term Fund (OSTF) through the Local Government Investment Pool. Any
+municipality, political subdivision, or public corporation of this state that by law is made the custodian of, or has control of, any public funds may participate in the pool. Sovereign Tribes are also
+eligible to participate.
+The purpose of KPM 3 is to monitor changes in the number of governments that choose to participate in the pool since local and tribal governments can choose among various statutorily authorized
+investment options. Because the pool has been operating for several decades, and because the pool is used to distribute various taxes and revenues, most eligible governments participate.
+Accordingly, Treasury’s target is to see no more than minimal change in the number of governments participating. The KPM is calculated as a year-over-year percentage change in the total number of
+governments participating in the pool.
+In 2024, we achieved our target of no more than minimal change with a 2.37% increase in the total number of governments participating in the pool.
+Factors Affecting Results
+actual target
+Several factors impact governments’ investment decisions, including budget size, cash flow needs, moneys available for investment, financial goals and priorities, and risk tolerance. Participation in
+the pool also can be impacted by governments’ satisfaction with Treasury services. Treasury’s strategy is to offer an attractive short-term investment option with a strong emphasis on customer service
+and a competitive rate of return.
+KPM #4
+Tax-exempt general obligation bond interest rates. - Average interest rate on tax-exempt general obligation bonds issued as compared to targets.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2020
+2021
+2022
+2023
+2024
+Oregon Debt Activity
+Actual
+2.10%
+3.35%
+3.87%
+4.01%
+Target
+4.50%
+4.50%
+4.50%
+5.50%
+How Are We Doing
+2024 APPR Treasury-Wide Note: Nine of Treasury’s ten KPMs were newly established in the 2021-23 biennium, and accordingly there are no historical actuals or targets for the KPM in
+the 2020 column.
+Tax-exempt general obligation bonds issued during the fiscal year July 1, 2023 to June 30, 2024 had an approximate all-in interest cost under 4.01%.
+Debt Management remains proud of the 4.01% KPM, as strategies were employed in each financing to actively minimize the long-term interest cost to the State. Some of these strategies include
+moving bonds up and down the yield curve, where rates were lower and investor demand was high. These strategies resulted in tangible economic savings for the State that is represented in a lower
+interest cost and lower debt service as well as preservation of debt capacity for future issuance.
+Factors Affecting Results
+Interest rates are determined by a combination of macroeconomic factors, volatility in the financial markets, interest rate policy by the Federal Reserve, fiscal actions by and policies of the Federal
+Government, exogenous factors (Geo-political risks, pandemics, natural disasters), the State’s underlying credit metrics and ratings and the structure of the State’s Bonds.
+Oregon has historically structured its bonds using conservative financing tools such as fixed rate bonds. Further, the State’s financial practices have resulted in high credit ratings. In 2021, the State
+benefitted from record low interest rates and significant easing by the Federal Reserve which caused both tax-exempt and taxable rates to hover near historical lows. The Federal Reserve continued
+an aggressive tight money policy, in its effort to curb inflation by raising the Fed Funds rate by a combined 525 basis points from January 2022 through June 30, 2024, after no rate action since the 0%
+actual target
+target set in March 2020.
+It should be noted that the KPM of 4.01% represents bonds that were issued during the fiscal year July 1, 2023 to June 30, 2024 at a time of market volatility and when the Federal Reserve continued
+to maintain a high interest rate environment.
+Methodology Used
+Treasury's KPM #4 for the Debt Management Division (DMD) is a duration weighted average of the all-in interest cost (yield to maturity of the bonds issued factoring in 1) premium received on
+issuance of higher coupon bonds, the cost of issuing the debt, and the fees paid to underwriters) for all tax-exempt general obligation bonds issued by State agencies for the State capital programs
+and subject to the Bond Bill in effect. For FY 2024, the State issued approximately $609 million in tax-exempt general obligation bonds for State agencies for a consolidated all-in interest cost 4.01%
+and an aggregate average life of 9.57% years.
+KPM #5
+Percentage of eligible Oregonians with a College Savings Account - The total number of 529 college savings accounts as a percentage of the total eligible population in Oregon compared to
+the national average.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+529 College Savings Account Penetration Rate
+Actual
+5%
+12.10%
+12.50%
+12.50%
+Target
+4.10%
+4.10%
+4.10%
+10%
+How Are We Doing
+2024 APPR Treasury-Wide Note: Nine of Treasury’s ten KPMs were newly established in the 2021-23 biennium, and accordingly there are no historical actuals or targets for the KPM in
+the 2020 column.
+The 529 College Savings Program was established to assist Oregonians in their efforts to receive post-secondary education. The public policy goal of increasing attendance is met most significantly
+not by account value, but by having an account. Students with an account are 300% more likely to attend college than those without. The KPM measures how well the program is doing in its efforts to
+help eligible Oregonians have an account compared to national averages.
+The College Savings Program consultant prepares a quarterly report for the 529 board that includes the reference data showing the total number of accounts divided by the total eligible population
+compared to the national average. This is reported to the board as the ‘Account Penetration Rate.’ Since the APPR report is due in October of each year, the prior calendar year end results are
+reported. As there is a national average reported to the board, it was determined that this provides the most effective benchmark. However, the data is reported after the period, so the most recent
+calendar year national average would be used as the target for the next two periods. Historically Oregon has outperformed the national average. Although there was an increase in the account
+penetration rate between the first and second years of reporting, it is not as drastic as it seems. The first year the account penetration rate was presented for the direct-sold Oregon College Savings
+Plan only. The second year, advisor-sold MFS 529 Savings Plan was also included to ensure a full picture of the college savings program participation was captured. As of 12/31/2023, we’re seeing
+the penetration rate holding steady at 12.5%. As these programs have matured, we have participants spending down balances as their beneficiaries attend post-secondary education, which is the
+design of the plan which will naturally keep the penetration rate from dramatic growth given the role of the plan and age the funds are spent down.
+actual target
+Factors Affecting Results
+The economy, financial markets, and Oregonians’ confidence in their financial security can affect overall results.
+KPM #6A
+Unclaimed Property Disbursements - Percentage of total unclaimed property returned to owners and/or heirs compared to total amount received.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+Unclaimed Property Disbursements
+Actual
+35%
+34%
+29%
+39%
+Target
+50%
+50%
+50%
+50%
+How Are We Doing
+2024 APPR Treasury-Wide Note: Nine of Treasury’s ten KPMs were newly established in the 2021-23 biennium, and accordingly there are no historical actuals or targets for the KPM in
+the 2020 column.
+The purpose of KPM #6A is to measure the cumulative rate of return for unclaimed property funds received by Treasury during the current time period, defined in audited financial statements as the
+“rolling 5-year period for property reported between July 1 of the fiscal year not less than 5 years prior and June 30 of the current fiscal year.” For the 2024 APPR reporting period, that translates to
+funds received in FY2020 and claims paid during the rolling 5-year period between FY2020 and FY2024.
+This measure is an indicator of the program’s success in returning unclaimed property funds received over an extended period of time to the rightful owners, and how that is changing over time based
+on improved processes, staffing, etc. – with an expectation for some natural volatility that is outside the control of the program.
+For the current reporting period, the program received almost $80 million in unclaimed property and has so far returned about $23 million of those funds, or 39%. This shows an improvement over the
+last three reporting periods, and over time, we expect the overall rate of return to reach the target of 50%.
+Factors Affecting Results
+As the claim period is based on the last five years, there are multiple reporting periods active at a time and impact each other. Our rate is below our target for the following reasons:
+Record receipts
+. The $138.6 million we took in FY2024 represented a significant jump of 26% from FY2023. We returned about the same amount as in previous years, but the substantive increase in
+actual target
+unclaimed property received exceeded our claims approval capacity. We are on track for similar increases in dollars reported in the future.
+Low staffing
+. The program had been understaffed for years at DSL with staffing not keeping up with the increase in unclaimed property growth. OST was able to add 1 FTE dedicated to claims
+approval in the fall of 2021. Once the person was trained and able to operate at full capacity, our overall claims output increased. For example, the overall funds returned to owners grew from in $35.5
+million in FY2022 to $58.7 million in FY2024. This significant jump cannot solely be attributed to the addition of one staff member. OST outsourced its call services to a private contractor, which
+allowed each staff member to dedicate about 35% of their time to claims approval. Furthermore, OST performed a large data match that allowed it to return about $11 million to owners without the
+need for manually approving claims.
+Staffing changes
+. A few staffing changes at the program level resulted in new claims examiners joining the team. The program has a lengthy training process that can last up to six months. During
+this period, new staff focus on claims of smaller value and gradually approve larger claims as they become more experienced. This was the case in FY2021 and FY2022, as the team on-boarded new
+people. That increased focus on lower-level work during the on-boarding process brought down the return rate due to the claims the person was qualified to process.
+KPM #6B
+Unclaimed Property Claim Response Time - Average number of days to respond to Unclaimed Property claims as compared to statutory maximum.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2020
+2021
+2022
+2023
+2024
+Unclaimed Property Claims
+Actual
+Target
+How Are We Doing
+2024 APPR Treasury-Wide Note: Nine of Treasury’s ten KPMs were newly established in the 2021-23 biennium, and accordingly there are no historical actuals or targets for the KPM in
+the 2020 column.
+The Unclaimed Property program aims to respond to claims within 120 days of receipt, as established in ORS 98.402. During FY2023, the average response timeline was around 192 days, which is a
+4-month decrease from the 316 days in FY2022. Our program experienced another decrease of 2-months down to 128 days during FY2024. The program is on an upward trend for this KPM. In July
+2022, our approval timeline was 335 days, and we ended FY2024 at 128 days.
+The last time the program operated below the 120-day response target was in 2017.
+Factors Affecting Results
+There are two reasons for our progress:
+Contracting phone services
+. On May 1st, 2022, with the support of staff and the union, OST outsourced unclaimed property call services. Claims examiners spent about 35% of their time answering
+customer calls, most of which were general in nature and did not advance claims approval. Since May 2022, the team gained 20-30 days in claims approval for every month of calls being outsourced.
+Almost all the decrease during FY2023 and FY2024 can be attributed to claims examiners being off the phone and focusing exclusively on claims approval. We don’t expect additional gains from
+contracting phone services, but not continuing our contract would quickly negate the progress we’ve made since 2022.
+actual target
+Increased staffing levels
+. Prior to its transfer to OST, the program had been operating with the same number of staff for about 10 years, despite claims more than doubling during that time.  In June
+2021 the program received an additional full time equivalent claims examiner. OST filled the position in fall 2021 and once the person was trained, the program was able to see improvement. Some of
+the progress made in FY2023 is due to having one more fully trained person able to approve claims.
+We haven’t reached our targe response rate yet due to the following reasons:
+Record receipts
+. The program has been receiving more unclaimed property every year leading to a corresponding increase in claims filed. From 2006 through 2022, receipts averaged a 10% yearly
+increase. Since the transition, annual increases have been between 20% and 40%, a significant increase from prior periods. Claims and receipts are directly correlated; thus, the more unclaimed
+property we receive, the more claims are filed by property owners seeking to recover their assets.
+Increased publicity
+. Local and national news took a higher interest in unclaimed property during FY2024. There were several TV and newspaper stories promoting unclaimed property, which resulted
+in more claims being filed during FY2024.
+KPM #7
+Adherence to Board Best Practices - Percent of total best practices met by the Oregon 529 Savings Board and Oregon Retirement Savings Board.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+Adherence to Board Best Practices
+Actual
+89%
+89%
+100%
+100%
+Target
+100%
+100%
+100%
+100%
+How Are We Doing
+2024 APPR Treasury-Wide Note: Nine of Treasury’s ten KPMs were newly established in the 2021-23 biennium, and accordingly there are no historical actuals or targets for the KPM in
+the 2020 column.
+As part of a statewide effort, a set of nine board best practices was developed for the Oregon Treasury Savings Network boards -the Oregon 529 Savings Board and the Oregon Retirement Savings
+Board. Each board undertakes a self-evaluation annually, rating each practice on a scale from 1-5.
+A score of:
+1 means we did not meet that best practice
+2 means we partially met that best practice
+3 means we mostly met that best practice
+4 means we met that best practice
+5 means we exceeded that best practice
+For each item, if the board member average was either 4 (meets best practice) or 5 (exceeds best practice), it would be reported as adhering to the practice. The self-evaluations were created in
+Microsoft Forms and distributed to each board.
+The results for 2024 broken down by Board and Best Practice were as follows:
+actual target
+ #
+Best Practice
+ORSB
+Average
+Meets
+The Board is updated on a regular basis
+4.7
+4.7
+4.7
+Yes
+The Board's mission and high-level goals are current and applicable
+5.0
+4.7
+4.9
+Yes
+The Board reviews the Quarterly Data Performance Report
+5.0
+4.7
+4.9
+Yes
+The Board is informed of rule and policy-making activities
+4.5
+4.0
+4.3
+Yes
+The Board is presented the plans' annual audit
+4.8
+4.7
+4.8
+Yes
+The Board reviews key investment information
+5.0
+5.0
+5.0
+Yes
+The Board members attend appropriate training sessions
+4.8
+4.3
+4.6
+Yes
+The Board reviews best practices
+4.5
+4.7
+4.6
+Yes
+Board meeting materials are available one week prior to the meeting
+4.7
+4.3
+4.5
+Yes
+Average of All Best Practices Responses
+4.8
+4.6
+4.7
+9 of 9 Best Practices Met for 2024 Reporting Period =
+100%
+The target for this KPM was set at 100% as a best practices goal, and under the circumstances described in the next section, the results with 100% of Best Practices met for this KPM were positive.
+Program staff will utilize the individual trends of the Best Practices results to refine efforts in the upcoming reporting period to further improve the underlying averages of Best Practices met.
+Factors Affecting Results
+The most notable change in 2024 was the welcoming of new Oregon 529 Savings Board members in 2024. Given the new Board members and timing of the survey, we added an additional field of
+N/A to the Oregon 529 Board Survey this year to allow for an N/A to be selected when Board members don't feel they have enough experience to score the best practice. Scores of N/A were not used
+in the final KPM averages reported.
+For both the Oregon 529 Savings Board and Oregon Retirement Savings Board a majority of the members responded to the survey. To date, the survey is given to the Board members in November,
+which presents a challenge in ensuring full Board participation. Going forward, this survey will now be given following the August Board Meetings, to provide a longer duration for completion.
+KPM #8
+Customer Service
+- Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness,
+expertise and availability of information.
+Data Collection Period: Jan 01
+- Dec 31
+Report Year
+2020
+2021
+2022
+2023
+2024
+Accuracy
+Actual
+90%
+88.40%
+Target
+100%
+100%
+100%
+Timeliness
+Actual
+88%
+74.80%
+Target
+100%
+100%
+100%
+Availability of Information
+Actual
+64%
+82.70%
+Target
+100%
+100%
+100%
+Expertise
+Actual
+84%
+77.20%
+Target
+100%
+100%
+100%
+Helpfulness
+Actual
+83%
+75.40%
+Target
+100%
+100%
+100%
+Overall
+Actual
+84%
+82.10%
+Target
+100%
+100%
+100%
+How Are We Doing
+actual target
+The goal of KPM 11 is to maintain a high level of customer satisfaction. Targets have been established at the 100% level in all categories. While this may not be possible, the target offers stretch goals
+for the agency.
+Surveys associated with this KPM are only conducted in odd-numbered years, and accordingly Treasury is not scheduled to report on this KPM for the 2024 APPR, and the next regularly scheduled
+report will be provided in the 2025 APPR.
+Factors Affecting Results
+OST utilizes these surveys in the strategic planning process and reinforces with employees the need to provide excellent customer service.

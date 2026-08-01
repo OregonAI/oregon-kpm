@@ -1,0 +1,594 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-dlcd-2024
+title: Department of Land Conservation and Development — Annual Performance Progress Report, Reporting
+  Year 2024
+doc_type: performance_report
+citation: APPR DLCD 2024
+authority_level: agency_report
+issuing_body: Department of Land Conservation and Development
+agency: Department of Land Conservation and Development
+agency_code: DLCD
+reporting_year: '2024'
+year_source: document
+filename_year: '2024'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_DLCD_2024.pdf
+source_filename: APPR_DLCD_2024.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 6a5596c711188e4db602b5a48c5f05b5907aa4e63d878c4818b91940470f71fd
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2024
+---
+
+## At a glance
+
+**APPR DLCD 2024** — Department of Land Conservation and Development, Reporting Year 2024
+
+- Agency: Department of Land Conservation and Development
+- Reporting year: 2024 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_DLCD_2024.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Department of Land Conservation and Development
+Annual Performance Progress Report
+Reporting Year 2024
+Published: 12/18/2024 10:14:45 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+EMPLOYMENT LAND SUPPLY - Percent of cities that have an adequate supply of land for industrial and other employment needs to implement their local economic development plan.
+HOUSING LAND SUPPLY - Percent of cities that have an adequate supply of buildable residential land to meet housing needs.
+PUBLIC FACILITIES PLANS
+- Percent of cities that have updated the local plan to include reasonable cost estimates and funding plans for sewer and water systems.
+TRANSIT SUPPORTIVE LAND USE - Percent of urban areas with a population greater than 25,000 that have adopted transit supportive land use regulations.
+TRANSPORTATION FACILITIES - Percent of urban areas that have updated the local plan to include reasonable cost estimates and funding plans for transportation facilities.
+URBAN GROWTH BOUNDARY EXPANSION
+- Percent of land added to urban growth boundaries that is not farm or forest land.
+GRANT AWARDS - Percent of local grants awarded to local governments within two months after receiving application.
+CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+BEST PRACTICES - Percent of total best practices met by the Board.
+FARM LAND - Percent of farm land zoned for exclusive farm use in 1987 that retains that zoning.
+Accounts for the conversion of EFU lands resulting from expansion of urban growth boundaries and changes in zoning.
+FOREST LAND - Percent of forest land zoned for forest or mixed farm/forest use in 1987 that remains zoned for those uses. Accounts for the conversion of forest lands resulting from expansion of urban growth boundaries and changes in zoning.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+81.82%
+18.18%
+0%
+red
+green
+yellow
+KPM #1
+EMPLOYMENT LAND SUPPLY - Percent of cities that have an adequate supply of land for industrial and other employment needs to implement their local economic development plan.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+EMPLOYMENT LAND SUPPLY
+Actual
+73%
+74%
+70%
+74%
+72%
+Target
+75%
+75%
+75%
+75%
+75%
+How Are We Doing
+This measure tracks the percentage of cities with a population over 10,000 that have updated their land use plans in the past ten years in order to provide a 20-year supply of land for employment-
+related uses. Planning and zoning a sufficient amount of commercial and industrial land, based on up-to-date Economic Opportunities Analyses (EOAs), helps ensure that enough land of the right type
+and amount is available for the development of employment uses in a community.
+For the 2024 report year, 72 percent of cities have updated land use plans within the previous 10 years. This represents a slight decrease from the 2023 report, with 74 percent of cities in compliance.
+Results are slightly below the 75 percent target.
+Cities in the Metro region are considered compliant based on the Metro regional economic forecast and Urban Growth Boundary expansion process. Of cities outside of the Metro urban growth
+boundary, only one city fell out of compliance during the past year. While no new cities passed the population threshold of 10,000 during this fiscal year, several are expected to pass the ten-year mark
+in coming years. To address this deficiency, department staff have prioritized funding for EOAs that are out of compliance during the current grant cycle.
+Factors Affecting Results
+A rapidly growing number of Oregon cities have or will soon surpass the 10,000 resident population reporting threshold. Of eight cities that are recently included in the baseline for this KPM, only three
+have engaged in long range employment lands planning recently enough to be compliant by this metric. Smaller cities have fewer resources and less capacity to take on long-range planning projects.
+Without support, the first time they are included in this metric, they may be out of compliance.
+The second factor influencing the decline in compliance is a general lack of capacity at the local level to contribute towards long range employment lands planning. Many cities lack staff capacity and
+consulting resources to prioritize EOA projects among other planning demands, especially given the current emphasis on planning for residential lands to meet housing need among other state and
+local priorities.
+DLCD has awarded technical assistance grants to all cities above 10,000 population who have requested assistance during the current grant cycle. DLCD has also helped smaller cities with their
+requests, although requested funds have outstripped available funds by 3:1.  Although funding this local work is critical to economic growth among jurisdictions below 10,000 population, it is not
+included in this measure.
+KPM #2
+HOUSING LAND SUPPLY - Percent of cities that have an adequate supply of buildable residential land to meet housing needs.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+HOUSING LAND SUPPLY
+Actual
+80%
+62%
+67%
+84%
+88%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+This measure tracks the percentage of cities with a population over 10,000 that have completed a major update of their local land use plans to continue to provide a 20-year supply of buildable
+residential land within the city’s urban growth boundary (UGB). Planning and zoning a sufficient amount of land, based on up-to-date housing capacity analysis (HCA, but sometimes referred to as a
+“housing needs analysis,” or HNA), helps ensure that enough land is available for construction of new housing at various price ranges and rent levels in these communities. Residential land supply is
+one factor that directly affects a city’s ability to provide for affordable housing needs.
+For the 2024 report year, 88 percent of subject cities meet the standard, which is an improvement from the 2023 report, with 84 percent of subject cities in compliance. However, progress is just shy of
+the 90 percent target.
+Factors Affecting Results
+Cities within the Portland Metro UGB are in compliance with this target due to the work of the Metro regional government. Metro adopts an urban growth report as required every six years. Metro relies
+on updated land inventory and development information from the local governments within the shared urban growth boundary, and expands its UGB accordingly. HB 2001 (2023), sometimes referred
+to as the Oregon Housing Needs Analysis (OHNA) bill, has introduced new requirements for cities considering updates to their Housing Capacity Analyses. Among other requirements, the OHNA bill
+includes direction to the department to develop administrative rules to implement a new system for how cities are to accommodate their housing needs over time. Some cities have chosen to delay
+development and adoption of updated HCAs to obtain more certainty regarding what the OHNA bill and implementing regulations will require. Full implementation of the OHNA will move cities towards
+100 compliance in the future.
+One of the most significant barriers to more frequent HNA updates is the lack of staff capacity and financial resources for the work at the local level. HNA’s are highly technical documents, which are
+typically prepared with assistance from consultant experts. A typical HNA can cost $50,000 - $100,000. Much of the improved performance on this measure can be attributed to the additional funding
+provided by the legislature in recent years.
+Another challenge is the requirement for a city to address any identified deficit of land necessary to accommodate needed housing concurrent with adoption of the HNA. One example is the City of
+Salem, where a 2015 HNA identified a deficit of 207 acres of land for multifamily housing. While the City of Salem addressed the identified housing need deficit with comprehensive plan amendments
+associated with the “Our Salem” project in 2022, the need to find this land supply delayed the City’s adoption of the HNA for approximately seven years.
+KPM #3
+PUBLIC FACILITIES PLANS
+- Percent of cities that have updated the local plan to include reasonable cost estimates and funding plans for sewer and water systems.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+PUBLIC FACILITIES PLANS
+Actual
+80%
+74%
+72%
+81%
+84%
+Target
+80%
+80%
+80%
+80%
+80%
+How Are We Doing
+This measure tracks the percentage of cities with a population over 10,000 that have completed an update within the last ten years of their local plans for water, stormwater, or sewer system facilities
+needed to serve future land development within the urban growth boundary (UGB). Water, stormwater, and sewer are the three public facilities that all cities include in their master plans. When
+complete, these plans include cost estimates and funding plans. Planning for the timely provision of public facilities is a prerequisite for urban development, allowing for the development of affordable
+housing and market-ready industrial sites, among other uses.
+For the 2024 report year, 84 percent of subject cities met the standard, which marks further improvement from the 81 percent of cities in the 2023 report year. Results are exceeding the 80 percent
+target.
+Factors Affecting Results
+Evolving federal regulations and legal opinions regarding water quality standards have compelled some recent master plan updates to address new requirements. Stormwater master plans are
+mandated in order to meet federal clean water standards, and thus cities have strong incentives to prepare and adopt such plans. Additionally, cities experiencing significant growth must plan for
+infrastructure expansions to serve growth in underserved or new areas. State grant funds, while limited, are available for public facilities plans, while water and sewer master plans often have
+independent funding sources derived from utility rates and systems development charges that allow for preparation and adoption of these plans. Passage of HB 2001 in 2023 has provided additional
+department staff and funding resources to support infrastructure plan updates that will support housing development in the 2023-2025 biennium.
+Cities face a number of barriers in meeting the standard of this measure. Public facilities master plans are sometimes adopted by resolution by local governments, which does not require a
+comprehensive plan amendment process. This can subject the adopted plan to legal challenge as a land use decision. Some cities receive utility services from special districts, private service
+providers, or regional service providers, and thus have less incentive to complete public facilities plans for the area within the city boundaries. Historically, state grant funds for periodic review of
+comprehensive plans have not covered all qualified and needed local projects. Additionally, cities that are not experiencing significant growth can expect limited collection of systems development
+charges that could support necessary infrastructure plans and improvements. To fund this work would place the funding burden on existing ratepayers with limited financial capacity.
+KPM #5
+TRANSIT SUPPORTIVE LAND USE - Percent of urban areas with a population greater than 25,000 that have adopted transit supportive land use regulations.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+TRANSIT SUPPORTIVE LAND USE
+Actual
+85%
+83%
+82%
+82%
+80%
+Target
+91%
+90%
+90%
+90%
+90%
+How Are We Doing
+This performance measure documents whether cities and counties in metropolitan areas or other larger cities have adopted transit-supportive development regulations where land use and public
+transit systems are integrated and mutually supportive. Transit-supportive development regulations are necessary to allow development at levels adequate to support transit service and to ensure that
+pedestrian and transit facilities are provided as part of new developments.
+For the 2024 report year, 80 percent of urban areas met the standard, down from 82 percent in 2023. The target is 90 percent. Motivated cities and counties with sufficient staff capacity have already
+adopted transit-supportive development regulations. Moving forward, the targets are increasingly difficult to meet on a voluntary basis.
+Factors Affecting Results
+Factors that continue to make progress difficult include limited funding to update plans, the complexity and controversy often associated with planning for transit supportive land uses, and limited
+public understanding of transit and related development regulations. In 2022, the Land Conservation and Development Commission amended the Transportation Planning Rules (Oregon
+Administrative Rules, chapter 660, division 12) to increase the requirements for local transportation planning in metropolitan areas. These will require many cities and counties in metropolitan areas to
+update their transportation plans over the next six years, which will likely bring them into compliance with this metric.
+Most cities and counties have not had funding or planning staff to make significant changes in their development regulations from year to year. Previously, DLCD provided grants for periodic review of
+comprehensive plans and development regulations. Those grant funds are significantly reduced and no longer support periodic review. The level of compliance has flattened accordingly. The Oregon
+Department of Transportation (ODOT) is planning to provide funding to many cities and counties within metropolitan areas to update their transportation system plans to comply with the Transportation
+Planning Rules adopted in 2022. This funding will help many of the remaining cities and counties who are not yet meeting this metric to come into compliance.
+KPM #6
+TRANSPORTATION FACILITIES - Percent of urban areas that have updated the local plan to include reasonable cost estimates and funding plans for transportation facilities.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+TRANSPORTATION FACILITIES
+Actual
+92%
+92%
+93%
+94%
+93%
+Target
+92%
+92%
+92%
+92%
+92%
+How Are We Doing
+This measure indicates the percentage of cities with a population over 2,500 that have an acknowledged Transportation System Plan (TSP), as required by Transportation Planning Rules (OAR
+chapter 660, division 12) and Statewide Planning Goal 12. These TSPs address transportation facilities and services, including pedestrian, bicycle, public transportation, roads, streets, and highways.
+TSPs guide local and state efforts to improve transportation facilities and services.
+While most subject cities have adopted Transportation System Plans; no additional cities have adopted a TSP during the past year. For the 2024 report, there are 101 cities (93 percent) with a
+population above 2,500 that have acknowledged TSPs and eight cities with a population above 2,500 that do not. The target is 90 percent. 2024 results are down slightly from 94 percent in 2023; this
+is because one additional city, Myrtle Point, became a subject city for this measure during the past year.
+Factors Affecting Results
+There are very few cities that have not already adopted a TSP. Most of the remaining cities are small, with less than 4,000 in population. For these cities, the barriers are a lack of funding and a lack of
+staff for transportation planning.
+KPM #9
+URBAN GROWTH BOUNDARY EXPANSION
+- Percent of land added to urban growth boundaries that is not farm or forest land.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+URBAN GROWTH BOUNDARY EXPANSION
+Actual
+48%
+0%
+23%
+85%
+65%
+Target
+55%
+55%
+55%
+55%
+55%
+How Are We Doing
+The use of Urban Growth Boundaries (UGBs), and the review process for UGB expansion, helps to preserve Oregon’s agriculture, forest, and open space, and control urban sprawl. This measure
+documents the percentage of land added to UGBs annually that was not previously zoned exclusive farm, forest, or mixed farm-forest. In this KPM, higher percentages are better, representing land
+that is zoned as rural residential, rural commercial, rural industrial, or non-resource land. By contrast, bringing land into UGBs that is zoned as farm or forest land represents the loss of working lands
+that are contributing to the state’s economic or ecological health.
+For the 2024 report year, the target was met with 65 percent of lands added to UGBs were not previously zoned as farm or forest land.
+Factors Affecting Results
+Performance on this measure can vary widely from year to year and is heavily influenced by larger UGB expansions. The number of UGB expansions, the quantity of resource land designated as
+urban reserve, and the previous zoning of lands included in the expansion have potential to vary considerably from year to year.
+The 10-year average for this KPM has been very slightly below target.  Since 2014, 53 percent of lands added to UGBs have come from lands that are not zoned farm, forest, or mixed farm/forest.
+Adopting a KPM based on average performance over a 10-year period would provide a more accurate assessment of statewide performance in this area.
+For future consideration, DLCD would recommend changing this metric to capture the frequency with which farmland is lost to an “urban reserve” designation. Urban reserves are marked as the next
+lands scheduled to come into the UGB. This designation staves off speculation and ensures an orderly transition from rural to urban uses. However, farm and forest lands that are designated as urban
+reserves retain their farm and forest zoning in the meantime, muddying KPM #9.
+KPM #10
+GRANT AWARDS - Percent of local grants awarded to local governments within two months after receiving application.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+GRANT AWARDS
+Actual
+0%
+100%
+100%
+Target
+100%
+100%
+100%
+How Are We Doing
+The measure tracks Technical Assistance (TA) and Periodic Review (PR) grant awards made by DLCD. These competitive grant applications are awarded on a biennial basis, so this measure is
+reported on every two years. The strategy is to ensure that grantees are awarded the funds early enough in the biennium that they have adequate time to complete the project, including any delays.
+During this reporting period, the measure target was met with 100 percent of applicants getting a response within 60 days. DLCD consistently receives technical assistance applications from local
+jurisdictions that oversubscribe the biennial funding available for this grant program. For the 2023-2025 biennium, DLCD received 49 grant applications totaling $3,307,000. DLCD was able to fund 20
+of these 49 grants, many at a reduced amount from what was requested with the department’s technical assistance grant fund of $913,000. This means that just 41 percent of applicants were awarded
+funding at some level, while in terms of dollars, approximately one quarter of the need from local jurisdictions was funded.
+Factors Affecting Results
+The department must review all applications once received in an efficient process, which requires coordination with the department’s nine regional representatives and specialists. The department has
+a streamlined system for review of applications based upon criteria set by the department with advice from the Grants Advisory Committee.
+KPM #11
+CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall customer service, timeliness, accuracy,
+helpfulness, expertise and availability of information.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2020
+2021
+2022
+2023
+2024
+Timeliness
+Actual
+80%
+80%
+78%
+77%
+Target
+83%
+90%
+90%
+90%
+Accuracy
+Actual
+79%
+79%
+81%
+80%
+Target
+83%
+90%
+90%
+90%
+Availability of Information
+Actual
+75%
+75%
+73%
+78%
+Target
+83%
+90%
+90%
+90%
+Overall
+Actual
+81%
+81%
+80%
+82%
+Target
+83%
+90%
+90%
+90%
+Helpfulness
+Actual
+82%
+82%
+83%
+85%
+Target
+83%
+90%
+90%
+90%
+Expertise
+Actual
+86%
+86%
+86%
+87%
+Target
+83%
+90%
+90%
+90%
+How Are We Doing
+DLCD sent the customer service survey to 1,046 recipients directly involved with DLCD’s programmatic and policy development work, including rules advisory committee members, grantees, partners,
+and more. The department received 157 responses with a 15 percent response rate. Ninety-four percent of survey respondents reported interacting with the agency in the past two years. Almost 70
+percent of survey respondents interact with the agency once a month or more frequently. There were 191 survey responses in 2022 and 157 in 2024, with a consistent 15 percent response rate for
+both surveys. Please note: the customer service survey is performed once every two years, and this measure is reported on every two years.
+Generally, survey respondents were slightly more satisfied with DLCD customer service in 2024 than in 2022. Survey results showed increases in DLCD employee helpfulness, knowledge, expertise,
+and overall service quality. While still below the target of 90 percent, availability of information increased in customer satisfaction by five percent from 73 percent to 78 percent. This is likely due to the
+addition of new communications staff members in mid-2024, increasing the team from 0.5 to 2.5 FTE. Decreases of about one percent were seen in survey results related to DLCD’s timeliness of
+service, and ability to provide services correctly the first time. While DLCD did not meet the 90 percent targets for any of the surveyed metrics, “Employee knowledge and expertise” is the closest
+metric to meeting the target at 87 percent.
+Factors Affecting Results
+The statutory mission of the agency is broad and challenging to support at times. Local governments are also in a resource constrained environment and consistently seek support through technical
+assistance and grant funding from DLCD. Recent legislation has created a host of new requirements of both state and local governments. Given the significant changes in state policy and work
+needed to implement that policy at the local level, staff strain to keep up with demand. Limited staff communications capacity, increased legislative rulemaking assignments, insufficient main office and
+regional staffing, and minimal staff redundancy have led to slower information sharing and frustration among local planning staff and other interested parties.
+Despite these challenges, DLCD is proud of its work and remains committed to continually improving our service to Oregon. SB 1537 (2024) is adding capacity for staff to support requests for
+information and assistance at the local level. As staff fill these positions, the department anticipates improvement in timely responsiveness and quality of support.
+KPM #12
+BEST PRACTICES - Percent of total best practices met by the Board.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+BEST PRACTICES
+Actual
+98%
+100%
+100%
+100%
+100%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+The 2007 Legislature approved a Statewide Best Practices Measure. Certain boards and commissions are required to report on their ability to meet established criteria annually. Each member of
+LCDC rates the commission against 15 best practices criteria established by the Department of Administrative Services and the Legislative Fiscal Office. The best practices measured are:
+.
+Executive Director’s performance expectations are current.
+.
+Executive Director receives annual performance feedback.
+.
+The agency’s mission and high-level goals are current and applicable.
+.
+The board reviews the Annual Performance Progress Report.
+.
+The board is appropriately involved in review of agency’s key communications.
+.
+The board is appropriately involved in policy-making activities.
+.
+The agency’s policy option packages are aligned with their mission and goals.
+.
+The board reviews all proposed budgets (likely occurs every other year).
+.
+The board periodically reviews key financial information and audit findings.
+.
+The board is appropriately accounting for resources.
+.
+The agency adheres to accounting rules and other relevant financial controls.
+.
+Board members act in accordance with their roles as public representatives.
+.
+The board coordinates with others where responsibilities and interests overlap.
+.
+The board members identify and attend appropriate training sessions.
+.
+The board reviews its management practices to ensure best practices are utilized
+For the 2024 report year, members of LCDC self-assessed that all best practices were met.
+Factors Affecting Results
+Department policies and workflows ensure appropriate commission review and/or oversight of department mission, communication, policymaking, budget development and financial reporting.
+KPM #13
+FARM LAND - Percent of farm land zoned for exclusive farm use in 1987 that retains that zoning.
+Accounts for the conversion of EFU lands resulting from expansion of urban growth
+boundaries and changes in zoning.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+Farm Land
+Actual
+99.80%
+99.76%
+99.75%
+99.73%
+99.73%
+Target
+90%
+99%
+99%
+99%
+99%
+How Are We Doing
+This measure documents how much land has been removed from protective exclusive farm use (EFU) zoning or added to urban growth boundaries (UGBs) during the previous year and since 1987.
+EFU zoning is supposed to limit the conversion of agricultural land to non-farm uses, which helps preserve a maximum amount of the limited supply of agricultural land.
+For the 2024 reporting year, 99.73 percent of land zoned EFU in 1987 was still officially zoned EFU. This measure accounts for removal of land from protective EFU zoning only and does
+not
+include
+conversion to other nonfarm uses legislatively permitted under EFU zoning, such as the conversion of agricultural lands to solar or other development. Detailed information on the type and level of
+development and land division activity that may occur on lands zoned for exclusive farm use is provided in DLCD’s biennial Farm and Forest report prepared in accordance with ORS 197.065.
+Factors Affecting Results
+The state’s agricultural land use policy as stated at ORS 215.243 includes the preservation of agricultural land in large blocks through the application of exclusive farm use zoning and also the goal of
+maintaining the agricultural economy of the state for the assurance of adequate and nutritious food for the people of the state and nation. Large blocks are important to maintain the critical mass of
+land, equipment, supplies, and labor required to keep agriculture viable. This measure offers only a partial insight into DLCD’s progress under this policy. Staff estimate that several times as much
+acreage is converted to nonfarm use within EFU zones as is rezoned out of EFU zones each year. The measure does not adequately describe the rate at which Oregon’s farmland is being carved up
+or legislatively converted to other uses such as solar power, utilities, mineral aggregate, dog training facilities, and more. Staff provide additional detail in the biennial Farm Forest Report.
+KPM #14
+FOREST LAND - Percent of forest land zoned for forest or mixed farm/forest use in 1987 that remains zoned for those uses. Accounts for the conversion of forest lands resulting from
+expansion of urban growth boundaries and changes in zoning.
+Data Collection Period: Jan 01
+- Jan 01
+* Upward Trend = positive result
+Report Year
+2020
+2021
+2022
+2023
+2024
+FOREST LAND
+Actual
+99.90%
+99.90%
+99.10%
+99.91%
+99.91%
+Target
+90%
+99%
+99%
+99%
+99%
+How Are We Doing
+KPM #14 documents how much land has been removed from forest and mixed farm-forest zoning and rezoned to non-resource rural zoning districts or added to urban growth boundaries (UGBs)
+during the previous years since 1987. Forest and mixed farm-forest zoning provides limits on the conversion of forest and agricultural land to non-resource uses. This helps maintain the forest land
+base and protect the forest economy by assuring that the continuous growing and harvesting of trees is the leading use of forest land.
+The 2024 report year shows that the state’s land use program continues to work well to maintain forest lands for commercial forest and other forest uses.  The target of maintaining 99 percent of the
+1987 forest land base under protective zoning designation continues to be met.
+Factors Affecting Results
+Land use decisions are subject to state statutes, planning goals, and rules. Statewide Planning Goal 4 (Forest Lands) calls for protecting forest land for the continuous growing and harvesting of trees.
+Local officials make decisions to include forest or mixed farm-forest zoned land in a zone change or urban growth boundary (UGB) expansion. Such decisions are subject to appeal, which helps
+ensure that land use decisions comply with applicable statutes and rules.
+In addition to zone changes and UGB expansions, land zoned forest or mixed farm-forest is also converted to non-forest uses that are allowed by statute or rule within a forest or mixed farm-forest
+zone or through development rights established by Measures 37 and 49. While this measure does not document those conversions, the department addresses these conversions in the biennial report
+to the legislature prepared pursuant to ORS 197.065. This measure offers only a partial assessment of the type or level of development and land division activity that may occur on lands zoned forest
+or mixed farm-forest. More acreage is lost through methods that do not require rezoning.

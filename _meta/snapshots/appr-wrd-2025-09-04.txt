@@ -1,0 +1,589 @@
+Water Resources Department
+Annual Performance Progress Report
+Reporting Year 2025
+Published: 9/4/2025 12:40:41 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+FLOW RESTORATION
+- Percent of watersheds that need flow restoration for fish that had a significant quantity of water put instream through WRD administered programs.
+PROTECTION OF INSTREAM WATER RIGHTS
+- Ratio of regulatory orders issued to protect senior water rights when the senior water right is an instream right to all regulatory orders issued to protect senior water rights.
+MONITOR COMPLIANCE
+- Percent of total regulatory actions that found water right holders in compliance with water rights and regulations.
+STREAM FLOW GAGING
+- Percent change from 2001 in the number of WRD operated or assisted gauging stations.
+ASSESSING GROUND WATER RESOURCES
+- Percent change from 2001 in the number of wells routinely monitored to assess ground water resources.
+EQUIP CITIZENS WITH INFORMATION
+- Number of times water management related data was accessed through the WRD's Internet site.
+NUMBER OF SIGNIFICANT DIVERSIONS WITH MEASUREMENT DEVICES INSTALLED
+- To fully implement the Water Resources Commission's 2000 Water Measurement Strategy
+PROMOTE EFFICIENCY IN WATER MANAGEMENT AND CONSERVATION PLAN REVIEWS
+- Percent of water management and conservation plans that received a preliminary review within 90 days of plan submittal.
+PROMOTE EFFICIENCY IN WATER RIGHT APPLICATION PROCESSING
+- Percent of water right applications that receive an initial review within 45 days of application filing.
+PROMOTE EFFICIENCY IN TRANSFER APPLICATION PROCESSING
+- Percent of transfer final orders issued within 120 days of application filing.
+INCREASE WATER USE REPORTING
+- the percent of water users with an annual water-use reporting requirement that have submitted their reports to the Department.
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent” in overall customer service, timeliness, accuracy, helpfulness, expertise, and availability of information.
+PROMOTE EFFICIENCY IN TEMPORARY TRANSFER APPLICATION PROCESSING
+- Percent of temporary transfer applications issued within 120 days of application filing.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+33.33%
+16.67%
+50%
+red
+green
+yellow
+KPM #1
+FLOW RESTORATION
+- Percent of watersheds that need flow restoration for fish that had a significant quantity of water put instream through WRD administered programs.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percent of Watersheds That Had Flows Added Where Needed for Fish
+Actual
+25%
+26%
+26%
+26%
+25%
+Target
+32%
+32%
+32%
+32%
+32%
+How Are We Doing
+During the 2025 reporting period, 25 percent of the 342 targeted high priority watersheds had flows added for fish. The percentage is similar to the prior four reporting years. The amount of water
+placed instream can fluctuate from year-to-year based on water user interest in leasing water instream and the location of water rights proposed for instream lease. Since this KPM was created in
+2002, the Department has permanently protected a total of 1561.788 cubic feet per second (cfs) water instream. This total is comprised of the following: 1) instream transfers at 428.12 cfs; 2)
+allocations of conserved water at 268.268 cfs; and 3) converted hydroelectric rights at 865.4 cfs. In 2024, an additional 4935.24 cfs was protected instream through temporary instream leases, with
+3871.30 cfs protected from leases involved with water rights for hydroelectric power generation.
+Factors Affecting Results
+The 2025 reporting period was the calendar year 2024.  Streamflow restoration efforts depend on the voluntary actions of water right holders to place water instream. Success on this measure relies
+on the hard work of our conservation partners, our staff, and a general increased comfort level with dedicating water instream among water users. Streamflow restoration benefits from well-
+established, active conservation partners with 33 percent of Oregon's flow restoration transactions involving a third party such as The Freshwater Trust, Deschutes River Conservancy, or Trout
+Unlimited, while the remaining 67 percent of flow restoration activities occur directly between the water right holder and the Department.
+KPM #2
+PROTECTION OF INSTREAM WATER RIGHTS
+- Ratio of regulatory orders issued to protect senior water rights when the senior water right is an instream right to all regulatory orders
+issued to protect senior water rights.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+PROTECTION OF INSTREAM WATER RIGHTS
+Actual
+65%
+50%
+23%
+34%
+34%
+Target
+50%
+50%
+50%
+50%
+50%
+How Are We Doing
+In calendar year 2024, staff reported a total of 8,928 regulatory actions. Regulatory actions are actions by staff that cause a change in water use behavior. Of the 8,928 total regulatory actions taken in
+2024, 3,037 or 34 percent of the total, were conducted to regulate for instream water rights. Reported regulatory actions are taken to protect senior instream water rights rose from 2,941 in 2023 to
+3,041 in 2024. While the 2024 target was not met it was due in large part to not needing to regulate for some instream water rights as water conditions, including precipitation, were more favorable to
+the established instream water rights.
+Watermasters and assistant watermasters are responsible for monitoring and protecting instream water rights. These staff members are also assisted by regional hydrographic technicians who
+conduct numerous streamflow measurements in support of instream water right monitoring. Watermasters report monitoring activities and regulatory actions taken each calendar year for each stream
+into the Field Activity Database (FAD) for ongoing tracking and enforcement purposes.
+Factors Affecting Results
+This KPM is specific to a regulation on behalf of instream water rights. Instream water rights are often junior to other surface water rights and are actively monitored by the Department. Many stream
+flows with instream water rights are met naturally throughout the season which do not require regulation on their behalf. In years with well-timed precipitation and high stream flows, the total number of
+streams regulated is likely to go down. In years with lower stream flows the total number of streams regulated is likely to go up because of the greater demand and less water supply for all beneficial
+uses. The number of streams regulated varies with the amount and timing of rainfall and snowmelt run off, temperatures, as well as the availability of staff resources. In addition, actions taken by field
+staff help to address unauthorized uses of water benefit instream needs even if not fully reflected by this particular metric.
+KPM #3
+MONITOR COMPLIANCE
+- Percent of total regulatory actions that found water right holders in compliance with water rights and regulations.
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percent of Total Regulatory Actions That Found Water Rights Holders in Compliance with Water Rights and Regulations
+Actual
+97%
+96%
+97%
+99%
+96%
+Target
+99%
+99%
+99%
+99%
+99%
+How Are We Doing
+In 2024, watermasters and assistant watermasters reported 8,928 regulatory actions. Field staff also reported 29,605 compliance checks across the state to determine if water right holders were
+complying with the law or a regulatory action. Of the 29,605 compliance checks, 96.4 percent of the time water use was consistent with existing regulatory orders or Oregon water laws. If non-
+compliance is observed, in many instances, compliance can be achieved immediately. Watermaster staff can decrease or stop non-compliant water use by closing the head gate and posting it with a
+yellow tag or in the near term by communicating with the water user. In other instances, non-compliance may result in issuance of a Notice of Violation or Notice of Assessment. With approximately
+90,500 water rights statewide and several hundred thousand exempt use wells, plus an unknown number of unauthorized uses, it is not possible for Department staff to fully assess the compliance of
+every use within the state each year.
+Factors Affecting Results
+As the Field Services Division has grown in recent years due to legislative investments, the ability to address reported issues and complaints in a timely fashion has improved. The investments have
+allowed the Department to be more forward-looking and proactively investigate water use via staff-initiated investigations. This is reflected in the number of community-based complaints continuing a
+downward trend of 242, which is down from the previous years of 377 in 2023, 508 in 2022, and from 1,120 in 2021. In 2024, the number of field staff-initiated investigations declined to 727 after
+increases in previous years (1,142 in 2023, 894 in 2022, and 732 in 2021). This decrease in staff-initiated investigations can be directly attributed to staff capacity resulting from promotions, departures
+from the agency, and staff being out on extended leave. Despite a temporary decrease in capacity in 2024, the number of compliance checks reported in 2024 (29,605) is on par with those reported in
+2023 (29,304).
+As part of the regulatory actions, 102 notices of violation (NOV) were issued in calendar year 2024. This is a decrease from the previous year in which the Department issued 162 NOVs. Both the
+regulated and unregulated cannabis industry accounts for a large number of the sites where NOV’s are issued. The decrease in the number of NOVs can be attributed to a decrease in the cannabis
+industry and changes in statute to clarify how to legally use hauled water (HB 4061). The formation of the Enforcement Section (ES) in 2022 resulted in the streamlining of enforcement processes. The
+new section continues to assist in enforcement efficiencies to include better track the of enforcement referrals leading to issuance of orders and regulatory notices. In addition to the above NOV totals,
+the ES assisted field staff with the issuance of 75 measurement device notices and issued 13 notices of assessment for civil penalties totaling over $86,000. The Department may not collect all of
+these assessments as some may be reduced as part of stipulated settlement agreements, or they remain part of ongoing casework. The increased investments in field and enforcement staff are
+improving water use compliance across the state.
+KPM #4
+STREAM FLOW GAGING
+- Percent change from 2001 in the number of WRD operated or assisted gauging stations.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percent Change from 2001 in Number of OWRD-Operated or Assisted Gaging Stations
+Actual
+14%
+14%
+17%
+17%
+18%
+Target
+23%
+25%
+25%
+25%
+25%
+How Are We Doing
+During the reporting period, the Department added three gages, and discontinued two gages, with an increase of one gage in the count of stream flow gages. The Department operated a total of 254
+gages during this period, an 18 percent increase over the 2001 benchmark (215 gaging stations) but remains under the targeted 25 percent goal or approximately 269 gages.
+Factors Affecting Results
+In 2022, the Department spent $1 million one-time American Rescue Plan Act (ARPA) dollars to purchase equipment for new and existing gages. Since that time some new gages have been installed
+to support basin studies; however, the majority of funds were used to upgrade equipment at existing gage sites. Modifications have been made at about 41 gaging stations involving 65 unique pieces
+of equipment and includes the upgrade of 37 obsolete logger/transmitters. Additionally, the Department purchased and distributed ~300 crest-stage gages to field offices that, once installed, will
+improve the data quality of measurement of flood events. The 2023 Legislature approved additional funding for ten additional gages in support of the Surface Water Information Modeling System
+update. To date, over 20 sites were visited, six locations have been identified for gages, three sites have permitting acquired, and one has been installed and is fully operational. Increasing the size of
+the gaging network requires the Department to have ongoing and consistent funding for sufficient equipment, hydrographers, and field staff to provide ongoing station operation and maintenance,
+training, and quality assurance and quality control of the data gathered from the statewide gage network.
+KPM #5
+ASSESSING GROUND WATER RESOURCES
+- Percent change from 2001 in the number of wells routinely monitored to assess ground water resources.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percent Change from 2001 in Number of Wells Routinely Monitored to Assess Groundwater Resources
+Actual
+6%
+12%
+20%
+20%
+24%
+Target
+10%
+10%
+10%
+15%
+15%
+How Are We Doing
+During the current reporting cycle, Department staff routinely monitored 434 wells in the State Observation Well Network, compared to 420 in the 2024 report. This is well above the current target of 15
+percent increase in the number of wells from 2001 and continues to improve. Wells in the Observation Well Network produce long standing and high-quality aquifer water level data across the state
+and are meaningful to the Department’s work.
+Although not included in the metric, the Department also measures or receives data from 2,893 additional “observation wells.” The collected data are used to regularly monitor groundwater levels
+statewide, for special projects, and in administrative areas, and serve as measurements to satisfy groundwater permit conditions for water right holders. Additional observation wells include 837 wells
+that were measured 1,634 times by Department staff. Of those wells, 176 are equipped with automated data-logging pressure transducers that collect water level data several times per day and
+produce high-frequency time-series data sets. Additionally, the Department receives data from licensed professionals who collected 2,484 water level measurements from another 1,993 wells as
+required by various water right permit conditions. The Department archives and provides these and other groundwater related data via the Groundwater Information System database and web
+interface, providing this information directly to public.
+Factors Affecting Results
+The percentage of monitored wells has increased as the Department added new wells to the State Observation Well Network while replacing others that had previously been removed from the
+network. Since 2013, the Legislature included dedicated funding for observation wells in the Department's budget, though the total budget has varied from biennium to biennium. This funding is used
+for a combination of drilling new wells and maintaining access to existing wells by paying for measurement tubes and other related alterations. In the 2023-2025 biennium, OWRD completed nine
+access alterations and drilled five new observation wells. Apart from the 29 new observation wells added by the Department in the last decade, State Observation Wells are largely owned by private
+and other public entities. This can create a long-term access issue to wells, as the Department must rely on private well owners for continued participation in the network and the ongoing reliability and
+maintenance provided by those outside parties. When the Department loses access to an observation well, the Department tries to find or drill a suitable replacement well in the same general area
+targeting the same aquifer, but this process takes time, staff and fiscal resources. As a result, the number and location of State Observation Wells vary from year to year.
+KPM #6
+EQUIP CITIZENS WITH INFORMATION
+- Number of times water management related data was accessed through the WRD's Internet site.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Number of Times Water Management-Related Data Were Accessed Through the Internet (in millions)
+Actual
+3.92
+4.75
+5.38
+7.25
+11.49
+Target
+4.30
+4.50
+4.50
+4.75
+How Are We Doing
+In the 2025 reporting period, the Department exceeded the established goal of 5 million website hits and recorded 11.49 million hits on public facing web applications that serve agency reports and
+data.  Additionally, this represents nearly 58 percent growth compared to the previous year’s activity on the agency site. New applications that have been added to the Department’s website in recent
+years have not been included into this reported 11.49 million hits, so it is expected actual site traffic has increased beyond the report here.
+Factors Affecting Results
+This year represents another year of increasing initiatives, rulemakings, and an increase in workloads associated with funding and legislation from the 2024 and 2025 sessions. As a result, additional
+information and data have been made publicly available and posted to the agency website in efforts to increase public awareness and education on the Department’s work; this may account for some
+of the increased site activity. Additionally, for several years, the agency has incorporated usage of branded shortlinks (e.g. owrd.info/email-signup) and QR codes to drive visitors to the website for
+more information on a variety of topics. The portal for researching water right data through the Water Rights Information System (WRIS) remains the site’s most visited page, and agency expects this
+to continue rising as the Department continues to promote compliance with water right conditions.
+KPM #7
+NUMBER OF SIGNIFICANT DIVERSIONS WITH MEASUREMENT DEVICES INSTALLED
+- To fully implement the Water Resources Commission's 2000 Water Measurement Strategy
+Data Collection Period: Jan 01
+- Dec 31
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Number of Significant Diversions with Measurement Devices Installed
+Actual
+1,109
+1,113
+1,115
+1,123
+1,124
+Target
+1,265
+1,265
+1,265
+1,265
+1,265
+How Are We Doing
+In 2000, 2,385 Significant Point of Diversion (SigPODs) were identified as strategic points for measurement. Working directly with landowners, there have been 1,124 measuring devices installed on
+SigPODs across the state. One additional device was installed in the 2024 calendar year through the coordinated efforts of watermasters and assistant watermasters in the Field Services Division
+(FSD). In addition to the measurement devices installed on SigPODs, staff have evaluated in the field another 709 significant diversions that are currently not in use. This number changes as a water
+user may go several years without using water and then irrigate for a season to reportedly protect the water right from forfeiture. Initiating use would require the installation of a measuring device.
+Approximately 481 of the original 2,385 significant diversions still need measuring devices installed.
+Factors Affecting Results
+The timing of data submittal and the data entry by staff may result in small changes from year-to-year on previously reported numbers, not reflected in these reports. This KPM does not account for
+measuring devices installed because of other Department actions. The Department focuses measuring device installation where there is noncompliance, complaints, or suspicion of unauthorized use,
+or in the case of groundwater, where the Department is conducting scientific research and measurement is needed. This KPM does not track and report on that work, as most of those points of
+diversion are not deemed significant points of diversion.
+While the FSD has experienced an increase in staff over the past several years, the division has seen staff turnover, particularly for assistant watermasters. Assistant watermasters are often used for
+developmental opportunities where staff promote internally or to other agencies after gaining valuable field experience. Capacity in the field has been varied due to promotions, extended leave, and
+departures from the agency, however, compliance checks have not decreased. The agency must respond to suspicions of and complaints from the public related unauthorized water use, as well as
+ongoing drought and subsequent regulation which all increase regulatory workloads on staff; this limits progress on this KPM. The installation of measuring devices typically occurs outside the
+irrigation season and is weather dependent, particularly in freezing conditions. Targeted outreach and education are needed to help landowners with measuring device installations. Success with
+measuring device installation is directly related to time spent by Department field staff, primarily watermasters and assistant watermasters, working with landowners and consultants.
+KPM #8
+PROMOTE EFFICIENCY IN WATER MANAGEMENT AND CONSERVATION PLAN REVIEWS
+- Percent of water management and conservation plans that received a preliminary review
+within 90 days of plan submittal.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percent of Water Management and Conservation Plans That Received a Review within 90 Days of Submittal
+Actual
+100%
+100%
+100%
+100%
+100%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+Between July 1, 2024, and June 30, 2025, the Department received 23 Water Management and Conservation Plans (WMCPs) and reviewed 100 percent within the 90-day goal. This continues the
+Department’s record of full compliance since 2014 under the KPM.
+The number of plans received this year increased from 16 in the previous year to 23. Compliance continues to improve among water suppliers required to submit two- and five-year progress reports
+documenting water use and conservation efforts. WMCP updates from both municipalities and agricultural districts also continue to improve in quality, with clearer strategies for efficient water
+management, stronger preparedness for water shortages and other emergencies through curtailment plans, and closer alignment with long-term water supply and comprehensive planning goals.
+Factors Affecting Results
+Achieving a 100 percent performance target during this reporting period was made possible by having two full-time employees dedicated to the program and strategically prioritizing the 90-day plan
+reviews over other work.
+Ongoing outreach, consistent reminders to municipalities and agricultural districts, and strong internal coordination among Department programs have been key to meeting this goal. The state also
+continues to work with key partners to publish guides, provide tools, and deliver educational presentations that support the preparation of WMCPs. In partnership with the League of Oregon Cities, the
+Department contributes a recurring feature on their Facebook site,
+The Conservation Corner
+, which provides municipalities with practical water management strategies, grant funding opportunities,
+conservation tips, and guidance for preparing for emergency water shortages. The Department is also working to develop several new tools to further assist municipalities in preparing both progress
+reports and WMCPs.
+In addition, the Department maintains comprehensive guidebooks, water conservation fact sheets, and water curtailment plan guidance on its website. Staff regularly communicate with and provide
+direct assistance to entities developing new or updated WMCPs. These efforts reflect the Department’s ongoing commitment to improving water management and conservation throughout Oregon.
+KPM #9
+PROMOTE EFFICIENCY IN WATER RIGHT APPLICATION PROCESSING
+- Percent of water right applications that receive an initial review within 45 days of application filing.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percent of Water Right Applications That Receive an Initial Review within 45 Days of Application Filing
+Actual
+53%
+18%
+54%
+35%
+43%
+Target
+55%
+55%
+55%
+55%
+55%
+How Are We Doing
+The Department issued an Initial Review within 45 days of application filing for 43 percent of applicable water right applications within this reporting period. This is an eight-percentage point increase
+over the previous period. In addition, the Department issued nearly six times more Initial Reviews for this reporting period compared to the prior reporting period.
+Factors Affecting Results
+The Department issued a timely Initial Review for 100 percent of the storage applications, 100 percent of the surface water applications (not including instream water rights), and 63 percent of the
+instream water right applications received during the reporting period. There were 175 Initial Reviews issued on groundwater applications, which is a substantial increase over the 49 completed in the
+prior reporting period. Because groundwater applications often take more than 45 days for the groundwater review due to water scarcity, which must occur before the drafting the Initial Review can
+start, every groundwater application Initial Review released lowers the overall KPM number. Despite these challenges, the agency increased KPM performance during the last reporting period.
+In 2025, the Legislature passed several pieces of legislation, in coordination with the Department, with the goal to streamline the water right application processes. Applications covered by this
+reporting period were not subject to these new streamlining provisions. The Department is working to implement the 2025 legislation, along with other process improvements, by April 1, 2026. For the
+next year, the Department anticipates a temporary slowdown in application processing while staff are participating in the rulemaking and working to implement the new application processes. Once the
+Department can implement new process improvements resulting from the 2025 legislation and the agency’s other process improvement efforts, the Department anticipates reduced processing times
+and improved performance on this measure.
+KPM #10
+PROMOTE EFFICIENCY IN TRANSFER APPLICATION PROCESSING
+- Percent of transfer final orders issued within 120 days of application filing.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percent of Transfer Final Orders Issued within 120 Days of Filing
+Actual
+20%
+26%
+25%
+12%
+11%
+Target
+40%
+40%
+40%
+40%
+40%
+How Are We Doing
+A total of 253 transfer final orders were issued during the reporting period, 27 of which were issued within 120 days of the transfer application being filed. Unfortunately, at the beginning of this
+reporting period, the Transfer Program Advisor retired, which is a critical position for completing transfers. Despite this, the agency has reduced the transfers backlog; the number of pending
+applications at the end of the previous reporting period (June 30, 2024) was 497, compared to 446 pending applications at the end of this reporting period (June 30, 2025). The Department’s goal is to
+reduce the number of pending applications to 250 or less, at which point staff will be better able to take on processing of new applications as soon as they are filed. The Department expects activity
+with water right transfers to increase over time as users seek changes and more flexibility with their rights.
+Factors Affecting Results
+The Transfer Section consists of six caseworkers and one senior level Program Advisor to provide training and guidance to caseworkers and provide quality assurance reviews on final transfer
+documents. Two years ago, the Department learned that it is difficult for the Transfer Program Advisor to keep up with the pace of production for all six caseworkers, leading to a bottleneck of
+documents awaiting final review. Two additional senior level staff were redirected to help perform final reviews, resulting in bottleneck reduction and quicker turnaround times. Temporary transfer
+applications, district temporary transfer applications, and drought transfer applications can be processed more quickly than standard permanent transfer applications, instream transfers, and
+groundwater registration modifications. Standard permanent transfer application review processes require 3 formal documents (issuance of draft preliminary determinations (DPD), preliminary
+determinations (PD), and final orders (FO)) as compared to the temporary and drought transfer processes, which only require issuance of the FO. Standard permanent transfer process and waiting
+times required in rule and statute total 105 days – this figure does not factor in any time necessary for evaluating an application, awaiting completion of injury reviews from the watermaster and
+Groundwater Section hydrogeologists, preparing the required documents (DPD, PD, public notice, and FO), completing data entry and other administrative processing tasks, or awaiting responses
+from the applicant. It is difficult for staff to meet this KPM when processing standard permanent transfer applications. In addition, there is continued utilization of the District Temporary Transfer Pilot
+Project, which does not require processing of the transfers by Salem staff and significantly reduced the number of easy-to-process temporary district transfer applications, further limiting the
+Department’s ability to meet this KPM. Further, in many parts of the state, significant time is required by the Department’s hydrogeologist staff to review groundwater transfer applications because of
+the technical nature of groundwater injury reviews.
+In 2025, the Legislature passed several pieces of legislation, in coordination with the Department, with the goal to streamline the water right transfer processes. Applications covered by this reporting
+period were not subject to these new streamlining provisions. The Department is working to implement the 2025 legislation, along with other process improvements, by April 1, 2026. Further the
+Department has hired a contractor to work with staff over the next year to conduct a Lean/Six-Sigma review of some of the Transfer Program processes. For the next year, the Department anticipates
+a temporary slowdown in application processing while staff are participating in the rulemaking, working with a contractor to analyze our processes, and working to implement the new rules and process
+improvements. Once the new Transfer Program Advisor is hired and the Department implements improvement efforts, the Department anticipates reduced processing times and improved
+performance on this measure.
+KPM #11
+INCREASE WATER USE REPORTING
+- the percent of water users with an annual water-use reporting requirement that have submitted their reports to the Department.
+Data Collection Period: Oct 01
+- Sep 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+Percent of water users with an annual water-use reporting requirement that have submitted reports to the Dept.
+Actual
+79%
+79%
+73%
+78%
+78%
+Target
+85%
+85%
+85%
+85%
+85%
+How Are We Doing
+The percent of water users submitting water-use reports as required for the 2025 reporting period was 78 percent; no change from the previous reporting period. In the past five reporting periods, this
+KPM has stayed steady or decreased. The total number of reporters required to submit reports is 2,876 statewide. During this period, the Water Use Reporting coordinator sent out annual reminder
+letters of the reporting requirement, sent out reminder emails and postcards, entered data submitted via paper forms, and provided phone and email customer support to the internal and external
+customers.
+Factors Affecting Results
+Over the past five years, the metric has remained steady. In response, the Department is evaluating what additional actions are needed to reach the target performance level. One contributing factor
+may be staffing limitations as only one person staffs this program and capacity for additional proactive outreach to individuals or entities not in compliance is limited.
+Department staff have identified two major challenges that reporters often face: (1) a lack of resources to collect or report data, and (2) insufficient knowledge of reporting requirements. Some water
+right holders lack the necessary equipment or staff time, while others experience lapses in compliance due to knowledge not being transferred during personnel changes.
+Currently, about 22 percent of required reporters are out of compliance. Of these, 38 percent are federal entities, 28 percent are non-governmental organizations, 20 percent are irrigation or special
+districts, 12 percent are cities or counties, and two percent are state entities. It is possible that each of these groups requires different types of support to improve compliance.
+KPM #12
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent” in overall customer service, timeliness, accuracy,
+helpfulness, expertise, and availability of information.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2021
+2022
+2023
+2024
+2025
+Timeliness
+Actual
+43%
+47%
+Target
+90%
+90%
+90%
+90%
+90%
+Expertise
+Actual
+71%
+70%
+Target
+90%
+90%
+90%
+90%
+90%
+Helpfulness
+Actual
+69%
+73%
+Target
+90%
+90%
+90%
+90%
+90%
+Accuracy
+Actual
+61%
+66%
+Target
+90%
+90%
+90%
+90%
+90%
+Availability of Information
+Actual
+59%
+69%
+Target
+90%
+90%
+90%
+90%
+90%
+Overall
+Actual
+60%
+67%
+Target
+90%
+90%
+90%
+90%
+90%
+How Are We Doing
+The Department conducts the customer service survey once a biennium. The last survey was completed in 2024, with results available in the 2024 report. The next survey will be completed in 2026,
+with the results being reported in the 2026 report.
+Factors Affecting Results
+KPM #13
+PROMOTE EFFICIENCY IN TEMPORARY TRANSFER APPLICATION PROCESSING
+- Percent of temporary transfer applications issued within 120 days of application filing.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2021
+2022
+2023
+2024
+2025
+PROMOTE EFFICIENCY IN TEMPORARY TRANSFER APPLICATION PROCESSING -
+Actual
+Target
+How Are We Doing
+This is a newly adopted key performance measure so the Department is in the process of setting up a formal reporting tool and methodology. The first reporting period for this measure will be the 2026
+reporting period. Informal rough calculations completed during the legislative session indicated that approximately 54 percent of temporary transfers were completed in under 100 days and
+approximately 21 percent of temporary transfers took more than 200 days.
+Factors Affecting Results
+The agency is working to develop processing expectations and guidelines for staff, as well as monitoring and assistance plans to help track progress on meeting this performance measure.

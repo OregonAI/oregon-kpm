@@ -1,0 +1,317 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: appr-obd-2020
+title: Dentistry, Board of — Annual Performance Progress Report, Reporting Year 2020
+doc_type: performance_report
+citation: APPR DENTISTRY-BOARD-OF 2020
+authority_level: agency_report
+issuing_body: Dentistry, Board of
+agency: Dentistry, Board of
+agency_code: null
+reporting_year: '2020'
+year_source: document
+filename_year: '2020'
+measure_status: approved
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPR_OBD%202020.pdf
+source_filename: APPR_OBD 2020.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d71ee8184bda7cf5bc8b3d1cb737be9f29186d238928f5b69181ef79c55cfa53
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2020
+---
+
+## At a glance
+
+**APPR DENTISTRY-BOARD-OF 2020** — Dentistry, Board of, Reporting Year 2020
+
+- Agency: Dentistry, Board of
+- Reporting year: 2020 (stated in the document)
+- Measures reported as: legislatively approved
+- Source file: `APPR_OBD 2020.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Dentistry, Board of
+Annual Performance Progress Report
+Reporting Year 2020
+Published: 9/28/2020 8:18:04 AM
+KPM #
+Approved Key Performance Measures (KPMs)
+Continuing Education Compliance
+- Percent of Licensees in compliance with continuing education requirements.
+Time to Investigate Complaints
+- Average months from receipt of new complaints to completed investigation.
+Days to Complete License Paperwork
+- Average number of working days from receipt of completed paperwork to issuance of license.
+CUSTOMER SATISFACTION WITH AGENCY SERVICES
+- Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+Board Best Practices
+- Percent of total best practices met by the Board.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+60%
+20%
+20%
+red
+green
+yellow
+KPM #1
+Continuing Education Compliance
+- Percent of Licensees in compliance with continuing education requirements.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Percent of Licensees in Compliance with Continuing Education Requirements
+Actual
+100%
+100%
+100%
+100%
+100%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+For FY 2020 we accomplished this goal by requiring our Licensees to complete continuing education requirements. We monitor their compliance with questions on their license renewal forms and with
+audits. Staff follows up with Licensees as needed to ensure all requirements are met.
+Factors Affecting Results
+Experienced staff work with our Licensees to communicate effectively regarding the continuing education requirements.
+KPM #2
+Time to Investigate Complaints
+- Average months from receipt of new complaints to completed investigation.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = negative result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Average time to Investigate Complaints
+Actual
+Target
+3.50
+3.50
+7.50
+7.50
+7.50
+How Are We Doing
+For FY 2020 the investigators worked hard to close a number of pending cases that dragged on due to them being part of or considered for the Health Professionals' Services Program. Other cases
+were finally resolved that were delayed for legal due process and complicated cases involving multiple licensees and voluminous records.
+Investigations always take time for a number of reasons: the number of treatment providers involved, the complexity of the case, the timely responses of those involved in the matter and the
+cooperation of the parties as well.
+Factors Affecting Results
+The total number of investigations opened in FY 2020 was 216, compared to 281 in FY 2019. The number of cases closed in FY 2020 was 286, compared to 315 in FY 2019. We surmise the lower
+number of new cases opened was because the pandemic closed or severely limited operations at many dental practices for 4 months of this reporting period.
+KPM #3
+Days to Complete License Paperwork
+- Average number of working days from receipt of completed paperwork to issuance of license.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Average Number of Working Days to Issue license after Paperwork is Completed.
+Actual
+Target
+How Are We Doing
+For FY 2020 we achieved this goal. The Board's strategy is that the processing of accurate and complete paperwork for the issuance of a new or renewed license, should take place in a reasonable
+period of time to fulfill one of our statutory requirements of those desiring ta license from the Oregon Board of Dentistry in a timely fashion.
+Factors Affecting Results
+It is one of our top priorities that applications and renewals be processed accurately and efficiently and that we not create any barriers for someone to practice once they meet all applicable statutes
+and rules.
+KPM #4
+CUSTOMER SATISFACTION WITH AGENCY SERVICES
+- Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness,
+accuracy, helpfulness, expertise, availability of information.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2016
+2017
+2018
+2019
+2020
+Accuracy
+Actual
+77%
+79%
+80%
+86%
+74%
+Target
+85%
+85%
+85%
+85%
+90%
+Timeliness
+Actual
+80%
+83%
+78%
+87%
+75%
+Target
+85%
+85%
+85%
+85%
+90%
+Overall
+Actual
+79%
+75%
+80%
+84%
+78%
+Target
+85%
+85%
+85%
+85%
+90%
+Availability of Information
+Actual
+76%
+79%
+77%
+86%
+80%
+Target
+85%
+85%
+85%
+85%
+90%
+Helpfulness
+Actual
+79%
+77%
+83%
+90%
+76%
+Target
+85%
+85%
+85%
+85%
+90%
+Expertise
+Actual
+82%
+79%
+83%
+83%
+76%
+Target
+85%
+85%
+85%
+85%
+90%
+How Are We Doing
+For FY 2020 we did not achieve this goal. Although targets were not met, the overall response is positive and we will continue to encourage people to submit feedback and review the comments
+received, to assess our service. The survey results were negatively impacted due to the pandemic and subsequent feedback from licensees that were less than pleased with decisions by the state to
+permit dental operations to resume. As the pandemic and response to it carried on through the year the overall response to our surveys were more in line with past results, and overall positive.
+Factors Affecting Results
+People choose to respond to surveys and we will continue to promote the survey and encourage feedback. We take the feedback seriously and it helps the Board in messaging and understanding the
+concerns of our Licensees and stakeholders.
+KPM #5
+Board Best Practices
+- Percent of total best practices met by the Board.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2016
+2017
+2018
+2019
+2020
+Compliance with Best Practices Performance Measurement
+Actual
+100%
+100%
+100%
+100%
+100%
+Target
+100%
+100%
+100%
+100%
+100%
+How Are We Doing
+For FY 2020 we acheived this goal. Annually at the August Board Meeting the Board reviews these metrics and conducts the performance review of the Executive Director. The Board is in 100%
+compliance with Best Practices Performance Measurements for Governing Boards and Commissions.
+Factors Affecting Results
+The Board Members are engaged and dedicated to their responsibilities, duties and obligations serving Oregon in their capacity. The Board reviewed the Board Best Practices at its August 21, 2020
+Board meeting.
+Best Practices Self-Assessment
+Annually, Board members are to self-evaluate their adherence to a set of best practices
+and report the percent total best practices met by the Board (percent of yes responses
+in the table below) in the Annual Performance Progress Report as specified in the
+agency Budget instructions.
+Best Practices Assessment Score Card
+Best Practices Criteria Yes No
+1. Executive Director’s performance expectations are current. 
+2. Executive Director receives annual performance feedback. 
+3. The agency’s mission and high-level goals are current and applicable. 
+4. The Board reviews the Annual Performance Progress Report. 
+5. The Board is appropriately involved in review of agency’s key communications. 
+6. The Board is appropriately involved in policy-making activities. 
+7. The agency’s policy option budget packages are aligned with their mission and goals. 
+8. The Board reviews all proposed budgets. 
+9. The Board periodically reviews key financial information and audit findings. 
+10. The Board is appropriately accounting for resources. 
+11. The agency adheres to accounting rules and other relevant financial controls. 
+12. Board members act in accordance with their roles as public representatives. 
+13. The Board coordinates with others where responsibilities and interest overlap. 
+14. The Board members identify and attend appropriate training sessions. 
+15. The Board reviews its management practices to ensure best practices are utilized. 
+Total Number 15
+Percentage of total: 100%
+At the August 21, 2020 Board Meeting, the Board reviewed the best practices self-
+assessment documents and unanimously agreed that all Best Practices were met.

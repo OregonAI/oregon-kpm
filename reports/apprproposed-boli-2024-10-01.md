@@ -1,0 +1,472 @@
+---
+schema_version: 1
+corpus: oregon-kpm
+jurisdiction: oregon
+id: apprproposed-boli-2024-10-01
+title: Bureau of Labor and Industries — Annual Performance Progress Report, Reporting Year 2024
+doc_type: performance_report
+citation: APPR BOLI 2024
+authority_level: agency_report
+issuing_body: Bureau of Labor and Industries
+agency: Bureau of Labor and Industries
+agency_code: BOLI
+reporting_year: '2024'
+year_source: document
+filename_year: '2024'
+measure_status: proposed
+source_url: https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_BOLI_2024-10-01.pdf
+source_filename: APPRProposed_BOLI_2024-10-01.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 4ff2b828b474d0db43f087130f0f0a393fdfb873b6af15faeb2bbd17d382e84e
+status: current
+content_mode: verbatim
+snapshot_policy: hash-only
+conversion_notes: ''
+maintainer: '@morficflux'
+last_verified: ''
+verified_by: ''
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- kpm
+- performance
+- ry2024
+---
+
+## At a glance
+
+**APPR BOLI 2024** — Bureau of Labor and Industries, Reporting Year 2024
+
+- Agency: Bureau of Labor and Industries
+- Reporting year: 2024 (stated in the document)
+- Measures reported as: proposed to the Legislature
+- Source file: `APPRProposed_BOLI_2024-10-01.pdf`
+
+_NON-AUTHORITATIVE copy. Every target, actual and green/yellow/red assessment below is THE AGENCY'S OWN REPORT ON ITSELF, not an independent finding and not a statement that a program worked. The reporting year is not the data collection period; read each measure's stated period before attaching a number to a year. Verify at the source URL._
+
+
+## Full text
+
+Bureau of Labor and Industries
+Annual Performance Progress Report
+Reporting Year 2024
+Published: 10/1/2024 3:17:41 PM
+KPM #
+Approved Key Performance Measures (KPMs)
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+Timely Completion of Civil Rights Investigations - This measure reflects the timeliness and thoroughness of civil rights investigations at 180 days, 240 days, and one year.
+Timely Processing of Wage and Hour Complaints - Percentage of target met for timely: intake and jurisdiction determination; demand letter, investigation: Composite measure.
+Wage and Hour Division
+- Percentage of Wage Security Fund claims processed within fewer than 30 days.
+Wage and Hour Division - Percentage of Prevailing Wage Rate investigations completed within 90 days.
+Apprenticeship and Training Division - Number of apprentices receiving journey level certificates.
+Apprenticeship and Training Division - Number of newly registered apprentices.
+Minority Apprenticeship Participation - Percentage of new apprenticeship participants who are minorities.
+Administrative Prosecution Unit (APU) - Percentage of cases scheduled for hearing within 30 days of assignment to APU.
+Technical Assistance - Percentage of employer technical assistance calls or emails returned no later than the next business day.
+Prevailing Wage Rate Pre-determinations
+- Response time for requests by public agencies concerning potential coverage of projects under state Prevailing Wage laws.
+Proposal
+Proposed Key Performance Measures (KPMs)
+Delete
+Timely Processing of Wage and Hour Complaints - Percentage of target met for timely: intake and jurisdiction determination; demand letter, investigation: Composite measure.
+New
+CRD - Initial Contact - This measures the Civil Rights Division's responsiveness to inquiries from the public.
+Delete
+Wage and Hour Division
+- Percentage of Wage Security Fund claims processed within fewer than 30 days.
+New
+CRD - Complaints Drafted & Initial Interviews - This measure tracks the efficiency of the Civil Rights Division in converting initial complaints into formal documents. It reflects the speed at which potential cases move form initial contact to official
+investigation.
+This measures the timeliness of the Civil Rights Division in scheduling and conducting initial interviews with complainants. It reflects how quickly they can gather information and begin assessing potential cases.
+Delete
+Wage and Hour Division - Percentage of Prevailing Wage Rate investigations completed within 90 days.
+New
+WHD - Wage Claims - Measures amount of time the divisions takes to issue demand letter. Which can be a potential indicator of the Wage and Hour Division's effectiveness.
+Delete
+Apprenticeship and Training Division - Number of apprentices receiving journey level certificates.
+New
+WHD - Wage Security Fund Claims - Tracking the processing time for Wage Security Fund claims. Indicates Wage and Hour Division efficiency.
+Delete
+Apprenticeship and Training Division - Number of newly registered apprentices.
+New
+WHD - Prevailing Wage Investigations - Monitoring the number of days between receipt of case and when the investigation is complete shows Wage and Hour Division efficiency.
+Delete
+Minority Apprenticeship Participation - Percentage of new apprenticeship participants who are minorities.
+New
+WHD - Prevailing Wage Coverage Determinations - This metric tracks the efficiency of the Wage and Hour Division in making determinations about whether a worker or workplace falls under their statutory coverage. A high percentage of
+determinations made within 60 days suggests the Division is processing coverage requests efficiently.
+Delete
+Administrative Prosecution Unit (APU) - Percentage of cases scheduled for hearing within 30 days of assignment to APU.
+New
+APU - Case Assignment & Charging Document Creation - Tracking the amount of time needed to assign cases and draft charging documents.
+Delete
+Technical Assistance - Percentage of employer technical assistance calls or emails returned no later than the next business day.
+New
+Public Records Processing - The percentage of requests resolved or estimated shows the Records Department's efficiency.
+Delete
+Prevailing Wage Rate Pre-determinations
+- Response time for requests by public agencies concerning potential coverage of projects under state Prevailing Wage laws.
+New
+ATD - Apprentice Demographics and Completion Rates - The Apprenticeship and Training Division tracks completion rates and new apprentice demographics to gauge how Registered Apprenticeship Programs are retaining and recruiting apprentices
+from diverse backgrounds. By disaggregating data by demographic groups, including female, BIPOC (Black, Indigenous, and People of Color), veterans, and other underrepresented groups, the Division can identify equity challenges and opportunities
+for growth, and showcase the program's contribution to workforce diversity and inclusion.
+New
+ATD - Compliance Reviews - Measuring compliance review completion rate helps ensure all reviews are done and identify potential risks of non-compliance. Every program is required to have a compliance review completed every 3 years, so 33%
+per year ensures the Division is maintaining its compliance requirements.
+New
+EA - Response Time - This measures the Employer Assistance Division's responsiveness to inquiries.
+Performance Summary
+Green
+Yellow
+Red
+= Target to -5%
+= Target -5% to -15%
+= Target > -15%
+Summary Stats:
+45.45%
+27.27%
+27.27%
+red
+green
+yellow
+KPM #1
+CUSTOMER SERVICE
+- Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise,
+availability of information.
+Data Collection Period: Jul 01
+- Jun 30
+Report Year
+2022
+2023
+2024
+2025
+2026
+a. Overall
+Actual
+Target
+b. Accuracy
+Actual
+Target
+c. Availability of Information
+Actual
+Target
+d. Expertise
+Actual
+Target
+e. Helpfulness
+Actual
+Target
+f. Timeliness
+Actual
+Target
+How Are We Doing
+The customer service metric results indicate a significant gap between our current performance and our desired level of service quality. With only 25% of respondents rating our overall service as
+good or excellent, it is clear that we are not meeting the expectations of a substantial proportion of our customers. The timeliness metric is currently lagging behind every other metric, this reflects the
+lack of staff capacity and the backlogs the Civil Rights and Wage and Hour Divisions are experiencing.  This outcome suggests that our current service delivery model is constrained by inadequate
+resources, leading to poor outcomes. A thorough analysis of our operations and service delivery systems is warranted to identify areas for improvement and inform strategic initiatives aimed at
+enhancing our overall performance and customer satisfaction.
+Factors Affecting Results
+The Oregon Bureau of Labor and Industries has made a significant change in how it measures customer satisfaction. By surveying all complaints, regardless of the outcome, the agency is getting a
+more comprehensive view of its customer service. This approach can provide a more accurate representation of the agency's performance, as it takes into account the experiences of all customers,
+not just those who had successful outcomes.
+By including complaints that were closed unsuccessfully for the complainant, the agency can identify areas where it needs to improve, such as timeliness, accuracy, helpfulness, expertise, and
+availability of information. This data can be used to inform resource allocation and make targeted improvements to its customer service.
+The results of the agency's new approach to measuring customer satisfaction suggest that the Bureau of Labor and Industries is facing significant challenges in meeting the needs of Oregonians. The
+data reveals that the agency is struggling to provide timely, accurate, and helpful services, which is likely a result of the agency's current workload exceeding its capacity. This imbalance between
+workload and resources is a clear indication that the agency requires additional support to effectively serve the public. The data underscores the need for the agency to have sufficient staff and
+resources to manage its caseload and provide the level of service that Oregonians expect.
+KPM #2
+Timely Completion of Civil Rights Investigations - This measure reflects the timeliness and thoroughness of civil rights investigations at 180 days, 240 days, and one year.
+Data Collection Period: Jun 30
+- Jul 01
+Report Year
+2022
+2023
+2024
+2025
+2026
+Timely completion of investigations
+Actual
+Target
+a. Completion of investigations within 180 days
+Actual
+39%
+Target
+45%
+45%
+b. Completion of investigations within 240 days
+Actual
+49%
+Target
+65%
+65%
+c. Completion of investigations within 1 year
+Actual
+100%
+Target
+100%
+100%
+How Are We Doing
+FY 2024 data shows that we have completed 39% of civil rights investigations within 180 days, 49% within 240 days, and 100% within 1 year. While we have met our target for completing
+investigations within 1 year, we have fallen short of our targets for completion rates within 180 days (45% target) and 240 days (65% target). This suggests that our current workload and resource
+allocation may be impacting our ability to complete investigations within our desired timeframe.
+Factors Affecting Results
+Given the complexity and thoroughness required in our investigations, it is likely that our current staffing levels are not sufficient to support the timely completion of all cases. Our ability to complete all
+investigations within 1 year indicates that we have the necessary expertise and processes in place but may need to adjust our resource allocation to ensure that we have the capacity to meet our
+targets for completion rates within 180 days and 240 days.
+Our current staffing levels are not sufficient to support timely completion of all cases, given the complexity and thoroughness required in our investigations. This is the first time we have tracked and
+reported on this metric.
+KPM #3
+Timely Processing of Wage and Hour Complaints - Percentage of target met for timely: intake and jurisdiction determination; demand letter, investigation: Composite measure.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+Timely Processing of Wage and Hour Complaints: Percentage of target met for timely: intake and jurisdiction determination; demand letter, investigation: Composite measure.
+Actual
+57%
+71%
+79%
+Target
+85%
+85%
+85%
+85%
+How Are We Doing
+The Wage and Hour Division did not meet the overall performance target for this composite KPM in FY 2023. However, the division did improve its actual performance by 13 percentage points, from
+58% in FY 2022 to 71% in FY 2023. This upward trend continued into FY 2024, with the division achieving a performance rate of 79%.
+Factors Affecting Results
+The Division continues to receive a significant number of wage claims. To improve efficiency and productivity, the agency has taken intermediate steps towards modernizing its case management
+system. A single online portal has been implemented, allowing complainants to submit their claims electronically, streamlining the intake processes and reducing claim processing times by 30 minutes
+per claim. Efforts have been made to reduce the agency's reliance on a primarily paper-based process, shifting towards a more digital workflow. These changes aim to increase productivity and better
+equip the Division to handle the increasing workload.
+Despite the increasing workload, the Division has made notable progress in resolving wage claims, with a performance rate of 71% in FY 2023, and achieving a performance rate of 79% in FY 2024,
+an 8-percentage point increase.
+KPM #4
+Wage and Hour Division
+- Percentage of Wage Security Fund claims processed within fewer than 30 days.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+WHD: Percentage of Wage Security Fund Claims Processed within 30 Days
+Actual
+Target
+How Are We Doing
+The Wage and Hour Division received 4,307 wage claims in FY 2024, this is an increase from 3,775 wage claims in FY 2023, including claims eligible for payment from the Wage Security Fund (either
+due to an employer's closure or as the result of a final order or judgment). The Wage and Hour Division met the goal of processing Wage Security Fund claims within 30 days 56% of the time in FY
+2023, falling short of its goal of 85%.
+In FY 2024, the Wage and Hour Division processed Wage Security Fund claims within 30 days 59% of the time, showing a 3% increase in efficiency compared to the previous year.
+Factors Affecting Results
+With the continued increase in wage claims in FY 2024, the volume of cases assigned to compliance staff for investigation has increased significantly. This additional workload for staff, especially with
+a focus on priority wage claims, including minimum wage, overtime, child labor violations, and sick leave, has resulted in delays in the overall efficiency of investigating wage claims, including
+determining whether the claim is eligible for payment from the Wage Security Fund. The number of claims eligible for payment has dramatically impacted our ability to meet this KPM.
+KPM #5
+Wage and Hour Division - Percentage of Prevailing Wage Rate investigations completed within 90 days.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+Wage and Hour Division: Percentage of PWR Investigations Completed within 90 Days
+Actual
+Target
+How Are We Doing
+The Wage and Hour Division did not meet its performance targets of completing 65% of Prevailing Wage Rate (PWR) investigations within 90 days, and 75% of investigations within 120 days. The
+division completed 36% of PWR investigations during the 2023 KPM timeframe.
+In the 2024 KPM timeframe, the completion rate decreased to 30%, although this result is based on a relatively small sample size of around 50 investigations.
+Factors Affecting Results
+The primary factors in the timely completion of PWR investigations are the availability of trained staff to conduct the investigations and the complexity of the cases, additionally encumbered by the
+number of parties involved in these cases. Because this unit has yet to have the staff capacity necessary to perform prevailing wage determinations (including having rejected fiscals when the
+prevailing wage is expanded), we sometimes have to pull investigators off their cases to perform the determinations. If determinations are not performed promptly, developers and contractors could
+pay the incorrect rate and then be penalized. The unit has recently re-prioritized timely wage determinations due to the negative impact it can have when they don't receive the determinations
+promptly.
+PWR investigations typically involve the time-consuming examination of extensive payroll records of multiple contractors for work performed on public works projects, often covering a lengthy period of
+time and sometimes requiring litigation to resolve. These records denote each hour of work at different classifications of work per employee. Additionally, the level of cooperation from contractors,
+subcontractors, and sureties often impacts the timeliness of investigations. The time required to obtain and analyze relevant documents and resolve issues discovered during the investigation also
+affects the division's ability to conduct timely investigations. Lastly, prevailing wage cases involve many affected workers on multiple projects, often delaying the closure of many cases until each
+worker is located and paid their unpaid wages and damages.
+KPM #6
+Apprenticeship and Training Division - Number of apprentices receiving journey level certificates.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+Apprenticeship and Training Division: Number of Apprentices Receiving Journey Level Certificates
+Actual
+1,854
+2,572
+2,181
+Target
+1,200
+1,200
+1,800
+1,800
+How Are We Doing
+The Apprenticeship and Training Division exceeded its target goal for the number of apprentices receiving journey-level certificates in FY 2024, with 2,181 apprentices achieving this milestone,
+surpassing the target of 1,800.
+Factors Affecting Results
+This KPM reflects the work happening in registered apprenticeship programs throughout the state and recognizes the increase in establishing these programs generally. This KPM does not reflect the
+increased workload on the Apprenticeship and Training Division to support the rise of apprentices and the issues they encounter in their programs before achieving journey-level status or the
+significant it works to establish new programs.
+While this KPM indicates the division is meeting its target for apprentices receiving certificates, it does not provide a complete picture of performance.
+KPM #7
+Apprenticeship and Training Division - Number of newly registered apprentices.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+ATD: Number of Newly Registered Apprentices
+Actual
+4,261
+4,077
+3,730
+Target
+3,200
+3,200
+4,200
+4,200
+How Are We Doing
+While the Division missed the target goal of 4,200, still represents a significant increase in apprenticeship opportunities and demonstrates the division's ongoing efforts to support workforce
+development.
+Factors Affecting Results
+This KPM measures the growth of registered apprenticeship programs statewide but does not account for the increased workload and support required to establish new programs and address
+apprentice challenges. Additionally, it only provides a partial view of program performance, as it does not consider the ratio of newly registered apprentices to total apprentices.
+KPM #8
+Minority Apprenticeship Participation - Percentage of new apprenticeship participants who are minorities.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+ATD: Percentage of Minority Apprentices
+Actual
+25%
+30.88%
+28%
+Target
+25%
+25%
+25%
+25%
+How Are We Doing
+The Apprenticeship and Training Division has met or exceeded its target for newly registered apprentices from underserved populations for the fourth consecutive year. Effective outreach and
+statewide coordination efforts contributed to this achievement, and the division remains committed to engaging diverse groups across Oregon.
+Factors Affecting Results
+The current KPM measures the growth of registered apprenticeship programs statewide but has limitations in its scope. Specifically, it does not account for the increased workload and support
+required to establish new programs and address apprentice challenges. Furthermore, it provides a partial view of program performance, as it does not consider the ratio of newly registered
+apprentices to total apprentices. A more comprehensive metric, such as tracking this ratio, would offer a more detailed assessment of the division's effectiveness.
+To provide a more nuanced understanding of program performance, the Bureau is proposing the development of new KPMs that focus on underserved communities and their participation in
+apprenticeship programs. Specifically, the proposed metrics would track the percentage of underserved communities represented among newly registered apprentices, certificate earners, and total
+registered individuals. These metrics would provide valuable insights into the division's efforts to promote diversity and inclusion in apprenticeship programs.
+KPM #9
+Administrative Prosecution Unit (APU) - Percentage of cases scheduled for hearing within 30 days of assignment to APU.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+Percentage of cases scheduled for hearing within 30 days of assignment to APU.
+Actual
+Target
+How Are We Doing
+The Oregon Bureau of Labor and Industries currently meets the target for the Administrative Prosecution Unit's performance metric of having all hearings scheduled within 30 days of assignment to
+APU.
+Factors Affecting Results
+The unit consistently exceeds this metric. As a result, the agency is proposing to adjust the metric to better reflect the unit's actual performance and challenges. This adjustment aims to set a more
+realistic and ambitious target that aligns with the unit's goals and capabilities.
+KPM #10
+Technical Assistance - Percentage of employer technical assistance calls or emails returned no later than the next business day.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+TA: Percentage of calls responded to within two business days.
+Actual
+99%
+98%
+98%
+Target
+95%
+95%
+95%
+95%
+How Are We Doing
+The Employer Assistance staff has effectively managed the 8% increase in calls and emails, from 17,872 in 2022-2023 to 19,257 in 2024, and has even slightly improved their response time, with the
+percentage of responses returned after the next business day decreasing from 1.9% to 1.6%. It should be noted that in order to maintain this response time the Employer Assistance Unit created an
+unbudgeted position during the 23-25 biennium.
+Factors Affecting Results
+The Employer Assistance Unit takes pride in providing excellent and timely responses to Oregon's employers. As we move into the next biennium, it will be crucial to monitor this metric, especially
+given the significant increase in requests due to Paid Leave Oregon.
+In fiscal year 2024, the volume of requests rose by 8% compared to fiscal year 2023 and by 26% compared to fiscal year 2022.
+KPM #11
+Prevailing Wage Rate Pre-determinations
+- Response time for requests by public agencies concerning potential coverage of projects under state Prevailing Wage laws.
+Data Collection Period: Jul 01
+- Jun 30
+* Upward Trend = positive result
+Report Year
+2022
+2023
+2024
+2025
+2026
+Wage and Hour Division: Percentage of PWR Predeterminations Processed within 15 days
+Actual
+89.30
+Target
+How Are We Doing
+The Wage and Hour Division has shown improvement in responding to requests for Prevailing Wage Rate (PWR) coverage determinations in FY 2024 compared to FY 2023.
+In FY 2023, the division responded to these requests within 15 days 92% of the time. In contrast, in FY 2024, the division responded to requests for PWR predeterminations within 15 days 97% of the
+time. This represents a 5%-point increase in timely determinations, demonstrating the division's efforts to prioritize timely determinations have been effective. The division not only met but exceeded its
+target goal of responding to 95% of requests within 15 days, showcasing a significant achievement in improving its performance. The Division has made a concerted effort to respond to these requests
+in a timely manner over the past year, however that involves removing prevailing wage investigators from their cases to do so, which you can see reflected in the extended length of time it is taking to
+process those cases.
+Factors Affecting Results
+The Division experienced a modest increase in Prevailing Wage Rate (PWR) predetermination requests, from 85 in FY 2023 to 86 in FY 2024, following a 10-request increase from FY 2022 to FY
+2023. The complexity of these requests has also increased due to the introduction of new funding sources, such as "Lift Funds" and community block grants, which require additional analysis to
+determine if they meet the definition of public funds and whether exemptions apply.
