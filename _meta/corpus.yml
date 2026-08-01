@@ -43,7 +43,7 @@ content_roots:                       # where document files live (document/hybri
   #     procedures: procedure
 
 plugins:
-  # citation_module: "src.citation_schemes"    # calls mcp.framework.register_scheme()
+  citation_module: "src.citation_schemes"      # registers `appr`, plus outbound ORS/OAR
   # snapshot_slice_module: "src.slicing:slice" # (doc_id, snapshot_id, raw_text) -> str
   # semantic_search_module: "src.semantic_search"  # module exposing available() -> bool
   #                                                # and rank(query, want) -> [doc_id]

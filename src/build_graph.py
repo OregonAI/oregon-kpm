@@ -75,9 +75,47 @@ def edges_for(fm: dict) -> list[dict]:
     return out
 
 
+def series_edges(metas: list[dict]) -> list[dict]:
+    """MECHANICAL derivation: link each agency's report to the year before it.
+
+    The template invites replacing `edges_for` when a corpus needs derived rather than
+    hand-authored edges, and this corpus needs it for a reason specific to the source.
+
+    Every APPR carries a ROLLING FIVE-YEAR HISTORY, so the same (agency, measure, year)
+    appears in up to five documents and 489 of those pairs DISAGREE -- restatements and
+    methodology changes recorded in _meta/series.json. A reader who lands on one report has
+    no way to reach the others from the document alone: the reports never cite each other,
+    because each is written as a standalone submission to the Legislature.
+
+    So the chain is derived from (agency, reporting_year), not extracted from text. Only
+    CONSECUTIVE reporting years are linked. A gap is left as a gap -- LFO's own rule is that
+    a missing agency-year means the agency was "non-reported", and bridging that with an
+    edge would erase the fact.
+
+    Hand-authoring these was never an option: 789 sources across 83 agencies and 13 years,
+    and every one of them would have to be revisited whenever a year is added.
+    """
+    by_agency: dict[str, dict[int, str]] = {}
+    for m in metas:
+        agency, year = m.get("agency"), m.get("reporting_year")
+        if not agency or not year:
+            continue
+        try:
+            by_agency.setdefault(agency, {})[int(year)] = m["id"]
+        except (TypeError, ValueError):
+            continue
+    out = []
+    for years in by_agency.values():
+        for y, doc_id in sorted(years.items()):
+            prev = years.get(y - 1)
+            if prev:
+                out.append({"from": doc_id, "type": "related", "to": prev})
+    return out
+
+
 def build() -> dict:
     config = yaml.safe_load(CONFIG.read_text(encoding="utf-8"))
-    nodes, edges = [], []
+    nodes, edges, metas = [], [], []
     for path in content_files(config):
         fm = frontmatter(path)
         if not fm or not fm.get("id"):
@@ -85,7 +123,9 @@ def build() -> dict:
         nodes.append({"id": fm["id"], "title": fm.get("title", ""),
                       "doc_type": fm.get("doc_type", ""),
                       "path": str(path.relative_to(ROOT))})
+        metas.append(fm)
         edges.extend(edges_for(fm))
+    edges.extend(series_edges(metas))
     local = {n["id"] for n in nodes}
     return {"corpus": (config.get("corpus") or {}).get("id", ""),
             "n_nodes": len(nodes), "n_edges": len(edges),
