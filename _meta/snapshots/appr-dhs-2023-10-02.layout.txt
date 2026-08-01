@@ -1,0 +1,907 @@
+Department of Human Services
+            Annual Performance Progress Report
+
+                    Reporting Year 2023
+
+             Published: 10/2/2023 10:12:46 AM
+ KPM #      Approved Key Performance Measures (KPMs)
+
+1          OLDER ADULTS NEEDING LONG TERM CARE SERVICES (APD) - The percentage of older adults (65+) needing publicly-funded long term care services
+2          LONG TERM CARE RECIPIENTS LIVING OUTSIDE OF NURSING FACILITIES (APD) - The percentage of Oregonians accessing publicly-funded long-term care services who are living outside of nursing facilities
+3          TIMELY APD ABUSE INVESTIGATIONS - The percentage of abuse reports assigned for field contact that meet policy timelines
+4          ABSENCE OF REPEAT MALTREATMENT OF ABUSED/NEGLECTED CHILDREN (CW) - The percentage of abused/neglected children who were not subsequently victimized within 6 months of prior victimization
+5          TIMELY REUNIFICATION OF FOSTER CHILDREN (CW) - The percentage of foster children exiting to reunification within 12 months of foster care entry
+6          TIMELY ADOPTION ONCE CHILDREN ARE LEGALLY FREE (CW) - The percentage of legally free children adopted in less than 12 months
+7          REDUCTION OF RACE/ETHNICITY DISPARITIES IN LENGTH OF STAY (CW) - Outcome disparity in length of stay (reported in months) for children in substitute care by race/ethnicity
+8          CHILDREN SERVED BY CHILD WELFARE RESIDING IN PARENTAL HOME - The percentage of children served in Child Welfare on an average daily basis (in home and foster care) who were served while residing in their parent’s home
+9          TIMELY ELIGIBILITY DETERMINATION FOR ODDS SERVICES - The percentage of individuals who apply for ODDS services who are determined eligible within 90 days from application
+10         INTELLECTUAL/DEVELOPMENTAL DISABILITY DISPROPORTIONALITY (ODDS) - Percentage of IDD service recipients by race and ethnicity compared to the Oregon population race and ethnicity
+11         SUPPORTED ODDS EMPLOYMENT SERVICES TO MAINTAIN COMPETITIVE INTEGRATED EMPLOYMENT - Number of individuals in competitive integrated employment or individual supported employment
+12         ABUSE/NEGLECT OF ADULTS WITH DEVELOPMENTAL DISABILITIES (ODDS) - The percentage of substantiated abuse/neglect of adults in licensed and endorsed programs
+13         HOUSEHOLDS AT, OR ABOVE, LIVING WAGE FOUR QUARTERS AFTER LEAVING SSP PROGRAM - The median percentage of households leaving Self Sufficiency who are at, or above, a living wage four quarters out
+14         SSP PARTICIPANTS REPORTING HOUSING STABILITY - The percentage of Self Sufficiency participants who report their housing needs are fully met
+15         SSP PARTICIPANTS REPORTING FOOD SECURITY - The percentage of Self Sufficiency participants who report they did not worry about having enough food, or actually run out of food, in the past 12 months
+16         SSP PARTICIPANTS REPORTING GREATER SELF-EFFICACY - The percentage of Self Sufficiency participants who report they feel more confident in their ability to improve their current circumstances because of SSP and other services they were
+           connected to
+17         OVRS CONSUMERS WHO ARE SUCCESSFULLY EMPLOYED AT PROGRAM EXIT - The percentage of Office of Vocational Rehabilitation Services (OVRS) consumers with a goal of employment who are employed at program exit
+18         OVRS CONSUMERS EMPLOYED IN SECOND QUARTER FOLLOWING PROGRAM EXIT - The percentage of OVRS clients closed from plan who are employed during second quarter following program exit
+19         OVRS CONSUMERS EMPLOYED IN FOURTH QUARTER FOLLOWING PROGRAM EXIT - The percentage of OVRS clients closed from plan who are employed during fourth quarter following program exit
+20         OVRS MEDIAN QUARTERLY WAGE AT SECOND QUARTER FOLLOWING PROGRAM EXIT - Median quarterly wage at second quarter following OVRS program exit
+21         DHS CUSTOMER SATISFACTION - The percentage of customers rating their satisfaction with DHS above average, or excellent
+22         REDUCTION IN DISPROPORTIONALITY OF CHILDREN AT ENTRY INTO SUBSTITUTE CARE (CW) - Measure of the average disproportionality index across race/ethnicity for children at entry into substitute care
+                                                                                                                           red
+                                                                                                                           green
+                                                                                                                           yellow
+
+ Performance Summary                                                                                                            Green                                          Yellow                                             Red
+
+                                                                                                                            = Target to -5%                              = Target -5% to -15%                               = Target > -15%
+Summary Stats:                                                                                                                 54.55%                                          13.64%                                           31.82%
+KPM #1       OLDER ADULTS NEEDING LONG TERM CARE SERVICES (APD) - The percentage of older adults (65+) needing publicly-funded long term care services
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2019                              2020                              2021                               2022                              2023
+LTC NEED PREVENTION
+Actual                                                                         2.95%                             2.90%                              2.73%                             2.71%                              2.68%
+Target                                                                         3.08%                             3.08%                              3.08%                             3.07%                              3.06%
+
+How Are We Doing
+In 2023, only 2.68% of Oregonians 65 or older needed assistance with publicly funded long-term care. This continues a noticeable downward trend that exceeds legislative targets.
+
+Factors Affecting Results
+The success of the AAA network administering Oregon Project Independence, Older Americans Act programs and the Aging and Disability Resource Connection contribute towards keeping older
+adults independent. More preventative programs should be considered to ensure targets continue to be met, ultimately resulting in system sustainability.
+
+We are concerned that part of the decline displayed above is related to fears that older adults may have about receiving LTSS with COVID still active in Oregon. Additionally, we are exploring the ONE
+system’s impact on older adults.  APD will continue to analyze the factors that are decreasing the utilization of publicly funded long term care.
+KPM #2     LONG TERM CARE RECIPIENTS LIVING OUTSIDE OF NURSING FACILITIES (APD) - The percentage of Oregonians accessing publicly-funded long-term care services who are living
+           outside of nursing facilities
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                    2019                                2020                               2021                               2022                               2023
+LTC RECIPIENTS LIVING OUTSIDE OF NURSING FACILITIES
+Actual                                                                          87.20%                             87.50%                              88.07%                             88.70%                             88.70%
+Target                                                                            89%                                89%                                 89%                              89.50%                               90%
+
+How Are We Doing
+APD’s performance in 2023 slightly behind the goals established.  Recent challenges related to workforce across the home and community- based care continuum have led to many individuals staying
+for longer periods of time in nursing facilities, however we suspect that continued fears associated with COVID have led to a decline in nursing facility admissions.  Additionally, statewide policies have
+focused on enhancing Medicaid in-home services and supports which may increase in-home options for individuals.  The Legislature authorized innovative programs in the 2021 Legislative Session.
+The expansion of Oregon Project Independence through Medicaid, once approved by the Centers for Medicare and Medicaid Services, should result in more individuals with higher incomes and
+assets receiving services in their own home delaying entry into higher levels of care.
+
+Affordability for private pay individuals in any setting is challenging. Adult Foster Home rates and rates provided to in-home care agencies lag behind comparable systems, straining providers’ ability to
+serve Medicaid individuals in home and community-based care settings.  Workforce challenges, with low wages for direct care workers continues to stress the system.  Medicaid rates, if too low,
+increase private pay rates and decrease the capacity in home and community-based-care options.
+
+Factors Affecting Results
+Throughout the pandemic, we have learned, that in most cases, hospitals prefer to discharge older adults and people with disabilities needing additional care to nursing facilities. Institutional care may
+be appropriate for certain individuals for short periods of time. However, alternatives such as reviewing insurance coverage for Home Health and establishing more intensive supports in other settings
+could help support the state in continuing to reach this KPM.  For Medicaid consumers, DHS must continue to proactively ensure that older adults and people with disabilities are appropriately
+transitioned from nursing facilities when their care can be supported in less restrictive and less costly settings. Doing this will allow DHS to continue meeting our targets. APD also needs to focus
+efforts on developing new adult foster homes, addressing the workforce shortage across the long-term care continuum, and preserving our existing provider base.
+KPM #3          TIMELY APD ABUSE INVESTIGATIONS - The percentage of abuse reports assigned for field contact that meet policy timelines
+                Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2019                               2020                               2021                               2022                                2023
+Abuse Investigation Timeliness
+Actual                                                                          96.70%                             95.90%                              91.20%                               90%                              93.30%
+Target                                                                            95%                                95%                                 95%                                95%                                95%
+
+How Are We Doing
+As was the case last year, performance on this measure is below the target goal of 95% but has slightly increased from the last two years’ performance.
+
+Factors Affecting Results
+This measure includes a wide variety of assigned response times and two investigative entities.
+
+       Community Investigations completed by Adult Protective Services have response times of same day, end of next business day, or within 5 business days.
+       Facility (Adult Foster Home, Assisted Living Facility, Residential Care Facility, Memory Care) Investigations completed by Adult Protective Services have response times of same day and end of
+       next business day.
+
+       Nursing Facility investigations completed by the Nursing Facility Licensing Unit within Safety, Oversight and Quality have assigned timelines of two days or ten days.
+
+During this reporting period, there were 18,633 investigations completed by APS (compared with 16,366 from the past reporting period, an increase of 13.9%). Of those, 18,317 (98.3%) received a
+timely response. This is a slight decrease from 98.6% during the last reporting period.
+
+During this reporting period, there were 1,411 Nursing Facility Investigations (compared with 1,713 from the past reporting period, a decrease of 17.6%). Of those, 391 (27.7%) received a timely
+response. This is a significant increase from 8.8% during the last reporting period.
+On March 4, 2020, when the COVID-19 pandemic started, CMS paused all states’ ability to conduct recertification and complaint investigations except for the highest priority complaints and focused
+on infection control measures and oversight.  By November 12, 2021, NFSU had accumulated a backlog of approximately 496 complaints when CMS allowed states to resume investigation of all
+pending complaints and resume conducting recertification surveys.  At that time, all the pending backlog complaints had exceeded the investigative timelines required by CMS. NFSU was required by
+CMS to develop and implement a Corrective Action Plan that CMS has been monitoring quarterly via the State Performance Standards System (SPSS).  As of September 25, 2023, the remaining
+backlog for NFSU has been reduced to approximately 182 complaints (decreasing our total backlog by 63.31%), and it has met the CMS expectations related to decreasing the complaint and
+recertification survey backlog. NFSU continues to prioritize investigating the highest priority complaints and has met the CMS investigation timelines for those complaints.
+
+Additionally, turnover, recruitment and training have presented several challenges for the NFSU. The work the NF Survey team does has been particularly hard throughout the public health
+emergency, resulting in Surveyors retiring or moving to other positions. Recruitment has been taking longer because the NF Survey team is competing with many other entities for candidates who
+meet the qualifications and have the necessary experience, particularly RN’s. Surveyor wages are not competitive with the current market wage for RNs. When a new NF Surveyor is hired, it takes
+months for a new Surveyor to complete the required training to meet federal standards and be able to work more independently. Recruitment strategies are being evaluated such as: streamlining and
+identifying process improvement opportunities; reviewing classification and compensation to be able to recruit competitively for RNs; and promoting professional development for current APD staff
+interested in promotional career growth.
+KPM #4     ABSENCE OF REPEAT MALTREATMENT OF ABUSED/NEGLECTED CHILDREN (CW) - The percentage of abused/neglected children who were not subsequently victimized within 6
+           months of prior victimization
+           Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2019                              2020                               2021                              2022                               2023
+ABSENCE OF REPEAT CHILD MALTREATMENT
+Actual                                                                        93.20%                             92.90%                            94.10%                               93%                             93.60%
+Target                                                                          97%                                97%                               97%                                97%                               97%
+
+How Are We Doing
+The outcome of 93.6% is Federal Fiscal Year 2022 data, for Report year 2023 (October 2021 to September 2022). This period under review shows a small increase in the absence of repeat
+maltreatment of abused/neglected children.
+
+Factors Affecting Results
+There is ongoing cross-program analysis of root cause issues impacting this key performance measure.  Oregon statute requires that ORCAH document and assign a new report of abuse for each
+incident of abuse reported. This at times results in multiple reports of a child victim that have occurred over a period. Younger more vulnerable children and children with exceptional behavioral and
+mental health needs are interacting with professionals from the community who are relying on Oregon’s child welfare system to address family conditions when there are gaps in available resources.
+Oregon continues to work with community and staff to educate on poverty versus neglect as it is often being confused for child abuse and neglect in communities resulting in an increase in child
+abuse/neglect reported to ORCAH.  Local offices are selecting goals to address sufficiency of information gathering during the child protective service process to accurately identify safety threats and
+the development of safety plans that help ensure children and youth are not subject to another occurrence of abuse or neglect during the Continuous Quality Improvement cycles. The Safety and
+Permanency programs are part of this planning and are providing coaching and support. Child Welfare leadership has a focus on community engagement to improve access to resources and services
+and prevent child abuse and neglect.
+KPM #5       TIMELY REUNIFICATION OF FOSTER CHILDREN (CW) - The percentage of foster children exiting to reunification within 12 months of foster care entry
+             Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                    2019                                2020                               2021                               2022                               2023
+Timely Reunification
+Actual                                                                          71.90%                             75.70%                             74.70%                              72.50%                             75.30%
+Target                                                                            76%                                76%                                76%                                 76%                                76%
+
+How Are We Doing
+In FFY 2022, Oregon increased by 2.8 percentage points in this measure. This is a significant improvement over the prior two years when there was a decline in the percentage of foster children
+exiting to reunification within 12 months of foster care entry. Oregon’s performance of 75.3 percent is less than 1 point from the target goal of 76 percent.
+
+The outcome of 75.3% is Federal Fiscal Year 2022 data, for Report year 2023 (October 2021 to September 2022).
+
+Factors Affecting Results
+A couple of factors that may have negatively impacted the reunification rate of children in foster care during the previous two years has changed or improved. The significant drop in the number of
+children removed that occurred between 2018 to 2021 has slowed down and there was a slight increase in 2022. A decrease in child removal may impact timely reunification rates because there are
+proportionally more children of families with higher needs entering foster care. Since at least January of 2022, there has also been a steady reduction in the average number of cases per permanency
+worker across the state allowing more time for workers to engage parents and implement reunification plans.
+
+Over the last two years, Oregon has continued to enhance reunification efforts by significantly improving the timeliness of case plans within 60 days of a child entering foster care and steadily
+increasing the percentage of monthly face-to-face contacts of caseworkers with parents. The Permanency Quality Assurance Reviews that are conducted twice a year have also indicated an
+improvement in the quality of written Ongoing Safety Plans and Conditions for Return.
+KPM #6        TIMELY ADOPTION ONCE CHILDREN ARE LEGALLY FREE (CW) - The percentage of legally free children adopted in less than 12 months
+              Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                  2019                               2020                              2021                               2022                              2023
+Timeliness of Adoption Once Legally Free
+Actual                                                                        43.70%                             47.20%                            53.60%                            68.50%                             64.30%
+Target                                                                          54%                               54%                                54%                               54%                               54%
+
+How Are We Doing
+The outcome of 64.3% is Federal Fiscal Year 2022 data, for Report year 2023 (October 2021 to September 2022). Oregon again surpassed the target performance for this measure although the
+actual performance did decrease slightly. It’s also the third straight year when the actual percentage met exceeded 50% and the second year it exceeded 60%.
+
+Factors Affecting Results
+Oregon continues to coordinate efforts among ODHS Central Office Child Permanency Program staff, ODHS Local Branch Office staff, Courts, the Juvenile Court Improvement Program (JCIP), and
+other entities/partners to use CQI strategies and activities to strive for improvements in this area. KPM #6 is a standing agenda item for the JCIP Advisory Committee quarterly meetings. Targeted
+tracking of adoption finalization status/progress is done through the ODHS Child Permanency Program staff and assistance is provided to ODHS Local Branch Office staff for efforts to move adoption
+placement and legally freeing activities forward simultaneously and timely. Overall timeliness to permanency continues to be an area of CQI work for the department and the outcome of this measure
+impacts and is impacted by that work.
+KPM #7     REDUCTION OF RACE/ETHNICITY DISPARITIES IN LENGTH OF STAY (CW) - Outcome disparity in length of stay (reported in months) for children in substitute care by race/ethnicity
+           Data Collection Period: Oct 01 - Sep 30
+
+                                                                               actual     target
+
+  Report Year                                                                 2019                              2020                              2021                             2022                              2023
+a. Non-Hispanic African American
+Actual                                                                                                                                           37.13                             32.17                             34.80
+Target                                                                                                                                             23                                20                                18
+b. Non-Hispanic Asian/Pacific Islander
+Actual                                                                                                                                           27.65                             29.54                             36.20
+Target                                                                                                                                             18                                18                                18
+c. Non-Hispanic White
+Actual                                                                                                                                           26.75                             27.89                               28
+Target                                                                                                                                             20                                19                                18
+d. Non-Hispanic Native American/Alaskan Native
+Actual                                                                                                                                           27.70                             31.24                             25.50
+Target                                                                                                                                             18                                18                                18
+e. Hispanic (any race)
+Actual                                                                                                                                           24.43                             28.04                             30.40
+Target                                                                                                                                             18                                18                                18
+
+How Are We Doing
+For reporting year 2023 most populations increased their length of stay in months, except for Non-Hispanic Native American/Alaskan Native children and youth, which dropped almost 6 months
+(down/less is good).  Non-Hispanic African American children/young adults continued to have an average length of stay at exit longer than most other races save Non-Hispanic Asian/Pacific Islanders
+who experienced the largest increase at 6-months (down/less is good) from 2022 to 2023.
+Factors Affecting Results
+Over the last few years, there has been a drop in the removal rate of children from their families resulting in a drop in the total foster care population. Because the number of assigned CPS
+assessments has not similarly decreased, the drop is likely due to practice changes related to child removal decisions – for the better. If true, then the resulting foster care population would have
+proportionately more children of families with higher needs and would therefore be less likely to return home sooner.  At the same time, a steady reduction in the average number of cases per
+permanency worker has been allowing more time for workers to engage parents and implement better reunification plans so Child Welfare will be interested to track the progress of this KPM over the
+next year to see if there is a resulting increase in performance (less months in care at exit).
+KPM #8     CHILDREN SERVED BY CHILD WELFARE RESIDING IN PARENTAL HOME - The percentage of children served in Child Welfare on an average daily basis (in home and foster care) who
+           were served while residing in their parent’s home
+           Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2019                               2020                               2021                               2022                               2023
+CHILDREN RESIDING AT HOME IN LEAST RESTRICTIVE SETTING
+Actual                                                                           23%                              22.10%                             22.60%                             22.50%                             22.20%
+Target                                                                           33%                                33%                                33%                                33%                                33%
+
+How Are We Doing
+The outcome of 22.2% is Federal Fiscal Year 2022 data for report year 2023. This data point indicates Oregon continues to hold steady on the number of children served in the parental home for FFY
+2022. The implementation of the Family Preservation approach with the support of the Family First Act began in March 2022. During this reporting period the approach was being developed in three
+branches across the state for the latter 6 months so the impact felt in the overall percentages for this measure would be minimal. Oregon expects to see an increase in children served in home for FFY
+2023 as the preservation approach in combination with supportive evidence-based services through Family First are slowly implemented in a phased approach across the state in partnership with the
+Self Sufficiency Program. There has been clear feedback from families that they are experiencing the agency in a different more supportive and trauma-informed way. Staff have stated the
+collaboration across programs opens more supports and resources for families for in-home safety planning as well as supporting reunification. Intentional, and strategic efforts to reach out to
+communities and community partners by listening, repairing relationships and repurposing funding to support their efforts in local communities has built trust and strengthened and grown services and
+increased concrete and economic supports for families. There also continues to be a focus on putting the Well-being Together Initiative and the Vision for Transformation into action on a local level by
+strengthening relationships across ODHS programs and within the community and individual families ODHS is serving.
+
+Factors Affecting Results
+Oregon continues efforts to reach out and collaborate with communities and community partners to come together to develop resources throughout the state to support family stability which leads to
+children remaining safely in their homes while working with ODHS or returning home quickly after being placed in substitute care. Oregon continues to focus on family engagement, concrete
+connections to networks of support and engaging natural supports for families to manage safety threats while children are in-home. The Family Preservation approach being developed over the six
+months of this reporting period in the three demonstration branches has focused on the foundations of in-home work. This includes writing guidance and procedures, strengthening practice and
+integrating the work of the Self Sufficiency Program with the work of Child Welfare with the goal of seamless supports for families. This foundational work was imperative to setting the stage for
+innovations that are predicted to support an increase in the number of in-home cases. It will take time to see these impacts reflected in the data. As the preservation approach moves across the state
+and real-time feedback informs a final “model” it should result in short- and long-term outcomes supporting families being together. Case reviews continue to indicate in-home cases are often worked
+by protective services workers instead of these cases being transitioned to permanency/preservation workers which can result in less intensive support for families in their homes, cases closed prior to
+the family conditions being fully addressed, staff seeing families in home on an infrequent basis or insufficient safety planning resulting in removal and placement in foster care.  The family
+preservation program hopes to address each of these areas.
+
+Placement of children in foster care is the most restrictive and least desirable outcome to manage child safety. Whenever possible, children who can remain with their family with an in-home safety
+plan or be safety reunified with their family will continue to receive services in-home. Currently, Oregon’s practice for offering in-home cases is inconsistent around the state. The Department believes
+the implementation of Family Preservation and the services funded through the Family First Act will counter this inconsistency and offer specific guidance and support for workers and families to
+increase in-home cases.
+KPM #9     TIMELY ELIGIBILITY DETERMINATION FOR ODDS SERVICES - The percentage of individuals who apply for ODDS services who are determined eligible within 90 days from application
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual      target
+
+  Report Year                                                                    2019                               2020                               2021                               2022                                2023
+SERVICE ELIGIBILITY - ODDS
+Actual                                                                            61%                                67%                                59%                                55%                                64%
+Target                                                                            70%                                72%                                75%                                75%                                75%
+
+How Are We Doing
+ODDS has seen a significant increase in people having an eligibility determination within 90 days in FY 2023.
+
+Factors Affecting Results
+ODDS has made Oregon Administrative Rule amendments to permanently adopt presumptive eligibility criteria. This rule went into effect on 4/1/2023 and all eligibility specialists were trained how to
+interpret and implement decisions under this rule later that same month. An additional rule amendment was made to require that all pending applications are reviewed at least every month to
+determine if a decision can be made
+
+Additional impact are Administrative Exam rates have increased, providing higher reimbursement to providers. Additional changes are coming later in 2023 to remove an additional billing/claim barrier
+which should offer a more streamlined approach for providers to be reimbursed for evaluations.
+
+Additional factors impacting results include:
+
+       Limited psychologists willing to accept Medicaid funding for administrative examinations
+       Educational settings completing fewer intellectual evaluations due to shortage of evaluators resulting in an increase in CDDPs needing to arrange intellectual testing
+
+       Increased delays in receiving existing medical or psychological evaluations due to fewer support staff at medical and educational offices.
+Actions:
+
+        ODDS has filed permanent rules for presumptive eligibility and to review all pending applications monthly.
+        Rate increases for psychologists and barriers removed with accessing payment following an evaluation.
+        Analysis of equity data in who is found eligible and who is denied. Identify areas for improvement and breaking barriers as identified.
+KPM #10     INTELLECTUAL/DEVELOPMENTAL DISABILITY DISPROPORTIONALITY (ODDS) - Percentage of IDD service recipients by race and ethnicity compared to the Oregon population race
+            and ethnicity
+            Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2019                              2020                              2021                              2022                              2023
+INTELLECTUAL/DEVELOPMENTAL DISABILITY DISPROPORTIONALITY (ODDS)
+Actual
+Target                                                                                                                                                                                                                  1%
+
+How Are We Doing
+ODDS has been working to assess equity within the Intellectual and Developmental Disabilities (I/DD) systems. To do that, ODDS created disproportionality metric. ODDS will use this data as a
+starting point to understand how our system serves people differently based on race and ethnicity.
+
+    * Upward Trend = positive result
+
+                                            Report Year                                                   2019         2020         2021        2022        2023
+a. American Indian/Alaskan Native
+Actual                                                                                                                                                       2.39
+Target                                                                                                                                                        1
+b. Asian
+Actual                                                                                                                                                       0.74
+Target                                                                                                                                                        1
+c. Black
+Actual                                                                                                                                                                 2.64
+Target                                                                                                                                                                   1
+d. Native Hawaiian and Pacific Islander
+Actual                                                                                                                                                                 1.68
+Target                                                                                                                                                                   1
+e. White
+Actual                                                                                                                                                                 1.10
+Target                                                                                                                                                                   1
+f. Hispanic or Latina/o/x/e
+Actual                                                                                                                                                                 0.54
+Target                                                                                                                                                                   1
+g. More than One Race
+Actual                                                                                                                                                                 0.33
+Target                                                                                                                                                                   1
+h. Other Race
+Actual                                                                                                                                                                 0.63
+Target                                                                                                                                                                   1
+
+Factors Affecting Results
+This data helps us explore how societal and systemic barriers may cause disproportionalities in how individuals of various racial and ethnic background access services and supports through ODDS
+and how they can be addressed through policy and practice. From this, we can start building questions to have conversations and develop efforts that potentially address inequities we see within our
+system. With both ODDS, CMEs and other community partners having access to the same data, we can support each other in understanding what the data is telling us and how we can adjust
+engagement with different communities. Data allows us to see the effectiveness of our efforts and to be able to see improvements more accurately over time.
+
+Actions:
+
+• Instituted requirements for Case Management Entities (CMEs) to develop and maintain service equity assessments and action plans. CMEs will report annually to ODDS on updates and work closely
+on collective initiatives. This is another way ODDS can see potential barriers through a different perspectives and work together to address them.
+
+• Distributed additional funding appropriated by the Oregon Legislature to Case Management Entities to improve language access and cultural and linguistic competency in the program and issued
+language access requirements and guidance to CMEs.
+KPM #11     SUPPORTED ODDS EMPLOYMENT SERVICES TO MAINTAIN COMPETITIVE INTEGRATED EMPLOYMENT - Number of individuals in competitive integrated employment or individual
+            supported employment
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Report Year                                                                 2019                              2020                             2021                              2022                              2023
+SUPPORTED ODDS EMPLOYMENT SERVICES TO MAINTAIN COMPETITIVE INTEGRATED EMPLOYMENT
+Actual                                                                                                                                                                                                               1,871
+Target                                                                                                                                                                                                               1,680
+
+How Are We Doing
+ODHS surpassed its goal and currently has more than 1,800 people in competitive integrated employment.
+
+Factors Affecting Results
+ODHS continues to maintain policies, rate methodologies and other practices to ensure people with I/DD who want to go to work in the community are able to do so. This trend is continuing in Oregon.
+Actions: ODDS has been an Employment First state since 2008, meaning Oregon believes that anyone who wants to go to work can go to work with the right supports, no matter their disabilities or
+needs. It is the job of ODDS and ODHS to ensure those supports are in place and easy to access. Some work includes: rolling out a new employment path service that allows for 1:1 support in an
+individualized way, continuing to work cross-program with Vocational Rehabilitation and Department of Education on policies, continuing regular technical assistance to our case management entities
+and providers, etc. Within Employment First there is consistent partner engagement and system improvements to help ensure people who want to go to work have the supports to do so.
+KPM #12      ABUSE/NEGLECT OF ADULTS WITH DEVELOPMENTAL DISABILITIES (ODDS) - The percentage of substantiated abuse/neglect of adults in licensed and endorsed programs
+             Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2019                               2020                               2021                               2022                               2023
+ABUSE OF PEOPLE WITH DEVELOPMENTAL DISABILITIES
+Actual                                                                          2.49%                              2.23%                              1.03%                              1.34%                               1.67%
+Target                                                                          1.70%                              1.70%                              1.70%                              1.70%                               1.70%
+
+How Are We Doing
+This metric applies to substantiated abuse of adults in licensed and endorsed programs. Because these programs have sought licenses or endorsements, ODDS can have a direct impact on the
+provider agencies involved in abuse and neglect. In previous years, most reports of abuse and neglect involved licensed settings. Employees in these settings are mandatory reporters of abuse and
+are trained to recognize signs of abuse. The estimate of abuse for this population increased by 0.33% over last year’s figure. The adult population receiving these services increased 2.0% from 2021
+to 2022 (8438 individuals to 8606) and the number of adults with a substantiated abuse allegation rose from 113 in 2021 to 144 in 2022, an increase of 27.4%. Because of a lack of national abuse
+data, it is a challenge to establish a meaningful IDD abuse rate target. Targets are currently based on trends of historical data. Oregon’s recent transition to a Centralized Abuse Management (CAM)
+information system is providing enhanced tracking and monitoring of abuse referrals and investigations. The CAM system will enhance access and availability of information across the state and
+greatly improve the ability to make data informed decisions.
+
+Factors Affecting Results
+The COVID-19 pandemic had an impact on every facet of life and undoubtedly impacted the abuse of vulnerable populations for the past several years. While we do not have data that clearly informs
+how the pandemic influenced abuse and neglect of IDD populations, a brief search and review of recent findings demonstrated significant challenges to IDD clients. Key impacts included difficulty
+understanding restrictions and changes in normal routines, loss of socialization, and often a lower quality of health care. The pandemic increased stress associated with confinement, and in some
+cases increased clients’ reliance on abusive support persons while simultaneously creating barriers to reporting. Implementation of emergency infection control measures meant that individuals with
+developmental disabilities were more isolated than normal. Such isolation could reduce abuse rates simply by reducing person-to-person interactions. However, the isolation increased stress and
+therefore may have increased the potential for negative interactions between IDD clients and their service providers. Decreased staffing may also have reduced the number of potential observers,
+resulting in reduced reporting of allegations. Over the previous four years the overall trend has been a decline in abuse rates which reached a low during the first year of the pandemic and has
+increased slightly each year since. Even with the increase in the rate the past two years, abuse rates appear below the pre-COVID levels. It appears that, consistent with other trends, unknown COVID
+factors had a significant effect on abuse findings and/or reporting for these populations. Additionally, abuse rates for people with intellectual/developmental disabilities can be affected by other factors
+including: • The high acuity and service needs of residents being served in community-based care settings. • High turnover rate of treatment and support staff in all settings. • An adult’s right to make
+decisions about their living situation, companions, etc. • Barriers to the reporting of abuse by cognitively impaired clients. • Limited resources available to respond to and support people with
+intellectual/developmental disabilities who are abused (e.g. domestic violence shelters, counseling resources, etc.). Actions/What needs to be done in this area includes: • Ongoing training for service
+coordinators, personal agents, personal support workers, direct support providers, service providers and facility staff in recognizing, reporting, and preventing abuse. • Research and collaboration with
+community response systems and resources, including domestic violence interventions, sexual assault response, mental health services, housing, etc. • Coordination and participation with local area
+multidisciplinary teams and coordinated-care organizations
+KPM #13    HOUSEHOLDS AT, OR ABOVE, LIVING WAGE FOUR QUARTERS AFTER LEAVING SSP PROGRAM - The median percentage of households leaving Self Sufficiency who are at, or
+           above, a living wage four quarters out
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                         actual    target
+
+ Report Year                                                            2019                           2020                           2021                            2022                           2023
+HOUSEHOLDS AT, OR ABOVE, LIVING WAGE
+Actual                                                                 68.10%                         68.70%                         43.30%                         44.80%
+Target                                                                   71%                            71%                            71%                            71%                            71%
+
+How Are We Doing
+Factors Affecting Results
+KPM #14        SSP PARTICIPANTS REPORTING HOUSING STABILITY - The percentage of Self Sufficiency participants who report their housing needs are fully met
+               Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2019                               2020                               2021                                2022                               2023
+HOUSING STABILITY
+Actual                                                                          22.20%                              40.50%                             38.30%                             41.60%                              20.10%
+Target                                                                            25%                                 25%                                25%                                25%                                 25%
+
+How Are We Doing
+The Office of Self-Sufficiency Programs (SSP) is guided by the Oregon Department of Human Services (ODHS) Equity North Star1 and by the agency’s Building Well-being Initiative (BWBI) to
+advance a future where all who live in Oregon, regardless of race, identity, or place, have the resources and support they need to achieve whole well-being for themselves, their families, and their
+communities. The Office of Self-Sufficiency Programs (SSP) is dedicated to upholding this vision through supports and services aimed at improving the economic conditions of the communities we
+serve. Housing is a key social determinant of health and a foundation for successful communities. Affordable and permanent housing improves the quality of life of families by leading to better health,
+stability, safety and security. Where a person lives can predict their life expectancy2. The goal of this measure is to track the percentage of households connecting to Self-Sufficiency programs who
+report housing stability.
+
+In the Summer 2023, SSP conducted a statewide survey of Supplemental Nutrition Assistance Program (SNAP) participants who applied or reapplied for SNAP in 2023. The survey was voluntary and
+deployed in six languages: Arabic, Russian, Somali, Spanish, Vietnamese, and English. Of 45,987 SNAP applicants sent the survey link, there were 4,098 survey respondents which represents a
+8.9% percent overall response rate.
+
+The survey found that 20.1 percent of respondents reported housing stability, significantly lower compared to 41.6 percent in 2022. Based on the survey, 70 percent of the respondents reported
+housing instability, meaning that their housing needs are not fully met.
+
+The following is a breakdown by race, ethnicity and disability of participants who responded, “I and/or my family’s housing needs are fully met (i.e., I can afford to pay rent/mortgage and utilities without
+difficulty)” to the KPM question: “Please select what you feel is most true for your family now”. Please note the race, ethnicity and disability breakdown shown below is not generalizable to the entire
+SNAP population.
+
+Race/ethnicity/disability                                                    Percentage
+American Indian and Alaska Native                                            22.6%
+Asian                                                                        21.9%
+Black and African American                                                   9.6%
+Hispanic and Latino/a/x                                                      21.9%
+Middle Eastern and North African*                                            50%*
+Native Hawaiian and Pacific Islander*                                        0%*
+Two or more races                                                            16.5%
+Unknown                                                                      19.6%
+White                                                                        22.5%
+Grand Total                                                                  20.1%
+Individuals with disability(ies) (Included in the counts above)              16.7%
+*small sample size for this population
+
+The survey offers the opportunity to provide additional input. The following are a few of the quotes from survey respondents who opted to provide more input by answering the question “Is there
+anything else about your living situation you’d like to share?”:
+
+“The rent is expensive and I'm living on paycheck to paycheck.”
+
+“I'm living in fear where I live currently.”
+
+“I live in a clean and sober house. I've been clean for four years. It would be great if I could afford a one-bedroom apartment. But I have financial barriers.”
+
+“We are making it month to month.”
+
+“I'm waiting for a bed in a residential treatment center. Until then I am out on the street.”
+
+The general observations based on the comments from survey respondents are that survey respondents:
+
+       Need help accessing subsidized rent and affordable housing programs (i.e. Section 8)
+
+       Are struggling with cost-of-living following reductions in SNAP benefits
+       Have income too high to qualify for some benefits while still being unable to cover all expenses
+       Need support and advocacy on landlord/tenant issues (i.e., being evicted, unit is not habitable or needs repairs)
+       Need eviction prevention resources
+       Are living in less-than-ideal situations due to lack of options
+
+       Need help with imminent housing transitions (i.e. living arrangements with family are about to end)
+
+Factors Affecting Results
+Housing continues to be a paramount concern across Oregon and the lack of available housing and high housing costs are driving rapid increases in housing instability and homelessness.3,4
+Federally funded temporary pandemic protections like Oregon Emergency Rental Assistance Program (OERAP), Emergency Housing Vouchers, stimulus payments, and SNAP emergency allotments,
+along with policies such as eviction and foreclosure moratoria, helped people stay economically afloat and remain in their homes during the pandemic. In 2023, most of those policies have been rolled
+back. The remaining social safety net is inadequate to support long-term housing stability in the face of significant economic turmoil, particularly for people of color and those experiencing generational
+poverty. Many people accrued housing debt during the pandemic and currently in Oregon, around 40,000 households still owe nearly $63 million in back rent.5 Layer on inflation and rising housing
+costs and we see a recipe for substantially declining housing stability. Eviction rates in Oregon are now higher than they were in pre-pandemic years, and people identifying their race as Black or
+Other experience more evictions than all other populations combined.6
+
+Concerns about housing unaffordability were reflected throughout the SSP well-being survey conducted this year. People repeatedly cite that rents are too high, housing costs are increasing, they are
+worried about making rent, and are struggling to find help to pay for housing. Based on the survey comments, the phrase “...housing needs are fully met” and the word “stability” may be relative terms
+depending on the individual or family’s situation. In some situations, affording housing may not be a concern, but safety and quality of housing are pressing issues.
+
+Over the past five years SSP expanded TANF funded supports to cover housing related emergent needs. SSP has also provided for innovative contracting for housing related services, including
+navigation services in partnership with community-based organizations and agencies. SSP continues to partner with Oregon Housing and Community Services and other community-based
+organizations to support access to needed housing assistance.
+KPM #15     SSP PARTICIPANTS REPORTING FOOD SECURITY - The percentage of Self Sufficiency participants who report they did not worry about having enough food, or actually run out of food,
+            in the past 12 months
+            Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2019                               2020                               2021                               2022                               2023
+FOOD SECURITY
+Actual                                                                          12.30%                             25.30%                            39.10%                             33.50%                               18%
+Target                                                                           15%                                15%                                15%                                15%                                15%
+
+How Are We Doing
+The Office of Self-Sufficiency Programs (SSP) is guided by the Oregon Department of Human Services (ODHS) Equity North Star1 and by the agency’s Building Well-being Initiative (BWBI) to
+advance a future where all who live in Oregon, regardless of race, identity, or place, have the resources and support they need to achieve whole well-being for themselves, their families, and their
+communities. The Office of Self-Sufficiency Programs (SSP) is dedicated to upholding this vision through supports and services aimed at improving the economic conditions of the communities we
+serve. Food security has a direct connection to economic mobility – a key social determinant of health. Access to nutritious food helps babies hit milestones, fuels kids as they learn and grow, reduces
+the chances of chronic disease in adults and makes it more likely seniors are healthy and independent. The goal of this measure is to track the percentage of households connecting to Self-
+Sufficiency programs who report food security. The United States Department of Agriculture (USDA) defines food security as having consistent, dependable access to enough food for active, healthy
+living. The USDA’s “Household Food Security in the United States in 2021”2 report found that 10.2 percent of Oregon households were food insecure. USDA data on Household Food Security for
+2022 will be available October 25, 2023.3
+
+In the Summer 2023, SSP conducted a statewide survey of Supplemental Nutrition Assistance Program (SNAP) participants who applied or reapplied for SNAP in 2023. The survey was voluntary and
+deployed in six languages: Arabic, Russian, Somali, Spanish, Vietnamese, and English. Of 45,987 SNAP applicants sent the survey link, there were 4,098 survey respondents which represents a
+8.9% percent overall response rate.
+
+Based on the survey, 18.0 percent of respondents reported experiencing food security[2]. This year’s result is almost 19 percentage points lower than the food security rate reported in 2022. This
+means that 77.1% percent of respondents reported experiencing food insecurity, meaning that their access to adequate food is limited by a lack of money or other resources.
+The federally approved benefits deployed during the COVID-19 pandemic, including enhanced SNAP emergency allotments, alongside other USDA-approved initiatives such as school lunches, state-
+level investments in food banks, the child tax credit, and other pandemic-related relief, played a pivotal role in supporting communities. The conclusion of most of these supports coupled with other
+macro-economic forces has impacted reported rates of food security. A theme that emerged from the comments from survey respondents who opted to provide more input, is that rising food costs due
+to inflation as well as the end of SNAP emergency allotments is creating additional pressure for individuals and families to meet their most basic needs.
+
+The following is a breakdown by race, ethnicity and disability of participants who responded “Never true” to the KPM question: “Within the past 12 months, we worried whether our food would run out
+before we got money to buy more”
+
+Race/ethnicity/disability                                                  Percentage
+American Indian and Alaska Native                                          13.2%
+Asian                                                                      9.4%
+Black and African American                                                 25.9%
+Hispanic and Latino/a/x                                                    13.5%
+Middle Eastern and North African                                           100.0%*
+Native Hawaiian and Pacific Islander                                       16.7%*
+Two or more races                                                          16.1%
+Unknown                                                                    17.3%
+White                                                                      20.3%
+Grand Total                                                                18.0%
+Individuals with disability(ies) (Included in the counts above)            13.9%
+*small sample size for this population
+
+The following is a breakdown by race, ethnicity and disability of participants who responded “Never true” to the KPM question: “Within the past 12 months, the food we bought just didn’t last and we
+didn’t have money to get more”:
+
+Race/ethnicity/disability                                                  Percentage
+American Indian and Alaska Native                                          18.9%
+Asian                                                                      25.0%
+Black and African American                                                 25.9%
+Hispanic and Latino/a/x                                                    19.8%
+Middle Eastern and North African*                                          0.0%
+Native Hawaiian and Pacific Islander*                                      16.7%
+Two or more races                                                          25.3%
+Unknown                                                                    24.2%
+White                                                                      29.8%
+Grand Total                                                                18.0%
+Individuals with disability(ies) (Included in the counts above)              20.4%
+*small sample size for this population
+
+The following are a few of the quotes from survey respondents who opted to provide more input:
+
+“With the cut in food stamps and raise in rent I find it hard to make it through the month on my social security check. I am a senior living in a trailer that I own”
+
+“Food stamp benefits did not begin to keep up with inflation.  Food prices went up 30 to 40 percent between 2021 and 2023 and my EBT benefits actually decreased!!
+
+“Ever since the maximum allotment from the last three years for snap has ended, I am having to go without much food at the end of the month.”
+
+“Being a family of three with an immigrant we have to purchase food for three people, yet we are only provided funds for two people as my wife doesn't qualify for support. This makes making it
+through the month difficult.”
+
+“The food assistance amount isn't nearly enough to get by on considering the cost of food being so high currently.”
+
+Factors Affecting Results
+The significant drop in food security may be attributed to the termination of SNAP emergency allotment benefits, which provided additional support for many individuals and families in the form of
+additional funds for purchasing food during the pandemic era. Insufficient benefit amounts were a dominant theme in the open-ended responses. Survey respondents expressed struggling to afford
+sufficient food for themselves and their families, highlighting a gap in the program's ability to help them address their food needs. This issue is particularly concerning given the rising cost of groceries,
+which further exacerbates food insecurity. With the discontinuation of SNAP emergency allotments, many households that had relied on this assistance found themselves facing a significant reduction
+in their food budget forcing them to make difficult trade-offs between essential expenses, such as housing, utilities, and food. Respondents also expressed that higher benefits would not only alleviate
+immediate financial stress but also empower them to make healthier food choices and improve their overall quality of life.
+
+The end of pandemic era food benefits underscores the ongoing challenges of food insecurity and highlights the need for continued support to address the persistent vulnerabilities faced by many in
+our communities. SSP continues its outreach efforts to connect with difficult to reach populations, including people of color, by providing information on the benefits of qualifying for and maintaining
+SNAP eligibility, dispelling myths, providing application assistance, advocating on behalf of participants, and numerous other strategies to reach populations in need. These strategies include
+identifying and removing barriers to the SNAP program across all populations. We currently collaborate with 15 different community agencies who serve as Oregon SNAP outreach partners.
+KPM #16     SSP PARTICIPANTS REPORTING GREATER SELF-EFFICACY - The percentage of Self Sufficiency participants who report they feel more confident in their ability to improve their current
+            circumstances because of SSP and other services they were connected to
+            Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2019                               2020                               2021                               2022                               2023
+SELF-EFFICACY/HOPE
+Actual                                                                          66.50%                             73.40%                              71%                              74.20%                             51.40%
+Target                                                                           70%                                70%                                70%                                70%                                70%
+
+How Are We Doing
+The Office of Self-Sufficiency Programs (SSP) is guided by the Oregon Department of Human Services (ODHS) Equity North Star1 and by the agency’s Building Well-being Initiative (BWBI) to
+advance a future where all who live in Oregon, regardless of race, identity, or place, have the resources and support they need to achieve whole well-being for themselves, their families, and their
+communities.
+
+The Office of Self-Sufficiency Programs (SSP) is dedicated to upholding this vision through supports and services aimed at improving the economic stability of the communities we serve. Poverty is
+multidimensional, meaning that it is more than a lack of adequate income2. Multidimensional poverty asserts that there are multiple dimensions of deprivation that must be addressed for people to be
+equipped to exit poverty and build well-being3. This measure aims to track one dimension of poverty: whether participants perceive a sense of influence over their own circumstances. Specifically, we
+are tracking participants’ reported increased self-efficacy and hope as a result of their involvement with Self-Sufficiency Programs and the connections to other services SSP makes.
+
+In the Summer 2023, SSP conducted a statewide survey of Supplemental Nutrition Assistance Program (SNAP) participants who applied or reapplied for SNAP in 2023. The survey was voluntary and
+deployed in six languages: Arabic, Russian, Somali, Spanish, Vietnamese, and English. Of 45,987 SNAP applicants sent the survey link, there were 4,098 survey respondents which represents a
+8.9% percent overall response rate.
+
+Based on the survey, 51.4 percent of survey respondents reported feeling more confident about their ability to improve their current circumstances because of their involvement with SSP and the
+services SSP connected them to. This result is down from 74.2 percent in 2022. In addition, 56.4 percent of respondents (down from 75.7% in 2022) reported they feel more hopeful about their future
+as a result of their involvement with SSP and the services SSP connected them to.
+
+The following is a breakdown by race, ethnicity and disability of participants who responded “Agree” or “Strongly agree” to the KPM question: “My involvement with ODHS Self-Sufficiency and the
+services ODHS has connected me to have helped me feel more confident in my ability to improve my current circumstances”
+
+Race/ethnicity/disability                                                 Percentage
+American Indian and Alaska Native                                         60.4%
+Asian                                                                     71.9%
+Black and African American                                                61.1%
+Hispanic and Latino/a/x                                                   64.6%
+Middle Eastern and North African*                                         50.0%
+Native Hawaiian and Pacific Islander*                                     83.3%
+Two or more races                                                         52.5%
+Unknown                                                                   50.4%
+White                                                                     50.1%
+Grand Total                                                               51.4%
+Individuals with disability(ies) (Included in the counts above)           46.2%
+*small sample size for this population
+
+The following is a breakdown by race, ethnicity and disability of participants who responded “Agree” or “Strongly agree” to the KPM question: “My involvement with DHS Self-Sufficiency and the
+services DHS has connected me to have helped me feel more hopeful about my future”:
+
+Race/ethnicity/disability                                                 Percentage
+American Indian and Alaska Native                                         56.6%
+Asian                                                                     78.1%
+Black and African American                                                57.4%
+Hispanic and Latino/a/x                                                   60.4%
+Middle Eastern and North African*                                         50.0%
+Native Hawaiian and Pacific Islander*                                     66.7%
+Two or more races                                                         58.3%
+Unknown                                                                   55.0%
+White                                                                     57.9%
+Grand Total                                                               56.4%
+Individuals with disability(ies) (Included in the counts above)              46.2%
+*small sample size for this population
+
+The following are a few of the quotes from survey participants who opted to provide more input:
+
+“I feel as if we are stuck. Even working a full time minimum wage job. I can't make enough to move or better our situation.”
+
+“Still needing food stamps at this stage in my life (I'm 48) is very helpful and provides relief, but it doesn't really make me feel more hopeful. Food assistance helps me feel a little less desperate. Not
+needing food stamps, while still working in the community service industries, would make me feel more hopeful.”
+
+“There is a significant gap in income amounts where people make too much to apply for benefits, but still not enough to be self sufficient, it scares a lot of low income people from getting higher paying
+jobs, therefore keeping them stuck. I feel bridging this gap would be very beneficial.”
+
+“The medical has been extremely helpful due to the issues my sons face, but we really feel stuck in other ways.”
+
+“The limitations and complicated nature of these programs has worked against us at every step. As someone with crippling anxiety, navigating these programs successfully is basically impossible
+without constant assistance. I am only able to survive because I have a partner who does not suffer from these particular emotional challenges, and she is able to help me. I work a pretty good job,
+and shouldn't need assistance, but I do, and I constantly feel like a criminal for making use of these services.”
+
+Factors Affecting Results
+These results are derived entirely from participants’ entries on the SSP well-being survey which will continue to be conducted by SSP each year. The surveys have demonstrated that program
+accessibility matters as does the way we show up for families in our interactions. Hope and self-efficacy are interactively related, having influence on each other, but are also separate, stand-alone
+concepts. Self-efficacy often generates hope and hope can inspire a person to feel more able to achieve a goal. The SSP program decided to use two questions and measures to bring greater clarity
+to the impact of SSP services for each, with the primary KPM of self-efficacy.
+
+Financial strain was a dominant theme highlighted by survey respondents that opted to provide more input. There was a prevailing sense of uncertainty and anxiety about the future, with particular
+concern regarding housing and financial security. These emotional and psychological burdens can further exacerbate the challenges individuals and families face, compounding the difficulties they
+encounter in navigating their daily lives and seeking the support they need. Moreover, this heightened sense of financial insecurity can erode feelings of hope and self-efficacy, making it even more
+challenging for individuals to envision a brighter future and take the necessary steps to improve their circumstances.
+
+We define Self-efficacy as participants having a sense of control or influence over the events and circumstances that affect them and can act on it. We define Hope as participants’ belief that their
+current circumstances will improve. Our desired outcome is that in partnership with participants, agencies and communities, SSP provides programs and services that maximize the potential that lies
+within everyone. Foundational to these changes are intentionally involving families; having a philosophy and practice of being person centered; being strengths based and having resources that build
+broader well-being
+KPM #17     OVRS CONSUMERS WHO ARE SUCCESSFULLY EMPLOYED AT PROGRAM EXIT - The percentage of Office of Vocational Rehabilitation Services (OVRS) consumers with a goal of
+            employment who are employed at program exit
+            Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2019                              2020                              2021                               2022                              2023
+OVRS CLOSED - EMPLOYED
+Actual                                                                        56.50%                            55.60%                            54.80%                            52.10%                             57.20%
+Target                                                                          65%                               65%                               65%                               65%                               65%
+
+How Are We Doing
+We saw a 5.1% increase in OVRS consumers successfully employed at program exit in 2023 compared to 2022. This was the highest percentage since 2017 signaling a strong recovery after the
+pandemic’s considerable disruption to employment rates for people with disabilities. Historically there was a steady percentage increase between 2013 to 2016 when the overall economy saw even
+greater gains. Those gains in the economy eased and we saw a softening in the placement rates from 2016 to 2020. And then from 2020 to 2022 we saw a significant decrease in employment rates
+which has a correlation to the impacts of the pandemic. This year’s increase is a greatest increase in successful placements over the past ten years which is a positive trend and one that VR hopes
+will continue in future years.
+
+Oregon’s target for this KPM at 65% has historically been optimistic when compared to the national average for VR programs. For example, in 2020, the last reported average for all VR programs, the
+national average was 43.8% compared to Oregon’s outcome of 55.6%. Oregon VR will continue to work toward increasing this outcome we see value in this measure.
+
+Factors Affecting Results
+Throughout the pandemic, our VR counselors were working with clients to assist them in pursuing their employment goals. Many VR clients have underlying health issues and compromised immune
+systems in addition to their disabilities. Some individuals decided to exit the program without accomplishing their employment goal because of concerns about exposure to COVID-19. These factors
+adversely impacted KPM #17 over the past three years but we are seeing a change as the workforce is adapting to this new normal.
+
+We are working to improve successfully employed at program exit for our consumers with many new approaches to service delivery and employer engagement. Oregon VR has invested in and
+developed a Workforce and Business engagement team that will proactively work with employers seeking to hire people with disabilities. This team will provide training for potential employers, create
+talent pipelines, and assist with identifying appropriate accommodations. Oregon VR is also piloting a career pathways program with more than 10 community colleges throughout Oregon to assist
+people with disabilities attain industry recognized credentials in high demand careers. Oregon VR is also investing heavily in secondary transition programs for students with disabilities that will
+prepare them for higher education or to enter into quality employment after graduation from high school.
+KPM #18     OVRS CONSUMERS EMPLOYED IN SECOND QUARTER FOLLOWING PROGRAM EXIT - The percentage of OVRS clients closed from plan who are employed during second quarter
+            following program exit
+            Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2019                               2020                               2021                              2022                               2023
+EMPLOYMENT IN SECOND QUARTER
+Actual                                                                         57.50%                             57.80%                             52.50%                             52.90%                             53.80%
+Target                                                                           52%                                52%                                52%                                52%                                52%
+
+How Are We Doing
+From Oct. 1, 2021, to Sept. 30, 2022, the most recent period for which all relevant data is available, 53.8% of individuals exited from OVRS services were employed during the second quarter following
+exit. This is roughly one percentage point higher retention rate than the previous year. Staff are working toward more effective career counseling and guidance in this post-pandemic environment to
+ensure employment longevity for our clients.
+
+Oregon VR is also piloting a career pathways program with more than 10 community colleges throughout Oregon to assist people with disabilities attain industry recognized credentials in high demand
+careers. These placement in career related jobs will, ideally, result in longer term retention for VR consumers.
+
+Oregon VR is also investing heavily in secondary transition programs for students with disabilities that will prepare them for higher education or to enter into quality employment after graduation from
+high school. These programs are also focused on non-technical employment skills, such as soft skills, self-advocacy, work expereince and other services to improve client employment retention.
+
+Factors Affecting Results
+Considering the lingering impact from the COVID-19 pandemic and the disruption to the state’s workforce, this is a more positive outcome than expected. At the height of the pandemic, the state lost
+285,500 nonfarm payroll jobs, a 14.5% drop, as the unemployment rate skyrocketed by nearly 10 percentage points to a record-high 13.2%. As a result, many VR consumers lost their employment or
+had greatly reduced hours. The trend is moving in the right direction as seen in the increase for this KPM over the past two years. This could be related to VR staff continuing to adapt to the new world
+of work and the remote employment opportunities that are now available to workers including people with disabilities.
+KPM #19     OVRS CONSUMERS EMPLOYED IN FOURTH QUARTER FOLLOWING PROGRAM EXIT - The percentage of OVRS clients closed from plan who are employed during fourth quarter
+            following program exit
+            Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2019                               2020                               2021                               2022                               2023
+EMPLOYMENT IN FOURTH QUARTER
+Actual                                                                          54.30%                            53.80%                             49.80%                             51.10%                             52.80%
+Target                                                                           52%                                52%                                52%                                52%                                52%
+
+How Are We Doing
+From Oct. 1, 2021 to Sept. 30, 2022, the most recent period for which all relevant data is available, 52.8% of individuals exited from OVRS services were employed during the second quarter following
+exit. This is an increase of over one and a half percentage point higher retention rate than the previous year. Staff are working toward more effective career counseling and guidance in this post-
+pandemic environment to ensure employment longevity for our clients.
+
+Oregon VR is also piloting a career pathways program with more than 10 community colleges throughout Oregon to assist people with disabilities attain industry recognized credentials in high demand
+careers. These placement in career related jobs will, ideally, result in longer term retention for VR consumers.
+
+Oregon VR is also investing heavily in secondary transition programs for students with disabilities that will prepare them for higher education or to enter into quality employment after graduation from
+high school. These programs are also focused on non-technical employment skills, such as soft skills, self-advocacy, work expereince and other services to improve client employment retention.
+
+Factors Affecting Results
+Considering the lingering impact from the COVID-19 pandemic and the disruption to the state’s workforce, this is a more positive outcome than expected. At the height of the pandemic, the state lost
+285,500 nonfarm payroll jobs, a 14.5% drop, as the unemployment rate skyrocketed by nearly 10 percentage points to a record-high 13.2%. As a result, many VR consumers lost their employment or
+had greatly reduced hours. The trend is moving in the right direction as seen in the increase for this KPM over the past two years. This could be related to VR staff continuing to adapt to the new world
+of work and the remote employment opportunities that are now available to workers including people with disabilities.
+KPM #20       OVRS MEDIAN QUARTERLY WAGE AT SECOND QUARTER FOLLOWING PROGRAM EXIT - Median quarterly wage at second quarter following OVRS program exit
+              Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                  actual      target
+
+  Report Year                                                          2019                                  2020                                 2021                                 2022                                  2023
+MEDIAN QUARTERLY WAGE
+Actual                                                               $3,378.00                            $3,606.00                            $3,114.00                             $3,552.00                            $3,477.00
+Target                                                               $3,300.00                            $3,300.00                            $3,300.00                             $3,300.00                            $3,300.00
+
+How Are We Doing
+From Oct. 1, 2021, to Sept. 30, 2022, the most recent period for which all relevant data is available, the median quarterly wage at second quarter following VR program exit was $3,477. This is $75
+decrease compared to the same metric in 2022. While this is a decrease from the previous year it is still $177 over our target for this KPM. We are continually working to increase both the hourly wage
+and the total hours worked per quarter for clients by teaching technical and soft skills for maintaining and advancing in employment. We are also incorporating labor market research to identify high
+and true wage employment opportunities that match our client’s skills and interests. This research will be incorporated into the comprehensive career counseling we provide.
+
+Oregon VR is also piloting a career pathways program with more than 10 community colleges throughout Oregon to assist people with disabilities attain industry recognized credentials in high demand
+careers. These placement in career related jobs will, ideally, result in long term retention, higher wages and an increase in hours worked by VR consumers. All of those factors will positively impact
+this KPM.
+
+Factors Affecting Results
+Considering the global COVID-19 pandemic and the disruption to the state’s workforce, this is a more positive outcome than expected. At the height of the pandemic, the state lost 285,500 nonfarm
+payroll jobs, a 14.5% drop, as the unemployment rate skyrocketed by nearly 10 percentage points to a record-high 13.2%. As a result, many VR clients lost their employment or had greatly reduced
+hours impacting KPM #20. VR staff continue to adapt to the new world of work and the remote employment opportunities that are now available to workers including people with disabilities. Ideally
+these new opportunities will create more options for employment that closer match VR clients skills, interests and abilities to thrive in new employment settings.
+KPM #21        DHS CUSTOMER SATISFACTION - The percentage of customers rating their satisfaction with DHS above average, or excellent
+               Data Collection Period: Jan 01 - Jan 31
+
+                                                                       actual    target
+
+ Report Year                                                          2019                           2020                          2021                          2022                           2023
+Timeliness
+Actual                                                                 62%
+Target                                                                 75%                           81%                           81%                            81%                           81%
+Accuracy
+Actual                                                               67.90%
+Target                                                                 85%                           91%                           91%                            91%                           91%
+Overall
+Actual                                                               79.20%                                                       89.90%                        89.50%                          76%
+Target                                                                 82%                           90%                           90%                            90%                           90%
+Helpfulness
+Actual
+Target                                                                 85%                           86%                           86%                            86%                           86%
+Expertise
+Actual                                                               66.30%
+Target                                                                 82%                           90%                           90%                            90%                           90%
+Availability of Information
+Actual
+Target                                                                 88%                           92%                           92%                            92%                           92%
+
+How Are We Doing
+In the Summer 2023, SSP conducted a statewide survey of Supplemental Nutrition Assistance Program (SNAP) participants who applied or reapplied for SNAP in 2023. The survey was voluntary and
+deployed in six languages: Arabic, Russian, Somali, Spanish, Vietnamese, and English. Of 45,987 SNAP applicants sent the survey link, there were 4,098 survey respondents which represents an
+8.9% percent overall response rate.
+
+Based on the survey, 76 percent of respondents reported that they were satisfied with their customer experience at ODHS. This represents a 13.5% drop in customer satisfaction from 2022.
+
+Factors Affecting Results
+The adequacy benefits may be a critical factor influencing customer satisfaction. Survey respondents who opted to provide more input consistently express dissatisfaction with benefit amounts that fall
+short of covering their basic food needs. The financial strain resulting from inadequate benefits may also negatively affect individuals and families' satisfaction. Respondents reported that financial
+strain extended beyond food affordability, impacting housing stability, utility payments, and overall financial security. Lastly, respondents responsible for feeding families and children express
+heightened concerns about the impact of inadequate benefits.
+KPM #22     REDUCTION IN DISPROPORTIONALITY OF CHILDREN AT ENTRY INTO SUBSTITUTE CARE (CW) - Measure of the average disproportionality index across race/ethnicity for children
+            at entry into substitute care
+            Data Collection Period: Oct 01 - Sep 30
+
+                                                                                 actual     target
+
+  Report Year                                                                   2019                              2020                               2021                              2022                               2023
+a. American Indian/Alaskan Native
+Actual                                                                                                                                               2.78                               3.30                              2.78
+Target                                                                                                                                               1.90                               1.35                                1
+b. Black/African American
+Actual                                                                                                                                               1.31                               1.90                              1.32
+Target                                                                                                                                               1.25                               1.15                                1
+c. Asian/Pacific Islander
+Actual                                                                                                                                               0.33                               0.30                              0.34
+Target                                                                                                                                                 1                                  1                                 1
+d. Hispanic
+Actual                                                                                                                                               0.93                               0.80                              0.94
+Target                                                                                                                                                 1                                  1                                 1
+e. White
+Actual                                                                                                                                               0.98                                 1                               0.99
+Target                                                                                                                                                 1                                  1                                 1
+
+How Are We Doing
+For reporting year 2023, Asian/Pacific Islanders, Hispanic, and White populations continue to meet or exceed their targets (down/less is good), though there was a slight uptick in disproportionality at
+entry for Hispanic populations.  Black/African American children/young adults experienced a significant drop in disproportionality (up/more is bad) towards the proposed target, and so did American
+Indian/Alaskan Native children/young adults,  dropping to a lower rate of disproportionality for the reporting year.
+Factors Affecting Results
+Multiple factors may have contributed directly to the performance of this KPI, including targeted recruitment for the implementation of selected best-practices that support retention and hiring of a
+diverse workforce with the goal of reflecting the community served.  The implementation of the Racial Equity and Social Justice Tool (RESJ) that provides an in-depth review of policies and initiatives
+that may create racialized outcomes has seen increased use since its development, and the newly created Equity Training and Workforce development program helped target equity training for staff.
+Finally, the conducting of case reviews and staffings in partnership with equity experts and the community to lift these themes into CW CQI processes likely played a large part.

@@ -1,0 +1,260 @@
+Judicial, Department of
+     Annual Performance Progress Report
+
+             Reporting Year 2020
+
+       Published: 1/26/2021 2:14:45 PM
+ KPM #        Approved Key Performance Measures (KPMs)
+
+1            Access and Fairness - Rating of court users on the court's accessibility and its treatment of customers in terms of fairness, equality, respect.
+2            Clearance Rates - Clearance rates measure whether the courts are keeping up with their incoming caseload. If cases are not disposed in a timely manner, a backlog of cases awaiting disposition will grow. This measure is a single number that can be
+             compared within the court for any and all case types, from month to month and year to year, or between one court and another. This information can help courts pinpoint emerging problems and indicate where improvements can be made.
+3            Time to Disposition - The percentage of cases disposed or otherwise resolved within established time frames.
+4            Time to Judgement Entry - The percent of criminal cases that have a final judgment entered into the case register within three business days of the sentencing hearing or disposition.
+5            Time to First Permanency Hearing - Child abuse and neglect cases are driven by one underlying principle: expeditious permanency for children. The longer children are in substitute care, the longer they are in doubt as to where their permanent home
+             will be and the more likely it is that they will have multiple placements. Percent of cases that have first permanency hearing within 14 months
+             Collection Rate - Percent of cases paid in full within a year of judgment (violations only) This measure focuses solely on violations to evaluate the timeliness and effectiveness of collection actions. Most violations do not have the same barriers to
+6            collections that are encountered when collecting on felony and misdemeanor debt (debtors with history of criminal activity or drug/alcohol abuse, incarceration, unemployment, multiple debts with OJD and other probation/parole agencies, higher
+             amounts owed). By evaluating violations only, OJD can determine which collection practices are most successful and what needs to change to see improvement. The collection practices that apply well in violations can often be applied to misdemeanor
+             and felony cases even if the collection rate will be lower in those case types because of the barriers to collection described above.
+7            Drug Court Recidivism - The percent of adult drug court graduates with no misdemeanor or felony charges filed in Oregon circuit courts within one year of program graduation.
+             Effective Use of Jurors - The percentage of available jurors who are selected for jury duty who are qualified and available to serve (juror yield) The National Center for State Courts (NCSC) commonly uses a juror yield goal of 40 percent, a value
+8            demonstrated to be realistic in many well-managed courts. The national average juror yield is approximately 53 percent. Although variations are expected, points falling well above or well below the average can alert the court to the need for possible
+             adjustments to the number of persons summoned.
+9            Employee Retention - Annual employee turnover rate. Our target is to have a retention rate with no greater annual turnover than the State of Oregon’s Department of Administrative Service (DAS) annual retention rate.
+
+                                                                                                                                                                red
+                                                                                                                                                                green
+                                                                                                                                                                yellow
+
+ Performance Summary                                                                                                                                                  Green                                                         Yellow                                                           Red
+
+                                                                                                                                                                = Target to -5%                                            = Target -5% to -15%                                               = Target > -15%
+Summary Stats:                                                                                                                                                       22.22%                                                         44.44%                                                         33.33%
+KPM #1        Access and Fairness - Rating of court users on the court's accessibility and its treatment of customers in terms of fairness, equality, respect.
+              Data Collection Period: Jan 01 - Dec 31
+
+                                                                                  actual     target
+
+  Report Year                                                                  2016                              2017                                 2018                                2019                              2020
+Access
+Actual                                                                                                                                              87.400%                                                                  73%
+Target                                                                                                                                                85%                                  85%                               85%
+Fairness
+Actual                                                                                                                                              84.300%                                                                  62%
+Target                                                                                                                                                85%                                  85%                               85%
+
+How Are We Doing
+Data collected in 2020 show an Access Index Score of 72.8 and a Fairness Index Score of 61.8. These scores are much lower than both the performance targets and the scores from the 2018 pilot
+data collection.
+
+Factors Affecting Results
+The 2020 Access and Fairness data collection differed from the pilot data collection in three critical ways.  The 2020 data collection:
+       Occurred during a pandemic rather than during normal business operations
+       Was statewide rather than focused on four pilot courts
+       Was online rather than in person
+The COVID-19 pandemic likely impacted the results because it completely changed the way courts provided services, with many hearings being conducted remotely and all in-person services
+changing to accommodate social distancing.  These changes may have negatively impacted both users’ ability to access services and their perception of the fairness of court hearings.  The increase
+in remote services may also have impacted the Access Index Score because many of the survey items relating to access were designed to evaluate the experiences of users who came to court in
+person rather than accessing services remotely.
+
+The shift to online, statewide data collection may also have affected the results by changing the pool of participants.  Statewide data collection meant incorporating perspectives from courts across the
+state, but also resulted in fewer responses (291, compared with 709 in 2018) and a much lower response rate.  The types of users who responded to the online survey were also different, with 2020
+participants being much more likely than participants in 2018 to have attended a hearing for their case and to report that the result of the hearing was unfavorable.
+
+It is unknown whether the online results were more representative of the experience of court users across the state than were the results from the 2018 in-person data collection, but the OSCCIF will
+discuss the results and determine next steps for both expanding data collection and improving user perceptions of access and fairness in Oregon’s circuit courts.  The OSCCIF may also adapt the
+survey to capture information specific to users who appear or access services remotely.
+
+The likely role of the COVID-19 pandemic in lowering user satisfaction means that any improvements in user experiences in accessing court services will require courts to have the technological and
+staff resources necessary to provide high quality in-person and remote services amid the changing circumstances relating to the pandemic.
+           Clearance Rates - Clearance rates measure whether the courts are keeping up with their incoming caseload. If cases are not disposed in a timely manner, a backlog of cases awaiting
+KPM #2     disposition will grow. This measure is a single number that can be compared within the court for any and all case types, from month to month and year to year, or between one court and
+           another. This information can help courts pinpoint emerging problems and indicate where improvements can be made.
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2016                               2017                               2018                               2019                               2020
+Clearance Rates
+Actual                                                                                                               90%                                94%                               102%                                95%
+Target                                                                           100%                               100%                               100%                               100%                               100%
+
+How Are We Doing
+In 2020, the number of cases closed was 95% of cases filed which is lower than previous years.
+
+Factors Affecting Results
+Significant decreases in filings in civil, juvenile, landlord tenant, misdemeanor, small claims, and violations. Courts faced significant restrictions to hold in person jury trials and hearings and had to
+pivot to remote hearings and larger venues to allow for social distancing. Pending caseload increases in felony/misdemeanor, civil, and domestic relations.
+KPM #3         Time to Disposition - The percentage of cases disposed or otherwise resolved within established time frames.
+               Data Collection Period: Jan 01 - Dec 31
+
+                                                                        actual    target
+
+ Report Year                                                       2016                         2017                            2018                             2019                              2020
+Administration of Estates (720 Days)
+Actual                                                                                                                        90.500%                          90.900%                           88.500%
+Target                                                                                                                          98%                               98%                              98%
+Adult Protective Proceedings (90 Days)
+Actual                                                                                                                        81.300%                             84%                            85.700%
+Target                                                                                                                          98%                               98%                              98%
+Domestic Relations (365 Days)
+Actual                                                                                                                        91.400%                          89.600%                           90.800%
+Target                                                                                                                          98%                               98%                              98%
+FEDs (90 Days)
+Actual                                                                                                                        92.200%                          93.800%                           80.500%
+Target                                                                                                                          98%                               98%                              98%
+Felony (365 Days)
+Actual                                                                                                                        91.900%                          91.500%                           90.400%
+Target                                                                                                                          98%                               98%                              98%
+General Civil (540 Days)
+Actual                                                                                                                        96.800%                          97.300%                           97.800%
+Target                                                                                                                          98%                               98%                              98%
+Juvenile Delinquency (180 Days)
+Actual                                                                                                                        92.900%                          82.300%                           74.300%
+ Report Year                                                           2016                           2017                             2018                                2019                               2020
+
+Target                                                                                                                                  98%                                98%                                98%
+Juvenile Dependency (90 Days)
+Actual                                                                                                                               64.600%                             62.500%                            52.600%
+Target                                                                                                                                  98%                                98%                                98%
+Juvenile TPR (270 Days)
+Actual                                                                                                                               69.700%                             72.600%                            65.800%
+Target                                                                                                                                  98%                                98%                                98%
+Misdemeanor (180 Days)
+Actual                                                                                                                               87.200%                             84.400%                            80.500%
+Target                                                                                                                                  98%                                98%                                98%
+Small Claims (180 Days)
+Actual                                                                                                                               88.300%                             88.500%                            82.200%
+Target                                                                                                                                  98%                                98%                                98%
+Violations (90 Days)
+Actual                                                                                                                               88.500%                             89.700%                            86.600%
+Target                                                                                                                                  98%                                98%                                98%
+
+How Are We Doing
+In 2020, improvements were made in adult protective proceedings, domestic relations, civil, and juvenile termination of parental rights.
+
+Factors Affecting Results
+Changes in caseload could impact the allocation of judicial officers to certain case types and initiate caseflow management improvements. Time to disposition rates may also vary due to the
+seriousness or complexity of the caseload, charging and pleading practices, variation in court case management practices, and the use of statewide business processes.
+KPM #4     Time to Judgement Entry - The percent of criminal cases that have a final judgment entered into the case register within three business days of the sentencing hearing or disposition.
+           Data Collection Period: Jan 01 - Dec 31
+
+                                                                                 actual     target
+
+  Report Year                                                              2016                            2017                               2018                                 2019                                 2020
+Felony
+Actual                                                                                                                                      85.800%                              85.600%                              87.300%
+Target                                                                                                                                         98%                                 98%                                  98%
+Misdemeanor
+Actual                                                                                                                                      93.100%                              93.300%                              93.500%
+Target                                                                                                                                         98%                                 98%                                  98%
+
+How Are We Doing
+In 2020, improvements were made in both case types.
+
+Factors Affecting Results
+When court staff manually enter data, human error is always possible. These errors are mitigated through standard data entry protocols as well as education programs and monitoring procedures to
+ensure that corrections can be made to court practices. This measure is not only a way to measure data timeliness and accuracy, but also a tool to identify training or resource needs at the courts.
+           Time to First Permanency Hearing - Child abuse and neglect cases are driven by one underlying principle: expeditious permanency for children. The longer children are in substitute care, the
+KPM #5     longer they are in doubt as to where their permanent home will be and the more likely it is that they will have multiple placements. Percent of cases that have first permanency hearing within
+           14 months
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                    2016                                2017                               2018                               2019                               2020
+Time to First Permanency Hearing
+Actual                                                                            87%                                83%                                84%                               89.40%                               84%
+Target                                                                            95%                                95%                                95%                                 95%                                95%
+
+How Are We Doing
+In 2020, 84% of cases had a first permanency hearing within 14 months which is decrease from the previous year.
+
+Factors Affecting Results
+Reports from courts and stakeholders and informal reviews of case files indicate that a main reason that cases do not meet the timeline is that hearings are continued or rescheduled due to lack of
+court time and/or attorney availability for contested hearings. Making additional court time available and increasing the availability of legal counsel for parties would likely move the numbers toward
+their target.
+           Collection Rate - Percent of cases paid in full within a year of judgment (violations only) This measure focuses solely on violations to evaluate the timeliness and effectiveness of collection
+           actions. Most violations do not have the same barriers to collections that are encountered when collecting on felony and misdemeanor debt (debtors with history of criminal activity or
+KPM #6     drug/alcohol abuse, incarceration, unemployment, multiple debts with OJD and other probation/parole agencies, higher amounts owed). By evaluating violations only, OJD can determine
+           which collection practices are most successful and what needs to change to see improvement. The collection practices that apply well in violations can often be applied to misdemeanor and
+           felony cases even if the collection rate will be lower in those case types because of the barriers to collection described above.
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                   actual      target
+
+  Report Year                                                                     2016                                2017                               2018                                2019                               2020
+Collection Rate
+Actual                                                                           82.10%                             81.20%                                82%                                82%
+Target                                                                             90%                                90%                                 90%                                90%                                 90%
+
+How Are We Doing
+No data for 2020 until January 2022.  Cases have to age a full year after disposition to see if they were paid within a year of disposition.
+
+Factors Affecting Results
+KPM #7     Drug Court Recidivism - The percent of adult drug court graduates with no misdemeanor or felony charges filed in Oregon circuit courts within one year of program graduation.
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                              2016                                 2017                                2018                                2019                              2020
+Drug Court Recidivism
+Actual                                                                   93.700%                              91.300%                             95.500%                             95.300%
+Target                                                                      90%                                 90%                                 90%                                  90%                               90%
+
+How Are We Doing
+This measure looks back one year after treatment court graduation to determine the number of people who did not have any new criminal cases within a year of graduation.  Data for treatment court
+graduates in 2020 will not be available until the end of 2021.
+
+Factors Affecting Results
+           Effective Use of Jurors - The percentage of available jurors who are selected for jury duty who are qualified and available to serve (juror yield) The National Center for State Courts (NCSC)
+KPM #8     commonly uses a juror yield goal of 40 percent, a value demonstrated to be realistic in many well-managed courts. The national average juror yield is approximately 53 percent. Although
+           variations are expected, points falling well above or well below the average can alert the court to the need for possible adjustments to the number of persons summoned.
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                    actual     target
+
+  Report Year                                                                      2016                               2017                                2018                                2019                               2020
+Effective Use of Jurors
+Actual                                                                                                               46.40%                              47.40%                             48.10%                              46.50%
+Target                                                                                                                 53%                                 53%                                53%                                 53%
+
+How Are We Doing
+In 2020, 46.5% of available jurors were qualified and available to serve which is a decrease from the prior two years. Oregon courts are above the NCSC goal of 40 percent but well below the national
+average target of 53 percent.
+
+Factors Affecting Results
+Juror yield is used by court administrators to estimate the number of jury summonses to mail to secure an adequate number of jurors from which to select juries. However, it is also a measure of
+system efficiency as it indicates the relative amount of work a court must perform to achieve an adequate jury pool. Nationally, courts send approximately two jury summonses for every qualified and
+available juror they need to secure. Courts with higher yields require fewer jurors so it is in the juror and courts’ best interest to maximize jury yields to the greatest extent possible.
+KPM #9     Employee Retention - Annual employee turnover rate. Our target is to have a retention rate with no greater annual turnover than the State of Oregon’s Department of Administrative Service
+           (DAS) annual retention rate.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2016                               2017                               2018                               2019                               2020
+Employee Retention
+Actual                                                                           86%                                85%                                87%                                87%                                87%
+Target                                                                           88%                                88%                                88%                                88%                                88%
+
+How Are We Doing
+In 2020, OJD’s retention rate was 87% which was the same as the prior year. OJD has consistently exceeded the national average of 83 percent for government jobs as reported by the Bureau of
+Labor Statistics.
+
+Factors Affecting Results
+Two-thirds of our turnover was due to voluntary resignations. We continue to analyze the specific reasons for the voluntary resignations. Additionally, retirements accounted for over 20 percent of our
+turnover. We will continue to collect data from exiting employees and analyze their reasons for leaving as part of our strategy to maintain and improve our performance in this measure.

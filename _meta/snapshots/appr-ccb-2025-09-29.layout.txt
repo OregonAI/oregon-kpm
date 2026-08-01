@@ -1,0 +1,260 @@
+Construction Contractors Board
+             Annual Performance Progress Report
+
+                     Reporting Year 2025
+
+              Published: 9/29/2025 11:50:03 AM
+ KPM #          Approved Key Performance Measures (KPMs)
+
+1              Homeowner Awareness - Percent of homeowners who are aware of their rights and responsibilities and the services of CCB.
+2              Unlicensed Recidivism Rate - Percent of offenders who perform work without a CCB license within three years of first offense.
+3              Contractors Who Fail to Pay Damages - Percent of licensed contractors operating in Oregon that fail to pay in full final dispute resolution complaints for damages.
+4              Enforcement Investigations - Average days to close an enforcement investigation.
+5              Dispute Resolution Final Orders - Average days to issue a dispute resolution (claims) final order.
+6              Fair and Impartial Dispute Resolution Process - Percent of parties to claims who perceive claims process to be fair and impartial.
+7              License and Renewal Processing - Percent of contractors satisfied with the agency's processing of license and renewal information.
+8              Customer Service - Percent of customers rating the agency's customer service as "good" or "excellent". Ratings cover timeliness, accuracy, helpfulness, expertise, availability of information and overall performance.
+9              Best Practices - Percent of best practices met by the Board.
+
+                                                                                                                                                            red
+                                                                                                                                                            green
+                                                                                                                                                            yellow
+
+ Performance Summary                                                                                                                                             Green                                                        Yellow                                                         Red
+
+                                                                                                                                                            = Target to -5%                                          = Target -5% to -15%                                             = Target > -15%
+Summary Stats:                                                                                                                                                   66.67%                                                       22.22%                                                        11.11%
+KPM #1          Homeowner Awareness - Percent of homeowners who are aware of their rights and responsibilities and the services of CCB.
+                Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual      target
+
+  Report Year                                                                   2021                               2022                               2023                              2024                               2025
+Percent of Homeowners Aware of Rights
+Actual                                                                           54%                                54%                               78%                                78%                                79%
+Target                                                                           50%                                50%                               50%                                50%                                50%
+
+How Are We Doing
+Approximately 79 percent of Oregon homeowners are aware of the CCB. This finding is based on a scientific survey of 800 Oregon homeowners conducted in spring of 2025.  This is a 1-point
+increase over the prior survey, and 29 points over the goal of 50%.
+
+*The survey is conducted every two years. New survey results will be available in 2027.
+
+Factors Affecting Results
+Outreach efforts over the last five years have taken the form of webinars, press releases, mass emails, joint publications with other agencies, PSAs, radio and television interviews. These efforts have
+been very successful, as the data shows. CCB continues to explore new ways to reach people, and has just implemented the agency's first "Home Improvement Month". During this time, the agency
+hosted three consumer webinars on different topics. The agency also has been actively seeking new avenues to reach homeowners through agency partners that include other state and local
+government agencies, stakeholders and contractors themselves. In previous years, the agency's primary outreach focus included home shows and in-person outreach. The agency now attends some
+home shows in the spring, but home show attendance has declined somewhat in recent years. CCB will continue to perform the majority of its outreach activities through virtual platforms, partnerships
+with stakeholders and media, as this allows the agency to reach wider audiences.
+KPM #2          Unlicensed Recidivism Rate - Percent of offenders who perform work without a CCB license within three years of first offense.
+                Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                    actual      target
+
+  Report Year                                                                      2021                                2022                                2023                                2024                                2025
+Enforcement: Unlicensed Recidivism Rate
+Actual                                                                             7.28%                              4.97%                               1.84%                               12.99%                              8.41%
+Target                                                                               5%                                 5%                                  5%                                  5%                                  5%
+
+How Are We Doing
+This measure reflects contractor behavior as well as the agency's performance in finding unlicensed work. The recidivism rate improved from the prior year, still falling slightly outside the target rate of
+5% for this reporting period. It is worth noting that there is a high degree of variability on this particular measure, as the recent history demonstrates. More importantly, the underlying data actually show
+that overall rates of compliance are improving, which is a positive trend. It does however cause the relatively small number of repeat violators to skew the percentage higher as part of a smaller pool of
+unlicensed violators. This data is also a reflection of how effectively the agency positions the Field Investigative team across the state in order to target where unlicensed work occurs.
+
+NOTE: As part of the 2024-2025 reporting period, CCB has conducted a review of current KPM measures and identified several KPMs for revision or replacement at the next opportunity in 2027. KPM
+2 will likely see a proposed amendment to better align the measure prompt with the way the data has been historically collected and reported.
+
+Factors Affecting Results
+While this particular measure is outside the target, the underlying data provide reason to feel positive about CCB's overall enforcement effort. First, the total number of repeat violators cited during this
+reporting period declined from 30 last period to 18 this period. More importantly, the total number of unlicensed violations for the past two years is an average of approximately 30% lower than the prior
+three years. This is in line with CCB's general experience of finding higher rates of compliance across the many site checks performed each year. Several factors may have resulted in this increase.
+The agency's focus on using site visits to educate and promote compliance as part of a comprehensive approach focused on compliance may contribute to this trend. Additional factors that may affect
+this data include a shift in focus providing greater coverage in the more populated areas. This shift has increased checks in densely populated areas and may have increased success in identifying
+individuals continuing to operate outside adopted standards.
+KPM #3       Contractors Who Fail to Pay Damages - Percent of licensed contractors operating in Oregon that fail to pay in full final dispute resolution complaints for damages.
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2021                               2022                               2023                               2024                                2025
+Percent of Contractors Who Fail to Pay Final Orders
+Actual                                                                           0.27%                              0.28%                               0.22%                              0.29%                              0.26%
+Target                                                                           0.50%                              0.50%                               0.50%                              0.50%                              0.50%
+
+How Are We Doing
+The agency was well under the target maximum for FY25 (7/1/24-6/30/25), the agency achieved 26 percent.
+
+NOTE: As part of the 2024-2025 reporting period, CCB has conducted a review of current KPM measures and identified several KPMs for revision or replacement at the next opportunity in 2027. KPM
+3 will be proposed for elimination does not reflect any actual CCB staff performance or incorporate any behavior directly within the control of the CCB. It is largely a holdover from prior versions of the
+agency's dispute resolution program and is not relevant to the current program.
+
+Factors Affecting Results
+The agency’s mediation service offers parties alternative ways to resolve disputes involving minimal cost to complainants. By doing so, contractors who may not be able to pay a large debt have the
+opportunity to take care of the dispute in a way that preserves their license. Because of the 2011 changes to the Dispute Resolution Services, process complainants are more likely to settle disputes
+through mediation without going to court.  Because a high percentage of the claimants that do go to court use the Small Claims Courts, the contractor’s bond is able to act as a backup when the
+contractor can’t pay a judgement award.
+KPM #4                 Enforcement Investigations - Average days to close an enforcement investigation.
+                       Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                  actual      target
+
+  Report Year                                                                    2021                               2022                               2023                               2024                                2025
+Enforcement Program - Average Days to Closure
+Actual                                                                             31                                 41                                 47                                 49                                 38
+Target                                                                             40                                 40                                 40                                 40                                 40
+
+How Are We Doing
+In FY 2025 (7/1/24-6/30/25) CCB achieved its target expectation by 2 days.
+
+NOTE: As part of the 2024-2025 reporting period, CCB has conducted a review of current KPM measures and identified several KPMs for revision or replacement at the next opportunity in 2027. KPM
+4 will be proposed for changes in how the data is collected reported to more closely align with parts of the compliance process that are within the scope of the intended performance measure.
+
+Factors Affecting Results
+Agency performance returned to target level this period. However, the way this data has historically been collected and reported leads to a high degree of volatility. As noted above, the agency has
+identified refinements to this measure that could provide a more accurate picture of agency performance in this regard. The current target of 40 days can be close when allowing 21 minimum days for
+due process responses. Very few CCB compliance cases go to hearing, though those timelines can also affect results on this measure. No particular corrective action is deemed needed at this time.
+KPM #5              Dispute Resolution Final Orders - Average days to issue a dispute resolution (claims) final order.
+                    Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                    actual      target
+
+  Report Year                                                                      2021                                2022                               2023                                2024                                2025
+DRS Complaints - Average Days to Final Order
+Actual                                                                              156                                 153                                 164                                158                                 168
+Target                                                                              155                                 155                                 155                                155                                 155
+
+How Are We Doing
+The agency has gone beyond the target expectation by 13 days for FY 2025 (7/1/24-6/30/25).
+
+NOTE: As part of the 2024-2025 reporting period, CCB has conducted a review of current KPM measures and identified several KPMs for revision or replacement at the next opportunity in 2027. KPM
+5 retains some terminology and approach from prior iterations of the DRS system that are no longer relevant and includes significant amounts of time related to court proceedings that are outside our
+control. However, this measure can be adjusted to be both relevant to current pattern and practice as well as a better reflection of the agency's actual performance on handling of complaints within our
+jurisdiction. This approach will be proposed in our proposed amendments.
+
+Factors Affecting Results
+The current program offers mediation to the parties in an attempt to reconcile the dispute. If the parties cannot come to an agreement, the complaining party must file a complaint in court. If a judgment
+is awarded, the complaining party may file the judgment with the agency seeking payment from the contractor’s bond. One factor that contributes to the timeliness of our services is the time it takes for
+a court or arbitration to issue a ruling for parties that chose to file actions. This is not within the scope of the agency’s control; it adds to the time calculated for resolution. A significant additional factor
+that negatively affected this reporting period was a bond audit process triggered by the identification of some invalid bonds. This problem added time to the processing as each bond had to be
+confirmed by the licensing unit and the third-party bonding company prior to approving a complaint to move forward, both of which were out of the dispute unit's control. This issue has been largely
+resolved and the agency anticipates this measure returning closer to target in the upcoming year. In addition, the proposed amendments to this measure should provide a more accurate perspective
+on agency performance and aspects of the process within the agency's control.
+KPM #6         Fair and Impartial Dispute Resolution Process - Percent of parties to claims who perceive claims process to be fair and impartial.
+               Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2021                               2022                               2023                               2024                               2025
+DRS Program Customer Satisfaction
+Actual                                                                          84.60%                             70.70%                             80.30%                             89.30%                             91.10%
+Target                                                                            90%                                90%                                90%                                90%                                90%
+
+How Are We Doing
+The agency achieved its target for FY 2025 (7/1/24-6/30/25).
+
+Factors Affecting Results
+The agency is pleased with exceeding the target on this measure even though the bar is set very high. On an ongoing basis the agency evaluates ways to improve the survey results.  It is worth noting
+that the agency's rating in this regard is high even though not all mediations are successfully resolved. The agency strives to maintain a positive and neutral position on each mediation regardless of
+the outcome of the mediation. This effort is reflected in the data.
+KPM #7         License and Renewal Processing - Percent of contractors satisfied with the agency's processing of license and renewal information.
+               Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2021                               2022                                2023                               2024                               2025
+Licensing Customer Satisfaction
+Actual                                                                            95%                                 87%                                82%                                 83%                                90%
+Target                                                                            96%                                 96%                                96%                                 96%                                96%
+
+How Are We Doing
+The Licensing section consistently strives for high level of customer satisfaction and has established a very high target to reflect this goal. The agency’s performance in FY 2025 (7/1/24-6/30/25) fell
+below the target for Licensing and Renewal Processing, while still reflecting a significant improvement over the previous FY2024. The implementation of the new electronic application program and
+call center Callback feature has allowed the CCB to better serve new applicants by incorporating an electronic workflow and improving overall customer service to existing licensees by reducing call
+wait times. The Licensing section continues to broaden the knowledge and skills of existing staff to better serve the customer base. With a focus on call center customer service, overall satisfaction
+should increase for FY2026.  The agency continues to work toward establishing a strong online business culture.
+
+NOTE: As part of the 2024-2025 reporting period, CCB has conducted a review of current KPM measures and identified several KPMs for revision or replacement at the next opportunity in 2027. KPM
+7 and 8 have been identified for consolidation. The two separate measures reflect a period when there were two units being surveyed and reported. The work units are now consolidated, and it makes
+sense to eliminate what is now an essentially redundant measure by eliminating KPM 7 and reporting KPM 8, which provides more granular level of detail about agency performance.
+
+Factors Affecting Results
+Staffing issues such as retirements, training replacements and several overlapping leave periods contributed to lower-than-normal satisfaction in the prior reporting period. Since then, the combination
+of bringing new staff up to proficiency as well as deploying new electronic tools have improved the speed of processing for new applications and resulted in lower call-volume and thus lower phone
+wait times. During FY2025 the agency also experienced a period of higher-than-normal new license applications creating some backlog. The agency continues to work on improving its website,
+streamlining forms and processes, and providing ongoing staff training and outreach about contractor requirements, continuing education, and law and rule changes.
+KPM #8   Customer Service - Percent of customers rating the agency's customer service as "good" or "excellent". Ratings cover timeliness, accuracy, helpfulness, expertise, availability of information
+         and overall performance.
+         Data Collection Period: Jul 01 - Jun 30
+
+                                                                        actual    target
+
+ Report Year                                                           2021                           2022                           2023                           2024                           2025
+Timeliness
+Actual                                                                  90%                            82%                          74.28%                         71.85%                         88.58%
+Target                                                                  95%                            95%                            95%                            95%                           95%
+Accuracy
+Actual                                                                90.40%                           88%                          88.69%                         86.96%                         92.90%
+Target                                                                  95%                            95%                            95%                            95%                           95%
+Expertise
+Actual                                                                  93%                            93%                          91.97%                         90.72%                         94.65%
+Target                                                                  95%                            95%                            95%                            95%                           95%
+Helpfulness
+Actual                                                                  92%                            93%                          84.48%                         90.43%                         95.12%
+Target                                                                  95%                            95%                            95%                            95%                           95%
+Availability of Information
+Actual                                                                  89%                            88%                          87.85%                         86.66%                         90.07%
+Target                                                                  95%                            95%                            95%                            95%                           95%
+Overall
+Actual                                                                  92%                            87%                          83.54%                         81.79%                         92.08%
+Target                                                                  95%                            95%                            95%                            95%                           95%
+
+How Are We Doing
+The Licensing section consistently strives for high level of customer satisfaction and has established a very high target to reflect this goal. The agency’s performance in FY 2025 (7/1/24-6/30/25) fell
+below the target for Licensing and Renewal Processing, while still reflecting a significant improvement over the previous FY2024. The implementation of the new electronic application program and
+call center Callback feature has allowed the CCB to better serve new applicants by incorporating an electronic workflow and improving overall customer service to existing licensees by reducing call
+wait times. The Licensing section continues to broaden the knowledge and skills of existing staff to better serve the customer base. With a focus on call center customer service, overall satisfaction
+should increase for FY2026.  The agency continues to work toward establishing a strong online business culture.
+
+NOTE: As part of the 2024-2025 reporting period, CCB has conducted a review of current KPM measures and identified several KPMs for revision or replacement at the next opportunity in 2027. KPM
+7 and 8 have been identified for consolidation. The two separate measures reflect a period when there were two units being surveyed and reported. The work units are now consolidated, and it makes
+sense to eliminate what is now an essentially redundant measure by eliminating KPM 7 and reporting KPM 8, which provides more granular level of detail about agency performance.
+
+Factors Affecting Results
+Staffing issues such as retirements, training replacements, and several overlapping leave periods contributed to lower-than-normal satisfaction. Since then, the combination of bringing new staff up to
+proficiency as well as deploying new electronic tools have improved the speed of processing for new applications and resulted in lower call-volume and thus lower phone wait times. During FY2025
+the agency also experienced a period of higher-than-normal new license applications creating some backlog. The agency continues to work on improving its website, streamlining forms and
+processes, and providing ongoing staff training and outreach about contractor requirements, continuing education, and law and rule changes.
+KPM #9                       Best Practices - Percent of best practices met by the Board.
+                             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual    target
+
+  Report Year                                                                 2021                              2022                              2023                              2024                              2025
+Percent of Yes Responses
+Actual                                                                        100%                              100%                              100%                              100%                              100%
+Target                                                                        100%                              100%                              100%                              100%                              100%
+
+How Are We Doing
+The agency met its target for FY2025 (7/1/24-6/30/25).
+
+Factors Affecting Results
+The partnership between the agency’s Administrator and the Board helps the agency achieve 100 percent compliance. Other factors include training of Board members on their roles and
+responsibilities and identifying opportunities to improve performance and increase transparency.

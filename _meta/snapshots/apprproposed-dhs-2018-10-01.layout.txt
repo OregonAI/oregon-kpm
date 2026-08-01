@@ -1,0 +1,634 @@
+Human Services, Department of
+             Annual Performance Progress Report
+                    Reporting Year 2018
+               Published: 10/1/2018 1:40:28 PM
+KPM #       Approved Key Performance Measures (KPMs)
+1          OVRS CLOSED - EMPLOYED – The percentage of Office of Vocational Rehabilitation Services (OVRS) consumers w ith a goal of employment w ho are employed.
+2          TANF FAMILY STABILITY - Rate per 1,000 of TANF recipient children entering child w elfare (foster care or in home)
+3          TANF RE-ENTRY - The percentage of Temporary Assistance for Needy Families (TANF) cases w ho have not returned w ithin 18 months after exit due to employment.
+4          SNAP (Supplemental Nutrition Assistance Program) UTILIZATION - The ratio of Oregonians served by SNAP to the number of low -income Oregonians.
+5          SNAP (Supplemental Nutrition Assistance Program) ACCURACY - The percentage of accurate SNAP payments
+6          ENHANCED CHILD CARE - The percentage of children receiving care from providers w ho are receiving the enhanced or licensed rate for child care subsidized by DHS
+7          ABSENCE OF REPEAT MALTREATMENT - The percentage of abused/neglected children w ho w ere not subsequently victimized w ithin 6 months of prior victimization.
+8          TIMELY REUNIFICATION - The percentage of foster children exiting to reunification w ithin 12 months of foster care entry.
+9          TIMELINESS OF ADOPTION ONCE LEGALLY FREE - Percent of Legally free children adopted in less than 12 months
+10         LTC NEED PREVENTION - Percentage of seniors (65+) needing publicly-funded long term care services.
+11         LTC RECIPIENTS LIVING OUTSIDE OF NURSING FACILITIES - The percentage of Oregonians accessing publicly-funded long-term care services w ho are living outside of nursing facilities.
+12         DEVELOPMENTAL DISABILITY SUPPORT SERVICES - The percentage of eligible adults w ho are receiving adult support services w ithin 90 days of request.
+13         PEOPLE WITH DISABILITIES LIVING AT HOME - The percentage of individuals enrolled in the Intellectual/Developmental disabilities program w ho are receiving services in their ow n home.
+14         SUPPORTED EMPLOYMENT - Increase the number of individuals w ho receive developmental disability services in supported employment.
+15         ABUSE OF PEOPLE WITH DEVELOPMENTAL DISABILITIES - The percentage of people w ith developmental disabilities experiencing abuse.
+16         Abuse Investigation Timeliness - Percent of abuse reports assigned for field contact that meet policy timelines.
+17         CUSTOMER SERVICE - Percentage of customers rating their satisfaction w ith DHS above average or excellent: overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+18         Disparity in foster youth achieving permanency w ithin 2 years by race/ethnicity - Disparity is calculated by taking the ratio of tw o percentages: Percent of Non-White & Hispanic children achieving permanency goals / Percent of Non-Hispanic White
+           children achieving permanency goals. The permanency goal is the percent of foster youth achieved permanency w ithin 24 months (of those that entered 24 months ago)
+19         CHILDREN SERVED BY CHILD WELFARE RESIDING IN PARENTAL HOME - The percent of children served in Child Welfare on an average daily basis (In Home and Foster Care) w ho w ere served w hile residing in their parent's home.
+20         TANF JOBS PLACEMENTS - The percentage of clients w ho achieve job placement each month compared to those anticipated to achieve placement.
+
+Proposal             Proposed Key Performance Measures (KPMs)
+New                 SERVICE ELIGIBILITY - ODDS - The percentage of individuals w ho apply for ODDS services w ho are determined eligible w ithin 90 days from application
+New                 HOUSEHOLDS AT, OR ABOVE, LIVING WAGE - The percentage of households leaving Self Sufficiency w ho are at, or above, a living w age four quarters out
+New                 HOUSING STABILITY - The percentage of Self Sufficiency participants w ho improve their housing situation
+New                 FOOD SECURITY - The percentage of Self Sufficiency participants w ho improve their food security
+New                 SELF-EFFICACY/HOPE - The percentage of Self Sufficiency participants w ho improve their ability to influence their future outcomes
+New                 EMPLOYMENT IN SECOND QUARTER - The percentage of clients closed from plan w ho are employed during second quarter follow ing closure
+New                 EMPLOYMENT IN FOURTH QUARTER - The percentage of clients closed from plan w ho are employed during fourth quarter follow ing closure
+New                 MEDIAN QUARTERLY WAGE - Median quarterly w age at second quarter follow ing closure from VR program
+New                 SUPPORTED EMPLOYMENT - EMPLOYMENT FIRST - The number of individuals w ho obtain competitive integrated employment
+Delete              TANF FAMILY STABILITY - Rate per 1,000 of TANF recipient children entering child w elfare (foster care or in home)
+Delete              TANF RE-ENTRY - The percentage of Temporary Assistance for Needy Families (TANF) cases w ho have not returned w ithin 18 months after exit due to employment.
+Delete              SNAP (Supplemental Nutrition Assistance Program) UTILIZATION - The ratio of Oregonians served by SNAP to the number of low -income Oregonians.
+Delete              SNAP (Supplemental Nutrition Assistance Program) ACCURACY - The percentage of accurate SNAP payments
+Delete              ENHANCED CHILD CARE - The percentage of children receiving care from providers w ho are receiving the enhanced or licensed rate for child care subsidized by DHS
+Delete              DEVELOPMENTAL DISABILITY SUPPORT SERVICES - The percentage of eligible adults w ho are receiving adult support services w ithin 90 days of request.
+Delete              PEOPLE WITH DISABILITIES LIVING AT HOME - The percentage of individuals enrolled in the Intellectual/Developmental disabilities program w ho are receiving services in their ow n home.
+ Proposal           Proposed Key Performance Measures (KPMs)
+
+New                In-Home Services - The percentage of adults enrolled in the Intellectual/Developmental Disabilities program w ho are receiving services in their ow n home, including family home
+Delete             SUPPORTED EMPLOYMENT - Increase the number of individuals w ho receive developmental disability services in supported employment.
+Delete             ABUSE OF PEOPLE WITH DEVELOPMENTAL DISABILITIES - The percentage of people w ith developmental disabilities experiencing abuse.
+New                ABUSE OF PEOPLE WITH DEVELOPMENTAL DISABILITIES - The percentage of substantiated abuse/neglect of adults in licensed and endorsed programs
+Delete             TANF JOBS PLACEMENTS - The percentage of clients w ho achieve job placement each month compared to those anticipated to achieve placement.
+
+                                                                                                                                               red
+                                                                                                                                               green
+                                                                                                                                               yellow
+
+ Performance Summary                                                                                                                                   Green                                                  Yellow                                                   Red
+
+                                                                                                                                                   = Target to -5%                                    = Target -5% to -15%                                       = Target > -15%
+Summary Stats:                                                                                                                                         57.89%                                                 21.05%                                                 21.05%
+KPM #1      OVRS CLOSED - EMPLOYED – The percentage of Office of Vocational Rehabilitation Services (OVRS) consumers with a goal of employment who are employed.
+            Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                2016                             2017                             2018                              2019                               2020
+OVRS CLOSED - EM PLOYED
+Actual                                                                        62.34%                           60.20%                             57%                             No Data                           No Data
+Target                                                                          66%                              66%                              63%                               65%                                65%
+
+How Are We Doing
+We have missed this target since Federal Fiscal Year 2013. The state target is optimistic for our program.
+Factors Affecting Results
+In preparation for implementing the sizable increase in data reporting required for the Workforce Innovation and Opportunity Act (WIOA), which began July 1, 2017, we asked staff to review cases in
+plan who were not progressing. This resulted in a sizable increase in case closures from plan during State Fiscal Year 2018(SFY). Since the denominator of this KPM is based on the number of
+clients closing from plan, this decreased our performance on this KPM considerably, dropping it from 60% to 57% from SFY17 to 18.  From SFY17-18, the clients rehabilitated declined 3.56%
+versus a 2.9% increase in the number of cases closed from plan.
+KPM #2          TANF FAMILY STABILITY - Rate per 1,000 of TANF recipient children entering child welfare (foster care or in home)
+                Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                  actual      target
+
+  Re port Ye ar                                                                   2016                              2017                              2018                               2019                               2020
+TANF FAM ILY STABILITY
+Actual                                                                            3.70                              4.30                               3.40                            No Data                             No Data
+Target                                                                            TBD                               TBD                                TBD                                TBD                                3.90
+
+How Are We Doing
+This measure tracks children living in extreme poverty who are receiving Temporary Assistance to Needy Families (TANF) and have child welfare involvement in the final month of a three-month
+timeframe. Our objective is to decrease the percentage of child TANF recipients needing to be placed in foster care. However, in State Fiscal Year (SFY) 2015, 3.4 per 1,000 of child TANF
+recipients had been receiving TANF cash assistance prior to entering foster care. In SFY 2016 there was an increase to 3.7 per 1,000 children, and an increase to 4.3 per 1,000 children in SFY
+2017.  In the most recent year, SFY 2018, the rate was 3.4, down almost a full percentage point from 4.3 the previous year.
+Factors Affecting Results
+There may be multiple child abuse risk factors present in families such as, domestic violence, alcohol or drug abuse, parental involvement with law enforcement, homelessness, previous child
+welfare involvement and unemployment. Often there are several of these factors in families of child abuse/neglect victims. While Oregon’s overall economy is improving, the recovery has been
+inconsistent across the state, and some populations, accounting for both geographic and demographic factors, are still experiencing high rates of unemployment and poverty.
+
+The Self-Sufficiency programs are intended to provide a safety net, family stability, and a connection to careers that guide Oregonians out of poverty. Part of the TANF service array includes Family
+Support and Connections which provides supports to prevent children in at-risk TANF families from entering the child welfare system. Home and community based services are used to guide
+interventions that build on family strengths and address family functioning issues. The services are designed to strengthen and support families by increasing parental protective factors and
+addressing risk factors related to child abuse. Temporary Assistance for Domestic Violence Survivors (TA-DVS) provides temporary financial assistance and support services to families with
+children who need to flee and stay free from domestic violence.
+KPM #3      TANF RE-ENTRY - The percentage of Temporary Assistance for Needy Families (TANF) cases who have not returned within 18 months after exit due to employment.
+            Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                 actual      target
+
+  Re port Ye ar                                                                  2016                              2017                             2018                               2019                               2020
+TANF RE-ENTRY
+Actual                                                                         65.10%                            63.46%                            62.51%                            No Data                            No Data
+Target                                                                           65%                               65%                               66%                                67%                                TBD
+
+How Are We Doing
+Our objective with this measure is to increase the number of former TANF participants who do not require future TANF cash assistance after leaving the program due to unsubsidized employment.
+In State Fiscal Year 2016 (SFY), 63.5 percent of TANF participants did not return to TANF in the 18 months after leaving TANF due to employment. This is slightly below the target and is a small
+decrease from the previous year of 65.1 percent.  In State Fiscal Year 2017 (SFY)  the re-entry rate was 63.46% but dropped almost a full percentage point to 62.51% for State Fiscal year 2018
+(SFY).
+Factors Affecting Results
+This measure may be affected by several things, including the status of the economy, the availability of jobs, and industry or employment sector factors. It can also be affected by the structure of
+the Job Opportunity and Basic Skills (JOBS) program and the effectiveness of other agency and community partnerships that help connect TANF recipients into jobs. The effects of the TANF
+program reinvestment in 2015 have begun to impact this measure, particularly the focus on early family assessment and working with families on plans that are driven by their own goals.  Though
+the overall TANF caseload has slightly reduced with the improved economy, those on the current caseload come with complex needs and higher levels of acuity.  In turn, this may impact the ability
+to both secure and retain employment.  The recent data shows the agency is meeting its target which may be due in part to a strong, stable economy.
+KPM #4       SNAP (Supplemental Nutrition Assistance Program) UTILIZATION - The ratio of Oregonians served by SNAP to the number of low-income Oregonians.
+             Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                2016                             2017                              2018                              2019                              2020
+SNAP UTILIZATION
+Actual                                                                        94.20%                             98%                            No Data                           No Data                            No Data
+Target                                                                         85%                               85%                              90%                                90%                                0%
+
+How Are We Doing
+Due to the recession, SNAP participation had increased during the past decade, however, it has steadily, yet slowly declined over the most recent four years. In July 2016, 703,552 people received
+SNAP benefits in Oregon and that number decreased to 664,402 people by July 2017. This trend continued in July 2018 with 626,038 people receiving SNAP benefits.[1] The decline in the program
+is likely due to the slowly improving economy in Oregon (1 in 7 state residents are SNAP participants[2]). The DHS SNAP program has received twelve federal participation bonuses for ranking in
+the top states nation-wide.
+
+In 2016, the most recent federal data available, Oregon was ranked number 3 in SNAP participation according to the Program Access Index (PAI).[3]   In 2008, 2009 and 2012, Oregon was ranked
+second in the nation in SNAP participation based on the PAI and has remained one of the highest ranked states. This FNS ranking is based on the number of potentially eligible people compared to
+the number receiving benefits.
+
+[1] Oregon Department of Human Services (DHS), Supplemental Nutrition Assistance Program (SNAP) July 2018 available at:
+https://www.oregon.gov/DHS/ASSISTANCE/Branch%20District%20Data/SNAP%20Flash%20Figures%20for%20July%202018.pdf
+
+[2] United States Census Bureau, Oregon population estimates, July 1, 2017 available at: https://www.census.gov/quickfacts/fact/table/or/PST045217
+[3] United States Department of Agriculture (USDA), Food and Nutrition Service (FNS), “Calculating the Supplemental Nutrition Assistance Program (SNAP) Program Access Index available at:
+https://www.fns.usda.gov/ops/supplemental-nutrition-assistance-program-snap-research
+Factors Affecting Results
+Oregon has had great success in easing access to SNAP benefits. One effort has been encouraging the use of the on-line application. Another has been serving clients within the same or next work
+day after they apply for benefits. Oregon continues to expand outreach efforts to reach difficult to serve populations by providing information on the benefits of qualifying for and maintaining SNAP
+eligible,
+
+dispelling myths, providing application assistance, advocating on behalf of participants, and numerous other strategies to reach vulnerable populations which include identifying and removing
+barriers to the SNAP program across all populations. We currently collaborate with 15 different community agencies who serve as Oregon SNAP outreach partners.
+
+The recession created critical need for necessities, such as food, in households which never expected to ask for help. During the recession we saw a rise in our caseload. As the economy has been
+improving the number of people receiving SNAP benefits in July 2018 has decreased to 77% of the highest number in 2012. The number of people receiving SNAP benefits continues to be more
+than before the recession hit. The number of people receiving benefits during July 2018 is 143% of the number during July 2007.
+
+*Note: Actual data has a two-year lag from the USDA FNS.
+KPM #5           SNAP (Supplemental Nutrition Assistance Program) ACCURACY - The percentage of accurate SNAP payments
+                 Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                actual    target
+
+  Re port Ye ar                                                                2016                             2017                             2018                              2019                              2020
+SNAP Accuracy
+Actual                                                                        94.50%                           93.87%                           92.23%                           No Data                            No Data
+Target                                                                          98%                            96.60%                             95%                              95%                                 0%
+
+How Are We Doing
+The most recently completed federal fiscal year is FFY 2017 where Oregon reported a payment accuracy rate of 94.08%. FFY 2018 reviews are ongoing. Oregon has reported a 92.23% payment
+accuracy rate through April 2018. The error rate is currently above the national average and a plan is being developed by the Accuracy Committee to improve accuracy. The plan involves internal
+measures to improve staff performance as well as measures to reduce client caused errors.
+Factors Affecting Results
+During FFY 2018 agency caused errors increased. The most common agency error causes are failing to act on reported information or failing to follow up on inconsistent or incomplete information.
+Client caused errors continue to contribute to the overall error rate and most often are due to information not being reported to DHS.
+KPM #6      ENHANCED CHILD CARE - The percentage of children receiving care from providers who are receiving the enhanced or licensed rate for child care subsidized by DHS
+            Data Collection Period: Oct 01 - Oct 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                  2016                              2017                              2018                               2019                               2020
+Enhance d Child Care
+Actual                                                                          63.70%                            70.90%                            77.60%                            No Data                             No Data
+Target                                                                            65%                               65%                               65%                               65%                                  0%
+
+How Are We Doing
+There has been a major swing in the percentage of children receiving care from license-exempt enhanced providers and licensed providers from the two-year period coving 2016 to 2018. The
+average increase is just under 7% per year. Policy changes and increased regulation for license-exempt providers had a direct impact on the percentage of children in licensed care.
+
+DHS offers a higher payment rate to license-exempt providers who complete additional training as a way of incentivizing higher quality care. Subsidy rates for providers were increased in January
+2018 based in the 2016 Oregon Child Care Market Price Study; however, limited funding meant DHS was unable to maintain the 75th percentile for all provider types in statewide. Additional
+payments to star rated Spark providers were added to the full-time monthly rate in April of 2016 as a way of incentivizing high-quality providers to serve DHS subsidy families. Since September
+2016, families opting to use a Spark provider received a lower copay. This offered a parent incentive to choose quality care. A pilot began in July 2018 to pay certified child care centers in advance
+to help increase capacity for DHS subsidized families.
+
+DHS continues to partner with 211Info, Child Care Resource & Referral Agencies (CCR&R), Service Employees International Union Local 503 (SEIU), American Federation of State, County and
+Municipal Employees Local 132 (AFSCME) and the Oregon Registry. 211Info provides consumer education and helps parents with child care referrals. CCR&R’s address provider quality through
+required trainings to become DHS listed, meet regulated subsidy standards, secure qualify for the DHS enhanced rate, become licensed with the Office of Child care and receive a Spark star rating.
+Provider unions offer guidance and training to home based license-exempt (SEIU) and licensed (AFSCME) family providers. Oregon Registry documents provider training records and maintains
+online trainings such as Introduction to Child Care Health and Safety, and DHS Provider Requirements. DHS coordinates with partners to publicize training and resources available.
+
+A child care orientation is required for all new license-exempt providers. Provider requirements changed in November 2017 for non-relative license-exempt providers (a.k.a. regulated subsidy) to
+complete trainings that must be taken before they are approved to provide care. These include an online Introduction to Child Care Health and Safety, and Recognizing and Reporting Child Abuse
+and Neglect.  In addition, providers must have a current Infant/Toddler First Aid and CPR certificate. Regulated subsidy providers must have a pre-service site visit to verify the safety of the home
+where care is provided. Relative providers are required to take the pre-service Introduction to Child Care Health and Safety training only. Relative providers include grandparents, great
+grandparents, aunts, uncles and adult siblings who live outside the home of the child in care.
+
+DHS collaborates with the Early Learning Division (ELD) on Early Head Start Child Care Partnerships to build stronger provider networks and increase quality. Increasing quality and gaining a Spark
+star rating is a priority for Partnership providers.
+
+Informing parents and providers of the importance of high-quality child care and training continues to be a priority. DHS will continue to work with partners to promote provider training and the
+professional development continuum for exempt providers.  This will foster greater access to required trainings to earn the enhanced rate, qualify for licensing and elevate their Spark star ratings.
+Factors Affecting Results
+The 2015 Legislature (HB 2015) made a significant investment into the child care program to support state’s efforts to meet new requirements of the Child Care Development Fund reauthorization
+of 2014. This provided funding for rate increases in 2016, incentives to Spark rated providers, lower copays for subsidy families choosing a Spark rated provider, and increased training
+requirements for license-exempt regulated subsidy providers.
+
+There has been a steady increase in the percentage of children receiving care from providers that receive the enhanced or licensed rate. Actuals have significantly surpassed Targets for the past
+two years and will be adjusted accordingly. Policy decisions and resources have focused toward increasing quality of care and consumer education. Both parents and DHS field workers consistently
+receive information regarding the two-generation approach of the child care program.  This multigenerational approach place strives to stabilize employment for adults and keep children in stable,
+high-quality, educational settings. Rate increases in 2013, 2016 and 2018 helped keep provider rates more in line with current market rate studies and supports the goal of a child care subsidy
+system that is child-focused, family friendly and equitable for providers. Incentives for accessing Spark rated providers have encouraged providers to increase the quality of care and prompted
+parents to choose quality care.
+KPM #7      ABSENCE OF REPEAT MALTREATMENT - The percentage of abused/neglected children who were not subsequently victimized within 6 months of prior victimization.
+            Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                  2016                              2017                              2018                               2019                               2020
+ABSENCE OF REPEAT CHILD M ALTREATM ENT
+Actual                                                                          94.60%                            93.87%                              92%                             No Data                            No Data
+Target                                                                            96%                               96%                               96%                               97%                                 97%
+
+How Are We Doing
+The outcome of 92% is Federal Fiscal Year 2017 data, for Report Year 2018. Over the past two years of this measurement Oregon has seen an overall decrease of 2.6%, however this falls short of
+the 96% target. Oregon continues its commitment to not only ensure the number remains consistent moving forward, but to make continued efforts to improve.
+Factors Affecting Results
+The Child Safety Program is currently in process of developing focused efforts (training, case reviews, group supervision, safety plan sufficiency reviews, etc) with targeted districts that have
+struggled to meet both the state and federal standard for recurrence of maltreatment over a consistent period of time. Child Safety Consultants continue to closely monitor data and provide monthly
+reports to leadership in all 16 districts on areas needing improvement to impact this measurement.  Root cause analysis continues to identify insufficient safety planning during trial home visits,
+inaccurate safety decisions at the close of assessments and lack of comprehensive information gathering and safety planning on cases involving domestic violence. One additional factor that may
+also impact this measurement is high turnover in Child Protective Services (CPS) and lack of casework experience for a large population of our workforce.  Due to the large number of new casework
+staff, Oregon’s Executive Leadership team is committed to ensuring all caseworkers receive regular one on one clinical supervision to ensure safety outcomes improve and new staff have the
+support necessary to make sound child safety decisions.
+
+Recent Appellate Court decisions have also impacted caseworkers’ ability to seek legal intervention which may result in closing cases prematurely resulting in recurrence of maltreatment in some
+instances.  Full representation for casework staff is hoped to result in better support in ensuring cases have the legal sufficiency when court intervention is necessary.
+
+Much work continues in the Child Safety Program surrounding Continuous Quality Improvement. Child Safety Consultants are nearing completion of CPS Fidelity Reviews and have completed 13 of
+16 districts statewide with a goal of completing all districts by end of 2018.  Action Plans are developed following each review and while each district is able to individualize their plans, all districts
+have similar elements of focus including but not limited to:  ensuring all required interviews are completed, making sufficient collateral contacts, gathering comprehensive safety related information
+and accurately applying the safety threshold criteria. All of these identified efforts should positively impact this measurement.
+KPM #8          TIMELY REUNIFICATION - The percentage of foster children exiting to reunification within 12 months of foster care entry.
+                Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                   actual      target
+
+  Re port Ye ar                                                                    2016                              2017                               2018                               2019                                2020
+Time ly Re unification
+Actual                                                                           66.10%                             73.70%                             71.60%                             No Data                             No Data
+Target                                                                           70.60%                             75.20%                               75%                                76%                                 76%
+
+How Are We Doing
+The outcome of 71.6% is Federal Fiscal Year 2017 data, for Report Year 2018. Oregon decreased in performance by 2.1% percentage points on this measure this past federal fiscal year. Oregon
+is 3.4 percentage points short of the target for this year
+Factors Affecting Results
+There are multiple systemic factors that affect this result. Availability of targeted services and community resources to assist in children safely reunifying varies by area across the state. Additionally,
+reunification for this measure is defined by the DHS custody case being dismissed; in cases where children are returned and the agency is continuing to work with the family, the foster care episode
+does not close until the children have been in home for six months.
+
+Over the last year, permanency caseworkers and supervisors across the state have participated in training that focused on fidelity to the Oregon Safety Model (OSM). The training focused on
+honing staffing skills in all elements of the model, including protective capacity assessments (PCAs) and creating and monitoring conditions for return. These two elements are important in timely
+reunification. PCAs identify protective capacities that need to change from diminished to enhanced in order for parents to be able to ensure their children’s safety. Conditions for return outline what
+needs to be in place in a home, with some combination of a willing parent and/or safety service providers, in order for children to reunify with their parent(s). When these pieces of work are done to
+fidelity, children can reunify in a safe and timely way. Over the course of the next year, continued focus on training and coaching to fidelity of the OSM should continue to impact this measure in a
+positive direction.
+KPM #9          TIMELINESS OF ADOPTION ONCE LEGALLY FREE - Percent of Legally free children adopted in less than 12 months
+                Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                  2016                              2017                              2018                              2019                               2020
+Time line ss of Adoption Once  Le gally Fre e
+Actual                                                                          46.10%                           48.50%                            42.10%                             No Data                            No Data
+Target                                                                          48.20%                           53.70%                            53.70%                               54%                                54%
+
+How Are We Doing
+The outcome of 42.1% is Federal Fiscal Year 2017 data, for Report Year 2018.  Oregon decreased in performance by 6.4% percentage points on this measure this past federal fiscal year. Oregon
+is 11.6 percentage points short of the target for this year.
+Factors Affecting Results
+There are multiple factors affecting the results of this measure - staff turnover, the crisis nature of casework that often puts paperwork lower in priority, field manager’s focus on timeliness, and
+additional time for supervision and finalization for children placed out of state. With the additional staff that has been allocated, along with the implementation of the Program Improvement Plan that
+has several interventions directed at increasing timeliness, Oregon expects to see a positive impact on this measure moving forward.
+KPM #10             LTC NEED PREVENTION - Percentage of seniors (65+) needing publicly-funded long term care services.
+                    Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                 actual    target
+
+  Re port Ye ar                                                                 2016                             2017                              2018                              2019                              2020
+LTC NEED PREVENTION
+Actual                                                                         3.09%                             3.12%                            3.05%                            No Data                            No Data
+Target                                                                           5%                              3.10%                            3.10%                             3.08%                              3.08%
+
+How Are We Doing
+In 2018, only 3.05% of Oregonians 65 or older needed assistance with publicly funded long term care. This is a noticeable downward trend that exceeds legislative targets. Oregon is generally
+meeting the legislatively established targets.  APD believes the targets will continue to be met in the future due to programmatic modifications made in the 2017-2019 biennium.
+Factors Affecting Results
+Oregon has adopted the Community First Choice Model, also known as the K Plan.  This is a big driver in these results as the K Plan has numerous tools that are designed to keep people
+independent.  Additionally, the success of the Area Agencies on Aging (AAA) network administering Oregon Project Independence, Older Americans Act programs and the Aging and Disability
+Resource Connection contribute towards keeping older adults independent.  More preventative programs should be considered to ensure targets continue to be met, ultimately resulting in system
+sustainability.
+KPM #11     LTC RECIPIENTS LIVING OUTSIDE OF NURSING FACILITIES - The percentage of Oregonians accessing publicly-funded long-term care services who are living outside of nursing
+            facilities.
+            Data Collection Period: Jul 01 - Jul 31
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Re port Ye ar                                                                  2016                              2017                              2018                                2019                                2020
+LTC RECIPIENTS LIVING OUTSIDE OF NURSING FACILITIES
+Actual                                                                          86.90%                            87.20%                            87.40%                             No Data                             No Data
+Target                                                                          85.96%                              87%                               88%                                89%                                 89%
+
+How Are We Doing
+APD is generally meeting the legislative targets established.  However, recent programmatic changes designed to promote sustainability have resulted in increased acuity levels of individuals
+served.  As a result, continued progress towards decreasing the number of individuals served outside of nursing facilities will be challenging. APD exceeded the legislative target of 87%.  APD is
+making steady, continued progress at serving seniors and people with disabilities in settings less restrictive than nursing facilities.  This is a key outcome in ensuring Oregon’s system of long term
+care.
+
+Factors Affecting Results
+Hospitals continue to discharge patients “sicker and quicker.”  In many cases, hospitals prefer to discharge older adults needing additional care to nursing facilities.  Institutional care may be
+appropriate for certain individuals for short periods of time.  DHS must continue to aggressively ensure that seniors are appropriately transitioned from nursing facilities when their care can be
+supported in less restrictive and costly settings.  Doing this will allow DHS to continue meeting our targets.
+KPM #12       DEVELOPMENTAL DISABILITY SUPPORT SERVICES - The percentage of eligible adults who are receiving adult support services within 90 days of request.
+              Data Collection Period: Jun 01 - Jul 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                  2016                              2017                              2018                              2019                                2020
+DD Adult Support Se rv ice s
+Actual                                                                          61.84%                            55.22%                            72.16%                            No Data                            No Data
+Target                                                                            98%                               98%                              86%                                86%                                 0%
+
+How Are We Doing
+Services were designed differently when this measure was proposed, but with changes in K plan and how services are now delivered, it is no longer relevant. New performance measures have been
+designed that are more relevant to track people getting services in a timely fashion.
+Factors Affecting Results
+While this is important, the strategy for collecting the data was limited to people that experienced this event within a very narrow timeframe AND were part of a statewide sample the ODDS Quality
+Assurance (QA) team pulled. For instance, only 24 instances across the state were reviewed for Q3 2017. The lack of a centralized electronic system is a factor in not being able to review 100% of
+people who received a service within 90 days of being notified of their eligibility for I/DD services.
+
+Data comes from Express Payment & Reporting System (eXPRS). The reporting cycle is fiscal year. The calculation is: Number of adults receiving adult support services within 90 days of request
+divided by the number of adults who were eligible and referred for adult support services.
+KPM #13     PEOPLE WITH DISABILITIES LIVING AT HOME - The percentage of individuals enrolled in the Intellectual/Developmental disabilities program who are receiving services in their own
+            home.
+            Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                  2016                              2017                              2018                              2019                               2020
+PEOPLE WITH DISABILITIES LIVING AT HOM E
+Actual                                                                          73.52%                           74.32%                            75.26%                             No Data                            No Data
+Target                                                                            80%                              80%                               80%                                80%                                 0%
+
+How Are We Doing
+Nationally, Oregon continues to be a leader in serving people with Intellectual and Developmental Disabilities (I/DD) in their homes in the community. By comparison, research available to us
+through the Institute on Community Integration, through the University of Minnesota (data provided was for fiscal year 2014) indicates the following:
+
+For FY 2014, 46 states responded. The numbers reflect individual’s that received one or more long term support services (LTSS) where the residence type was known:
+
+Total number of people receiving one or more LTSS (nation-wide): 1,167,384 total recipients
+
+Living in home of family member: 661,442 individuals (56.66%)
+
+Living in home they own or lease: 133,584 individuals (11.44%)
+Factors Affecting Results
+The measure reflects the fact that the majority of adults and children with I/DD live with their families or own home in Oregon. Each individual receiving services in Oregon has the choice of location
+and setting where they receive their I/DD services. Case Managers review these choices annual and inform each recipient of all of the alternative options available to them.
+KPM #14         SUPPORTED EMPLOYMENT - Increase the number of individuals who receive developmental disability services in supported employment.
+                Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                 2016                              2017                             2018                               2019                               2020
+INTEGRATED EM PLOYM ENT SETTINGS
+Actual                                                                          2,971                             3,007                            3,012                            No Data                            No Data
+Target                                                                             0                              3,000                            3,020                              3,140                                0
+
+How Are We Doing
+For Fiscal Year 2019 we provided supported employment services to 3,012 individuals and continue to be in compliance with Lane v. Brown. DHS continues to grow competitive integrated and
+supported employment for individuals who have I/DD as required by Lane v. Brown, as well as state initiatives. Although we came close to the target for 2018, the growth indicates that DHS
+continues to move in the right direction around supported employment service.
+Factors Affecting Results
+Supported employment providers in the state are continuing to make significant changes as they transform from traditional facility based services to community services. Additionally, many
+individuals who have had job coaching supports have moved to natural supports or other supports on the job. This likely contributes to the plateau currently being reflected in the data. However,
+DHS is on target to continue to grow supported employment services for those with I/DD. Executive Order 15-01 and the Lane v. Brown Settlement Agreement require DHS to provide employment
+services to at least 7,000 individuals by 2022.  This means that by 2017 at least 3,000 individuals should have received an employment service; by 2018 3,800; 2019 4,600; 2020 5,400; 2021
+6,200; and 2022 7,000. DHS continues to be in compliance with this requirement.
+KPM #15         ABUSE OF PEOPLE WITH DEVELOPMENTAL DISABILITIES - The percentage of people with developmental disabilities experiencing abuse.
+                Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                  actual      target
+
+  Re port Ye ar                                                                  2016                               2017                              2018                               2019                                2020
+ABUSE OF SENIORS AND ADULTS WITH DISABILITIES - b) pe ople  with de v e lopme ntal disabilitie s
+Actual                                                                           1.83%                             2.10%                               2%                              No Data                             No Data
+Target                                                                           2.20%                             2.20%                             1.80%                              1.70%                                 0%
+
+How Are We Doing
+The abuse rate of people with intellectual/development disabilities (I/DD) enrolled in services has continued to trend downward. This is particularly noteworthy given that the number of people
+enrolled for services has increased 7.4% since the last reporting year and a policy change in March 2017 that greatly increased the number of investigations assigned.
+
+Prior to March 2017 a trust relationship needed to exist between the alleged victim and the alleged perpetrator for an incident to be assigned for investigation. Following the policy change, such a
+relationship ceased to be required; if an incident met the definition of abuse, it was assigned for investigation. This resulted in an 18% increase in the number of allegations investigated.
+
+Because of a lack of national abuse data it is a challenge drawing comparisons to the IDD abuse rate targets.  Targets are currently based on trends of historical data.
+
+Oregon is in the process of developing a Centralized Abuse Management (CAM) information system that will allow for enhanced tracking and monitoring of abuse referrals and investigations.  IDD
+service cases will be included in the second phase of implementation scheduled for 2019/2020.  The implementation of CAM will enhance access and availability of information across the state and
+greatly improve the ability to make data informed decisions. Strategies to maintain and improve performance on this measure includes continued and enhanced prevention initiatives, increased
+training opportunities, and coordination with partners and stakeholders.  The development of centralized abuse data will also provide opportunity for proactive data driven actions and greater ability
+to analyze risk factors associated with abuse.
+
+Strategies attributed to the decreased abuse rate include:
+       Diligence in monitoring and promoting safety in licensed settings for people with intellectual/developmental disabilities.
+        Continued coordination between licensing, abuse investigation and program staff to better identify areas of concern and respond effectively.
+        Ongoing outreach to increase public awareness of abuse issues facing individuals with intellectual/developmental disabilities.
+        Ongoing collaboration with community partners, including brokerages serving people with intellectual/developmental disabilities living in their own homes.
+        Enhanced training to abuse investigators, service coordinators, personal agents, direct service providers and facility staff.
+Factors Affecting Results
+Abuse rates for people with intellectual/developmental disabilities can be affected by many factors, including:
+        The high acuity and service needs of residents being served in community-based care settings.
+        High turnover rate of treatment and support staff in all settings.
+        An adult’s right to make decisions about their living situation, companions, etc.
+        Barriers to the reporting of abuse by cognitively impaired clients.
+        Limited resources available to respond and support people with intellectual/developmental disabilities who are abused (e.g. domestic violence shelters, counseling resources, etc.).
+        Current data systems do not have the capacity to clearly identify risks associated with reports of abuse.
+What needs to be done in this area includes:
+        Ongoing training for service coordinators, personal agents, personal support workers, direct support providers, service providers and facility staff in recognizing, reporting, and preventing
+        abuse.
+        Research and collaboration with community response systems and resources, including domestic violence interventions, sexual assault response, mental health services, housing, etc.
+        Coordination and participation with local area multidisciplinary teams and coordinated care organizations.
+        Increased investigator access to content experts such as forensic nurses, psychologists and other health care professionals.
+KPM #16             Abuse Investigation Timeliness - Percent of abuse reports assigned for field contact that meet policy timelines.
+                    Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                    actual     target
+
+  Re port Ye ar                                                                    2016                               2017                               2018                               2019                                2020
+Abuse  Inv e stigation Time line ss
+Actual                                                                           No Data                             97.70%                             97.82%                             No Data                             No Data
+Target                                                                              TBD                                TBD                                95%                                95%                                 95%
+
+How Are We Doing
+We have met the KPM target and have exceeded last year’s performance by a very slight percentage.  This measure applies to over 16,000 investigations during the reporting period.
+
+This measure is related to how quickly Adult Protective Service (APS) Specialists respond or intervene to protect people when they receive a report of abuse. The specific response times are
+governed by the nature and severity of the complaint and rules that apply.  APS investigators take the responsibility to assure the safety of the reported victim within the assigned timeline extremely
+seriously and this is reflected in the percentage being reported this year.
+
+Factors Affecting Results
+This is a blended rate of abuse investigations in both facility and community (non-facility) settings.  Since there are different timelines for response in these settings and community investigations
+are double the number of facility investigations, it is difficult to universally apply the reported percentage across all cases.  In addition, current data systems make it difficult to assess the response
+time applied to each individual investigation.  Therefore, certain default assumptions need to be utilized.  The legislative investment in a statewide abuse data management and report writing
+program is now in the implementation phase and will result in a higher level of case specific data and a greater ability to report on this measure.
+KPM #17    CUSTOMER SERVICE - Percentage of customers rating their satisfaction with DHS above average or excellent: overall, timeliness, accuracy, helpfulness, expertise, availability of
+           information.
+           Data Collection Period: Jan 01 - Jan 31
+
+                                                                         actual    target
+
+ Re port Ye ar                                                          2016                          2017                           2018                           2019                           2020
+Time line ss
+Actual                                                                  74%                            79%                          73.80%                         No Data                        No Data
+Target                                                                  75%                            75%                            75%                            75%                            81%
+Accuracy
+Actual                                                                  84%                            89%                          78.80%                         No Data                        No Data
+Target                                                                  75%                            75%                            85%                            85%                            91%
+Ov e rall
+Actual                                                                  82%                            88%                          75.70%                         No Data                        No Data
+Target                                                                  75%                            75%                            82%                            82%                            90%
+He lpfulne ss
+Actual                                                                  83%                          No Data                        No Data                        No Data                        No Data
+Target                                                                  75%                            75%                            85%                            85%                            86%
+Expe rtise
+Actual                                                                  84%                            88%                          78.50%                         No Data                        No Data
+Target                                                                  75%                            75%                            85%                            82%                            90%
+Av ailability of Information
+Actual                                                                No Data                          90%                          No Data                        No Data                        No Data
+Target                                                                  75%                            75%                            88%                            88%                            92%
+
+How Are We Doing
+DHS experienced a decrease among all elements from our Customer Service survey, most notably around Accuracy, Expertise and Overall Satisfaction. No data are available for Helpfulness and
+Availability of Information.
+Factors Affecting Results
+We are currently refining our survey efforts to ensure we're reaching an adequate number of customers that are representative across the various DHS programs, and getting a satisfactory
+response rate. We will also ensure we're asking all the required questions and potentially including additional follow-up questions to help provide more context and inform actions to be taken.
+           Disparity in foster youth achieving permanency within 2 years by race/ethnicity - Disparity is calculated by taking the ratio of two percentages: Percent of Non-White & Hispanic children
+KPM #18    achieving permanency goals / Percent of Non-Hispanic White children achieving permanency goals. The permanency goal is the percent of foster youth achieved permanency within 24
+           months (of those that entered 24 months ago)
+           Data Collection Period: Oct 01 - Sep 30
+
+                                                                              actual    target
+
+  Re port Ye ar                                                              2016                            2017                            2018                             2019                              2020
+Disparity of Non-Hispanic African Ame rican Youth
+Actual                                                                     No Data                            0.80                            0.70                           No Data                          No Data
+Target                                                                       TBD                              TBD                               1                                1                                1
+Disparity of Non-Hispanic Asian/Pacific Islande r Youth
+Actual                                                                     No Data                            1.30                            0.90                           No Data                          No Data
+Target                                                                       TBD                              TBD                               1                                1                                1
+Disparity of Non-Hispanic White  Youth (always=1)
+Actual                                                                     No Data                              1                               1                            No Data                          No Data
+Target                                                                       TBD                              TBD                               1                                1                                1
+Disparity of Non-Hispanic Nativ e  Ame rican/Alaska Nativ e  Youth
+Actual                                                                     No Data                              1                               1                            No Data                          No Data
+Target                                                                       TBD                              TBD                               1                                1                                1
+Disparity of Hispanic (any race ) Youth
+Actual                                                                     No Data                              1                               1                            No Data                          No Data
+Target                                                                       TBD                              TBD                               1                                1                                1
+
+How Are We Doing
+Factors Affecting Results
+KPM #19     CHILDREN SERVED BY CHILD WELFARE RESIDING IN PARENTAL HOME - The percent of children served in Child Welfare on an average daily basis (In Home and Foster Care) who
+            were served while residing in their parent's home.
+            Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                 2016                              2017                              2018                              2019                                2020
+CHILDREN RESIDING AT HOM E IN LEAST RESTRICTIVE SETTING
+Actual                                                                         23.90%                            25.40%                           23.80%                             No Data                            No Data
+Target                                                                           30%                               33%                              33%                                33%                                 33%
+
+How Are We Doing
+The outcome of 23.8% is Federal Fiscal Year 2017 data, for Report Year 2018.  From 2015 to 2016, Oregon saw a slight increase in this performance measure of 1.5 percent. Then a decrease
+from 2016 to 2017 of 1.6%.
+
+The state child welfare program has been working toward the vision of Safe Equitable Foster Care Reduction. One way to achieve this vision is through serving children safely in their own home.
+Several strategies have been involved to help achieve this vision.
+
+One of these strategies is the continued practice of the Oregon Safety Model (OSM).  OSM requires workers to determine if a child is safe through a larger lens than incident based investigations
+and necessitates a comprehensive exanimation of the family.  This comprehensive assessment process provides valuable information that informs the case worker how best to serve the family by
+identifying what is making the child(ren) unsafe and thus ameliorate these issues through adequate safety planning, and referrals to appropriate interventions.
+
+As a part of assuring DHS Child Welfare is practicing OSM consistently, statewide fidelity reviews are being conducted.  These reviews are led by Consultants with the inclusion of Child Welfare
+managers.  In addition leadership has implemented an intentional facilitation of group supervision throughout districts that allows local leadership to focus on key safety concepts.
+
+Following these reviews, debriefing sessions with District Managers and Consultants are utilized to create action plans geared at improving identified gaps in OSM fidelity.  By continuing to provide
+fidelity reviews, Consultants then aim to improve case workers consistency in practice and decision making, identify gaps in knowledge and provide updated training, and identify skills and tools to
+support an engagement model of family centered practice.
+Determination of support systems and services to keep children safe is key in Strengthening, Preserving and Reunifying Families (SPRF). DHS Child Welfare works with an extensive network of
+community providers which have been contracted to specifically address the needs of children and families in order to maintain a child safely in their home or allow for a child to exit the foster care
+system sooner.  Each county regularly assesses their SPRF service array, to determine gaps in service provision and use of current services.  In an effort to assure these contracts are effective in
+the keeping children safe with their parents, or allowing children to leave foster care sooner, DHS has implemented the first step toward a system of Performance-Based Contracting, in collaboration
+with our SPRF contractors. Current SPRF contracts now include performance-based contract language and outcomes. Upon execution of the contracts, the contractor submits reports through the
+invoicing process which identifies one of three outcomes for each client: 1) Achieved 2) Partially Achieved 3) Not Achieved.
+
+Oregon continues to work collaboratively with Portland State University to implement updated curriculum and hands-on training for new case workers and supervisors.  These updates will include
+more real life experiences through the use of a mock court room, mock interview process that are recorded and reviewed, increased oversight of new employees, and continued reinforcement of the
+OSM.
+Factors Affecting Results
+The assessment of a child abuse/neglect report requires time in order to fully engage and understand a family.  The issues affecting families of abused and neglected children include dynamics of
+drug/alcohol abuse, domestic violence, parental involvement with law enforcement, and mental health issues. Frequently these are co-occurring in families and fully understanding how these issues
+impact child safety is complicated.  Staffing and issues related to retention of staff is one of the largest issues affecting the ability to adequately assess safety of children.  As a result workers may
+miss key information or not have time to provide the family with needed safety interventions. The hiring of MAPS (Mentoring, Assisting and Promoting Success) and development of consistent
+onboarding practices statewide are a priority.
+KPM #20        TANF JOBS PLACEMENTS - The percentage of clients who achieve job placement each month compared to those anticipated to achieve placement.
+               Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                               2016                               2017                                 2018                              2019                             2020
+TANF JOBS PLACEM ENTS
+Actual                                                                      122.40%                            122.70%                              110.40%                            No Data                          No Data
+Target                                                                       100%                                100%                                100%                               100%                              TBD
+
+How Are We Doing
+Our objective is to maintain the percentage of Temporary Assistance to Needy Families (TANF) participants successfully obtaining unsubsidized employment.  However, factors described below may
+have a negative impact on this measurement.
+Factors Affecting Results
+Oregon’s economy has continued to improve over the past several years.  Oregon’s seasonally adjusted unemployment rate remains low, over the past few months the rate has fallen slightly,
+decreasing by 0.2% from 41. in May 2018 to 3.9 in July 2018.
+
+Over the past six years, the number of TANF cases has significantly decreased.  Those who were ready or near ready for employment have found jobs in the stronger economy.  Those remaining
+on assistance have more significant challenges to becoming employed.  The percentage of individuals with mental health, substance use, and physical health records is significantly higher than it
+was just a few years ago. These individuals will need greater supports, additional services, and increased case management to help reduce the impact of the challenges they are facing.
+
+The need to access more intensive stability focused services may have an impact on the percentage of those finding employment, and this measure may be affected by this situation.  There may
+also be an impact due to the availability of jobs as the economy growth levels out.  Changes made to the TANF program over the 2017-19 biennium are beginning to help asses and determine
+strategies for assisting individuals to find appropriate employment. These programmatic changes may cause the length of time needed to move an individual into employment to increase.
+
+The Self-Sufficiency programs are intended to provide a safety net, family stability, and a connection to careers that guide Oregonians out of poverty. With respect to this KPM, the programs will
+work in partnership with other workforce system agencies and community partners to help Oregonians connected to our programs exit poverty along a career path. The program will continue to
+monitor the measure and targets. The targets this measure compares to are updated as needed during program planning processes.

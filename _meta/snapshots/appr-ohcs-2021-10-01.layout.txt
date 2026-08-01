@@ -1,0 +1,301 @@
+Housing and Community Services
+              Annual Performance Progress Report
+
+                     Reporting Year 2021
+
+                Published: 10/1/2021 4:44:14 PM
+ KPM #        Approved Key Performance Measures (KPMs)
+
+1            Reducing Homelessness - Percentage of homeless households who exited into permanent housing and retained that housing for six months or longer.
+2            Energy Assistance - Of all crisis energy payments, the percentage of payments made to prevent power disconnections. Crisis payments include those for preventing disconnection of service or restoring service which was shut off.
+3            Affordable Rental Housing - Percentage of regulated multifamily housing units funded with grants, tax credits, and bonds, that will be affordable to households earning at or below 50% of the area median income.
+4            Affordable Rental Housing for People with Disabilities - Percentage of affordable rental housing units funded that provide rental opportunities for low-income individuals with physical or mental disabilities.
+5            Affordable Rental Housing (Construction Costs) - Construction costs per square foot for: newly constructed housing units developed through grant and tax credit programs; and construction costs per square foot for rehabilitated housing units developed
+             through grant and tax credit programs, as compared to national RS Means data.
+6            Affordable Rental Housing (Areas of Opportunity) - Percentage of affordable rental housing units funded with 9% Low Income Housing Tax Credits or HOME program funds that will be developed in high opportunity areas. High opportunity areas are
+             defined as census tracts that meet two of the following three criteria: low poverty rate, below average unemployment rate, high ratio of jobs to labor force.
+             Affordable Rental Housing in Rural Areas - Percent increase in the number of affordable rental housing units that will be developed in rural areas. Rural areas are defined as: communities with population 15,000 or less outside of the Portland Urban
+7            Growth Boundary in counties within Metropolitan Statistical Areas (Benton, Clackamas, Columbia, Deschutes, Jackson, Josephine, Lane, Marion, Multnomah, Polk, Washington and Yamhill Counties) and communities with 40,000 population or less in
+             the balance of the state.
+8            Homeownership - Percentage of households at or below the county median family income served by the Oregon Bond Residential Loan program.
+9            Homeownership Services to People of Color - Percentage of people served by all OHCS homeownership programs who identify as people of color.
+10           Agency Customer Service - Percentage of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: timeliness, accuracy, helpfulness, expertise, availability of information, overall.
+
+                                                                                                                                                              red
+                                                                                                                                                              green
+                                                                                                                                                              yellow
+
+ Performance Summary                                                                                                                                                Green                                                        Yellow                                                          Red
+
+                                                                                                                                                              = Target to -5%                                           = Target -5% to -15%                                              = Target > -15%
+Summary Stats:                                                                                                                                                       70%                                                           10%                                                           20%
+KPM #1       Reducing Homelessness - Percentage of homeless households who exited into permanent housing and retained that housing for six months or longer.
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2017                               2018                              2019                               2020                               2021
+Percentage of homeless Oregonians remaining in permanent housing six months or longer
+Actual                                                                           92%                                81%                                87%                                82%                                93%
+Target                                                                           80%                                80%                                80%                                80%                                80%
+
+How Are We Doing
+From July 1, 2020 through June 30, 2021, 2,018 households were contacted six months after receiving state homeless assistance funds and 93% of these households had retained their permanent
+housing. This meets the target of 80%.
+
+Factors Affecting Results
+Shifting program attention from emergency shelters toward a "housing first" model, which prioritizes putting people into permanent housing immediately, has been ongoing for the past few years and
+may contribute to meeting this goal. In fiscal year 2021 there were also a significant number of new rental assistance programs designed to keep people housed through the COVID-19 pandemic,
+which could have contributed to meeting this goal this year.
+
+It is important to note that the denominator used in this calculation is the number of people successfully contacted after six months, not everyone who was due for a follow-up. The KPM therefore
+reflects the percentage of those contacted who are still in permanent housing after 6 months and does not include those who were not contacted. In fiscal year 2021, 47% of all people due for follow-
+up were successfully contacted. There are several possible reasons some clients were not contacted after exiting homeless assistance programs, and it is certainly possible that many of those unable
+to be contacted had not retained their permanent housing situation. The Community Action Agencies were tasked with administering many new programs related to COVID-19 response and that could
+have affected their ability to do as many follow-up calls as they have been able to do in past years, contributing to this lower contact rate.
+In fiscal year 2020, we instituted a new way of ensuring that those exiting to permanent housing don’t require an additional move in the Homeless Management Information System (HMIS) to be
+reported as being in need of follow-up after six months and this is the second year we have collected data using this new reporting method. While this has resulted in improved information and data
+accuracy, it has also resulted in a lower contact percentage overall (from 86% in FY19 to 47% in FY21). OHCS recognizes that improving data quality and reports is an iterative process and is
+continuing to work on addressing these issues over time. We will continue to work with partners on this new reporting method and on ensuring they have the capacity to do this level of follow-up with
+clients.
+KPM #2     Energy Assistance - Of all crisis energy payments, the percentage of payments made to prevent power disconnections. Crisis payments include those for preventing disconnection of service
+           or restoring service which was shut off.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2017                              2018                               2019                               2020                               2021
+Energy Assistance
+Actual                                                                         91.60%                             91.60%                               91%                                90%                               96%
+Target                                                                           90%                                90%                                90%                                90%                               90%
+
+How Are We Doing
+From July 1, 2020 through June 30, 2021, 96% of households receiving crisis energy assistance received payment for the prevention of power disconnections. This exceeds the target of 90%.
+
+Factors Affecting Results
+There has been a concerted effort by the state and our community action partners to get restoration numbers down and prevention numbers up – and in fact, they have gone from 82% of crisis
+payments in FY11 up to 96% in FY21. Measuring the prevention of disconnections compared to restorations is an established and well-researched method of understanding the effectiveness and
+efficiency of energy assistance programs. Disconnections are expensive for families, for utility companies, and it is expensive to restore services. Prevention is a much better strategy. Another
+potential factor contributing to this increase in prevention payments may be the additional resources OHCS received to respond to the COVID-19 pandemic and ensure households could continue
+paying their bills and remain stably housed.
+KPM #3     Affordable Rental Housing - Percentage of regulated multifamily housing units funded with grants, tax credits, and bonds, that will be affordable to households earning at or below 50% of the
+           area median income.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                    2017                                2018                               2019                               2020                               2021
+Affordable Rental Housing
+Actual                                                                          57.70%                               45%                                61%                                 66%                                51%
+Target                                                                            50%                                50%                                50%                                 50%                                50%
+
+How Are We Doing
+From July 1, 2020 through June 30, 2021, 51% of rental units approved for funding will be affordable to households with income at or below 50% of the area median income. This is above our goal of
+50%.
+
+Factors Affecting Results
+The majority of our funding sources serve households earning at or below 60% of AMI, and in fiscal year 2021 several programmatic policies, including points in competitive LIFT and 9% LIHTC
+funding and a full rollout of our Permanent Supportive Housing (PSH) development for chronically homeless individuals, gave further preference to serving lower incomes. As a result, we approved a
+number of very large projects that focused on housing for people with income at or below 50% of AMI. These figures include the rehabilitation and preservation of public housing properties in addition
+to other preservation and new construction of projects that include project-based rent assistance, which ensure that households only pay 30% of their income towards rent. This fiscal year 28% of the
+units funded either preserved or created project-based assistance, which is similar to the 30% of units with project-based assistance approved last fiscal year.
+KPM #4     Affordable Rental Housing for People with Disabilities - Percentage of affordable rental housing units funded that provide rental opportunities for low-income individuals with physical or
+           mental disabilities.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                    actual     target
+
+  Report Year                                                                     2017                                2018                                2019                               2020                                2021
+Affordable Rental Housing
+Actual                                                                              4%                                 4%                                 13%                                  8%                                 8%
+Target                                                                             12%                                 12%                                12%                                  7%                                 7%
+
+How Are We Doing
+From July 1, 2020 through June 30, 2021, 483 units, or 8% of rental units approved for funding will be set-aside for individuals with physical, developmental, or mental disabilities. This is above our
+goal of 7%.
+
+Factors Affecting Results
+There were several properties approved this fiscal year that set-aside a large number of units for those with mental, developmental, or physical disabilities. Not always reflected in these numbers are
+some additional units that will be Permanent Supportive Housing (PSH). While these units are not directly set-aside for persons with disabilities, the populations they are designed to target do also
+have disabilities. For example, anyone who is served with our Permanent Supportive Housing resources would be chronically homeless – which is a population defined both by the duration and
+recurrence of homelessness in addition to having co-occurring disabilities. Housing for those with disabilities like these often require intensive services be provided in order to make the projects
+successful and ensure tenants remain stable within their housing.  It is only with these specifically dedicated PSH resources that we are able to serve these populations with higher needs. In addition,
+we work with our partners at Oregon Health Authority (OHA) and Oregon Department of Human Services (ODHS) for the HUD 811 Project-based Rent Assistance (PRA) program. This program is
+funded through a grant from the US Dept. of Housing and Urban Development and pays project-based rent assistance for persons who are living with a mental illness or an intellectual/developmental
+disability. The rent assistance is matched with services through OHA and ODHS, who are also responsible for the referral of prospective program participants. Between July 1, 2020 and June 30,
+2021, 20 units were added to the program bring the total number of units statewide to 30.
+KPM #5     Affordable Rental Housing (Construction Costs) - Construction costs per square foot for: newly constructed housing units developed through grant and tax credit programs; and construction
+           costs per square foot for rehabilitated housing units developed through grant and tax credit programs, as compared to national RS Means data.
+           Data Collection Period: Jul 01 - Jun 30
+
+                                                                                  actual     target
+
+  Report Year                                                                    2017                               2018                               2019                               2020                               2021
+a. Cost per square foot of newly constructed housing developed through grant and tax credit programs
+Actual                                                                          90.30%                             87.90%                              105%                               123%                               111%
+Target                                                                           100%                               100%                               100%                               100%                               100%
+b. Cost per square foot for rehabilitated housing units developed through grant and tax credit programs
+Actual                                                                          97.50%                             89.40%                              104%                               130%                               139%
+Target                                                                           100%                               100%                               100%                               100%                               100%
+
+How Are We Doing
+From July 1, 2020 through June 30, 2021, the average cost per square foot of new construction properties that completed construction during that period was $226.23, or 111% of the combined 2020
+and 2021 national average construction costs per square foot as reported by RS Means data ($203.01). While this is above target, it is a decrease from last year’s value, which was 126% of the RS
+Means Target. For properties that were preserved and went through significant rehabilitation, the average cost per square foot of that rehabilitation was $141.02, which is 139% of the combined 2020
+and 2021 national average rehabilitation costs per square foot as reported by RS Means data ($101.02). This is above the target of 100%, which is a negative result.
+
+Factors Affecting Results
+Many requirements can increase costs in the development or rehabilitation of affordable housing, including but not limited to: paying workers prevailing wages, building to LEED standards, site work,
+design standards, the fluctuating costs and availability of materials, and locational factors. In addition, for many of our older projects needing rehabilitation we are finding the need to invest in large
+systems upgrades that would be less likely to have seen reflected in a normal market rehab. These costs escalations were most likely exacerbated by the COVID-19 pandemic, and its impact on
+supply chain and labor. Furthermore, we are using national RS Means data because statewide data is not available, but Oregon construction costs tend to be higher than the national average,
+especially in urban areas. We are assuming that our costs per square foot would be closer to our targets if RS Means data included prevailing wages and a locational factor in its calculations.
+           Affordable Rental Housing (Areas of Opportunity) - Percentage of affordable rental housing units funded with 9% Low Income Housing Tax Credits or HOME program funds that will be
+KPM #6     developed in high opportunity areas. High opportunity areas are defined as census tracts that meet two of the following three criteria: low poverty rate, below average unemployment rate,
+           high ratio of jobs to labor force.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual      target
+
+  Report Year                                                                     2017                                2018                               2019                               2020                                2021
+Affordable Rental Housing
+Actual                                                                             36%                                 0%                                 39%                                36%                                 32%
+Target                                                                             40%                                40%                                 40%                                40%                                 40%
+
+How Are We Doing
+From July 1, 2020 through June 30, 2021, 32% of units funded with 9% Low Income Housing Tax Credits or HOME program funds will be developed in “high opportunity” census tracts according to
+the KPM definition of meeting two of three criteria. This is slightly below the target of 40%. A fourth criterion, high scoring schools, is also used to evaluate “high opportunity” census tracts in a separate
+mapping tool. With the inclusion of this variable in the analysis, the percentage of units that will be developed in “high opportunity” census tracts increases to 47%, which is above target.
+
+Factors Affecting Results
+Beginning in 2016, we provided points to 9% LIHTC and HOME applications that showed that they would develop new units, or preserve existing units in high opportunity census tracts. This was done
+to encourage developers to create housing outside of high poverty census tracts, near employment opportunities, and near good schools. However, as required by the 9% LIHTC program, we also
+must provide points to applications for developments in qualified census tracts, which are higher poverty census tracts. These two competing priorities, in addition to the high cost of land, labor, and
+construction in opportunity areas juxtaposed with cost-containment efforts in funding applications, may influence our results on this KPM.
+           Affordable Rental Housing in Rural Areas - Percent increase in the number of affordable rental housing units that will be developed in rural areas. Rural areas are defined as: communities
+KPM #7     with population 15,000 or less outside of the Portland Urban Growth Boundary in counties within Metropolitan Statistical Areas (Benton, Clackamas, Columbia, Deschutes, Jackson,
+           Josephine, Lane, Marion, Multnomah, Polk, Washington and Yamhill Counties) and communities with 40,000 population or less in the balance of the state.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                    actual     target
+
+  Report Year                                                                      2017                                2018                               2019                                2020                                2021
+Affordable Rental Housing in Rural Areas
+Actual                                                                                                                                                                                                                            236%
+Target                                                                                                                                                                                                                             5%
+
+How Are We Doing
+From July 1, 2020 through June 30, 2021, 30% of rental units approved for funding were in rural areas, an increase from 19% in FY 2020. The number of units funded in rural areas increased by
+236%, from 523 in FY 2020 to 1,759 in FY 2021. This rate of increase was more than double that seen for the state; overall, there was a 118% increase in the number of units funded in both rural and
+urban locations. This is above the target of 5%, and with the increase from 19% to 30% of overall production, demonstrates meaningful work to produce affordable rental housing in rural Oregon.
+
+Factors Affecting Results
+This is the first year we have tracked this KPM and in this fiscal year there was an historic level of funding available and committed, leading to the agency more than doubling the number of units
+approved in Oregon and more than tripling the number of units approved in rural parts of the state. The recent passing of affordable housing bonds at Metro and in Portland have led to an influx of
+funding in the metropolitan areas, and a need for the state to invest more in the areas of the state that do not have those additional resources.
+
+This year’s unit production data is an anomaly, as this rate of increase is not sustainable or expected over the long-term. We recommend re-establishing the target for this KPM to align with the
+percentage of overall units that are located in rural areas. We can see in the provided data that the percent of units funded in rural areas as a percent of total units funded has increased (from 19% to
+30%) and this indicates a real commitment to reaching more rural communities. Using these two points as a baseline, we would like to continue using this measurement, with a target that 25% of the
+funded units be located in rural areas of the state.
+
+KPM #8       Homeownership - Percentage of households at or below the county median family income served by the Oregon Bond Residential Loan program.
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2017                              2018                              2019                              2020                               2021
+Homeownership
+Actual                                                                                                                                                                                                                  81%
+Target                                                                                                                                                                                                                  70%
+
+How Are We Doing
+From July 1, 2020 through June 30, 2021, 81% of loans made through the Oregon Bond Residential Loan Program went to households at or below the county median family income. This is above our
+target of 70%.
+
+Factors Affecting Results
+The lowest income limits OHCS uses for the residential loan program is 100% of statewide median family income. The highest limit for a larger size household is 140% of statewide MFI or 140% of
+county MFI, whichever is greater.
+KPM #9       Homeownership Services to People of Color - Percentage of people served by all OHCS homeownership programs who identify as people of color.
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2017                               2018                              2019                               2020                              2021
+Homeownership Services to People of Color
+Actual                                                                                                                                                                                                                     37%
+Target                                                                                                                                                                                                                     30%
+
+How Are We Doing
+From July 1, 2020 through June 30, 2021, 37% of clients served by our homeownership programs were Black, Indigenous, and People of Color (BIPOC). This is above our goal of 30%.
+
+Factors Affecting Results
+In previous years, we only looked at the percentage of borrowers or co-borrowers in our Oregon Bond Residential Loan (OBRL) program who identified as people of color for this KPM, but we are now
+collecting race and ethnicity data on clients served by the homeownership centers we fund, as well as recipients of our Down Payment Assistance (DPA) program, and the Oregon Foreclosure
+Avoidance (OFA) program, so we wanted to include them in our metric to better understand how all of our homeownership programs are reaching BIPOC communities.
+
+There were 534 clients who were able to purchase homes through their work with the homeownership centers we fund with HOAP dollars and of those, 44% identified as people of color. Our Down
+Payment Assistance program served 220 clients in fiscal year 2021 and 42% of those clients were People of Color. The OBRL program reached 368 new homeowners in this fiscal year, 35% of whom
+were People of Color and finally, the OFA program served 474 clients and 28% were People of Color. There were an additional 1,984 People of Color who received counseling and education at the
+homeownership centers funded by OHCS, making up 49% of total clients in the fiscal year. These clients were not included in the KPM calculation since they did not necessarily all purchase a home,
+but it is encouraging that such a high percentage of those receiving these services were from communities of color.
+
+OHCS has been working to ensure that our partners are being more proactive in promoting the all of our homeownership programs to communities of color by encouraging partnerships with culturally-
+specific organizations and expanding outreach efforts. Most recently, OHCS started using performance-based contracting with our partners to ensure that they serve and improve outreach to the
+BIPOC community. Homeownership Centers had to submit a Request For Application to the Home Ownership division committing to serving their entire community with a focus on communities of
+color and hitting performance goals tied to the number of BIPOC individuals served. Homeownership is leading the Agency in this effort and is committed to refining this process over the coming
+years.
+KPM #10    Agency Customer Service - Percentage of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: timeliness, accuracy, helpfulness, expertise,
+           availability of information, overall.
+           Data Collection Period: Jan 01 - Dec 31
+
+                                                                        actual    target
+
+ Report Year                                                           2017                           2018                           2019                           2020                          2021
+Availability of Information
+Actual                                                                  0%                             74%                           74%                            65%                            65%
+Target                                                                  0%                             80%                           80%                            80%                            80%
+Overall
+Actual                                                                  0%                             78%                           78%                            79%                            79%
+Target                                                                  0%                             80%                           80%                            80%                            80%
+Timeliness
+Actual                                                                  0%                             73%                           73%                            76%                            76%
+Target                                                                  0%                             80%                           80%                            80%                            80%
+Accuracy
+Actual                                                                  0%                             76%                                                          72%                            72%
+Target                                                                  0%                             80%                           80%                            80%                            80%
+Expertise
+Actual                                                                  0%                             78%                           78%                            81%                            81%
+Target                                                                  0%                             80%                           80%                            80%                            80%
+Helpfulness
+Actual                                                                  0%                             80%                           80%                            81%                            81%
+Target                                                                  0%                             80%                           80%                            80%                            80%
+
+How Are We Doing
+We performed our eighth customer service survey in 2020 and we received 168 responses. When asked to rate “the overall quality of service provided by OHCS”, 79% of respondents gave a positive
+answer (“Excellent” or “Good”). We conduct this survey every other year. This is just below our target of 80%.
+
+Factors Affecting Results
+The results of the 2020 Customer Service Survey are very similar to those from the 2018 Survey. Customers were asked to rate OHCS on six factors and a response of “Excellent” or “Good” is
+considered a positive rating. OHCS received its highest ratings for “the helpfulness of OHCS employees”, and “the knowledge and expertise of OHCS employees”, with 81% of customers giving a
+positive rating on these factors. Customers were most likely to rate OHCS staff as “Excellent” on the helpfulness factor, which is the one the Agency has consistently scored well on. The factor which
+the agency needs to focus on improving the most is “the availability of information at OHCS”, with 65% of respondents providing a positive rating. It is possible that this result was impacted by our
+recent website upgrade which occurred in early July. The survey was open throughout the month of August. It will likely take our customers some time to get used to the new website. This is also a
+time of rapidly changing information due to COVID response. The biggest improvement from the 2018 survey was for “the timeliness of the services provided by OHCS”, which 76% of customers
+responded positively to in 2020 compared to 73% in 2018.

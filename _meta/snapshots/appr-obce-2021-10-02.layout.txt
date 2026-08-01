@@ -1,0 +1,288 @@
+Chiropractic Examiners, Board of
+              Annual Performance Progress Report
+
+                     Reporting Year 2021
+
+                Published: 10/2/2021 2:21:40 PM
+ KPM #        Approved Key Performance Measures (KPMs)
+
+1            Days between complaint receipt and investigation report finalized for Board (investigative process step one) - Percent of cases having investigative reports written within 120 days from when a complaint is received to when the investigation is prepared
+             for Board review/action.
+2            Days between investigation report finalized and presentation to the Board (investigative process step two) - Percent of cases, with a prepared investigation that is ready for Board review/action, that are presented to the Board within 60 days of
+             completion.
+3            Summary of investigative steps: Percentage of new complaints that are assessed, investigated, and presented to the board for an initial decision within 120 days. -
+4            Days between Board review/initial action and case closure (investigative process step three). - Percent of cases closed within 90 days of Board review/initial action.
+5            Summary of investigative steps: Average number of days to resolve a complaint. -
+6            Percent of sexual misconduct/boundary complaints resolved in 180 days -
+7            Percentage of chiropractic physicians meeting the annual continuing education requirements. -
+8            Percentage of licenses issued within 5 days once all application components (that are the responsibility of the applicant) have been received. -
+9            Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise, and availability of information.
+10           Board Best Practices - Percent of total best practices met by the Board.
+
+                                                                                                                                                               red
+                                                                                                                                                               green
+                                                                                                                                                               yellow
+
+ Performance Summary                                                                                                                                                Green                                                         Yellow                                                           Red
+
+                                                                                                                                                               = Target to -5%                                           = Target -5% to -15%                                               = Target > -15%
+Summary Stats:                                                                                                                                                        50%                                                           10%                                                            40%
+KPM #1     Days between complaint receipt and investigation report finalized for Board (investigative process step one) - Percent of cases having investigative reports written within 120 days from when
+           a complaint is received to when the investigation is prepared for Board review/action.
+           Data Collection Period: Sep 01 - Aug 31
+
+* Upward Trend = positive result
+
+                                                                                    actual      target
+
+  Report Year                                                                      2017                               2018                                2019                                2020                                2021
+Complaint receipt to investigation preparation to Board.
+Actual                                                                             39%                               35.20%                                40%                               23.90%                             23.70%
+Target                                                                             80%                                 80%                                 80%                                80%                                 80%
+
+How Are We Doing
+In our last reporting period, of the 46 cases received, 35 of them (76%) included investigator's reports that were submitted in excess of 120 days from complaint receipt. The average days from receipt
+to investigator's report for the 35 cases was 221 days/case. For the other 11 cases (23.9%), the average days from receipt to investigator's report was 49 days/case.
+
+For the current reporting period, of the 38 complaints received, 29 of them (76.3%) included investigator's reports that were submitted in excess of 120 days from complaint received. The average
+days from receipt to investigator's report for the 38 cases was 210.4 days/case. For the other cases (23.7%), the average days from receipt to investigator's report was 89.9 days/case.
+
+This KPM was created in 2017. The 2021 Legislature changed the target from 80% to 60% for 2022's reporting period.
+
+Factors Affecting Results
+The OBCE is a smaller professional regulatory board, with 5.1 FTE (6 positions), of which, when fully staffed, only 2 staff members are full time employees which does not include our Investigator or
+Healthcare Investigator. Beginning in November 2019, we have been shortstaffed, with the .75 Investigator position having been held vacant for agency savings until our current, open, recruitment. As
+of May 2021, our .6FTE Healthcare Investigator retired, leaving us with no investigation staff until our recent hire of that position, who began at the end of September 2021. Our results for this KPM is a
+direct reflection of our shortstaffing and utilizing independently contracted investigation assistance during this period.
+
+Of the 29 cases that were over target, 4 DCs were responsible for 10 cases, 3 of which included civil penalties.
+KPM #2     Days between investigation report finalized and presentation to the Board (investigative process step two) - Percent of cases, with a prepared investigation that is ready for Board
+           review/action, that are presented to the Board within 60 days of completion.
+           Data Collection Period: Sep 01 - Aug 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                   2017                               2018                               2019                              2020                               2021
+Days between investigation preparation and presentation to the Board.
+Actual                                                                         91.58%                             88.90%                            86.10%                             61.10%                              100%
+Target                                                                           90%                               90%                                90%                                90%                                90%
+
+How Are We Doing
+The 2021 Legislative session brought a change to this KPM, allowing 60 days instead of the original 30 days, for prepared investigations to be presented to the Board due to our agency board
+meetings occuring every other month.
+
+With that change, we have exceeded our target with 100% of our cases (43/43) being presented within 60 days. Even at the original 30 day target, we would have almost met that target at 83.7% of
+our cases (36/43) being presented within 30 days.
+
+Factors Affecting Results
+KPM #3      Summary of investigative steps: Percentage of new complaints that are assessed, investigated, and presented to the board for an initial decision within 120 days. -
+            Data Collection Period: Sep 01 - Aug 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2017                               2018                               2019                               2020                               2021
+Percentage of complaints/investigations presented to the Board within 120 days
+Actual                                                                           55%                                59%                               62.50%                             36.40%                             71.40%
+Target                                                                           90%                                90%                                90%                                90%                                90%
+
+How Are We Doing
+At 71.4% of cases presented to the Board within 120 days, we did not meet this KPM this reporting period, with 7 new cases, 5 of which reported to the board at less than 120 days. Only 2 cases
+(28.6%) went before the board in over 120 days. This result is almost a two-fold improvement over last reporting period, however.
+
+Factors Affecting Results
+We had 68% decrease in new complaints being presented to the board during this reporting period over last. This decreased number is expected due to our lack of investigation staff during much of
+our current reporting period. It is anticipated that next reporting period will reflect an increase in cases reported and assessed by the board.
+
+The 2021 Legislative session changed the target from 90% to 75% cases reported within 120 days for reporting year 2022 and future years.
+KPM #4       Days between Board review/initial action and case closure (investigative process step three). - Percent of cases closed within 90 days of Board review/initial action.
+             Data Collection Period: Sep 01 - Aug 31
+
+* Upward Trend = positive result
+
+                                                                                   actual      target
+
+  Report Year                                                                     2017                               2018                                2019                               2020                                2021
+Days between Board review/initial action and case closure.
+Actual                                                                           81.81%                             89.20%                             92.30%                              87.10%                             75.80%
+Target                                                                             75%                                75%                                75%                                 75%                                75%
+
+How Are We Doing
+We have exceeded the target of this KPM (75.8%) this reporting period. Of the 33 cases closed, 25 of them closed within 90 days after initial board review. 8 cases (24.2%) exceeded the 90 day
+target, all of which resulted in either disciplinary action or license restriction/suspension. These 8 outliers had a case average of 166 days/case between initial board review and case closure.
+
+Factors Affecting Results
+While we have met this KPM, we have been extremely shortstaffed for most, if not all, of this reporting period, which is illiustrated in the 75.8% result versus the last few reporting periods at 87.1%,
+92.3%, etc. It is anticipated that we will improve these numbers once fully staffed and trained up.
+KPM #5                 Summary of investigative steps: Average number of days to resolve a complaint. -
+                       Data Collection Period: Sep 01 - Aug 31
+
+* Upward Trend = negative result
+
+                                                                                   actual     target
+
+  Report Year                                                                    2017                               2018                               2019                                2020                               2021
+Average number of days to resolve a complaint.
+Actual                                                                            176                                191                                159                                 180                                209
+Target                                                                            180                                180                                180                                 180                                180
+
+How Are We Doing
+The average number of days to resolve a complaint for our last reporting period (2020) was 180. 82 cases were closed with 37 cases closing over the 180 day target. Of those 37 cases, 28 of our
+Oregon licensed DCs were involved (1.5% of the total 1931 licensed DCs as of 9/2/10). In 31 cases, CAs were involved in 3 cases over 180 days, and 3 non-licensed individuals were involved in 3
+separate cases over 180 days. The 31 Oregon DC cases were open for a total of 9.609 days, averaging 310 days/case. 1.5% of the total Oregon licensed DCs were responsible for 37.8% of the
+closed cases. Of particular note, 3 individual Oregon licensed DCs were responsible for 6 of hte 31 cases. In contrast, the remaining 45 cases (54.8%) were open for a total of 3,151 days, averaging
+70 days/case - an average well below our target of 180 days.
+
+For our current reporting period, we have not met our target, with the average number of days to resolve a complaint coming in at 209. 74 cases were closed during this reporting period with 29 cases
+closing over the 180 day target. Of these 29 cases, 22 of our Oregon licensed DCs were involved (1.1% of total 1924 licensed DCs as of 9/1/21). The 29 cases were open for an average of 437 days.
+
+Four Oregon licensed DCs (.2% of licensee base) were responsible for 11/29 cases (38%) that ran over the 180 day target. These 11 cases were open for an average of 583 days. One DC was
+responsible for the three longest running cases, which had been appealed to the Oregon Court of Appeals. The appellate court supported the agency's Final Order.
+
+In contrast, the remaining 45 cases (60.8%) were open for an average of 62.6 days/case - an average well below our target of 180 days and below our average for this category for the last 3 reporting
+periods.
+
+Factors Affecting Results
+In addition to all of the unanticipated struggles that have been COVID related during this reporting period, we were extremely shortstaffed with no investigators for almost half the year. Even with that
+shortstaffing, I am proud of the work our staff continues to do and look forward to our new investigation staff coming on board and getting back up and running.
+KPM #6                   Percent of sexual misconduct/boundary complaints resolved in 180 days -
+                         Data Collection Period: Sep 01 - Aug 31
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                    2017                               2018                               2019                                2020                               2021
+Percent of sexual misconduct/boundary complaints resolved in 180 days
+Actual                                                                            50%                                20%                                20%                                50%                               45.40%
+Target                                                                            50%                                50%                                50%                                50%                                50%
+
+How Are We Doing
+We almost met the target for this reporting period with 5/11 (45.4%) of cases being completed within 180 days. There was a total of 11 sexual misconduct/boundary cases closed, a 150% increase
+over last reporting period. 2 DCs were responsible for 4/11 cases (36.3%), all of which resulted in suspension or revocation.
+
+Due to this significant increase in sexual misconduct/boundary cases, the Board drafted and finalized a new Sexual and Dishonorable Unprofessional Conduct rule, aside and apart from the existing
+Unprofessional Conduct Rule already in use.
+
+Factors Affecting Results
+The OBCE is the only Health Professional Regulatory Board to track and report on sexual misconduct/boundary complaints/cases. This is in large part due to the very close and hands-on nature of
+chiropractic medicine and the possibility of professional boundaries being crossed within that realm. Because boundary and sexual misconduct cases are devastating to patients and other persons
+affected, we continue to include this KPM. It is within our public protection mission to continue to improve not only our resolution times for these cases, but improve the types of resolutions that we
+come to, as well as educating our licensee base about these dynamics within their practices in order to prevent violations from occurring in the first place.
+
+The relatively small number of cases make up an even smaller percentage of our overall caseload and often includes an even smaller number of chiropractic physicians (DCs) responsible for multiple
+cases around similar circumstances and a large expenditure of time, effort, and resources.
+
+Generally, these types of cases are much more complex and time consuming that non-sexual misconduct/boundary casess (e.g. recordkeeping, over treatement, etc.) often due to multiple and/or very
+traumatized victims (adults and minors) and witnesses, involvement of multiple licensing and law enforcement agencies, cross jurisdictional (state and country) issues, and engagement of expert
+review for psycho- or psychosexual evaluation of the perpetrating physician. During the cases that involve multiple law enforcement or state agencies (sheriff departments, local police, DHS, DOJ,
+county District Attorneys, school districts, etc.), our cases and investigations are often opened when we receive a complaint or notice of arrest and then often put on hold until the closure of the criminal
+proceedings, greatly increasing our resolution time period.
+
+Also, because these cases involve the possibility of strong discipline - suspension or revocation of a DC's license - DCs most often hire defense counsel to represent them, which is fully within their
+due process rights. The fact that defense counsel is involved, however, significantly increases the time in which these cases are resolved. Counsel often utilize all tools available to them to allow their
+clients to continue to work during the pendency of the disciplinary proceedings. In essence, prolonging the process before their clients are fully held accountable. This may include scheduling conflicts,
+filing an abundance of pleadings, cross-filing cases in multiple jurisdictions/courts regarding the same matter or parties, filing multiple motions, requesting a hearing, prolonged settlement negotiations,
+preparing for hearing to settle at the last minute, or going to hearing and filing for judical review on appeal once the Final Order is issued, post-hearing. More often than not, the majority of these cases
+settle immediately before hearing, after prolonged pre-hearing engagement with the agency.
+
+Our goal is to protect our public and, by thoroughly investigating all aspects of these cases, respecting our complainants and witnesses, fully respecting our licensees' due process rights, and
+successfully representing our agency and the public in negotiations, at hearing, and during appeal, we accomplish that end. Resolving these cases sooner is what we strive for, but not at the expense
+of public safety.
+KPM #7              Percentage of chiropractic physicians meeting the annual continuing education requirements. -
+                    Data Collection Period: Sep 01 - Aug 31
+
+* Upward Trend = positive result
+
+                                                                                  actual      target
+
+  Report Year                                                                    2017                               2018                               2019                               2020                               2021
+Percentage of chiropractic physicians meeting the annual continuing education requirements.
+Actual                                                                            85%                              90.20%                             92.90%                             89.50%                             90.60%
+Target                                                                            95%                                95%                                95%                                95%                                95%
+
+How Are We Doing
+For this reporting period, 4 audits were taken of the DC licensee base with a total compliance rate of 90.6 who complied within 30 days of the audit date, an increase over last reporting period.
+
+The compliance rates for each DC audit are as follows: 9/1: 100%; 10/1: 89.6%; 1/20: 83.6%; 4/29: 94.9%.
+
+Factors Affecting Results
+An aspect of whether this KPM is met is whether our DCs respond to our audit in the first place. We have seen an increase in civil citations being issued for not responding or for not completing their
+continuing education (CE) in a timely manner. With the roll out and implementation of our new data management system, which will require licensees to upload proof of the CE in order for them to
+renew their licenses, it is anticipated that we will meet this KPM in the future.
+
+We have temporarily halted CE audits due to shortstaffing and our data management system roll out.
+KPM #8        Percentage of licenses issued within 5 days once all application components (that are the responsibility of the applicant) have been received. -
+              Data Collection Period: Sep 01 - Aug 31
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2017                               2018                               2019                                2020                               2021
+Time to process chiropractor applications
+Actual                                                                            94%                               90.60%                              100%                                99%                                100%
+Target                                                                            100%                               100%                               100%                               100%                                100%
+
+How Are We Doing
+We hit this target for this reporting period. 77 applications were processed with 100% licenses issued the same day. This is an amazing result as our licensing staff member has been covering another
+postiion's job duties due to our shortstaffing issue.
+
+Factors Affecting Results
+Since transitioning our office to primarily remote processes, it has allowed a faster turnaround time once we receive a completed application packet from applicants. Additionally, licensees get notified
+that same day and receive their certificate of licensure electronically rather than waiting for it to be mailed to them.
+KPM #9    Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness,
+          expertise, and availability of information.
+          Data Collection Period: Sep 01 - Aug 31
+
+                                                                         actual    target
+
+ Report Year                                                            2017                           2018                           2019                           2020                           2021
+Helpfulness
+Actual                                                                 95.17%                          98%                            100%                           95%                             88%
+Target                                                                  75%                            90%                            90%                            90%                             90%
+Accuracy
+Actual                                                                 89.86%                         91.40%                         94.70%                          80%                           71.20%
+Target                                                                  75%                            90%                            90%                            90%                             90%
+Timeliness
+Actual                                                                 89.37%                         91.40%                         89.50%                          80%                           70.80%
+Target                                                                  75%                            90%                            90%                            90%                             90%
+Expertise
+Actual                                                                 92.27%                         94.70%                          100%                           90%                           80.80%
+Target                                                                  75%                            90%                            90%                            90%                             90%
+Overall
+Actual                                                                 87.44%                          91%                           94.70%                          80%                           68.80%
+Target                                                                  75%                            90%                            90%                            90%                             90%
+Availability of Information
+Actual                                                                 89.85%                         93.90%                         94.70%                          80%                             74%
+Target                                                                  75%                            90%                            90%                            90%                             90%
+
+How Are We Doing
+We did not meet any of our targets for this KPM this reporting period.
+
+Factors Affecting Results
+Implementing the Governor's Executive Orders and OHA's vaccine and masking requirements to protect the public from COVID-19 and the Delta variant has caused conflict between the agency and
+many of our licensed chiropractic physicians. The pushback from licensees to our facial covering rulemaking was also contentious and continues to be reflected within these results. We received so
+many calls, emails, and public comments with regard to all of these directives that there were times when our collective voice mailboxes were full and the abiilty to respond was limited.
+
+Additionally, we are extremely shortstaffed (only 1/2 of our positions filled during 1/2 of this reporting period) and that is reflected in these results as well. I am grateful for staff who have stepped up
+and taken on customer service in this difficult time.
+KPM #10                     Board Best Practices - Percent of total best practices met by the Board.
+                            Data Collection Period: Sep 01 - Aug 31
+
+* Upward Trend = positive result
+
+                                                                              actual    target
+
+  Report Year                                                                2017                             2018                             2019                             2020                             2021
+Board Best Practices - Percent of total best practices met by the Board.
+Actual                                                                      100%                            98.10%                             100%                             100%                             100%
+Target                                                                      100%                             100%                              100%                             100%                             100%
+
+How Are We Doing
+5 of our 7 board members responded, with an aggregate 100% assessment score, meeting our target.
+
+Factors Affecting Results

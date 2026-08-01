@@ -1,0 +1,326 @@
+Department of Consumer and Business Services
+                          Annual Performance Progress Report
+
+                                 Reporting Year 2024
+
+                           Published: 1/29/2025 4:16:26 PM
+ KPM #        Approved Key Performance Measures (KPMs)
+
+1            CUSTOMER RESPONSE TIME - Average elapsed time, in days, between a customer's initial contact with office and internal owner's communication of decision.
+2            EFFECTIVE REGULATION - Percent of licensees receiving a satisfactory examination score.
+3            OCCUPATIONAL INJURY AND ILLNESS INCIDENCE RATES - Number of occupational injury and illness cases per 100 full-time workers.
+4            TIMELY WORKER BENEFITS - Percent of injured workers who receive timely benefits from insurers.
+5            ACCURATE WORKER BENEFITS - Percent of injured workers who receive accurate benefits from insurers.
+6            RE-EMPLOYMENT OF INJURED WORKERS - Difference in percentage from workers with disabling injuries from those without disabling injuries.
+8            WORKERS' COMPENSATION COVERAGE - Number of claims against employers without workers' compensation coverage per 1,000 accepted disabling claims.
+9            WORKERS' COMPENSATION INSURER PERFORMANCE - Percentage of workers' compensation insurers meeting standards for benefit delivery and reporting.
+10           UPHELD WORKERS' COMPENSATION DECISIONS - Percent of Workers' Compensation Board decisions affirmed on appeal to the Judiciary.
+11           PERMITS FOR MINOR CONSTRUCTION WORK - Number of building permits that can be used by contractors in multiple jurisdictions for minor construction work.
+12           ON-TIME WORK - Percent of timelines for key department activities that are met.
+13           E-TRANSACTIONS FOR CUSTOMERS - Percent of customer transactions completed electronically.
+14           CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise, and availability of information.
+
+ Proposal              Proposed Key Performance Measures (KPMs)
+
+Delete                PERMITS FOR MINOR CONSTRUCTION WORK - Number of building permits that can be used by contractors in multiple jurisdictions for minor construction work.
+New                   POLICY AND TECHNICAL CUSTOMER RESPONSIVENESS - Percentage of customer calls returned within one business day
+
+                                                                                                                                                  red
+                                                                                                                                                  green
+                                                                                                                                                  yellow
+
+ Performance Summary                                                                                                                                    Green                                                   Yellow                                                      Red
+
+                                                                                                                                                   = Target to -5%                                      = Target -5% to -15%                                         = Target > -15%
+Summary Stats:                                                                                                                                         84.62%                                                    7.69%                                                     7.69%
+KPM #1      CUSTOMER RESPONSE TIME - Average elapsed time, in days, between a customer's initial contact with office and internal owner's communication of decision.
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                 actual      target
+
+  Report Year                                                                   2022                               2023                               2024                               2025                              2026
+CUSTOMER RESPONSE TIME
+Actual                                                                            35                               38.90                              39.60
+Target                                                                            45                                 45                                 45
+
+How Are We Doing
+The Division of Financial Regulation’s consumer advocates respond to thousands of complaints each year from consumers who believe financial and insurance companies have treated them unfairly.
+In fiscal year 2024, the division communicated the results of its decision an average of 40 days after initial contact with the consumer.
+
+Factors Affecting Results
+The Consumer Advocacy Unit’s improved processes help handle more complaints while improving levels of performance, resulting in increased service and protection for Oregonians. For example,
+the unit allows consumers to file complaints online and encourages the use of e-mail and electronic responses by insurers. The Advocacy Unit has received more exposure through outreach and
+education efforts. As a result, complaints are often submitted to the Advocacy Unit earlier in the process, increasing the ease of resolution. Externally, changes in policies and procedures by financial
+and insurance companies can affect the number of complaints and the results. For example, an insurer might add a mechanism for consumers to appeal decisions, which would decrease the number
+of complaints the division receives because more cases would be settled between the consumer and the insurer.
+KPM #2              EFFECTIVE REGULATION - Percent of licensees receiving a satisfactory examination score.
+                    Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2022                              2023                              2024                               2025                              2026
+EFFECTIVE REGULATION
+Actual                                                                        97.20%                             95.20%                            97.40%
+Target                                                                          90%                                90%                               90%
+
+How Are We Doing
+For fiscal year 2024, the Division of Financial Regulation examined financial companies (such as banks, credit unions, mortgage lenders, and payday lenders) and insurance companies and found
+that 97 percent were operating at or above desirable levels of compliance or safety and soundness.
+
+Factors Affecting Results
+The economy has a direct impact on the compliance or safety and soundness of our financial and insurance institutions. As economic conditions in the state evolve, the overall condition of our
+financial and insurance institutions may be expected to continue to change as well.
+KPM #3        OCCUPATIONAL INJURY AND ILLNESS INCIDENCE RATES - Number of occupational injury and illness cases per 100 full-time workers.
+              Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2022                               2023                              2024                               2025                               2026
+Occupational Injury and Illness Incidence Rates Per 100 Full-time Workers
+Actual                                                                           3.80                               3.90                               3.40
+Target                                                                           3.80                               3.70                               3.60
+
+How Are We Doing
+During calendar year 2023, Oregon’s occupational injury and illness incidence rate was 3.4 per 100 full-time workers. This represents a 15 percent rate decrease since 2013, indicating our continued
+success in partnering with employers to promote safer work environments in Oregon.
+
+Factors Affecting Results
+The injury and illness incidence rates are based on an annual survey of Oregon employers. The Federal Bureau of Labor and Statistics guides the survey sample selection. For the survey,
+approximately 4,000 Oregon employers are selected to participate and the sample size is consistent with other states. Ultimately, the safety and health practices of Oregon employers and employees
+affect this measure. Also, economic factors, such as the relative number of new employees in the workforce or the availability of employer resources to invest in safety training and equipment can
+affect the injury and illness incidence rates.
+KPM #4             TIMELY WORKER BENEFITS - Percent of injured workers who receive timely benefits from insurers.
+                   Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2022                               2023                               2024                               2025                               2026
+Percent of Timely Worker Benefits
+Actual                                                                          90.40%                             91.40%                             92.20%
+Target                                                                            93%                                93%                                93%
+
+How Are We Doing
+In fiscal year 2024, the department found 92 percent of the approximately 28,000 benefit payments audited by the department were made to injured workers in a timely manner.
+
+Factors Affecting Results
+Education and enforcement efforts by the department can help further improve insurer performance. For example, when the Workers’ Compensation Division (WCD) finds incorrect reporting of benefit
+payments or untimely payments during audits, we assess civil penalties for performance below standards, provide specific training to the insurer, and may conduct follow-up audits. Factors beyond the
+insurer’s control can impact results as well, such when the employer delays notifying the insurer of an injury. When employers do not notify insurers in a timely fashion, this may lead to a late first
+benefit payment to the injured worker. To improve performance in this area, WCD continues to encourage insurers to educate their insured employers of the importance of notifying them of claims
+quickly to ensure workers receive their benefits on time.
+KPM #5            ACCURATE WORKER BENEFITS - Percent of injured workers who receive accurate benefits from insurers.
+                  Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                   2022                               2023                               2024                               2025                               2026
+Percent of Accurate Worker Benefits
+Actual                                                                         97.10%                             96.80%                             95.70%
+Target                                                                           95%                                95%                                95%
+
+How Are We Doing
+In fiscal year 2024, the department found 96 percent of the approximately 3,400 benefit payments audited by the department were made to injured workers in an accurate manner.
+
+Factors Affecting Results
+The majority of factors that can impact results are within an insurer’s control, such as its employees’ knowledge and skills in calculating benefit payments. To improve insurer performance in this area,
+the Workers’ Compensation Division (WCD) assesses civil penalties against insurers that do not meet performance standards, provides training on accurate benefit calculation and payment
+requirements for individual insurers, and may conduct follow-up audits. Additionally, WCD provides tools, such as a Web-based benefit calculator, to help companies ensure their benefit payments are
+accurate. With the implementation of a risk-based audit methodology, what and who WCD audits within the fiscal year may vary and can influence the results from year-to-year.
+KPM #6        RE-EMPLOYMENT OF INJURED WORKERS - Difference in percentage from workers with disabling injuries from those without disabling injuries.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                  2022                                 2023                                 2024                              2025                              2026
+RE-EMPLOYMENT OF INJURED WORKERS
+Actual                                                                        93.60%                              101.90%                              97.40%
+Target                                                                          94%                                  94%                                 94%
+
+How Are We Doing
+In fiscal year 2024, the rate that workers with disabling injuries were re-employed two years after their injury was 97.4 percentage points of the rate that injured workers with non-disabling injuries were
+re-employed. A target of 94 percentage points reflects the department’s goal of getting injured workers back to regular employment quickly so they can become self-sufficient.
+
+Factors Affecting Results
+Changes in the Oregon economy or in business practices may affect this measure by reducing or increasing opportunities for job openings. Also, affecting results are changes in laws, rules, or
+department initiatives during the various times employees or employers trigger the use of return-to-work programs offered by the department. To see the effects department’s efforts, it is necessary to
+track injured workers’ employment over time. The data reported for fiscal year 2024 represents re-employment levels for workers who were injured in fiscal year 2021.
+KPM #8      WORKERS' COMPENSATION COVERAGE - Number of claims against employers without workers' compensation coverage per 1,000 accepted disabling claims.
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                 actual     target
+
+  Report Year                                                                  2022                               2023                              2024                               2025                              2026
+Claims Against Employers w/o WC Coverage
+Actual                                                                          1.60                              2.20                               2.30
+Target                                                                            3                                 3                                  3
+
+How Are We Doing
+The department continues to achieve a high level of compliance with workers’ compensation coverage laws, which protects both the employer and the employee in the event of a workplace injury. For
+fiscal year 2024, two out of every 1,000 accepted disabling injured worker claims were made against an employer without workers’ compensation coverage. This indicates that, on average, 98 percent
+out of every 1,000 accepted disabling workers’ compensation claims were filed by employees whose employers provided workers’ compensation coverage.
+
+Factors Affecting Results
+Small changes in the number of noncomplying employer claims (claims from employers who do not provide workers’ compensation insurance) can significantly alter the results since the number of
+noncomplying employer claims is so low. In the past three years, the department has recorded on average 23,852 accepted disabling claims annually, and of these less than 0.5 percent was from
+noncomplying employers. Also, changes in the Workers’ Compensation Division (WCD) investigation processes or insurance coverage costs may affect results. Mandatory electronic reporting of
+workers’ compensation insurance policies, which became effective July 1, 2009, gives WCD additional information that helps improve compliance of employers to purchase workers’ compensation
+insurance coverage for Oregon workers.
+KPM #9      WORKERS' COMPENSATION INSURER PERFORMANCE - Percentage of workers' compensation insurers meeting standards for benefit delivery and reporting.
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                   2022                               2023                               2024                               2025                               2026
+Percent of Workers' Compensation Insurers Meeting Standards
+Actual                                                                           76%                              76.90%                             78.80%
+Target                                                                           85%                                85%                                85%
+
+How Are We Doing
+For fiscal year 2024, we found that 79 percent of workers' compensation insurers regulated by WCD were meeting performance standards in the three areas measured for this performance measure.
+To achieve increased protection for workers WCD focuses on thresholds of insurers’ performance in three regulatory areas: 1) 90 percent of first payments to workers are paid timely; 2) 90 percent of
+decisions to accept or deny a claim are made timely; and 3) 80 percent of first-claim reports to the department are made timely.
+
+Factors Affecting Results
+This data is self-reported by the insurers which mean the results could be influenced by an individual insurer’s reporting. There is also the risk of incorrect reporting if not properly monitored. WCD
+verifies the accuracy of insurer reporting during the annual audit. Ongoing education, further clarification of standards, and focused auditing and enforcement should improve insurer compliance with
+requirements and use audit resources more efficiently over time.
+KPM #10         UPHELD WORKERS' COMPENSATION DECISIONS - Percent of Workers' Compensation Board decisions affirmed on appeal to the Judiciary.
+                Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2022                               2023                               2024                              2025                               2026
+Percent of WCB Decisions Affirmed on Appeal
+Actual                                                                         92.30%                              100%                              100%
+Target                                                                           96%                                96%                               96%
+
+How Are We Doing
+Of the ten decisions issued by the court regarding Board orders in fiscal year 2024 there were zero reversals. The overall affirmation of 100 percent demonstrates that the Board is serving Oregon’s
+workers’ compensation system by consistently producing sound legal decisions.
+
+Factors Affecting Results
+Our goal is to achieve substantial justice by providing fair and impartial decisions that are legally sound. The Workers’ Compensation Board, consisting of five members appointed by the Governor and
+confirmed by the Senate, provides timely and impartial resolution of disputes arising under the workers' compensation law. Over the past five years, the Board has reviewed and resolved
+approximately 225 cases per year, most of which involve appealed ALJ decisions. That number does not include another 18 decisions regarding claim disputes arising under the Board’s Own Motion
+authority pursuant to ORS 656.278. A Board decision may be appealed to the Court of Appeals if one of the parties believes the decision is not supported by substantial evidence or is in error as a
+matter of law.
+KPM #11       PERMITS FOR MINOR CONSTRUCTION WORK - Number of building permits that can be used by contractors in multiple jurisdictions for minor construction work.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2022                               2023                               2024                               2025                                2026
+Number of Minor Label Permits Sold
+Actual                                                                           95,520                             94,430                             94,860
+Target                                                                           61,450                             61,450                             61,450
+
+How Are We Doing
+In fiscal year 2024, the total number of permits sold 94,860 was the second highest since the introduction of the program. Customers continue to report a great deal of satisfaction using this more
+efficient and less expensive process for purchasing permits for minor work. The program also reduces workload for building departments. The program has been expanded over the past years to
+include most elevator maintenance activities as well as electric vehicle charging unit work.
+
+Factors Affecting Results
+Construction activity has historically had a major impact on outcomes for this measure. Economic downturns and problems in the lending markets may cause the construction industry to slow during
+recessions. Construction activity is currently high and still responding to the building shortage resulting from the last economic slump. The high volume of minor label usage currently charting is likely
+attributable to the current construction activity boom. Stakeholders are currently exploring the potential for expansion of the minor label program. Should the scope of work that can be done through
+minor labels be expanded, we would expect an increase.
+KPM #12                   ON-TIME WORK - Percent of timelines for key department activities that are met.
+                          Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2022                              2023                               2024                               2025                               2026
+Percent of DCBS Timelines Met
+Actual                                                                         89.10%                             90.76%                             92.80%
+Target                                                                           95%                                95%                                95%
+
+How Are We Doing
+DCBS has maintained high performance levels by continuing to streamline processes and expand use of technology. In fiscal year 2024, we met our timelines for key department activities 93 percent
+of the time.
+
+Factors Affecting Results
+Reaching our targets can be challenging because in many cases we hold ourselves to a higher standard than what is required by law. There are many factors the department evaluates as a result of
+this data: staffing levels and available resources; clarity of our processes and ease of customer compliance; and customer completeness and follow-through. Regardless of the contributing factor, we
+strive to perform at high levels and take action to constantly improve our performance.
+KPM #13               E-TRANSACTIONS FOR CUSTOMERS - Percent of customer transactions completed electronically.
+                      Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2022                               2023                               2024                               2025                               2026
+Percent of Transactions Completed Electronically
+Actual                                                                          65.30%                            60.90%                             61.30%
+Target                                                                          77.50%                              80%                              82.50%
+
+How Are We Doing
+During fiscal year 2024, 61 percent of applicable transactions between businesses and consumers and DCBS were completed electronically. We continue to undertake projects to increase the types
+and numbers of electronic transactions for companies, workers, and other stakeholders, and we are continually expanding and improving existing systems. Many of our systems are equipped with
+built-in surveys and e-mail feedback to ensure they are user-friendly and meet changing needs.
+
+Factors Affecting Results
+The primary factor affecting results is customers' and businesses' willingness to conduct business electronically with DCBS. Customers' belief in the security of their online information, knowledge that
+services are available online, and preference for online vs. paper transactions affect the overall percent of transactions that are conducted electronically. When electronic systems are available, our
+customers tend to embrace them. We will continue to focus on making more services available electronically for business and consumers as funds are available to do so. With limited resources, we
+must balance the need to develop new electronic systems with other priorities such as maintaining existing services.
+KPM #14    CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+           helpfulness, expertise, and availability of information.
+           Data Collection Period: Jul 01 - Jun 30
+
+                                                                           actual    target
+
+ Report Year                                                              2022                            2023                            2024                            2025                            2026
+Expertise
+Actual                                                                   97.60%                          98.80%                           98%
+Target                                                                    95%                             90%                             90%
+Availability of Information
+Actual                                                                   96.80%                          96.80%                          97.70%
+Target                                                                    95%                             90%                             90%
+Helpfulness
+Actual                                                                   96.50%                          96.50%                          97.70%
+Target                                                                    95%                             90%                             90%
+Overall
+Actual                                                                   96.70%                           97%                            97.40%
+Target                                                                    95%                             90%                             90%
+Accuracy
+Actual                                                                   96.60%                          97.30%                          98.50%
+Target                                                                    95%                             90%                             90%
+Timeliness
+Actual                                                                   94.80%                          94.30%                          96.10%
+Target                                                                    95%                             90%                             90%
+
+How Are We Doing
+The department’s overall rating of 97 percent in fiscal year 2024 is a strong performance, especially since many of our customers are entities we regulate, audit, or inspect. Our ongoing focus on
+customer satisfaction has resulted in high ratings that have consistently performed well compared to our target since measurement began in 2007. Three of the agency’s divisions provided data for the
+measure, based on surveys of their customers. Participating divisions were Oregon OSHA, Workers’ Compensation Division, and the Division of Finance Regulation. Data from each division are
+combined to give an agency-wide value reflecting the divisions’ relative level of service to Oregonians and the customers being served.
+
+Factors Affecting Results
+Many of the customers we survey are entities that we regulate, which could affect our results. However, even though we have a regulatory relationship with many of our customers, we have continued
+to perform well on this measure. Further, many of our customers are individuals we are helping with complaints, and the outcome of the complaint can influence how the customer rates our service.
+We try to mitigate this effect by managing expectations and making it a priority to do everything we can to provide customers with a high level of service, even if the customer may not get the desired
+outcome. The response rate for these surveys can also impact results. We encourage our customers to provide us with feedback by responding to our surveys, but the percent of customers who
+respond to surveys is often low.

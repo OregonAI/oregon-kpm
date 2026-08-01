@@ -1,0 +1,152 @@
+Board of Licensed Social Workers
+              Annual Performance Progress Report
+
+                      Reporting Year 2025
+
+                Published: 10/1/2025 4:09:56 PM
+ KPM #       Approved Key Performance Measures (KPMs)
+
+1           TIMELY COMPLAINT RESOLUTION - Percent of complaints upon which the Board makes a decision within six months of when the complaint is received in the Board office.
+2           CE AUDITS - Percent of license renewal Continuing Education audits that meet the requirement for accredited coursework.
+4           CUSTOMER SATISFACTION WITH AGENCY SERVICES - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise, and availability
+            of information.
+5           BOARD BEST PRACTICES - Percent of total best practices met by the Board.
+
+                                                                                                                                                  red
+                                                                                                                                                  green
+                                                                                                                                                  yellow
+
+ Performance Summary                                                                                                                                    Green                                                    Yellow                                                      Red
+
+                                                                                                                                                   = Target to -5%                                       = Target -5% to -15%                                         = Target > -15%
+Summary Stats:                                                                                                                                           50%                                                       0%                                                        50%
+KPM #1      TIMELY COMPLAINT RESOLUTION - Percent of complaints upon which the Board makes a decision within six months of when the complaint is received in the Board office.
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2021                               2022                               2023                               2024                                2025
+Percent of Complaints Resolved within six months of Receipt
+Actual                                                                          18.40%                                4%                                 15%                                34%                                 3%
+Target                                                                            50%                                50%                                 50%                                50%                                50%
+
+How Are We Doing
+For reporting year 2025, the Board office received 76 complaints and the Board made a decision on 2 (~3%) within 6 months of receipt. This decrease from the prior year is due to several factors listed
+below.
+
+Please note that for the reporting year 2025, the Board made a decision on a total of 72 complaints that were received by the Board office more than 6 months prior.
+
+The Board is considering modifying the language of this KPM to provide a more clear, achievable, and meaningful measurement that is indicative of the work being completed by the Board.
+
+Factors Affecting Results
+There are several factors affecting the number of complaints that the Board is able to resolve within 180 days:
+       One of the Board's two staff Investigator positions is currently vacant.
+       The cases received by the Board often have a high level of complexity.
+       During this reporting period the Board had three vacant board member positions, which increased the likelihood that meetings would have to be cancelled for lack of a quorum.
+       Currently two Board member positions need to be filled. It is critical to the Board's ability to resolve cases that these positions are filled in a timely manner.
+       Senate confirmation hearings for new Board members only occur a few times a year.
+       The Board meets every other month. The timing of this schedule affects how many days it takes for the Board to make a decision on a complaint.
+Steps the Board is taking to improve its timelines:
+The Board's Executive Director is working with HR to fill its vacant Investigator position.
+The Board's Executive Director is working with the Governor's Executive Appointments Office to fill its vacant Board member positions.
+The Board has modified its protocol for addressing cases to allow, where appropriate, for earlier action to be taken.
+There were a number of extremely old cases that the Board prioritized and resolved which brought down the percentage completed within the 6 month period. As these older cases continue to
+be resolved, the Board will be able to move closer to its 6 month goal.
+KPM #2          CE AUDITS - Percent of license renewal Continuing Education audits that meet the requirement for accredited coursework.
+                Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2021                              2022                               2023                               2024                               2025
+Metric Value
+Actual                                                                          100%                               100%                               100%                               100%                               98%
+Target                                                                          100%                               100%                               100%                               100%                               100%
+
+How Are We Doing
+All licensees are required to complete continuing education as a prerequisite for renewal. The renewal process occurs every two years during the licensee's birth month and requires licensees to
+indicate the hours of continuing education they have completed. Licensees who have not completed continuing education are not allowed to renew. For the 2025 reporting period, 462 audits were
+performed and 9 of them did not meet rule requirements. This comes out to approximately 2%.
+
+Factors Affecting Results
+Each monthly renewal cycle, 20% of renewing licensees are randomly selected for audit of the continuing education hours they have submitted. These renewing licensees must submit evidence
+demonstrating completion of all required continuing education. Licenses are not renewed until licensees have completed and submitted evidence of having completed the required continuing
+education. Although our score is not a perfect 100%, we believe our close score of 98% is largely in part to social workers doing their due diligence in keeping up their continuing education as well as
+numerous curtesy reminders sent by the Board office.
+KPM #4    CUSTOMER SATISFACTION WITH AGENCY SERVICES - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer
+          service, timeliness, accuracy, helpfulness, expertise, and availability of information.
+          Data Collection Period: Jul 01 - Jun 30
+
+                                                                         actual    target
+
+ Report Year                                                            2021                           2022                            2023                           2024                           2025
+Overall
+Actual                                                                   73%                            73%
+Target                                                                   98%                            98%                            98%                            98%                             98%
+Expertise
+Actual                                                                   85%                            85%
+Target                                                                   98%                            98%                            98%                            98%                             98%
+Accuracy
+Actual                                                                   79%                            79%
+Target                                                                   98%                            98%                            98%                            98%                             98%
+Availability of Information
+Actual                                                                   80%                            80%
+Target                                                                   98%                            98%                            98%                            98%                             98%
+Helpfulness
+Actual                                                                   67%                            67%
+Target                                                                   98%                            98%                            98%                            98%                             98%
+Timeliness
+Actual                                                                   73%                            73%
+Target                                                                   98%                            98%                            98%                            98%                             98%
+
+How Are We Doing
+The data shown for 2025 has not been updated. The customer satisfaction survey is part of the Board's legacy database and online licensing system. The Board contracted with Thentia for a new
+licensing system and database in July 2020. Due to current needs not being met, including building in a customer service satisfaction survey, the Board is exploring contracting with a different
+licensing system vendor.
+
+BLSW customer service positive practices:
+       Increase in licensing staff FTE:
+               Permanent 0.5 FTE OS2 (2023), Limited duration 1.0 FTE OS2 (2024), Temporary 0.5 FTE OS2 (2025). Currently recruiting for Temporary 1.0 FTE OS2.
+       Implemented 24-hour response time policy on voicemail and 48-hour response time on email.
+               In 2022 44% of phone calls were answered. Voicemails were responded to in 72+ hours or not at all. 64% of emails received responses, of those the response time was 72+ hours.
+       Reduced application backlog.
+               In August 2023, submitted applications were reviewed by staff in an average of 112 days.
+               In July 2025, submitted applications were reviewed by staff in an average of 11 days.
+       Executive Director provides informational presentations on licensure and regulations for schools of social work throughout Oregon.
+Factors Affecting Results
+The Board's request for general funding for a new licensing system in its 2025-2027 budget request was not approved. Customer service satisfaction will be a priority function of the new licensing
+system. The Board Executive Director is actively meeting with vendors and demoing potential licensing systems.
+
+KPM #5                  BOARD BEST PRACTICES - Percent of total best practices met by the Board.
+                        Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2021                               2022                              2023                               2024                               2025
+Metric Value
+Actual                                                                          100%                               100%                               93%                                93%                              100%
+Target                                                                          100%                               100%                              100%                               100%                              100%
+
+How Are We Doing
+1. Executive Director’s performance expectations are current. YES
+2. Executive Director receives annual performance feedback. YES*
+3. The agency’s mission and high-level goals are current and applicable. YES
+4. The board reviews the Annual Performance Progress Report. YES
+5. The board is appropriately involved in review of agency’s key communications. YES
+6. The board is appropriately involved in policy-making activities. YES
+7. The agency’s policy option packages are aligned with their mission and goals. YES
+8. The board reviews all proposed budgets (likely occurs every other year). YES
+9. The board periodically reviews key financial information and audit findings. YES
+10. The board is appropriately accounting for resources. YES
+11. The agency adheres to accounting rules and other relevant financial controls. YES
+12. Board members act in accordance with their roles as public representatives. YES
+13. The board coordinates with others where responsibilities and interests overlap. YES
+14. The board members identify and attend appropriate training sessions. YES
+15. The board reviews its management practices to ensure best practices are utilized. YES
+Factors Affecting Results
+*The Executive Director's performance review is scheduled for the next Board meeting on 10/4/2025.

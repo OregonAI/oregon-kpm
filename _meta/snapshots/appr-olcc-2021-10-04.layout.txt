@@ -1,0 +1,269 @@
+Liquor Control Commission, Oregon
+                Annual Performance Progress Report
+
+                        Reporting Year 2021
+
+                 Published: 10/4/2021 10:03:19 AM
+ KPM #          Approved Key Performance Measures (KPMs)
+
+1              Sales to Minors - Percentage of licensees who refuse to sell to minor decoys.
+2              RATE OF SECOND VIOLATION - Percentage of licensees detected to have violated a liquor law in a second, separate, incident occurring within 2 years after the year of the first violation.
+3              Licensing Time - Average days from application receipt to license issuance.
+4              CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+5              OLCC Rate of Return - Net OLCC distribution divided by actual expenses.
+6              Best Practices - Percent of total best practices met by the Board.
+7              Sales to Minors- Recreational Marijuana - This measure is the rate at which licensees refuse to sell marijuana products to minor decoys.
+8              Time to license- marijuana - Average days to license completed marijuana applications.
+
+                                                                                                                                                          red
+                                                                                                                                                          green
+                                                                                                                                                          yellow
+
+ Performance Summary                                                                                                                                            Green                                                       Yellow                                                         Red
+
+                                                                                                                                                           = Target to -5%                                          = Target -5% to -15%                                            = Target > -15%
+Summary Stats:                                                                                                                                                  37.50%                                                        0%                                                         62.50%
+KPM #1                 Sales to Minors - Percentage of licensees who refuse to sell to minor decoys.
+                       Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                              actual      target
+
+  Report Year                                                                 2017                              2018                             2019                              2020                              2021
+Percentage of Licensees Who Refuse to Sell to Minor
+Actual                                                                         78%                              81%                               82%                               84%                               0%
+Target                                                                         82%                              82%                               82%                               90%                               90%
+
+How Are We Doing
+The Oregon Liquor and Cannabis Commission conducted no minor decoy operations in fiscal year 2021.  The on-going COVID-19 pandemic proscribed the use of minors in decoy operations.
+
+The Commission anticipates resuming operations as soon as it is safe for minor decoys to participate.
+
+Factors Affecting Results
+The Oregon Liquor and Cannabis Commission conducted no minor decoy operations in fiscal year 2021.  The on-going COVID-19 pandemic proscribed the use of minors in decoy operations.
+KPM #2     RATE OF SECOND VIOLATION - Percentage of licensees detected to have violated a liquor law in a second, separate, incident occurring within 2 years after the year of the first violation.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                              actual      target
+
+  Report Year                                                                 2017                              2018                             2019                              2020                              2021
+Rate of Second Violation
+Actual                                                                        8.20%                            9.20%                             7.20%                             4.40%
+Target                                                                         12%                              12%                               12%                               12%                               12%
+
+How Are We Doing
+Factors Affecting Results
+KPM #3                   Licensing Time - Average days from application receipt to license issuance.
+                         Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                  actual       target
+
+  Report Year                                                                     2017                               2018                                2019                               2020                               2021
+Average Number of Days to Issue (Below Target Is Better)
+Actual                                                                              80                                 81                                 79                                  85                                 105
+Target                                                                              75                                 75                                 75                                  75                                 75
+
+How Are We Doing
+The FY 2021 average licensing time statewide jumped up to 105 days. This is well above the legislatively set target of 75 and 20 days higher than the fiscal year 2020 average of 85 days. The
+commission continues to adapt in order provide prompt service to alcohol licensees.
+
+Factors Affecting Results
+There are many factors affecting the number of days it takes to issue a liquor license; some internal and some external.
+
+Internal factors continue to be identified and streamlined through process improvements and technological solutions. The COVID-19 emergency caused the OLCC to pivot licensing rules and allow for
+accelerated applications for off-premises licenses for bars and restaurants, license investigators were tasked with helping licensees adapt to new rules and public health guidelines.
+
+Additionally, several alcohol license investigators were re-assigned to help with processing the backlog of marijuana license renewal investigations.  Monthly break-downs of days to license show
+substantial slowing in process times beginning in March 2020 with process times returning to historical averages by June 2021.
+
+External factors are difficult to control. A primary external factor affecting how quickly a liquor license can be issued is the license application review by the local governing body (city or county). Statute
+gives local governments up to 90 days (45 days plus an additional 45 day extension – if requested) to review a license application within their jurisdiction and provide a recommendation (positive,
+negative, or neutral). The OLCC cannot complete the processing of an application until the local government review is completed. Lengthy application review by local governments usually occurs in
+the larger metropolitan areas, such as Portland. These areas also have higher numbers of license applications, in absolute terms, which influence the overall statewide average licensing times.
+Additionally, the timeliness of the applicant in providing materials necessary to the application investigation can impact overall processing time. Applicants not prepared for or committed to the process
+may have longer processing times.  A 2011 analysis found that staff processing time totaled to an average of only 32.9 days per license; only 36% of the total time to issue a license. The remaining
+64% of the time was driven be external factors described above and are outside the control of the agency.
+
+The 2021 results of this measure indicate that the OLCC is above the current target set by the legislature and is continuing to implement staffing and business process strategies for resuming
+improvement.  The OLCC is pursuing other solutions to its business needs that include regulatory innovations, the implementation of streamlining measures, and the development of an enterprise-
+level licensing system that will unite many disconnected processes and increase the agency’s online service capacity
+
+The license investigation process is largely manual, involving many phone calls between investigators and applicants in order to guide them to their license.  In addition, financial investigations of
+liquor licenses can also become labor intensive for complex business structures. The agency has budgeted more alcohol license investigator positions to increase staff dedicated to liquor license
+investigations and providing more timely service to our industry partners.
+KPM #4   CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall, timeliness, accuracy, helpfulness, expertise,
+         availability of information.
+         Data Collection Period: Jul 01 - Jun 30
+
+                                                                       actual     target
+
+ Report Year                                                           2017                          2018                           2019                          2020                           2021
+Expertise
+Actual                                                                 74%                            75%                           78%                            82%                           69%
+Target                                                                 85%                            85%                           85%                            85%                           85%
+Helpfulness
+Actual                                                                 80%                            82%                           77%                            83%                           69%
+Target                                                                 85%                            85%                           85%                            85%                           85%
+Availability of Information
+Actual                                                                 69%                            67%                           66%                            64%                           60%
+Target                                                                 85%                            85%                           85%                            85%                           85%
+Overall
+Actual                                                                 74%                            73%                           72%                            74%                           61%
+Target                                                                 85%                            85%                           85%                            85%                           85%
+Timeliness
+Actual                                                                 70%                            65%                           66%                            67%                           62%
+Target                                                                 85%                            85%                           85%                            85%                           85%
+Accuracy
+Actual                                                                 75%                            78%                           73%                            77%                           65%
+Target                                                                 85%                            85%                           85%                            85%                           85%
+
+How Are We Doing
+The overall agency rating was 64 percent (rated as good or excellent) compared to 74 percent in 2020. The OLCC missed the 85 percent target in all five areas when averages were taken from the six
+stakeholder groups. However, the OLCC met or exceeded the 85 percent average target for surveys from alcohol licensees with 87 percent excellent or good service.
+
+Liquor agents indicated a frustration with the availabillity of products due to warehouse staffing issues and the changing information and gave the commission an average positive score of 81%- four
+oints lower than last year.
+
+Marijuana licensees provided an evaluation of 69 percent excellent or very good service- driven by complaints of poor timeliness and difficulty in aquiring information.
+
+The lower average scores were driven by the much less favorable responses from the general public compared to prior years, which may be the result of a very small group of motivated respondents.
+
+Factors Affecting Results
+The agency continues to make efforts to increase information availability through Gov Alerts and posting updates on the agency website. The Commission is endeavoring to improve licensing times for
+marijuana licensees by hiring more staff.
+
+The lower average scores were driven by the much less favorable responses from the general public compared to prior years, which may be the result of a very small group of motivated respondents.
+Comments from our few respondents are driven by complaints about worker permit information or liquor agents "hoarding" limited release whiskeys.
+
+There were a total of 446 respondents from the six survey stakeholder groups. There was a significant difference in responses between the general public, alcohol and marijuana licensees or agents.
+Those with business before commission provided a much higher evaluation of the Commission than did the public survey or worker and service permittees.
+KPM #5                   OLCC Rate of Return - Net OLCC distribution divided by actual expenses.
+                         Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                  actual       target
+
+  Report Year                                                                     2017                               2018                                2019                               2020                                2021
+OLCC Rate of Return
+Actual                                                                            $2.71                              $2.84                               $2.77                              $2.61                              $2.65
+Target                                                                            $2.70                              $2.70                               $2.70                              $2.70                              $2.70
+
+How Are We Doing
+The Oregon Liquor and Cannabis Commission distributed 2.61 dollars in revenue for every dollar the commission spent during fiscal year 2021.  The rate of return is five percent below the target of
+2.70 dollar return per dollar spent. Distributable revenue went up about ten percent over 2020.
+
+Factors Affecting Results
+Agents compensation costs increased proportionally to the sales because it is a rate of sales. Liquor agent commissions increased last biennium from 8.93% of sales to 9.02% of sales and that would
+cut into the ratio with higher costs.   Direct agency expenditures increased about $5.5 million per year which was 10% over the previous fiscal year due to increased investment into IT systems like the
+privilage tax system.
+
+Beer and wine tax collections and license fee collections were below projections due to COVID shut downs but more than made up for it in liquor sales.  O license refunds will be minimal I think and
+those are occurring now and not last biennium.  So revenues went up 10% last year but so did costs.
+KPM #6                      Best Practices - Percent of total best practices met by the Board.
+                            Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                actual      target
+
+  Report Year                                                                   2017                              2018                              2019                               2020                              2021
+Best Practices: Percent of total best practices met by the Board.
+Actual                                                                         100%                                92%                               84%                               95%                                95%
+Target                                                                         100%                               100%                              100%                               100%                              100%
+
+How Are We Doing
+          There was 95% agreement among the responding commissioners that all OLCC best practices were being met. The assessment indicated that the Commission’s governance practices are
+          not hitting the target of 100 percent.  This is the thirteenth year the self-assessment has been taken by the agency’s commissioners.  Five commissioners responded to the FY 2021 request to
+          complete this self-assessment and all four commissioners answered every question.
+
+Factors Affecting Results
+          Response rates will impact the average. In the case of FY 2021 five of six commissioners available responded to the survey.  FY 2021 ended with a vacancy on the commission.
+          Communication continues to be good between the executive director and commission, it appears that the commissioners felt prepared to respond.  One commissioner indicated disatisfaction
+          with the reveiw of APPRs and two commissioners felt insufficient participation in developing and reveiwing commission policy option packages.
+KPM #7        Sales to Minors- Recreational Marijuana - This measure is the rate at which licensees refuse to sell marijuana products to minor decoys.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                               actual      target
+
+  Report Year                                                                  2017                              2018                              2019                               2020                              2021
+Sales to Minors- Recreational Marijuana
+Actual                                                                          0%                                91%                               82%                               90%                                0%
+Target                                                                                                            82%                               82%                               90%                               90%
+
+How Are We Doing
+The Oregon Liquor and Cannabis Commission conducted no minor decoy operations in fiscal year 2021.  The on-going COVID-19 pandemic proscribed the use of minors in decoy operations.
+
+The Commission anticipates resuming operations as soon as it is safe for minor decoys to participate.
+
+Factors Affecting Results
+The Oregon Liquor and Cannabis Commission conducted no minor decoy operations in fiscal year 2021.  The on-going COVID-19 pandemic proscribed the use of minors in decoy operations.
+
+The Commission anticipates resuming operations as soon as it is safe for minor decoys to participate.
+KPM #8                Time to license- marijuana - Average days to license completed marijuana applications.
+                      Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual      target
+
+  Report Year                                                                     2017                                2018                               2019                                2020                                2021
+Time to license- marijuana
+Actual                                                                             100                                 161                                 204                                195                                 88
+Target                                                                                                                  85                                 85                                  85                                 85
+
+How Are We Doing
+The FY 2021 mean (average) marijuana licensing time statewide was 88 days for 676 qualifying licenses that were issued during the year; only 3 days above the target measure. This compares very
+favorably to the 195 days for the 237 cases for which a new recreational marijuana licenses issued in FY 2020. The median time to license is 73 days indicating that there are a relatively small number
+of cases that disproportionately raise the average length of licensing above the target. Additionally, licensees wait an average of 9 days to pay their license fee, so while the average time to license is
+above the target, the majority of licensees are ready to pay before the target. The Commission continues to try to increase staff and to adapt in order to implement the recreational marijuana program
+and provide prompt service to applicants.
+
+Laboratory licenses took the shortest period to process, 16 days on average, while wholesalers were the longest at an average of 124 days.
+
+Factors Affecting Results
+There are many factors affecting the number of days it takes to issue a recreational marijuana license; some internal and some external. Internal factors continue to be identified as business
+processes are developed to implement newer marijuana law and rules.
+
+During FY 2021 the Commission redeployed some alcohol license investigators to help focus on marijuana licensing activities, as the marijuana program has experienced a large number of
+complicated license sales in addition to working through the backlog of applications that had been submitted prior to June 15, 2018.
+
+ The Commission continues to hire licensing staff, implement process improvements and technological solutions (automation). The recreational marijuana program continued to fill a number of
+vacancies in license investigator positions during fiscal year 2021.  The renewal process also saw a large proportion of applicants with complicated renewals containing site and/or ownership
+changes.  Renewal applications, location changes or ownership changes of less than 50% are not included in this metric, but do represent a licensing burden.
+
+External factors are difficult to control. A primary external factor affecting how quickly a recreational marijuana license can be issued is the license application review by the local governing body (city
+or county). The issuance of Land Use Compatibility Statement by the local governing unit is the triggering event that allows the Oregon Liquor Control Commission to assign an investigator to begin
+actively processing a marijuana application.
+
+Applicants have also struggled to complete applications correctly and in a timely manner. The newness of the program and changes in law and rules guiding the application process have posed a
+challenge for applicants who are navigating the process.  In order to help applicants, the Oregon Liquor Control Commission has produced a business guide for applicants and licensees, and
+continues to provide education and information through the website, emails, and frequent communication with license investigators.
+
+An analysis of some of the longer duration applications show applicants that fail to respond extended periods before resuming the application process.  The Commission has implemented a process of
+side-tracking applications for applicants who are not actively engaged in the licensing process.
+
+Management Comments
+
+There are many factors affecting the number of days it takes to issue a marijuana license; some internal and some external. Internal factors continue to be identified and streamlined as business
+processes are developed, staff hired and technological solutions incorporated. Primary external factors delaying licensing completion of land use compatibility statements, local permitting processes,
+and the difficulty many licensees have in completing their license applications.
+
+The license investigation process is largely manual despite the online application system. Applicants struggle to understand and implement regulatory requirements at a variety of levels of
+government.  Complicated financial arrangements require investigators to follow-up multiple interested parties for each applicant.  These are time-consuming processes.
+
+In the short-term, the agency does anticipates increasing the availability of additional resources dedicated marijuana license investigations as staffing for the marijuana program stabilizes.
+
+However, license renewals also represent an ongoing workload challenge as licensees alter their businesses and change financial interests, requiring investigation of changes as part of the renewal
+process.
+
+The Oregon Liquor Control Commission has implemented a re-organization of licensing staff and business processes to optimize resources to handle the increased licensing responsibilities for both
+programs.  Staffing gaps caused by implementing marijuana licensing and increased workload from recreational marijuana in addition to implementing software and business process changes,
+combined with increased workloads for our local government partners, have all had an impact on increasing the time to license.

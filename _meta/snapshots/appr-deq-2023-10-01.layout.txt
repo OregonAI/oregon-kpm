@@ -1,0 +1,601 @@
+Department of Environmental Quality
+                  Annual Performance Progress Report
+
+                         Reporting Year 2023
+
+                    Published: 10/1/2023 7:20:54 PM
+ KPM #          Approved Key Performance Measures (KPMs)
+
+1              AIR QUALITY DIESEL EMISSIONS - Quantity of diesel particulate emissions (in tons).
+2              AIR QUALITY CONDITIONS - National Standards: Number of days when air is unhealthy for sensitive groups and all groups.
+3              AIR QUALITY - AIR TOXICS - Air Toxics Trends in Larger and Smaller Communities
+4              Permit Timeliness - Issuance of new permits - Percentage of new air quality permits that are issued within timeliness targets.
+5              Permit Timeliness - Issuance of Permit Modifications - Percentage of air quality permit modifications issued within the target timeliness period.
+6              Permit Timeliness - Current Permits - Percent of air quality permits that are current (not on administration extension)
+7              PERMIT TIMELINESS - Percentage of individual wastewater discharge permits issued within 270 days.
+8              UPDATED PERMITS - Percent of total wastewater permits that are current.
+9              WATER QUALITY CONDITIONS - Percent of monitored stream sites with significantly increasing trends in water quality.
+10             CLEANUP - Properties with known contamination cleaned up
+11             MATERIALS MANAGEMENT - Waste generation
+12             MATERIALS MANAGEMENT - Waste recovery
+13             CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+14             ERT - Percent of local participants who rank DEQ involvement in Economic Revitalization Team process as good to excellent.
+15             BOARDS AND COMMISSIONS - Percent of total best practices met by the Environmental Quality Commission.
+
+                                                                                                                                        red
+                                                                                                                                        green
+                                                                                                                                        yellow
+
+ Performance Summary                                                                                                                                         Green                                                      Yellow                                                        Red
+
+                                                                                                                                                        = Target to -5%                                         = Target -5% to -15%                                           = Target > -15%
+Summary Stats:                                                                                                                                                 20%                                                        20%                                                         60%
+KPM #1                AIR QUALITY DIESEL EMISSIONS - Quantity of diesel particulate emissions (in tons).
+                      Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = negative result
+
+                                                                       actual     target
+
+  Report Year                                                                    2019                                2020                               2021                               2022                               2023
+Quantity of diesel particulate emissions (in tons)
+Actual                                                                                                               2,394                                                                                                    1,699
+Target                                                                           2,069                               1,837                              1,837                              2,100                              1,800
+
+How Are We Doing
+ DEQ derives the data for this measure from an assessment of all air pollutants from all sources in the state that EPA compiles every three years called the National Emissions Inventory (NEI). The
+ most current report issued in 2023 reflects the emissions inventory in 2020. DEQ will use the 2020 value until the next assessment is complete in 2026. (2023 calendar year data reported in 2026).
+
+ Diesel particulate matter is a known human carcinogen. Based on the 2019 U.S. Environmental Protection Agency (EPA) AirToxScreen Assessment, which is the most recent data available, about
+ 82 percent of Oregon's population face exposure to diesel emissions at or above the current state ambient benchmark concentration of 0.1 micrograms per cubic meter.
+
+The measure reflects the anticipated decline in diesel engine emissions over time attributable to following factors:
+
+      1. The natural turnover of older, higher emitting trucks and equipment
+
+      2. The early replacement and retrofitting of older diesel trucks and equipment that occur because of policy and funding programs implemented by the department.
+
+ Diesel engine emissions in Oregon are about 7% below the 2020 target of 1,837 tons per year. This is an improvement from previous years and represents a 28% decrease from 2017 as contained
+ in the NEI published in 2020.
+
+Factors Affecting Results
+ In 2019 the legislature adopted HB 2007 directed at reducing diesel engine emissions through a variety of regulations and incentives. Major elements of the bill include:
+       A requirement that certain medium and heavy-duty diesel trucks registered or titled in Clackamas, Multnomah and Washington counties be 'clean diesel' (defined as model year 2007 or 2010)
+       by 2029.
+       Direction to DEQ to disburse remaining Volkswagen settlement funds through a competitive grant program for replacing or retrofitting older diesel trucks.
+       A requirement that clean diesel construction equipment be used on public works projects valued above $20 Million in Clackamas, Multnomah and Washington Counties.
+       This bill will not be fully implemented until 2029. The extent to which the legislation reduces diesel engine emissions will be measured through this Key Performance Measure after that time.
+ Implementation of new statewide medium- and heavy-duty truck rules in 2024 and 2025 will mean an expansion of the use of zero emission trucks through accelerating vehicle sales targets and
+ stronger emission standards for new diesel engines.
+
+ EPA also adopted stronger national diesel engine standards for medium- and heavy-duty trucks at the end of 2022 which will go into effect beginning with model year 2027.
+
+ In 2022, DEQ received $15 million in one-time funding for a pilot grant program to support medium- and heavy-duty zero emission vehicle charging and fueling infrastructure projects (HB 5202 and
+ HB 4139). Grant awards were announced in March 2023 and projects should be complete within 1 to 3 years.
+
+ In 2023 the legislature adopted HB 3409. This bill included a requirement for DEQ to establish an incentive program for medium- and heavy-duty vehicles with a specific focus on vocational
+ applications such as delivery, refuse, freight, utility, and transit. The initial grant funding amount is $3 million. Development of this new program is hoped to improve the chances of securing additional
+ federal grant funds.
+
+DEQ has convened an Air Toxics Science Advisory Committee that is planning to review Oregon’s ambient benchmark concentration (i.e., toxicity reference value) for diesel particulate matter. If the
+outcome of that process leads to adoption of a lower benchmark concentration by the Environmental Quality Commission the calculated exposure risk will likely increase.
+
+Because DEQ only receives data every three years, the metric represented in the chart for 2023 relects the actual emissions in 2020.
+KPM #2          AIR QUALITY CONDITIONS - National Standards: Number of days when air is unhealthy for sensitive groups and all groups.
+                Data Collection Period: Jan 01 - Jan 01
+
+                                                                      actual     target
+
+  Report Year                                                                    2019                              2020                               2021                               2022                               2023
+a. National Standards Number of days when air is unhealthy for sensitive groups
+Actual                                                                            154                                37                                 64                                137                                 83
+Target                                                                            20                                 20                                 20                                 25                                 20
+b. National Standards Number of days when air is unhealthy for all groups
+Actual                                                                            166                                 9                                243                                159                                 68
+Target                                                                             3                                  3                                  3                                  6                                  3
+
+How Are We Doing
+NOTE: The 2023 report is based on data from calendar year 2022
+
+This measure was developed in 2006 to reflect the annual trend in actual air quality for the general population. The measure indicates that air quality is unhealthy for sensitive populations on
+some days in some places. The majority of the unhealthy for sensitive groups air days are caused by elevated fine particulate levels resulting from wildfires, forestry burning, woodstoves, and other
+combustion sources.
+
+National Standards Number of Days When Air in Unhealthy for Sensitive Groups:
+Oregon’s number of days when air was unhealthy for sensitive groups (based on the criteria pollutants) went down from 137 in 2021 to 83 in the 2022 reporting year. Of the 83 days, 62 were
+from wildfire smoke.
+National Standards Number of days when air is unhealthy for all groups:
+In 2022, Oregon recorded 68 days when air was unhealthy for all groups or worse. This is an improvement from 2021, when there were 159 days of unhealthy air. 66 of those days were from wildfire
+smoke, which was significantly worse in 2021 (2020 calendar year) due to multiple sustained wildfire events throughout the state and region. The unhealthy or worse air days occurred statewide.
+
+Factors Affecting Results
+National Standards Number of Days When Air in Unhealthy for Sensitive Groups:
+The primary driver for the worsening trends in unhealthy air days over the past five years is the impacts of wildfire smoke. The worst years have been 2017, 2018, and 2020. Out of the 83 unhealthy for
+sensitive group days in 2022, 62 were from wildfire smoke. The 21 days were primarily from particulate matter during fall and winter stagnation events or from prescribed burning and wood stoves.
+
+National Standards Number of days when air is unhealthy for all groups:
+In 2022, the primary factor for the worsening trends in unhealthy air days was wildfire smoke impacts.
+
+KPM #3                 AIR QUALITY - AIR TOXICS - Air Toxics Trends in Larger and Smaller Communities
+                       Data Collection Period: Jan 01 - Jan 01
+
+                                                                       actual     target
+
+  Report Year                                                                     2019                                2020                               2021                                2022                               2023
+a. Air Toxics Trends in Large Communities
+Actual                                                                              11                                 10                                  23                                 17                                  17
+Target                                                                               9                                  7                                   7                                  8                                   6
+b. Air Toxics Trends in Smaller Communities
+Actual                                                                               8                                 10                                  24                                 21                                  34
+Target                                                                               7                                  5                                   5                                  8                                   6
+
+How Are We Doing
+ NOTE: 2023 report year will be based on data from calendar year 2022.
+
+ Air toxics are chemicals in the air we breathe that are known or suspected to cause cancer or other detrimental health effects in people. Using current medical studies, DEQ has established
+ threshold levels (i.e. air toxic benchmarks) for a variety of airborne toxic chemicals that represent levels of acceptable risk to the public. DEQ’s KPM goal is to reduce monitored levels of five
+ representative toxics - benzene, acetaldehyde, formaldehyde, arsenic and cadmium - down to the slight risk level one time above the benchmark for each pollutant. Meeting the air toxics KPM
+ goals would be a partial indication of reduced risk to public health from the chemicals tracked. There are many other air toxics that can cause risk to public health. The benchmarks serve as clean
+ air goals rather than regulatory standards. They are very protective and based on concentrations at which sensitive members of the population would experience a negligible increase in risk of
+ additional cancers or other health effects. The values for this measure are obtained by dividing the average annual monitored concentrations by DEQ benchmark values for each pollutant.
+
+ The spike in risk (i.e. poorer performance) in 2020 was driven by two issues: First, the catastrophic wildfire led to a significant increase in detected levels of benzene, an air toxic attributable to
+ combustion. Secondly, new data on the health risks associated with exposure to formaldehyde led DEQ to update our health benchmark. This means the same concentration of formaldehyde in the
+ air leads to a higher risk than previously thought.
+
+Factors Affecting Results
+ Large Communities: In an urban area like Portland, air toxics are most influenced by emissions from cars and trucks, with additional influence from residential wood burning and, on a neighborhood
+level, emissions from industry and commercial activities. Portland is an ozone maintenance area in which industry has been required to control volatile organic compounds, many of which are also
+air toxics. Weather patterns, such as winter-time stagnation, high summer-time temperatures, and natural events, such as wildfires, can be significant factors resulting in elevated air toxics
+concentrations.
+
+Smaller Communities: Of the five tracked pollutants in La Grande, benzene and acetaldehyde pose the most potential risk to public health. Benzene is 4 times the benchmark and acetaldehyde is 3
+times the benchmark. Sources of benzene in La Grande are residential wood combustion, cars and trucks, leaks in the gasoline distribution system, fossil fuel combustion for heat and energy,
+industrial emissions, wildfires and background levels that presumably come from other developed areas.
+
+Sources of the five pollutants in the KPM:
+
+Benzene
+
+Sources of benzene are cars and trucks, leaks in the gasoline distribution system, residential wood combustion, fossil fuel combustion for heat and energy, industrial emissions, wildfires, and
+background levels that presumably come from other developed areas. Decreases in benzene are largely attributable to cleaner vehicle engines with improved fuel economy and federally mandated
+reduction of benzene in gasoline that took effect in 2011 and 2012. However, reductions may be offset by local increases in driving and additional vehicles related to population growth.
+
+Acetaldehyde and formaldehyde are produced by wood and fossil fuel combustion, but the largest quantities of these pollutants are produced through chemical formation in the atmosphere.
+Precursors in the chemical formation process are volatile organic compounds emitted from wood and fossil fuel combustion and vegetation. Acetaldehyde and formaldehyde values have not
+changed significantly since 2004. Pollutants formed through a complex secondary process are more difficult to decrease through emission reduction strategies than pollutants controlled at their
+primary sources.
+
+Arsenic is predominantly from engines burning fossil fuels, natural gas and other petroleum products, and glass and metals industries. Arsenic values have dropped from a high of nine times above
+the benchmark in 2004 to levels fluctuating around four or five times above the benchmark for the last six years in Portland. DEQ expects that arsenic levels in Portland will decrease as the vehicle
+fleet continues to turn over to new and cleaner vehicles and fuel efficiency improves. Arsenic in Portland is also influenced by background concentrations because arsenic is present in local
+volcanic soils that become airborne as dust. Arsenic levels in La Grande have remained at the clean air goal of one time above the benchmark for the past ten years.
+
+Levels of cadmium have ranged from four times above the benchmark in 2005 to levels fluctuating between one and two times above the benchmark since 2010. In 2017, cadmium was below the
+benchmark for the first time since air toxics trend monitoring began in Portland. Between 2012 and 2016, DEQ investigated unidentified sources of cadmium in the Portland area. In 2016, DEQ in
+collaboration with federal moss researchers, identified art glass manufacturers as a significant source of cadmium in Portland. The agency has since adopted rules which controlled cadmium
+emissions from those sources. There is no cadmium measured in La Grande.
+KPM #4          Permit Timeliness - Issuance of new permits - Percentage of new air quality permits that are issued within timeliness targets.
+                Data Collection Period: Jan 01 - Dec 31
+
+                                                                      actual     target
+
+  Report Year                                                                   2019                               2020                               2021                               2022                              2023
+Permit Timeliness - Issuance of new permits (Air Contaminant Discharge Permits)
+Actual                                                                           53%                                74%                               40%                                46%                                55%
+Target                                                                           90%                                90%                               90%                                80%                                80%
+b. Permit Timeliness - Issuance of new permits (Title V Permits)
+Actual                                                                                                              0%                                 0%                                 0%                                 0%
+Target                                                                           90%                                90%                               90%                                80%                                80%
+
+How Are We Doing
+ Note: The 2023 report is based on 2022 calendar year data.
+
+ DEQ requires Air Contaminant Discharge Permits (ACDP) when sources, of any size, construct or modify their facilities. These permits are also required for the operation of medium-sized point
+ sources and the operation of some smaller-sized point sources that emit specified hazardous air pollutants. DEQ also operates the Title V Permit program, which is required by the federal Clean Air
+ Act for major sources emitting traditional "criteria" or hazardous air pollutants. Oregon's largest industrial facilities tend to be the source of these emissions.
+
+ In 2022, 55% of ACDP new permits were issued on time. This is an increase from last year’s reported value of 46% from 2021 data. In 2020, DEQ updated and automated the KPM data-pulling
+ process and determined that the incorrect permit type (i.e., AQGP Assignment Update) had been included for KPM reporting in previous years. Adjusting for this error, the timeliness of new ACDP
+ would have been 49% for 2019.
+
+ DEQ received 1 applications for new Title V permits with 0% issued on time. DEQ sets processing targets for the different types of permits, with a range from 30 days for the simplest permits to 365
+ days for the most complex permits.
+
+Factors Affecting Results
+ Note: In 2020, DEQ updated and automated the KPM data-pulling process and determined that an incorrect permit type (i.e., AQGP Assignment Update) had been included for KPM reporting in
+previous years. Adjusting for this error accounts for the change in KPM value. For example, the timeliness of new ACDP would have been 49% for 2019, if that permit type were removed from the
+total.
+
+In 2018, the Oregon Secretary of State's performance audit revealed a permit renewal backlog. Auditors identified a number of root causes, including the following primary factors: Pre-application
+guidance and tools available for the regulated community are outdated or not easy to use, competing demands such as compliance inspections, and responding to complaints take away time from
+permit writing. Auditors als noted that position cuts due to revenue shortfalls have led to unmanageable workloads.
+
+DEQ agreed with the results of the audit and has been working to address its findings since early 2019. Key initiatives currently underway include:
+
+* A comprehensive process improvement effort to develop more efficient internal processes was enacted in 2022.
+
+* Redesigning the permitting program webpage for improved usability
+
+* Updating key guidance documents that assist permit writers and sources interpret rules and requirements
+
+DEQ permitting staff each balance their time between issuing new permits, ensuring permits are current (i.e., permit renewals) and performing compliance inspections. The relatively low
+performance on this measure; issuance of new permits within timeliness targets is attributable to several factors:
+
+* As discussed above, DEQ staff are intentionally prioritizing the backlog of permit renewals.
+
+* As of 2020, the issuance of new permits requires implementation of a risk-based screening approach. The additional requirements incorporated into the permits are reasonable and necessary to
+ensure the sources remain appropriately regulated through the permit, however, the additional screening adds a layer of complexity, impacting the issuance time.
+
+* In 2020, DEQ transitioned to working primarily remotely in response to the COVID-19 pandemic. This transition caused temporary delays in the workflow for permit issuance, which further
+impacted workflow in 2021.
+
+* In 2019 the legislature authorized a new fee increase and six new permitting positions to meet increasing staff demands. However, DEQ delayed implementation of the fee increase and hiring of
+new positions in recognition and response to the economic impacts of the COVID-19 pandemic. This resulted in operating at a lower staffing level.
+
+In 2023, DEQ requested an 83% fee increase in order to stabilize the Title V program. The Legislative Assembly approved an approximate 43% increase for 2023 and a non-compounding 40%
+increase for 2024. DEQ anticipates being able to add staffing within the next two years in order to better address permitting timelines.
+KPM #5        Permit Timeliness - Issuance of Permit Modifications - Percentage of air quality permit modifications issued within the target timeliness period.
+              Data Collection Period: Jan 01 - Dec 31
+
+                                                                      actual      target
+
+  Report Year                                                                    2019                               2020                               2021                               2022                                2023
+Permit Timeliness - Issuance of Permit Modifications (Air Contaminant Discharge Permits)
+Actual                                                                            70%                                71%                                40%                                65%                                53%
+Target                                                                            90%                                90%                                90%                                80%                                80%
+b. Permit Timeliness - Issuance of Permit Modifications (Title V Permits)
+Actual                                                                            86%                                67%                                67%                                79%                                57%
+Target                                                                            90%                                90%                                90%                                80%                                80%
+
+How Are We Doing
+ Note: The 2023 report is based on 2022 calendar year data.
+
+ DEQ requires Air Contaminant Discharge Permits (ACDP) when sources, of any size, construct or modify their facilities. These permits are also required for the operation of medium-sized point
+ sources and the operation of some smaller-sized point sources that emit specified hazardous air pollutants. DEQ also operates the Title V Permit (TV) program, which is required by the federal
+ Clean Air Act for major sources emitting traditional "criteria" or hazardous air pollutants. Oregon's largest industrial facilities tend to be the source of these emissions.
+
+ In 2022, 53% of ACDP sources, an decrease from the previously reported 65% for 2021 data, and 57% of TV permit modifications were issued on time, a decrease from last year’s reporting. DEQ
+ sets processing targets for the different types of permits, with a range from 30 days for the simplest permits to 365 days for the most complex permits.
+
+ DEQ's goal is that 90% of ACDP and TV permits are current. A recent performance audit conducted by the Secretary of State identified several key factors contributing to DEQ's inability to complete
+ permit activities within timeliness targets. These factors are discussed in the "Factors Affecting Results" section.
+
+Factors Affecting Results
+ As mentioned above, the Oregon Secretary of State's recent performance audit discussed a permit renewal backlog. Auditors identified a number of root causes, including the following primary
+ factors:
+       * Pre-application guidance and tools available for the regulated community are outdated or not easy to use
+
+       * Competing demands such as compliance inspections and responding to complaints take away time from permit writing Position cuts due
+       to revenue shortfalls have led to unmanageable workloads.
+
+DEQ agreed with the results of the audit and has been working to address its findings since early 2019. Key initiatives currently underway
+include:
+
+       * A comprehensive process improvement effort to develop more efficient internal processes.
+
+       * Redesigning the permitting program webpage for improved usability
+
+       *Updating key guidance documents that assist permit writers and sources interpret rules and requirements.
+
+DEQ permitting staff each balance their time between issuing new permits, ensuring permits are current (i.e. permit renewals) and performing
+compliance inspections. The relatively low performance on this measure; issuance of modifications of permits within timeliness targets is
+attributable to several factors:
+
+               As discussed above, DEQ staff are intentionally prioritizing addressing the backlog of permit renewals.
+
+       In 2019 the legislature authorized a new fee increase and six new permitting positions to meet increasing staff demands. However, DEQ delayed implementation of the fee increase and hiring
+       of new positions in recognition and response to the economic impacts of the COVID-19 pandemic. This resulted in operating as a lower staffing level for more of 2020 than previously
+       anticipated and continues to impact the agency. In 2020, the issuance of new permits required implementation of a risk-based screening approach; additional requirements incorporated into
+       the permits are reasonable and necessary to ensure the sources remain appropriately regulated through the permit. The additional screening adds a layer of complexity, impacting the issuance
+       time.
+
+       In 2020, DEQ transitioned to working primarily remotely in response to the COVID-19 pandemic. This transition caused temporary delays in the workflow for permit issuance, which further
+       impacted workflow in 2021.
+
+       In 2023, DEQ requested an 83% fee increase in order to stabilize the Title V program. The Legislative Assembly approved an approximate 43% increase for 2023 and a non-compounding 40%
+       increase for 2024. DEQ anticipates being able to add staffing within the next two years in order to better address permitting timelines.
+KPM #6           Permit Timeliness - Current Permits - Percent of air quality permits that are current (not on administration extension)
+                 Data Collection Period: Jan 01 - Dec 31
+
+                                                                      actual      target
+
+  Report Year                                                                    2019                               2020                               2021                               2022                                2023
+Permit Timeliness - Current Permits (Air Contaminant Discharge Permits)
+Actual                                                                            78%                                70%                                89%                                90%                                84%
+Target                                                                            80%                                80%                                80%                                80%                                80%
+Permit Timeliness - Current Permits (Title V Permits)
+Actual                                                                            61%                                63%                                70%                                69%                                71%
+Target                                                                            80%                                80%                                80%                                80%                                80%
+
+How Are We Doing
+ Note: The 2023 report is based on 2022 calendar year data.
+
+ DEQ require s Air Contaminant Discharge Permits (ACDP) when sources, of any size, construct or modify their facilities. These permits are also required for the operation of medium-sized point
+ sources and the operation of some smaller-sized point sources that emit specified hazardous air pollutants. DEQ also operates the Title V Permit program (TV), which is required by the federal
+ Clean Air Act for major sources emitting traditional "criteria" or hazardous air pollutants. Oregon's largest industrial facilities tend to be the source of these emissions.
+
+ In 2022, 84% of ACDP sources and 71% of TV sources were operating under a current permit. The remaining sources were operating under a permit on administrative extension. Sources are
+ allowed to operate with an expired permit (i.e., permit on administrative extension) so long as the source submits a permit renewal application before it expires.
+
+ DEQ's goal is that 80% of ACDP and TV permits are current. A recent performance audit conducted by the Secretary of State identified several key factors contributing to DEQ's inability to renew
+ existing permits in a timely fashion. These factors are discussed in the "Factors Affecting Results" section.
+
+Factors Affecting Results
+ As mentioned above, the Oregon Secretary of State's recent performance audit revealed a permit renewal backlog. Auditors identified a number of root causes, including the following primary factors:
+* Pre-application guidance and tools available for the regulated community are outdated or not easy to use
+
+* Competing demands such as compliance inspections and responding to complaints take away time from permit writing
+
+*Position cuts due to revenue shortfalls have led to unmanageable workloads
+
+DEQ agreed with the results of the audit and has been working to address its findings since early 2019. Key initiatives currently underway include:
+
+* A comprehensive process improvement effort to develop more efficient internal processes
+
+* Redesigning the permitting program webpage for improved usability
+
+* Updating key guidance documents that assist permit writers and sources interpret rules and requirements
+
+Due to the Secretary of State's Audit findings, staff has focussed on addressing backlog, however at current levels of staffing the focus on backlog has come at the detriment of new permit and
+modification timeliness.
+KPM #7            PERMIT TIMELINESS - Percentage of individual wastewater discharge permits issued within 270 days.
+                  Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                    actual     target
+
+  Report Year                                                                  2019                             2020                              2021                              2022                               2023
+Percentage of individual wastewater discharge permits issued within 270 days
+Actual                                                                          5%                             29.50%                              32%                               34%
+Target                                                                         50%                               75%                               75%                               50%                               50%
+
+How Are We Doing
+This measure requires data that is not available until October of the year following the reporting year period. This report will be updated after the applicable data is available and evaluated in October
+2023.
+
+Factors Affecting Results
+KPM #8                   UPDATED PERMITS - Percent of total wastewater permits that are current.
+                         Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                      actual     target
+
+  Report Year                                                                    2019                               2020                               2021                               2022                               2023
+Percent of total wastewater permits that are current
+Actual                                                                            71%                                66%                                55%                                62%                                69%
+Target                                                                            90%                                75%                                90%                                75%                                75%
+
+How Are We Doing
+At the end of December 2022, DEQ had 69 percent of permitted sources assigned to current general and individual permits, which falls short of the 75 percent target established for the 2022 reporting
+period. This metric includes National Permit Discharge Elimination System permits (NPDES) and Water Pollution Control Facility (WPCF) permits, both individual and general, but excludes onsite
+septic system permits.
+
+Ongoing process improvements and programmatic efforts to renew a large backlog of individual NPDES permits and multiple general permits remain a critical focus for the permitting program. DEQ
+has made significant progress on both fronts, including the reduction of individual NPDES backlog by over 20% (23% as of January, 2023), and renewal of several general permits, including the 1500-
+A Wastewater from clean-up of petroleum products, 1200-Z Industrial stormwater, 1200-C Construction stormwater, 900-J Seafood processing effluent discharge, 2000-J Irrigation system
+pesticide. As a result of devoting additional resources to this challenge, the NPDES Individual permit backlog that had been increasing for many years, has been reduced from over 80% in 2018 to
+59% by the end of 2022, and continues to decline. New staffing resources authorized by the 2019 Legislature for the permitting program have contributed to these improvements.
+
+Factors Affecting Results
+The complexities of technical and legal issues encountered during permit development continue to affect DEQ's ability to issue permits in a timely manner. Moreover, DEQ’s focus on implementing the
+recommendations for improvements to the individual NPDES program has resulted in prioritization of that goal over issuing some other permit types, such as WPCF. Permitting program process
+improvements continue to support the program goal of backlog reduction for individual permits. The program now implements a modernized process for permit development which includes review of
+complex technical subjects and quality assurance.   Additionally, DEQ continues to perform a complete data gap analysis for anticipated permit applications and renewals according to the 5-year
+issuance plan for individual NPDES permits. DEQ is looking at how to adopt and apply relevant best practices into other aspects of the permitting program.
+Changes in water quality standards and criteria for Total Maximum Daily Loads (clean water plans) also delay permitting efforts when the changes require additional water quality monitoring or create
+program uncertainty. Revisions to water quality standards have also increased the use of compliance schedules and other complex regulatory tools that must be incorporated into the permit
+development process. However, the data gap analysis process has allowed the permit program to better anticipate permit needs based on existing and revised standards and TMDLs, which will
+contribute to further improvements towards meeting targets for this performance metric.
+KPM #9          WATER QUALITY CONDITIONS - Percent of monitored stream sites with significantly increasing trends in water quality.
+                Data Collection Period: Oct 01 - Sep 30
+
+                                                                     actual     target
+
+  Report Year                                                                   2019                              2020                               2021                              2022                               2023
+a. Percent of monitored stream sites with significantly improving trends in water quality
+Actual                                                                          30%                                16%                               16%                                 8%                                14%
+Target                                                                          20%                                40%                               50%                                20%                                25%
+b. Percent of monitored stream sites with significantly declining trends in water quality
+Actual                                                                           9%                                16%                                8%                                11%                                11%
+Target                                                                           2%                                 7%                                5%                                15%                                10%
+c. Percent of monitored stream sites with good to excellent water quality
+Actual                                                                          51%                                51%                               51%                                49%                                49%
+Target                                                                          55%                                60%                               75%                                60%                                70%
+
+How Are We Doing
+Data analyzed for the 2022 water year indicates that Oregon surface waters met none of the three new targets established for KPM 9.
+
+KPM 9A
+
+The percent of monitored sites with a significantly improving trend in water quality increased to 14% in 2022 from 8% in 2021. This percentage is below the target of 25% for sub-measure 9a. The
+largest improvement occurred at a site on the Owyhee River. The average improving trend magnitude was higher at sites in fair to very poor status than at sites in good or excellent status indicating
+that the largest gains in water quality occurred at sites most in need of improvement.
+
+KPM 9B
+
+The percent of sites with a significantly declining trend in water quality remained at 11% from 2021 to 2022. This is slightly above the target value of 10% or lower that is established for this sub-
+measure. More than half of the sites with declining trends are declining for the first time. The site with the steepest decline in water quality was in the Umatilla River.
+KPM 9C
+
+The percentage of monitored stream sites with good to excellent water quality remained at 49% and fell short of the target of 70% in 2022.
+
+Factors Affecting Results
+There are various factors contributing to water quality improvements in some parts of the state, including restoration efforts in many basins and the implementation of agricultural best management
+practices. Specific factors contributing to improved water quality were better irrigation practices, reduced livestock influence, and the implementation of Total Maximum Daily Load (TMDL) restoration
+plans. TMDL projects to reduce point and non-point source pollution in basins around Oregon are expected to have significant impact on the water quality in the coming years. Additionally, a statewide
+pattern of reduced phosphorus concentrations has had a beneficial impact on water quality index scores in state waters.
+
+Reducing the percent of streams with declining water quality remains difficult. Various factors including natural conditions (drought, sedimentation, fire affected areas), agricultural practices
+(agricultural runoff, lack of riparian vegetation) and inadequate stormwater treatment continue to present challenges in some areas. Some of these factors can be easily mitigated while others are long
+term or natural occurrences. The data also show that sedimentation and stormwater runoff are contributing to the changes observed in sub-measures 9a and 9b. DEQ continues to work with partner
+agencies and interested parties to make progress in the management of non-point source areas, including agricultural and forest lands, particularly in areas where voluntary actions are an important
+element in achieving water quality improvements.
+KPM #10                          CLEANUP - Properties with known contamination cleaned up
+                                 Data Collection Period: Jan 01 - Jan 01
+
+                                                                      actual     target
+
+  Report Year                                                                    2019                              2020                               2021                               2022                               2023
+a. Percent of heating oil tank sites cleaned up
+Actual                                                                         86.10%                             86.50%                             86.74%                             86.60%                             87.39%
+Target                                                                           84%                                90%                                90%                                90%                                90%
+b. Percent of regulated underground storage tank sites cleaned up
+Actual                                                                         89.40%                             89.40%                             89.80%                             90.10%                             90.05%
+Target                                                                         89.20%                               90%                                95%                                95%                                95%
+c. Percent of hazardous substance sites (non-tank) cleaned up
+Actual                                                                         50.70%                             51.50%                             53.69%                             55.19%                             55.70%
+Target                                                                         49.60%                               60%                                75%                                65%                                75%
+
+How Are We Doing
+This measure tracks the total number of sites cleaned up as a percentage of contaminated sites in DEQ's hazardous substance cleanup and tanks databases. Tank sites include heating oil tanks
+(HOTs) and regulated commercial underground storage tanks (USTs), both of which involve releases of fuel. Hazardous substance sites include a variety of industrial/commercial facilities with known
+releases of metals, chlorinated solvents, PCBs and other hazardous chemicals. The higher the cleanup percentage, the better we are doing.
+
+Overall percentages for HOT and UST closure remained virtually static last year, with a small uptick in the closure of hazardous substance sites. DEQ did not meet the targets. As of Dec. 31, 2022,
+DEQ's HOT program had overseen and/or approved the cleanup of 87.39 percent of reported HOT releases, slightly below the target of 90 percent. For regulated USTs, DEQ has completed cleanup
+at 90.05 percent of reported UST releases, approaching the target of 95 percent. The Cleanup program had made no-further-action decisions at 55.70 percent of known hazardous substance sites,
+which is below this year’s target of 65 percent, but above results for previous years
+
+Factors Affecting Results
+Note: Data shown in report year 2023 reflects cleanup efforts as of December 31, 2022.
+Each year DEQ identifies additional sites that need cleanup, creating a "moving target" as the total number of sites increases. This number is hard to project into the future because it depends as
+much or more on economic activity than on agency actions. Nevertheless, DEQ has completed enough cleanups to increase the cleanup percentage. This is especially true for HOT cleanups, which
+typically occur during residential property sales.
+
+Hazardous substance sites may include a range of contaminants and are often more challenging than petroleum cleanups. State law requires property owners to report and clean up spills of oil or
+hazardous substances that exceed a reportable quantity, as well as any releases from USTs. State law also requires disclosure of HOTs during a property sale and releases exceeding a reportable
+quantity to be reported to DEQ. Many hazardous-substance sites come to DEQ's attention during due-diligence investigations by prospective purchasers, following the discovery of past releases
+(which did not require reporting to DEQ when they occurred). Over the years, contamination from these properties may have migrated significantly in soil, surface water or groundwater, sometimes
+beyond property lines. In contrast, required reporting at UST sites typically leads to quicker and simpler cleanups than at hazardous-substance sites, where contamination may have been present long
+before DEQ became aware of it.
+
+DEQ works collaboratively with responsible parties to clean up contaminated properties in a timely and cost-effective manner. The cleanup program uses risk-based guidance to aid cleanup decisions,
+targets hot spots of contamination, uses settlements to fund additional cleanups, and partners with Business Oregon to assist parties in funding investigation and cleanup actions. DEQ's Prospective
+Purchaser Agreement program encourages cleanup and redevelopment by providing liability relief for those wanting to buy contaminated property. In addition, DEQ has promoted Heating Oil Tank
+cleanups by allowing contractors registered with DEQ to certify that cleanups meet Oregon standards
+KPM #11                                  MATERIALS MANAGEMENT - Waste generation
+                                         Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                       actual      target
+
+  Report Year                                                           2019                                  2020                                  2021                                  2022                                  2023
+Waste generation
+Actual                                                                                                                                           5,728,796                             5,960,805                             6,494,204
+Target                                                                4,427,312                             4,871,739                            4,000,000                             5,000,000                             4,800,000
+
+How Are We Doing
+Waste generation is the total amount of material in the waste stream whether disposed, recycled, or otherwise recovered.  It can be seen as an index reflecting Oregon’s consumption of material and
+products, but does not include industrial or agricultural materials.
+
+Oregon Revised Statute 459A.010 set goals relative to this metric:  For calendar year 2025 through 2049, total general solid waste generation shall be 15 percent below the total general solid waste
+generation for calendar year 2012.  For calendar year 2050 and subsequent years, total general solid waste generation shall be 40 percent below total general solid waste generation for calendar year
+2012.  The targets for this measure are based on reducing the total general solid waste generation as measured in 2012 to 15 percent less by 2025 and 40 percent less by 2050.
+
+From 1993 through 2006, total waste generation rose steadily, For the next three years, waste generation fell sharply, but leveled off and then began increasing slowly.  Waste generation has been
+increasing quickly again since 2015, in contrast to legislated goals calling for reductions in generation.
+
+It takes a year or longer for DEQ to take the data submitted by recyclers, resolve difference in what different recycler report collecting and sending off to other recyclers, and calculate the recovery rate
+for a year, so results for calendar year 2022 are not yet complete.  The figure or 6,494,204 tons of solid waste generation is for calendar year 2021.
+
+Factors Affecting Results
+Waste generation correlates with economic conditions, as increased income leads to increase construction and increased purchase of goods.  However, the dramatic increase in generation of waste
+in 2021 (reporting year 2023) was primarily due to huge amounts of disaster debris created by the hugely damaging wildfires in late 2020, with most of that cleanup debris being landfilled in the first
+half of 2021.  A preliminary analysis by DEQ showed that about two-thirds of the increase in disposal relative to the previous year was due to the cleanup of fire-damaged structures and possessions.
+Had that fire debris not been generated in 2021, the waste generation rate would have only gone up by two percent, not nine percent. However, it still would have gone up, contrary to the goal of
+decreased waste generation
+KPM #12                                   MATERIALS MANAGEMENT - Waste recovery
+                                          Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                       actual     target
+
+  Report Year                                                                     2019                               2020                                2021                               2022                                2023
+Percent of waste recovered
+Actual                                                                                                                                                   42%                               42.07%                             36.68%
+Target                                                                           51.21%                               52%                                60%                                 50%                                50%
+
+How Are We Doing
+The waste recovery rate is the percentage of material in the municipal waste stream which is recycled or otherwise recovered.  Recycling and other recovery have environmental benefits when it
+prevents the extraction and processing of virgin material, though individual material differ greatly in these benefits.  Oregon Revised Statutes 459A.010 sets goals that by 2020, the recovery rate of
+material from general solid waste shall be at least 52 percent, and by 2025, it shall be at least 55 percent.  As discussed below though, recovery rates are much lower now than they were in 2015
+when the new statewide recovery goals were adopted.
+
+It takes a year or longer for DEQ to take the data submitted by recyclers, resolve difference in what different recycler report collecting and sending off to other recyclers, and calculate the recovery rate
+for a year, so results for calendar year 2022 are not yet complete.   The recovery rate of 37.68% reported here is for calendar year 2021.
+
+Factors Affecting Results
+As was the case for waste generation, the large decrease in the recovery rate in calendar year 2021 was mainly due to  the large increase in fire cleanup debris in 2021 as compared to previous
+years.  Had that fire cleanup debris not been generated, the statewide recovery rate would have been above 40% instead of 37.68%.  However, this is still a decrease in the recovery rate, contrary to
+the goal of increasing the recovery of material.  The covid epidemic may have had some impact on recovery rates, but that impact should not have been as large in 2021 as compared to 2020.
+Recovery tonnage actually increased in 2020, but fell slightly in 2021.
+KPM #13    CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise,
+           availability of information.
+           Data Collection Period: Jan 01 - Jan 01
+
+                                                               actual    target
+
+ Report Year                                                             2019                            2020                           2021                            2022                           2023
+a. Expertise
+Actual                                                                                                   79%                                                            70%
+Target                                                                    90%                            95%                             95%                            95%                             95%
+b. Availability of Information
+Actual                                                                                                   68%                                                            57%
+Target                                                                    90%                            95%                             95%                            95%                             95%
+c. Helpfulness
+Actual                                                                                                   79%                                                            72%
+Target                                                                    90%                            95%                             95%                            95%                             95%
+d. Accuracy
+Actual                                                                                                   74%                                                            67%
+Target                                                                    90%                            95%                             95%                            95%                             95%
+e. Timeliness
+Actual                                                                                                   69%                                                            63%
+Target                                                                    90%                            95%                             95%                            95%                             95%
+f. Overall
+Actual                                                                                                   73%                                                            68%
+Target                                                                    90%                            95%                             95%                            95%                             95%
+
+How Are We Doing
+DEQ surveys a variety of entities on customer satisfaction, biennially in even-numbered years. This measure is next due to be updated in 2024.
+
+Factors Affecting Results
+DEQ surveys a variety of entities on customer satisfaction, biennially in even-numbered years. This measure is next due to be updated in 2024.
+KPM #14          ERT - Percent of local participants who rank DEQ involvement in Economic Revitalization Team process as good to excellent.
+                 Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = negative result
+
+                                                                    actual     target
+
+  Report Year                                                                 2019                              2020                              2021                              2022                             2023
+Percent of local participants who rank DEQ involvement in Economic Revitalization Team process as good to excellent
+Actual                                                                                                           89%                                                                78%
+Target                                                                         80%                               80%                              90%                               90%                               90%
+
+How Are We Doing
+The Regional Solutions Team (RST) conducts a biennial survey to measure, in even-numbered years, customer satisfaction with RST services. This measure is due to be reported on in 2024.
+
+Factors Affecting Results
+The Regional Solutions Team (RST) conducts a biennial survey to measure, in even-numbered years, customer satisfaction with RST services. This measure is due to be reported on in 2024.
+KPM #15            BOARDS AND COMMISSIONS - Percent of total best practices met by the Environmental Quality Commission.
+                   Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                    actual    target
+
+  Report Year                                                                 2019                              2020                             2021                              2022                              2023
+Percent of total best practices met by the Environmental Quality Commission
+Actual                                                                         96%                              92%                                                                 87%
+Target                                                                        100%                              100%                             100%                              100%                              100%
+
+How Are We Doing
+DEQ is in the process of surveying it's commission. Results will be available, and uploaded into the KPM systems, by the end of calendar year 2023.
+
+Factors Affecting Results
+DEQ is in the process of surveying it's commission. Results will be available, and uploaded into the KPM systems, by the end of calendar year 2023.

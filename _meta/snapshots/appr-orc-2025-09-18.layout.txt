@@ -1,0 +1,259 @@
+Oregon Racing Commission
+         Annual Performance Progress Report
+
+                Reporting Year 2025
+
+           Published: 9/18/2025 1:24:44 PM
+ KPM #        Approved Key Performance Measures (KPMs)
+
+1            Animal Safety - This measure tracks the number of horse fatalities in regulated races. The Legislature's target is no more than 1 fatality per 1,000 starters. A lower percentage indicates that actual fatalities exceeded the target.
+2            Horse welfare - This measure tracks the percentage of equine drug tests that exceed approved thresholds for controlled substances, with a goal of no more than 1 positive result per 250 tests. Performance is reported as a percentage of the target met,
+             where 100% means the threshold was not exceeded. A lower percentage indicates that the rate of positive tests was higher than the targeted 1 positive in 250 tests.
+3            Equine safety - Injuries - This measure tracks the number of horses that sustain injuries during regulated races, expressed per 1,000 starts. The Legislature's target is no more than 3 injuries per 1,000 starts. Performance is reported as a percentage of
+             the target met, with 100% indicating the injury rate was at or below the target. A lower percentage means the number of injuries exceeded the target.
+4            License Turnaround Time - This measure tracks the average number of workdays from receipt of a complete individual application and questionnaire to the completion of the criminal background check. Oregon's target is a 5-day turnaround.
+             Performance is reported as a percentage of the target met, with 100% indicating the process was completed within the 5-day goal. A lower percentage means the turnaround time exceeded the 5-day target.
+5            Best Practices - Percent of total best practices met by the Board.
+6            Excellent Customer Service - Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+
+                                                                                                                                                               red
+                                                                                                                                                               green
+                                                                                                                                                               yellow
+
+ Performance Summary                                                                                                                                                 Green                                                        Yellow                                                           Red
+
+                                                                                                                                                               = Target to -5%                                            = Target -5% to -15%                                              = Target > -15%
+Summary Stats:                                                                                                                                                      66.67%                                                        16.67%                                                         16.67%
+KPM #1     Animal Safety - This measure tracks the number of horse fatalities in regulated races. The Legislature's target is no more than 1 fatality per 1,000 starters. A lower percentage indicates that
+           actual fatalities exceeded the target.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                  2021                               2022                              2023                              2024                               2025
+ORC KPM #1
+Actual                                                                        86.70%                              73%                                58%                             41.60%                            40.90%
+Target                                                                         100%                              100%                               100%                              100%                              100%
+
+How Are We Doing
+The Oregon Racing Commission obtained 40.9% of the goal.
+
+Teh prior year was based on a goal of 1.5 per 1000.  If that same metric was used, our results would have been 69%.
+
+The goal is no more than 1 catastrophic fatality per 1,000 starts.
+That means the acceptable rate is:
+
+That means the goal is 1:1000 or .001 fatalities per start. This is lower than bith the natiuonal rate as well as the rate obtained through the Horse Racing Integrity adn Safety regulated tracks.
+2. Calculate the actual rate
+
+ORC 4 fatalities out of 1,637 starts:
+
+Actual rate=4/1637≈0.002445 fatalities
+3. Express as per 1,000 starts
+
+0.002445×1000≈2.445 fatalities per 1000 starts0.002445 \ times 1000 \ approx 2.445 \ quad \ text {fatalities per 1000 starts} 0.002445×1000≈2.445 fatalities per 1000 starts
+
+So instead of 1 per 1,000, the result is about 2.45 per 1,000 or 40.9% of goal.
+
+Factors Affecting Results
+1. Changes to KPM
+
+       The KPM in prior years was 1.5 fatalities per 1000 starts.  This year it was changed to 1 fatality per 1000.  This changed our overall percentage form 69% of goal to 40.9 percent of goal.
+2. Change to Senior Veterinarian
+
+       Three of these fatalities were under the previous Senior Veterinarian which was presiding for the first half of the fiscal year.
+       Only one fatality occured since the departure of that individual.
+3. Sample Size (Number of Starts)
+
+       With a relatively small number of starts (like 1,637), each fatality has a larger statistical impact.
+       If you had many more starts, the rate would “smooth out,” but with fewer, one or two additional cases can shift the percentage dramatically.
+          Horse welfare - This measure tracks the percentage of equine drug tests that exceed approved thresholds for controlled substances, with a goal of no more than 1 positive result per 250
+KPM #2    tests. Performance is reported as a percentage of the target met, where 100% means the threshold was not exceeded. A lower percentage indicates that the rate of positive tests was higher
+          than the targeted 1 positive in 250 tests.
+          Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Report Year                                                                 2021                              2022                              2023                             2024                              2025
+Track any known illegal horse racing wagering in Oregon
+Actual                                                                                                                                                                                                               100%
+Target                                                                                                                                                                                                               100%
+
+How Are We Doing
+1. Define the goal rate
+
+ No more than 1 positive per 250 tests.
+
+Goal = 1 positive per 250 tests
+
+1/250 = .004 positives per test (0.4%)
+2. Actual rate
+
+With 0 positives out of 316 tests:
+=100% of goal
+
+Factors Affecting Results
+Several factors contributed to the change in positive test rates:
+
+    1.  Expanded testing scope: We are now testing more horses and for more substances.
+    2.  Dual sample collection: In the second half of the fiscal year, we began collecting both blood and urine samples, rather than one or the other.
+    3.  Extended holding times: Also beginning in the second half of the fiscal year, horses were held for up to 60 minutes, which significantly increased the number of samples collected. Previously,
+        they were held for 30 minutes.  This increase in holding time allowed for greater collection of urine samples.
+    4.  Laboratory changes: After our previous lab lost its accreditation, we transitioned to a new laboratory for testing.
+    5.  Veterinary staff retraining: We implemented extensive retraining for veterinary staff to reinforce best practices in sample collection.
+
+          Equine safety - Injuries - This measure tracks the number of horses that sustain injuries during regulated races, expressed per 1,000 starts. The Legislature's target is no more than 3 injuries
+KPM #3    per 1,000 starts. Performance is reported as a percentage of the target met, with 100% indicating the injury rate was at or below the target. A lower percentage means the number of injuries
+          exceeded the target.
+          Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                              actual    target
+
+  Report Year                                                                2021                             2022                             2023                             2024                             2025
+Track known animal abuse for racing animal athletes that are currently racing in Oregon.
+Actual                                                                                                                                                                                                           163%
+Target                                                                                                                                                                                                           100%
+
+How Are We Doing
+1. Define the goal
+
+Goal = no more than 3 injuries per 1000 starts.
+2. Actual rate
+
+ORC had 3 injuries out of 1,637 starts:
+3. Convert to “per 1000 starts”
+The ORC result is 1.83 per 1,000 which is 163.9 percent of goal.
+
+Factors Affecting Results
+Factors Influencing Injury Results
+
+   1.  Expanded staffing in the test barn
+               The hiring of additional staff allowed for more professional oversight of horses leaving the track after a race.
+               This increased the ability to detect and respond quickly to potential injuries, ensuring early intervention and reporting accuracy.
+   2.  Enhanced veterinary oversight
+               Commission veterinarians and stewards conducted more thorough pre-race and post-race examinations.
+               Standardized injury reporting protocols helped capture even minor incidents that might otherwise have been overlooked.
+   3.  Improved track surface management
+               Regular maintenance, inspection, and conditioning of the racing surface reduced uneven footing and minimized risks of musculoskeletal injury.
+               Adjustments based on weather conditions (watering, harrowing, etc.) also contributed to safer racing conditions.
+   4.  Horse welfare initiatives
+               Stricter screening of entries helped ensure only sound horses were allowed to race.
+               Enhanced monitoring of rest periods, training intensity, and use of therapeutic medications likely contributed to healthier horses on race day.
+   5.  Regulatory and procedural improvements
+               Adoption of extended monitoring and sample collection protocols increased the ability to identify risk factors and trends.
+               Shifting to accredited labs and retraining veterinary staff reinforced the integrity of the testing and monitoring program.
+   6.  Jockey and trainer awareness
+               Safety outreach and education for horsemen may have helped promote better decision-making regarding training regimens, racing strategies, and recognizing signs of horse fatigue or
+               unsoundness.
+           License Turnaround Time - This measure tracks the average number of workdays from receipt of a complete individual application and questionnaire to the completion of the criminal
+KPM #4     background check. Oregon's target is a 5-day turnaround. Performance is reported as a percentage of the target met, with 100% indicating the process was completed within the 5-day goal.
+           A lower percentage means the turnaround time exceeded the 5-day target.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2021                               2022                              2023                               2024                               2025
+ORC KPM #2
+Actual                                                                            98                                 99                                100                                 95                                100
+Target                                                                            100                                100                               100                                100                                100
+
+How Are We Doing
+The licensing department achieved this goal.
+
+Factors Affecting Results
+Statement on Licensing Performance
+
+The Oregon Racing Commission measures licensing performance by tracking the average number of workdays from receipt of a complete application and questionnaire to the completion of the
+criminal background check. The state’s target is a 5-day turnaround, with 100% representing applications completed within that timeframe.
+
+During the reporting period,  365 licenses were processed. Applications submitted in person were typically completed on the spot, ensuring immediate turnaround. For mailed applications, the
+licensing mailbox was checked three times a week, and upon retrieval, all applications were processed within 48 hours.
+
+Based on these procedures, the Commission is consistently meeting — and in most cases exceeding — the 5-day target. Same-day processing for in-person applications ensures a near-perfect
+turnaround, while mailed applications are handled promptly within two business days of receipt from the mailbox. These practices demonstrate strong operational efficiency and reflect a high level of
+performance in meeting the state’s licensing goal.
+This has been particullarly challenging especially on the off season when we have fewer staff.
+
+We are currently in the process of obtaining a new databse which will allow online applications which initially will require training, but once fully implemented will greatly reduce the time that lapses
+when applicants are mailed in.
+
+Additionally, the new database will allow for instant reporting on the exact time that licensing occurs giving us more accurate real time informaiton.
+KPM #5                      Best Practices - Percent of total best practices met by the Board.
+                            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                   2021                               2022                               2023                               2024                               2025
+ORC KPM #4
+Actual                                                                           98%                                89%                               100%                               93%                              93.75%
+Target                                                                          100%                               100%                               100%                               100%                              100%
+
+How Are We Doing
+Overall, the commisison gave themselves excellent scores.
+
+Factors Affecting Results
+During the most recent performance review, one commissioner—who is newly appointed—had not yet participated in the budget process. As a result, he was required to select “No” in response to
+questions regarding budget review, familiarity with our adherence to accounting rules, and the periodic review of financial information. These responses caused the Commission’s overall score to drop
+from 100% to 93.75%.
+
+Additionally, the Commission is currently operating with one vacant seat, which further affects the weighted impact of the new commissioner’s scoring. It is also important to note that our Commission
+contracts with the Department of Administrative Services (DAS) for fiscal services, meaning we are reliant on DAS to carry out and undergo audits of their processes.
+KPM #6    Excellent Customer Service - Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall, timeliness, accuracy, helpfulness, expertise,
+          availability of information.
+          Data Collection Period: Jul 01 - Jun 30
+
+                                                                         actual    target
+
+ Report Year                                                            2021                           2022                           2023                            2024                           2025
+a. Timeliness
+Actual                                                                   0%                             0%                            100%                            94%                            92%
+Target                                                                   80%                            80%                            80%                            80%                            80%
+b. Accuracy
+Actual                                                                   0%                             0%                             95%                            92%                           90.60%
+Target                                                                   80%                            80%                            80%                            80%                            80%
+c. Overall
+Actual                                                                   0%                             0%                             95%                            85%                            92%
+Target                                                                   80%                            80%                            80%                            80%                            80%
+d. Expertise
+Actual                                                                   0%                             0%                             95%                            80%                           85.40%
+Target                                                                   80%                            80%                            80%                            80%                            80%
+e. Helpfulness
+Actual                                                                   0%                             0%                            100%                            89%                           91.80%
+Target                                                                   80%                            80%                            80%                            80%                            80%
+f. Availability of Information
+Actual                                                                   0%                             0%                             85%                            87%                            83%
+Target                                                                   80%                            80%                            80%                            80%                            80%
+
+How Are We Doing
+Overall, the Racing Commission is doing very well.  Ratings are generally strong.
+
+Factors Affecting Results
+Survey Response Findings
+
+One limitation of the 2025 stakeholder survey is that no jockeys completed the survey. Jockey perspectives are a critical part of the racing ecosystem, and their absence creates a meaningful gap in
+the data. Moving forward, the Commission will make direct, personal outreach to the jockey population a priority to ensure their feedback is represented in future evaluations.
+
+Despite this gap, the survey yielded broad participation across multiple stakeholder groups, including ORC staff, commissioners, advanced deposit wagering companies, track staff, owners,
+trainers, and other government agencies. Most responses reflected exceptionally positive ratings (frequently 5 of 5), citing the Commission’s responsiveness, professionalism, and inclusiveness.
+Several comments specifically highlighted the extraordinary customer service provided by ORC staff, the success of the ROAP Accreditation Program School, and the Commission’s strong
+collaboration with industry partners.
+
+A few outlier responses provided constructive feedback, pointing to areas such as:
+       Technology and communication improvements (e.g., quicker replies on Teams, website organization, and more license information available online).
+       Policy-related concerns (e.g., wagering access and handling of cancellations due to weather).
+       Resource and funding constraints (several respondents noted the need for stronger state-level financial support for racing).
+Additionally, some responses included extremely low scores (as low as 1 of 5) accompanied by comments that appeared to reflect individual grievances rather than broad trends. These isolated
+responses contrast with the overwhelming majority of favorable feedback.
+
+  Summary: The overall data indicates high satisfaction and confidence in the Commission, but also reveals gaps in participation (notably jockeys), opportunities for enhanced communication
+and transparency tools, and the need to remain responsive to both praise and constructive critique.

@@ -185,6 +185,38 @@ def pdftotext_pages(pdf_path: Path) -> list[str] | None:
     return r.stdout.decode("utf-8", "replace").split("\f")
 
 
+def write_layout(pdf_path: Path, rid: str) -> int:
+    """Write `<rid>.layout.txt`: the same text, with COLUMN POSITIONS PRESERVED.
+
+    Stage 3 needs this and cannot get it any other way. pypdf's default reading-order
+    extraction emits NOTHING for a blank table cell, so a five-year row with two blanks
+    yields three values and no indication of which years they belong to. 3,300 measure runs
+    fail the length gate for exactly that reason -- roughly 30% of the potential series, and
+    55-58% in RY2022 and RY2024.
+
+    NO FILL HEURISTIC CAN RECOVER THEM. Measured over 60 documents: 406 runs are missing
+    trailing years, but 195 are missing the first FOUR, 181 the first two, and 52 alternate
+    (0,2,4) -- the signature of a biennially-run survey. Filling forward or backward would
+    silently attach real numbers to the wrong years in a large minority of cases, which reads
+    as data rather than as an error. With x-positions the assignment is deterministic:
+    1,743 of 1,748 partial runs resolved, 99.7%.
+
+    WHY THIS IS COMMITTED RATHER THAN DERIVED AT STAGE 3. `snapshot_policy: hash-only` keeps
+    the PDFs out of the repository, so CI has no PDF to re-extract from -- `build_series.py
+    --check` runs against a checkout. The positional text has to be an artifact, not a
+    computation.
+
+    It is NOT the document body. `<rid>.txt` stays the reading-order extraction, because that
+    is what `## Full text` serves and what a reader and the FTS index want; this file is
+    padded to preserve geometry and is a parsing input only.
+    """
+    pages = [p.extract_text(extraction_mode="layout") or ""
+             for p in PdfReader(str(pdf_path)).pages]
+    text = re.sub(r"\n{3,}", "\n\n", "\n".join(pages)).strip()
+    (SNAPSHOTS / f"{rid}.layout.txt").write_text(text, encoding="utf-8")
+    return len(text)
+
+
 def ocr_pdf(src_pdf: Path, dest_pdf: Path, force_rotate: bool) -> bool:
     """Write an OCR'd COPY beside the original. Returns False if OCR is unavailable.
 
@@ -498,6 +530,9 @@ def main() -> int:
                        if a not in flat and re.sub(r"\s+", "", a) not in nospace]
 
             (SNAPSHOTS / f"{rid}.txt").write_text(text, encoding="utf-8")
+            # From the OCR'd copy where there was no text layer -- the original has no text
+            # to lay out, and Stage 3 must read the same document the body came from.
+            write_layout(SNAPSHOTS / f"{rid}.ocr.pdf" if text_source == "ocr" else pdf, rid)
             sha = hash_snapshot(rid, "pdf", SNAPSHOTS)
             (OUT_DIR / f"{rid}.md").write_text(
                 build_document(src, text, sha, year, agency, agency_source, missing,

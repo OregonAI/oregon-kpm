@@ -1,0 +1,390 @@
+Department of Corrections
+        Annual Performance Progress Report
+
+                Reporting Year 2025
+
+          Published: 10/1/2025 4:01:51 PM
+ KPM #        Approved Key Performance Measures (KPMs)
+
+1            Measure 17 compliance - Percentage of Adults in Custody (AIC) in compliance with 40-hour work/education requirements of the constitution (M17)
+3            Recidivism - Percent of offenders: 1. Arrested for a new crime within 3 years of release from a facility to parole/post-prison supervision; 2. Convicted of a new misdemeanor or felony within 3 years of release from a facility to parole/post-prison
+             supervision; AND 3. Incarcerated for a new felony within 3 years of release from a facility to parole/post-prison supervision
+4            Staff Assaults - The number of Class 1 assaults on individual staff per year.
+5            Walk-a-Ways - The number of Adult in Custody (AIC) walk-a-ways from outside work crews per year.
+6            Reduce all Energy Usage - Reduce the annual average electricity, propane, geothermal, diesel and natural gas usage. Measure on a monthly kBtu/square foot basis.
+7            Adult in Custody (AIC) Misconducts - The number of Adults in Custody (AIC) sanctioned for level 1 misconducts, including Violations Not Responsible (VNR)
+8            Secure Custody Escapes - The number of escapes per year from secure-custody facilities (armed perimeter).
+9            Unarmed Perimeter Escapes - The number of escapes from DOC unarmed perimeter facilities.
+10           Leave Programs - The percentage of Adults in Custody (AIC) who complete transitional leave and non-prison leave (AIP)
+11           Customer Service - Percent of customers rating their satisfaction with the agency customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+12           Offsite Medical Healthcare - Percent of total Adult in Custody (AIC) healthcare encounters that occur offsite.
+13           OSHA Recordable Rate - Average number of OSHA recordable injuries per 100 employees who work a whole year.
+14           Criminal Assaults - Number of employees charged with or convicted of assault under ORS Chapter 163
+15           Use of Force - Number of incidents of excessive use of force
+16           Adult in Custody (AIC) and Adult on Supervision (AOS) case plans - Percentage of AICs and AOS meeting the needs identifed within their case plans
+
+                                                                                                                                                            red
+                                                                                                                                                            green
+                                                                                                                                                            yellow
+
+ Performance Summary                                                                                                                                              Green                                                        Yellow                                                         Red
+
+                                                                                                                                                             = Target to -5%                                          = Target -5% to -15%                                             = Target > -15%
+Summary Stats:                                                                                                                                                    58.33%                                                       8.33%                                                         33.33%
+KPM #1        Measure 17 compliance - Percentage of Adults in Custody (AIC) in compliance with 40-hour work/education requirements of the constitution (M17)
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2021                               2022                                2023                               2024                                2025
+Compliance with M17
+Actual                                                                           70.16%                               71%                                71%                                 69%                                69%
+Target                                                                             80%                                80%                                85%                                 80%                                80%
+
+How Are We Doing
+The Department did not meet the 80% compliance target for the 2024–2025 reporting period. The percentage of Ballot Measure 17-compliant Adults in Custody (AICs) remained at 69%, consistent
+with the previous year. While this indicates stability, it also highlights persistent challenges in achieving the constitutional 40-hour work/education requirement. A majority of AICs continue to engage in
+meaningful work or educational activities, but systemic and operational constraints remain barriers to full compliance.
+
+Factors Affecting Results
+Custody and Classification Constraints: Only AICs classified as minimum custody and meeting strict public safety criteria are eligible for outside work crews, limiting the pool of participants. Program
+Prioritization and Scheduling Conflicts: Education and treatment programs, especially for substance use, take precedence over work assignments. Limited provider availability often leads to
+scheduling conflicts. Stable Population, Shifting Exemptions: While the overall AIC population remained stable, a slight increase in exempt individuals and a marginal decrease in compliant AICs
+affected the compliance rate. Resource Limitations: Funding constraints continue to restrict the expansion of work programs and staff support, particularly for outside work crews. Restrictions on
+certain populations (e.g., sex offenders) further reduce eligible participants. OCE Program Participation: Oregon Corrections Enterprises (OCE) continues to provide critical work opportunities. Over
+2,300 AICs completed more than 120 hours of OCE training, with approximately 1,400 participating at any given time. However, institutional transfers and limited job availability in minimum institutions
+hinder broader participation.
+
+The Department remains committed to improving compliance with Measure 17 through strategic and operational initiatives: Workforce Development: We are aligning programming with projected job
+market trends to better prepare AICs for post-release employment. Community Engagement: Staff are expanding partnerships with local agencies to create more host agency crews and community-
+based work opportunities. Root Cause Analysis: Institutional teams are actively identifying barriers to compliance and recommending targeted improvements. OCE Expansion: OCE is growing its
+Business Strategy Team and Advisory Council to address labor shortages and expand fair chance employment partnerships. The Reentry and Pre-Release Hiring Program continues to show promise,
+with 29 AICs receiving job offers prior to release in its first year. Future Focus: We aim to increase the number of qualifying work assignments and reentry partnerships to improve compliance and
+support successful reintegration.
+
+KPM #3     Recidivism - Percent of offenders: 1. Arrested for a new crime within 3 years of release from a facility to parole/post-prison supervision; 2. Convicted of a new misdemeanor or felony within 3
+           years of release from a facility to parole/post-prison supervision; AND 3. Incarcerated for a new felony within 3 years of release from a facility to parole/post-prison supervision
+           Data Collection Period: Jul 01 - Jun 30
+
+                                                                                  actual     target
+
+  Report Year                                                                    2021                               2022                               2023                               2024                               2025
+1. Arrests for a new crime within 3 years of release
+Actual                                                                          59.50%                             55.70%                             55.50%                             45.30%                             46.30%
+Target                                                                            40%                               40%                                40%                                 40%                                40%
+2. Convicted of a new misdemeanor or felony within 3 years of release
+Actual                                                                          44.60%                             41.50%                             41.50%                             34.50%                             34.30%
+Target                                                                            30%                               30%                                30%                                 30%                                30%
+3. Incarcerated for a new felony within 3 years of release
+Actual                                                                          18.30%                             14.80%                             14.80%                             13.80%                             13.40%
+Target                                                                            10%                               10%                                10%                                 10%                                10%
+
+How Are We Doing
+After several years of steady decline, this period shows a small increase in arrests, though conviction and incarceration rates continue to fall. The supervision cohorts reviewed here were the first since
+the COVID-19 recovery and the rollout of BM110—two major shifts that likely influenced the system. These changes may have led to higher arrests as processes adjusted, while lower conviction and
+incarceration rates can be partly explained by courts struggling to keep pace and by the ongoing defense crisis, which continues to slow case resolution today. Because so many factors affect re-
+arrest, conviction, and incarceration, it’s difficult to point to just one reason for the shifts in this years supervision cohorts.
+
+Factors Affecting Results
+The Department and county community corrections agencies put considerable effort into assessing AICs and developing a comprehensive corrections plan that will address identified risks and needs.
+This includes use of the Level of Service/Case Management Inventory (LS/CMI), a measure of risk and need factors, as well as a fully functional case management tool.   Additionally, the department
+and county community corrections agencies utilize the Women’s Risk Need Assessment (WRNA) tool which targets identification of risks and needs correlated with the female population.  Ongoing
+system improvements have been made to better target in-prison interventions and to conduct more careful and coordinated release planning. In addition, community corrections agencies statewide
+continue to work collaboratively with the department to enhance the effective and efficient transition of AICs from prison to our communities. Such efforts are centered on a commitment to implement
+and enhance evidence-based practices throughout Oregon’s criminal justice system.
+
+The department continues to target interventions and resources on those at highest risk to commit new crimes as well as focus on the preparation and transition of AICs back into the community with
+the goal of reducing future criminal behavior. However, it is recognized that in addition to our efforts, there are many factors impacting recidivism, to include individual local county practices.
+KPM #4                   Staff Assaults - The number of Class 1 assaults on individual staff per year.
+                         Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                    actual     target
+
+  Report Year                                                                     2021                                2022                                2023                               2024                                2025
+Staff Assaults
+Actual                                                                             114                                  61                                 115                                125                                 141
+Target                                                                              80                                  80                                 80                                  80                                  80
+
+How Are We Doing
+We are over target by 61 Class 1 staff assaults.
+
+Factors Affecting Results
+Many Class 1 staff assaults continue to occur within our special housing units across the state and are primarily committed by the highest-risk adults in custody (AICs), many of whom are responsible
+for multiple assaults during the current reporting period. In reactive use of force incidents, it is not uncommon for multiple staff members to be assaulted during a single event. Additionally, the AIC
+population is shifting, with an increasing number presenting higher mental health needs which may be associated with an increase of Class 1 staff assaults.
+KPM #5             Walk-a-Ways - The number of Adult in Custody (AIC) walk-a-ways from outside work crews per year.
+                   Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2021                               2022                              2023                               2024                               2025
+Walk-a-Ways
+Actual                                                                             2                                  5                                  4                                  1                                  3
+Target                                                                             0                                  0                                  0                                  0                                  0
+
+How Are We Doing
+We had 3 walk-a-ways from outside work crews during this reporting period, which is 3 over target.
+
+Factors Affecting Results
+DOC continues to provide outside work crew and work release opportunities to adults in custody who meet established screening criteria, including assessment through our classification tool.
+Following each escape event, a thorough review is conducted, and in each case, no indicators were found that could have predicted the incident.
+KPM #6      Reduce all Energy Usage - Reduce the annual average electricity, propane, geothermal, diesel and natural gas usage. Measure on a monthly kBtu/square foot basis.
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                               actual     target
+
+  Report Year                                                                 2021                             2022                              2023                              2024                             2025
+Reduce all Energy Usage
+Actual                                                                       146.72                            116.98                           136.37                            141.70
+Target                                                                       141.39                            141.39                           134.66                            134.66                            134.66
+
+How Are We Doing
+Factors Affecting Results
+KPM #7       Adult in Custody (AIC) Misconducts - The number of Adults in Custody (AIC) sanctioned for level 1 misconducts, including Violations Not Responsible (VNR)
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                   actual     target
+
+  Report Year                                                                    2021                                2022                               2023                               2024                               2025
+Adult in Custody (AIC) Misconducts
+Actual                                                                            803                                 699                                799                                963                               1,081
+Target                                                                           1,300                              1,300                               1,300                              1,300                              1,300
+
+How Are We Doing
+We are under the target of 1,300 by 219 Level I misconducts.
+
+Factors Affecting Results
+In the current reporting period, 74% of adults in custody (AICs) sanctioned for Level 1 misconducts are housed in one of our six medium-custody institutions. These facilities primarily house higher-risk
+individuals serving longer sentences. DOC has prioritized training of resource teams, activity teams, and contact mentor teams while delivering evidence-based programming tailored to the needs of
+high-risk AICs in our special housing units to assist in reduction of Level I misconducts.
+KPM #8            Secure Custody Escapes - The number of escapes per year from secure-custody facilities (armed perimeter).
+                  Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2021                               2022                              2023                               2024                              2025
+Annual escapes from secure-custody facilities
+Actual                                                                             0                                 0                                  0                                 0                                  0
+Target                                                                             0                                 0                                  0                                 0                                  0
+
+How Are We Doing
+We met our target of 0 escapes from secure custody facilities.
+
+Factors Affecting Results
+To achieve the DOC’s goal of zero escapes from secure perimeter facilities statewide, we prioritize maintaining perimeter security equipment and checks while implementing updated security
+practices.
+
+KPM #9              Unarmed Perimeter Escapes - The number of escapes from DOC unarmed perimeter facilities.
+                    Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2021                               2022                               2023                               2024                               2025
+The number of escapes from DOC unarmed perimeter facilities
+Actual                                                                              0                                  0                                  0                                  0                                  0
+Target                                                                              0                                  0                                  0                                  0                                  0
+
+How Are We Doing
+We met the target of 0 escapes from DOC unarmed perimeter facilities.
+
+Factors Affecting Results
+DOC continues to utilize its classification tool to assess escape risk at Intake and throughout an AIC’s incarceration, ensuring appropriate facility placement. Additionally, security audits are regularly
+conducted at all facilities to identify and address potential escape risks.
+
+KPM #10          Leave Programs - The percentage of Adults in Custody (AIC) who complete transitional leave and non-prison leave (AIP)
+                 Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                            actual     target
+
+ Report Year                                                               2021                             2022                            2023                             2024                            2025
+Leave Programs
+Actual                                                                    87.80%                          86.63%                           91.60%                          84.08%                           84.36%
+Target                                                                      85%                             85%                              85%                             85%                              80%
+
+How Are We Doing
+                                                  This KPM reflects the performance of two varieties of DOC transitional leave programs: Non-Prison Leave associated
+                                                  with the Alternative Incarceration Program (AIP), and Short-Term Transitional Leave (STTL).
+
+                                                  The Oregon Department of Corrections offers AIP to inmates who have been sentenced by a judge as eligible for AIP,
+                                                  and who apply to participate and meet other statutory and department policy requirements to participate. The
+                                                  programs are based on intensive interventions targeted at criminogenic risks, rigorous personal responsibility and
+                                                  accountability, physical labor, and service to the community. Additionally, AIP consists of an institutional phase for a
+                                                  minimum of 180 days, followed by a period of non-prison leave of up to 90 days, for a total minimum program length
+                                                  of 270 days.   During the institutional phase, these programs provide 14 hours of structured and regimented routine
+                                                  every day for a minimum of 180 days. Adults in Custody (AIC) who are eligible to participate in AIP are screened
+                                                  through the multidisciplinary Treatment Assignment Screening Committee to determine the most appropriate program
+                                                  to meet the AICs’ needs.
+
+                                                  The Department also offers STTL of up to 120 days to AICs who are not enrolled in an Alternative Incarceration
+                                                  Program. As with AIP Non-Prison Leave, AICs must meet the statutory and department policy requirements to be
+                                                  approved for Short-Term Transitional Leave.
+
+                                                  Regardless of whether Non-Prison Leave or Short-Term Transitional Leave, participants are closely monitored for
+                                                  compliance with their transition plans while in the community. The higher the percentage of successful completions,
+                                                  the greater the success.
+
+                                                  For the 2024-2025 reporting period, the transitional leave completion rate for STTL remained consistent (82.5%) when
+                                                  compared with the 2023-2024 reporting period (82.5%). The completion rate for AIP Non-Prison Leave during 2024-
+                                                  2025 increased (90.5%) when compared with the completion rate during the 2023-2024 reporting period (89%).
+
+                                                  Short-Term Transitional Leave (STTL) participation decreased during the 2024–2025 reporting period, averaging 93.2
+                                                  individuals per month, down from 103.6 in 2023–2024. This decline is primarily attributed to a continued decrease in
+                                                  prison admissions over the past 3–4 years, along with a shortage of suitable housing options. Additionally, a
+                                                  persistent barrier to expanding participation in AIP transitional leave is the limited availability of treatment program bed
+                                                  space, which serves both AIP and non-AIP populations.
+
+                                                  DOC remains committed to refining internal processes to better identify and support individuals most suited for
+                                                  transitional leave, particularly STTL. Ongoing automation efforts and a continued emphasis on robust, individualized
+                                                  transition planning are central to enhancing reintegration outcomes and ensuring public safety.
+
+Factors Affecting Results
+As noted, overall participation in transitional leave programs has declined, primarily due to reduced prison admissions over the past 3–4 years and a shortage of available housing. While there was a
+slight increase in successful completion rates for AIP during the reporting period, the improvement was marginal and cannot be attributed to a single identifiable factor.
+
+High standards continue to govern the approval process for both Non-Prison Leave and Short-Term Transitional Leave. While statutory eligibility is a prerequisite, AICs must also meet all applicable
+Department policy requirements to be granted leave. This rigorous screening process is a key factor contributing to the consistently high success rates among program participants. When AICs
+complete the in-custody portion of their programs and have access to suitable private or county-approved housing upon release, the core objectives of the transitional leave programs—successful
+reintegration and reduced recidivism—are more effectively achieved.
+KPM #11    Customer Service - Percent of customers rating their satisfaction with the agency customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness,
+           expertise and availability of information.
+           Data Collection Period: Aug 08 - Sep 09
+
+                                                                            actual     target
+
+ Report Year                                                               2021                             2022                            2023                             2024                            2025
+1. Expertise
+Actual                                                                                                     79.11%                                                            78%
+Target                                                                      80%                             80%                                                              80%
+2. Accuracy
+Actual                                                                                                     84.48%                                                            77%
+Target                                                                      80%                             80%                                                              80%
+3. Helpfulness
+Actual                                                                                                     69.63%                                                            61%
+Target                                                                      80%                             80%                                                              80%
+4. Timeliness
+Actual                                                                                                     85.78%                                                            73%
+Target                                                                      80%                             80%                                                              80%
+5. Availability of Information
+Actual                                                                                                     63.88%                                                            57%
+Target                                                                      80%                             80%                                                              80%
+6. Overall
+Actual                                                                                                     75.54%                                                            65%
+Target                                                                      80%                             80%                                                              80%
+
+How Are We Doing
+This is only reported on even numbered years.
+
+Factors Affecting Results
+KPM #12             Offsite Medical Healthcare - Percent of total Adult in Custody (AIC) healthcare encounters that occur offsite.
+                    Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                  actual     target
+
+  Report Year                                                                   2021                               2022                               2023                               2024                              2025
+Percent of Total Inmate Offsite Encouters
+Actual                                                                          1.39%                              1.15%                             0.83%                              0.60%                              0.57%
+Target                                                                            1%                                1%                                 1%                                 1%                                 1%
+
+How Are We Doing
+Access to Onsite patient care continues to increase as we fill vacancies, expand programs, and bring on contracted staff.
+
+Factors Affecting Results
+Offsite Authorizations increased only slightly but our Onsite encounters increased by 10% from FY24. Health Services continues to review the processes for coordination of offsite care and expects to
+see an increase in those services as systems are refined and backlogs of appointments are addressed.
+KPM #13            OSHA Recordable Rate - Average number of OSHA recordable injuries per 100 employees who work a whole year.
+                   Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                actual    target
+
+  Report Year                                                                 2021                              2022                              2023                              2024                              2025
+OSHA Recordable Rate
+Actual                                                                         2.80                              3.40                              4.60                              3.40                              4.24
+Target                                                                         6.50                              6.50                              6.50                              6.50                              6.50
+
+How Are We Doing
+ Claims are down with the top category being sprains/strains, contusions, blood exposures.
+
+Factors Affecting Results
+Majority of injuries occur as result of planned or reactive uses of force with AICs.
+
+OSHA Recordable Rate Formula: Number of Recordables (99) x 200,000 / Number of Employees (4668)
+KPM #14              Criminal Assaults - Number of employees charged with or convicted of assault under ORS Chapter 163
+                     Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2021                               2022                               2023                                2024                               2025
+Criminal Assaults
+Actual
+Target
+
+How Are We Doing
+Factors Affecting Results
+       Law enforcement agencies have no legal obligation to report employee arrests or charges to DOC
+       While it is probable that most agencies would inform DOC of charges against our employees, there is no formal process or requirement to do so
+       Communication occurs on an ad hoc basis, creating potential gaps in information
+Similarly, courts do not bear any responsibility to notify DOC when employees are charged with or convicted of criminal offenses, including assault. Without proactive monitoring or a formal notification
+system, DOC may not become aware of all relevant cases.
+
+For employees certified by the Department of Public Safety Standards and Training (DPSST), we explored whether DPSST might maintain relevant records. However, upon contacting DPSST, we
+learned that they also do not have a systematic method of tracking charges or convictions for assault offenses among certified staff.
+
+At present, there is no reliable source of data that would allow DOC to accurately respond to this request. Providing incomplete or potentially inaccurate information would be misleading. Developing a
+comprehensive tracking system for this type of information would require establishing formal reporting relationships with law enforcement agencies, courts, and other relevant entities—infrastructure
+that does not currently exist.
+
+KPM #15                           Use of Force - Number of incidents of excessive use of force
+                                  Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2021                               2022                               2023                              2024                               2025
+Use of Force
+Actual                                                                                                                                                                                      4                                  2
+Target                                                                                                                                                                                      0                                  0
+
+How Are We Doing
+Every Use of Force is thoroughly reviewed and graded.  Only those Use of Force incidents which are outside of the Use of Force Rule (OAR 291-013) or where an injury has occurred require a Full
+Use of Force review by the Office of Inspector General (OIG).   The overall number of Use of Force incidents requiring an OIG review dropped from 11 in 2023, to 6 in 2024.  Of the 6 reviewed by the
+OIG in 2024, 2 were deemed Excessive Use of Force incidents.
+
+Factors Affecting Results
+The multidisciplinary teams who work on the Full Use of Force reviews has many suggested changes to the rule once it is opened for amendments.
+KPM #16        Adult in Custody (AIC) and Adult on Supervision (AOS) case plans - Percentage of AICs and AOS meeting the needs identifed within their case plans
+               Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2021                              2022                              2023                              2024                              2025
+Adult in Custody (AIC) and Adult on Supervision (AOS) case plans
+Actual
+Target
+
+How Are We Doing
+Factors Affecting Results

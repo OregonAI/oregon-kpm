@@ -1,0 +1,482 @@
+Employment Department
+      Annual Performance Progress Report
+              Reporting Year 2018
+        Published: 9/24/2018 9:26:04 AM
+ KPM #       Approved Key Performance Measures (KPMs)
+1           ENTERED EMPLOYMENT - Percentage of adult program participants w ho are in unsubsidized employment during the second quarter after utilizing Workforce Operations services.
+2           EMPLOYMENT RETENTION - Percentage of adult program participants w ho are in unsubsidized employment during the fourth quarter after exiting the program.
+3           COST PER PLACEMENT - Total cost of Workforce Operations (Business & Employment Services) program divided by the total number of job seekers entered into employment after receiving services.
+4           FIRST PAYMENT TIMELINESS - Percentage of initial Unemployment Insurance payments made w ithin 21 days of eligibility.
+5           NON-MONETARY DETERMINATIONS TIMELINESS - Percentage of claims that are adjudicated w ithin 21 days of issue detection.
+            UNEMPLOYMENT INSURANCE ADMINISTRATIVE COSTS AS A PERCENT OF BENEFITS PAID - Compares dollars paid to unemployed w orkers against the cost of providing those benefits. Specifically, all costs associated w ith Unemployment
+6           Insurance administration, including related Department of Justice and Office of Administrative Hearings costs, less Re-Employment Eligibility Assessments and State Government Service Charges, divided by Total Unemployment Insurance Benefits
+            paid.
+7           UNEMPLOYMENT INSURANCE APPEALS TIMELINESS - Percentage of cases requesting a hearing that are heard or are otherw ise resolved w ithin 30 days of the date of request.
+8           NON-UNEMPLOYMENT INSURANCE APPEALS TIMELINESS - Percentage of orders issued w ithin the standards established by the user agencies.
+9           AVERAGE DAYS TO ISSUE AN ORDER - Average number of days to issue an order follow ing the close of record.
+10          COST PER REFERRAL TO OAH - Average cost of hearing referral to the Office of Administrative Hearings.
+11          HIGHER AUTHORITY APPEALS TIMELINESS - Percentage of cases requesting an appeal that receive a decision w ithin 45 days of the date of request.
+12          TIMELINESS OF NEW STATUS DETERMINATIONS - Percentage of new  status determinations completed w ithin 90 days of the end of the liable quarter.
+13          CUSTOMER SERVICE - Percent of customers rating their satisfaction w ith the agency's customer service as "good" or "excellent," including overall customer service, timeliness, accuracy, helpfulness, expertise, and availability of information.
+14          FOUNDATIONAL SURVEY RESPONSE RATE - Ordinary (non-w eighted) arithmetic mean of four annual response rates: (1) Occupational Employment Statistics employment; (2) Occupational Employment Statistics units; (3) Annual Refiling Survey
+            employment; and (4) Annual Refiling Survey units.
+
+                                                                                                                                                     red
+                                                                                                                                                     green
+                                                                                                                                                     yellow
+
+ Performance Summary                                                                                                                                          Green                                                   Yellow                                                      Red
+
+                                                                                                                                                         = Target to -5%                                      = Target -5% to -15%                                         = Target > -15%
+Summary Stats:                                                                                                                                                57.14%                                                  28.57%                                                    14.29%
+KPM #1     ENTERED EMPLOYMENT - Percentage of adult program participants who are in unsubsidized employment during the second quarter after utilizing Workforce Operations services.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                2014                              2015                              2016                              2017                              2018
+Ente re d Employme nt - Pe rce nt of Job Se e ke rs who got a Job with Ne w Employe r
+Actual                                                                       No Data                           No Data                            No Data                           No Data                             69%
+Target                                                                         TBD                               TBD                                TBD                               TBD                               63%
+
+How Are We Doing
+PERFORMANCE: Under the Workforce Innovation and Opportunity Act (WIOA), the U.S. Department of Labor changed the way the Employment Retention Rate (ERR) is calculated. Because the
+new definition is not comparable to the previous ERR calculations, previous year data are not available.  The EER with the new definition for State Fiscal Year (SFY) 2018 is 69%, which is above the
+target of 63%.
+
+OUR STRATEGY: Improve employment outcomes by providing services, in collaboration with our workforce partners, that are customized to the needs of individual job seekers.
+
+ABOUT THE TARGET: Targets are negotiated directly between the Employment Department and the U.S. Department of Labor.
+
+HOW WE COMPARE: The national EER for the full program year 2017 (July 2017 thru June 2018) is not yet available. The most recent national data for the quarter ending March 31, 2018, is 68%,
+which is comparable to Oregon’s EER for the same period.
+Factors Affecting Results
+Labor market conditions impact this measure. With the state experiencing record low unemployment in 2018, fewer job seekers have sought our services and those that are unemployed generally
+require more staff assistance during each visit. We’ve changed our business processes to provide additional staff assistance for these job seekers.
+
+The Employment Department, along with its partners in WorkSource Oregon, will continue to provide reemployment services to job seekers, focusing on claimants, veterans and other targeted
+populations. The Employment Department recently entered into a partnership with the Department of Human Services to expand services to Supplemental Nutrition Assistance Program (SNAP)
+participants across the state. SNAP participants now include able-bodied adults between the ages of 18-49 who have no dependents. We will continue our current effort to customize business
+services to assist employers in filling job openings with well-qualified Oregonians while supporting the Oregon Workforce and Talent Development Board's strategic plan to focus services toward
+specific industry sectors and targeted populations.
+KPM #2      EMPLOYMENT RETENTION - Percentage of adult program participants who are in unsubsidized employment during the fourth quarter after exiting the program.
+            Data Collection Period: Jan 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Re port Ye ar                                                                2014                             2015                              2016                               2017                             2018
+Employme nt Re te ntion
+Actual                                                                       No Data                           No Data                           No Data                           No Data                             69%
+Target                                                                         TBD                               TBD                               TBD                               TBD                               62%
+
+How Are We Doing
+PERFORMANCE: Under the Workforce Innovation and Opportunity Act (WIOA), the U.S. Department of Labor changed the way the Employment Retention Rate (ERR) is calculated.  Because this
+measure tracks employment four quarters after services were provided, we do not yet have a full year of data for this measure. The ERR for the data available for State Fiscal Year (SFY) 2018 is
+69%, which is above the target of 62%.
+
+OUR STRATEGY: Improve employment outcomes by providing services, in collaboration with our workforce partners, that are customized to the needs of individual job seekers.
+
+ABOUT THE TARGET: Targets are negotiated directly between the Employment Department and the U.S. Department of Labor.
+
+HOW WE COMPARE: The national ERR for the full program year 2017 (July 2017 thru June 2018) is not yet available. The most recent national data for the quarter ending March 31, 2018, is 67%.
+Oregon’s ERR for the same period was 69%, two percentage points higher.
+Factors Affecting Results
+A good alignment between employer needs and the interests and skills of job seekers improves job retention. This measure shows that workers obtaining employment after receiving workforce
+services remain employed, indicating a good match was made between employers and new hires.
+
+The Employment Department will continue to review and improve services to job seekers and employers in collaboration with our WorkSource Oregon partners.
+KPM #3    COST PER PLACEMENT - Total cost of Workforce Operations (Business & Employment Services) program divided by the total number of job seekers entered into employment after
+          receiving services.
+          Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                actual     target
+
+  Re port Ye ar                                                               2014                              2015                              2016                              2017                               2018
+Cost pe r Place me nt
+Actual                                                                      $281.00                           $355.00                            $400.00                           $443.00                           $510.00
+Target                                                                      $200.00                           $200.00                            $200.00                           $400.00                           $416.00
+
+How Are We Doing
+PERFORMANCE: The number of placements was 83,222. The State Fiscal Year (SFY) 2018 expenditures in Workforce Operations came to $42,477,523. The cost per placement was $510, a 15%
+increase over last year's cost per placement and $94 per placement over our targeted goal.
+
+OUR STRATEGY: The agency continues to be conscious of budgetary constraints and fiscal responsibility. We continue to work with our partners to leverage resources, reduce costs, and address
+changing customer needs while seeking to improve outcomes across local communities. As explained below, though, we are currently serving job seekers who need more customized and in-depth
+services than was true a few years ago. This is one cause of the increase in cost per placement. It is a natural result of the current economic conditions in Oregon, in which many who are currently
+unemployed must overcome significant barriers to employment. We, with our partners, help them to do that.
+
+ABOUT THE TARGET: Cost per placement measures the cost of the program between years. The results do not measure changes in program complexity or economic conditions. The targets will be
+adjusted for inflation each biennium by a maximum of 4%.
+
+HOW WE COMPARE: There is no national measure compiled for comparison.
+Factors Affecting Results
+This performance measure is sensitive to employer competition for workers, and the alignment of available jobs relative to the interests and skills of job seekers. In the current market, those
+unemployed or underemployed as a result of plant closures or structural unemployment often have greater barriers to employment. The Employment Department has found that these job seekers
+require more staff assistance during each visit. Our business processes have changed to provide additional assistance and time needed to help job seekers find work. This service model also
+aligns with the expectations of our federal funders that workforce programs provide a higher level of intensive, customized service to individuals, which often requires more resources, thus
+increasing the cost for customer service. The current combination of these factors has a compounding, negative effect on how this measure reflects performance.
+
+The Employment Department will continue to work with state and local partners to effectively address the labor needs of Oregon businesses and to connect job seekers to available employment
+opportunities. Customized services to employers are proving to be effective and will improve feedback to tailor job seeker services to meet local demand. Initial analysis indicates that the
+Employment Department's customized business recruitments are producing higher levels of employer satisfaction and demand continues to grow. In Program Year 2017, employers posted 5,841
+customized business recruitment job listings, an increase of 35% over the prior year; during the same period, staff recorded 3,438 placements on these listings, an increase of 21% over the prior
+year.
+KPM #4         FIRST PAYMENT TIMELINESS - Percentage of initial Unemployment Insurance payments made within 21 days of eligibility.
+               Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                  2014                              2015                              2016                              2017                               2018
+First Pay Time line ss
+Actual                                                                            96%                               92%                               87%                               88%                               94%
+Target                                                                            95%                               87%                               87%                               87%                               87%
+
+How Are We Doing
+PERFORMANCE: The timeliness of first payments increased from 88% to 94%.
+
+OUR STRATEGY: The Employment Department continues to pursue efficiencies by streamlining Unemployment Insurance processes and leveraging new technologies to improve timeliness and the
+customer experience.
+
+ABOUT THE TARGET: The target for this measurement was updated to match the U.S. Department of Labor standard of 87% in 2015. The percentage of claims paid within 21 days of the initial
+claim filing reflects the efficiency of determining eligibility and giving unemployed workers their first benefit payment. A higher percentage of timely first payments is better.
+
+HOW WE COMPARE:  At 94%, this measure is above the target and is above the national rate of 89%.
+Factors Affecting Results
+The Employment Department continues to make timely benefit payments a priority. Outdated technology and ongoing efforts to minimize benefit overpayments are ongoing challenges. Creating a
+new call intake function in our Unemployment Insurance Contact Centers, more quickly shifting resources between functional units, and an increased focus on staff training have all contributed to
+the increase in this performance measure. Improved training on customer service with a focus on how to control calls, as well as a focus on performance management metrics of call handle times
+and calls per hour, has significantly decreased our call wait times which, in turn, allows for more staff to more quickly process the initial claims workload. The ongoing low unemployment rate has
+also helped by keeping claims levels down during this time of decreased federal funding.
+KPM #5         NON-MONETARY DETERMINATIONS TIMELINESS - Percentage of claims that are adjudicated within 21 days of issue detection.
+               Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                  2014                               2015                              2016                              2017                              2018
+Pe rce nt of Claims that are  Adjudicate d with 21 days (Non-M one tary De te rminations Time line ss)
+Actual                                                                            77%                               70%                               46%                                40%                               72%
+Target                                                                            80%                               80%                               80%                                80%                               80%
+
+How Are We Doing
+PERFORMANCE: The percent of timely non-monetary determinations was 72%, an increase from 40% in State Fiscal Year 2017, but less than the target of 80%.
+
+OUR STRATEGY: The Employment Department is seeking new efficiencies through process improvements that will result in improved timeliness without adversely impacting other customer service
+standards, including developing new tools and reviewing and revising production standards. New telephone system capabilities are being leveraged to provide better data, allowing us to have
+adjudicators, who issue non-monetary decisions, spend more time focused on that work. This strategy is showing results, increasing the time staff spent on these duties by about 10% so far.
+Additional training is being provided to increase productivity, including getting more staff trained on more types of issues to avoid backlogs forming when a disproportionate number of particular
+issues arise. The department is prioritizing getting all adjudicator positions filled and building the skills and experience needed for staff to be able to process claims quickly.
+
+ABOUT THE TARGET: The target of 80% is comparable to the national target. A higher percentage of non-monetary determinations adjudicated within 21 days is better.
+
+HOW WE COMPARE: 72% of the non-monetary determinations were written within 21 days. According to the 2018 first quarter report of UI Nonmonetary Determination Data from the U.S.
+Department of Labor, Oregon ranked 28th of the 53 states (50 states and 3 jurisdictions). In that quarter, Oregon’s percent of timely non-monetary determinations was 76%, which was higher than
+the national average of 73%.  Although the annual performance of 72% is lower than the target of 80% that the U.S. Department of Labor sets for the decision timeliness measure, the Employment
+Department significantly improved the efficiencies over the year.
+Factors Affecting Results
+The Employment Department had proportionally higher staffing during the recession. As staffing has returned to non-recessionary levels and the complexity of laws added over several years has
+increased, it is more difficult to make timely determinations. This complexity has resulted in additional processes, which take staff time that could otherwise be focused on more timely processing
+claims. With the improving economic conditions, it has also become more difficult to hire and retain staff for this work. Another impact was a significant focus on improving how quickly calls are
+answered and claims are processed before a non-monetary decision is needed. Very significant progress was made there, but that made progress on the speed of issuing these decisions more
+difficult. Balancing the need to quickly make determinations and to have as complete information as possible to minimize overpayments is also a challenge. Process improvements, more focus on
+setting and helping staff meet individual standards, and efforts to maintain staffing levels have made a positive impact. Additional process improvements are planned, but their ultimate impact is not
+yet known and most process changes have a short-term negative impact on performance as staff are trained on, and acclimate to, new process.
+
+The Employment Department's outdated, inflexible, and complex technology architecture is also negatively impacting performance. As new steps are added to processes, more manual work is
+required. Importantly, the limits on what can be automated make it difficult to make improvements. The reality of declining federal revenue has caused the department to reduce costs including
+reducing staffing levels which also has a negative impact on performance.
+
+In sum, there are long-term pressures of added requirements to the program while funding has decreased. During the recession, the impact on performance was mitigated by an influx of federal
+revenue, and a commensurate increase in staffing levels. Now that revenue is declining, some of those long-term pressures are more obvious. Aging technology, while not the sole cause of
+declining performance, is a contributing factor and something that constrains the department's ability to make process improvements.
+          UNEMPLOYMENT INSURANCE ADMINISTRATIVE COSTS AS A PERCENT OF BENEFITS PAID - Compares dollars paid to unemployed workers against the cost of providing those benefits.
+KPM #6    Specifically, all costs associated with Unemployment Insurance administration, including related Department of Justice and Office of Administrative Hearings costs, less Re-Employment
+          Eligibility Assessments and State Government Service Charges, divided by Total Unemployment Insurance Benefits paid.
+          Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                               actual     target
+
+  Re port Ye ar                                                               2014                              2015                              2016                              2017                             2018
+UNEM PLOYM ENT INSURANCE ADM INISTRATIVE COSTS AS A PERCENT OF BENEFITS PAID
+Actual                                                                       No Data                           No Data                           No Data                             11%                             12%
+Target                                                                         TBD                               TBD                               TBD                               10%                             10%
+
+How Are We Doing
+PERFORMANCE: Benefit payments were $509,164,579 in State Fiscal Year (SFY) 2018 and Controllable Administrative Costs were $61,587,063, resulting in a percent of benefits paid of 12%, an
+increase from 11% in SFY 2017.
+
+OUR STRATEGY: The Employment Department continues to pursue efficiencies from centralization and new technology implementation to streamline unemployment insurance processes to improve
+timeliness and customer service. This includes a focus on expanding ways in which the public can help themselves access and provide information that traditionally required more staff involvement.
+
+ABOUT THE TARGET: The target for this new measurement was set at 10% in the 2017 Legislative Session. The ratio of benefits paid to amounts spent administering the program reflects the
+efficiency of making those payments.
+
+HOW WE COMPARE: There is no national measure compiled for comparison.
+Factors Affecting Results
+The Employment Department's experience is that cost per claim tends to go down during recessionary periods and increase as the market recovers. The volume of claims drops faster than
+expenses, especially since some expenses remain fixed. Current technology restricts the ability to automate manual processes. Efforts to decrease benefit overpayments, better identify and recover
+overpayments, and better help people become re-employed more quickly, create additional work that tends to increase the cost of administering claims.
+The Employment Department has taken steps in the past several biennia to reduce costs, including consolidating separate Unemployment Insurance Contact Center locations and combining related
+business units. To improve efficiencies, the Employment Department must automate claim processes by modernizing the technical and business environments to increase staff efficiency. The
+Employment Department is focused on increasing "self-service" options for the public to decrease costs further. Lean Six Sigma efforts continue to identify efficiencies, and efforts to increase
+communication with our customers through electronic means, are expected to decrease costs and improve customer service. It will be difficult to improve on this performance measure, however,
+while claims levels remain at historic lows and as we continue to work to increase the speed and accuracy of our service to the public.
+KPM #7     UNEMPLOYMENT INSURANCE APPEALS TIMELINESS - Percentage of cases requesting a hearing that are heard or are otherwise resolved within 30 days of the date of request.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                 2014                              2015                             2016                              2017                              2018
+Une mployme nt Insurance  Appe als Time line ss
+Actual                                                                           35%                              82%                               72%                               71%                              61%
+Target                                                                           60%                              60%                               60%                               60%                              60%
+
+How Are We Doing
+PERFORMANCE: Our performance was at 61%, which is slightly above the target of 60%.
+
+OUR STRATEGY: The Office of Administrative Hearings (OAH) provides Oregonians an independent forum to dispute decisions made by the Employment Department that impact their lives. The
+OAH strives to provide timely resolution of these disputes.
+
+ABOUT THE TARGETS: For unemployment insurance cases, timeliness is defined as the percentage of cases requesting a hearing that is heard or otherwise resolved within 30 days of a hearing
+request. The target of 60% is consistent with the target established by the U.S. Department of Labor. A higher percentage is better.
+
+HOW WE COMPARE: State Fiscal Year (SFY) 2018 performance was at 61%, which is lower than the SFY 2017 performance of 71%.
+Factors Affecting Results
+The OAH continues to exceed the national target set by the U.S. Department of Labor. Timeliness in this area was below the target in the first half of the fiscal year due to insufficient staffing
+assigned to unemployment insurance cases. That issue has been addressed and the OAH has consistently exceeded the target every month since January 2018. The OAH will continue to monitor
+referrals and continue to utilize cross-trained staff to ensure that hearings are timely scheduled.
+KPM #8       NON-UNEMPLOYMENT INSURANCE APPEALS TIMELINESS - Percentage of orders issued within the standards established by the user agencies.
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Re port Ye ar                                                                2014                              2015                             2016                              2017                             2018
+Non-UI Appe als Time line ss
+Actual                                                                          94%                               92%                              96%                              92%                               92%
+Target                                                                          93%                               93%                              93%                              93%                               93%
+
+How Are We Doing
+PERFORMANCE: The percentage of non-Unemployment Insurance (UI) cases disposed of within the standards for State Fiscal Year (SFY) 2018 was 92%, which is slightly below the standard of
+93%.
+
+OUR STRATEGY: The timeliness standards for non-UI appeals are established by the user agencies. The Office of Administrative Hearings (OAH) monitors decision deadlines to ensure that orders
+are issued within established timeframes.
+
+ABOUT THE TARGETS: The user agencies establish the timeliness standards for non-UI hearings. A higher percentage of orders issued within the standard set by the user agency is better.
+
+HOW WE COMPARE: During SFY 2018 the OAH achieved the standard 92% of the time which is comparable to 92% in SFY 2017.
+Factors Affecting Results
+The OAH exceeded the target in most of our program areas. Our social services program lagged slightly below the target largely as the result of staff turnover which resulted in the need for
+additional training and mentoring of newly assigned administrative law judges. The OAH expects timeliness to improve in that program during the next fiscal year.
+KPM #9          AVERAGE DAYS TO ISSUE AN ORDER - Average number of days to issue an order following the close of record.
+                Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                 2014                              2015                              2016                              2017                             2018
+Av e rage  Days to Issue  Orde r
+Actual                                                                           6.30                              4.90                             4.10                              4.50                              4.50
+Target                                                                           6.60                              6.60                             6.60                              6.60                              6.60
+
+How Are We Doing
+PERFORMANCE: During State Fiscal Year (SFY) 2018 achievement was at 4.5 days, below the target of 6.6 days.
+
+OUR STRATEGY: The Office of Administrative Hearings (OAH) monitors the number of days to produce legally sufficient decisions. The OAH goal is to be as prompt as possible.
+
+ABOUT THE TARGETS: An important aspect of timeliness is the average number of days it takes for an Administrative Law Judge to issue an order following the close of the record. The time
+needed to write and issue an order varies with the complexity and length of a hearing. Fewer days to issue a decision is generally better provided that quality standards can also be met.
+
+HOW WE COMPARE: Average days to issue an order was 4.5 days, which is comparable to 4.5 days in SFY 2017.
+Factors Affecting Results
+The OAH will continue to monitor programs and look for efficiencies in case scheduling and assignments and other process improvements.
+KPM #10             COST PER REFERRAL TO OAH - Average cost of hearing referral to the Office of Administrative Hearings.
+                    Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                 2014                               2015                               2016                               2017                               2018
+Cost Pe r Re fe rral to OAH
+Actual                                                                        $422.00                            $493.00                            $500.00                            $529.00                            $564.00
+Target                                                                        $440.00                            $455.00                            $467.00                            $515.00                            $532.00
+
+How Are We Doing
+PERFORMANCE: The cost per referral was $564, which is higher than the target of $532.
+
+OUR STRATEGY: Maintain service levels without increasing costs to agencies that refer cases to the Office of Administrative Hearings (OAH).
+
+ABOUT THE TARGETS: Cost per referral measures the cost of the OAH program between years. A lower cost is better.
+
+HOW WE COMPARE: The average cost per referral was $564 for State Fiscal Year (SFY) 2018, which is an increase of 6.5% over the SFY 2017 cost per referral of $529.
+Factors Affecting Results
+Increased cost of salaries and benefits of existing staff and increased training costs associated with the hiring of a number of new administrative law judges (ALJs) to fill vacancies caused by
+retirements contributed to the increase in costs per referral. Average costs also reflect a relatively low number of unemployment insurance referrals, continuing a trend over the last several
+years. Because unemployment insurance cases are the least expensive per hearing, a low volume of such referrals results in a higher average cost per case overall.
+
+The OAH also monitors the average cost per case disposition. Because the OAH was able to resolve over 1,300 cases that were referred in the previous fiscal year, the number of dispositions
+(24,967) was higher than the number of referrals (23,650) received during the 2018 fiscal year. This resulted in cost per disposition of $534 which is 5.3% lower than the cost per referral.
+
+The OAH will continue to monitor programs and look for efficiencies in scheduling and technology. The OAH will continue to utilize cross-trained staff to maximize the efficient use of staff in response
+to fluctuations in referral rates within particular program areas.
+KPM #11       HIGHER AUTHORITY APPEALS TIMELINESS - Percentage of cases requesting an appeal that receive a decision within 45 days of the date of request.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                               actual    target
+
+  Re port Ye ar                                                                2014                             2015                             2016                             2017                             2018
+Highe r Authority Appe als Time line ss
+Actual                                                                         94%                              80%                              91%                               99%                             100%
+Target                                                                         75%                              75%                              75%                               80%                              80%
+
+How Are We Doing
+PERFORMANCE: During State Fiscal Year (SFY) 2018, the percent of appeals that received a decision within 45 days or less was 100%, improved from 99% in SFY 2017.
+
+OUR STRATEGY: Continue to issue decisions promptly.
+
+ABOUT THE TARGET: A higher percentage is better.
+
+HOW WE COMPARE: As has been the case in past years, the Employment Appeals Board (EAB) performed above the 80% target and the national average of 50%.
+Factors Affecting Results
+During State Fiscal Year (SFY) 2015, the EAB was challenged by staff reductions and budgetary considerations. The EAB successfully met these challenges by reorganizing staff and changing
+assignments. As a result, a higher percentage of appeal timeliness was achieved in SFY 2016, and even higher percentages of appeal timeliness were achieved in SFY 2017 and SFY 2018.
+
+The EAB will continue to work with the Employment Department and Office of Administrative Hearings to improve efficiencies in adjudication and appeals processes.
+KPM #12       TIMELINESS OF NEW STATUS DETERMINATIONS - Percentage of new status determinations completed within 90 days of the end of the liable quarter.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                 2014                              2015                             2016                              2017                              2018
+Time line ss of Ne w Status De te rmination
+Actual                                                                           77%                              63%                               75%                               76%                              74%
+Target                                                                           80%                              80%                               80%                               80%                              80%
+
+How Are We Doing
+PERFORMANCE: 74% of registrations were completed within 90 days. This represents 14,938 of the total 20,123 status determinations in State Fiscal Year (SFY) 2018 being completed within 90
+days.
+
+OUR STRATEGY: Implement processes to monitor and ensure tax accounts are established within 90 days of the end of the first of the quarter in which liability occurs. This includes working with
+those who do not timely provide the Employment Department with information needed to start the status determination process and identifying ways to streamline processes and more agilely utilize
+our staff.
+
+ABOUT THE TARGET: The U.S. Department of Labor (DOL) sets the target of the timeliness for status determinations at 70%. The Employment Department set a higher target based on the
+importance of this measurement to the Employment Department’s business and the long-term goal of DOL to reach 89%.  Timely determining employer status influences timely getting wage data
+that is needed to quickly and accurately process claims and influences timely getting UI tax payments.
+
+HOW WE COMPARE: Performance in SFY 2018 was 74%, which is a decrease from the SFY 2017 performance of 76%. While the SFY 2018 performance is below the 80% target for the Key
+Performance Measure, Oregon exceeds the target of 70%, which is the percentage of timely determinations required by the U.S. Department of Labor.
+Factors Affecting Results
+The technology used to process the determinations is an aging infrastructure, and it must be updated to provide for more timely determinations and more automated processes. The Employment
+Department implemented an automated report to monitor progress on a weekly basis, which helped to improve the SFY 2017 performance and allows for better management of the registration
+process. However, additional improvements to the online combined registration system are necessary to ensure registrations contain complete information and allow for the implementation of
+automatic determinations. The Employment Department will continue outreach to employers and their representatives to reduce the number of registrations that are filed late and monitor timeliness.
+A significant percentage of status determination work arrives at the Employment Department as part of a shared combined business registration process coordinated by the Secretary of State, and
+also involving the Department of Revenue and Department of Consumer and Business Services. Maintaining a system that meets the diverse needs of these agencies can be a challenge.
+KPM #13    CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent," including overall customer service, timeliness, accuracy,
+           helpfulness, expertise, and availability of information.
+           Data Collection Period: Jul 01 - Jun 30
+
+                                                                         actual    target
+
+ Re port Ye ar                                                           2014                           2015                           2016                           2017                           2018
+Expe rtise
+Actual                                                                  86.50%                         75.20%                         79.80%                         80.40%                         82.70%
+Target                                                                  95.50%                         95.50%                         95.50%                         95.50%                         95.50%
+Accuracy
+Actual                                                                  84.60%                           71%                          77.70%                         78.30%                         79.90%
+Target                                                                  95.50%                         95.50%                         95.50%                         95.50%                         95.50%
+Av ailability of Information
+Actual                                                                  82.90%                           72%                            78%                          78.90%                         81.70%
+Target                                                                  95.50%                         95.50%                         95.50%                         95.50%                         95.50%
+Time line ss
+Actual                                                                  85.20%                         69.20%                         75.80%                         76.90%                         81.40%
+Target                                                                  95.50%                         95.50%                         95.50%                         95.50%                         95.50%
+Ov e rall
+Actual                                                                    84%                          73.90%                         79.10%                         80.70%                         83.30%
+Target                                                                  95.50%                         95.50%                         95.50%                         95.50%                         95.50%
+He lpfulne ss
+Actual                                                                  87.90%                         76.80%                         80.90%                         81.90%                           84%
+Target                                                                  95.50%                         95.50%                         95.50%                         95.50%                         95.50%
+
+How Are We Doing
+PERFORMANCE: Data represents survey responses from unemployment insurance claimants, job seekers, and employers who listed openings with the Employment Department. Performance in
+overall service quality during State Fiscal Year (SFY) 2018 was 83.3%, compared to 80.7% for SFY 2017. Although the percentages are below the target of 95.5%, the performance scores
+increased compared to SFY 2017.
+
+OUR STRATEGY: Continuously focus on customer service improvements. The Employment Department monitors the information received from monthly customer satisfaction surveys, seeking to
+identify ways to improve.
+
+ABOUT THE TARGET: The Employment Department sets the target of 95.5% to provide a high quality of service to our customers who are job seekers, businesses with recruitments, and UI
+claimants.  Although the target was set based on a completely different survey methodology, the Employment Department pursues the high standard to support business and promote employment.
+
+HOW WE COMPARE: In SFY 2015, the Employment Department implemented a new online survey distribution process for sampling all customer groups. The change broadens the survey
+population to include more workforce industry customers and reduces selection bias. Because of the changes made in SFY 2015, comparisons cannot be made to measurements previous to 2016.
+Measurements between SFY 2016 and SFY 2018 provide consistent standards and shows consecutive years of improvement across all measures.
+Factors Affecting Results
+The Employment Department's new survey process provides broader coverage, greater anonymity, and a much larger number of responses than previous processes. The results are providing new
+information about customer expectations and experiences when receiving services from the Employment Department. The department is in the process of changing service delivery to better align
+with the new information. However, resource constraints directly impact the pace at which a new service paradigm can be implemented.
+
+For all job seekers and businesses: The Employment Department continues collaboration with system partners to implement a customer-centric WorkSource Oregon (WSO) experience that is easy
+to access, highly effective, and simple to understand by customers. The Department also continues investing in the redesign of WSO centers to reflect a customer-centric, professional, and
+welcoming environment. And we are investing in technology to support system requirements of the WSO Standards, and continue work with system partners to provide customers with better
+resources and services to meet their needs.
+
+For unemployment insurance claimants: Customers must be responded to more promptly at all stages of the claims process. While current technology platforms impair the Employment Department's
+ability to automate processes and make other changes that would help, Lean Sigma Six approaches are being used to streamline processes. Documents are being revised to be more helpful and
+understandable to the public through the use of customer-based focus groups. The Employment Department is also using more electronic means of communication so it is more convenient and
+quicker for customers, focusing on decreasing how long people have to wait to have calls answered, and increasing training on how to provide good customer service, particularly for those who may
+have barriers to accessing our services. It is also important to note that some people who seek benefits may not be entitled to receive them. Therefore, some people might give a lower rating of the
+service they receive because they ultimately do not receive benefits they may need, but for which they are not eligible.
+KPM #14     FOUNDATIONAL SURVEY RESPONSE RATE - Ordinary (non-weighted) arithmetic mean of four annual response rates: (1) Occupational Employment Statistics employment; (2)
+            Occupational Employment Statistics units; (3) Annual Refiling Survey employment; and (4) Annual Refiling Survey units.
+            Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Re port Ye ar                                                                2014                             2015                              2016                             2017                             2018
+FOUNDATIONAL SURVEY RESPONSE RATE
+Actual                                                                          84%                              84%                              87%                               88%                              86%
+Target                                                                          73%                              73%                              73%                               73%                              73%
+
+How Are We Doing
+PERFORMANCE: Data reported reflect response rates for the calendar year. The 2018 measure (based on 2017 calendar year data) shows an 86% response rate.
+
+OUR STRATEGY: The Workforce and Economic Research Division follows a well-established research protocol in partnership with the federal Bureau of Labor Statistics (BLS) to complete the
+Quarterly Census of Employment and Wages and Occupational Employment Statistics surveys. Research staff work towards maximizing compliance and lessening reporting burden.
+
+ABOUT THE TARGETS: Higher response rates (percentages) lead to more robust data. Newly established metrics incorporating both the BLS and the Employment Department measures target a
+73% response rate.
+
+HOW WE COMPARE: Survey response rates remain well over the target of 73%.
+Factors Affecting Results
+The data represent response rates from the Quarterly Census of Employment and Wages, and the Occupational Employment Statistics surveys. These two sources of information gathered from
+employers in every industry and area of Oregon are foundational for the Workforce and Economic Research Division's published and publicly available industry and occupational statistics.
+
+Survey response rates are influenced by an appropriate survey length, relevancy of a survey topic to the recipient, follow-up actions such as multiple contacts to request completions, and delivery
+methods. The Workforce and Economic Research Division use survey instruments designed by the BLS to provide high-quality data that meet national statistical standards. Also, research staff work
+with employers to collect detailed and accurate responses.

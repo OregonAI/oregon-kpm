@@ -1,0 +1,277 @@
+State Library
+Annual Performance Progress Report
+
+        Reporting Year 2023
+
+  Published: 9/22/2023 2:17:32 PM
+ KPM #         Approved Key Performance Measures (KPMs)
+
+1             Patron Service Transactions - Number of reference queries, document delivery and interlibrary loan requests, and outreach/instruction sessions to state agency employees.
+3             Talking Book and Braille Library Average Use by User - Total number of circulations per year divided by the number of registered users at the end of the fiscal year.
+4             COST PER CIRCULATION - Cost per circulation of talking books and Braille books.
+5             USE OF THE OREGON SCHOOL LIBRARY INFORMATION SYSTEM - Annual visits to the site.
+7             CUSTOMER SATISFACTION - Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+8             Value of Talking Book and Braille Library - Percent of Talking Book users that strongly agree or agree that the Talking Book and Braille Library has added value to their life.
+9             Ready to Read Participation - Ready to Read grant funding per year divided by total number of youth 0-14 years of age participating in a Ready to Read grant funded activity.
+10            Value of Library Support Programs and Services - Percent of Oregon library staff that strongly agree or agree that the services and programs offered by Library Support help them provide better library service to their community.
+11            Making State Documents Accessible - Percentage of the digital Oregon Government Publications fully cataloged.
+
+                                                                                                                                                           red
+                                                                                                                                                           green
+                                                                                                                                                           yellow
+
+ Performance Summary                                                                                                                                             Green                                                       Yellow                                                         Red
+
+                                                                                                                                                            = Target to -5%                                          = Target -5% to -15%                                            = Target > -15%
+Summary Stats:                                                                                                                                                    100%                                                          0%                                                           0%
+ KPM #1     Patron Service Transactions - Number of reference queries, document delivery and interlibrary loan requests, and outreach/instruction sessions to state agency employees.
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                    actual     target
+
+  Report Year                                                                      2019                               2020                                2021                                2022                               2023
+ Patron Service Transactions
+ Actual                                                                                                                                                   8,102                              8,433                               9,297
+ Target                                                                                                                                                                                      8,000                               8,000
+
+How Are We Doing
+Our total patron service transactions continue to rise each year. The total number of patron service transactions includes reference interactions, document delivery and interlibrary loan requests, and
+outreach/instruction sessions to state agency employees.   Our services continue to be in demand, even with many state agency employees working in the hybrid or virtual environment.
+
+Factors Affecting Results
+As the state workforce continues to work a combination of in-person, remote, or hybrid, the State Library continues to provide essential services.  Our reference transactions were impacted by an
+ongoing outreach effort to have all eligible state agency staff sign up for library accounts in our new patron verification system.   With the Government Services division becoming fully staffed, the
+embedded librarians are able to reach out directly to state agencies and provide services and instruction.  All instruction is currently delivered online, providing greater flexibility for our patrons to
+participate.   As state employees learn more about our services, they are able to take advantage of requesting articles and books to supplement and inform their work.
+
+Number of Patron Service Transactions for State Employees
+
+Report Year                                         2021        2022           2023
+Actual                                              8102        8433           9297
+Target                                        9000      9000          8300
+
+                                              2021      2022          2023
+Reference Transactions                        1727      1944          1826
+Time spent on reference transactions          931       758 hours     627 hours
+                                              hours
+
+Outreach Statistics
+                                            2021       2022          2023
+Outreach Presentations (classes)            89         112           77
+Outreach Participants                       1119       1062          1027
+
+Document Delivery Statistics
+                                            2021        2022         2023
+Document Delivery Total                     6286        6377         7394
+KPM #3       Talking Book and Braille Library Average Use by User - Total number of circulations per year divided by the number of registered users at the end of the fiscal year.
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                    actual      target
+
+  Report Year                                                                      2019                                2020                                2021                                2022                                2023
+Talking Book and Braille Library Average Use by User
+Actual                                                                                                                                                    110.57                              106.30                              105.84
+Target                                                                                                                                                                                           70                                  70
+
+How Are We Doing
+The average books borrowed per user is down slightly, but well above targets.
+
+Factors Affecting Results
+The loss rate here is nearly negligible but can  still be accounted for. In the previous year, due to  processing inactive accounts for the first time  in three years , the number of active registered
+accounts dropped by 12%,  while the number of new users to the library increased by 9% over the previous year.  In this case, it would appear that the significant loss of registered users plus the
+notable increase in new users is what allowed this figure to remain nearly unchanged. In the upcoming year two significant staff positions will be filled, impacting the number of users and over the next
+two years this figure should begin to increase again.
+KPM #4                COST PER CIRCULATION - Cost per circulation of talking books and Braille books.
+                      Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                               actual     target
+
+  Report Year                                                                 2019                             2020                              2021                             2022                              2023
+Cost per Circulation of Talking Books and Braille Books
+Actual                                                                        $2.20                            $2.36                             $1.56                            $1.64                             $1.75
+Target                                                                        $2.00                            $2.00                             $2.00                            $2.00                             $2.00
+
+How Are We Doing
+The cost per circulation actual remains below the target amount but had seen a $0.11 increase over the previous year.
+
+Factors Affecting Results
+The largest impact on this figure is inflation. Costs for basic supplies including paper and personnel costs have seen significant increases in the last twelve months. In the coming year,
+with the unknown inflation rates and a significant personnel cost of living increase, this figure may exceed the target of $2.00 per circulation.  In the year reported, the number of active
+patrons dropped by 12% while circulation only dropped by 7.5% which shows that as long as patrons remain active, their borrowing habits are strong (see average book per user above).
+KPM #5             USE OF THE OREGON SCHOOL LIBRARY INFORMATION SYSTEM - Annual visits to the site.
+                   Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                              actual    target
+
+  Report Year                                                               2019                             2020                             2021                             2022                              2023
+USE OF THE OREGON SCHOOL LIBRARY INFORMATION SYSTEM
+Actual                                                                                                                                                                                                         691,177
+Target
+
+How Are We Doing
+The Oregon School Library Information System (OSLIS) is a tool for K-12 students and teachers that provides access to high-quality research databases, instruction, and videos on how
+to conduct research, and lessons to teach information literacy skills. A previous key performance measure tracked average daily visits to OSLIS. That KPM was revised for AY25 to
+record total annual visits instead, hence the lack of previous data. Visits to the site have been trending upwards since a historic low in 2021. Total annual visits for 2022-23 were over
+200,000 higher than the previous year, and nearly 300,000 higher than 2020-21. While visits have not yet returned to pre-pandemic levels, the trend is moving toward our target of 750,000
+visits in 2023-24.
+
+Factors Affecting Results
+OSLIS visits were affected greatly by the COVID-19 pandemic. Schools had to adapt to rapidly changing circumstances, so lesson plans and assignments were often simplified and
+research projects canceled. In addition, some school library staff, the biggest promoters of OSLIS in schools, were either redirected to other duties or furloughed. These COVID-specific
+effects, combined with a continued decades-long decline in the number of certified school librarians in Oregon’s schools, are likely the biggest contributors to the steep decrease of
+OSLIS usage starting in 2019-20. The upward trend evident since 2020-21 is consistent with the adaptation of school instruction to the pandemic and the lifting of COVID restrictions.
+School library staff are better able to focus once again on their core job function: improving literacy, including information literacy, among students. There have also been significant
+increases in views of instructional OSLIS videos, Time-strapped teachers needed high-quality, pre-packaged content for students.
+KPM #7   CUSTOMER SATISFACTION - Percent of customers rating their satisfaction with the agency’s customer service as “good” or “excellent”: overall, timeliness, accuracy, helpfulness, expertise,
+         availability of information.
+         Data Collection Period: Jul 01 - Jun 30
+
+                                                                        actual    target
+
+ Report Year                                                           2019                           2020                           2021                           2022                           2023
+Availability of Information
+Actual                                                                92.70%                         92.20%                         86.70%                           92%                          94.20%
+Target                                                                  98%                            98%                            90%                            90%                            90%
+Expertise
+Actual                                                                96.90%                         88.20%                         89.40%                         91.50%                         91.40%
+Target                                                                  98%                            98%                            90%                            90%                            90%
+Helpfulness
+Actual                                                                96.90%                         90.60%                         89.50%                         92.30%                         92.10%
+Target                                                                  98%                            98%                            90%                            90%                            90%
+Timeliness
+Actual                                                                95.20%                         91.90%                         89.70%                         92.40%                         94.20%
+Target                                                                  98%                            98%                            90%                            90%                            90%
+Overall
+Actual                                                                96.70%                         94.10%                         93.60%                           96%                          98.10%
+Target                                                                  98%                            98%                            90%                            90%                            90%
+Accuracy
+Actual                                                                94.30%                         90.60%                         92.30%                           93%                          94.20%
+Target                                                                  98%                            98%                            90%                            90%                            90%
+
+How Are We Doing
+The customer satisfaction results are the averaging of the outward facing divisions of the State Library: Government Information and Library Services, Library Support and Development
+Services, and Talking Book and Braille Library. Averaged together, the State Library is above the target in all areas with a 2% increase over last year in Availability of information,
+Timeliness, and the Overall customer satisfaction score. For each division’s percentage in each of the categories, please refer to the table below.
+
+                              Timeliness              Accuracy                 Helpful                  Expertise               Availability           Overall
+Government                    88.7% with 9% n/a       87.5% with 11% n/a       81% with 18.7% n/a       79% with 20.6% n/a      96% with 3% n/a        98% with 1% n/a
+Information and
+Library Services
+Library Development           99%                     99%                      99%                      99%                     99%                    99%
+and Support Services
+Talking Book and              94.9%                   96.1%                    96.4%                    96.1%                   87.6%                  97.2%
+Braille Library
+
+Factors Affecting Results
+State Library staff are dedicated public servants, and due diligence and responsiveness are the cornerstone of the State Library’s customer service. Emails and voicemails are received and responded
+to a timely manner. Input from advisory councils help shape the materials collection and electronic resources made available to our users. Technology advances, such as duplication on demand, has
+allowed the State Library to serve its users faster and completely.
+KPM #8      Value of Talking Book and Braille Library - Percent of Talking Book users that strongly agree or agree that the Talking Book and Braille Library has added value to their life.
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2019                              2020                              2021                              2022                              2023
+Percent strongly agree or agree Talking Books added value
+Actual                                                                                                                                              98%                             96.40%                            94.90%
+Target                                                                                                                                                                                90%                               90%
+
+How Are We Doing
+This year noted a very slight drop in users who agreed that Talking Books has added value to their lives.
+
+Factors Affecting Results
+After reviewing the comments that accompanied the statement, “The Talking Book and Braille Library has added value to my life,” it’s clear that our users who rate this statement as
+‘agree’ or ‘strongly agree’ still feel that it allows them to continue lifelong learning, improves their mood and morale, and helps them feel more connected to the world around them.
+However, the statement asks a question in the present tense which may not capture those who have been using the library for years and may not still feel that initial gratefulness of the
+library’s “lifesaving” effect on their day-to-day.
+KPM #9     Ready to Read Participation - Ready to Read grant funding per year divided by total number of youth 0-14 years of age participating in a Ready to Read grant funded activity.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Report Year                                                                 2019                              2020                             2021                              2022                              2023
+Ready to Read Participation
+Actual                                                                                                                                                                                                               $3.27
+Target
+
+How Are We Doing
+Annually, every legally established public library in the state is eligible to receive a Ready to Read grant. The grants may be used for early childhood literacy or summer reading activities.
+Libraries spend their grants between January and December. In 2023 (the 2022 grant reporting year), 240,555 youth participated in Ready to Read-funded programs at 140 public libraries
+around the state. Grants totaled $785,471, meaning that one youth was reached for every $3.27 in grant funds spent. State Library Ready to Read grants in 2022 leveraged nearly $2.5
+million in local cash and in-kind contributions by local libraries, an over 3-1 return. While still an impressive display of libraries’ ability to reach families, 2022’s Ready to Read
+participation is lower than pre-pandemic years.
+
+Please note that a previous version of this key performance measure used a reversed ratio of number of participating youth divided by total grant funding, resulting in a number
+representing a fractional number of children reached. The KPM was changed to avoid confusion this fraction may have caused.
+
+Factors Affecting Results
+Library programs such as storytimes and summer reading have been deeply affected by the COVID-19 pandemic. Most libraries in Oregon did very little or no in-person programming in
+2020 and into 2021, including their popular summer reading activities. Some large sub/urban libraries had little in-person programming through summer 2022, in the middle of this
+reporting period. While many libraries adapted to virtual programs, on average they were not as well-attended as in-person ones. In 2021 and 2022, libraries had a chance to adapt their
+program safely, especially focusing on outdoor programming. While the public was eager to go back to their libraries, there was still trepidation, so involvement in Ready to Read grant-
+funded activities has remained relatively low. We except to see higher participation in Ready to Read grant-funded events in 2023. News coverage of library programming has shown
+many families happily participating in library events this summer.
+
+KPM #10     Value of Library Support Programs and Services - Percent of Oregon library staff that strongly agree or agree that the services and programs offered by Library Support help them provide
+            better library service to their community.
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Report Year                                                                 2019                              2020                             2021                              2022                              2023
+Percent strongly agree or agree
+Actual                                                                                                                                            88%                               92%                              97%
+Target                                                                                                                                                                              90%                              90%
+
+How Are We Doing
+Library Support and Development Services at the State Library of Oregon provides grants, resources, and consulting services to public, academic, K-12, and special libraries and Tribal
+Nations throughout Oregon. In the most recent satisfaction survey, sent to Oregon’s library staff in May 2023, 97% of respondents agreed or strongly agreed that Library Support’s
+services help them, an increase of five percentage points over 2022 and a nearly ten percentage point increase since 2021. The division is proud that such a large majority of its
+customers value its services, especially when Oregon library staff share comments like this:
+
+         “You have all been a life saver this year! I've known & appreciated [Library Support staff member] for years, but this year I stepped into a new role & have connected with so many
+         people on your staff. Everyone has been helpful, knowledgeable, and so good at talking me off the ledge as needed!”
+
+Factors Affecting Results
+Since pandemic restrictions ended, Library Support staff have made concerted efforts to connect with Oregon libraries wherever they are, whether that be in professional association
+events, trainings, virtual or in-person visits to libraries, being available to answer consulting questions, and more. Oregon libraries relied on division staff for information about how to
+respond to challenges such as the COVID-19 pandemic, where to get resources and funding, and generally to be sympathetic ears about their issues. The division also recently engaged
+in an evaluation and planning process that put its work front-and-center in the Oregon library community. Library Support staff’s heightened presence and involvement in the library
+community over the last two years likely resulted in the uptick of support.
+While the division met its target of 90% set for the 2022 reporting year, there is still work to do. A 2021 planning process resulted in a new plan to re-prioritize the division’s work to better meet Oregon
+libraries’ changing needs, especially focusing on helping libraries better serve communities that are underserved and under-resourced. This new plan guides the division’s work through 2027.
+KPM #11            Making State Documents Accessible - Percentage of the digital Oregon Government Publications fully cataloged.
+                   Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2019                              2020                               2021                              2022                              2023
+Making State Documents Accessible
+Actual                                                                                                                                                                                                                 91.61%
+Target
+
+How Are We Doing
+This KPM was approved in the 2023 Legislative Session and targets are set for 2024 and 2025.
+
+The collection and cataloging of digital Oregon documents are legislatively mandated.   The State Library’s Technical Services staff has made and continues to make great strides in
+keeping current with the increasing rate of Oregon documents by state agencies.
+
+Factors Affecting Results
+Due to the increased need for outreach to the public during the COVID-19 pandemic, state agencies significantly increased the number of publications they published, and the number of languages
+those publications were written in. Because of this increased volume and complexity of cataloging works in other languages, the workload of State Library staff was significantly impacted.

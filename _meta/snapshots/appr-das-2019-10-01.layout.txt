@@ -1,0 +1,292 @@
+Administrative Services, Department of
+                   Annual Performance Progress Report
+                           Reporting Year 2019
+                     Published: 10/1/2019 3:36:28 PM
+ KPM #       Approved Key Performance Measures (KPMs)
+1           CUSTOMER SERVICE - Percent of customers rating their satisfaction w ith the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+2           FORECAST RELIABILITY - General Fund Forecast Tracking Metric
+3           FINANCIAL REPORTING - Percent of Agencies receiving Gold Star Aw ard (The Gold Star Aw ard is the state agency equivalent of the GFOA Certificate of Achievement for Excellence in Financial Reporting)
+4           WORKFORCE TURNOVER - Annual turnover rate for the State and DAS w orkforce.
+5           WORKFORCE DIVERSITY - Racial/ethnic diversity in the state w orkforce as a percentage of the total civilian labor force.
+6           FLEET ADMINISTRATION - Average Miles Per Gallon for DAS Permanently Assigned Fleet Vehicles.
+7           RENT COSTS - DAS negotiated lease rates in private sector vs. average market rates.
+8           INFORMATION SECURITY - Overall information security maturity rating based on a sample of state agencies. Rating achieved using a compilation and aggregate score based on the ISO 27002 standard and assigning a rating using the Carnegie-
+            Mellon Capability Maturity Model. (3rd party conducting information security business risk assessments)
+10          RISK MANAGEMENT - Annual number of Severe Worker's Compensation claims per 100 FTE
+11          DATA CENTER - Percentage of time systems are available.
+
+                                                                                                                                                     red
+                                                                                                                                                     green
+                                                                                                                                                     yellow
+
+ Performance Summary                                                                                                                                    Green                                                     Yellow                                                        Red
+
+                                                                                                                                                   = Target to -5%                                        = Target -5% to -15%                                           = Target > -15%
+Summary Stats:                                                                                                                                            50%                                                       10%                                                         40%
+KPM #1   CUSTOMER SERVICE - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+         helpfulness, expertise and availability of information.
+         Data Collection Period: Jan 01 - Jan 01
+
+                                                                         actual    target
+
+ Re port Ye ar                                                           2015                          2016                           2017                            2018                           2019
+He lpfulne ss
+Actual                                                                 No Data                          78%                          No Data                        No Data                           0%
+Target                                                                   90%                            90%                            90%                            90%                            90%
+Time line ss
+Actual                                                                 No Data                          76%                          No Data                          67%                             0%
+Target                                                                   90%                            90%                            90%                            90%                            90%
+Expe rtise
+Actual                                                                 No Data                          78%                          No Data                          72%                             0%
+Target                                                                   90%                            90%                            90%                            90%                            90%
+Ov e rall
+Actual                                                                 No Data                          75%                          No Data                          67%                             0%
+Target                                                                   90%                            90%                            90%                            90%                            90%
+Av ailability of Information
+Actual                                                                 No Data                          71%                          No Data                          65%                             0%
+Target                                                                   90%                            90%                            90%                            90%                            90%
+Accuracy
+Actual                                                                 No Data                          76%                          No Data                          70%                             0%
+Target                                                                   90%                            90%                            90%                            90%                            90%
+
+How Are We Doing
+No data for 2019 only even numbered years. DAS Exec Staff to discuss best practices for 2020 customer service survey.
+Factors Affecting Results
+n/a
+KPM #2                     FORECAST RELIABILITY - General Fund Forecast Tracking Metric
+                           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Re port Ye ar                                                               2015                                2016                                2017                                2018                                2019
+Ge ne ral Fund Fore cast
+Actual                                                                      100.01%                             100.14%                             103.19%                             103.85%                             111.48%
+Target                                                                        100%                                100%                                100%                                100%                                100%
+
+How Are We Doing
+         Actual General Fund revenues in the 2017-19 biennium came in significantly above expectations, triggering the state’s unique kicker law. Under Oregon’s kicker, errors larger than 2 percent
+         are returned to taxpayers (for personal income taxes) as a credit on their tax returns or retained in the General Fund for additional education spending (corporate income taxes). In 2017-19
+         the corporate kicker totaled $676 million, while the personal kicker (technically all revenues excluding corporate) totaled $1.6 billion. The personal kicker is a record dollar amount but when
+         measured as a share of underlying tax liability (or as a share of the economy) it is our office’s third largest on record. About once a decade our office makes an error this large as we did so
+         back in the 1980s, 1990s, and 2000s.
+
+Factors Affecting Results
+         The state’s volatile underlying economy and current tax structure yield larger year-to-year swings than in the typical state. While Oregon comes out ahead of the typical state in both an
+         economic and revenue sense over the entire business cycle, such variances are more challenging and difficult to accurately forecast.
+
+         In 2017-19, our office’s economic forecast was very accurate. The economy the state has today was nearly exactly as expected. The issue is the underlying revenue growth is significantly
+         stronger than expected. As was the case with the large kicker generated during the mid-1980s, changes in federal tax policy played a large role in generating above-trend state collections in
+         2017-19. Taxpayers are very sensitive to federal rules, and often shift the timing of their payments in order to minimize their federal liability over time. The federal Tax Cut and Jobs Act has
+         greatly altered taxpayer behavior, suggesting that some of the recent growth in state tax collections may not be sustainable going forward.
+KPM #3    FINANCIAL REPORTING - Percent of Agencies receiving Gold Star Award (The Gold Star Award is the state agency equivalent of the GFOA Certificate of Achievement for Excellence in
+          Financial Reporting)
+          Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                               actual    target
+
+  Re port Ye ar                                                                2015                             2016                             2017                             2018                             2019
+Pe rce nt of age ncie s re ce iv ing the  Gold Star Award
+Actual                                                                         98%                               97%                              99%                              96%                               0%
+Target                                                                         98%                               98%                              98%                             100%                             100%
+
+How Are We Doing
+The FY 2019 Gold Star Award won’t be awarded until January/February 2020, which is when everything is received to make the determination.
+Factors Affecting Results
+N/A
+KPM #4                WORKFORCE TURNOVER - Annual turnover rate for the State and DAS workforce.
+                      Data Collection Period: Jul 01 - Jun 30
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                  2015                              2016                             2017                              2018                              2019
+a. State  Workforce  Turnov e r
+Actual                                                                          5.28%                             5.77%                             5.32%                             4.97%                             5.03%
+Target                                                                          5.60%                             5.60%                             5.60%                             5.60%                             5.60%
+b. DAS Workforce  Turnov e r
+Actual                                                                          3.52%                             3.52%                             3.61%                             2.29%                             3.08%
+Target                                                                            5%                              5.50%                             5.50%                             4.50%                             4.50%
+
+How Are We Doing
+The state’s resignation rate (4a) for FY 19 is 5.03%. This is .57% lower than the benchmark of 5.6% set in 2010. The resignation rate for DAS (4b) is 3.08%, indicating a stable workforce. This is
+1.42% lower than the benchmark of 4.5%. Resignation refers to voluntary separation from employment. Resignation does not include layoffs, involuntary terminations, or retirement. This
+conceptualization aligns with the definition of “quits” reported by the United States Bureau of Labor Statistics in the Job Openings and Labor Turnover Survey (JOLTS) data.
+
+Factors Affecting Results
+From FY 18 to FY 19, the State of Oregon’s annual turnover rate remained stable, only changing by .06%. Even though it is an employee’s job market with a low unemployment rate and a
+historically high number of job openings, the State of Oregon’s workforce demonstrates relative stability. The following table list reasons for employees leaving the state workforce in both FY 18 and
+FY 19. One interesting finding is that relocation emerged in FY 19 as a top reason for leaving state employment.
+KPM #5          WORKFORCE DIVERSITY - Racial/ethnic diversity in the state workforce as a percentage of the total civilian labor force.
+                Data Collection Period: Jul 01 - Jun 30
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                  2015                              2016                              2017                              2018                              2019
+a. State  Workforce  Div e rsity
+Actual                                                                          71.38%                            76.64%                            76.81%                            77.50%                            79.20%
+Target                                                                           100%                              100%                              100%                              100%                              100%
+b. DAS Workforce  Div e rsity
+Actual                                                                          65.85%                            72.90%                            72.15%                            76.70%                            76.20%
+Target                                                                           100%                              100%                              100%                              100%                              100%
+
+How Are We Doing
+As of the end of FY 19, the racial and ethnic diversity of the state workforce was 18.7%. This is an absolute increase of .4% from the previous fiscal year. While Oregon’s civilian workforce is more
+diverse than Oregon State Government employees, this key performance measure continues to show improvement.
+
+Calculation: 18.7% / 23.6% = 79.2% of the goal of 100% reflection of the Oregon workforce
+
+As of the end of FY’18, the racial and ethnic diversity of the DAS workforce was 18.3%.
+
+Calculation: 18.3% / 23.6% = 77.5% of the goal of 100% reflection of the Oregon workforce
+Factors Affecting Results
+One key area of focus for the Department of Administrative Service’s Chief Human Resources Office is to be considered the employer of choice for the people of Oregon, especially for ethnic and
+racial minority groups. Midway through FY 19, the State of Oregon moved to a new Human Resource Information System, Workday®. One of the benefits of this system is that it allows the Chief
+Human Resources Office to track where certain groups of people may be falling out of the pipeline during the recruitment process. An analysis of the recruitment pipeline is currently underway. A
+factor that numerically impacted the results for FY 18 and FY 19 is that the denominator used in the calculation was changed. Previously, the denominator had remained unchanged for a few years;
+the denominator was not updated with more recent census numbers that more accurately reflected the State of Oregon’s civilian workforce. For FY 18 and FY 19, this situation was remedied.
+Moving forward, the denominator will be updated annually based on data provided by the Oregon Employment Department.
+KPM #6            FLEET ADMINISTRATION - Average Miles Per Gallon for DAS Permanently Assigned Fleet Vehicles.
+                  Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                  2015                              2016                               2017                              2018                              2019
+Av e rage  M ile s Pe r Gallon
+Actual                                                                           20.20                             20.43                             20.38                              20.51                             20.84
+Target                                                                           19.88                             20.03                             20.17                                21                                21
+
+How Are We Doing
+The 2019 average has increased from the 2017 and 2018 values and we have exceeded the target to achieve the 10% increase over 2007 levels by 2020. Currently we are at a 11.3% increase
+over the 18.73 MPG 2007 baseline.
+
+The stated target of 21 MPG for 2019 is an error as 20.6 MPG represents a 10% increase over the 2007 baseline. This target should be adjusted accordingly.
+Factors Affecting Results
+Vehicles continue to increase in efficiency and DAS Fleet continues to use fuel efficiency as a main selection factor when purchasing vehicles. DAS has a large project to install EV charging
+infrastructure in the Capital Mall and Salem Motor Pool.  Adding more of these vehicles over the next several biennia will further increase fuels efficiency and help meet Legislative and Governor’s
+goals for Zero Emission Vehicle adoption.
+KPM #7               RENT COSTS - DAS negotiated lease rates in private sector vs. average market rates.
+                     Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                   2015                              2016                              2017                               2018                              2019
+DAS ne gotiate d le ase  rate  v s. av e rage  marke t rate  (Sale m/Ke ize r)
+Actual                                                                          No Data                              15%                                4%                               18%                                 6%
+Target                                                                            TBD                                 0%                                0%                                5%                                 5%
+
+How Are We Doing
+The 2018-19 measure period has performed well for market conditions. It is currently a difficult market, but is transitioning slowly back into less of a Landlord-oriented playing field, with more
+opportunities seen on the horizon. Inventory is getting better, but construction costs are still extremely high. Through our external resources and leveraging the buying power of the state (as a
+creditworthy tenant), we have been able to continue to lease under the market.
+
+                                                                             2018 Value s                     2019 Value s                  % change
+                                                                       (July 1, 2017 – June 30,        (July 1, 2018 – June 30,           (from 2018 to
+                                                                                  2018)                           2019)                        2019)
+State private lease rate                                                                       $1.45                          $1.55               +   6.80 %
+Average cost of market  (full service, grossed-up)                                             $1.72                          $1.90               + 10.47 %
+
+Quantity of Leases  (negotiated in Salem)                                                          18                             20              + 10.00 %
+Volume   (in Salem)                                                                         135,000                        336,213              + 140.15 %
+Quantity of Leases (negotiated in portfolio)                                                        158                              133             -   18.80 %
+Volume  (of portfolio)                                                                         795,000                       1,164,922                + 46.53 %
+
+Factors Affecting Results
+As predicted last year, we are continuing to accumulate vast savings in facility costs for state agencies. Moving forward, we should continue to see that the negotiation power will continue to shift
+towards the Tenants, we should see an advantage from a negotiation standpoint over the next year, moving away from the difficult previous couple of years of low inventory and high prices.
+KPM #8    INFORMATION SECURITY - Overall information security maturity rating based on a sample of state agencies. Rating achieved using a compilation and aggregate score based on the ISO
+          27002 standard and assigning a rating using the Carnegie-Mellon Capability Maturity Model. (3rd party conducting information security business risk assessments)
+          Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Re port Ye ar                                                                 2015                             2016                              2017                             2018                              2019
+Information Se curity
+Actual                                                                          3.11                              1.65                             1.65                              1.65                             1.65
+Target                                                                            3                                 3                                3                               3.50                             3.50
+
+How Are We Doing
+This is the same as last year, 2018. Due to the focus on the implementation of Senate Bill 90 Unification of IT Security, the ESO has been reorganizing efforts to address the most prevalent and
+risky findings. The states maturity model for 2018 and 2019 were based on the NIST Cybersecurity Framework. This federal framework measures on 22 distinct control areas, indicated below in the
+table.
+
+                                    Function                            Proce ss Cate gory                            Av e rage
+                          IDENTIFY (ID)                   Asset Management                                     1.7
+                          IDENTIFY (ID)                   Business Environment                                 1.7
+                          IDENTIFY (ID)                   Governance                                           1.7
+                          IDENTIFY (ID)                   Risk Assessment                                      1.7
+                          IDENTIFY (ID)                   Risk Management Strategy                             1.7
+                          PROTECT (PR)                    Access Control                                       1.9
+                          PROTECT (PR)                    Awareness and Training                               1.9
+                         PROTECT (PR)                  Data Security                                       1.9
+                         PROTECT (PR)                  Information Protection Processes                    1.9
+                         PROTECT (PR)                  Maintenance                                         1.9
+                         PROTECT (PR)                  Protective Technology                               1.9
+                         DETECT (DE)                   Anomalies and Events                                1.3
+                         DETECT (DE)                   Security Continuous Monitoring                      1.3
+                         DETECT (DE)                   Detection Processes                                 1.3
+                         RESPOND (RS)                  Response Planning                                   1.4
+                         RESPOND (RS)                  Response Communications                             1.4
+                         RESPOND (RS)                  Incident Analysis                                   1.4
+                         RESPOND (RS)                  Incident Mitigation                                 1.4
+                         RESPOND (RS)                  Incident Review                                     1.4
+                         RECOVER (RC)                  Recovery Planning                                   1.7
+                         RECOVER (RC)                  Recovery Improvements                               1.7
+                         RECOVER (RC)                  Recovery Communications                             1.7
+
+Factors Affecting Results
+Methodology was changed in 2016 in line with direction under Executive Order 16-13 for agency by agency risk assessment. The intended assessment was to be more in depth, so an alternate
+standard was used - the NIST Cybersecurity Framework. Assessments were performed by multiple vendors at 13 agencies.
+
+Given the above and the intent of Senate Bill 90, a proposal for a new measure will be made at the next legislative opportunity. This new proposed measure will be more supportive of our security
+posture.
+KPM #10               RISK MANAGEMENT - Annual number of Severe Worker's Compensation claims per 100 FTE
+                      Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = negative result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                  2015                              2016                              2017                              2018                               2019
+Numbe r of Se v e re  Worke r's Compe nsation Claims pe r 100 FTE
+Actual                                                                           1.57                              1.56                               1.70                              1.52                              1.59
+Target                                                                             0                                 0                                  0                               1.50                              1.50
+
+How Are We Doing
+For 2018-19, saw an .85% decrease in the total number of severe claims, but finished 6% above target. This can be traced mainly to a 2.5% increase in the total number of claims involving
+temporary disability (565 for 2018-19 vs. 551 for 2017-18). However, the total number of more severe claims resulting in some level of permanent disability decreased by 58% (15 for 2018-19 vs. 36
+for 2017-18).
+Factors Affecting Results
+Total claims (severe and non-severe) decreased by 4.78%.
+
+Total severe claims decreased by .85%.
+
+However, total FTE decreased by 5.04%. Though total claim frequency is down and total severe claims are down, this was off-set by an even larger decrease in total FTE. With fewer FTE we should
+expect fewer claims and fewer severe claims, but those decreases were not in proportion to the total reduction in FTE.
+
+It's interesting to note that while our calculation of FTEs is down by 5.04%; our calculation of hours worked for the same period is up by 2.35%. Though fewer FTEs, exposure hours were up.
+KPM #11                          DATA CENTER - Percentage of time systems are available.
+                                 Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Re port Ye ar                                                                  2015                             2016                              2017                              2018                              2019
+Data Ce nte r- Syste ms Av ailability
+Actual                                                                         99.96%                            99.90%                            99.91%                            99.84%                            99.94%
+Target                                                                         99.90%                            99.90%                            99.90%                            99.90%                            99.90%
+
+How Are We Doing
+The availability of 99.94% for FY 2019 is above target.
+Factors Affecting Results
+The Data Center has transitioned most of their infrastructure to a Unified Computing Platform and virtualized over 98% of the server computing platform. This has improved the stability and reliability
+of the computing environment as well as significantly expanded the use of our computing infrastructure.

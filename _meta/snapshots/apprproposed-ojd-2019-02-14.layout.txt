@@ -1,0 +1,219 @@
+Judicial, Department of
+     Annual Performance Progress Report
+             Reporting Year 2018
+       Published: 2/14/2019 9:27:03 AM
+ KPM #       Approved Key Performance Measures (KPMs)
+1           Access and Fairness - The Access and Fairness survey w as developed by the National Center for State Courts. The anonymous survey asks questions on access and fairness, along w ith background information about the respondent. The
+            questions are clear, concise, and most importantly, actionable. The rating method is straightforw ard so the survey can be completed in 5 minutes or less.
+2           Clearance Rates - Clearance rates measure w hether the courts are keeping up w ith their incoming caseload. If cases are not disposed in a timely manner, a backlog of cases aw aiting disposition w ill grow . This measure is a single number that can
+            be compared w ithin the court for any and all case types, from month to month and year to year, or betw een one court and another. This information can help courts pinpoint emerging problems and indicate w here improvements can be made.
+3           Time to Disposition - This measure, in conjunction w ith Clearance Rates, is a fundamental management tool that assesses the length of time it takes a court to process cases. It compares a court’s performance w ith national guidelines for timely case
+            processing. The measure takes into account periods of inactivity beyond the court’s control and provides a framew ork for meaningful measurement across all case types
+4           Time to Judgement Entry - The average number of days betw een signature of a judgment and the date of entry into the official record
+5           Time to First Permanency Hearing - Child abuse and neglect cases are driven by one underlying principle: expeditious permanency for children. The longer children are in substitute care, the longer they are in doubt as to w here their permanent home
+            w ill be and the more likely it is that they w ill have multiple placements. Percent of cases that have first permanency hearing w ithin 14 months
+            Collection Rate - Percent of cases paid in full w ithin a year of judgment (violations only) This measure focuses solely on violations to evaluate the timeliness and effectiveness of collection actions. Most violations do not have the same barriers to
+6           collections that are encountered w hen collecting on felony and misdemeanor debt (debtors w ith history of criminal activity or drug/alcohol abuse, incarceration, unemployment, multiple debts w ith OJD and other probation/parole agencies, higher
+            amounts ow ed). By evaluating violations only, OJD can determine w hich collection practices are most successful and w hat needs to change to see improvement. The collection practices that apply w ell in violations can often be applied to
+            misdemeanor and felony cases even if the collection rate w ill be low er in those case types because of the barriers to collection described above.
+            Oregon Recidivism Rates - The arrest, conviction, or incarceration of adults w ho have previously been convicted of a crime w ithin three years of the date of conviction or release from custody of the previously convicted crime HB 3194 (2013)
+            provides a new  statew ide definition of recidivism. The definition includes the arrest, conviction, or incarceration for a new  crime w ithin three years. The Department of Corrections (DOC) tracks recidivism for offenders starting felony probation and
+7           for offenders starting post-prison supervision or parole supervision in six month cohorts. This cohort is the starting population to track recidivism. The Oregon Judicial Department (OJD) submits quarterly circuit court case data to the Criminal Justice
+            Commission (CJC) so it can be combined w ith the DOC data, along w ith arrest data from Oregon State Police (OSP), to track the three components of recidivism. The three components (incarceration, conviction, arrest) of this new  recidivism
+            analysis are tracked separately; a single offender can contribute to all three measures, or a subset depending on the criminal justice system’s response to the new  criminal activity committed.
+            Effective Use of Jurors - The percentage of available jurors w ho are selected for jury duty w ho are qualified and available to serve (juror yield) The National Center for State Courts (NCSC) commonly uses a juror yield goal of 40 percent, a value
+8           demonstrated to be realistic in many w ell-managed courts. The national average juror yield is approximately 53 percent. Although variations are expected, points falling w ell above or w ell below  the average can alert the court to the need for
+            possible adjustments to the number of persons summoned.
+9           Employee Retention - Annual employee turnover rate. Our target is to have a retention rate w ith no greater annual turnover than the State of Oregon’s Department of Administrative Service (DAS) annual retention rate.
+
+ Proposal        Proposed Key Performance Measures (KPMs)
+Delete          Access and Fairness - The Access and Fairness survey w as developed by the National Center for State Courts. The anonymous survey asks questions on access and fairness, along w ith background information about the respondent. The
+                questions are clear, concise, and most importantly, actionable. The rating method is straightforw ard so the survey can be completed in 5 minutes or less.
+New             Access and Fairness - Rating of court users on the court's accessibility and its treatment of customers in terms of fairness, equality, respect.
+Delete          Time to Disposition - This measure, in conjunction w ith Clearance Rates, is a fundamental management tool that assesses the length of time it takes a court to process cases. It compares a court’s performance w ith national guidelines for timely
+                case processing. The measure takes into account periods of inactivity beyond the court’s control and provides a framew ork for meaningful measurement across all case types
+New             Time to Disposition - The percentage of cases disposed or otherw ise resolved w ithin established time frames.
+Delete          Time to Judgement Entry - The average number of days betw een signature of a judgment and the date of entry into the official record
+New             Time to Judgement Entry - The percent of criminal cases that have a final judgment entered into the case register w ithin three business days of the sentencing hearing or disposition.
+                Oregon Recidivism Rates - The arrest, conviction, or incarceration of adults w ho have previously been convicted of a crime w ithin three years of the date of conviction or release from custody of the previously convicted crime HB 3194 (2013)
+                provides a new  statew ide definition of recidivism. The definition includes the arrest, conviction, or incarceration for a new  crime w ithin three years. The Department of Corrections (DOC) tracks recidivism for offenders starting felony probation
+Delete          and for offenders starting post-prison supervision or parole supervision in six month cohorts. This cohort is the starting population to track recidivism. The Oregon Judicial Department (OJD) submits quarterly circuit court case data to the Criminal
+                Justice Commission (CJC) so it can be combined w ith the DOC data, along w ith arrest data from Oregon State Police (OSP), to track the three components of recidivism. The three components (incarceration, conviction, arrest) of this new
+                recidivism analysis are tracked separately; a single offender can contribute to all three measures, or a subset depending on the criminal justice system’s response to the new  criminal activity committed.
+New             Drug Court Recidivism - The percent of adult drug court graduates w ith no misdemeanor or felony charges filed in Oregon circuit courts w ithin one year of program graduation.
+                                                                                                                       red
+                                                                                                                       green
+                                                                                                                       yellow
+
+ Performance Summary                                                                                                     Green                                          Yellow                                           Red
+
+                                                                                                                      = Target to -5%                             = Target -5% to -15%                              = Target > -15%
+Summary Stats:                                                                                                           11.11%                                         22.22%                                          66.67%
+          Access and Fairness - The Access and Fairness survey was developed by the National Center for State Courts. The anonymous survey asks questions on access and fairness, along with
+KPM #1    background information about the respondent. The questions are clear, concise, and most importantly, actionable. The rating method is straightforward so the survey can be completed in
+          5 minutes or less.
+          Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Re port Ye ar                                                               2016                             2017                              2018                              2019                             2020
+Acce ss and Fairne ss
+Actual                                                                      No Data                           No Data                          No Data                           No Data                           No Data
+Target                                                                        TBD                               TBD                               0%                                0%                                0%
+
+How Are We Doing
+Factors Affecting Results
+           Clearance Rates - Clearance rates measure whether the courts are keeping up with their incoming caseload. If cases are not disposed in a timely manner, a backlog of cases awaiting
+KPM #2     disposition will grow. This measure is a single number that can be compared within the court for any and all case types, from month to month and year to year, or between one court and
+           another. This information can help courts pinpoint emerging problems and indicate where improvements can be made.
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                   2016                              2017                              2018                               2019                               2020
+Cle arance  Rate s
+Actual                                                                          No Data                              90%                               94%                             No Data                             No Data
+Target                                                                            100%                              100%                              100%                               100%                                 0%
+
+How Are We Doing
+This is a new performance measure for OJD, the first reporting year was 2017.  We are not able to report on data from prior years during the OJIN to Odyssey conversion (2011-2016) due to
+significant data entry clean up efforts courts were doing prior to their conversion to Odyssey. During those years, there were thousands of old cases that were coded as 'closed' but were
+adjudicated in prior years. As a result, clearance rates for those years are inflated and do not accurately reflect court work.
+
+When courts exceed the clearance rate targets, dispositions are outpacing filings and when courts fall below their clearance rate targets, caseflow management practices and resource allocations
+need to be reviewed.
+
+Factors Affecting Results
+Changes in caseload could impact the allocation of judicial officers to certain case types and initiate caseflow management improvements. Time to disposition rates may also vary due to the
+seriousness or complexity of the caseload, charging and pleading practices, variation in court case management practices, and the use of statewide business processes.
+
+Courts are currently not meeting their time to disposition targets and filings are outpacing dispositions, so the pending backlog of cases continues to grow.  As of the end of 2018, circuit courts had
+over 230,000 pending cases, 27% of which were over two years old.
+
+          Time to Disposition - This measure, in conjunction with Clearance Rates, is a fundamental management tool that assesses the length of time it takes a court to process cases. It compares
+KPM #3    a court’s performance with national guidelines for timely case processing. The measure takes into account periods of inactivity beyond the court’s control and provides a framework for
+          meaningful measurement across all case types
+          Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                2016                               2017                              2018                              2019                               2020
+Time  to Disposition
+Actual                                                                        No Data                           No Data                           No Data                            No Data                           No Data
+Target                                                                          TBD                               TBD                                 0                                  0                                 0
+
+How Are We Doing
+Factors Affecting Results
+KPM #4         Time to Judgement Entry - The average number of days between signature of a judgment and the date of entry into the official record
+               Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                     actual      target
+
+  Re port Ye ar                                                                     2016                                2017                               2018                                2019                                 2020
+Time  to Judge me nt Entry
+Actual                                                                               2.66                               2.31                                1.80                             No Data                              No Data
+Target                                                                                 3                                  2                                   2                                   2                                   0
+
+How Are We Doing
+
+In 2013, several courts started to prepare for the transition to Oregon eCourt and the data conversion that would be necessary. While this measure primarily reflects timeliness, it is also dependent upon and
+reflective of data entry accuracy. As more courts transitioned to Odyssey and business processes were standardized and automated, the days to judgment entry has improved.
+
+Factors Affecting Results
+
+When court staff manually enter data, human error is always possible. These errors are mitigated through standard data entry protocols as well as education programs and monitoring procedures to ensure
+that corrections can be made to court practices. This measure is not only a way to measure data timeliness and accuracy, but also a tool to identify training or resource needs at the courts.
+
+          Time to First Permanency Hearing - Child abuse and neglect cases are driven by one underlying principle: expeditious permanency for children. The longer children are in substitute care,
+KPM #5    the longer they are in doubt as to where their permanent home will be and the more likely it is that they will have multiple placements. Percent of cases that have first permanency hearing
+          within 14 months
+          Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Re port Ye ar                                                                2016                              2017                              2018                              2019                               2020
+Time  to First Pe rmane ncy He aring
+Actual                                                                          87%                              83%                             No Data                            No Data                           No Data
+Target                                                                          95%                              95%                               95%                                95%                                0%
+
+How Are We Doing
+Factors Affecting Results
+           Collection Rate - Percent of cases paid in full within a year of judgment (violations only) This measure focuses solely on violations to evaluate the timeliness and effectiveness of collection
+           actions. Most violations do not have the same barriers to collections that are encountered when collecting on felony and misdemeanor debt (debtors with history of criminal activity or
+KPM #6     drug/alcohol abuse, incarceration, unemployment, multiple debts with OJD and other probation/parole agencies, higher amounts owed). By evaluating violations only, OJD can determine
+           which collection practices are most successful and what needs to change to see improvement. The collection practices that apply well in violations can often be applied to misdemeanor
+           and felony cases even if the collection rate will be lower in those case types because of the barriers to collection described above.
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                  2016                              2017                               2018                               2019                               2020
+Colle ction Rate
+Actual                                                                          82.10%                            81.20%                            No Data                            No Data                             No Data
+Target                                                                            90%                               90%                               90%                                 90%                                 0%
+
+How Are We Doing
+Factors Affecting Results
+           Oregon Recidivism Rates - The arrest, conviction, or incarceration of adults who have previously been convicted of a crime within three years of the date of conviction or release from
+           custody of the previously convicted crime HB 3194 (2013) provides a new statewide definition of recidivism. The definition includes the arrest, conviction, or incarceration for a new crime
+           within three years. The Department of Corrections (DOC) tracks recidivism for offenders starting felony probation and for offenders starting post-prison supervision or parole supervision in
+KPM #7     six month cohorts. This cohort is the starting population to track recidivism. The Oregon Judicial Department (OJD) submits quarterly circuit court case data to the Criminal Justice
+           Commission (CJC) so it can be combined with the DOC data, along with arrest data from Oregon State Police (OSP), to track the three components of recidivism. The three components
+           (incarceration, conviction, arrest) of this new recidivism analysis are tracked separately; a single offender can contribute to all three measures, or a subset depending on the criminal
+           justice system’s response to the new criminal activity committed.
+           Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Re port Ye ar                                                                  2016                                2017                               2018                               2019                               2020
+Ore gon Re cidiv ism Rate s
+Actual                                                                          No Data                            No Data                            No Data                            No Data                             No Data
+Target                                                                            TBD                                TBD                                 0%                                  0%                                 0%
+
+How Are We Doing
+Factors Affecting Results
+           Effective Use of Jurors - The percentage of available jurors who are selected for jury duty who are qualified and available to serve (juror yield) The National Center for State Courts (NCSC)
+KPM #8     commonly uses a juror yield goal of 40 percent, a value demonstrated to be realistic in many well-managed courts. The national average juror yield is approximately 53 percent. Although
+           variations are expected, points falling well above or well below the average can alert the court to the need for possible adjustments to the number of persons summoned.
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Re port Ye ar                                                                 2016                              2017                               2018                              2019                               2020
+Effe ctiv e  Use  of Jurors
+Actual                                                                         No Data                           46.40%                            No Data                            No Data                            No Data
+Target                                                                           TBD                               53%                               53%                                53%                                 0%
+
+How Are We Doing
+Factors Affecting Results
+KPM #9    Employee Retention - Annual employee turnover rate. Our target is to have a retention rate with no greater annual turnover than the State of Oregon’s Department of Administrative
+          Service (DAS) annual retention rate.
+          Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Re port Ye ar                                                               2016                             2017                             2018                              2019                              2020
+Employe e  Re te ntion
+Actual                                                                         86%                              85%                              87%                            No Data                           No Data
+Target                                                                         88%                              88%                              88%                              88%                                0%
+
+How Are We Doing
+Factors Affecting Results

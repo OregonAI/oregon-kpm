@@ -1,0 +1,628 @@
+Higher Education Coordinating Commission
+                      Annual Performance Progress Report
+
+                              Reporting Year 2022
+
+                        Published: 9/30/2022 5:33:32 PM
+ KPM #        Approved Key Performance Measures (KPMs)
+
+1            Oregon High School Graduates Attending College - Percentage of Oregon students enrolled in college within 16 months of their 4-year high school cohort graduation date.
+2            Racial/Ethnic Differences Among Oregon High School Graduates Attending College - Percentage of Oregon students enrolled in college within 16 months of their 4-year high school cohort graduation date, disaggregated by race/ethnicity
+3            College Credits Earned by K-12 Students - Amount of postsecondary credit per graduate awarded to K-12 students.
+4            Oregon Educational Attainment - Percent of young Oregon adults with post secondary degree or certificate
+5            Community College Completion and Transfer Rate - Percentage of community college students who complete an associate degree or certificate or who transfer to the university system within three years.
+6            Racial/Ethnic Differences for Community College Completion and Transfer Rate - Percentage of community college students who complete an associate degree or certificate or who transfer to university system within three years by race/ethnicity.
+7            Public University Graduation Rate - Percentage of public university college students who complete a bachelor’s degree within 6 years.
+8            Racial/Ethnic Differences for Public University Graduation Rate - Percentage of public university students who complete a bachelor’s degree within 6 years, by race/ethnicity.
+9            Percentage of resident enrolled students who are incurring unaffordable costs - Percentage of resident enrolled students who are incurring unaffordable costs adjusted with institutional aid.
+10           Racial/Ethnic Differences in Percentage of Resident Students incurring Unaffordable Costs - Percentage of resident enrolled students who are incurring unaffordable costs adjusted with institutional aid, by race/ethnicity.
+11           Earnings of Community College Completers - Median earnings of community college completers five years after completion.
+12           Racial/Ethnic Differences in Earnings of Community College Completers - Median earnings of community college completers, five years after completion, by race/ethnicity.
+13           Earnings of bachelor's degree completers - Median earnings of graduates with bachelor's degrees five years after completion
+14           Racial/Ethnic Differences in Earnings of Bachelor's Degree Completers - Median earnings of graduates with bachelor's degrees, five years after completion, by race/ethnicity.
+15           Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+16           Commission Best Practices - Percent of total best practices met by the Commission.
+
+                                                                                                                                                              red
+                                                                                                                                                              green
+                                                                                                                                                              yellow
+
+ Performance Summary                                                                                                                                                Green                                                        Yellow                                                           Red
+
+                                                                                                                                                               = Target to -5%                                           = Target -5% to -15%                                              = Target > -15%
+Summary Stats:                                                                                                                                                        50%                                                        18.75%                                                         31.25%
+KPM #1     Oregon High School Graduates Attending College - Percentage of Oregon students enrolled in college within 16 months of their 4-year high school cohort graduation date.
+           Data Collection Period: Jan 01 - Oct 31
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Report Year                                                                 2018                              2019                              2020                             2021                              2022
+Oregon High School Graduates Attending College
+Actual                                                                       64.80%                            64.10%                           61.80%
+Target                                                                         66%                              66%                               68%                               68%                               66%
+
+How Are We Doing
+This measure is provided to the HECC by the Oregon Department of Education, which has had a delay in its calculation. We will amend our report with updated data when those results become
+available.
+
+Factors Affecting Results
+KPM #2    Racial/Ethnic Differences Among Oregon High School Graduates Attending College - Percentage of Oregon students enrolled in college within 16 months of their 4-year high school cohort
+          graduation date, disaggregated by race/ethnicity
+          Data Collection Period: Jan 01 - Jan 01
+
+                                                                          actual    target
+
+ Report Year                                                             2018                           2019                            2020                           2021                            2022
+American Indian or Alaskan Native
+Actual                                                                  53.50%                         50.40%                          48.50%
+Target                                                                  62.50%                           66%                            66%                             68%                            66%
+b. Asian American
+Actual                                                                  82.50%                         81.40%                          79.40%
+Target                                                                   66%                             83%                            74%                             75%                            84%
+c. Black or African American
+Actual                                                                  64.60%                         63.50%                          61.20%
+Target                                                                   66%                             66%                            68%                             70%                            66%
+d. Hispanic or Latina/-o
+Actual                                                                  58.50%                         57.80%                          55.10%
+Target                                                                  61.70%                           66%                            68%                             70%                            66%
+e. Native Hawaiian or Pacific Islander
+Actual                                                                  54.40%                         51.30%                          51.40%
+Target                                                                  61.30%                           66%                            68%                             70%                            66%
+f. White
+Actual                                                                  65.50%                         64.90%                          62.80%
+Target                                                                  65.20%                           66%                            68%                             70%                            66%
+
+How Are We Doing
+This measure is provided to the HECC by the Oregon Department of Education, which has had a delay in its calculation. We will amend our report with updated data when those results become
+available.
+
+Factors Affecting Results
+KPM #3          College Credits Earned by K-12 Students - Amount of postsecondary credit per graduate awarded to K-12 students.
+                Data Collection Period: Sep 01 - Aug 31
+
+* Upward Trend = positive result
+
+                                                                                actual     target
+
+  Report Year                                                                  2018                              2019                              2020                              2021                              2022
+College Credits Earned by K-12 Students
+Actual                                                                         10.49                            10.44                              9.47                              7.90                              7.23
+Target                                                                         10.50                              11                                11                                11                              11.50
+
+How Are We Doing
+The narrative portion for this metric will be added in the coming weeks.
+
+Factors Affecting Results
+KPM #4             Oregon Educational Attainment - Percent of young Oregon adults with post secondary degree or certificate
+                   Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                    actual     target
+
+  Report Year                                                                      2018                               2019                                2020                                2021                                2022
+Oregon Educational Attainment
+Actual                                                                           53.60%                              54.60%                              54.10%                              53.60%                             54.40%
+Target                                                                             55%                                 59%                                 57%                                 58%                                59%
+
+How Are We Doing
+We estimate that the percentage of Oregon adults age 25 to 34 in 2020 who have a postsecondary degree or certificate is 54.4 percent. The attainment rate rose very slightly in the most recent year,
+by less than a percentage point but has remained generally flat for the last five years.
+
+Attainment by level of education is shown below for the most recent year and for previous years. The percentage of young adults with a degree or certificate beyond high school was 50 percent in
+2012 and rose for the next few years before remaining at about 54 percent from 2016 forward through the most recent year. In particular, the percentage of the population with a bachelor’s degree fell
+very slightly from 35.3 percent to 35.1 percent in the most recent year, while the percentage estimated to have an associate degree or career certificate fell from 18.9 percent to 18.5 percent. We note
+that the percentage of the young adult population with some college and no credential also fell, from 19.7 percent to 18.8 percent. In contrast, the percentage with a high school diploma or equivalent
+rose markedly, from 17.9 percent to 20.4 percent. This increase, combined with the slight decline in the percentage of the population with less than a high school diploma, likely reflects the State’s
+steadily rising high school graduation rate. The increase in the share of the population with only a high school education (an increase of 2.5 percentage points) is roughly equivalent to the combined
+declines in the share with less than a high school education (1.0 percentage points), the share with some college and no credential (0.9 percentage points), and the share with a postsecondary
+credential (0.5 percentage points). These relative shifts in the education level of the young adult population suggests that the rising number of high school graduates in the State may have stopped at
+that level of education and not become postsecondary credential holders. Continued progress—and progress at a faster rate—will be necessary to meet the state's goal of 80 percent of the young
+adult population with a postsecondary degree or certificate.
+
+                                            2016           2017           2018           2019           2020
+
+Bachelor's degree or more                  34.9%          36.7%          35.3%           35.1%         36.0%
+
+Associate degree or certificate            18.7%          17.9%          18.9%           18.5%         18.4%
+
+Some college                               19.9%          18.5%          19.7%           18.8%         18.8%
+
+High school diploma or                     18.1%          18.7%          17.9%           20.4%         19.1%
+equivalent
+
+Less than high school                       8.4%           8.2%           8.2%           7.2%           6.8%
+
+Factors Affecting Results
+The amount of educational attainment among Oregon young adults reflects both the attainment of Oregon youth moving into adulthood and the migration of young adults into the state. These data do
+not allow for disaggregating how much of the increase in attainment is the result of in-migration.
+
+Other Comments:
+
+This estimate comes from U.S. Census Bureau data drawn from the annual American Community Survey (ACS), one-year estimates. Year-to-year variation in the survey sample can affect the results.
+For the 2020 year, data come from the ACS five-year estimates, as the Census Bureau does not release one-year estimates.
+
+The data presented here are further calculated to incorporate an estimate of certificate attainment, based on estimates of certificate rates put forth by the Census Bureau using Survey of Income and
+Program Participation data (https://www.census.gov/prod/2014pubs/p70-138.pdf) and a Lumina Foundation survey from the University of Chicago's NORC survey group
+(http://strongernation.luminafoundation.org/report/2017/#page/narrative).
+KPM #5    Community College Completion and Transfer Rate - Percentage of community college students who complete an associate degree or certificate or who transfer to the university system
+          within three years.
+          Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Report Year                                                                 2018                             2019                              2020                              2021                             2022
+Community College Completion and Transfer Rate
+Actual                                                                      47.80%                            48.70%                              50%                            52.50%                              51%
+Target                                                                                                          49%                             49.50%                             50%                               52%
+
+How Are We Doing
+The narrative portion for this metric will be added in the coming weeks.
+
+Factors Affecting Results
+KPM #6    Racial/Ethnic Differences for Community College Completion and Transfer Rate - Percentage of community college students who complete an associate degree or certificate or who transfer
+          to university system within three years by race/ethnicity.
+          Data Collection Period: Jan 01 - Jan 01
+
+                                                                          actual    target
+
+ Report Year                                                             2018                           2019                            2020                            2021                           2022
+American Indian or Alaska Native
+Actual                                                                  40.10%                         44.60%                          52.80%                         50.30%                          44.70%
+Target                                                                                                   49%                           49.50%                           50%                             50%
+b. Asian American
+Actual                                                                  52.40%                         55.30%                          51.30%                           60%                           56.90%
+Target                                                                                                   55%                           53.30%                         53.50%                            57%
+c. Black or African American
+Actual                                                                  39.70%                         38.10%                          40.20%                         43.90%                          43.40%
+Target                                                                                                   49%                           49.50%                           50%                             50%
+d. Hispanic or Latina/-o
+Actual                                                                  44.30%                         45.10%                          46.10%                         49.70%                          46.40%
+Target                                                                                                   49%                           49.50%                           50%                             50%
+e. Native Hawaiian or Pacific Islander
+Actual                                                                  45.40%                         36.50%                          39.40%                           40%                           43.10%
+Target                                                                                                   49%                           49.50%                           50%                             50%
+f. White
+Actual                                                                  49.70%                         50.90%                          52.20%                           54%                           52.80%
+Target                                                                                                   51%                           50.30%                         50.50%                            54%
+
+How Are We Doing
+The narrative portion for this metric will be added in the coming weeks.
+
+Factors Affecting Results
+KPM #7         Public University Graduation Rate - Percentage of public university college students who complete a bachelor’s degree within 6 years.
+               Data Collection Period: Sep 01 - Aug 31
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2018                               2019                               2020                               2021                               2022
+Public University Graduation Rate
+Actual                                                                          63.40%                             64.60%                             66.30%                             67.20%                             67.70%
+Target                                                                          63.50%                               64%                              64.50%                               65%                                68%
+
+How Are We Doing
+University graduation rates have increased every year for the last six years and have consistently met or exceeded our targets. The overall public university graduation rate topped 67% for the first
+time with the 2014 cohort of entering students and nearly met the aggressive target of 68% with the 2015 cohort.
+
+Historically, Oregon resident students tended to have slightly higher 6-year graduation rates than their nonresident counterparts by about 3-4 percentage points. That gap had narrowed somewhat in
+recent years, but for the 2015 cohort, the nonresident rate dipped a bit, putting the resident rate once again 4 percentage points higher than their nonresident counterparts.
+
+Cohort Year                     Fall 2011        Fall 2012         Fall 2013        Fall 2014         Fall 2015
+Actual                            66.4%            64.5%             64.7%            65.4%             63.6%
+
+Factors Affecting Results
+A number of factors influence student retention and completion, including adequate academic preparation for college, essential support services (e.g., freshmen orientation and engagement programs,
+tutoring, academic advising, early warning programs, faculty and peer mentors), financial issues, and personal and family events.
+
+Other Comments:
+
+This measure presents the percentage of first-time, full-time resident Oregon public university students starting in a given Fall term and graduating from an Oregon public university within six years.
+
+We define this concept in the following terms:
+
+                                                                                  (Number of students in the cohort who graduate within six years)
+
+                                                                                                                       divided by
+
+                                                                              (Total number of students enrolled in the Fall entering freshman cohort)
+
+       This metric is based on the IPEDS definition for the Fall entering freshman cohort. This restricts the cohort to first-time, full-time freshmen.
+       This is a rate that counts inter-institutional transfers as graduating. In other words, the student does not need to graduate at the same university that they entered as a freshman. If they transfer
+       to and graduate from any one of the Oregon public universities they are included in the count of graduates.
+       Although this metric is framed as a six-year graduation rate. It could more accurately be described as the percentage of students graduating within 150% of normal time. For those pursuing a
+       bachelor’s degree this is, indeed, six years. However, Oregon public universities do award a small number of associate degrees as well. For students receiving an associate degree, they are
+       included in the numerator only if they graduate within 3 years (150% of normal time for an associate degree).
+
+Limitations of this definition/data limitations are:
+
+Given these limitations, results suggest:
+
+Improvements to this measure would come from:
+KPM #8    Racial/Ethnic Differences for Public University Graduation Rate - Percentage of public university students who complete a bachelor’s degree within 6 years, by race/ethnicity.
+          Data Collection Period: Jan 01 - Jan 01
+
+                                                                         actual    target
+
+ Report Year                                                            2018                           2019                           2020                           2021                            2022
+American Indian or Alaska Native
+Actual                                                                  39%                           44.40%                         55.20%                         52.20%                         45.20%
+Target                                                                 63.50%                           64%                          64.50%                           65%                            65%
+b. Asian American
+Actual                                                                 76.20%                         76.70%                         74.20%                         79.40%                         78.40%
+Target                                                                  70%                             75%                            76%                            76%                            77%
+c. Black or African American
+Actual                                                                 56.70%                           48%                          51.10%                         42.90%                         43.80%
+Target                                                                 63.50%                           64%                          64.50%                           65%                            65%
+d. Hispanic or Latina/-o
+Actual                                                                 58.90%                         62.30%                         59.40%                         59.30%                         63.80%
+Target                                                                 63.50%                           64%                          64.50%                           65%                            65%
+e. Native Hawaiian or Pacific Islander
+Actual                                                                 54.50%                           50%                          58.30%                         56.40%                           50%
+Target                                                                 63.50%                           64%                          64.50%                           65%                            65%
+f. White
+Actual                                                                 63.70%                         64.70%                         67.40%                         68.10%                         68.40%
+Target                                                                  65%                             66%                          65.80%                           66%                            70%
+
+How Are We Doing
+There are significant differences in graduation rates between the various racial/ethnic subcategories ranging from a high of 78.4% to a low of 43.8%. Asian American and White students consistently
+graduate at the highest rates, with Asian Americans being the only group to top 70%. Most groups seemed to stay in their typical range once again, although there is significant variance from year to
+year. It is potentially notable, however, that the Black or African American group remained in the lower 40% range once again and was not able to return to the 50% range it was typically hitting in the
+four years between 2017 to 2020.
+
+As with the overall graduation rate, even when broken down by racial/ethnic categories, Oregon resident students have tended to have slightly higher 6-year graduation rates than their nonresident
+counterparts. There is much more variance among these numbers, but in general, this seems to hold true. See the table below for detail.
+
+Racial/Ethnic Group                         Fall 2011      Fall 2012      Fall 2013      Fall 2014      Fall 2015
+Native American or Alaska                    33.3%           40.0%          50.0%          44.0%          60.0%
+Native
+Asian American                               69.3%           65.9%          70.7%          64.5%          73.0%
+Black or African American                    52.4%           52.1%          50.0%          51.2%          50.4%
+Hispanic or Latina/o                         60.8%           61.4%          60.7%          63.5%          62.0%
+Native Hawaiian or Pacific                   47.3%           32.8%          43.2%          40.7%          56.1%
+Islander
+White                                        69.0%           67.4%          66.3%          66.7%          65.4%
+
+Factors Affecting Results
+A number of factors influence student retention and completion, including adequate academic preparation for college, essential support services (e.g., freshmen orientation and engagement programs,
+tutoring, academic advising, early warning programs, faculty and peer mentors), financial issues, and personal and family events.
+
+Other Comments:
+
+This measure presents the percentage of first-time, full-time resident Oregon public university students starting in a given Fall term and graduating from an Oregon public university within six years.
+
+We define this concept in the following terms:
+
+                                                                                 (Number of students in the cohort who graduate within six years)
+
+                                                                                                                      divided by
+
+                                                                             (Total number of students enrolled in the Fall entering freshman cohort)
+
+       This metric is based on the IPEDS definition for the Fall entering freshman cohort. This restricts the cohort to first-time, full-time freshmen.
+       This is a rate that counts inter-institutional transfers as graduating. In other words, the student does not need to graduate at the same university that they entered as a freshman. If they transfer
+       to and graduate from any one of the Oregon public universities they are included in the count of graduates.
+       Although this metric is framed as a six-year graduation rate. It could more accurately be described as the percentage of students graduating within 150% of normal time. For those pursuing a
+       bachelor’s degree this is, indeed, six years. However, Oregon public universities do award a small number of associate degrees as well. For students receiving an associate degree, they are
+       included in the numerator only if they graduate within 3 years (150% of normal time for an associate degree).
+Limitations of this definition/data limitations are:
+
+Given these limitations, results suggest:
+
+Improvements to this measure would come from:
+KPM #9     Percentage of resident enrolled students who are incurring unaffordable costs - Percentage of resident enrolled students who are incurring unaffordable costs adjusted with institutional aid.
+           Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = negative result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2018                               2019                               2020                               2021                               2022
+Percentage of resident enrolled students who are incurring unaffordable costs adjusted with institutional aid.
+Actual                                                                          44.40%                             45.30%                             44.50%                             42.80%                             40.30%
+Target                                                                                                               40%                                39%                                38%                                40%
+
+How Are We Doing
+The percentage of students incurring unaffordable costs continues to decrease for the third year in a row. After 5 years in the range of 44% - 45%, in 2019-20, the percentage started to drop and has
+now nearly reached our target of 40%.
+
+Factors Affecting Results
+General factors affecting this metric include state support and expanded costs of providing education.
+
+Other Comments:
+
+This measure presents a calculation of the percentage of resident undergraduates enrolled at public higher education institutions (excluding OHSU) who incurred unaffordable total cost of attendance
+during the academic year while accounting for any grant aid that they received.
+
+We define this concept in the following terms:
+       “Unaffordable Costs Adjusted with Institutional Aid” –  A total cost of attendance that exceeds the student’s expected family contribution (EFC) plus their grant aid plus their earnings from a
+       reasonable amount of work (the student’s share). We used OSAC’s method of estimating a student’s share which is calculated as 90% of the minimum wage times 15 hours per week times 48
+       weeks. For 2020-21 this figure was $7,800.
+        “Resident Undergraduate” is restricted to resident admitted undergraduates at the universities and is restricted to students who attempted at least one credit at the community colleges. The
+        entire population is restricted to only those students who filled out a Free Application for Federal Student Aid (FAFSA).
+
+Limitations of this definition/data limitations are:
+
+Due to data limitations, this definition ignores scholarship awards and excludes all students who did not fill out a FAFSA. In addition, calculating total cost of attendance for each student requires some
+broad assumptions to be made, given the data sources that are available.
+
+Given these limitations, results suggest:
+
+Even given these limitations, the results suggest that a significant percentage of Oregon students will need to take on debt to go to college.
+
+Improvements to this measure would come from:
+
+There could be some benefit in breaking this measure out by university and community college students.
+KPM #10    Racial/Ethnic Differences in Percentage of Resident Students incurring Unaffordable Costs - Percentage of resident enrolled students who are incurring unaffordable costs adjusted with
+           institutional aid, by race/ethnicity.
+           Data Collection Period: Jan 01 - Jan 01
+
+                                                                          actual    target
+
+ Report Year                                                             2018                            2019                           2020                            2021                           2022
+American Indian or Alaska Native
+Actual                                                                  41.80%                         43.10%                          42.40%                          40.30%                           39%
+Target                                                                                                   36%                             36%                           35.50%                           36%
+b. Asian American
+Actual                                                                  56.10%                         55.70%                          53.60%                          50.60%                         48.30%
+Target                                                                                                   40%                             39%                            38%                             40%
+c. Black or African American
+Actual                                                                  46.50%                         46.60%                          45.90%                          45.10%                         43.50%
+Target                                                                                                   39%                             39%                           38.50%                           40%
+d. Hispanic or Latina/-o
+Actual                                                                  47.70%                         50.70%                          49.20%                          47.20%                           45%
+Target                                                                                                   40%                             39%                            38%                             40%
+e. Native Hawaiian or Pacific Islander
+Actual                                                                    45%                          46.50%                            44%                           46.60%                         40.10%
+Target                                                                                                   38%                           38.50%                           38%                             38%
+f. White
+Actual                                                                  42.50%                           43%                           42.20%                          40.70%                         38.10%
+Target                                                                                                   38%                             38%                           37.50%                           38%
+
+How Are We Doing
+In 2020-21, for the second time since we started tracking affordability, every one of the six racial/ethnic groups saw decreases in the percentage of students facing unaffordable costs. This is always
+an encouraging acheivement, but most of the groups still have not managed to meet our affordability targets. Currently only the White racial/ethnic group is hovering around their target of 38% facing
+unaffordable costs.
+
+Factors Affecting Results
+General factors affecting this metric include state support and expanded costs of providing education.
+
+Other Comments:
+
+This measure presents a calculation of the percentage of resident undergraduates enrolled at public higher education institutions (excluding OHSU) who incurred unaffordable total cost of attendance
+during the academic year while accounting for any grant aid that they received.
+
+We define this concept in the following terms:
+        “Unaffordable Costs Adjusted with Institutional Aid” –  A total cost of attendance that exceeds the student’s expected family contribution (EFC) plus their grant aid plus their earnings from a
+        reasonable amount of work (the student’s share). We used OSAC’s method of estimating a student’s share which is calculated as 90% of the minimum wage times 15 hours per week times 48
+        weeks. For 2020-21 this figure was $7,800.
+        “Resident Undergraduate” is restricted to resident admitted undergraduates at the universities and is restricted to students who attempted at least one credit at the community colleges. The
+        entire population is restricted to only those students who filled out a Free Application for Federal Student Aid (FAFSA).
+Limitations of this definition/data limitations are:
+
+Due to data limitations, this definition ignores scholarship awards and excludes all students who did not fill out a FAFSA. In addition, calculating total cost of attendance for each student requires some
+broad assumptions to be made, given the data sources that are available.
+
+Given these limitations, results suggest:
+
+Even given these limitations, the results suggest that a significant percentage of Oregon students will need to take on debt to go to college.
+
+Improvements to this measure would come from:
+
+There could be some benefit in breaking this measure out by university and community college students.
+KPM #11          Earnings of Community College Completers - Median earnings of community college completers five years after completion.
+                 Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                               actual     target
+
+  Report Year                                                    2018                                 2019                                 2020                                 2021                                2022
+Five years after completion
+Actual                                                       $37,095.00                           $35,542.00                           $39,129.00                           $40,070.00                           $42,424.00
+Target                                                       $35,745.00                           $38,000.00                           $38,500.00                           $39,000.00                           $40,000.00
+
+How Are We Doing
+The narrative portion for this metric will be added in the coming weeks.
+
+Factors Affecting Results
+KPM #12      Racial/Ethnic Differences in Earnings of Community College Completers - Median earnings of community college completers, five years after completion, by race/ethnicity.
+             Data Collection Period: Jan 01 - Jan 01
+
+                                                                             actual    target
+
+ Report Year                                                   2018                               2019                                2020                                2021                               2022
+American Indian and Alaska Native
+Actual                                                     $36,439.00                          $34,658.00                          $36,237.00                         $39,036.00                          $39,993.00
+Target                                                     $35,745.00                          $38,000.00                          $38,500.00                         $39,000.00                          $38,000.00
+b. Asian American
+Actual                                                     $39,610.00                          $39,214.00                          $41,508.00                         $42,868.00                          $45,359.00
+Target                                                     $35,745.00                          $40,000.00                          $40,000.00                         $40,000.00                          $41,000.00
+c. Black or African American
+Actual                                                     $33,468.00                          $33,654.00                          $37,780.00                         $41,546.00                          $40,379.00
+Target                                                     $35,745.00                          $38,000.00                          $38,500.00                         $39,000.00                          $38,000.00
+d. Hispanic or Latina/-o
+Actual                                                     $34,785.00                          $33,253.00                          $38,634.00                         $39,335.00                          $41,861.00
+Target                                                     $35,745.00                          $38,000.00                          $38,500.00                         $39,000.00                          $38,000.00
+e. Native Hawaiian or Pacific Islander
+Actual                                                     $35,186.00                          $30,607.00                          $38,360.00                         $42,291.00                          $40,303.00
+Target                                                     $35,745.00                          $38,000.00                          $38,500.00                         $39,000.00                          $39,000.00
+f. White
+Actual                                                     $37,404.00                          $35,918.00                          $39,398.00                         $40,269.00                          $42,506.00
+Target                                                     $35,745.00                          $38,500.00                          $38,500.00                         $39,000.00                          $39,000.00
+
+How Are We Doing
+The narrative portion for this metric will be added in the coming weeks.
+
+Factors Affecting Results
+KPM #13           Earnings of bachelor's degree completers - Median earnings of graduates with bachelor's degrees five years after completion
+                  Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                     2018                                  2019                                 2020                                  2021                                  2022
+Earnings of bachelor degree completers
+Actual                                                         $44,290.00                           $43,953.00                            $48,144.00                            $48,462.00                           $51,186.00
+Target                                                         $42,145.00                           $46,000.00                            $46,500.00                            $47,000.00                           $49,000.00
+
+How Are We Doing
+The data show that the median wage of the 2014-15 bachelor’s degree recipients was $51,186 five years after the year of the award. This continues an upward trend over the last five years and
+exceeds this year’s target for this measure.
+
+Note:  All data points can change year-to-year due to updated wage data from OED.
+
+Factors Affecting Results
+Labor market, inflation, career advising, wage data availability all affect the earnings of completers.
+
+Other Comments:
+
+This measure is a calculation of the median annual wage of bachelor’s degree recipients at Oregon public universities 5 years after the award.
+
+We define this concept in the following terms:
+       “Bachelor’s degree completers” are defined as individuals who were awarded a baccalaureate degree by an Oregon public university during the 2014-15 academic year.
+       The information on university completers was matched with Unemployment Insurance wage data provided by the Oregon Employment Department. The metric includes annualized wages from
+       July 2020-June 2021.
+Limitations of this definition/data limitations are:
+       A wage match was possible if:
+   a.  A valid social security number was available for the bachelor’s degree recipient. Valid social security numbers were available for 95% of 2014-15 Oregon public university graduates; AND
+   b.  A wage record for the social security number was found in the Unemployment Insurance database of the Oregon Employment Department for quarter 3 of 2020, quarter 4 of 2020, quarter 1 of
+       2021, or quarter 2 of 2021.  Wage data are not available for graduates who are working in other states or countries, who are self-employed, employed by the federal government or unemployed.
+       A wage match was found for 54% of bachelor’s degree completers with a valid social security number (51% of all graduates).
+       The measure does not claim that the 2014-15 bachelor’s degrees represent the highest education attainment of these individuals. It is possible that some of the bachelor’s degree completers
+       received other educational awards prior to 2014-15, and some continued their education in the years following the 2014-15 award and received additional awards prior to the wage match year.
+Given these limitations, results suggest:
+
+The median earnings of bachelor’s degree recipients increased in comparison with the last year’s data. A comparison of data from KPM 11 (earnings of community college completers) and KPM 13
+(earnings of bachelor's degree completers) shows that more advanced credential holders earned higher wages 5 years after the award:
+
+Wage year                         2020                July 2020 - June 2021          July 2020 - June 2021
+KPM                                n/a                         KPM 11                         KPM 13
+Credential            High school diploma or            Community college
+attained                      equivalent*              certificates/OTM and            Bachelor’s degree
+                                                        associate degrees
+Median earnings                 $31,685                        $42,424                        $51,186
+*Data source: 2016-2020 American Community Survey 5-year Estimates, 2020
+
+https://data.census.gov/cedsci/table?q=S2001&g=0400000US41&tid=ACSST5Y2020.S2001
+KPM #14     Racial/Ethnic Differences in Earnings of Bachelor's Degree Completers - Median earnings of graduates with bachelor's degrees, five years after completion, by race/ethnicity.
+            Data Collection Period: Jan 01 - Jan 01
+
+                                                                             actual    target
+
+ Report Year                                                   2018                               2019                                2020                                2021                                2022
+American Indian or Alsaska Native
+Actual                                                     $46,997.00                          $38,794.00                          $45,168.00                          $46,969.00                         $51,520.00
+Target                                                     $42,154.00                          $47,500.00                          $47,750.00                          $48,000.00                         $47,000.00
+b. Asian American
+Actual                                                     $47,034.00                          $50,168.00                          $50,546.00                          $52,517.00                         $53,971.00
+Target                                                     $42,154.00                          $48,000.00                          $48,250.00                          $48,500.00                         $51,000.00
+c. Black or African American
+Actual                                                     $41,280.00                          $42,482.00                          $49,351.00                          $44,293.00                         $42,381.00
+Target                                                     $42,154.00                          $46,000.00                          $46,500.00                          $47,000.00                         $50,000.00
+d. Hispanic or Latina/-o
+Actual                                                     $44,027.00                          $42,507.00                          $46,228.00                          $49,293.00                         $49,792.00
+Target                                                     $42,154.00                          $46,000.00                          $46,500.00                          $47,000.00                         $47,000.00
+e. Native Hawaiian or Pacific Islander
+Actual                                                     $31,371.00                          $39,526.00                          $44,342.00                          $48,910.00                         $54,645.00
+Target                                                     $42,154.00                          $46,000.00                          $46,500.00                          $47,000.00                         $47,000.00
+f. White
+Actual                                                     $44,571.00                          $43,993.00                          $48,184.00                          $48,429.00                         $51,417.00
+Target                                                     $42,454.00                          $46,000.00                          $46,500.00                          $47,000.00                         $50,000.00
+
+How Are We Doing
+Although five of the six racial/ethnic groups experienced an increase in median earnings, there are still significant differences between the groups. For the first time since we have been tracking this
+metric, the Native Hawaiian or Pacific Islander group tops the list with the highest median earnings 5 years after the award at $54,645. This continues a trend of consistent strong year-over-year
+increases by this group. In fact, most groups, not unsurprisingly showed increases. The only group that showed a decrease from last year was the Black or African American graduates, who also had
+the lowest median earnings at $42,381.
+
+Note:  All data points can change year-to-year due to updated wage data from OED.
+
+Factors Affecting Results
+Academic preparation; availability of culturally sensitive career advising and education guidance; occupation or industry; other societal and socio-economic factors.
+
+Other Comments:
+
+This measure expands the KPM 13 by calculating it for separate racial/ethnic groups.  It thus provides information about both the value of a community college degree or certificate and about how that
+value might vary for different racial/ethnic groups.  It is an indicator of both return on investment and equity.
+
+A comparison with the earnings of Oregon community college award recipients (KPM 12) demonstrates that education is key to upward mobility and higher earnings for all racial/ethnic groups.
+However, the data show that there are significant differences in between the median earnings among the six racial/ethnic group examined in this measure.
+
+Award year                                                   2014-15                            2014-15
+KPM                                                          KPM 12                             KPM 14
+                                                    All community college
+Credentials attained                                  awards (associate                  Bachelor’s degree
+                                                  degrees and certificates)
+Native American or Alaska Native                                 $39,993                            $51,520
+Asian American                                                   $45,359                            $53,971
+Black or African American                                        $40,379                            $42,381
+Hispanic or Latina/o                                             $41,861                            $49,792
+Native Hawaiian or Pacific Islander                              $40,303                            $54,645
+White                                                            $42,506                            $51,417
+
+KPM #15    Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise, availability
+           of information.
+           Data Collection Period: Jan 01 - Jan 01
+
+                                                                           actual    target
+
+ Report Year                                                              2018                           2019                            2020                            2021                            2022
+a. Overall
+Actual                                                                                                    53%                                                             94%
+Target                                                                    90%                             75%                             80%                             85%                             75%
+b. Expertise
+Actual                                                                                                    53%                                                             83%
+Target                                                                    90%                             75%                             95%                            100%                             75%
+c. Helpfulness
+Actual                                                                                                    79%                                                             94%
+Target                                                                    90%                             90%                             95%                            100%                             90%
+d. Availability of Information
+Actual                                                                                                    63%                                                             89%
+Target                                                                    90%                             90%                             80%                             85%                             80%
+e. Timeliness
+Actual                                                                                                    42%                                                             78%
+Target                                                                    90%                             75%                             80%                             85%                             75%
+f. Accuracy
+Actual                                                                                                    63%                                                             83%
+Target                                                                    90%                             75%                             80%                             85%                             80%
+
+How Are We Doing
+The Oregon Department of Administrative Services defines the measures of customer service with the six questions below.  We defined and surveyed a list of stakeholders on these questions from a
+wide range of external stakeholders, including postsecondary institutions, other government agencies, and non-governmental organizations.  The stakeholder list was defined as those groups or
+organizations to which the HECC provides some level of technical or customer support.  At least three representatives of each group were sent the survey.  Selections were reviewed and replaced if
+necessary to ensure a mix of institutional partners (i.e., to avoid over-representation of particular universities or community colleges).  In particular, the list included:  public university and community
+college financial/budgetary staff, public university and community college faculty and program staff, public university and community college institutional research staff, local workforce investment
+board partners, private postsecondary schools, private degree-granting institutions, staff at related government agencies, and external non-governmental organization staff.  In total, 52 persons were
+surveyed, and 19 responded, yielding a response rate of 37 percent.
+
+Across all six questions, HECC customer service was rated “good” or “excellent” 83 percent of the time.  Results are better than the last two times the survey was conducted, in 2019 and 2017, when
+HECC customer service was rated “good” or “excellent” 53 percent and 57 percent.  For the current year, the percentage rated “good” or “excellent” ranged from a low of 78 percent (Question 5) to a
+high of 94 percent (Questions 1 and 3).  Areas for greatest improvement for the agency are accuracy and availability of information.  Areas where the agency’s service is strongest are timeliness of
+service, helpfulness of staff, knowledge/expertise of staff, and overall service.  The overall average rating across all questions was 3.1 out of 4, or a “good” level of service.  Results for most questions
+are improved from the results from 2019.  We note that the relatively small number of respondents makes reliable comparisons between the two years difficult to make.
+
+Factors Affecting Results
+In addition to the work of agency staff, the sample of individuals surveyed, the sample of individuals responding, and the timing of the survey all may affect the results.
+KPM #16                 Commission Best Practices - Percent of total best practices met by the Commission.
+                        Data Collection Period: Sep 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                             actual    target
+
+ Report Year                                                                2018                            2019                             2020                             2021                             2022
+BEST PRACTICES
+Actual                                                                      100%                             93%                             100%                             94%
+Target                                                                      100%                            100%                             100%                             100%                            100%
+
+How Are We Doing
+This measure has been delayed. We will amend our report with updated data when the results become available.
+
+Factors Affecting Results

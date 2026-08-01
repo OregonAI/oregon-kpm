@@ -1,0 +1,111 @@
+District Attorneys
+Annual Performance Progress Report
+
+        Reporting Year 2024
+
+  Published: 7/30/2024 3:22:07 PM
+ KPM #              Approved Key Performance Measures (KPMs)
+
+1                  Child Support Collections - Percentage of current child support collected relative to total child support owed.
+2                  Services to Victims - Percentage of adult criminal cases where the named victim(s) are provided "prompt notice" of their rights as crime victims.
+3                  Early and Special Resolution Programs - Percentage of District Attorney offices resolving cases through early and special resolution, number of cases resolved.
+4                  Implicit Bias Training - Percentage of district attorneys receiving implicit bias training each biennium.
+
+                                                                                                                                                         red
+                                                                                                                                                         green
+                                                                                                                                                         yellow
+
+ Performance Summary                                                                                                                                           Green                                                      Yellow                                                        Red
+
+                                                                                                                                                          = Target to -5%                                         = Target -5% to -15%                                            = Target > -15%
+Summary Stats:                                                                                                                                                  25%                                                         75%                                                          0%
+KPM #1            Child Support Collections - Percentage of current child support collected relative to total child support owed.
+                  Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = positive result
+
+                                                                                    actual     target
+
+  Report Year                                                                     2020                                2021                               2022                                2023                                2024
+Percentage of current child support collected relative to total child support owed
+Actual                                                                             77%                                77%                                 77%                                 76%                                76%
+Target                                                                             85%                                85%                                 85%                                 85%                                85%
+
+How Are We Doing
+The District Attorney child support offices' performance for this fiscal year, current as of June 2024, is 75.62%.
+
+Factors Affecting Results
+The amount collected depends in part on the effectiveness and efficiency of the tools available to the Oregon Child Support Program, which includes District Attorney offices, under state and federal
+law for parents paying support who are able but unwilling to meet their obligations. This measure also depends on court-ordered amounts being based on ability to pay and set at a level that allows
+parents to pay the full amount each month. To receive full credit for a collection on current support due, the entire monthly court-ordered amount must be received. The number of parents paying
+support may increase, but this measure increases only if the amount of money collected increases relative to the total amount of current support due. Because a “right-sized” order has significant
+impact on this measure, efforts to modify orders when there is a change of circumstances factor into this measure as well. Economic factors impact this measure because, generally, lower incomes
+make collections more difficult and higher incomes make collecting easier. The program's effectiveness in collecting funds from parents who have the ability to pay depends to a great extent on the
+resources invested to carry out collection activities. Timing of payments is also a factor. Payments received even one day into the following month do not count as a current support payment in the
+month the payment was due. Therefore, individuals on a 26 pay-period cycle (every other week) have months where the final payment on current support comes after the end of the month. The
+individual may be current on support payments at the end of the year, but the collections on current will not reach 100%
+KPM #2        Services to Victims - Percentage of adult criminal cases where the named victim(s) are provided "prompt notice" of their rights as crime victims.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                    actual     target
+
+  Report Year                                                                      2020                               2021                                2022                                2023                                2024
+% of cases where victim was provided notice of victims' rights w/in 5 business days of defendant's arraignment
+Actual                                                                             95%                                 95%                                 95%                                96%                                 97%
+Target                                                                            100%                                100%                                100%                                100%                               100%
+
+How Are We Doing
+Our performance for the state timing ending June, 2024, show an average of those offices reporting had “prompt notice to victims” over 97% of the time, with 70% of the reporting offices having 100%
+of victims notified promptly.
+
+Factors Affecting Results
+While the compliance rate for this measure is high, the number of victims notified is affected by factors that are common to all programs that provide services to a diverse population. First, victims may
+be difficult to locate because: 1. They don't want law enforcement contact because they are aligned with the suspect or are wanted themselves; 2. They are afraid for their safety; 3. There is
+incomplete or incorrect contact information for the victims; and 4. Logistic and budgetary restrictions. Some counties, for example, have automated systems which send rights letters out in the
+appropriate time period and those systems make tracking this measure much easier. Several other counties across the state have switched to automated, email based systems to increase their ability
+to track these notifications. Some counties still call or write each victim individually or provide the information to victims when they appear for Grand Jury. Depending on the size and available
+technology of each county office, the ability to track this information can either be simple or onerous. This lack of uniformity impacts the net results. Additionally, some offices reported increased
+challenges due to staffing shortages resulting from the pandemic and an increase in demand for DA victim advocate resources due to historically substantial increases in clemency petitions.
+KPM #3       Early and Special Resolution Programs - Percentage of District Attorney offices resolving cases through early and special resolution, number of cases resolved.
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual      target
+
+  Report Year                                                                     2020                                2021                               2022                                2023                               2024
+Percentage of District Attorney Offices resolving cases through early resolution and specialty courts
+Actual                                                                             83%                                88%                                 92%                                83%                                 90%
+Target                                                                             95%                                95%                                 95%                                95%                                 95%
+
+How Are We Doing
+For the current fiscal year, 90% of reporting offices reported have specialty courts, early resolution programs or, in the case of a very small office, high use of diversion programs to resolve cases.
+Specialty courts around the state include DUII courts, adult and juvenile drug courts, veterans’ courts, mental health courts and domestic violence courts. Incarceration of drug-using offenders costs
+county taxpayers approximately $21,000 per person per year, according to figures from Douglas County Corrections. In contrast the Drug Court treatment program costs approximately $2,500 per
+offender. Recidivism rates are dramatically reduced through the Drug Court treatment program, thus resulting in lowering crime and building safer communities while saving tax dollars. Types of
+specialty courts operating during Fiscal Year 2024 include the following: Adult Drug/Treatment, Mental Health, Domestic Violence, DUII, Juvenile Drug, Family Dependency, Family Treatment,
+Veteran's, Aid and Assist, Re-Entry and Downward Dispositional Departure. Statewide, drug courts are the most prevalent type of specialty court.
+
+Factors Affecting Results
+30 of 36 Oregon District Attorney Offices have formal early or special resolution programs or courts.  The two main factors that affect a greater result in this performance measure are the lack of
+participation by one or more of the necessary justice system participants and the lack of financial and/or staff support to expand these courts. Available court/judge time is beginning to become a
+problem in some counties. Small counties have difficulty maintaining a caseload that justifies the cost and time necessary to operate a specialty court.  BM 110 also reduced the number of criminal
+drug cases being handled by DA Offices.
+KPM #4              Implicit Bias Training - Percentage of district attorneys receiving implicit bias training each biennium.
+                    Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2020                               2021                                2022                               2023                                2024
+Implicit Bias Training
+Actual                                                                                                                                                                                                                          80%
+Target                                                                                                                                                                                                                          85%
+
+How Are We Doing
+80% of the reporting offices reported “yes”, that they have had this training in the last biennium.
+
+Factors Affecting Results

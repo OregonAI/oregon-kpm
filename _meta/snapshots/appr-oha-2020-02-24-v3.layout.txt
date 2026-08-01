@@ -1,0 +1,800 @@
+Oregon Health Authority
+      Annual Performance Progress Report
+              Reporting Year 2019
+        Published: 2/24/2020 11:16:55 AM
+KPM #       Approved Key Performance Measures (KPMs)
+1          INITIATION OF ALCOHOL AND OTHER DRUG DEPENDENCE TREATMENT - Percentage of members w ith a new  episode of alcohol or other drug dependence w ho received initiation of AOD treatment w ithin 14 days of diagnosis.
+2          ENGAGEMENT OF ALCOHOL AND OTHER DRUG DEPENDENCE TREATMENT - Percentage of members w ith a new  episode of alcohol or other drug dependence w ho received tw o or more services w ithin 30 days of initiation visit.
+3          FOLLOW-UP AFTER HOSPITALIZATION FOR MENTAL ILLNESS - Percentage of enrollees 6 years of age and older w ho w ere hospitalized for treatment of mental health disorders and w ho w ere seen on an outpatient basis or w ere in intermediate
+           treatment w ithin seven days of discharge.
+4          MENTAL, PHYSICAL, AND DENTAL HEALTH ASSESSMENTS FOR CHILDREN IN DHS CUSTODY - Percentage of children in DHS custody w ho receive a mental, physical, and dental health assessment w ithin 60 days of the state notifying CCOs that
+           the children w ere placed into custody w ith DHS (foster care).
+5          FOLLOW-UP CARE FOR CHILDREN PRESCRIBED WITH ADHD MEDICATION (INITIATION) - Percentage of children new ly prescribed attention-deficit/hyperactivity disorder (ADHD) medication w ho had at least three follow -up care visits w ithin a 10-
+           month period, one of w hich w as w ithin 30 days of w hen the first ADHD medication w as dispensed
+6          FOLLOW-UP CARE FOR CHILDREN PRESCRIBED WITH ADHD MEDICATION (CONTINUATION AND MAINTENANCE) - Percentage of children new ly prescribed attention-deficit/hyperactivity disorder (ADHD) medication w ho had at least three follow -up
+           care visits w ithin a 10-month period, one of w hich w as w ithin 30 days of w hen the first ADHD medication w as dispensed
+7          30 DAY ILLICIT DRUG USE AMONG 6TH GRADERS - Percentage of 6th graders w ho have used illicit drugs in the past 30 days.
+8          30 DAY ALCOHOL USE AMONG 6TH GRADERS - Percentage of 6th graders w ho have used alcohol in the past 30 days.
+9          30 DAY ILLICIT DRUG USE AMONG 8TH GRADERS - Percentage of 8th graders w ho have used illicit drugs in the past 30 days.
+10         30 DAY ALCOHOL USE AMONG 8TH GRADERS - Percentage of 8th graders w ho have used alcohol in the past 30 days.
+11         30 DAY ILLICIT DRUG USE AMONG 11TH GRADERS - Percentage of 11th graders w ho have used illicit drugs in the past 30 days.
+12         30 DAY ALCOHOL USE AMONG 11TH GRADERS - Percentage of 11th graders w ho have used alcohol in the past 30 days.
+13         PRENATAL CARE (POPULATION) - Percentage of w omen w ho initiated prenatal care in the first 3 months of pregnancy.
+14         PRENATAL CARE (MEDICAID) - Percentage of w omen w ho initiated prenatal care w ithin 42 days of enrollment.
+15         PATIENT CENTERED PRIMARY CARE HOME (PCPCH) ENROLLMENT - Number of members enrolled in patient-centered primary care homes by tier.
+16         PQI 01: Diabetes Short-Term Complication Admission Rate -
+17         PQI 05: COPD or Asthma in Older Adults Admission Rate -
+18         PQI 08: Congestive Heart Failure Admission Rate -
+19         PQI 15: Asthma in Younger Adults Admission Rate -
+20         ACCESS TO CARE - Percentage of members w ho responded "alw ays" or "usually" too getting care quickly (composite for adult and child).
+21         MEMBER EXPERIENCE OF CARE - Composite measurement: how  w ell doctors communicate; health plan information and customer service (Medicaid population).
+22         MEMBER HEALTH STATUS - Percentage of CAHPS survey respondents w ith a positive self-reported rating of overall health (excellent, very good, or good).
+23         RATE OF TOBACCO USE (POPULATION) - Rate of tobacco use among adults.
+24         RATE OF TOBACCO USE (MEDICAID) - Percentage of CCO enrollees w ho currently smoke cigarettes or use tobacco every day or some days.
+25         RATE OF OBESITY (POPULATION) - Percentage of adults w ho are obese among Oregonians.
+26         EFFECTIVE CONTRACEPTIVE USE (POPULATION) - Percentage of reproductive age w omen w ho are at risk of unintended pregnancy using an effective method of contraception.
+27         EFFECTIVE CONTRACEPTIVE USE (MEDICAID) - Percentage of reproductive age w omen w ho are at risk of unintended pregnancy using an effective method of contraception.
+28         FLU SHOTS (POPULATION) - Percentage of adults ages 50-64 w ho receive a flu vaccine.
+29         CHILD IMMUNIZATION RATES (POPULATION) - Percentage of children w ho are adequately immunized (immunization series 4:3:1:3:3:1:4).
+30         CHILD IMMUNIZATION RATES (MEDICAID) - Percentage of children w ho are adequately immunized (immunization series 4:3:1:3:3:1:4).
+31         PLAN ALL CAUSE READMISSIONS - Percentage of acute inpatient stays that w ere follow ed by an acute readmission for any diagnosis w ithin 30 days and the predicted probability of an acute readmission for members 18 years and older.
+32         ELIGIBILITY PROCESSING TIME - Median number of days processing time from date of request to eligibility determination.
+33         OHP MEMBERS IN CCOs - Percent of Oregon Health Plan members enrolled in Coordinated Care Organizations.
+34         CUSTOMER SERVICE - Percentage of OHA customers rating their satisfaction w ith the agency's customer service as "good" or "excellent" overall, timeliness, accuracy, helpfulness, expertise, availability of information.
+                                                                                                                      red
+                                                                                                                      green
+                                                                                                                      yellow
+
+ Performance Summary                                                                                                     Green                                          Yellow                                           Red
+
+                                                                                                                      = Target to -5%                             = Target -5% to -15%                              = Target > -15%
+Summary Stats:                                                                                                           38.71%                                         22.58%                                          38.71%
+KPM #1    INITIATION OF ALCOHOL AND OTHER DRUG DEPENDENCE TREATMENT - Percentage of members with a new episode of alcohol or other drug dependence who received initiation of
+          AOD treatment within 14 days of diagnosis.
+          Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                               actual      target
+
+  Re port Ye ar                                                                2015                              2016                              2017                             2018                              2019
+Initiation of alcohol and othe r drug de pe nde nce  tre atme nt
+Actual                                                                        39.20%                            37.50%                           34.40%                            36.50%                            37.80%
+Target                                                                        28.35%                            38.20%                           40.20%                            40.20%                            40.20%
+
+How Are We Doing
+After declining from 2014 to 2016, the percentage of members newly diagnosed with alcohol or other drug dependencies who initiated treatment within 14 days increased in the following three years
+(34.4% in 2016; 36.5% in 2017; and increasing to 37.8% in 2018).
+
+Factors Affecting Results
+It is possible that the increased statewide emphasis on alcohol and drug use screening (SBIRT) due to the CCO incentive measure resulted in an increase in initiation of alcohol and drug treatment,
+as more individuals with risky or problematic substance use are identified and referred to treatment services.
+KPM #2    ENGAGEMENT OF ALCOHOL AND OTHER DRUG DEPENDENCE TREATMENT - Percentage of members with a new episode of alcohol or other drug dependence who received two or
+          more services within 30 days of initiation visit.
+          Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                              actual      target
+
+  Re port Ye ar                                                               2015                             2016                              2017                             2018                             2019
+Engage me nt of alcohol and othe r drug de pe nde nce  tre atme nt
+Actual                                                                         21%                            18.40%                           11.10%                            11.30%                           13.10%
+Target                                                                        9.45%                           10.60%                             11%                               11%                              11%
+
+How Are We Doing
+After a precipitous fall from 2013 to 2016 (from 18.9% to 11.1%), the percentage of members who continued their treatment improved from 2017 to 2018 (11.3% to 13.1%). However, this still
+represents a 39% decrease in statewide performance since 2013. We may see improvement from 2020 on, as this was selected to be an incentive measure beginning in 2020, which will bring
+additional focus to this work.
+
+Factors Affecting Results
+Nationally, performance on this measure is low, with a 2018 national Medicaid median of only 12.4%.
+KPM #3    FOLLOW-UP AFTER HOSPITALIZATION FOR MENTAL ILLNESS - Percentage of enrollees 6 years of age and older who were hospitalized for treatment of mental health disorders and
+          who were seen on an outpatient basis or were in intermediate treatment within seven days of discharge.
+          Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                               actual      target
+
+  Re port Ye ar                                                                 2015                              2016                              2017                             2018                              2019
+Follow-up afte r hospitalization for me ntal illne ss
+Actual                                                                         71.80%                            76.70%                           78.70%                            84.70%                            79.50%
+Target                                                                           68%                               70%                              72%                               72%                               72%
+
+How Are We Doing
+In 2018, 79.5% of CCO members (ages 6 and older) who were admitted to the hospital for mental illness received follow-up with a health care provider within seven days of discharge. This is a
+decline of 6.1 percentage points from 2017, when the rate was 84.7%.
+
+Factors Affecting Results
+This measure used to be a CCO incentive measure; however, in 2018 it was no longer included in the incentive measure set. This measure should be monitored to determine if this decrease
+reflects a real decline in care, or if other factors account for this change.
+
+KPM #4    MENTAL, PHYSICAL, AND DENTAL HEALTH ASSESSMENTS FOR CHILDREN IN DHS CUSTODY - Percentage of children in DHS custody who receive a mental, physical, and dental health
+          assessment within 60 days of the state notifying CCOs that the children were placed into custody with DHS (foster care).
+          Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                             actual     target
+
+  Re port Ye ar                                                              2015                             2016                             2017                            2018                             2019
+M ENTAL, PHYSICAL, AND DENTAL HEALTH ASSESSM ENTS FOR CHILDREN IN DHS CUSTODY
+Actual                                                                      27.90%                           58.40%                          74.40%                           82.80%                           86.70%
+Target                                                                        TBD                              TBD                             TBD                              TBD                             TBD
+
+How Are We Doing
+The percentage of children in foster care who received mental, physical, and dental health assessments continues to increase. CCO performance on this measure has improved by over 200% since
+the measure was first included in the CCO Quality Incentive Program, increasing from 27.9% in 2014 to 86.7% in 2018.
+
+Factors Affecting Results
+Because this is a CCO incentive measure, CCOs across the state are making concerted efforts to improve performance. One factor driving improvement has been increased coordination between
+CCOs and local DHS branch offices.
+
+NOTE: 2013 not comparable to later years due to methodology change. In addition, dental assessments added in 2014.
+
+KPM #5     FOLLOW-UP CARE FOR CHILDREN PRESCRIBED WITH ADHD MEDICATION (INITIATION) - Percentage of children newly prescribed attention-deficit/hyperactivity disorder (ADHD)
+           medication who had at least three follow-up care visits within a 10-month period, one of which was within 30 days of when the first ADHD medication was dispensed
+           Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual      target
+
+  Re port Ye ar                                                                  2015                              2016                               2017                              2018                               2019
+Follow-up care  for childre n pre scribe d with ADHD me dication (initiation)
+Actual                                                                          57.70%                            61.10%                            62.20%                               64%                              65.90%
+Target                                                                            51%                               53%                               54%                                54%                                54%
+
+How Are We Doing
+In 2011, 52.3% of children ages 6-12 had at least one follow up visit with a health care provider during the 30 days after receiving a new prescription for Attention Deficit Hyperactivity Disorder
+(ADHD) medication. In 2013, the rate had increased just slightly to 53.3%, above the KPM target, and above the 90th percentile nationally. The rate has continued to improve since then, with 65.9%
+of patients newly prescribed ADHD medication receiving follow up in 2018. Oregon is above the national 90th percentile for Medicaid.
+
+NOTE: This measure was incentivized in 2013 and 2014.
+
+Factors Affecting Results
+We have heard from providers that limiting the follow up visit to within the first 30 days is not well aligned with some of the current ADHD medications, which may require a 45 day initial prescription.
+Children with these longer initial prescriptions would fall outside of the 30-day window for this measure.
+
+          FOLLOW-UP CARE FOR CHILDREN PRESCRIBED WITH ADHD MEDICATION (CONTINUATION AND MAINTENANCE) - Percentage of children newly prescribed attention-
+KPM #6    deficit/hyperactivity disorder (ADHD) medication who had at least three follow-up care visits within a 10-month period, one of which was within 30 days of when the first ADHD medication
+          was dispensed
+          Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual      target
+
+  Re port Ye ar                                                                 2015                              2016                              2017                              2018                              2019
+Follow-up care  for childre n pre scribe d with ADHD me dication (continuation and mainte nance )
+Actual                                                                         60.80%                            68.90%                            69.70%                            75.40%                            74.40%
+Target                                                                           63%                               64%                               65%                               65%                               65%
+
+How Are We Doing
+Calendar year 2011 is the baseline for this measure. In 2011, 61.0% of children who remained on ADHD medication for 210 days after receiving a new prescription also had at least two follow up
+visits with a provider. This rate remained fairly steady in CY's 2013 and 2014, and increased notably in CY2015, with 68.9% of children receiving continued follow-up with a provider. In CY2018, the
+rate was 74.4%; this is a decline in performance from CY2017, when performance was 75.4%.
+
+Factors Affecting Results
+A number of CCO incentive measures as well as initiatives including the patient-centered primary care home model put greater emphasis on preventive care and well child visits. These efforts may
+result in children being more likely to engage with their primary care providers, leading to greater follow-up care for children prescribed medications for their ADHD. This measure is also notable for
+small denominators across the CCOs (with some having fewer than 30 children that meet these criteria); data shifts are more likely given these small numbers.
+KPM #7        30 DAY ILLICIT DRUG USE AMONG 6TH GRADERS - Percentage of 6th graders who have used illicit drugs in the past 30 days.
+              Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                               actual      target
+
+  Re port Ye ar                                                                2015                              2016                             2017                              2018                              2019
+30 day illicit drug use  among 6th grade rs
+Actual                                                                        No Data                           1.70%                            No Data                            1.80%                           No Data
+Target                                                                         1.75%                            1.40%                             1.30%                             1.30%                            1.30%
+
+How Are We Doing
+Illicit drug use among Oregon 6th graders has remained relatively unchanged in recent years. In 2012, the percentage of 6th graders who used any illicit drug in the past 30 days was 1.8%; 1.4% in
+2014; 1.7% in 2016 and 1.8% in 2018. These estimates include marijuana use.
+
+This data is only collected in the even numbered years and published here: https://oregon.pridesurveys.com/dl.php?pdf=Oregon_SWS_Statewide_Report_2018.pdf&type=region Beginning in 2020,
+the Oregon Health Authority Public Health Division will launch the Student Health Survey, which will replace the previous Oregon Healthy Teens and Student Wellness Surveys.
+
+Factors Affecting Results
+Oregon legalized recreational marijuana with the passage of Measure 91 in 2014. In 2015, retail marijuana stores began to open in many Oregon communities.  As of September 2019, there were
+over 650 approved retail marijuana licenses in Oregon. The presence of a legal retail market has changed community environments with increased advertising and access to marijuana products.
+
+KPM #8         30 DAY ALCOHOL USE AMONG 6TH GRADERS - Percentage of 6th graders who have used alcohol in the past 30 days.
+               Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                              actual      target
+
+  Re port Ye ar                                                               2015                             2016                             2017                              2018                             2019
+30 day alcohol use  among 6th grade rs
+Actual                                                                       No Data                             4%                            No Data                           4.50%                           No Data
+Target                                                                        6.50%                            4.50%                            3.50%                            3.50%                            3.50%
+
+How Are We Doing
+Alcohol use among Oregon 6th graders has remained relatively unchanged in recent years. In 2012, the percentage of 6th graders who used alcohol in the past 30 days was 6.7%; 4.5% in 2014;
+4% in 2016 and 4.5% in 2018.
+
+This data is only collected in the even numbered years and published here: https://oregon.pridesurveys.com/dl.php?pdf=Oregon_SWS_Statewide_Report_2018.pdf&type=regionBeginning in 2020,
+the Oregon Health Authority Public Health Division will launch the Student Health Survey, which will replace the previous Oregon Healthy Teens and Student Wellness Surveys.
+
+Factors Affecting Results
+Community environment norms that promote alcohol by making it cheap and easy to get affects youth use. These favorable norms also shape parental attitudes and use, which also affects youth
+alcohol use.
+
+KPM #9        30 DAY ILLICIT DRUG USE AMONG 8TH GRADERS - Percentage of 8th graders who have used illicit drugs in the past 30 days.
+              Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                               actual      target
+
+  Re port Ye ar                                                                2015                              2016                             2017                              2018                              2019
+30 day illicit drug use  among 8th grade rs
+Actual                                                                        No Data                           7.90%                            No Data                            8.20%                           No Data
+Target                                                                         8.73%                            8.10%                             7.10%                               7%                               7%
+
+How Are We Doing
+Illicit drug use among Oregon 8th graders has remained relatively unchanged in recent years. In 2012, the percentage of 8th graders who used any illicit drug in the past 30 days was 9%; 8.1% in
+2014; 7.9% in 2016 and 8.2% in 2018. These estimates include marijuana use.
+
+This data is only collected in the even numbered years and published here: https://oregon.pridesurveys.com/dl.php?pdf=Oregon_SWS_Statewide_Report_2018.pdf&type=regionBeginning in 2020,
+the Oregon Health Authority Public Health Division will launch the Student Health Survey, which will replace the previous Oregon Healthy Teens and Student Wellness Surveys.
+
+Factors Affecting Results
+Oregon legalized recreational marijuana with the passage of Measure 91 in 2014. In 2015, retail marijuana stores began to open in many Oregon communities.  As of September 2019, there were
+over 650 approved retail marijuana licenses in Oregon. The presence of a legal retail market has changed community environments with increased advertising and access to marijuana products.
+
+KPM #10          30 DAY ALCOHOL USE AMONG 8TH GRADERS - Percentage of 8th graders who have used alcohol in the past 30 days.
+                 Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                             actual      target
+
+  Re port Ye ar                                                              2015                             2016                             2017                             2018                             2019
+30 day alcohol use  among 8th grade rs
+Actual                                                                      No Data                          15.40%                           No Data                          15.40%                          No Data
+Target                                                                      19.01%                           16.50%                           15.50%                             14%                              14%
+
+How Are We Doing
+Alcohol use among Oregon 8th graders has slightly decreased in recent years. In 2012, the percentage of 8th graders who used alcohol in the past 30 days was 19.6%; 16.9% in 2014; 15.4% in
+2016 and 15.4% in 2018.
+
+This data is only collected in the even numbered years and published here: https://oregon.pridesurveys.com/dl.php?pdf=Oregon_SWS_Statewide_Report_2018.pdf&type=region
+
+Factors Affecting Results
+Community environment norms that promote alcohol by making it cheap and easy to get affects youth use. These favorable norms also shape parental attitudes and use, which also affects youth
+alcohol use.
+KPM #11         30 DAY ILLICIT DRUG USE AMONG 11TH GRADERS - Percentage of 11th graders who have used illicit drugs in the past 30 days.
+                Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                               actual      target
+
+  Re port Ye ar                                                                2015                              2016                             2017                              2018                              2019
+30 day illicit drug use  among 11th grade rs
+Actual                                                                        No Data                          19.60%                            No Data                           20.40%                           No Data
+Target                                                                        21.53%                             19%                               18%                               18%                            16.50%
+
+How Are We Doing
+Illicit drug use among Oregon 11th graders has slightly increased in recent years. In 2012, the percentage of 11th graders who used any illicit drug in the past 30 days was 22.2%; 19.1% in 2014;
+19.6% in 2016 and 20.4% in 2018. These estimates include marijuana use.
+
+This data is only collected in the even numbered years and published here: https://oregon.pridesurveys.com/dl.php?pdf=Oregon_SWS_Statewide_Report_2018.pdf&type=region
+
+Beginning in 2020, the Oregon Health Authority Public Health Division will launch the Student Health Survey, which will replace the previous Oregon Healthy Teens and Student Wellness Surveys.
+
+Factors Affecting Results
+Oregon legalized recreational marijuana with the passage of Measure 91 in 2014. In 2015, retail marijuana stores began to open in many Oregon communities.  As of September 2019, there were
+over 650 approved retail marijuana licenses in Oregon. The presence of a legal retail market has changed community environments with increased advertising and access to marijuana products.
+
+KPM #12          30 DAY ALCOHOL USE AMONG 11TH GRADERS - Percentage of 11th graders who have used alcohol in the past 30 days.
+                 Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                             actual      target
+
+  Re port Ye ar                                                               2015                             2016                             2017                             2018                             2019
+30 day alcohol use  among 11th grade rs
+Actual                                                                      No Data                           29.80%                          No Data                             29%                            No Data
+Target                                                                       34.82%                           33.50%                           32.50%                             28%                              26%
+
+How Are We Doing
+Alcohol use among Oregon 11th graders has decreased in recent years. In 2012, the percentage of 11th graders who used alcohol in the past 30 days was 35.9%; 33.5% in 2014; 29.8% in 2016
+and 29% in 2018.
+
+This data is only collected in the even numbered years and published here: https://oregon.pridesurveys.com/dl.php?pdf=Oregon_SWS_Statewide_Report_2018.pdf&type=region
+
+Beginning in 2020, the Oregon Health Authority Public Health Division will launch the Student Health Survey, which will replace the previous Oregon Healthy Teens and Student Wellness Surveys.
+
+Factors Affecting Results
+Community environment norms that promote alcohol by making it cheap and easy to get affects youth use. These favorable norms also shape parental attitudes and use, which also affects youth
+alcohol use.
+KPM #13           PRENATAL CARE (POPULATION) - Percentage of women who initiated prenatal care in the first 3 months of pregnancy.
+                  Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                  actual      target
+
+  Re port Ye ar                                                                    2015                               2016                               2017                               2018                               2019
+Pre natal care  - population
+Actual                                                                            77.50%                               79%                              79.70%                            79.90%                               81%
+Target                                                                              89%                                90%                                91%                               80%                              80.20%
+
+How Are We Doing
+The percentage of women initiating prenatal care during the first trimester is a marker for access to maternal health care services. This percentage has remained relatively stable in Oregon from
+2015 to 2018. Early prenatal care is important to identify and treat babies or mothers at risk for health conditions that can affect the pregnancy, such as hypertension and diabetes. It is also
+important because health care providers can educate and assist mothers with health issues related to pregnancy including nutrition, alcohol use, smoking, exercise, and preparing for childbirth and
+infant care. Prenatal care is an important screening point for behavioral and social risks such as perinatal depression, intimate partner violence, and food insecurity. Babies born to women who
+receive prenatal care early and throughout the pregnancy are less likely to have low birth weight or to be born prematurely. Psychosocial, financial, logistical, health care provider, and many other
+issues can create barriers for women in obtaining early prenatal care.
+
+This indicator is used by states and at the national level, as the data is from vital statistics (birth certificates), therefore making it widely available and representative of the population. While this
+indicator has been traditionally used, and is widely understood, it is also valuable to examine the Adequacy of Prenatal Care Utilization Index
+(https://www.mchlibrary.org/databases/HSNRCPDFs/Overview_APCUIndex.pdf), which examines the number of prenatal care visits a woman has received throughout pregnancy in addition to the
+timing of initiation. This allows for a more thorough examination of woman’s access to care. It is worth noting that the data for prenatal care used in both indicators is only available for live births, and
+therefore does not include information on the prenatal care of women who had a miscarriage or a still birth.
+
+The data on first trimester initiation of prenatal care is publicly released by the Oregon Center for Health Statistics in their Annual Vital Statistic Report. These reports can be found at
+https://www.oregon.gov/oha/PH/BIRTHDEATHCERTIFICATES/VITALSTATISTICS/ANNUALREPORTS/VOLUME1/Pages/index.aspx. Finalized data for 2019 will be available in December 2020.
+Factors Affecting Results
+Women give a variety of reasons for not accessing early prenatal care. Women may not feel that early care is important, may not know they are pregnant, or may be experiencing barriers such as
+lack of insurance coverage, inability to get an appointment or unreliable transportation.
+
+KPM #14            PRENATAL CARE (MEDICAID) - Percentage of women who initiated prenatal care within 42 days of enrollment.
+                   Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                               actual      target
+
+  Re port Ye ar                                                                 2015                             2016                              2017                             2018                              2019
+Pre natal care  - M e dicaid
+Actual                                                                          75%                             84.10%                           91.30%                            90.60%                           92.60%
+Target                                                                          89%                               90%                              91%                               91%                              91%
+
+How Are We Doing
+Performance on timeliness of prenatal care increased slightly from 90.6% in 2017 to 92.6% in 2018.
+Factors Affecting Results
+While this measure was an incentive measure for CY2018, in CY2019 it is no longer pay-for-performance. However, it is a state quality measure which OHA will continue to monitor and report.
+
+NOTE: Results prior to 2014 are not directly comparable to later years due to change in methodology.
+KPM #15       PATIENT CENTERED PRIMARY CARE HOME (PCPCH) ENROLLMENT - Number of members enrolled in patient-centered primary care homes by tier.
+              Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                              actual      target
+
+  Re port Ye ar                                                               2015                             2016                              2017                             2018                             2019
+Patie nt ce nte re d primary care  home  (PCPCH) e nrollme nt
+Actual                                                                         81%                            87.50%                           88.80%                            70.10%                           76.20%
+Target                                                                        100%                             100%                             100%                              100%                             100%
+
+How Are We Doing
+This measure uses a weighted methodology to ensure members are not just enrolled in a PCPCH, but are enrolled in the higher PCPCH tiers. Statewide in 2018, 96 percent of CCO members were
+enrolled in a PCPCH, resulting in a weighted score of 76.2. Beginning in 2017, the PCPCH program launched 5 STAR recognition. This new level of recognition was incorporated into the weighting
+formula for PCPCH score. Thus, scores are not comparable to previous years.
+
+Factors Affecting Results
+Coordinated care organizations are driving improvement on this measure through two main efforts: (1) working with contracted providers to go through the PCPCH recognition process, and (2)
+preferentially assigning members to certified PCPCHs.
+KPM #16                        PQI 01: Diabetes Short-Term Complication Admission Rate -
+                               Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                             actual      target
+
+  Re port Ye ar                                                               2015                             2016                            2017                             2018                             2019
+PQI 01: Diabe te s Short-Te rm Complication Admission Rate
+Actual                                                                       144.30                           154.10                             163                           205.30                            222.40
+Target                                                                         TBD                             TBD                              TBD                              139                               138
+
+How Are We Doing
+This measure is calculated using proprietary software from AHRQ, which was updated in 2018. Because of the changes that AHRQ made to the way this measure is calculated, 2019 data should not
+be compared to prior years.
+
+Factors Affecting Results
+KPM #17                         PQI 05: COPD or Asthma in Older Adults Admission Rate -
+                                Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                             actual      target
+
+  Re port Ye ar                                                               2015                            2016                             2017                             2018                             2019
+PQI 05: COPD or Asthma in Olde r Adults Admission Rate
+Actual                                                                       436.60                          432.90                           440.10                           516.80                           440.90
+Target                                                                        TBD                              TBD                              TBD                              408                              404
+
+How Are We Doing
+This measure is calculated using proprietary software from AHRQ, which was updated in 2018. Because of the changes that AHRQ made to the way this measure is calculated, 2019 data should not
+be compared to prior years.
+
+Factors Affecting Results
+KPM #18                              PQI 08: Congestive Heart Failure Admission Rate -
+                                     Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                              actual      target
+
+  Re port Ye ar                                                                2015                             2016                             2017                             2018                             2019
+PQI 08: Conge stiv e  He art Failure  Admission Rate
+Actual                                                                        204.80                           235.40                           246.50                           293.40                            362.70
+Target                                                                          TBD                              TBD                              TBD                              232                              230
+
+How Are We Doing
+This measure is calculated using proprietary software from AHRQ, which was updated in 2018. Because of the changes that AHRQ made to the way this measure is calculated, 2019 data should not
+be compared to prior years.
+
+Factors Affecting Results
+KPM #19                             PQI 15: Asthma in Younger Adults Admission Rate -
+                                    Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                             actual      target
+
+  Re port Ye ar                                                               2015                             2016                             2017                             2018                             2019
+PQI 15: Asthma in Younge r Adults Admission Rate
+Actual                                                                        54.20                            52.80                            47.50                             43                              37.90
+Target                                                                         TBD                              TBD                             TBD                               48                              47.50
+
+How Are We Doing
+This measure is calculated using proprietary software from AHRQ, which was updated in 2018. Because of the changes that AHRQ made to the way this measure is calculated, 2019 data should not
+be compared to prior years.
+Factors Affecting Results
+KPM #20         ACCESS TO CARE - Percentage of members who responded "always" or "usually" too getting care quickly (composite for adult and child).
+                Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                               actual      target
+
+  Re port Ye ar                                                                 2015                              2016                              2017                              2018                             2019
+Acce ss to care
+Actual                                                                           83%                             83.80%                            83.90%                           84.20%                            82.70%
+Target                                                                           87%                             87.20%                            87.50%                           87.50%                            87.50%
+
+How Are We Doing
+Prior to 2018, this measure was a weighted score across children and adults. From 2018 on, however, these data are now disaggregated and reported separately for children and adults. This
+ensures that performance across the different age groups can be monitored appropriately and is based upon a decision from the Metrics and Scoring Committee. KPM data from prior years should
+not be compared to that from 2019.
+
+The reported number of 82.7 is for Adults, for Children it is 89.
+
+Factors Affecting Results
+The number of Oregonians enrolled in Medicaid increased by more than 60 percent in 2014, predictably increasing demand for care. Access also declined slightly at the national level from 2013 to
+2014 (the 75-percentile declined from 88.0% in 2013 to 87.2%). This measure is included in the state's Medicaid demonstration agreement with CMS.
+
+KPM #21      MEMBER EXPERIENCE OF CARE - Composite measurement: how well doctors communicate; health plan information and customer service (Medicaid population).
+             Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                              actual      target
+
+  Re port Ye ar                                                                2015                              2016                             2017                             2018                              2019
+M e mbe r e xpe rie nce  of care
+Actual                                                                          83%                             83.80%                           83.90%                           84.20%                            87.40%
+Target                                                                          84%                             89.60%                             90%                              90%                               90%
+
+How Are We Doing
+Prior to 2018, this measure was a weighted score across children and adults. From 2018 on, however, these data are now disaggregated and reported separately for children and adults. This
+ensures that performance across the different age groups can be monitored appropriately and is based upon a decision from the Metrics and Scoring Committee. KPM data from prior years should
+not be compared to that from 2019.
+
+The reported number of 87.4 is for Adults, for Children it is 87.5
+
+Factors Affecting Results
+NOTE: This was retired from the incentive measure set in 2017.
+KPM #22       MEMBER HEALTH STATUS - Percentage of CAHPS survey respondents with a positive self-reported rating of overall health (excellent, very good, or good).
+              Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                               actual      target
+
+  Re port Ye ar                                                                 2015                              2016                             2017                              2018                              2019
+M EM BER HEALTH STATUS
+Actual                                                                         67.20%                           70.50%                              70%                             68.90%                             66%
+Target                                                                           TBD                              TBD                               TBD                               TBD                              TBD
+
+How Are We Doing
+Prior to 2018, this measure was a weighted score across children and adults. From 2018 on, however, these data are now disaggregated and reported separately for children and adults. This
+ensures that performance across the different age groups can be monitored appropriately and is based upon a decision from the Metrics and Scoring Committee. KPM data from prior years should
+not be compared to that from 2019.
+
+The reported number of 66 is for Adults, for Children it is 94.9
+
+Factors Affecting Results
+Prior to 2014, a higher percentage of adult members were eligible for Medicaid due to disability. With the influx of new, previously ineligible members in 2014, the proportion of members who feel
+healthier may have increased. However, there has been a decrease among adults since 2016.
+
+KPM #23                  RATE OF TOBACCO USE (POPULATION) - Rate of tobacco use among adults.
+                         Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                              actual      target
+
+  Re port Ye ar                                                                2015                             2016                             2017                             2018                             2019
+Rate  of tobacco use  - adult population
+Actual                                                                        19.30%                           20.60%                           20.45%                           19.74%                           19.65%
+Target                                                                         17%                               20%                              20%                              16%                              15%
+
+How Are We Doing
+Tobacco use (cigarette smoking or chewing tobacco) among adults has slowly declined from CY2015 to CY2018. In CY2015, the percent of adults who used tobacco was 20.6% and in CY2018
+tobacco use was 19.65%. The decline in use of these products, however, is offset somewhat by the increased use of alternative tobacco products such as inhalant delivery systems (IDS) (e.g. e-
+cigarettes), hookah and other tobacco products. Beginning in CY2015 the Public Health Division started reporting rates which reflect population tobacco use and includes cigarettes, little cigars,
+large cigars, hookah, IDS and smokeless tobacco use.
+
+This data is collected yearly and can be found published here:
+https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/CHRONICDISEASE/DATAREPORTS/Documents/datatables/ORAnnualBRFSS_tobacco.pdf
+Factors Affecting Results
+A limitation of these data is that they include only cigarette smoking and chewing tobacco. IDS and other tobacco products are not included.
+
+KPM #24        RATE OF TOBACCO USE (MEDICAID) - Percentage of CCO enrollees who currently smoke cigarettes or use tobacco every day or some days.
+               Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                               actual      target
+
+  Re port Ye ar                                                                 2015                              2016                              2017                             2018                              2019
+Rate  of tobacco use  - M e dicaid population
+Actual                                                                           33%                             30.10%                            29.10%                           27.80%                            27.90%
+Target                                                                           24%                               25%                              25%                               25%                               TBD
+
+How Are We Doing
+The percent of Medicaid members who use tobacco has decreased each year since 2013, the baseline for this measure. Compared to the non-Medicaid adult population (see KPM #19), adults on
+Medicaid are fifty percent more likely than the general population to use tobacco.
+
+Factors Affecting Results
+The Centers for Disease Control and Prevention Office of Smoking and Health has developed an evidence-based funding model for countering the health and economic destruction of tobacco use.
+The recommended model funds programs to prevent initiation of tobacco use among young people, to promote quitting among adults and young people, to eliminate exposure to secondhand
+smoke, and to identify and eliminate tobacco related disparities. For Oregon, the recommended funding is $10.09 per capita, which equates to $39.3 million annually. This recommendation
+represents just a fraction of the cost of tobacco use, with more than $2.5 billion lost to medical care and lost productivity annually in Oregon.
+
+Beginning in 2016, cigarette smoking prevalence is a CCO incentive measure. During the 2015 - 2017 biennium Oregon received about $2.77 per capita for tobacco prevention from all funding
+sources, which is 27% of CDC’s recommended funding for tobacco prevention. This is comparable with what was allotted to Oregon tobacco prevention a dozen years ago; however, funding levels
+have been much lower in the years in between. TPEP received approximately $2.87 per capita during the 2001 2003 biennium but was temporarily shuttered when the Legislature directed the
+allocated revenues elsewhere. After this interruption, smoking among pregnant women and adolescents stopped decreasing, and per capita consumption of cigarettes increased for the first time
+since the program was first implemented. Since funding was reinstated to TPEP, per capita cigarette consumption has steadily declined.
+
+KPM #25              RATE OF OBESITY (POPULATION) - Percentage of adults who are obese among Oregonians.
+                     Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                              actual      target
+
+  Re port Ye ar                                                                2015                             2016                             2017                             2018                             2019
+Rate  of obe sity - adult population
+Actual                                                                        26.70%                           29.20%                           29.30%                             29%                            29.50%
+Target                                                                          30%                              30%                              30%                              28%                              27%
+
+How Are We Doing
+Obesity among adults has remained relatively unchanged in recent years. In CY2015, the percent of adults who had obesity was 29.2% and in CY2018 obesity was 29.5%. The Public Health
+Division does not have funding dedicated to a comprehensive obesity prevention program. There are currently no state or federal dollars directed to obesity prevention in Oregon. However, the
+Public Health Division leverages existing federal funds to address nutrition and physical activity, the primary drivers of obesity and related chronic diseases.
+
+This data is collected yearly and can be found published here:
+https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/CHRONICDISEASE/DATAREPORTS/Documents/datatables/ORAnnualBRFSS_riskfactors.pdf
+
+Factors Affecting Results
+Obesity is measured using self-reported height and weight from survey data.
+KPM #26     EFFECTIVE CONTRACEPTIVE USE (POPULATION) - Percentage of reproductive age women who are at risk of unintended pregnancy using an effective method of contraception.
+            Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual       target
+
+  Re port Ye ar                                                                   2015                              2016                              2017                              2018                               2019
+Effe ctiv e  contrace ptiv e  use  - population
+Actual                                                                          68.40%                             68.70%                            69.20%                            67.70%                            68.10%
+Target                                                                          56.20%                             57.20%                            58.20%                              69%                               70%
+
+How Are We Doing
+In 2014, the structure of the BRFSS questions used for this measure changed significantly, and results cannot be compared to previous years.
+
+The proportion of women at risk of unintended pregnancy who are using an effective contraceptive method has remained steady for several years.
+
+Factors Affecting Results
+It should be noted that this measure is based on survey data whereas KPM #26 uses administrative claims data. Thus, KPM #25 is more likely to accurately capture individuals who are using
+permanent and long-acting contraceptive methods, resulting in higher overall rates of effective contraceptive use compared to KPM #26. In recent years the Oregon legislature has passed several
+bills intended to increase access to contraception, including enhanced confidentiality provisions and insurance coverage for a full year’s worth of contraceptive methods. In addition, the passage of
+the Reproductive Health Equity Act in the Oregon legislature in 2017 will both ensure that private insurance plans continue to cover preventive services, including contraception, without cost
+sharing, and also will help to support funding for Oregon’s family planning clinics starting in 2018, which may impact results in future years.
+KPM #27     EFFECTIVE CONTRACEPTIVE USE (MEDICAID) - Percentage of reproductive age women who are at risk of unintended pregnancy using an effective method of contraception.
+            Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                              actual      target
+
+  Re port Ye ar                                                                2015                             2016                             2017                             2018                              2019
+Effe ctiv e  contrace ptiv e  use  - M e dicaid population
+Actual                                                                        36.10%                             43%                              51%                            45.70%                           49.30%
+Target                                                                        56.20%                           57.20%                             TBD                            58.20%                           58.20%
+
+How Are We Doing
+Because of changes to the specifications for this measure from 2017 to 2018, prior years are not directly comparable to 2018. However, the rate of effective contraceptive use has increased since
+this measure was first included in the CCO Quality Incentive Program.
+NOTE: data represents women ages 18-50
+
+Factors Affecting Results
+This was a CCO incentive measure in 2018 (the incentive measure also included young women ages 15-17).
+KPM #28                FLU SHOTS (POPULATION) - Percentage of adults ages 50-64 who receive a flu vaccine.
+                       Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                 actual      target
+
+  Re port Ye ar                                                                   2015                              2016                              2017                               2018                              2019
+Flu shots - population
+Actual                                                                          34.90%                             36.10%                              43%                               51%                              47.60%
+Target                                                                            57%                                57%                               57%                               57%                                70%
+
+How Are We Doing
+Individuals within this age range of 50 to 64 are progressively more likely to seek influenza immunization as they age. This is the transition period between lower influenza immunization rates among
+younger adults and higher rates among seniors. Seniors are at greater risk of adverse outcomes from influenza disease, including hospitalization and mortality.
+
+Within Oregon, those in the Portland and Willamette Valley are most likely to seek influenza immunization each season, while Oregonians in the Southern tier of the state are least likely. Regardless
+of regional differences in Oregon, no area has immunization rates that are high enough to protect vulnerable individuals, or to build a strong community resistance to the spread of influenza
+disease.
+
+This rate is for the 2018-19 influenza season, with immunizations given starting in August of each season.  The source of data is the Oregon ALERT Immunization Information System.
+Factors Affecting Results
+KPM #29         CHILD IMMUNIZATION RATES (POPULATION) - Percentage of children who are adequately immunized (immunization series 4:3:1:3:3:1:4).
+                Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual      target
+
+  Re port Ye ar                                                                  2015                               2016                              2017                              2018                              2019
+Child immunization rate s - population
+Actual                                                                            60%                               64%                               66%                                68%                             68.90%
+Target                                                                            80%                               80%                               80%                                80%                               80%
+
+How Are We Doing
+This measure is based on a combination of seven separate immunization series that are recommended between birth and 18 months of age. For each series, between 1 to 4 doses of vaccine are
+required, all given at appropriate intervals, with specified time gaps between each dose. All of the seven series of this measure can be given by 18months of age, but it is common to infants to fall
+behind. There are many reasons why infants fall behind, including parental reluctance to give their baby multiple injections per doctor visit, to trouble getting timely appointments, or missing
+immunization appointments due to having a sick baby.
+
+The seven series and doses are: DTaP(diphtheria-tetanus-pertussis), 4 doses; IPV (inactivated polio), 3 doses; MMR (measles-mumps-rubella), 1 dose; Hib (Hemophilus influenzae), 3 doses;
+Hepatitis B, 3 doses; Varicella, 1 dose, and PCV (pneumococcal conjugate), 4 doses.
+
+Overall Oregon's rates are slightly below national averages. However, Oregon rates are gradually increasing. Generally, Oregon rates are limited by two components of the seven series- DTaP
+(diphtheria-tetanus-pertussis), and PCV (pneumococcal conjugate vaccine). Both of these require 4 doses of vaccine by 18 months of age, and it is the 4th dose of one or both of these which
+typically is missing from children who are not up to date for the entire measure. As an example, while the rate for 4 DTaP is 79.9%, the rate for 1 MMR (measles-mumps-rubella) is 88.1%
+
+The source of the data for this measure is the ALERT Immunization Information System, Oregon's all age immunization registry.
+
+Factors Affecting Results
+KPM #30         CHILD IMMUNIZATION RATES (MEDICAID) - Percentage of children who are adequately immunized (immunization series 4:3:1:3:3:1:4).
+                Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual      target
+
+  Re port Ye ar                                                                  2015                              2016                              2017                              2018                              2019
+Child immunization rate s - M e dicaid population
+Actual                                                                          67.80%                            68.20%                           68.40%                            73.20%                            74.50%
+Target                                                                           82%                               82%                               82%                               82%                               82%
+
+How Are We Doing
+In CY2015, 68.2% of CCO members received recommended vaccines before their second birthday. Positively, this increased to 73.2% in CY2017, and continued to increase to 74.5% in CY2018.
+Factors Affecting Results
+The Immunization Program oversees the Vaccines for Children (VFC) program, a federally funded entitlement that provides vaccines at no cost to children who might not otherwise be vaccinated
+because of inability to pay. The success of VFC is based upon partnership between the Oregon Immunization Program and public and private providers. Ninety five percent of Oregon’s childhood
+immunizations are captured in the ALERT IIS, which is used to estimate immunization rates, while also providing a clinical record for providers to accurately assess the vaccine needs of individual
+children. Other influences include parent and provider knowledge, attitudes, and practices. Beginning 2016, childhood immunization status is a CCO incentive metric which will likely drive improved
+outreach and workflows.
+
+This measure is also available online here: http://www.oregon.gov/oha/Metrics/Pages/HST-Reports.aspx Data are available statewide and stratified by race/ethnicity and by CCO. Results are
+published twice per year (January and June). This is also a CCO incentive measure.
+
+KPM #31     PLAN ALL CAUSE READMISSIONS - Percentage of acute inpatient stays that were followed by an acute readmission for any diagnosis within 30 days and the predicted probability of an
+            acute readmission for members 18 years and older.
+            Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = negative result
+
+                                                                                actual      target
+
+  Re port Ye ar                                                                  2015                              2016                              2017                             2018                              2019
+Plan all cause  re admissions
+Actual                                                                         11.40%                            10.10%                            10.70%                             9.40%                            11.10%
+Target                                                                         10.50%                            10.50%                            10.50%                            10.50%                            10.50%
+
+How Are We Doing
+Results prior to 2016 are not directly comparable to later years due to methodological changes. Hospital readmissions continue to decline in Oregon (lower is better) and in CY2016 achieved the
+KPM target; this trend continued in CY2017. However, there was an increase in readmissions from 2017 to 2018.
+
+Factors Affecting Results
+As CCOs continue to focus on ensuring their members receive the appropriate care at the appropriate time in the appropriate place, many performance indicators are affected. As enrollment in
+patient-centered primary care homes continue to increase (see KPM #15), and CCOs and providers continue to emphasize the importance of coordinated, preventive care, post-discharge care is
+likely to be more appropriately addressed, resulting in a reduction in this readmission rate. We will need to continue to watch the change from 2017 to 2018 to see if this trend continues.
+KPM #32          ELIGIBILITY PROCESSING TIME - Median number of days processing time from date of request to eligibility determination.
+                 Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                              actual      target
+
+  Re port Ye ar                                                                2015                              2016                             2017                             2018                             2019
+ELIGIBILITY PROCESSING TIM E
+Actual                                                                       No Data                           No Data                              48                               1                                0
+Target                                                                         TBD                               TBD                               TBD                               35                              31
+
+How Are We Doing
+Data reflects the median processing time of each monthly median processing time from Oct 18 - Sept 19. The processing time is low because we have an automated eligibility process.
+
+Factors Affecting Results
+KPM #33            OHP MEMBERS IN CCOs - Percent of Oregon Health Plan members enrolled in Coordinated Care Organizations.
+                   Data Collection Period: Jan 01 - Dec 31
+
+* Upward Trend = positive result
+
+                                                                                actual      target
+
+  Re port Ye ar                                                                  2015                               2016                              2017                              2018                              2019
+OHP M EM BERS IN CCOs
+Actual                                                                         No Data                            No Data                              81%                              85%                             85.10%
+Target                                                                            TBD                               TBD                                TBD                              85%                               88%
+
+How Are We Doing
+In 2018, efforts were put in place to ensure enrollment in CCOs in the shortest timeframe possible. Oregon Health Authority (OHA) updated the eligibility renewal process for Oregon Health Plan
+(OHP) members to begin federally-mandated automated eligibility verification, in appropriate cases. This streamlined and accurate verification method 1) improved the renewal process for OHP
+members and 2) reduced the risk members will experience unwarranted disruptions in coverage, care or CCO enrollment.
+
+Factors Affecting Results
+Starting in 2019, OHA is implementing program changes that will increase the number of Medicaid eligibles enrolled in CCOs. For example, OHA will automatically enroll duals into CCOs for their
+physical health care. This process will happen as a regional roll-out, including two pilot regions in January and April of 2019. Duals will have the option, at any time, to opt-out of the CCO for
+physical health care.
+
+KPM #34    CUSTOMER SERVICE - Percentage of OHA customers rating their satisfaction with the agency's customer service as "good" or "excellent" overall, timeliness, accuracy, helpfulness,
+           expertise, availability of information.
+           Data Collection Period: Jan 01 - Dec 31
+
+                                                                        actual     target
+
+ Re port Ye ar                                                           2015                           2016                           2017                          2018                          2019
+Ov e rall
+Actual                                                                 No Data                         No Data                         85%                            86%                           92%
+Target                                                                   TBD                             95%                           95%                            95%                           95%
+Accuracy
+Actual                                                                 No Data                         No Data                         84%                            86%                           89%
+Target                                                                   TBD                             95%                           95%                            95%                           95%
+Av ailability of Information
+Actual                                                                 No Data                         No Data                         76%                            77%                           86%
+Target                                                                   TBD                             95%                           95%                            95%                           95%
+Expe rtise
+Actual                                                                 No Data                         No Data                         86%                            87%                           90%
+Target                                                                   TBD                             95%                           95%                            95%                           95%
+He lpfulne ss
+Actual                                                                 No Data                         No Data                         86%                            90%                           91%
+Target                                                                   TBD                             95%                           95%                            95%                           95%
+Time line ss
+Actual                                                                 No Data                         No Data                         85%                            86%                           91%
+Target                                                                   TBD                             95%                           95%                            95%                           95%
+
+How Are We Doing
+There is a sizeable improvement over 2018 results. We continue to focus on specific areas customers provide feedback on, in order to improve results.
+Factors Affecting Results

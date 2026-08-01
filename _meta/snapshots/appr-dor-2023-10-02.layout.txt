@@ -1,0 +1,367 @@
+Department of Revenue
+      Annual Performance Progress Report
+
+             Reporting Year 2023
+
+       Published: 10/2/2023 3:12:52 PM
+ KPM #        Approved Key Performance Measures (KPMs)
+
+1            Average Days to Process Personal Income Tax Refund. -
+2            Percent of Personal Income Tax Returns Filed Electronically -
+3            Employee Training Per Year (percent receiving 20 hours per year). -
+4            Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good"; or "excellent" based on overall experience, timeliness, accuracy, helpfulness, expertise, and availability of information.
+5            Effective Taxpayer Assistance - Provide effective taxpayer assistance through a combination of direct assistance and electronic self-help services.
+6            Appraisal Program Equity and Uniformity - We will measure the degree to which county appraisal program equity and uniformity is achieved by determining the percentage of study areas statewide with real market values that are within accepted
+             appraisal standards.
+7            Appraisal Value Uniformity - We will demonstrate our ability to deliver high quality business results by measuring appraisal equity and uniformity for DOR industrial accounts.
+8            Direct Enforcement Dollars Cost of Funds - We will demonstrate our efficiency and effectiveness at funding services that preserve and enhance the quality of life for all citizens by measuring the cost of funds (COF) for every direct enforcement dollar
+             received by our agency.
+9            Collection Dollars Cost of Funds - We will demonstrate our efficiency and effectiveness at funding services that preserve and enhance the quality of life for all citizens by measuring the cost of funds (COF) for every dollar collected by our agency.
+10           Cost of Assessments - We will demonstrate our efficiency and effectiveness of our suspense, audit and filing enforcement functions by measuring the cost of every audit and filing enforcement dollar assessed.
+11           Employee Engagement - Percentage of employees considered actively engaged by a standardized survey.
+
+                                                                                                                                                              red
+                                                                                                                                                              green
+                                                                                                                                                              yellow
+
+ Performance Summary                                                                                                                                                Green                                                        Yellow                                                          Red
+
+                                                                                                                                                               = Target to -5%                                           = Target -5% to -15%                                             = Target > -15%
+Summary Stats:                                                                                                                                                     63.64%                                                        27.27%                                                         9.09%
+KPM #1                          Average Days to Process Personal Income Tax Refund. -
+                                Data Collection Period: Jan 01 - Aug 01
+
+* Upward Trend = negative result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2019                               2020                                2021                               2022                               2023
+Average Days to Process Personal Income Tax Refund
+Actual                                                                              16                                 17                                 18                                  14                                 14
+Target                                                                              8                                  16                                 16                                  16                                 16
+
+How Are We Doing
+The agency is exceeding this target. For the returns that have completed processing, the agency averaged 14 days to refund in 2023, two days shorter than the target of 16 days.
+
+For the 2023 tax season, the department processed approximately 2.1 million 2022 personal income tax returns; about 69 percent (1.42 million) were refund claims. This measurement is the average
+amount of time it takes from when the agency received a return until a refund was issued.
+
+The primary factors that impact return processing and time to refund include:
+       Paper return filing. Preparing a paper return to enter the processing system is mostly a manual process (receiving mail, opening envelopes and removing returns, preparing returns to be
+       scanned, scanning the returns, and keying the information) compared to electronically filed returns that enter the processing system directly without manual intervention. The manual process of
+       entering paper tax return information into the processing system can take hours to weeks depending on the time of year.
+       Manual review. Some returns divert from automated processing for manual review and processing because of errors, identify verification, or missing information. Diverted returns require
+       additional time and information to process.
+For 2023, 2D Barcode returns were tracked as a separate return type for return processing. Prior to 2023, 2D Barcode returns were tracked as paper returns. 2D or “2-dimensional” returns are paper
+returns that contain a barcode similar to the familiar barcodes often used on other products purchased in a store. The scanners that image tax returns read this barcode and automatically enter
+information from the tax return without manual keying. Although similar to electronic filing, these returns are paper and take longer than electronic returns, but are faster and more accurate than basic
+paper returns to process.
+The following table provides information on average processing timelines overall, returns that process through the system without manual intervention and returns that require manual review and
+processing.
+
+                                                                                    Average Days to Process Returns – Returns Suspended*
+
+                                                                          Type of       Overall     Automated           Manual           Percentage of Returns
+                                                                           Return                   Processing        Processing          Manually Processed
+                                                                         All             13.57          11.76             82.08                     2.57%
+                                                                         E-file          13.14          11.44             87.17                     2.24%
+                                                                         2D              19.24          15.82             63.38                     7.19%
+                                                                         Barcode
+                                                                         Paper           25.38          22.26             50.73                    10.97%
+
+*This table illustrates that e-filed returns that don't require manual processing have the shortest average processing time of about 11 days. E-filed returns are the most-common filing method.
+
+Direct Deposit. Having refunds direct deposited into bank accounts, without issuing a paper check, also results in faster processing.
+
+The following table provides information on average processing timelines overall, and for direct deposit and paper check refunds.
+
+                                                                                       Average Days to Process Returns by Refund Type**
+
+                                                                           Type ofReturn Overall     DepositDirect  CheckPaper    Percentage of Returns withDirect Deposit
+
+                                                                         All              13.57        12.98         16.87                      84.78%
+                                                                         E-file           13.14        12.76         15.53                      86.36%
+                                                                         2D Barcode       19.24        16.99         22.31                      57.80%
+                                                                         Paper            25.38        22.86         28.42                      54.66%
+
+**This table illustrates that direct deposit decreases the average refund processing time.
+
+Factors Affecting Results
+Aside from suspended returns, other factors within the agency's control that impact return processing include:
+       Business edits/rules on processing returns. The agency has more than 200 rules that incorporate statutory limits, correct math errors, match against third-party information, and allow the
+       agency to request additional documentation. Some rules are system processed (math errors), while others require manual review and processing. Annually, business rules are improved to close
+       known gaps and keep fewer legitimate refunds from diverting from the automated process.
+       Fraud. The fraud module in the agency's tax processing system uses analytics to identify potentially fraudulent refunds. The attributes for fraudulent returns have become so similar to legitimate
+       returns that it's difficult to differentiate between the two. Each year, the agency reviews fraud triggers to address known gaps and to make improvements. There will always be a need for manual
+       review to combat fraud, but Revenue is working to identify those that the system can release more quickly.
+       Early season refund hold. The agency did not issue refunds prior to February 13. This allowed the agency time to load income and withholding information submitted by payors (due January
+       31) and match it to the information reported by the taxpayer on their tax return. This is similar to the IRS holding refunds until mid-February due to the Earned Income Tax Credit and the
+       Additional Child Tax Credit.  Over 303,000 refund returns were received prior to February 13 and held until refunds were issued.
+Factors outside the agency's control that impact return processing include:
+Taxpayers choose their filing and payment method. Electronically filed returns are typically more accurate and take less time to process than other filing methods. E-file is the recommended
+option for a faster refund, but there is not an individual e-file mandate. For more details on e-filed returns, see KPM #2. Direct deposit is also faster to issue than creating a paper check. It is also
+a more secure method by eliminating the possibility of check theft or forgery.
+W-2 information submitted by employers. Information to verify withholding on a taxpayer's return is due from their employer by January 31. If an employer is late in submitting their
+information, it can cause their employee's returns to stop for review because the withholding the employee claimed does not match agency records.
+KPM #2                        Percent of Personal Income Tax Returns Filed Electronically -
+                              Data Collection Period: Jan 01 - Aug 01
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2019                               2020                               2021                               2022                                2023
+Percent of Personal Income Tax Returns Filed Electronically
+Actual                                                                            89%                               91.30%                             90.70%                             93.10%                              92.60%
+Target                                                                            90%                                 90%                                90%                                91%                                91%
+
+How Are We Doing
+We are exceeding this target. Over this reporting period, the agency had a 92.6 percent rate of returns filed electronically which is a decrease from last fiscal year's rate of 93.1 percent. We tend to see
+an increase in electronic filing during kicker years.
+
+                                                                                     Filing Method                             Count                     Percent
+                                                                         Electronic                                 1,948,227                      92.6%
+                                                                         Paper                                      155,950                        7.4%
+
+E-filing is preferred over other methods of filing. These returns are more accurate because they are software-generated, less costly for the agency to handle, quicker to process, and require less
+handling and storage than paper returns.
+
+Factors Affecting Results
+The agency takes several steps that are designed to encourage e-filing:
+       Promotion. Like the IRS, the agency discusses e-file in our publications, press releases, and on our website to promote the accuracy and typically quicker refunds for e-filing.
+       Free File Alliance. The agency participates in the Free File Alliance where taxpayers meeting certain income, age, veteran, and return-type criteria can e-file for free. The agency posts a list of
+       software companies offering free services on our website.
+E-file mandate. Like the IRS, the agency has an e-file mandate for tax practitioners. There is no penalty for non-compliance, but the agency sends a reminder letter each year to those
+practitioners who didn't file their clients' returns electronically.
+KPM #3                     Employee Training Per Year (percent receiving 20 hours per year). -
+                           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                    2019                               2020                                2021                               2022                               2023
+Employee Training Per Year (percent receiving 20 hours per year)
+Actual                                                                            37%                                26%                                26%                                 38%                                75%
+Target                                                                            85%                                65%                                65%                                 65%                                65%
+
+How Are We Doing
+We are meeting this target. Our training hours increased by 37 percentage points, from 38 percent in FY 2022 to 75 percent in fiscal year 23.  The agency continues meeting all required training
+elements that can be assigned through the Workday system for trainings such as Respectful Workplace and Federal Tax Information (FTI).  Our use of outside vendors to provide additional training
+opportunities for employees as well as developing processes and procedures for documentation have assisted our progress. The agency has made great use of new and existing resources to develop
+a more robust training program at Revenue. The addition of new HR positions will allow the agency to be more responsive to its training needs, proactively promote training programs for employee
+personal and professional development, and offer enough in-house, no-cost, targeted training to continue improving performance in this key performance measure.
+
+Factors Affecting Results
+The agency made significant effort and progress to meet our goal this year.  This is due in part to the involvement of not only the HR team but employees, managers and leadership working together
+to improve processes, clarify goals, and expand access to training opportunities. Additionally, the agency's GenTax system was upgraded in 2022 which required additional training for most
+employees. Training for the upgrade contributed to the agency reaching its goal this year, but is only required every few years. The agency will continue focusing on meeting the target again next year
+and hopes the upward trajectory continues. The agency’s updated policy and process to allow employees to self-report trainings into the Workday system has assisted the agency in ensuring more
+training completions are captured in Workday.  Revenue also completed an internal audit of the agency’s training program which resulted in ten findings. These audit findings are guiding the focus of
+training at Revenue and will assist DOR with reaching the target.
+KPM #4    Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good"; or "excellent" based on overall experience, timeliness, accuracy, helpfulness,
+          expertise, and availability of information.
+          Data Collection Period: Jul 01 - Jun 30
+
+                                                                         actual    target
+
+ Report Year                                                            2019                           2020                           2021                           2022                           2023
+a. Overall
+Actual                                                                  90%                             91%                            92%                            89%                            81%
+Target                                                                  98%                             85%                            85%                            90%                            90%
+b. Availability of Information
+Actual                                                                  89%                             90%                            93%                            88%                            77%
+Target                                                                  97%                             85%                            85%                            90%                            90%
+c. Helpfulness
+Actual                                                                  94%                             94%                            96%                            93%                            84%
+Target                                                                  98%                             85%                            85%                            90%                            90%
+d. Timeliness
+Actual                                                                  90%                             91%                            92%                            90%                            80%
+Target                                                                  97%                             85%                            85%                            90%                            90%
+e. Accuracy
+Actual                                                                  92%                             94%                            95%                            91%                            79%
+Target                                                                  97%                             85%                            85%                            90%                            90%
+f. Expertise
+Actual                                                                  94%                             94%                            96%                            93%                            82%
+Target                                                                  97%                             85%                            85%                            90%                            90%
+
+How Are We Doing
+We are not meeting this target. The agency's customer service ratings decreased in all six categories in 2023. Helpfulness and expertise continue to be the highest scoring categories with a rating of
+84 percent and 82 percent respectively. Availability of information decreased to 78 percent and overall experience decreased to 81 percent, not meeting the new target.
+
+In the last three months, each measure has been steadily improving. Since June 2023 each KPI has gained on average 2 percent showing a positive trend and the agency's effort to improve customer
+satisfaction.
+
+The agency has launched an effort to enhance the customer experience, and part of that effort will include improving the distribution of the survey and the survey scores.
+
+Factors Affecting Results
+The decline in people completing the survey and how it is offered has likely affected these numbers. The number of survey responses declined compared to last year by 33 percent. The decline of
+surveys is likely attributed to changing how the survey is offered. Before, the phone agent offered the survey at the end of the call. Currently, the caller is prompted to take the survey by the phone
+system before the call is answered by an agent. Since the change, we have seen a decline in participation, likely affecting the performance reported by this measure.
+
+KPM #5        Effective Taxpayer Assistance - Provide effective taxpayer assistance through a combination of direct assistance and electronic self-help services.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2019                               2020                               2021                                2022                               2023
+Effective Taxpayer Assistance
+Actual                                                                              81                                 85                                 80                                  71                                 80
+Target                                                                              90                                 85                                 85                                  85                                 85
+
+How Are We Doing
+We are not meeting this target. Performance increased by 9 percent from last fiscal year. The significant change was largely attributed to the decrease in average call wait times.
+
+Factors Affecting Results
+The results of this measure are affected by the performance of three components that form this composite measure. Each component is weighted:
+       Call wait time (40 percent weight). Calls with a five-minute or less wait time made up 77 percent of total calls, up from 57 percent in 2022. Even with our continual promotion and subsequent
+       hiring and training, we have had an overall increase in staffing compared to 2022. Increased staffing has helped improve the percentage of calls waiting less than five minutes.
+       Where's My Refund inquiries (50 percent weight). The percentage of "successful" inquiries made through phone or web applications was 78 percent, which reflects a 1 percent decrease
+       from 2022. Successful inquiries are defined as any response other than "not found," which means the return is not in the system when the taxpayer asks. We instruct taxpayers to wait two
+       weeks after they file before requesting a status update.
+       Customer service rating (10 percent weight). The percentage of customers rating our service as "good" or "excellent" is 81 percent, down from 90 percent in 2022.
+KPM #6     Appraisal Program Equity and Uniformity - We will measure the degree to which county appraisal program equity and uniformity is achieved by determining the percentage of study areas
+           statewide with real market values that are within accepted appraisal standards.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2019                               2020                               2021                               2022                               2023
+Appraisal Uniformity
+Actual                                                                            95%                                97%                                98%                                95%                                95%
+Target                                                                            98%                                98%                                98%                                98%                                98%
+
+How Are We Doing
+We are not meeting the target. Prior to 2018, the agency had consistently met or exceeded established targets for this measure. In 2018, the target was increased to 98 percent and performance was
+at 96 percent, slightly below the target but consistent with previous years’ performance levels. Statewide County appraisal performance is currently below the target.
+
+Factors Affecting Results
+The number of county appraisals that meet this standard are tracked and reported as a percentage in the Ratio Report annually, as directed by statute. The counties self-report study results to the
+department for examination. The agency makes official recommendations and can order adjustments to county processes to ensure real market value standards are met. County performance may be
+impacted by county budget constraints, system conversions and turnover.  When evaluating performance results and setting the target, these factors are considered.
+
+The agency considers this an effective outcome measure because the primary goal of the Support, Assistance, and Oversight (SAO) section is to monitor the performance of assessment and taxation
+at the local government level. This is accomplished by annually reviewing the county ratio report and data, training appraisal methods and best practices, education on Oregon Law, and reviewing
+processes of county appraisal programs statewide.
+KPM #7      Appraisal Value Uniformity - We will demonstrate our ability to deliver high quality business results by measuring appraisal equity and uniformity for DOR industrial accounts.
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                    actual     target
+
+  Report Year                                                                      2019                                2020                               2021                                2022                                2023
+Appraisal Value Uniformity
+Actual                                                                             15%                                 12%                                  4%                                 12%                                 10%
+Target                                                                             32%                                 20%                                 20%                                 15%                                 15%
+
+How Are We Doing
+We are exceeding this target. In 2023 the target was adjusted from 20 percent to 15 percent. The reported metric is the measure of variance between the values from site-specific appraisals and the
+values from the annual mass-appraisal program of processing taxpayer-filed industrial property returns. Performance for 2023 was 10 percent, below the target of 15 percent, indicating a high degree
+of equity and uniformity in appraisals.
+
+Measuring the coefficient of dispersion (COD) is an appraisal industry-standard metric for uniformity. The metric is reliant on market sale transactions. The COD is essentially the average difference a
+group of numbers has from the median.  In the last five years, the agency hasn't had a large enough sampling of usable sale transactions, so, the agency used site-specific appraisals to calculate
+results.
+
+Factors Affecting Results
+The agency is required to appraise Oregon's highly complex industrial properties that are engaged in processing and manufacturing activities. These properties don't sell often. When they do, many
+factors make it difficult to compare the sales price to assessment roll values. Therefore, the limited number of sales transactions has decreased the reliability of this indicator.
+
+Some properties have valuation issues, including omitted property, taxpayer reporting errors (duplicates, age of assets, failure to report), and reclassification of assets. These issues can create a
+greater separation between the value determined via Revenue's mass appraisal process and the value determined via the site-specific appraisal process, resulting in a higher coefficient of dispersion
+(COD) and greater deviation between real market value (RMV) and the roll value.
+KPM #8     Direct Enforcement Dollars Cost of Funds - We will demonstrate our efficiency and effectiveness at funding services that preserve and enhance the quality of life for all citizens by measuring
+           the cost of funds (COF) for every direct enforcement dollar received by our agency.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                    actual     target
+
+  Report Year                                                                      2019                               2020                                2021                                2022                                2023
+Cost of Direct Enforcement Funds
+Actual                                                                             $0.24                              $0.21                               $0.23                               $0.19                               $0.22
+Target                                                                             $0.20                              $0.20                               $0.20                               $0.20                               $0.20
+
+How Are We Doing
+We are not meeting this target. The agency's cost of funds for direct enforcement for fiscal year 2023 (FY 2023) was $0.22. For this measure, a lower value is better. This represents a increase from
+the 2022 cost of $0.19. Dollars received decreased from $293.4 million in 2022 to $250.8 million in 2023. Funding for enforcement functions in the Legislatively Adopted Budget (LAB) remained
+constant at $54.2 million in 2023.
+
+Factors Affecting Results
+Many factors impact the cost of funds. Internal factors include billings and refunds that affect dollars received, in particular the Corporate tax program where a single billing or refund could be millions
+of dollars. Some of the external factors affecting enforcement revenue include labor market participation and whether there is a kicker credit. Years where a kicker is issued moves this measure in a
+positive direction due to some kicker credits paying off taxpayer debts owed.
+KPM #9     Collection Dollars Cost of Funds - We will demonstrate our efficiency and effectiveness at funding services that preserve and enhance the quality of life for all citizens by measuring the cost
+           of funds (COF) for every dollar collected by our agency.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                    actual      target
+
+  Report Year                                                                      2019                                2020                                2021                                2022                                2023
+Cost of Collections Funds
+Actual                                                                             $0.11                               $0.10                               $0.11                               $0.07                               $0.08
+Target                                                                             $0.10                               $0.10                               $0.10                               $0.10                               $0.10
+
+How Are We Doing
+We are exceeding this target. Our cost of funds for collections for fiscal year 2023 was $0.08. For this measure, a lower value is better. This represents an increase from the fiscal year 2022 cost of
+$0.07. Dollars collected decreased from $293.4 million in 2022 to $250.8 million in 2023. Funding for the collections function in the Legislatively Adopted Budget (LAB) remained constant at $19.0
+million in 2023.
+
+Factors Affecting Results
+Many factors impact the cost of funds. Internal factors include billings and refunds that affect dollars received, in particular the Corporate tax program where a single billing or refund could be millions
+of dollars. Some of the external factors affecting enforcement revenue include labor market participation and whether there is a kicker credit. Years where a kicker is issued moves this measure in a
+positive direction due to some kicker credits paying off taxpayer debts owed.
+KPM #10      Cost of Assessments - We will demonstrate our efficiency and effectiveness of our suspense, audit and filing enforcement functions by measuring the cost of every audit and filing
+             enforcement dollar assessed.
+             Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                   actual      target
+
+  Report Year                                                                     2019                                2020                               2021                                2022                                2023
+Cost of Assessments
+Actual                                                                            $0.17                               $0.06                              $0.04                               $0.10                               $0.20
+Target                                                                            $0.18                               $0.18                              $0.18                               $0.12                               $0.12
+
+How Are We Doing
+We are not meeting this target. In 2023, the cost of assessments increased to $0.20. For this measure, a lower value is better. This represents an increase from the FY 2022 costs of $0.10. This was
+mostly due to decreased assessments in the corporation and withholding sections. Assessed dollars decreased from $354.9 million in 2022 to $179.3 million in 2023. Funding for audit and filing
+enforcement functions in our Legislatively Adopted Budget remained constant at $35.2 million in 2023.
+
+This measure is calculated using both audit and filing enforcement data. The filing enforcement portion includes "failure to file" data, which is a department estimate of owed revenues. This estimate is
+typically quite different than actual monies owed, which is determined when the taxpayer files.
+
+Factors Affecting Results
+Many factors impact the cost of assessments. Dollars billed can fluctuate year to year especially with filing enforcement billings. In fiscal year 2023 the Withholding Section stopped issuing filing
+enforcement letters while the Department of Employment underwent an upgrade of their computer system with the Modernization Program. Filing enforcement continued again in July 2023 which will
+be reflected in fiscal year 2024.
+KPM #11             Employee Engagement - Percentage of employees considered actively engaged by a standardized survey.
+                    Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                  2019                               2020                              2021                               2022                              2023
+Employee Engagement
+Actual                                                                                                                                                52                                52                                 58
+Target                                                                           85                                 60                                60                                55                                 55
+
+How Are We Doing
+We are meeting this target. In August 2020, the agency began conducting its own annual survey using Gallup Consulting's Q12 employee engagement survey questions. Since the 2021 KPM report,
+the engagement rate in this measure is based on department calculations. Now DOR has contracted with Gallup to administer the survey and analysis. These results will be included in the 2024
+report. Therefore, the methodology to calculate employee engagement will change because Gallup calculates "actively engaged" differently. Although the agency saw an increase in 2023, a dip is
+anticipated in following years.
+
+Factors Affecting Results
+There are many potential impacts on employee engagement. The agency promotes engagement by actively engaging staff through agency-wide Town Hall meetings, honoring success and
+achievements, quarterly check-ins, and involving staff in process improvement projects.

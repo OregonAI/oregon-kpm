@@ -1,0 +1,478 @@
+Public Utility Commission
+       Annual Performance Progress Report
+
+               Reporting Year 2023
+
+         Published: 8/24/2023 3:46:43 PM
+ KPM #        Approved Key Performance Measures (KPMs)
+
+1           Water Utilities - Percentage of rate regulated water companies with rate designs promoting efficient use of water resources.
+2           Price of Electricity - Average price of electricity for residential users from Oregon Investor Owned Utilities as a percent of the national average price.
+3           Electric Energy - Percentage of business customers' electric energy usage supplied by alternative suppliers.
+4           Electric Utility Operations - Effectiveness of staff audits in preventing injuries caused by electric utility operations per 100,000 utility customers.
+5           Unsafe Acts - Effectiveness of Utility and PUC promoted education in preventing injuries from unsafe acts per 100,000 utility customers.
+6           Natural Gas Operations - Personal injuries related to Natural Gas Operations per 100,000 utility customers.
+7           Switched Access Lines - Percent of total switched access lines provided by competitive local exchange carriers statewide.  Switched access lines are telephone connections that allow users to make calls to others on the same or different networks by
+            connecting to the telephone company's network. More of these lines offered in the market can result in increased competition, which benefits the public with lower prices, better service, and more innovation.
+8           Evidentiary Record - Percent of Consumer Complaint Orders issued within 30 days of close of evidentiary record.
+9           Oregon Telephone Assistance Program - Percentage of Supplemental Nutrition Assistance Program (SNAP) recipients participating in the Oregon Telephone Assistance Program.
+10          Access to Telephone Services - Percentage of disabled senior citizens (65 years and older) with access to the Telecommunications Devices Access Program.
+11          Complaint Investigation - Percent of complaint investigation cases open 50 days or less.
+12          Customer Service - Percent of customers rating their satisfaction with the agency's customer service as good or excellent in overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+13          Best Practices - Percent of total best practices met by the Board of Maritime Pilots.
+14          Vessel Incidents - The number and severity of incidents involving vessels under the direction of licensees, and as a percentage of total vessels piloted annually.
+15a         Met performance measures in OPUC's annual grant agreement. - Met 85% of the established internal performance measures
+15b         Obtained an unmodified financial audit annually - Obtaining an annual unqualified financial audit.
+15c         Keep administrative costs below 8% of annual revenue. - Keep administrative and programs support costs below 8 percent of annual revenue.
+15d         Annually report the total resource cost of conservation programs and maintain a score above 1 for each program. - Reporting the benefit/cost ratio for conservation programs based on utility system societal perspective.
+15e         Report quarterly expenditures and variances by program, and total quarterly progress to annual goals for energy efficiency savings and renewable generation in the Q1, Q2, Q3 and Q4 reports. - Reporting significant mid-year changes to benefit/cost
+            performance as necessary in quarterly reports.
+                                                                                                                           red
+                                                                                                                           green
+                                                                                                                           yellow
+
+ Performance Summary                                                                                                            Green                                          Yellow                                             Red
+
+                                                                                                                            = Target to -5%                              = Target -5% to -15%                               = Target > -15%
+Summary Stats:                                                                                                                 84.21%                                          10.53%                                            5.26%
+KPM #1          Water Utilities - Percentage of rate regulated water companies with rate designs promoting efficient use of water resources.
+                Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2019                              2020                               2021                               2022                               2023
+% Rate Reg. Water Co. w/ Efficiency Enhancing Rate Des.
+Actual                                                                           94%                                94%                                94%                                94%                               94%
+Target                                                                           98%                                97%                                97%                                97%                               94%
+
+How Are We Doing
+The PUC has been effective in encouraging non-metered systems to install meters and providing timely recovery of such costs. There are only two companies without meters of the current
+34 companies that are rate regulated.
+
+In addition to the effort to move all companies to meters, efforts are being made to remove any inclusion of water use in base rates. This change takes place when companies file for a rate
+review.
+
+Factors Affecting Results
+The timing of general rate filings by non-metered water systems is typically outside the control of the PUC. As non-metered, rate-regulated companies file for a rate review, they are moved to a
+metered system. The number of companies without meters remains at two, and the overall percentage of companies with rate designs promoting efficient use of water resources remained at 94% in
+reporting year 2023.
+KPM #2        Price of Electricity - Average price of electricity for residential users from Oregon Investor Owned Utilities as a percent of the national average price.
+              Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = negative result
+
+                                                                                    actual     target
+
+  Report Year                                                                      2019                                2020                               2021                                2022                                2023
+Ave. Price of Elec. for Res. Users from OR Investor-Owned Util. as a % of the Nat. Ave. Price
+Actual                                                                             90%                                 90%                                 91%                                 88%                                 82%
+Target                                                                             94%                                 94%                                 92%                                 92%                                 92%
+
+How Are We Doing
+The reporting year 2023 performance was significantly below the target of 92%. Oregon’s average residential electric price increased from 12.12 cents/kWh in reporting year 2022 to 12.36 cents/kWh
+in reporting year 2023. At the same time, the national average residential electric price increased from 13.72 cents/kWh in 2022 to 15.12 cents/kWh in reporting year 2023. Staff notes that the
+PacifiCorp UE 399 general rate increase was not effective until January 1, 2023, just outside the 2022 reporting period. Similarly, PGE’s current UE 416 general rate case asks for an increase in rates
+on January 1, 2024. In 2024, Staff anticipates that Idaho Power may come in for a rate case after not doing so for some years. In aggregate, there may be a lagged capture of increase in electric utility
+rates in Oregon. Staff cautions that this trend may overstate Oregon KPM #2 for this year and possibly next, until all three Commission jurisdictional electric utilities have recently concluded a general
+rate case.
+
+This performance measure shows the extent to which Oregon Investor-Owned Utilities (IOUs) residential customers’ rates for electricity are below the national average. The lower rates are largely due
+to the region’s retention of federal hydropower or system benefits and other hydroelectric resources. The PUC authorizes utilities to include only prudently incurred costs in rates.
+
+Factors Affecting Results
+On a national level, wholesale market prices for electricity have increased throughout most regions of the country, as natural gas prices have rebounded from their historic lows and risen significantly.
+The price of natural gas is projected to decrease in 2023. As new generating resources are added to meet load growth and Oregon Renewable Portfolio Standards (RPS – 50% by 2040), hydroelectric
+resources will comprise a smaller percentage of the Investor-Owned Utilities (IOUs) resource mix. This effect would normally tend to progressively move Oregon’s residential electricity rates toward
+the national average. However, the system benefits of federal hydropower are projected to continue contributing to the lower Oregon prices.
+KPM #3            Electric Energy - Percentage of business customers' electric energy usage supplied by alternative suppliers.
+                  Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                  actual      target
+
+  Report Year                                                                    2019                               2020                               2021                                2022                               2023
+% of Bus. Cust. Elec. En. Usage Supplied by Alt Suppliers
+Actual                                                                          12.70%                               13%                              13.10%                             13.10%                             13.10%
+Target                                                                            10%                                10%                                11%                                11%                                13%
+
+How Are We Doing
+Actuals in 2022 were 13.1 percent, slightly exceeding the 13 percent target for reporting year 2023. This measures the percentage of Portland General Electric (PGE) and PacifiCorp non-residential
+load served by alternative suppliers and indicates how the competitive market in Oregon is functioning.
+
+Factors Affecting Results
+PacifiCorp’s long-term direct access program increased at a rate of 0.53 percent from the 2023 reporting year. Portland General Electric’s long-term direct access program increased at a rate of 4.00
+percent, however, there have been changes in the makeup of underlying customers in PGE’s territory that may be worth noting. While PGE’s direct access program maintained growth, its ESS
+Commercial sales decreased over the last three years, while its ESS Industrial sales have continued to increase over the same period. The decrease reflects a commercial customer that is no longer
+in business and another in which use per customer decreased. The industrial increase reflects an increase in use per customer for some industrial customers, as well as new industrial direct access
+customers. Overall, there were increases in sales of both ESS and all sales to eligible customers.
+KPM #4         Electric Utility Operations - Effectiveness of staff audits in preventing injuries caused by electric utility operations per 100,000 utility customers.
+               Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = negative result
+
+                                                                                     actual     target
+
+  Report Year                                                                      2019                                 2020                                2021                                2022                                2023
+Effec. of Staff Aud. in Prev. Inj. Caused by Elec. Oper. per 100,000 Utility Customers
+Actual                                                                              0.10                                0.10                                0.05                                  0                                    0
+Target                                                                              0.11                                0.11                                0.11                                0.11                                 0.11
+
+How Are We Doing
+    Accidents in this field typically result in serious injuries or fatalities and are tragic. Any incidents are unacceptable. The decrease in injuries observed after 2018 are largely the result of Safety staff
+    and OPUC management aggressively working with the utilities to improve safety performance. Staff’s audits for compliance with the National Electrical Safety Code can be contributed to a safer
+    work environment. Staff’s observations of utility safe practices seem to be improving, but still have areas that could use some improvement.
+
+    No incidents with injury were reported for reporting year 2023; two reports were made that did not have injuries associated; one was a public dig-in due to mismarking and the second related to a
+    communication worker becoming connected with messenger and ground wires.
+
+Factors Affecting Results
+    The Public Utility Commission’s Electric Safety Program conducts inspections of utility facilities statewide for compliance with the NESC and OPUC rules. Staff also provides training statewide on
+    the specifics of the code and the administrative rules. All Staff in the electric safety program worked in the utility industry prior to working for the Commission. That experience provides the program
+    the ability to recognize unsafe work practices and has made it possible for the program to impact more than just code compliance but also influence utility safety culture.
+KPM #5         Unsafe Acts - Effectiveness of Utility and PUC promoted education in preventing injuries from unsafe acts per 100,000 utility customers.
+               Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = negative result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2019                               2020                               2021                               2022                                2023
+Effec. of Util. and PUC Promoted Ed. in Prev. Inj, from Unsafe Acts per 100,000 Util. Cust.
+Actual                                                                            0.18                                0.21                               0.25                               0.05                               0.10
+Target                                                                            0.45                                0.45                               0.45                               0.45                               0.45
+
+How Are We Doing
+There were two unsafe acts by members of the public. One was the result of an irrigation pipe meeting overhead primary conductors, resulting in one fatality and another injury.  The second incident
+was the result of a dump truck bed contacting an overhead powerline resulting in an electrical shock.
+
+Factors Affecting Results
+Electric utilities throughout the state continue to conduct public safety campaigns reminding people to watch for energized power lines when working outside.
+KPM #6             Natural Gas Operations - Personal injuries related to Natural Gas Operations per 100,000 utility customers.
+                   Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = negative result
+
+                                                                                    actual     target
+
+  Report Year                                                                      2019                                2020                               2021                                2022                                2023
+Personal Injuries Related to Nat. Gas Oper. per 100,000 Utility Cust.
+Actual                                                                               0                                   0                                   0                                   0                                   0
+Target                                                                               0                                   0                                   0                                   0                                   0
+
+How Are We Doing
+Gas utilities continue to operate in ways that do not result in injuries or fatalities. The target should always be zero.
+
+Staff continues to streamline and standardize inspection reports using mobile devices in the field. This allows staff to spend more time making observations and improves the quality of the records.
+
+Factors Affecting Results
+The Natural Gas Safety Program conducts safety inspections and investigations, as well as safety training statewide to ensure compliance with federal pipeline safety regulations. Staff will continue to
+inspect natural gas operator’s facilities, operations, and procedures for compliance with federal safety code, which is the standard to help ensure the safety of employees and the public. Types of
+inspections include comprehensive safety program reviews and field assessments of natural gas systems to ensure compliance with regulations. Ongoing excavation activity by 3rd parties continue to
+be the primary cause of natural gas service interruption and damage. The Oregon Public Utility Commission’s Safety Division investigates complaints involving the process of notification for locating
+and marking services, as well as unsafe excavation practices around underground facilities. Enforcement administered by the PUC, on these safety standards, is a means to address unsafe actions
+that may lead to personal injury and service outages.
+           Switched Access Lines - Percent of total switched access lines provided by competitive local exchange carriers statewide.  Switched access lines are telephone connections that allow users
+KPM #7     to make calls to others on the same or different networks by connecting to the telephone company's network. More of these lines offered in the market can result in increased competition,
+           which benefits the public with lower prices, better service, and more innovation.
+           Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2019                              2020                               2021                               2022                               2023
+% of Total Switched Acc. Lines Prov. by Comp. Local Ex. Carriers Statewide
+Actual                                                                         56.10%                               61%                                66%                              68.75%                               66%
+Target                                                                         50.50%                             50.50%                               58%                                58%                              61.60%
+
+How Are We Doing
+In reporting year 2023, Competitive Local Exchange Carriers (CLECs) had a 66.0% share of the switched access-line and interconnected VoIP market. Their share of the market had been growing
+steadily since 2015, although we are now seeing a leveling off and expect further growth to be minimal.
+
+Factors Affecting Results
+There are many factors driving the change in the telecommunications industry. Although CLECs have a significant share of the Interconnected VoIP market (especially Business subscriptions), the
+number of Interconnected VoIP subscriptions seems to have peaked in 2021 and is now declining along with traditional switched access lines as the wireless industry continues to grow.
+KPM #8           Evidentiary Record - Percent of Consumer Complaint Orders issued within 30 days of close of evidentiary record.
+                 Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                               actual    target
+
+  Report Year                                                                 2019                             2020                              2021                             2022                              2023
+% of Cons. Comp. Orders Issued within 30 Days of Close of Evid. Rec.
+Actual                                                                        50%                              100%                              66%                                0%                              100%
+Target                                                                       100%                              100%                              100%                             100%                              100%
+
+How Are We Doing
+We had one consumer complaint in 2022 that was adjudicated by the Commission. An order was issued fulling resolving this case before the close of the evidentiary record.
+
+Factors Affecting Results
+The Oregon PUC met the target in 2022.
+KPM #9     Oregon Telephone Assistance Program - Percentage of Supplemental Nutrition Assistance Program (SNAP) recipients participating in the Oregon Telephone Assistance Program.
+           Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                 actual      target
+
+  Report Year                                                                   2019                               2020                               2021                              2022                               2023
+Percentage of SNAP Recipients Who Receive OTAP Benefits
+Actual                                                                           14%                               13%                                12%                                12%                                4%
+Target                                                                           28%                               28%                                21%                                21%                                26%
+
+How Are We Doing
+After identifying waste, fraud and abuse in 2019 that resulted in the de-enrollment of nearly half of a prepaid wireless service provider’s OTAP customer base, the participation rate started to increase.
+For instance, the number of OTAP households in January 2020 and December 2020 was 38,874 and 58,531, respectively, and represents a 51 percent increase. However, the onset of the COVID-19
+global pandemic caused a significant economic downturn in Oregon and the number of households participating in SNAP increased 21 percent from January 2020 to December 2020. Because the
+number of SNAP households outpaced the increasing number of OTAP households, the OTAP participation rate declined by one percent in 2020. In 2021, the Federal Communications Commission
+(FCC) COVID-19-related waiver of regulations governing customer usage of free prepaid wireless service expired. Although multiple households were de-enrolled, the OTAP participation rate
+remained steady. In 2022, a prepaid wireless service provider with 70% of the OTAP customer base vacated the OTAP market in 2022, causing the participation rate to decline to 4%.
+
+In 2019, PUC staff had launched an investigation of this prepaid wireless service provider’s billing practices and discovered it had been systematically overcharging the Communications Commission
+recovered approximately $368 million for the federal subsidy and issued a $200 million penalty. After securing an Oregon refund of $788,061 in December 2020, the PUC assisted Oregon Department
+of Justice’s civil enforcement team in securing an additional settlement payment of $859,451 under the Oregon False Claims Act, for a grand total of $1,647,512 returned to the state.
+
+Although the participation rate also includes OTAP households that qualified based on income or participation in other public assistance programs, e.g., Medicaid, etc., a majority qualified based on
+their SNAP participation. Therefore, the participation rate is based only on SNAP data from the Oregon Department of Human Services and the total number of OTAP households.
+
+Factors Affecting Results
+Factors affecting the OTAP participation rate among SNAP households include, but is not limited to, the following:
+Health of Oregon economy,
+Number of SNAP households that have service with a participating provider,
+Some participating providers, e.g., AT&T Mobility, Spectrum, etc., only offer OTAP in limited areas as opposed to throughout the Company’s service territory.
+Outreach and education efforts of participating providers,
+SNAP households subscribe to service from non-participating providers, e.g., Comcast, Verizon Wireless, etc.,
+The subsidized service offering does not meet household’s needs, or
+FCC regulations governing minimum service standards limit customer choice.
+KPM #10       Access to Telephone Services - Percentage of disabled senior citizens (65 years and older) with access to the Telecommunications Devices Access Program.
+              Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2019                              2020                               2021                              2022                               2023
+Percentage of disabled TDAP participants who are 65 years and older
+Actual                                                                          72%                                70%                               69%                                68%                               68%
+Target                                                                          70%                                60%                               72%                                72%                               73%
+
+How Are We Doing
+For the reporting period 2023, the percentage of citizens over the age of 65 served by the Telecommunication Devices Access Program (TDAP) remained static at 68% and under the 2022 target of
+73%. Although the number of participants over 65 has incrementally increased each year since 2020, i.e., 2,735 (2020), 2,944 (2021), and 3,136 (2022), it has not had a statistical impact on the overall
+percentage.
+
+Factors Affecting Results
+Recovery from the COVID-19 global pandemic continues to affect outreach and educational efforts. Also, the PUC renders customer records inactive after a recipient has had TDAP equipment for four
+(4) or more years; therefore, many 65 and older who still use TDAP equipment are not reflected in these figures.
+KPM #11                 Complaint Investigation - Percent of complaint investigation cases open 50 days or less.
+                        Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2019                              2020                               2021                               2022                               2023
+Percent of Complaint Invest. Cases Open 50 Days or Less
+Actual                                                                           90%                                87%                                88%                                86%                                83%
+Target                                                                           75%                                75%                                75%                                75%                                85%
+
+How Are We Doing
+In reporting year 2023, 83% of investigations were completed in 50 days or less exceeding target.
+
+Factors Affecting Results
+For reporting year 2023, the average case cycle time was 25 days. Case cycle time directly effects the achievement of this goal. The cycle time for reporting year 2023 increased by two days from the
+2022 reporting year (23 days). The number of opened complaint investigations increased from 1970 to 2087 from the prior year. The increase in issues combined with an unfilled position has
+contributed to the team’s performance. In addition, the complexity of the complaints along with higher customer expectations contributes to longer investigation times with the utilities to gather
+complete responses.
+KPM #12    Customer Service - Percent of customers rating their satisfaction with the agency's customer service as good or excellent in overall customer service, timeliness, accuracy, helpfulness,
+           expertise and availability of information.
+           Data Collection Period: Jan 01 - Jan 01
+
+                                                                        actual    target
+
+ Report Year                                                           2019                           2020                           2021                          2022                           2023
+Helpfulness
+Actual                                                                  81%                           79%                            85%                            76%                            83%
+Target                                                                  85%                           85%                            85%                            85%                            80%
+Availability of Information
+Actual                                                                  74%                           69%                            78%                            74%                            78%
+Target                                                                  75%                           75%                            75%                            75%                            75%
+Overall
+Actual                                                                  79%                           76%                            84%                            77%                            81%
+Target                                                                  82%                           82%                            82%                            82%                            80%
+Accuracy
+Actual                                                                  79%                           75%                            84%                            78%                            82%
+Target                                                                  80%                           80%                            80%                            80%                            80%
+Expertise
+Actual                                                                  81%                           80%                            87%                            82%                            84%
+Target                                                                  83%                           83%                            83%                            83%                            80%
+Timeliness
+Actual                                                                  79%                           79%                            86%                            79%                            82%
+Target                                                                  85%                           85%                            85%                            85%                            80%
+
+How Are We Doing
+Reporting year 2023 results exceed targets in all categories and a significant increase from reporting year 2022 performance. For the reporting period, Consumer Services emailed 1,689 surveys with
+1,296 responses representing a 76% response rate. Surveys are only sent to customers who provide email addresses.
+
+Factors Affecting Results
+Results for reporting year 2023 improved over the prior reporting period with increases in all areas with four percent or greater increases for Accuracy, Availability of Information, and Helpfulness.
+Several factors may have contributed to the increase in satisfaction. Weekly staff meetings to discuss hot topic issues and receive input from the team on resolutions for difficult complaints. Routine
+monitoring of recorded calls by management and ongoing audits of complaint records.
+KPM #13                   Best Practices - Percent of total best practices met by the Board of Maritime Pilots.
+                          Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                  actual     target
+
+  Report Year                                                                    2019                               2020                               2021                               2022                               2023
+Percent of Yes Responses
+Actual                                                                           92%                                91%                                91%                                91%                                96%
+Target                                                                           100%                               100%                               100%                               100%                               100%
+
+How Are We Doing
+The Board continued revising and updating application and licensing rules to promote better consistency and ensure compliance with legal requirements. The Board completed most revisions to
+training and selection rules. An ongoing project to better identify competency will be carried into the coming years. Board member responses have been generally satisfied with the results of their
+efforts to meet or exceed best practices despite limited resources.
+
+Considerable time was also spent developing new definitions to improve overall compliance with Oregon Statutes, including developing new definitions for “detention,” “distress,” and “extraordinary
+pilotage.
+
+Factors Affecting Results
+The Board members are volunteers, and their time is limited making it challenging to address new and emerging issues.
+KPM #14        Vessel Incidents - The number and severity of incidents involving vessels under the direction of licensees, and as a percentage of total vessels piloted annually.
+               Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = negative result
+
+                                                                                      actual     target
+
+  Report Year                                                                        2019                                2020                                 2021                                2022                                 2023
+Incidents Since 1980
+Actual                                                                                 1                                    2                                   5                                    1                                   2
+Target                                                                                 4                                    4                                   4                                    4                                   4
+
+How Are We Doing
+There were two incidents involving a piloted vessel in reporting year 2023 that occurred in 2022. One was a brief grounding due to pilot error. The Board did not find the pilot to be negligent and did not
+take any further disciplinary action. On his own initiative, the pilot took training to prevent a recurrence and the lessons learned were shared with other pilots. The other incident was a grounding due to
+a mechanical failure with no pilot error. Since reporting in 2017, there have been 2 incidents of pilot error (in 2020 and this one in 2022).
+
+Factors Affecting Results
+In order for the Board to take disciplinary action, the Board would need to find the pilot negligent. In this year’s instance, the Board found pilot error but not negligence. In mitigation, the pilot also
+undertook a training and review of the factors that led to the incident ensuring that all pilots would learn from the mistake. Incidents due to mechanical failure, crew error or other shipboard system
+malfunction are beyond the control of the pilot, outside of the scope of Board authorities and do not reflect pilot error. With the advent of Voyage Data Recorders, which capture audio from the bridge,
+including pilot commands, the actions of the pilot can be objectively confirmed.
+KPM #15a            Met performance measures in OPUC's annual grant agreement. - Met 85% of the established internal performance measures
+                    Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                    2019                                2020                               2021                               2022                               2023
+Met 12 of 13 established internal performance measures
+Actual                                                                           100%                               100%                                73%                                100%                                87%
+Target                                                                           100%                               100%                                100%                               100%                               100%
+
+How Are We Doing
+The Commission develops annual performance measures for Energy Trust as part of grant agreement between the organizations. For the reporting period, Energy Trust must report on sixteen
+performance measures, some of which include multiple sub-sections. The performance measures cover savings goals, levelized cost targets, benefit cost ratios, renewable generation, administrative
+costs, staff, customer satisfaction, and market transformation.  In reporting year 2022, Energy Trust missed portions of two performance categories, resulting in meeting fourteen of the sixteen
+performance measures set by the Commissioners.
+
+The purpose of Energy Trust performance measures is to clearly define the Commission’s minimum expectations in delivering energy efficiency and renewable energy services. Performance
+measures are not meant to be targets or goals. Rather they reflect a threshold by which regulators can determine the health of Energy Trust programs. They are meant to provide early indicators of
+poor performance that if not met, signal that intervention may be required. Staff needs to continue to monitor performance and require changes if needed to improve results.
+
+Energy Trust notified OPUC of its 2022 performance issue well ahead of missing the goals within two categories. Energy Trust has worked proactively with OPUC to develop activities in 2023 to
+improve performance to meet goals going forward.
+
+Factors Affecting Results
+Energy Trust fell short of its electric and natural gas savings goals amid challenging market conditions including supply chain disruptions, labor shortages, price increases and general economic
+uncertainty. Energy Trust provides energy efficiency services to five utilities. In the reporting year, Energy Trust met delivery cost goals in all five utilities but missed savings goals for three of the five
+utilities. Energy Trust also missed a renewable energy measure for dollars spent on project development assistance due to impacts of inflation and related project cost increases, and changes in
+project timelines. However, Energy Trust will obtain at least 5.8 aMW of installed generation of standard net-metered Solar program projects in 2022, exceeding by 71% its performance goal of 3.4
+aMW. Energy Trust met or exceeded all other goals across the wide range of organizational performance measures.
+KPM #15b                 Obtained an unmodified financial audit annually - Obtaining an annual unqualified financial audit.
+                         Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2019                               2020                               2021                               2022                                2023
+Annual Unqualified Financial Audit
+Actual                                                                              1                                  1                                   1                                  1                                  1
+Target                                                                              1                                  1                                   1                                  1                                  1
+
+How Are We Doing
+Energy Trust has completed an unqualified financial audit every year since this requirement has been put in place. The purpose of Energy Trust performance measures is to clearly define the
+Commission's minimum expectations. The company is required to obtain an unqualified financial audit.
+
+Factors Affecting Results
+The key factor affecting results is whether Energy Trust has an audit performed. In the audit, there may be recommendations for areas of improvement. PUC staff reviews any recommendations and
+follows up as appropriate. Accordingly, once the annual audit is obtained, another factor affecting results is PUC staff’s follow-through on areas identified in the audit.
+KPM #15c         Keep administrative costs below 8% of annual revenue. - Keep administrative and programs support costs below 8 percent of annual revenue.
+                 Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = negative result
+
+                                                                                 actual      target
+
+  Report Year                                                                   2019                               2020                               2021                               2022                              2023
+Administrative and program support below 8 percent
+Actual                                                                          5.70%                              6.24%                             6.70%                              6.50%                                7%
+Target                                                                          7.90%                               9%                               7.99%                              7.99%                              7.99%
+
+How Are We Doing
+Energy Trust came in well below this eight percent target for administrative and program support costs as percent of annual revenue. For year over year growth, the Commission approved a temporary
+waiver of this performance measure for 2022 to allow for hiring that stabilizes Energy Trust workforce and greater flexibility. Energy Trust regularly reports administrative and program support costs
+around six percent, substantially below the eight percent target. Staff will continue to monitor performance against this measure.
+
+The Secretary of State conducted an audit of OPUC oversight in 2018 and found that both Energy Trust and the OPUC have adequate controls in place to keep administrative costs reasonable.
+
+Factors Affecting Results
+Factors affecting administrative and program support costs include employee turnover, and the amount of management and administration time required to achieve savings.
+KPM #15d      Annually report the total resource cost of conservation programs and maintain a score above 1 for each program. - Reporting the benefit/cost ratio for conservation programs based on
+              utility system societal perspective.
+              Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                   actual      target
+
+  Report Year                                                                     2019                                2020                               2021                                2022                               2023
+Benefit/cost ratio for conservation programs
+Actual                                                                               1                                  1                                   1                                  1                                   1
+Target                                                                               1                                  1                                   1                                  1                                   1
+
+How Are We Doing
+Energy Trust has consistently provided this reporting to the Commission staff. Continue to track benefit/cost ratios.
+
+Factors Affecting Results
+Factors affecting results are whether Energy Trust reports the utility and societal benefit/cost ratios.
+KPM #15e      Report quarterly expenditures and variances by program, and total quarterly progress to annual goals for energy efficiency savings and renewable generation in the Q1, Q2, Q3 and Q4
+              reports. - Reporting significant mid-year changes to benefit/cost performance as necessary in quarterly reports.
+              Data Collection Period: Jan 01 - Jan 01
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2019                               2020                                2021                               2022                                2023
+Reporting changes in quarterly reports
+Actual                                                                               1                                  1                                  1                                   1                                  1
+Target                                                                               1                                  1                                  1                                   1                                  1
+
+How Are We Doing
+Energy Trust is doing well on this performance measure and it regularly provides very detailed and timely quarterly reports to the Commission.
+
+Staff should continue to monitor quarterly reports and annual reports to make sure that no surprises show up in annual reports, and that all significant mid-year changes are reported in quarterly
+reports.
+
+Factors Affecting Results
+Factors affecting results are whether or not Energy Trust provides appropriate information to the Commission and Commission staff in its quarterly reports.

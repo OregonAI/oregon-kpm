@@ -1,0 +1,247 @@
+Veterans' Affairs, Department of
+              Annual Performance Progress Report
+
+                     Reporting Year 2020
+
+                Published: 9/17/2020 8:01:51 AM
+ KPM #        Approved Key Performance Measures (KPMs)
+
+1            a. Loan Program - Delinquent Accounts - Percentage of Oregon Department of Veterans' Affairs home loan accounts that are delinquent.
+1            b. Loan Program - Loan Origination. Increase the loan origination volume to $60 million or more in new loans per year.
+2            a. Oregon Veterans Homes - Maintain an occupancy rate of at least 80% for licensed beds in both Veteran Homes.
+2            b. Oregon Veterans Homes - Maintain below-market veteran private pay rates.
+3            Veteran Services - Disability Compensation and Pension Benefits - Amount of average U.S. Department of Veterans Affairs (federal VA) disability and pension compensation received per Oregon Veteran who receives these benefits.
+4            Veteran Services - Power of Attorney (POA) - Number of powers of attorney granted by veterans to veteran service officers and the Department.
+5            Customer Satisfaction - Percentage of customers rating their satisfaction with the Oregon Department of Veterans' Affairs customer service as "good" or "excellent": overall, timeliness, accuracy, helpfulness, expertise, and availability of information.
+6            Best Practices - Percent of total applicable best practices met by the Board.
+7            Reducing Veteran Homelessness - Percentage of veteran homeless households who exited into permanent housing and retained that housing for six months or longer.
+
+                                                                                                                                                          red
+                                                                                                                                                          green
+                                                                                                                                                          yellow
+
+ Performance Summary                                                                                                                                            Green                                                       Yellow                                                         Red
+
+                                                                                                                                                           = Target to -5%                                          = Target -5% to -15%                                            = Target > -15%
+Summary Stats:                                                                                                                                                  62.50%                                                        0%                                                         37.50%
+KPM #1        a. Loan Program - Delinquent Accounts - Percentage of Oregon Department of Veterans' Affairs home loan accounts that are delinquent.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                 actual      target
+
+  Report Year                                                                   2016                               2017                               2018                               2019                              2020
+Percentage of Oregon Department of Veterans' Affairs home loan accounts that are delinquent
+Actual                                                                          0.80%                              0.91%                             0.91%                              0.42%                              0.51%
+Target                                                                          1.50%                              1.50%                             1.50%                              1.50%                              1.50%
+
+How Are We Doing
+This metric measures the percentage of the Department’s home loans (in units) that are 90 or more days delinquent or in foreclosure.  For fiscal year 2020, the Department successfully achieved
+better results than the Key Performance Measure target.
+
+Factors Affecting Results
+Oregon’s strong economy and low unemployment levels through most of the fiscal year, and real estate appreciation, contributed to a continued low percentage of mortgage delinquency. These
+factors along with prudent loan underwriting and timely contact with borrowers experiencing payment difficulties helps prevent most loan accounts from becoming seriously delinquent.  The reason for
+the slight increase from the previous year was directly related to the reduction in the number of loans in the servicing portfolio.
+KPM #1           b. Loan Program - Loan Origination. Increase the loan origination volume to $60 million or more in new loans per year.
+                 Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2016                               2017                               2018                                2019                               2020
+Loan Origination shown in Millions
+Actual                                                                           $62.30                             $72.30                              $76.90                             $77.01                             $47.44
+Target                                                                           $35.00                             $35.00                              $60.00                             $60.00                             $60.00
+
+How Are We Doing
+After five consecutive years of increases in loan origination volume, the Department experienced a reduction in loan production for fiscal year 2020. The primary reason for the reduction was related to
+historically low mortgage interest rates for conventional loans.
+
+Factors Affecting Results
+The open market interest rates moved to historic lows during the course of this fiscal year. Generally, ODVA has higher loan origination production when there is greater differential between the rates
+ODVA is able to provide and rates in the conventional market.
+KPM #2           a. Oregon Veterans Homes - Maintain an occupancy rate of at least 80% for licensed beds in both Veteran Homes.
+                 Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2016                              2017                               2018                              2019                               2020
+Oregon Veterans Homes: Occupancy
+Actual                                                                          77%                                93%                               88%                                91%                               92%
+Target                                                                          80%                                80%                               80%                                80%                               80%
+
+How Are We Doing
+The two Oregon Veterans’ Homes averaged greater than 90% occupancy for fiscal year 2020, exceeding the targeted 80% occupancy for the Key Performance Measure.
+
+Factors Affecting Results
+While other private Skilled Nursing Facilities (SNFs) in Oregon have averaged occupancy rates in the 60%-65% range, the two Oregon Veteran Homes are generally well-above the target of 80%
+occupancy.
+
+The two homes are limited to admitting only veterans, their spouses and Gold Star Parents (parents who have lost a child in service to our country).   Due to federal regulation, seventy-five percent
+(75%) of the occupancy in each home must be the veteran themselves. Both facilities provide high quality care that honors veteran service and is sensitive to military culture and aging issues. Both
+Homes have endorsed memory care communities, which is very rare for nursing homes in Oregon.  Below market private pay rates at the two Veteran Homes also positively impact occupancy levels.
+It is anticipated that the average occupancy rates will decline during fiscal year 2021 due to the COVID-19 Pandemic.
+KPM #2                  b. Oregon Veterans Homes - Maintain below-market veteran private pay rates.
+                        Data Collection Period: Oct 01 - Sep 30
+
+* Upward Trend = negative result
+
+                                                                                   actual      target
+
+  Report Year                                                                   2016                                2017                               2018                                2019                                2020
+Oregon Veterans' Homes Private Pay Rates
+Actual                                                                        $205.00                             $214.00                             $223.00                             $232.00                             $245.00
+Target                                                                        $286.00                             $297.00                             $317.00                             $327.00                               TBD
+
+How Are We Doing
+The two Oregon Veteran Homes have historically, and will continue to, offer private pay rates for veterans that are below the median charged by Oregon skilled nursing facilities. By offering this
+reduced rate, veterans who require skilled nursing care can have the same access to veteran-specific care in our two Homes at a rate lower than the private market in civilian nursing facilities across
+Oregon.
+
+Factors Affecting Results
+The factors influencing the veteran private pay rates generally include traditional cost drivers in the long-term industry including the needs of the veteran requiring care and reimbursement from the
+Federal VA/Medicare/Medicaid sources.  Inherent in these factors are the critical costs of recruiting, training and maintaining a qualified nursing workforce who provide care to residents in the
+Veterans’ Homes.  Due to the COVID-19 Pandemic, private pay rates in the future may continue to increase to cover the additional costs of care during these unprecedented times.
+KPM #3     Veteran Services - Disability Compensation and Pension Benefits - Amount of average U.S. Department of Veterans Affairs (federal VA) disability and pension compensation received per
+           Oregon Veteran who receives these benefits.
+           Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual      target
+
+  Report Year                                                      2016                                  2017                                   2018                                  2019                                  2020
+Disability Compensation and Pension Benefits per Veteran
+Actual                                                          $15,229.00                            $15,445.00                            $15,971.00                            $16,605.54                              No Data
+Target                                                          $14,766.00                            $15,268.00                            $15,787.00                            $16,324.00                             $16,916.00
+
+How Are We Doing
+The Oregon Department of Veterans’ Affairs (ODVA) strives to provide the highest quality of claims representation to Oregon’s veterans.  ODVA is responsible for accrediting and training County,
+Tribal, and State Veteran Service Officers to ensure veterans are served by skilled, certified professionals.  These Veteran Service Officers are assisted by a strong ODVA Appeals team which
+represent veterans and families in USDVA Board Hearings, and Virtual Hearings. This performance measure compares the average annual Oregon disability compensation and pension benefit made
+to an individual veteran (actual) to the national average (target).  Federal Fiscal Year 2019 exceeded the national average. Federal Fiscal Year 2020 target is based upon a four-year average increase
+of 3.36%. Actual 2020 data is anticipated to be released by the USDVA in September 2021.
+
+Factors Affecting Results
+The factors influencing the dollar amount of a disability compensation and pension payment include the quality of representation (reflected in the knowledge and expertise of the Veteran Service
+Officer and board hearings officer) and the type of claim (disability compensation or pension) presented to the USDVA.  Other factors include the age and overall health of veterans.  For instance,
+older veterans may receive a pension benefit, which is designed to support them by augmenting fixed incomes burdened by exceptionally high out of pocket medical costs such as assisted living
+facilities, or to prevent homelessness for those veterans with an extremely low income.
+KPM #4        Veteran Services - Power of Attorney (POA) - Number of powers of attorney granted by veterans to veteran service officers and the Department.
+              Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual      target
+
+  Report Year                                                                     2016                               2017                               2018                               2019                                2020
+Power of Attorney
+Actual                                                                           13,105                             11,372                             11,476                              11,783                              9,804
+Target                                                                            9,928                             10,500                             12,000                              13,200                             13,700
+
+How Are We Doing
+Partnerships between the Oregon Department of Veterans’ Affairs (ODVA), Tribes, and Counties providing services to veterans and families have never been stronger.  Coordinated efforts to reach
+and engage with veterans from all walks of life and historically underserved populations continue to grow. The number of new Powers of Attorney (POA)/Appointments of Representation provided by
+veterans to ODVA, Tribes, and Counties is generally a reflection of new claims being filed on behalf of veterans and their family members.  For fiscal year 2020, there was a decrease in the number of
+new POAs from the prior year.
+
+Factors Affecting Results
+The primary factor affecting recent results was a 2015 directive from the USDVA mandating that all historical POA’s older than five years old be renewed. These POA renewals resulted in substantial
+increases to the total number of POAs filed between 2015-2017 as established clients had to be refreshed.  Starting in 2018 and continuing into 2020, the number of new POA filings began to average
+to totals typically seen prior to 2015.  Due to the leveling off of POA’s, after the required refresh from USDVA, ODVA plans to adjust the targets to more realistic levels going forward.
+
+Despite the reduction in total POA’s and decrease in overall population of veterans as Oregon’s veteran population age, outreach efforts to underserved veteran’s population has improved.  For
+example, over 1,400 new claims were submitted in FY20 for elderly and extremely low income or homeless veterans as well as surviving spouses.
+
+Note: Beginning in March 2020, County and Tribal Veteran Service Offices, and ODVA experienced an immediate decrease in monthly POA’s obtained. The noticeable decline in new POA’s is
+attributed to the reduced ability for in-person meetings and more limited outreach activities due to the COVID-19 Pandemic. Additionally, ODVA was able to run its own POA reports that provide
+verifiable and repeatable data, resulting in a restatement of actual POAs dating back to 2015.
+KPM #5   Customer Satisfaction - Percentage of customers rating their satisfaction with the Oregon Department of Veterans' Affairs customer service as "good" or "excellent": overall, timeliness,
+         accuracy, helpfulness, expertise, and availability of information.
+         Data Collection Period: Jul 01 - Jun 30
+
+                                                                        actual     target
+
+ Report Year                                                            2016                           2017                           2018                           2019                           2020
+Timeliness
+Actual                                                                  88%                            86%                            91%                            84%                            86%
+Target                                                                  90%                            90%                            90%                            90%                            90%
+Accuracy
+Actual                                                                  88%                            89%                            95%                            90%                            92%
+Target                                                                  90%                            90%                            90%                            90%                            90%
+Availability of Information
+Actual                                                                  80%                            88%                            92%                            87%                            87%
+Target                                                                  90%                            90%                            90%                            90%                            90%
+Expertise
+Actual                                                                  88%                            96%                            92%                            93%                            95%
+Target                                                                  90%                            90%                            90%                            90%                            90%
+Overall
+Actual                                                                  93%                            94%                            97%                            95%                            96%
+Target                                                                  90%                            90%                            90%                            90%                            90%
+Helpfulness
+Actual                                                                  91%                            92%                            94%                            90%                            94%
+Target                                                                  90%                            90%                            90%                            90%                            90%
+
+How Are We Doing
+96% of those surveyed indicated their overall satisfaction with the Department to be excellent or good.
+
+Factors Affecting Results
+Some customers mistake the Oregon Department of Veterans' Affairs for the U.S. Department of Veterans' Affairs (Federal VA). The Department advocates for veterans to help them obtain their
+benefits.  The Federal VA adjudicates veterans claims for benefits. This is a potential that may result in confusing the Department with the Federal VA that could result in lower ratings in cases where
+the veteran is not pleased with how the federal agency rated their claim for benefits or the length of time it may have taken to receive a decision.
+KPM #6                  Best Practices - Percent of total applicable best practices met by the Board.
+                        Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                 actual     target
+
+  Report Year                                                                   2016                              2017                               2018                              2019                               2020
+Percent of total of best practices met by the Committee
+Actual                                                                          100%                              100%                              100%                               100%                              100%
+Target                                                                          100%                              100%                              100%                               100%                              100%
+
+How Are We Doing
+The Governor's Advisory Committee meets every one of the best practice assessments that can be applied to the committee and its duties.
+
+Factors Affecting Results
+Not all the Boards and Commissions Best Practice Key Performance Measures apply to the Veterans' Affairs Advisory Committee because it is not a board or a commission with authority over the
+Department.  The Advisory Committee acts in an advisory role and therefore five Best Practice Criteria are not applicable and will not be used to calculate the Department's outcome on this
+performance measure.  The Advisory Committee does meet 100 percent of the 10 Best Practice Criteria that are applicable.
+KPM #7      Reducing Veteran Homelessness - Percentage of veteran homeless households who exited into permanent housing and retained that housing for six months or longer.
+            Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                  actual      target
+
+  Report Year                                                                    2016                                 2017                                2018                              2019                               2020
+Reducing Veteran Homelessness
+Actual                                                                         No Data                              No Data                               85%                                87%                                79%
+Target                                                                            TBD                                  TBD                                80%                                80%                                80%
+
+How Are We Doing
+From July 1, 2019 through June 30, 2020, 6 months after exiting to a permanent destination, 79% of Veteran households who were contacted after receiving OHCS homeless assistance funds had
+retained their permanent housing. This is in-line with the target of 80%.
+
+Factors Affecting Results
+Shifting program attention from emergency shelters toward a "housing first" model, which prioritizes putting people into permanent housing immediately, has been ongoing for the past few years and
+may contribute to meeting this goal. Obstacles to meeting this goal include: difficult economic circumstances, high unemployment rates, a shortage of affordable housing units, low rental vacancy
+rates, impacts from COVID -19, and poor data quality and collection over the past several years.
+
+It is important to note that the denominator used in this calculation is the number of people successfully contacted after six months, not everyone who was due for a follow-up. The KPM therefore
+reflects the percentage of those contacted who are still in permanent housing after 6 months and does not include those who were not contacted
+
+There are several possible reasons some clients were not contacted after exiting homeless assistance programs. As noted in last year’s report, due to the way the past KPM report is written in the
+data system, not everyone due for a follow-up was being entered into the system. Therefore, it is probable that a large number of people due for follow-up were not contacted. In response, OHCS staff
+has recently updated the report to automatically prompt service providers to conduct the correct amount of follow-ups. While this has resulted in improved information and data accuracy, it has also
+resulted in a lower contact percentage overall. OHCS recognizes that improving data quality and reports is an iterative process and is continuing to work on addressing these issues over time.
+Lastly, the KPM is only a limited snapshot of the services provided to Veterans and their families. OHCS housing and shelter programs provided services such as emergency shelter, rapid rehousing,
+case management and more to Veterans throughout the state. In addition, the OHCS Veteran Leadership Team helped convene our State counterparts, Federal partners, and other service providers
+to discuss best practices and build collective knowledge through peer-to-peer sharing across regions. Through increased collaboration and improved data, we are hopeful in continuing to make
+progress towards placing more Veterans in permanent housing.

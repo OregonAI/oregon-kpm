@@ -129,7 +129,77 @@ def norm_measure(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", text.lower()).strip()
 
 
-def parse_block(lines: list[str]) -> dict | None:
+def align_by_column(raw_line: str, start: int, year_cols: list[float],
+                    n_years: int) -> list[str] | None:
+    """Assign a short value run to year columns by x-position. None if ambiguous.
+
+    THIS IS THE ONLY SAFE WAY TO PLACE A PARTIAL ROW. pypdf emits nothing for a blank table
+    cell, so `Actual 73% 73% 73%` under five years could mean the first three years or the
+    last three -- and measured across 60 documents it is genuinely both: 406 runs are missing
+    trailing years, 195 are missing the first four, and 52 alternate (0,2,4), the signature of
+    a survey the agency runs biennially. A fill heuristic would be wrong in a large minority
+    of cases, silently, attaching real numbers to the wrong years.
+
+    REFUSING IS PART OF THE DESIGN. If any value lands more than 60% of a column pitch from
+    every year, or two values claim the same year, this returns None and the run stays
+    unparsed. An unparsed run is a known gap; a misaligned one is a false fact.
+    """
+    body = raw_line[start:]
+    got = [(m.group(), (m.start() + m.end()) / 2 + start)
+           for m in re.finditer(rf"\$?-?[\d,]+(?:\.\d+)?%?|{NON_VALUE}", body, re.I)]
+    if not got or len(got) > n_years:
+        return None
+    pitch = ((year_cols[-1] - year_cols[0]) / max(1, len(year_cols) - 1)) if year_cols else 0
+    if pitch <= 0:
+        return None
+    out: list[str | None] = [None] * n_years
+    for val, vx in got:
+        dists = [abs(vx - cx) for cx in year_cols]
+        j = dists.index(min(dists))
+        if min(dists) > pitch * 0.6 or out[j] is not None:
+            return None
+        out[j] = val
+    # A cell the agency left blank is NOT the same fact as a value we failed to read, and the
+    # corpus already distinguishes those: `No Data` is carried as a value because the agency
+    # wrote it. An empty column is recorded as null for the same reason.
+    return out
+
+
+def layout_runs(path: Path) -> dict[str, list[list[str | None]]]:
+    """{kpm_number: [aligned actual run, ...]} read from the layout sidecar.
+
+    Independent of the reading-order parse and deliberately minimal: it finds year columns,
+    then places each `Actual` row's values into them by x-position. Everything else about a
+    measure -- title, submeasure, collection period, restatements -- still comes from the
+    reading-order parse, which handles it well.
+    """
+    if not path.is_file():
+        return {}
+    out: dict[str, list[list[str | None]]] = {}
+    kpm, cols, n = None, [], 0
+    for raw in path.read_text().splitlines():
+        s = raw.strip()
+        m = KPM_HEAD.match(s)
+        if m:
+            kpm, cols = m.group(1), []
+            continue
+        if kpm is None:
+            continue
+        if SERIES_HEAD.match(s):
+            ys = list(re.finditer(r"(?:19|20)\d{2}", raw))
+            cols = [(y.start() + y.end()) / 2 for y in ys]
+            n = len(ys)
+            continue
+        head = s.lower().split()[0].rstrip(":") if s else ""
+        if head == "actual" and cols:
+            start = re.match(r"\s*", raw).end() + len("actual")
+            a = align_by_column(raw, start, cols, n)
+            if a is not None:
+                out.setdefault(kpm, []).append(a)
+    return out
+
+
+def parse_block(lines: list[str], raw: list[str] | None = None) -> dict | None:
     """One `KPM #n` block -> {measure, dcp, years, runs:[{submeasure, actual, target}]}."""
     kpm_no = lines[0].split("#")[1].strip()
     title, dcp, years = [], None, []
@@ -161,8 +231,16 @@ def parse_block(lines: list[str]) -> dict | None:
     if i >= len(lines):
         return None
     inline = re.findall(r"((?:19|20)\d{2})", lines[i])
+    year_cols: list[float] = []
     if inline:
         years = inline
+        # Column centres from the LAYOUT line, which preserves x-positions. Absent when the
+        # caller had no layout sidecar, in which case alignment is simply not attempted.
+        if raw is not None and i < len(raw):
+            year_cols = [(m.start() + m.end()) / 2
+                         for m in re.finditer(r"(?:19|20)\d{2}", raw[i])]
+            if len(year_cols) != len(years):
+                year_cols = []
         i += 1
     else:
         i += 1
@@ -234,8 +312,18 @@ def rows_for_document(md_path: Path) -> tuple[list[dict], list[str]]:
     txt = SNAPSHOTS / f"{fm['id']}.txt"
     if not txt.is_file():
         return [], [f"{fm['id']}: no snapshot text"]
+    # THE READING-ORDER TEXT REMAINS PRIMARY. Parsing the layout sidecar wholesale was tried
+    # and is worse: 39,242 rows -> 28,124. It carries page furniture that `<id>.txt` has
+    # stripped, and pypdf reports "Rotated text discovered. Output will be incomplete." on
+    # some documents, so it loses more structure than its geometry recovers.
+    #
+    # Geometry is therefore consulted ONLY for runs that fail the length gate, via a lookup
+    # keyed on KPM number and run ordinal. Both parses walk the same blocks of the same
+    # document in the same order, so the ordinal is stable; anything that does not line up
+    # falls through and the run stays unparsed, exactly as before.
     text = txt.read_text()
     lines = text.splitlines()
+    aligned_runs = layout_runs(SNAPSHOTS / f"{fm['id']}.layout.txt")
     starts = [m.start() for m in KPM_HEAD.finditer(text)]
     if not starts:
         return [], [f"{fm['id']}: no 'KPM #n' blocks"]
@@ -248,6 +336,10 @@ def rows_for_document(md_path: Path) -> tuple[list[dict], list[str]]:
     def line_of(off): return next(n for p, n in reversed(offs) if p <= off)
 
     rows, problems = [], []
+    # Which Actual run within a KPM block we are on, so the geometry lookup addresses the
+    # same run the primary parse is holding. Incremented for every run, recovered or not.
+    actual_ordinal: dict[str, int] = defaultdict(int)
+    recovered = 0
     bounds = [line_of(s) for s in starts] + [len(lines)]
     for b in range(len(bounds) - 1):
         blk = lines[bounds[b]:bounds[b + 1]]
@@ -262,12 +354,39 @@ def rows_for_document(md_path: Path) -> tuple[list[dict], list[str]]:
             # reads as data rather than as an error. Same shape as the appropriations
             # extractor's gate, for the same reason.
             if len(act) != len(parsed["years"]):
-                problems.append(
-                    f"{fm['id']} KPM #{parsed['kpm_number']}"
-                    f"{'/' + run['submeasure'] if run.get('submeasure') else ''}: "
-                    f"{len(act)} actual(s) vs {len(parsed['years'])} year(s)")
-                continue
+                # SECOND CHANCE, FROM GEOMETRY. The values are short because pypdf emits
+                # nothing for a blank cell, not because the measure is unreadable. If the
+                # layout sidecar places this same run's values into year columns
+                # unambiguously, the run is recovered with nulls where the agency printed
+                # nothing. Anything ambiguous never reaches here -- align_by_column returns
+                # None -- so a failure to recover leaves the run exactly as unparsed as it
+                # was, never misaligned.
+                cand = aligned_runs.get(parsed["kpm_number"], [])
+                ordn = actual_ordinal[parsed["kpm_number"]]
+                # The recovered run must account for EXACTLY the values the primary parse
+                # found. A different count means the two parses are not looking at the same
+                # run -- an ordinal drift -- and the recovery is refused rather than guessed.
+                if ordn < len(cand) and len(cand[ordn]) == len(parsed["years"]) \
+                        and sum(x is not None for x in cand[ordn]) == len(act):
+                    act = cand[ordn]
+                    recovered += 1
+                else:
+                    problems.append(
+                        f"{fm['id']} KPM #{parsed['kpm_number']}"
+                        f"{'/' + run['submeasure'] if run.get('submeasure') else ''}: "
+                        f"{len(act)} actual(s) vs {len(parsed['years'])} year(s)")
+                    actual_ordinal[parsed["kpm_number"]] += 1
+                    continue
+            actual_ordinal[parsed["kpm_number"]] += 1
             for k, y in enumerate(parsed["years"]):
+                # A BLANK CELL IS NOT AN OBSERVATION. Positional alignment returns a
+                # full-length run with None where the agency printed nothing, which is what
+                # lets the length gate pass honestly instead of being bypassed. Emitting
+                # those as rows would turn "the agency did not report 2024" into a row
+                # asserting a null actual for 2024 -- a different claim, and one the source
+                # does not make. `No Data` still becomes a row, because the agency wrote it.
+                if act[k] is None:
+                    continue
                 rows.append({
                     "agency": fm.get("agency"),
                     "agency_doc": fm["id"],

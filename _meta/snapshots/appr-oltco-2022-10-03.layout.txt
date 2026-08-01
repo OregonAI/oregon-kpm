@@ -1,0 +1,244 @@
+Long Term Care Ombudsman, Office of
+                  Annual Performance Progress Report
+
+                          Reporting Year 2022
+
+                    Published: 10/3/2022 10:01:47 AM
+ KPM #         Approved Key Performance Measures (KPMs)
+
+1             Percentage of non-referred complaints to LTCO where action is needed that are partially or fully resolved. -
+2             Average initial response time, measured in business days, to LTCO non-referred cases. -
+3             Average time, measured in business days, to close LTCO non-referred cases. -
+4             Percent of NF and ALF/RCF facilities to which a Long-Term Care Certified Ombudsman is assigned. -
+5             Long-Term Care Certified Ombudsman hours. -
+6             Number of hospitalizations, ER visits, arrests, or psychiatric holds of OPGC clients during the reporting period. -
+7             Number of referrals diverted away from OPGC by finding less restrictive alternatives. -
+8             Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+
+                                                                                                                                                          red
+                                                                                                                                                          green
+                                                                                                                                                          yellow
+
+ Performance Summary                                                                                                                                           Green                                                       Yellow                                                         Red
+
+                                                                                                                                                          = Target to -5%                                          = Target -5% to -15%                                            = Target > -15%
+Summary Stats:                                                                                                                                                   25%                                                         25%                                                          50%
+KPM #1            Percentage of non-referred complaints to LTCO where action is needed that are partially or fully resolved. -
+                  Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                    actual     target
+
+  Report Year                                                                     2018                                2019                               2020                                2021                               2022
+Partially or Fully Resolved Complaints
+Actual                                                                             89%                                93%                                 89%                                 89%                                89%
+Target                                                                             98%                                98%                                 98%                                 98%                                98%
+
+How Are We Doing
+This measure consists of all complaints that are handled directly by the LTCO program. Complaints that are referred to licensing, Adult Protective Services, or other entities are not included in this
+measure. Cases in which the resident does not wish for the LTCO program to pursue the matter are also not included in this measure.
+
+Since 2016, the resolution rate has been hovering around 89-90%, which is an accurate reflection of the LTCO program’s ability to resolve complaints on behalf of residents.
+
+Factors Affecting Results
+Since 2015, messaging to LTCO volunteers has been that it is both acceptable and desirable to file reports on cases that they have been unable to resolve. Volunteers are assured that such reporting
+does not reflect poorly on their performance or the performance of LTCO. It is only by collecting the unresolved data, as well as the resolved cases, that the LTCO program can accomplish appropriate
+evaluation of our effectiveness on the numerous types of cases we address for residents in long term care.
+
+Going forward, it is unrealistic that the LTCO program will ever receive a 98% resolution of all complaints handled primarily by program volunteers given the programs’ changed approach. Not all
+complaints received are situations that can be resolved by the LTCO program. Rather, it is more important to report on all complaints addressed by LTCO and its volunteers so as to better reflect all
+situations confronting Oregonians living in long term care facilities.
+KPM #2                Average initial response time, measured in business days, to LTCO non-referred cases. -
+                      Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                   actual     target
+
+  Report Year                                                                    2018                               2019                                2020                               2021                               2022
+Average initial response time, measured in business days, to LTCO non-referred cases.
+Actual                                                                                                               1.03                               1.17                                  1                                  1
+Target                                                                                                               1.50                               1.50                                1.50                               1.50
+
+How Are We Doing
+This measure is the period of time elapsed between initial receipt of a complaint and the date of first action for cases within LTCO’s purview.
+       Prior to 2019, this measure included all calendar days, including weekends and holidays. The measure now reflects actual business days.
+       This year’s response time of 1.00 business days continues to reflect program expectations, which are that all complaints, whether made in person at the facility or by phone, be addressed
+       through a first action as quickly as possible during business hours.
+Factors Affecting Results
+The LTCO program assigns one of the 10 Deputy State Long Term Care Ombudsman staff persons to cover complaint calls coming in each day to our 1-800# during business hours. This long-
+standing practice ensures that LTCO has a high level of expertise initially responding to 1) address complaints almost as soon as they are made when made by phone, or 2) immediately refer a
+complaint to a volunteer Certified Ombudsman who is assigned to a facility from which a resident’s complaint is coming.
+
+This measure has hovered at or just above 1.00 since the measurement switched to business days from calendar days three years ago. This response rate reflects the expectations of the program’s
+service to residents of care facilities.
+KPM #3                  Average time, measured in business days, to close LTCO non-referred cases. -
+                        Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = negative result
+
+                                                                                    actual     target
+
+  Report Year                                                                     2018                                2019                               2020                                2021                                2022
+Average time, measured in business days, to close LTCO non-referred cases.
+Actual                                                                                                                  15                               13.46                                 24                                  22
+Target                                                                                                                  25                                 25                                  25                                  17
+
+How Are We Doing
+This measure is the period of time between intake date of case/complaint and the time the case is closed by staff or volunteers. It is specific to the LTCO program.
+       Prior to 2019, this measure included all calendar days, including weekend and holidays. The measure now reflects actual business days. This year is the first year with a new target of 17
+       business days.
+       The measure of 22 this year is lower than the prior reporting year. However, it now falls outside of the listed target. However, LTCO cases closing on average within 22 business days should be
+       considered an acceptable expectation.
+Factors Affecting Results
+This year’s data reflects another year of work impacted by the COVID-19 pandemic. During this reporting year, our Certified Ombudsman volunteers have continued to be cautious in visiting care
+facilities as they have historically done. Prior to the pandemic, our volunteers averaged approximately 1,000 visits to facilities per month. During this reporting year, month to month visits have ranged
+from 200 to 400 in any given month. The significant decrease in in-person visits have a direct impact on the average length of time for cases worked. In part, with volunteer Ombudsmen not visiting
+residents as frequently, the easier casework that often arises from visits are not arising as frequently. Rather, a larger majority of cases coming to LTCO are coming in via phone calls, and are the
+generally more complex cases that take more time to work. In other words, the proportion of complex cases have increased, which has caused an increase in the length of time spent on individual
+cases.
+KPM #4             Percent of NF and ALF/RCF facilities to which a Long-Term Care Certified Ombudsman is assigned. -
+                   Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual      target
+
+  Report Year                                                                     2018                                2019                               2020                                2021                               2022
+Percent of NF and ALF/RCF facilities to which a Long-Term Care Certified Ombudsman is assigned.
+Actual                                                                                                                47%                                 47%                                44%                                 37%
+Target                                                                                                                70%                                 70%                                70%                                 70%
+
+How Are We Doing
+This measure was new for the 2019 reporting year. Previously the LTCO program reported on the percent of total licensed congregate care facilities (nursing facilities, assisted living facilities, and
+residential care facilities) visited at least once annually. However, the LTCO best provides its services to Oregonians through regular visits to single care facilities, which only occurs when a volunteer
+Certified Ombudsman can be assigned to the facility for regular visits.
+
+The 2019 Legislative Assembly increased the LTCO Deputy Ombudsman staffing by three, effective October 2019. This investment in these three positions should allow LTCO to eventually achieve
+the 70% facility coverage target through a total of 10 positions that can provide volunteer supervision and support. However, as the program was increasing its volunteer recruitment and training efforts
+since the hiring of these three new staff, the COVID-19 pandemic has considerably slowed abilities to retain existing volunteers and recruit new volunteers. Recruitment and trainings have continued,
+but at a much slower pace than pre-pandemic, and volunteer retention has been more difficult with volunteers continuing to be concerned about COVID in the long-term care settings in which they are
+needed to serve.
+
+Factors Affecting Results
+Since the start of the COVID-19 pandemic, it has been difficult to train new volunteers faster than the rate of volunteer resignations. Additionally, the turnover has resulted in newer volunteers who do
+not regularly cover the same number of facilities as seasoned volunteers.
+
+Despite those factors, the agency’s decision in 2018 to combine our 1.5 FTE of volunteer recruiters into a single team to serve all agency programs has improved the inquiries and applications the
+LTCO program has received. Additionally, federal funding for the LTCO program to assist LTCO in serving residents impacted by the COVID-19 pandemic is allowing a robust approach to recruiting
+more volunteers going forward.
+KPM #5                               Long-Term Care Certified Ombudsman hours. -
+                                     Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual      target
+
+  Report Year                                                                     2018                               2019                                2020                               2021                                2022
+Long-Term Care Certified Ombudsman hours.
+Actual                                                                           25,828                              25,141                             15,848                              7,816                              12,183
+Target                                                                           28,000                              28,000                             29,000                             29,000                              29,000
+
+How Are We Doing
+This total consists of all the hours LTCO volunteers spend in long-term care facilities, recruiting new volunteers, and serving on the agency advisory committee.
+       Note that the target for this measure increased from 22,000 prior to 2016 to the current target of 28,000.
+       Prior to this year, performance had ranged from a low of 22,984 in 2011 to a high of 29,438 in 2017 when the program approached a high of nearly 200 Certified Ombudsman volunteers.
+       The past 3 reporting years reflect a dramatic decrease in volunteer hours – as expected – due to the ongoing impacts of the COVID-19 pandemic in long-term care settings. Volunteer
+       ombudsmen were cleared to visit starting again in March 2021, but the realities of the ongoing pandemic continue to severely limit volunteer hours as most volunteers, many of whom are 65 and
+       older, are understandably not comfortable visiting settings in which COVID continues to be a presence.
+Factors Affecting Results
+Under normal circumstances, each volunteer is asked to visit their assigned facilities for a total of up to four hours per week. However, with our overall volunteer numbers down to their lowest numbers
+in over a decade, and with the ongoing hesitation to visit facilities within our overall volunteer ombudsmen team, our total number of hours continue to be significantly lower than pre-pandemic.
+Fortunately, as indicated by the year-to-year trend, we are starting to see an increase in volunteer participation again as we continue to come out of the highest restrictions during the pandemic.
+KPM #6            Number of hospitalizations, ER visits, arrests, or psychiatric holds of OPGC clients during the reporting period. -
+                  Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                    actual     target
+
+  Report Year                                                                      2018                               2019                                2020                                2021                                2022
+Number of hospitalizations, ER visits, arrests, or psychiatric holds of OPGC clients during the reporting period.
+Actual                                                                                                                                                     0.96                                1.14                               1.38
+Target                                                                                                                                                       1                                  1                                   1
+
+How Are We Doing
+Overall, the clients on the OPG caseload experienced more negative health and safety incidents than in previous years; however, the value of the current KPM is limited. OPG has plans to address
+this by altering the KPM to compare the data collected for the reporting year with data for the same clients for the one-year period of their lives prior to appointment of OPG as their guardian. However,
+changing the KPM in this way would require significantly more time to gather the pre-appointment data on each client, and would only be achievable by the OPG program with additional staff
+resources able to conduct this in-depth research. As a result, OPG will seek to alter this KPM after the program receives additional staff resources.
+
+Factors Affecting Results
+The total number of clients served by the program, (124 clients served during the reporting period) and the quality of the care and support services overseen by OPG, as well as well as their overall
+health and cognitive condition are the primary factors affecting these results. The COVID-19 pandemic has also directly impacted this KPM, as OPG clients have suffered a greater number of negative
+health outcomes; both due to direct illness from the virus as well as a multitude of secondary consequences caused by the pandemic, including a lack of available placement options and caregivers to
+serve clients.
+KPM #7                Number of referrals diverted away from OPGC by finding less restrictive alternatives. -
+                      Data Collection Period: Jul 01 - Jun 30
+
+* Upward Trend = positive result
+
+                                                                                   actual     target
+
+  Report Year                                                                     2018                               2019                               2020                               2021                                2022
+Number of referrals diverted away from OPGC by finding less restrictive alternatives.
+Actual                                                                                                                                                 64.90%                             66.70%                               42%
+Target                                                                                                                                                   65%                                65%                                65%
+
+How Are We Doing
+OPG conducted 41 full assessments and identified less restrictive alternatives (LRAs) to guardianship in 6 cases. In the other 35 cases, no LRA was identified, and public guardianship was
+determined appropriate. LRAs were also identified in an additional 19 cases that were screened out prior to assessment. Overall, OPG processed a far greater number of assessments this year, 41,
+compared to just 6 in the previous reporting period. OPGC also identified LRAs at screening in more than twice as many cases than during the previous reporting year, with 19 this year compared to
+just 9 in the previous year. Overall, this KPM is of limited value and .65 may not be an appropriate goal. One of the goals of the OPG program is to train parties that make frequent referrals about how
+to identify and pursue LRA’s themselves, which when successful reduces the number of referrals received by OPG where there would be an LRA for us to identify. OPG plans on reworking all KPMs
+after the next expansion. A potentially improved KPM could involve comparing the number of cases where an LRA is identified prior to assessment, with the number of times one is identified during the
+assessment. The goal would be to have more LRAs identified at screening than during assessment, because that would demonstrate efficiency in our screening process. During the current reporting
+year LRAs were identified in 19 screening cases and 6 assessment cases.
+
+Factors Affecting Results
+The primary factor affecting this result was the status of the OPG program. During most of the previous two reporting years, OPG was at full caseload capacity and was therefore unable to take on or
+even assess most new cases referred to the program. During the 2021 legislative session OPG received an expansion, which led to open caseload capacity during the current reporting year, and a
+seven-fold increase in assessments completed compared to the previous year. The 2021 expansion also provided the OPG program with a dedicated screener position, which allowed for greater time
+for pre-assessment screening activities. This likely explains why OPG was able to identify LRA’S in twice as many screening cases this year compared to the previous year. OPG also received
+significantly more overall referrals this year, compared to last year.
+KPM #8   Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness,
+         expertise and availability of information.
+         Data Collection Period: Jul 01 - Jun 30
+
+                                                                        actual    target
+
+ Report Year                                                           2018                           2019                           2020                           2021                           2022
+Accuracy
+Actual                                                                  71%                            75%                            82%                           78%                            75%
+Target                                                                  90%                            90%                            90%                           90%                            90%
+Helpfulness
+Actual                                                                  77%                            79%                            89%                           89%                            84%
+Target                                                                  90%                            90%                            90%                           90%                            90%
+Expertise
+Actual                                                                  78%                            80%                            87%                           89%                            83%
+Target                                                                  90%                            90%                            90%                           90%                            90%
+Overall
+Actual                                                                  71%                            77%                            86%                           85%                            83%
+Target                                                                  90%                            90%                            90%                           90%                            90%
+Timeliness
+Actual                                                                  83%                            87%                            92%                           87%                            82%
+Target                                                                  90%                            90%                            90%                           90%                            90%
+Availability of Information
+Actual                                                                  76%                            71%                            80%                           76%                            77%
+Target                                                                  90%                            90%                            90%                           90%                            90%
+
+How Are We Doing
+This measure tabulates the results of primarily on-line responses to an anonymous survey.
+        Performance over the years for all of the subsections has ranged between 70% to 89%.
+        This year’s measures are 83% for Overall Experience, 82% for Timeliness, 75% for Accuracy, 84% for Helpfulness, 83% for Expertise, and 77% for Availability of Information.
+Factors Affecting Results
+Note this measure has not yet been expanded to include the OPG and RFO (Residential Facilities Ombudsman) programs.
+
+This is a difficult measure for the LTCO program to gain measurable data reflective of our work with the consumer who is our focus, the resident. The biggest challenge is actually getting feedback
+from extremely vulnerable seniors/residents who often do not have the capacity or access for responding to questions and surveys.
+
+Currently LTCO has a survey attached to all electronic communications for individuals to complete. Paper surveys have historically been made available primarily for residents to complete, but with
+very low utilization. Thus, the data reflected in this measure is more a reflection of individuals who completed the survey but who are not the focus of LTCO services, which is, again, the resident of
+care facilities and homes. Non-resident individuals interacting with LTCO often have wishes that can be different or contradictory to those wishes of the resident, resulting in lower satisfaction ratings in
+working with LTCO.
