@@ -49,3 +49,8 @@ _meta/snapshots/
 # /repo/.git even though this same rule excludes them from the working tree -- a cost that
 # excluding _meta/snapshots/ does not touch. Nothing to inherit here; just do not add PDFs
 # to the repo later and assume this file still covers them.
+
+# Mounted at runtime from the host, not copied. The artifact is built out of band on a GPU
+# machine; a git-clone build cannot see it anyway (gitignored), and COPYing it would put
+# hundreds of MB of vectors into an image that reads them from a bind mount.
+_meta/embeddings/
