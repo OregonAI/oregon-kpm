@@ -101,20 +101,29 @@ register_scheme(
 
 # ---------------------------------------------------------------- outbound: sibling corpora
 #
-# MEASURED BEFORE DECLARING, the discipline oregon-audits established. Across the ingested
-# reports:
+# MEASURED BEFORE DECLARING, the discipline oregon-audits established. Re-measured over the
+# full 785-document corpus; the figures below replace the ones taken on the 229-document
+# Stage 2 slice, which understated this edge by roughly a factor of four:
 #
-#     ORS   49 occurrences, 22 documents  (9%)
-#     OAR    9 occurrences,  5 documents  (2%)
-#     CFR    0 occurrences
+#     ORS   202 occurrences,  77 documents,  36 distinct sections   (was 49 / 22)
+#     OAR    39 occurrences,  19 documents,  11 distinct rules      (was  9 /  5)
+#     CFR     0 occurrences
 #
-# This is a THIN edge and saying so matters. oregon-audits registered its federal edge on
-# 448 occurrences with 43.5% resolving; an APPR is numbers and narrative, not legal
-# citation, and the handful of statutes that do appear are usually the agency explaining
-# what it is required to do. Registered anyway because 58 real citations that resolve to
-# nothing is a worse outcome than two cheap patterns -- but nobody should expect this edge
-# to carry weight, and a future reader comparing it to the audits edge should know the
-# difference is in the source, not in the wiring.
+# Resolution against ERF's published index: 26 of 36 ORS targets (72%) and 9 of 11 OAR
+# (82%); by occurrence, 127 of 202 and 37 of 39. The unresolved remainder is ERF coverage
+# -- land use (197.296-197.299, 197A.320), 9-1-1 (403.x), air quality (468A.x) -- not
+# citations this corpus got wrong.
+#
+# It is still a NARROWER edge than the audits one, and saying so matters: oregon-audits
+# registered its federal edge on 448 occurrences, and an APPR is numbers and narrative
+# rather than legal citation. But at 77 documents it is no longer the marginal case the
+# original note described, and it carries more weight than "two cheap patterns" implied.
+#
+# THE SCHEMES ARE ONLY HALF THE WIRING. Until 2026-08-01 `_meta/corpus.yml` declared no
+# `siblings:` block, so every one of these citations matched a scheme and then resolved
+# against nothing, returning `sibling_unavailable`. A registered scheme with no matching
+# sibling entry is worse than no scheme at all -- it reads as a working edge that finds
+# nothing. Change one and check the other.
 #
 # The section number requires >= 3 digits deliberately: PDF extraction splits long numbers
 # across line breaks, and a looser pattern resolves "ORS 238.4" confidently to a section

@@ -9,6 +9,9 @@ citation: APPR OSL 2022
 authority_level: agency_report
 issuing_body: Library of Oregon, State
 agency: Library of Oregon, State
+agency_key: library
+agency_registry_slug: oregon-state-library
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: OSL
 reporting_year: '2022'
 year_source: document

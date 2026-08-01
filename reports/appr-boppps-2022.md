@@ -9,6 +9,9 @@ citation: APPR BOPPPS 2022
 authority_level: agency_report
 issuing_body: Board of Pharmacy
 agency: Board of Pharmacy
+agency_key: pharmacy
+agency_registry_slug: board-of-pharmacy
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: BOPPPS
 reporting_year: '2022'
 year_source: document

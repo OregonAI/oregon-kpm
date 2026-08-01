@@ -9,6 +9,9 @@ citation: APPR PSYCHIATRIC-SECURITY-REV 2019
 authority_level: agency_report
 issuing_body: Psychiatric Security Review Board
 agency: Psychiatric Security Review Board
+agency_key: psychiatric-review-security
+agency_registry_slug: psychiatric-security-review-board
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2019'
 year_source: document

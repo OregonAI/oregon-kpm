@@ -9,6 +9,9 @@ citation: APPR OMD 2020
 authority_level: agency_report
 issuing_body: Military Department
 agency: Military Department
+agency_key: military
+agency_registry_slug: oregon-military-department
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: OMD
 reporting_year: '2020'
 year_source: document

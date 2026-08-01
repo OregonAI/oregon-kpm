@@ -10,6 +10,9 @@ citation: APPR LAND-CONSERVATION-AND-DE 2018
 authority_level: agency_report
 issuing_body: Land Conservation and Development Department
 agency: Land Conservation and Development Department
+agency_key: conservation-development-land
+agency_registry_slug: land-conservation-and-development-department
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2018'
 year_source: document

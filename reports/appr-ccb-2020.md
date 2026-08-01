@@ -9,6 +9,9 @@ citation: APPR CONSTRUCTION-CONTRACTORS 2020
 authority_level: agency_report
 issuing_body: Construction Contractors Board
 agency: Construction Contractors Board
+agency_key: construction-contractors
+agency_registry_slug: construction-contractors-board
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2020'
 year_source: document

@@ -9,6 +9,9 @@ citation: APPR ADMINISTRATIVE-SERVICES- 2021
 authority_level: agency_report
 issuing_body: Administrative Services, Department of
 agency: Administrative Services, Department of
+agency_key: administrative-services
+agency_registry_slug: department-of-administrative-services
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2021'
 year_source: document

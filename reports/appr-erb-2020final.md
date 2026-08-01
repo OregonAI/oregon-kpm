@@ -9,6 +9,9 @@ citation: APPR EMPLOYMENT-RELATIONS-BOA 2020
 authority_level: agency_report
 issuing_body: Employment Relations Board
 agency: Employment Relations Board
+agency_key: employment-relations
+agency_registry_slug: employment-relations-board
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2020'
 year_source: document

@@ -9,6 +9,9 @@ citation: APPR LEGISLATIVE-POLICY-AND-R 2021
 authority_level: agency_report
 issuing_body: Legislative Policy and Research Office
 agency: Legislative Policy and Research Office
+agency_key: legislative-policy-research
+agency_registry_slug: legislative-policy-and-research-committee
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2021'
 year_source: document

@@ -9,6 +9,9 @@ citation: APPR TRANSPORTATION-DEPARTMEN 2016
 authority_level: agency_report
 issuing_body: Transportation, Department of
 agency: Transportation, Department of
+agency_key: transportation
+agency_registry_slug: department-of-transportation
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2016'
 year_source: document

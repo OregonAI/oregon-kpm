@@ -9,6 +9,9 @@ citation: APPR ADVOCACY-COMMISSIONS-OFF 2024
 authority_level: agency_report
 issuing_body: Advocacy Commissions Office
 agency: Advocacy Commissions Office
+agency_key: advocacy-commissions
+agency_registry_slug: oregon-advocacy-commissions-office
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2024'
 year_source: document

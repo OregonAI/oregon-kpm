@@ -10,6 +10,9 @@ citation: APPR DPSST 2018
 authority_level: agency_report
 issuing_body: Public Safety Standards and Training, Department of
 agency: Public Safety Standards and Training, Department of
+agency_key: public-safety-standards-training
+agency_registry_slug: department-of-public-safety-standards-and-training
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: DPSST
 reporting_year: '2018'
 year_source: document

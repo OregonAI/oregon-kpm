@@ -9,6 +9,9 @@ citation: APPR SPEECH-LANGUAGE-PATHOLOG 2020
 authority_level: agency_report
 issuing_body: Speech-Language Pathology and Audiology
 agency: Speech-Language Pathology and Audiology
+agency_key: audiology-language-pathology-speech
+agency_registry_slug: board-of-examiners-for-speech-language-pathology-and-audiology
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2020'
 year_source: document

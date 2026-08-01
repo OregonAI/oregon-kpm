@@ -9,6 +9,9 @@ citation: APPR DISTRICT-ATTORNEYS-AND-T 2021
 authority_level: agency_report
 issuing_body: District Attorneys and Their Deputies
 agency: District Attorneys and Their Deputies
+agency_key: attorneys-deputies-district
+agency_registry_slug: district-attorneys-and-deputies
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2021'
 year_source: document

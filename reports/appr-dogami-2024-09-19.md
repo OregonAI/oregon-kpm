@@ -10,6 +10,9 @@ citation: APPR DOGAMI 2024
 authority_level: agency_report
 issuing_body: Department of Geology and Mineral Industries
 agency: Department of Geology and Mineral Industries
+agency_key: geology-industries-mineral
+agency_registry_slug: department-of-geology-and-mineral-industries
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: DOGAMI
 reporting_year: '2024'
 year_source: document

@@ -10,6 +10,9 @@ citation: APPR BOARD-OF-PAROLE-AND-POST 2024
 authority_level: agency_report
 issuing_body: Board of Parole and Post-Prison Supervision
 agency: Board of Parole and Post-Prison Supervision
+agency_key: parole-post-prison-supervision
+agency_registry_slug: board-of-parole-and-post-prison-supervision
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2024'
 year_source: document

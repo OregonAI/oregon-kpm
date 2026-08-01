@@ -9,6 +9,9 @@ citation: APPR ODAVIATION 2022
 authority_level: agency_report
 issuing_body: Aviation, Department of
 agency: Aviation, Department of
+agency_key: aviation
+agency_registry_slug: oregon-department-of-aviation
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: ODAVIATION
 reporting_year: '2022'
 year_source: document

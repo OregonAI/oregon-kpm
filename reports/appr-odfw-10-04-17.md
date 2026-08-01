@@ -9,6 +9,9 @@ citation: APPR FISH-AND-WILDLIFE-DEPART 2017
 authority_level: agency_report
 issuing_body: Fish and Wildlife, Department of
 agency: Fish and Wildlife, Department of
+agency_key: fish-wildlife
+agency_registry_slug: department-of-fish-and-wildlife
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2017'
 year_source: document

@@ -9,6 +9,9 @@ citation: APPR OBD 2018
 authority_level: agency_report
 issuing_body: Dentistry, Board of
 agency: Dentistry, Board of
+agency_key: dentistry
+agency_registry_slug: oregon-board-of-dentistry
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: OBD
 reporting_year: '2018'
 year_source: document

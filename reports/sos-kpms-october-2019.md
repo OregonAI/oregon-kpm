@@ -9,6 +9,9 @@ citation: APPR SECRETARY-OF-STATE 2019
 authority_level: agency_report
 issuing_body: Secretary of State
 agency: Secretary of State
+agency_key: secretary
+agency_registry_slug: secretary-of-state
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2019'
 year_source: document

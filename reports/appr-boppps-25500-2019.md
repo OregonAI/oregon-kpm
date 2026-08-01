@@ -10,6 +10,9 @@ citation: APPR PAROLE-AND-POST-PRISON-S 2019
 authority_level: agency_report
 issuing_body: Parole and Post-Prison Supervision, Board of
 agency: Parole and Post-Prison Supervision, Board of
+agency_key: parole-post-prison-supervision
+agency_registry_slug: board-of-parole-and-post-prison-supervision
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2019'
 year_source: document

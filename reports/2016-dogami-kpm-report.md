@@ -10,6 +10,9 @@ citation: APPR GEOLOGY-MINERAL-INDUSTRI 2016
 authority_level: agency_report
 issuing_body: Geology & Mineral Industries, Department of
 agency: Geology & Mineral Industries, Department of
+agency_key: geology-industries-mineral
+agency_registry_slug: department-of-geology-and-mineral-industries
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2016'
 year_source: document
@@ -25,7 +28,7 @@ status: current
 content_mode: verbatim
 snapshot_policy: hash-only
 conversion_notes: no text layer in the source PDF; text recovered by OCR. Two independent engines (tesseract
-  (ocrmypdf) + paddleocr PP-OCRv6) agree on 88% of the word sequence and 69% of the 465 figures, 98% dictionary-recognizable;
+  (ocrmypdf) + paddleocr PP-OCRv6) agree on 88% of the word sequence and 69% of the 465 figures, 97% dictionary-recognizable;
   NOT human-verified — treat every number as unchecked against the source
 maintainer: '@morficflux'
 last_verified: ''

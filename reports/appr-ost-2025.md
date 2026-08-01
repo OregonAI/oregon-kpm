@@ -9,6 +9,9 @@ citation: APPR OST 2025
 authority_level: agency_report
 issuing_body: State Treasurer
 agency: State Treasurer
+agency_key: treasurer
+agency_registry_slug: oregon-state-treasury
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: OST
 reporting_year: '2025'
 year_source: document

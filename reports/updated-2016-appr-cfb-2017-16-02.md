@@ -9,6 +9,9 @@ citation: APPR BLIND-COMMISSION 2016
 authority_level: agency_report
 issuing_body: Blind Commission
 agency: Blind Commission
+agency_key: blind
+agency_registry_slug: commission-for-the-blind
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2016'
 year_source: document

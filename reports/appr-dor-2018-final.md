@@ -9,6 +9,9 @@ citation: APPR REVENUE-DEPARTMENT-OF 2018
 authority_level: agency_report
 issuing_body: Revenue, Department of
 agency: Revenue, Department of
+agency_key: revenue
+agency_registry_slug: department-of-revenue
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2018'
 year_source: document

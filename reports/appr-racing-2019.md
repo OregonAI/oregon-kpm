@@ -9,6 +9,9 @@ citation: APPR RACING-COMMISSION-OREGON 2019
 authority_level: agency_report
 issuing_body: Racing Commission, Oregon
 agency: Racing Commission, Oregon
+agency_key: racing
+agency_registry_slug: oregon-racing-commission
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2019'
 year_source: document

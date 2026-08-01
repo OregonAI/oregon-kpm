@@ -10,6 +10,9 @@ citation: APPR DPSST 2024
 authority_level: agency_report
 issuing_body: Department of Public Safety Standards and Training
 agency: Department of Public Safety Standards and Training
+agency_key: public-safety-standards-training
+agency_registry_slug: department-of-public-safety-standards-and-training
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: DPSST
 reporting_year: '2024'
 year_source: document

@@ -10,6 +10,9 @@ citation: APPR DLCD 2024
 authority_level: agency_report
 issuing_body: Department of Land Conservation and Development
 agency: Department of Land Conservation and Development
+agency_key: conservation-development-land
+agency_registry_slug: land-conservation-and-development-department
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: DLCD
 reporting_year: '2024'
 year_source: document

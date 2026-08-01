@@ -9,6 +9,9 @@ citation: APPR WATERSHED-ENHANCEMENT-BO 2019
 authority_level: agency_report
 issuing_body: Watershed Enhancement Board
 agency: Watershed Enhancement Board
+agency_key: enhancement-watershed
+agency_registry_slug: oregon-watershed-enhancement-board
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2019'
 year_source: document

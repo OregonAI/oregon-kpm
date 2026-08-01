@@ -9,6 +9,9 @@ citation: APPR PUC 2020
 authority_level: agency_report
 issuing_body: Public Utility Commission
 agency: Public Utility Commission
+agency_key: public-utility
+agency_registry_slug: public-utility-commission
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: PUC
 reporting_year: '2020'
 year_source: document

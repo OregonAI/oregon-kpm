@@ -10,6 +10,9 @@ citation: APPR BOPPPS 2016
 authority_level: agency_report
 issuing_body: Parole and Post-Prison Supervision, Board of
 agency: Parole and Post-Prison Supervision, Board of
+agency_key: parole-post-prison-supervision
+agency_registry_slug: board-of-parole-and-post-prison-supervision
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: BOPPPS
 reporting_year: '2016'
 year_source: document

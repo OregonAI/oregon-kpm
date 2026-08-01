@@ -9,6 +9,9 @@ citation: APPR NATUROPATHIC-MEDICINE-BO 2018
 authority_level: agency_report
 issuing_body: Naturopathic Medicine, Board of
 agency: Naturopathic Medicine, Board of
+agency_key: medicine-naturopathic
+agency_registry_slug: oregon-board-of-naturopathic-medicine
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2018'
 year_source: document

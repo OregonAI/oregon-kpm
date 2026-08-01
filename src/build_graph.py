@@ -97,7 +97,13 @@ def series_edges(metas: list[dict]) -> list[dict]:
     """
     by_agency: dict[str, dict[int, str]] = {}
     for m in metas:
-        agency, year = m.get("agency"), m.get("reporting_year")
+        # KEYED ON agency_key, NOT the stated name. The cover page reorders itself between
+        # years -- `Board of Accountancy` becomes `Accountancy, Board of` -- and matching on
+        # the string broke the chain at exactly those points, silently, because a missing
+        # edge is indistinguishable from an agency that did not report that year. 152 stated
+        # names across the corpus are 98 agencies.
+        agency = m.get("agency_key") or m.get("agency")
+        year = m.get("reporting_year")
         if not agency or not year:
             continue
         try:

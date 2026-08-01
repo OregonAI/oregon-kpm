@@ -9,6 +9,9 @@ citation: APPR YOUTH-AUTHORITY-OREGON 2021
 authority_level: agency_report
 issuing_body: Youth Authority, Oregon
 agency: Youth Authority, Oregon
+agency_key: authority-youth
+agency_registry_slug: oregon-youth-authority
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2021'
 year_source: document

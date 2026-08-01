@@ -9,6 +9,9 @@ citation: APPR OBMI 2017
 authority_level: agency_report
 issuing_body: Medical Imaging, Board of
 agency: Medical Imaging, Board of
+agency_key: imaging-medical
+agency_registry_slug: board-of-medical-imaging
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: OBMI
 reporting_year: '2017'
 year_source: document

@@ -10,6 +10,9 @@ citation: APPR LCIS 2019
 authority_level: agency_report
 issuing_body: Indian Services, Legislative Commission on
 agency: Indian Services, Legislative Commission on
+agency_key: indian-legislative-on-services
+agency_registry_slug: legislative-commission-on-indian-services
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: LCIS
 reporting_year: '2019'
 year_source: document

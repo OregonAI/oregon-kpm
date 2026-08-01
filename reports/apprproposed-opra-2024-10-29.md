@@ -9,6 +9,9 @@ citation: APPR PUBLIC-RECORDS-ADVOCATE 2024
 authority_level: agency_report
 issuing_body: Public Records Advocate
 agency: Public Records Advocate
+agency_key: advocate-public-records
+agency_registry_slug: public-records-advocate
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2024'
 year_source: document

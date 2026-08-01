@@ -1,7 +1,7 @@
 {
  "corpus": "oregon-kpm",
  "n_nodes": 785,
- "n_edges": 611,
+ "n_edges": 671,
  "n_edges_external": 0,
  "nodes": [
   {
@@ -1716,7 +1716,7 @@
   },
   {
    "id": "appr-ltco-2017-09-18",
-   "title": "Published: 9/18/2017 3:57:41 PM — Annual Performance Progress Report, Reporting Year 2017",
+   "title": "Long Term Care Ombudsman — Annual Performance Progress Report, Reporting Year 2017",
    "doc_type": "performance_report",
    "path": "reports/appr-ltco-2017-09-18.md"
   },
@@ -2682,7 +2682,7 @@
   },
   {
    "id": "appr-odva-2023-9-26",
-   "title": "9/25/23, 5:36 PM — Annual Performance Progress Report, Reporting Year 2023",
+   "title": "Department of Veterans’ Affairs — Annual Performance Progress Report, Reporting Year 2023",
    "doc_type": "performance_report",
    "path": "reports/appr-odva-2023-9-26.md"
   },
@@ -4590,7 +4590,7 @@
   },
   {
    "id": "dlcdappr2016-final",
-   "title": "Agency Management Report — Annual Performance Progress Report, Reporting Year 2016",
+   "title": "Land Conservation and Development Department — Annual Performance Progress Report, Reporting Year 2016",
    "doc_type": "performance_report",
    "path": "reports/dlcdappr2016-final.md"
   },
@@ -4602,7 +4602,7 @@
   },
   {
    "id": "kpm-appr-2019-final",
-   "title": "9/26/2019 KPM - View Report — Annual Performance Progress Report, Reporting Year 2019",
+   "title": "Revenue, Department of — Annual Performance Progress Report, Reporting Year 2019",
    "doc_type": "performance_report",
    "path": "reports/kpm-appr-2019-final.md"
   },
@@ -4747,6 +4747,21 @@
    "to": "appr-deq-2021-10-04"
   },
   {
+   "from": "appr-deq-2023-10-01",
+   "type": "related",
+   "to": "appr-deq-2022-10-03-final"
+  },
+  {
+   "from": "apprproposed-deq-2024-10-16",
+   "type": "related",
+   "to": "appr-deq-2023-10-01"
+  },
+  {
+   "from": "appr-deq-2025-09-30",
+   "type": "related",
+   "to": "apprproposed-deq-2024-10-16"
+  },
+  {
    "from": "appr-dogami-09-26-2017",
    "type": "related",
    "to": "2016-dogami-kpm-report"
@@ -4775,6 +4790,21 @@
    "from": "apprproposed-dogami-2022-10-05",
    "type": "related",
    "to": "appr-dogami-2021-09-28"
+  },
+  {
+   "from": "appr-dogami-2023-9-29",
+   "type": "related",
+   "to": "apprproposed-dogami-2022-10-05"
+  },
+  {
+   "from": "appr-dogami-2024-09-19",
+   "type": "related",
+   "to": "appr-dogami-2023-9-29"
+  },
+  {
+   "from": "appr-dogami-2025-10-10",
+   "type": "related",
+   "to": "appr-dogami-2024-09-19"
   },
   {
    "from": "appr-oya-2017-10-13",
@@ -4807,6 +4837,21 @@
    "to": "2021-oya-appr-final"
   },
   {
+   "from": "appr-oya-2023-10-19",
+   "type": "related",
+   "to": "appr-oya-2022-10-3"
+  },
+  {
+   "from": "appr-oya-2024-10-10",
+   "type": "related",
+   "to": "appr-oya-2023-10-19"
+  },
+  {
+   "from": "appr-oya-2025-09-30",
+   "type": "related",
+   "to": "appr-oya-2024-10-10"
+  },
+  {
    "from": "appr-odva-2017-09-29",
    "type": "related",
    "to": "appr-odva-2016-09-22"
@@ -4825,6 +4870,21 @@
    "from": "appr-odva-2022-09-29-1",
    "type": "related",
    "to": "appr-odva-2021-09-27"
+  },
+  {
+   "from": "appr-odva-2023-9-26",
+   "type": "related",
+   "to": "appr-odva-2022-09-29-1"
+  },
+  {
+   "from": "appr-odva-2024",
+   "type": "related",
+   "to": "appr-odva-2023-9-26"
+  },
+  {
+   "from": "appr-odva-2025-10-21",
+   "type": "related",
+   "to": "appr-odva-2024"
   },
   {
    "from": "appr-omd-2017",
@@ -4850,6 +4910,26 @@
    "from": "appr-omd-2021",
    "type": "related",
    "to": "appr-omd-2020"
+  },
+  {
+   "from": "apprproposed-omd-2022",
+   "type": "related",
+   "to": "appr-omd-2021"
+  },
+  {
+   "from": "appr-omd-2023-10-02",
+   "type": "related",
+   "to": "apprproposed-omd-2022"
+  },
+  {
+   "from": "appr-omd-2024-10-01",
+   "type": "related",
+   "to": "appr-omd-2023-10-02"
+  },
+  {
+   "from": "appr-omd-2025-10-01",
+   "type": "related",
+   "to": "appr-omd-2024-10-01"
   },
   {
    "from": "appr-obdd-2017-09-27",
@@ -5017,6 +5097,21 @@
    "to": "appr-omb-2021-08-16-final"
   },
   {
+   "from": "appr-omb-2023-08-22",
+   "type": "related",
+   "to": "apprproposed-omb-2022-09-26"
+  },
+  {
+   "from": "appr-omb-2024-07-29",
+   "type": "related",
+   "to": "appr-omb-2023-08-22"
+  },
+  {
+   "from": "appr-omb-2025-10-02",
+   "type": "related",
+   "to": "appr-omb-2024-07-29"
+  },
+  {
    "from": "appr-boppps-2017",
    "type": "related",
    "to": "apprproposed-boppps-2016-10-14"
@@ -5040,6 +5135,46 @@
    "from": "appr-2021-boppps",
    "type": "related",
    "to": "appr-boppps-2020"
+  },
+  {
+   "from": "appr-bppps-2025-10-03",
+   "type": "related",
+   "to": "appr-obppps-2024-9-30"
+  },
+  {
+   "from": "appr-oblpct-2017-09-27",
+   "type": "related",
+   "to": "appr-oblpct-2016-09-26"
+  },
+  {
+   "from": "apprproposed-oblpct-2018-09-27",
+   "type": "related",
+   "to": "appr-oblpct-2017-09-27"
+  },
+  {
+   "from": "appr-oblpct-2019-09-26",
+   "type": "related",
+   "to": "apprproposed-oblpct-2018-09-27"
+  },
+  {
+   "from": "appr-oblpct-2020-10-01",
+   "type": "related",
+   "to": "appr-oblpct-2019-09-26"
+  },
+  {
+   "from": "appr-oblpct-2021-09-30",
+   "type": "related",
+   "to": "appr-oblpct-2020-10-01"
+  },
+  {
+   "from": "appr-oblpct-2022-09-14",
+   "type": "related",
+   "to": "appr-oblpct-2021-09-30"
+  },
+  {
+   "from": "appr-blpct-2023-10-02",
+   "type": "related",
+   "to": "appr-oblpct-2022-09-14"
   },
   {
    "from": "appr-blpct-2024-09-26",
@@ -5070,6 +5205,11 @@
    "from": "appr-blsw-2022-10-11",
    "type": "related",
    "to": "appr-blsw-2021-10-11"
+  },
+  {
+   "from": "appr-blsw-2024-01-18",
+   "type": "related",
+   "to": "appr-blsw-2022-10-11"
   },
   {
    "from": "appr-blsw-2024-11-01",
@@ -5112,6 +5252,11 @@
    "to": "appr-boa-2021-09-27"
   },
   {
+   "from": "appr-boa-2023-09-30",
+   "type": "related",
+   "to": "appr-boa-2022-10-21"
+  },
+  {
    "from": "appr-boa-2024-10-15",
    "type": "related",
    "to": "appr-boa-2023-09-30"
@@ -5152,6 +5297,11 @@
    "to": "appr-boli-2021-10-13"
   },
   {
+   "from": "appr-boli-2023-11-06",
+   "type": "related",
+   "to": "apprproposed-boli-2022-10-05"
+  },
+  {
    "from": "apprproposed-boli-2024-10-01",
    "type": "related",
    "to": "appr-boli-2023-11-06"
@@ -5160,6 +5310,21 @@
    "from": "appr-boli-2025-10-01",
    "type": "related",
    "to": "apprproposed-boli-2024-10-01"
+  },
+  {
+   "from": "appr-obpe-2021-09-30",
+   "type": "related",
+   "to": "appr-obop-2020-10-01"
+  },
+  {
+   "from": "appr-obop-2022-09-14",
+   "type": "related",
+   "to": "appr-obpe-2021-09-30"
+  },
+  {
+   "from": "appr-bop-2023-10-02",
+   "type": "related",
+   "to": "appr-obop-2022-09-14"
   },
   {
    "from": "appr-bop-2024-09-26",
@@ -5172,9 +5337,39 @@
    "to": "appr-bop-2024-09-26"
   },
   {
+   "from": "appr-obop-2017-10-02",
+   "type": "related",
+   "to": "appr-obop-2016-10-07"
+  },
+  {
+   "from": "appr-obop-2018-10-09-final",
+   "type": "related",
+   "to": "appr-obop-2017-10-02"
+  },
+  {
+   "from": "appr-obop-2019-09-27",
+   "type": "related",
+   "to": "appr-obop-2018-10-09-final"
+  },
+  {
+   "from": "appr-obop-2020-09-28",
+   "type": "related",
+   "to": "appr-obop-2019-09-27"
+  },
+  {
+   "from": "appr-obop-2021-10-01",
+   "type": "related",
+   "to": "appr-obop-2020-09-28"
+  },
+  {
+   "from": "appr-obop-2022-10-03",
+   "type": "related",
+   "to": "appr-obop-2021-10-01"
+  },
+  {
    "from": "appr-obop-2023-10-02",
    "type": "related",
-   "to": "appr-boppps-2022"
+   "to": "appr-obop-2022-10-03"
   },
   {
    "from": "appr-obop-2024-9-26",
@@ -5187,6 +5382,41 @@
    "to": "appr-obop-2024-9-26"
   },
   {
+   "from": "appr-otb-2017-09-01",
+   "type": "related",
+   "to": "appr-otb-2016-09-28"
+  },
+  {
+   "from": "appr-otb-2018-07-16",
+   "type": "related",
+   "to": "appr-otb-2017-09-01"
+  },
+  {
+   "from": "appr-otb-2019-08-22",
+   "type": "related",
+   "to": "appr-otb-2018-07-16"
+  },
+  {
+   "from": "appr-otb-2020-09-17",
+   "type": "related",
+   "to": "appr-otb-2019-08-22"
+  },
+  {
+   "from": "appr-obtp-2021",
+   "type": "related",
+   "to": "appr-otb-2020-09-17"
+  },
+  {
+   "from": "appr-obtp-2022",
+   "type": "related",
+   "to": "appr-obtp-2021"
+  },
+  {
+   "from": "appr-botp-2023-10-02",
+   "type": "related",
+   "to": "appr-obtp-2022"
+  },
+  {
    "from": "appr-obtp-2024-09-09",
    "type": "related",
    "to": "appr-botp-2023-10-02"
@@ -5195,11 +5425,6 @@
    "from": "appr-btp-2025-09-17",
    "type": "related",
    "to": "appr-obtp-2024-09-09"
-  },
-  {
-   "from": "appr-bppps-2025-10-03",
-   "type": "related",
-   "to": "appr-obppps-2024-9-30"
   },
   {
    "from": "appr-bspa-2017-10-02",
@@ -5225,6 +5450,16 @@
    "from": "appr-bspa-2021-09-30",
    "type": "related",
    "to": "appr-bslpa-9-30-20"
+  },
+  {
+   "from": "appr-bspa-2022-10-07",
+   "type": "related",
+   "to": "appr-bspa-2021-09-30"
+  },
+  {
+   "from": "appr-bspa-2023-10-02",
+   "type": "related",
+   "to": "appr-bspa-2022-10-07"
   },
   {
    "from": "apprproposed-bspa-2024-10-17",
@@ -5422,6 +5657,11 @@
    "to": "appr-das-2021"
   },
   {
+   "from": "appr-das-2023-09-29",
+   "type": "related",
+   "to": "apprproposed-das-2022-09-28"
+  },
+  {
    "from": "apprproposed-das-2024",
    "type": "related",
    "to": "appr-das-2023-09-29"
@@ -5487,6 +5727,11 @@
    "to": "appr-dcbs-2020"
   },
   {
+   "from": "dcbs-fy-2022-appr",
+   "type": "related",
+   "to": "appr-dcbs-2021"
+  },
+  {
    "from": "appr-dcbs-2023",
    "type": "related",
    "to": "dcbs-fy-2022-appr"
@@ -5510,16 +5755,6 @@
    "from": "appr-delc-2025-10-01",
    "type": "related",
    "to": "appr-delc-2024-09-30"
-  },
-  {
-   "from": "apprproposed-deq-2024-10-16",
-   "type": "related",
-   "to": "appr-deq-2023-10-01"
-  },
-  {
-   "from": "appr-deq-2025-09-30",
-   "type": "related",
-   "to": "apprproposed-deq-2024-10-16"
   },
   {
    "from": "appr-dhs-2017-09-29",
@@ -5547,6 +5782,11 @@
    "to": "appr-dhs-2020-09-30"
   },
   {
+   "from": "appr-dhs-2022",
+   "type": "related",
+   "to": "appr-dhs-2021"
+  },
+  {
    "from": "appr-dhs-2023-10-02",
    "type": "related",
    "to": "appr-dhs-2022"
@@ -5560,6 +5800,11 @@
    "from": "appr-dhs-2025-10-03",
    "type": "related",
    "to": "apprproposed-dhs-2024-10-11"
+  },
+  {
+   "from": "appr-dlcd-2017-09-13",
+   "type": "related",
+   "to": "dlcdappr2016-final"
   },
   {
    "from": "appr-dlcd-2018-12-18final",
@@ -5580,6 +5825,11 @@
    "from": "appr-dlcd-2021-09-29",
    "type": "related",
    "to": "appr-dlcd-2020-10-06"
+  },
+  {
+   "from": "appr-dlcd-2022",
+   "type": "related",
+   "to": "appr-dlcd-2021-09-29"
   },
   {
    "from": "appr-dlcd-2023-09-28",
@@ -5627,6 +5877,11 @@
    "to": "appr-doc-2021-09-17"
   },
   {
+   "from": "appr-doc-2023-10-02",
+   "type": "related",
+   "to": "apprproposed-doc-2022-09-30"
+  },
+  {
    "from": "appr-doc-2024-09-30",
    "type": "related",
    "to": "appr-doc-2023-10-02"
@@ -5657,14 +5912,24 @@
    "to": "appr-doe-2020-09-30"
   },
   {
-   "from": "appr-dogami-2024-09-19",
+   "from": "appr-doe-2022-09-29",
    "type": "related",
-   "to": "appr-dogami-2023-9-29"
+   "to": "appr-doe-2021-09-30"
   },
   {
-   "from": "appr-dogami-2025-10-10",
+   "from": "appr-odoe-2023-09-28",
    "type": "related",
-   "to": "appr-dogami-2024-09-19"
+   "to": "appr-doe-2022-09-29"
+  },
+  {
+   "from": "appr-odoe-2024-09-26",
+   "type": "related",
+   "to": "appr-odoe-2023-09-28"
+  },
+  {
+   "from": "appr-odoe-2025-09-29",
+   "type": "related",
+   "to": "appr-odoe-2024-09-26"
   },
   {
    "from": "appr-doj-2017-09-29",
@@ -5697,6 +5962,11 @@
    "to": "appr-justice-2021"
   },
   {
+   "from": "appr-doj-2023-09-29",
+   "type": "related",
+   "to": "apprproposed-doj-2022-09-23-final"
+  },
+  {
    "from": "appr-doj-2024-10-29",
    "type": "related",
    "to": "appr-doj-2023-09-29"
@@ -5717,6 +5987,16 @@
    "to": "appr-dor-2017-09-29"
   },
   {
+   "from": "kpm-appr-2019-final",
+   "type": "related",
+   "to": "appr-dor-2018-final"
+  },
+  {
+   "from": "appr-dor-2020-09-30",
+   "type": "related",
+   "to": "kpm-appr-2019-final"
+  },
+  {
    "from": "appr-dor-2021-09-24",
    "type": "related",
    "to": "appr-dor-2020-09-30"
@@ -5725,6 +6005,11 @@
    "from": "appr-dor-2022-09-20",
    "type": "related",
    "to": "appr-dor-2021-09-24"
+  },
+  {
+   "from": "appr-dor-2023-10-02",
+   "type": "related",
+   "to": "appr-dor-2022-09-20"
   },
   {
    "from": "appr-dor-2024-09-30",
@@ -5755,6 +6040,11 @@
    "from": "apprproposed-dpsst-2022-09-30",
    "type": "related",
    "to": "appr-dpsst-2021-10-01"
+  },
+  {
+   "from": "appr-dpsst-2023-09-27",
+   "type": "related",
+   "to": "apprproposed-dpsst-2022-09-30"
   },
   {
    "from": "appr-dpsst-2024-10-01",
@@ -5800,6 +6090,16 @@
    "from": "appr-dsl-2021-09-30",
    "type": "related",
    "to": "appr-dsl-2020-10-19"
+  },
+  {
+   "from": "apprproposed-dsl-2022-09-27",
+   "type": "related",
+   "to": "appr-dsl-2021-09-30"
+  },
+  {
+   "from": "appr-dsl-2023-09-25",
+   "type": "related",
+   "to": "apprproposed-dsl-2022-09-27"
   },
   {
    "from": "apprproposed-dsl-2024-10-09",
@@ -5895,6 +6195,41 @@
    "from": "appr-governor-2022-10-12",
    "type": "related",
    "to": "appr-governor-2021-09-29"
+  },
+  {
+   "from": "appr-ohcs-2017-10-02",
+   "type": "related",
+   "to": "apprproposed-ohcs-2016-10-19"
+  },
+  {
+   "from": "appr-ohcs-2018-10-01",
+   "type": "related",
+   "to": "appr-ohcs-2017-10-02"
+  },
+  {
+   "from": "appr-ohcs-2019-10-01",
+   "type": "related",
+   "to": "appr-ohcs-2018-10-01"
+  },
+  {
+   "from": "appr-ohcs-2020-10-01",
+   "type": "related",
+   "to": "appr-ohcs-2019-10-01"
+  },
+  {
+   "from": "appr-ohcs-2021-10-01",
+   "type": "related",
+   "to": "appr-ohcs-2020-10-01"
+  },
+  {
+   "from": "appr-ohcs-2022-10-03",
+   "type": "related",
+   "to": "appr-ohcs-2021-10-01"
+  },
+  {
+   "from": "appr-hcsd-2023-10-02",
+   "type": "related",
+   "to": "appr-ohcs-2022-10-03"
   },
   {
    "from": "apprproposed-hcsd-2024-10-17",
@@ -6182,6 +6517,16 @@
    "to": "appr-lro-2024-10-28"
   },
   {
+   "from": "appr-ltco-2017-09-18",
+   "type": "related",
+   "to": "appr-ltco-2016-09-27"
+  },
+  {
+   "from": "apprproposed-ltco-2018-10-01",
+   "type": "related",
+   "to": "appr-ltco-2017-09-18"
+  },
+  {
    "from": "appr-ltco-final",
    "type": "related",
    "to": "apprproposed-ltco-2018-10-01"
@@ -6190,6 +6535,11 @@
    "from": "appr-oltco-2022-10-03",
    "type": "related",
    "to": "appr-ltco-2021-10-01"
+  },
+  {
+   "from": "appr-oltco-2023-10-02",
+   "type": "related",
+   "to": "appr-oltco-2022-10-03"
   },
   {
    "from": "apprproposed-ltco-2024-09-30",
@@ -6322,6 +6672,11 @@
    "to": "appr-obce-2021-10-02"
   },
   {
+   "from": "appr-obce-2023-10-02",
+   "type": "related",
+   "to": "appr-obce-2022-10-05"
+  },
+  {
    "from": "appr-obce-2024-09-24",
    "type": "related",
    "to": "appr-obce-2023-10-02"
@@ -6362,6 +6717,11 @@
    "to": "appr-obd-2021"
   },
   {
+   "from": "appr-obd-2023-09-29",
+   "type": "related",
+   "to": "obd-fy-2022-appr"
+  },
+  {
    "from": "appr-obd-2024-09-11",
    "type": "related",
    "to": "appr-obd-2023-09-29"
@@ -6380,36 +6740,6 @@
    "from": "appr-obdd-2025-10-01",
    "type": "related",
    "to": "appr-obdd-2024-10-02"
-  },
-  {
-   "from": "appr-oblpct-2017-09-27",
-   "type": "related",
-   "to": "appr-oblpct-2016-09-26"
-  },
-  {
-   "from": "apprproposed-oblpct-2018-09-27",
-   "type": "related",
-   "to": "appr-oblpct-2017-09-27"
-  },
-  {
-   "from": "appr-oblpct-2019-09-26",
-   "type": "related",
-   "to": "apprproposed-oblpct-2018-09-27"
-  },
-  {
-   "from": "appr-oblpct-2020-10-01",
-   "type": "related",
-   "to": "appr-oblpct-2019-09-26"
-  },
-  {
-   "from": "appr-oblpct-2021-09-30",
-   "type": "related",
-   "to": "appr-oblpct-2020-10-01"
-  },
-  {
-   "from": "appr-oblpct-2022-09-14",
-   "type": "related",
-   "to": "appr-oblpct-2021-09-30"
   },
   {
    "from": "appr-obmi-2017",
@@ -6442,6 +6772,11 @@
    "to": "appr-obmi-2021-09-02"
   },
   {
+   "from": "appr-obmi-2023-07-06",
+   "type": "related",
+   "to": "apprproposed-obmi-2022-09-27"
+  },
+  {
    "from": "appr-obmi-2024-07-03",
    "type": "related",
    "to": "appr-obmi-2023-07-06"
@@ -6462,6 +6797,11 @@
    "to": "appr-obnm-2019-10-03"
   },
   {
+   "from": "appr-obnm-2023-10-11",
+   "type": "related",
+   "to": "appr-obnm-2022-10-10"
+  },
+  {
    "from": "appr-obnm-2024-10-10",
    "type": "related",
    "to": "appr-obnm-2023-10-11"
@@ -6472,79 +6812,9 @@
    "to": "appr-obnm-2024-10-10"
   },
   {
-   "from": "appr-obop-2017-10-02",
-   "type": "related",
-   "to": "appr-obop-2016-10-07"
-  },
-  {
-   "from": "appr-obop-2018-10-09-final",
-   "type": "related",
-   "to": "appr-obop-2017-10-02"
-  },
-  {
-   "from": "appr-obop-2019-09-27",
-   "type": "related",
-   "to": "appr-obop-2018-10-09-final"
-  },
-  {
-   "from": "appr-obop-2020-09-28",
-   "type": "related",
-   "to": "appr-obop-2019-09-27"
-  },
-  {
-   "from": "appr-obop-2021-10-01",
-   "type": "related",
-   "to": "appr-obop-2020-09-28"
-  },
-  {
-   "from": "appr-obop-2022-10-03",
-   "type": "related",
-   "to": "appr-obop-2021-10-01"
-  },
-  {
-   "from": "appr-obpe-2021-09-30",
-   "type": "related",
-   "to": "appr-obop-2020-10-01"
-  },
-  {
-   "from": "appr-obop-2022-09-14",
-   "type": "related",
-   "to": "appr-obpe-2021-09-30"
-  },
-  {
    "from": "appr-obpe-2017-09-27",
    "type": "related",
    "to": "appr-obpe-2016-09-26"
-  },
-  {
-   "from": "appr-otb-2017-09-01",
-   "type": "related",
-   "to": "appr-otb-2016-09-28"
-  },
-  {
-   "from": "appr-otb-2018-07-16",
-   "type": "related",
-   "to": "appr-otb-2017-09-01"
-  },
-  {
-   "from": "appr-otb-2019-08-22",
-   "type": "related",
-   "to": "appr-otb-2018-07-16"
-  },
-  {
-   "from": "appr-otb-2020-09-17",
-   "type": "related",
-   "to": "appr-otb-2019-08-22"
-  },
-  {
-   "from": "appr-obtp-2021",
-   "type": "related",
-   "to": "appr-otb-2020-09-17"
-  },
-  {
-   "from": "appr-obtp-2022",
-   "type": "related",
-   "to": "appr-obtp-2021"
   },
   {
    "from": "appr-ocb-2024-09-30",
@@ -6677,6 +6947,21 @@
    "to": "appr-oda-2021-10-01"
   },
   {
+   "from": "appr-odav-2023-09-29",
+   "type": "related",
+   "to": "appr-odaviation-2022-10-07"
+  },
+  {
+   "from": "apprproposed-odav-2024-10-09",
+   "type": "related",
+   "to": "appr-odav-2023-09-29"
+  },
+  {
+   "from": "appr-odav-2025-10-01",
+   "type": "related",
+   "to": "apprproposed-odav-2024-10-09"
+  },
+  {
    "from": "odag-kpm-reprot",
    "type": "related",
    "to": "appr-oda-2018"
@@ -6692,6 +6977,11 @@
    "to": "appr-oda-2021-09-29"
   },
   {
+   "from": "appr-oda-2023-10-02",
+   "type": "related",
+   "to": "appr-oda-2022-08-22"
+  },
+  {
    "from": "appr-oda-2024-09-30",
    "type": "related",
    "to": "appr-oda-2023-10-02"
@@ -6700,16 +6990,6 @@
    "from": "appr-oda-2025",
    "type": "related",
    "to": "appr-oda-2024-09-30"
-  },
-  {
-   "from": "apprproposed-odav-2024-10-09",
-   "type": "related",
-   "to": "appr-odav-2023-09-29"
-  },
-  {
-   "from": "appr-odav-2025-10-01",
-   "type": "related",
-   "to": "apprproposed-odav-2024-10-09"
   },
   {
    "from": "appr-ode-2017-10-20",
@@ -6740,6 +7020,11 @@
    "from": "appr-ode-2022-09-30",
    "type": "related",
    "to": "appr-ode-2021-09-29"
+  },
+  {
+   "from": "appr-ode-2023-09-25",
+   "type": "related",
+   "to": "appr-ode-2022-09-30"
   },
   {
    "from": "apprproposed-ode-2024-10-15",
@@ -6792,6 +7077,11 @@
    "to": "appr-odf-2021-07-14"
   },
   {
+   "from": "appr-odf-2023-08-15",
+   "type": "related",
+   "to": "appr-odf-2022-07-28"
+  },
+  {
    "from": "appr-odf-2024-08-02",
    "type": "related",
    "to": "appr-odf-2023-08-15"
@@ -6822,6 +7112,11 @@
    "to": "appr-odfw-2019-09-30"
   },
   {
+   "from": "appr-odfw-2023-10-02",
+   "type": "related",
+   "to": "appr-odfw-2022-09-26"
+  },
+  {
    "from": "appr-odfw-2024-09-30",
    "type": "related",
    "to": "appr-odfw-2023-10-02"
@@ -6830,16 +7125,6 @@
    "from": "appr-odfw-2025-10-01",
    "type": "related",
    "to": "appr-odfw-2024-09-30"
-  },
-  {
-   "from": "appr-odoe-2024-09-26",
-   "type": "related",
-   "to": "appr-odoe-2023-09-28"
-  },
-  {
-   "from": "appr-odoe-2025-09-29",
-   "type": "related",
-   "to": "appr-odoe-2024-09-26"
   },
   {
    "from": "appr-odot-2017-09-26",
@@ -6872,6 +7157,11 @@
    "to": "appr-odot-2021-09-23"
   },
   {
+   "from": "appr-odot-2023-09-25",
+   "type": "related",
+   "to": "apprproposed-odot-2022-09-21"
+  },
+  {
    "from": "appr-odot-2024-10-23",
    "type": "related",
    "to": "appr-odot-2023-09-25"
@@ -6880,11 +7170,6 @@
    "from": "appr-odot-2025-09-25",
    "type": "related",
    "to": "appr-odot-2024-10-23"
-  },
-  {
-   "from": "appr-odva-2025-10-21",
-   "type": "related",
-   "to": "appr-odva-2024"
   },
   {
    "from": "appr-oed-2017-09-28",
@@ -7012,31 +7297,6 @@
    "to": "apprproposed-oha-2024-10-30"
   },
   {
-   "from": "appr-ohcs-2017-10-02",
-   "type": "related",
-   "to": "apprproposed-ohcs-2016-10-19"
-  },
-  {
-   "from": "appr-ohcs-2018-10-01",
-   "type": "related",
-   "to": "appr-ohcs-2017-10-02"
-  },
-  {
-   "from": "appr-ohcs-2019-10-01",
-   "type": "related",
-   "to": "appr-ohcs-2018-10-01"
-  },
-  {
-   "from": "appr-ohcs-2020-10-01",
-   "type": "related",
-   "to": "appr-ohcs-2019-10-01"
-  },
-  {
-   "from": "appr-ohcs-2021-10-01",
-   "type": "related",
-   "to": "appr-ohcs-2020-10-01"
-  },
-  {
    "from": "apprproposed-ojd-2019-02-14",
    "type": "related",
    "to": "appr-ojd-2017-10-10"
@@ -7055,6 +7315,16 @@
    "from": "appr-ojd-2021-10-01",
    "type": "related",
    "to": "appr-ojd-2020-09-23"
+  },
+  {
+   "from": "apprproposed-ojd-2022-09-27",
+   "type": "related",
+   "to": "appr-ojd-2021-10-01"
+  },
+  {
+   "from": "appr-ojd-2023-09-26",
+   "type": "related",
+   "to": "apprproposed-ojd-2022-09-27"
   },
   {
    "from": "appr-ojd-2024-09-26",
@@ -7092,6 +7362,11 @@
    "to": "appr-olcc-2020-10-02"
   },
   {
+   "from": "appr-olcc-2023-10-02",
+   "type": "related",
+   "to": "appr-olcc-2022-09-30"
+  },
+  {
    "from": "appr-olcc-2024-09-30",
    "type": "related",
    "to": "appr-olcc-2023-10-02"
@@ -7100,31 +7375,6 @@
    "from": "appr-olcc-2025-10-03",
    "type": "related",
    "to": "appr-olcc-2024-09-30"
-  },
-  {
-   "from": "appr-omb-2024-07-29",
-   "type": "related",
-   "to": "appr-omb-2023-08-22"
-  },
-  {
-   "from": "appr-omb-2025-10-02",
-   "type": "related",
-   "to": "appr-omb-2024-07-29"
-  },
-  {
-   "from": "appr-omd-2023-10-02",
-   "type": "related",
-   "to": "apprproposed-omd-2022"
-  },
-  {
-   "from": "appr-omd-2024-10-01",
-   "type": "related",
-   "to": "appr-omd-2023-10-02"
-  },
-  {
-   "from": "appr-omd-2025-10-01",
-   "type": "related",
-   "to": "appr-omd-2024-10-01"
   },
   {
    "from": "appr-opra-2025-09-29",
@@ -7157,6 +7407,16 @@
    "to": "appr-oprd-2020-09-14"
   },
   {
+   "from": "appr-oprd-2022-08-15",
+   "type": "related",
+   "to": "appr-oprd-2021-08-26"
+  },
+  {
+   "from": "appr-oprd-2023-10-17",
+   "type": "related",
+   "to": "appr-oprd-2022-08-15"
+  },
+  {
    "from": "appr-oprd-2024-09-26",
    "type": "related",
    "to": "appr-oprd-2023-10-17"
@@ -7165,6 +7425,41 @@
    "from": "appr-oprd-2025-09-29",
    "type": "related",
    "to": "appr-oprd-2024-09-26"
+  },
+  {
+   "from": "appr-racing-2017-10-20",
+   "type": "related",
+   "to": "appr-racing-2016-10-28"
+  },
+  {
+   "from": "appr-racing-2018-09-27",
+   "type": "related",
+   "to": "appr-racing-2017-10-20"
+  },
+  {
+   "from": "appr-racing-2019",
+   "type": "related",
+   "to": "appr-racing-2018-09-27"
+  },
+  {
+   "from": "appr-racing-2020-09-30",
+   "type": "related",
+   "to": "appr-racing-2019"
+  },
+  {
+   "from": "appr-racing-2021-09-29",
+   "type": "related",
+   "to": "appr-racing-2020-09-30"
+  },
+  {
+   "from": "appr-racing-2022",
+   "type": "related",
+   "to": "appr-racing-2021-09-29"
+  },
+  {
+   "from": "appr-orc-2023-09-26",
+   "type": "related",
+   "to": "appr-racing-2022"
   },
   {
    "from": "apprproposed-orc-2024-10-17",
@@ -7207,6 +7502,11 @@
    "to": "appr-osbn-2021-09-30"
   },
   {
+   "from": "appr-osbn-2023-09-29",
+   "type": "related",
+   "to": "appr-osbn-2022-08-03"
+  },
+  {
    "from": "appr-osbn-2024-07-31",
    "type": "related",
    "to": "appr-osbn-2023-09-29"
@@ -7242,6 +7542,16 @@
    "to": "appr-osl-2020"
   },
   {
+   "from": "apprproposed-osl-2022-09-28",
+   "type": "related",
+   "to": "appr-osl-2021-09-28"
+  },
+  {
+   "from": "appr-osl-2023-09-22",
+   "type": "related",
+   "to": "apprproposed-osl-2022-09-28"
+  },
+  {
    "from": "appr-osl-2024-09-13",
    "type": "related",
    "to": "appr-osl-2023-09-22"
@@ -7275,6 +7585,16 @@
    "from": "appr-osmb-2021-10-07",
    "type": "related",
    "to": "appr-osmb-2020-10-01"
+  },
+  {
+   "from": "appr-osmb-2022-09-22",
+   "type": "related",
+   "to": "appr-osmb-2021-10-07"
+  },
+  {
+   "from": "appr-osmb-2023-09-28",
+   "type": "related",
+   "to": "appr-osmb-2022-09-22"
   },
   {
    "from": "appr-osmb-2024-09-24",
@@ -7315,6 +7635,11 @@
    "from": "apprproposed-osp-2022-09-29",
    "type": "related",
    "to": "appr-osp-2021-09-24"
+  },
+  {
+   "from": "appr-osp-2023-09-26",
+   "type": "related",
+   "to": "apprproposed-osp-2022-09-29"
   },
   {
    "from": "appr-osp-2024",
@@ -7472,6 +7797,16 @@
    "to": "appr-oweb-2020"
   },
   {
+   "from": "appr-oweb-2022-08-30",
+   "type": "related",
+   "to": "appr-oweb-2021-09-20"
+  },
+  {
+   "from": "appr-oweb-2023-09-20",
+   "type": "related",
+   "to": "appr-oweb-2022-08-30"
+  },
+  {
    "from": "appr-oweb-2024-09-25",
    "type": "related",
    "to": "appr-oweb-2023-09-20"
@@ -7480,16 +7815,6 @@
    "from": "appr-oweb-2025-09-02",
    "type": "related",
    "to": "appr-oweb-2024-09-25"
-  },
-  {
-   "from": "appr-oya-2024-10-10",
-   "type": "related",
-   "to": "appr-oya-2023-10-19"
-  },
-  {
-   "from": "appr-oya-2025-09-30",
-   "type": "related",
-   "to": "appr-oya-2024-10-10"
   },
   {
    "from": "appr-pdsc-2019-10-01",
@@ -7552,6 +7877,11 @@
    "to": "appr-pers-2021-09-23"
   },
   {
+   "from": "appr-pers-2023-09-27",
+   "type": "related",
+   "to": "appr-pers-2022-09-22"
+  },
+  {
    "from": "appr-pers-2024-09-27",
    "type": "related",
    "to": "appr-pers-2023-09-27"
@@ -7605,36 +7935,6 @@
    "from": "appr-puc-2025-10-01",
    "type": "related",
    "to": "appr-puc-2024-09-23"
-  },
-  {
-   "from": "appr-racing-2017-10-20",
-   "type": "related",
-   "to": "appr-racing-2016-10-28"
-  },
-  {
-   "from": "appr-racing-2018-09-27",
-   "type": "related",
-   "to": "appr-racing-2017-10-20"
-  },
-  {
-   "from": "appr-racing-2019",
-   "type": "related",
-   "to": "appr-racing-2018-09-27"
-  },
-  {
-   "from": "appr-racing-2020-09-30",
-   "type": "related",
-   "to": "appr-racing-2019"
-  },
-  {
-   "from": "appr-racing-2021-09-29",
-   "type": "related",
-   "to": "appr-racing-2020-09-30"
-  },
-  {
-   "from": "appr-racing-2022",
-   "type": "related",
-   "to": "appr-racing-2021-09-29"
   },
   {
    "from": "appr-rea-2017-09-29",

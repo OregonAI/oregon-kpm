@@ -9,6 +9,9 @@ citation: APPR LEGISLATIVE-ADMINISTRATI 2019
 authority_level: agency_report
 issuing_body: Legislative Administration
 agency: Legislative Administration
+agency_key: administration-legislative
+agency_registry_slug: legislative-administration-committee
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2019'
 year_source: document

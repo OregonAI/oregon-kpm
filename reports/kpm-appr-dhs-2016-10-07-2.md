@@ -9,6 +9,9 @@ citation: APPR HUMAN-SERVICES-DEPARTMEN 2016
 authority_level: agency_report
 issuing_body: Human Services, Department of
 agency: Human Services, Department of
+agency_key: human-services
+agency_registry_slug: department-of-human-services
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2016'
 year_source: document

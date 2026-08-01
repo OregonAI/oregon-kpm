@@ -137,6 +137,39 @@ def check_ocr_is_declared(docs) -> list[str]:
     return bad
 
 
+def check_registry_link_agrees(docs) -> list[str]:
+    """A document's ERF slug must be the one the crosswalk records for its agency_key.
+
+    Frontmatter is written by the ingester and the crosswalk is curated by hand, so the two
+    can drift the moment either is edited alone -- and the failure is silent: a document
+    keeps pointing at an agency the crosswalk has since remapped, and nothing reads wrong
+    until someone follows the link. This is the same shape as check_series_is_current, which
+    exists because a stale derived file answers with numbers that no longer match the
+    documents citing them.
+
+    Absence is not checked here. An unmapped agency deliberately carries no slug, and
+    src/link_agency_registry.py --check is what enforces that every agency_key is either
+    mapped or recorded as absent with a reason.
+    """
+    path = ROOT / "_meta" / "agency-crosswalk.yml"
+    if not path.is_file():
+        return []
+    mapping = (yaml.safe_load(path.read_text(encoding="utf-8")) or {}).get("mapping") or {}
+    bad = []
+    for p, fm in docs:
+        slug = fm.get("agency_registry_slug")
+        if not slug:
+            continue
+        want = (mapping.get(fm.get("agency_key") or "") or {}).get("slug")
+        if slug != want:
+            bad.append(f"{p.name}: agency_registry_slug={slug!r} but the crosswalk maps "
+                       f"agency_key={fm.get('agency_key')!r} to {want!r}")
+        if fm.get("agency_registry_corpus") != "executive-regulatory-frameworks":
+            bad.append(f"{p.name}: agency_registry_slug without a corpus naming where the "
+                       f"slug is defined")
+    return bad
+
+
 def check_series_is_current(docs) -> list[str]:
     """Every document with rows in the series must still exist, and vice versa.
 
@@ -160,6 +193,7 @@ CHECKS = [
     ("body carries the agency-claim caveat", check_agency_claim_disclaimer),
     ("no invented green/yellow/red assessment", check_no_invented_assessment),
     ("OCR'd text declares itself", check_ocr_is_declared),
+    ("agency registry link matches the crosswalk", check_registry_link_agrees),
     ("series matches the documents", check_series_is_current),
 ]
 

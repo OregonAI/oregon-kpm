@@ -10,6 +10,9 @@ citation: APPR DCBS 2025
 authority_level: agency_report
 issuing_body: Department of Consumer and Business Services
 agency: Department of Consumer and Business Services
+agency_key: business-consumer-services
+agency_registry_slug: department-of-consumer-and-business-services
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: DCBS
 reporting_year: '2025'
 year_source: document

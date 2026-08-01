@@ -1,0 +1,347 @@
+note: 'Crosswalk from this corpus''s derived agency_key to the executive-regulatory-frameworks agency
+  registry slug. agency_key collapses the many ways a cover page names one agency; this maps that
+  identity onto the registry that owns it. Generated and validated by src/link_agency_registry.py
+  -- --check runs in CI from committed data alone, --verify-registry resolves every slug against ERF.
+  An entry under `unmapped` is a DECISION with a stated reason, never a blank: "we looked and there
+  is no counterpart" and "nobody has looked yet" must not be the same state. Many keys mapping to
+  one slug is expected and correct -- an agency that renamed itself appears under both names across
+  thirteen reporting years.'
+registry_corpus: executive-regulatory-frameworks
+registry_source: https://github.com/OregonAI/executive-regulatory-frameworks/blob/main/_meta/catalog/agencies.yml
+retrieved: '2026-08-01'
+mapping:
+  accountancy:
+    slug: oregon-board-of-accountancy
+    basis: exact
+  administration-legislative:
+    slug: legislative-administration-committee
+    basis: alias
+    note: ERF carries the committee; the reports name the administrative office it directs.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
+  administrative-services:
+    slug: department-of-administrative-services
+    basis: exact
+  advocacy-commissions:
+    slug: oregon-advocacy-commissions-office
+    basis: exact
+  advocate-public-records:
+    slug: public-records-advocate
+    basis: exact
+  affairs-veterans:
+    slug: department-of-veterans-affairs
+    basis: exact
+  agency-estate-real:
+    slug: real-estate-agency
+    basis: exact
+  agriculture:
+    slug: department-of-agriculture
+    basis: exact
+  appeals-land-use:
+    slug: land-use-board-of-appeals
+    basis: exact
+  attorneys-deputies-district:
+    slug: district-attorneys-and-deputies
+    basis: exact
+  attorneys-district:
+    slug: district-attorneys-and-deputies
+    basis: alias
+    note: The registry entry covers district attorneys and their deputies together; the reports file
+      under both spellings in different years.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
+  audiology-language-pathology-speech:
+    slug: board-of-examiners-for-speech-language-pathology-and-audiology
+    basis: alias
+    note: The registry name carries "Examiners for", which the reports drop.
+  authority-health:
+    slug: oregon-health-authority
+    basis: exact
+  authority-youth:
+    slug: oregon-youth-authority
+    basis: exact
+  aviation:
+    slug: oregon-department-of-aviation
+    basis: exact
+  blind:
+    slug: commission-for-the-blind
+    basis: alias
+    note: The reports name it "Blind Commission"; the registry uses the statutory "Commission for
+      the Blind". Same body, no rename involved.
+  blind-for:
+    slug: commission-for-the-blind
+    basis: exact
+  business:
+    slug: oregon-business-development-department
+    basis: alias
+    note: '"Business Oregon" is the trade name the Oregon Business Development Department reports
+      under; the registry carries the statutory name.'
+  business-consumer-services:
+    slug: department-of-consumer-and-business-services
+    basis: exact
+  business-development:
+    slug: oregon-business-development-department
+    basis: exact
+  cannabis-liquor:
+    slug: oregon-liquor-control-commission
+    basis: exact
+  care-early-learning:
+    slug: oregon-department-of-education-early-learning-division
+    basis: exact
+  care-long-ombudsman-term:
+    slug: long-term-care-ombudsman
+    basis: exact
+  cemetery-mortuary:
+    slug: mortuary-and-cemetery-board
+    basis: exact
+  chief-education:
+    slug: chief-education-office
+    basis: exact
+  chiropractic-examiners:
+    slug: board-of-chiropractic-examiners
+    basis: exact
+  columbia-gorge-river:
+    slug: columbia-river-gorge-commission
+    basis: exact
+  community-housing-services:
+    slug: oregon-housing-and-community-services-department
+    basis: exact
+  conservation-development-land:
+    slug: land-conservation-and-development-department
+    basis: exact
+  construction-contractors:
+    slug: construction-contractors-board
+    basis: exact
+  control-liquor:
+    slug: oregon-liquor-control-commission
+    basis: exact
+  coordinating-education-higher:
+    slug: higher-education-coordinating-commission
+    basis: exact
+  corrections:
+    slug: department-of-corrections
+    basis: exact
+  counsel-legislative:
+    slug: legislative-counsel-office
+    basis: exact
+  counselors-licensed-professional-therapists:
+    slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
+    basis: alias
+    note: Same nesting under the Mental Health Regulatory Agency as `psychology`.
+  criminal-justice:
+    slug: oregon-criminal-justice-commission
+    basis: exact
+  defense-public:
+    slug: office-of-public-defense-services
+    basis: successor
+    note: The Office of Public Defense Services became the Public Defense Commission in 2023 (SB 337).
+      ERF carries the predecessor name.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
+  defense-public-services:
+    slug: office-of-public-defense-services
+    basis: exact
+  dentistry:
+    slug: oregon-board-of-dentistry
+    basis: exact
+  disability-fitness-judicial:
+    slug: commission-on-judicial-fitness-and-disability
+    basis: alias
+    note: Word order only.
+  disability-fitness-judicial-on:
+    slug: commission-on-judicial-fitness-and-disability
+    basis: exact
+  education:
+    slug: oregon-department-of-education
+    basis: exact
+  emergency-management:
+    slug: oregon-military-department-office-of-emergency-management
+    basis: exact
+  employees-public-retirement-system:
+    slug: oregon-public-employees-retirement-system
+    basis: exact
+  employment:
+    slug: employment-department
+    basis: exact
+  employment-relations:
+    slug: employment-relations-board
+    basis: exact
+  energy:
+    slug: department-of-energy
+    basis: exact
+  enhancement-watershed:
+    slug: oregon-watershed-enhancement-board
+    basis: exact
+  environmental-quality:
+    slug: department-of-environmental-quality
+    basis: exact
+  equity-legislative:
+    slug: legislative-equity-office
+    basis: exact
+  ethics-government:
+    slug: oregon-government-ethics-commission
+    basis: exact
+  examiners-psychologist:
+    slug: mental-health-regulatory-agency-oregon-board-of-psychology
+    basis: successor
+    note: 'The Board of Psychologist Examiners is now the Oregon Board of Psychology. The rename is
+      visible IN THIS CORPUS rather than asserted from outside it: the board filed as "Psychologist
+      Examiners, Board of" for RY2016 and RY2017 and as "Oregon Board of Psychology" from RY2018,
+      later shortening to "Board of Psychology" by RY2023. The LFO agency code tracks the same change,
+      obpe -> obop -> bop. Maps to the same registry entry as `psychology`, which is the point --
+      one body, three names across the reporting years. NOT the fuzzy suggestion `board-of-geologist-examiners`:
+      one word apart, a different profession, and a live example of why suggestions are printed for
+      a human and never applied.'
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
+  examining-medical-veterinary:
+    slug: veterinary-medical-examining-board
+    basis: exact
+  fire-marshal:
+    slug: department-of-state-police-office-of-state-fire-marshal
+    basis: exact
+  fiscal-legislative:
+    slug: legislative-fiscal-officer
+    basis: alias
+    note: ERF's entry names the officer, the reports name the office (LFO). Confirm this is the same
+      body and not the officeholder -- the registry is inconsistent about this for legislative entries.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
+  fish-wildlife:
+    slug: department-of-fish-and-wildlife
+    basis: exact
+  forestry:
+    slug: department-of-forestry
+    basis: exact
+  geology-industries-mineral:
+    slug: department-of-geology-and-mineral-industries
+    basis: exact
+  governor:
+    slug: office-of-the-governor
+    basis: exact
+  governor-s:
+    slug: office-of-the-governor
+    basis: alias
+    note: 'A manual: true registry entry -- the Governor''s office issues no OAR chapter, so the chapter
+      scrape cannot produce it.'
+  human-services:
+    slug: department-of-human-services
+    basis: exact
+  imaging-medical:
+    slug: board-of-medical-imaging
+    basis: exact
+  indian-legislative-on-services:
+    slug: legislative-commission-on-indian-services
+    basis: exact
+  indian-on-services:
+    slug: legislative-commission-on-indian-services
+    basis: alias
+    note: The reports drop "Legislative" in some years. A token-overlap matcher paired this with DAS
+      when oregon-budget tried it, which is why it is asserted here rather than derived.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
+  industries-labor:
+    slug: bureau-of-labor-and-industries
+    basis: exact
+  judicial:
+    slug: judicial-department
+    basis: exact
+  justice:
+    slug: department-of-justice
+    basis: exact
+  lands:
+    slug: department-of-state-lands
+    basis: exact
+  legislative-policy-research:
+    slug: legislative-policy-and-research-committee
+    basis: alias
+    note: Committee vs office, same as `administration-legislative`.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
+  legislative-revenue:
+    slug: legislative-revenue-office
+    basis: exact
+  library:
+    slug: oregon-state-library
+    basis: exact
+  licensed-social-workers:
+    slug: board-of-licensed-social-workers
+    basis: exact
+  licensing-occupational-therapy:
+    slug: occupational-therapy-licensing-board
+    basis: exact
+  marine:
+    slug: oregon-state-marine-board
+    basis: exact
+  medical:
+    slug: oregon-medical-board
+    basis: exact
+  medicine-naturopathic:
+    slug: oregon-board-of-naturopathic-medicine
+    basis: exact
+  military:
+    slug: oregon-military-department
+    basis: exact
+  nursing:
+    slug: board-of-nursing
+    basis: exact
+  parks-recreation:
+    slug: parks-and-recreation-department
+    basis: exact
+  parole-post-prison-supervision:
+    slug: board-of-parole-and-post-prison-supervision
+    basis: exact
+  pharmacy:
+    slug: board-of-pharmacy
+    basis: exact
+  police:
+    slug: department-of-state-police
+    basis: exact
+  practices-standards-teacher:
+    slug: teacher-standards-and-practices-commission
+    basis: exact
+  practitioners-tax:
+    slug: state-board-of-tax-practitioners
+    basis: exact
+  psychiatric-review-security:
+    slug: psychiatric-security-review-board
+    basis: exact
+  psychology:
+    slug: mental-health-regulatory-agency-oregon-board-of-psychology
+    basis: alias
+    note: ERF nests the board under the Mental Health Regulatory Agency, which administers it; the
+      reports name the board alone.
+  public-safety-standards-training:
+    slug: department-of-public-safety-standards-and-training
+    basis: exact
+  public-utility:
+    slug: public-utility-commission
+    basis: exact
+  racing:
+    slug: oregon-racing-commission
+    basis: exact
+  resources-water:
+    slug: water-resources-department
+    basis: exact
+  revenue:
+    slug: department-of-revenue
+    basis: exact
+  secretary:
+    slug: secretary-of-state
+    basis: exact
+  social-workers:
+    slug: board-of-licensed-social-workers
+    basis: alias
+    note: The reports drop "Licensed" in some years.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
+  transportation:
+    slug: department-of-transportation
+    basis: exact
+  treasurer:
+    slug: oregon-state-treasury
+    basis: exact
+  treasury:
+    slug: oregon-state-treasury
+    basis: exact
+unmapped: {}

@@ -9,6 +9,9 @@ citation: APPR GOVERNOR-S-OFFICE 2020
 authority_level: agency_report
 issuing_body: Governor's Office
 agency: Governor's Office
+agency_key: governor-s
+agency_registry_slug: office-of-the-governor
+agency_registry_corpus: executive-regulatory-frameworks
 agency_code: null
 reporting_year: '2020'
 year_source: document
