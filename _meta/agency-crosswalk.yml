@@ -175,6 +175,9 @@ mapping:
   environmental-quality:
     slug: department-of-environmental-quality
     basis: exact
+  equity-legislative:
+    slug: legislative-equity-office
+    basis: exact
   ethics-government:
     slug: oregon-government-ethics-commission
     basis: exact
@@ -341,9 +344,4 @@ mapping:
   treasury:
     slug: oregon-state-treasury
     basis: exact
-unmapped:
-  equity-legislative:
-    reason: The Legislative Equity Office is a legislative-branch body created in 2021. ERF's registry
-      is keyed on OAR chapter assignment and this office issues no administrative rules, so it is
-      absent BY CONSTRUCTION rather than pending ingestion. Recorded so a later reader does not re-search
-      for it.
+unmapped: {}
