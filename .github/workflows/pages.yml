@@ -1,0 +1,59 @@
+name: pages
+
+# Build the landing page (src/build_site.py) and deploy ./site/ to GitHub Pages.
+#
+# THIS REPLACED the reusable publish-index caller, and the two must never both exist here.
+# That workflow publishes corpus-index.json alone — which is why this corpus's site ROOT
+# returned 404 while its index served fine, and why the org registry could not offer an
+# "Explore the corpus" link (it only renders one when the root actually answers).
+#
+# Its own header says: "Do NOT call this from a corpus that already deploys Pages itself —
+# two workflows deploying to one Pages site will fight over the `pages` concurrency group."
+#
+# src/build_site.py therefore owns both jobs, via corpus_toolkit.site, and keeps emitting
+# corpus-index.json at the SAME URL. That URL is load-bearing outside this repo: the org page
+# reads it for live document counts, and it is how a sibling corpus resolves citations INTO
+# this one. Dropping it would break something in someone else's repository, silently.
+on:
+  push:
+    branches: [main]
+    # No paths filter: the index is derived from every content file, so any content change
+    # must republish it. A filter tuned to the page's inputs would let the published index
+    # drift behind the corpus.
+  schedule:
+    - cron: "40 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # build_site.py renders through corpus_toolkit.site and emits corpus-index.json via
+      # corpus_toolkit.index, so the toolkit is a BUILD dependency here, not just a runtime
+      # one.
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Build the site
+        run: python3 src/build_site.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
