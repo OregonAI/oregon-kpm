@@ -1,218 +1,213 @@
-L o n g T e r m C a r e O m b u d s m a n
-A n n u a l P e r f o r m a n c e P r o g r e s s R e p o r t
-R e p o r t i n g Y e a r 2 0 2 5
-P u b l i s h e d : 9 / 2 9 / 2 0 2 5 1 : 5 6 : 5 0 P M
-K P M # A p p r o v e d K e y P e r f o r m a n c e M e a s u r e s ( K P M s )
-1 A v e r a g e i n i t i a l r e s p o n s e t i m e , m e a s u r e d i n b u s i n e s s d a y s , t o L T C O n o n - r e f e r r e d c a s e s . -
-2 A v e r a g e t i m e , m e a s u r e d i n b u s i n e s s d a y s , t o c l o s e L T C O n o n - r e f e r r e d c a s e s . -
-3 P e r c e n t o f N F a n d A L F / R C F f a c i l i t i e s t o w h i c h a L o n g - T e r m C a r e C e r t i f i e d O m b u d s m a n i s a s s i g n e d . -
-4 P e r c e n t o f A d u l t F o s t e r H o m e s r e c e i v i n g a v i s i t b y a s t a f f m e m b e r o r v o l u n t e e r o f t h e L T C O p r o g r a m a n n u a l l y . -
-5 L o n g - T e r m C a r e C e r t i f i e d O m b u d s m a n h o u r s . -
-6 C o m p a r i s o n o f t h e n u m b e r o f d a y s a l l O P G p r o t e c t e d p e r s o n s w e r e a d m i t t e d i n p a t i e n t t o a h o s p i t a l i n t h e 1 y e a r p r i o r t o O P G a p p o i n t m e n t w i t h t h e n u m b e r o f d a y s i n p a t i e n t i n t h e l a s t r e p o r t i n g y e a r . T a r g e t : 3 0 % r e d u c t i o n i n h o s p i t a l d a y s . -
-7 C o m p a r i s o n o f t h e n u m b e r o f E R v i s i t s i n t h e y e a r p r i o r t o g u a r d i a n s h i p f o r a l l O P G p r o t e c t e d p e r s o n s w i t h t h e n u m b e r o f E R v i s i t s i n t h e r e p o r t i n g y e a r . T a r g e t : 9 9 % r e d u c t i o n i n E R v i s i t s . -
-8 C o m p a r i s o n o f t h e n u m b e r o f n e w c r i m e s c h a r g e d f o r a l l O P G p r o t e c t e d p e r s o n s i n t h e y e a r p r i o r t o g u a r d i a n s h i p w i t h t h e n u m b e r o f n e w c h a r g e s i n t h e r e p o r t i n g y e a r . T a r g e t : 9 9 % r e d u c t i o n i n c r i m i n a l c h a r g e s . -
-9 A v e r a g e t i m e f i r s t a c t i o n t a k e n i n r e s p o n s e t o r e q u e s t f o r a s s i s t a n c e f r o m t h e R F O p r o g r a m . T a r g e t : 9 0 % o f r e q u e s t s f o r a s s i s t a n c e w i l l b e r e s p o n d e d t o w i t h i n 2 b u s i n e s s d a y s , e x c l u d i n g w e e k e n d s a n d h o l i d a y s . -
-1 0 P e r c e n t a g e o f R F O h o m e s a n d f a c i l i t i e s v i s i t e d a n n u a l l y . -
-1 1 C u s t o m e r S e r v i c e - P e r c e n t o f c u s t o m e r s r a t i n g t h e i r s a t i s f a c t i o n w i t h t h e a g e n c y ' s c u s t o m e r s e r v i c e a s " g o o d " o r " e x c e l l e n t " : o v e r a l l c u s t o m e r s e r v i c e , t i m e l i n e s s , a c c u r a c y , h e l p f u l n e s s , e x p e r t i s e a n d a v a i l a b i l i t y o f i n f o r m a t i o n .
-P e r f o r m a n c e S u m m a r y
-G r e e n Y e l l o w R e d
-= T a r g e t t o - 5 % = T a r g e t - 5 % t o - 1 5 % = T a r g e t > - 1 5 %
-S u m m a r y S t a t s : 2 5 % 1 2 . 5 0 % 6 2 . 5 0 %
-r e d
-g r e e n
-y e l l o w
-K P M # 1 A v e r a g e i n i t i a l r e s p o n s e t i m e , m e a s u r e d i n b u s i n e s s d a y s , t o L T C O n o n - r e f e r r e d c a s e s . -
-D a t a C o l l e c t i o n P e r i o d : J u l 0 1 - J u n 3 0
-* U p w a r d T r e n d = n e g a t i v e r e s u l t
-R e p o r t Y e a r 2 0 2 1 2 0 2 2 2 0 2 3 2 0 2 4 2 0 2 5
-A v e r a g e i n i t i a l r e s p o n s e t i m e , m e a s u r e d i n b u s i n e s s d a y s , t o L T C O n o n - r e f e r r e d c a s e s .
-A c t u a l 1 1 1 1 1
-T a r g e t 1 . 5 0 1 . 5 0 1 . 5 0 1 . 5 0 1 . 5 0
-H o w A r e W e D o i n g
-T h i s m e a s u r e i s t h e p e r i o d o f t i m e e l a p s e d b e t w e e n i n i t i a l r e c e i p t o f a c o m p l a i n t a n d t h e d a t e o f f i r s t a c t i o n f o r c a s e s w i t h i n L T C O ’ s p u r v i e w . T h i s m e a s u r e i s s p e c i f i c t o t h e L T C O p r o g r a m .
-P r i o r t o 2 0 1 9 , t h i s m e a s u r e i n c l u d e d a l l c a l e n d a r d a y s , i n c l u d i n g w e e k e n d s a n d h o l i d a y s . T h e m e a s u r e n o w r e f l e c t s a c t u a l b u s i n e s s d a y s .
-T h i s y e a r ’ s r e s p o n s e t i m e o f 1 . 0 0 b u s i n e s s d a y s c o n t i n u e s t o r e f l e c t p r o g r a m e x p e c t a t i o n s , w h i c h a r e t h a t a l l c o m p l a i n t s , w h e t h e r m a d e i n p e r s o n a t t h e f a c i l i t y o r b y p h o n e , b e a d d r e s s e d
-t h r o u g h a f i r s t a c t i o n a s q u i c k l y a s p o s s i b l e d u r i n g b u s i n e s s h o u r s .
-F a c t o r s A f f e c t i n g R e s u l t s
-I n t h e p a s t y e a r , t o m a i n t a i n o u r g o a l o f q u i c k l y r e s p o n d i n g t o c o m p l a i n t s c a l l e d i n t o o u r 1 - 8 0 0 # , t h e L T C O p r o g r a m h a s h a d t o r e g u l a r l y a s s i g n a s e c o n d D e p u t y O m b u d s m a n s t a f f t o h e l p r e t u r n c a s e
-c a l l s . T h e c a s e v o l u m e t h r o u g h p h o n e c a l l s h a s c o n t i n u e d t o r i s e s i g n i f i c a n t l y i n r e c e n t y e a r s . T h e L T C O p r o g r a m h a s h i s t o r i c a l l y a s s i g n e d o n e o f t h e 1 0 D e p u t y S t a t e L o n g T e r m C a r e O m b u d s m a n
-s t a f f p e r s o n s t o c o v e r c o m p l a i n t c a l l s c o m i n g i n e a c h d a y t o o u r 1 - 8 0 0 # d u r i n g b u s i n e s s h o u r s . T h i s l o n g - s t a n d i n g p r a c t i c e h a s e n s u r e d t h a t L T C O h a s a h i g h l e v e l o f e x p e r t i s e i n i t i a l l y r e s p o n d i n g t o
-1 ) a d d r e s s c o m p l a i n t s a l m o s t a s s o o n a s t h e y a r e m a d e w h e n m a d e b y p h o n e , o r 2 ) i m m e d i a t e l y r e f e r a c o m p l a i n t t o a v o l u n t e e r C e r t i f i e d O m b u d s m a n w h o i s a s s i g n e d t o a f a c i l i t y f r o m w h i c h a
-r e s i d e n t ’ s c o m p l a i n t i s c o m i n g . B u t c o m p l e x c o m p l a i n t s c o m i n g i n v i a o u r h o t l i n e h a v e i n c r e a s e d t o t h e p o i n t o f n e e d i n g a d d i t i o n a l s t a f f t i m e o n t h e p h o n e c a l l s – w h i c h d i r e c t l y i m p a c t s L T C O s t a f f ’ s
-a b i l i t y t o f u l l y s u p p o r t v o l u n t e e r s a n d v i s i t f a c i l i t i e s .
-T h i s m e a s u r e h a s c o n s i s t e n t l y r e m a i n e d a t 1 . 0 0 i n r e c e n t y e a r s . T h i s r e s p o n s e r a t e r e f l e c t s t h e e x p e c t a t i o n s o f t h e p r o g r a m ’ s t i m e l y r e s p o n s e t o c o n c e r n s e x p r e s s e d o n b e h a l f o f O r e g o n i a n s l i v i n g i n
-c a r e f a c i l i t i e s .
-K P M # 2 A v e r a g e t i m e , m e a s u r e d i n b u s i n e s s d a y s , t o c l o s e L T C O n o n - r e f e r r e d c a s e s . -
-D a t a C o l l e c t i o n P e r i o d : J u l 0 1 - J u n 3 0
-* U p w a r d T r e n d = n e g a t i v e r e s u l t
-R e p o r t Y e a r 2 0 2 1 2 0 2 2 2 0 2 3 2 0 2 4 2 0 2 5
-A v e r a g e t i m e , m e a s u r e d i n b u s i n e s s d a y s , t o c l o s e L T C O n o n - r e f e r r e d c a s e s .
-A c t u a l 2 4 2 2 2 4 2 9 3 1
-T a r g e t 2 5 1 7 1 7 1 7 1 7
-H o w A r e W e D o i n g
-T h i s m e a s u r e i s t h e p e r i o d o f t i m e b e t w e e n i n t a k e d a t e o f a c a s e / c o m p l a i n t a n d t h e t i m e t h e c a s e i s c l o s e d b y s t a f f o r v o l u n t e e r s . I t i s s p e c i f i c t o t h e L T C O p r o g r a m .
-T h e 2 0 2 2 r e p o r t i n g y e a r w a s t h e f i r s t y e a r w i t h a n e w t a r g e t o f 1 7 b u s i n e s s d a y s , d o w n f r o m a t a r g e t o f 2 5 b u s i n e s s d a y s .
-T h e m e a s u r e o f 3 1 d a y s t h i s y e a r f a l l s o u t s i d e o f t h e c u r r e n t a n d o l d t a r g e t . L T C O b e l i e v e s t h i s i n c r e a s e i n t h e c o m p l e t i o n o f a c a s e i s a r e f l e c t i o n o f a n i n c r e a s e i n t h e c o m p l e x i t y o f c a s e s , a n d
-a d e c r e a s e i n e a s i e r t o r e s o l v e c o m p l a i n t s , i n r e c e n t y e a r s .
-F a c t o r s A f f e c t i n g R e s u l t s
-T h e r e a r e s o m e p o t e n t i a l f a c t o r s l e a d i n g t o t h i s n e e d o f a d d i t i o n a l d a y s t o c l o s e a c a s e . S p e c i f i c a l l y , o u r o v e r a l l i n - p e r s o n v i s i t s t o f a c i l i t i e s – w h e r e m a n y c a s e s c a n b e c l o s e d m o r e q u i c k l y – r a n g e d i n
-a 4 0 0 - 6 0 0 t o t a l v i s i t s p e r m o n t h d u r i n g t h i s r e p o r t i n g y e a r . P r i o r t o t h e p a n d e m i c , o u r v o l u n t e e r s a v e r a g e d o v e r 1 , 0 0 0 v i s i t s t o f a c i l i t i e s p e r m o n t h . T h e s i g n i f i c a n t d e c r e a s e i n i n - p e r s o n v i s i t s h a s a
-d i r e c t i m p a c t o n t h e a v e r a g e l e n g t h o f t i m e f o r c a s e s w o r k e d . I n p a r t , w i t h v o l u n t e e r O m b u d s m e n n o t v i s i t i n g r e s i d e n t s a s f r e q u e n t l y , t h e e a s i e r c a s e w o r k t h a t o f t e n a r i s e s f r o m v i s i t s a r e n o t a r i s i n g a s
-f r e q u e n t l y . R a t h e r , a l a r g e r v o l u m e o f c a s e s c o m i n g t o L T C O a r e c o m i n g i n v i a p h o n e c a l l s , a n d a r e t h e g e n e r a l l y m o r e c o m p l e x c a s e s t h a t t a k e m o r e t i m e t o w o r k . I t i s o u r b e l i e f t h a t t h e p r o p o r t i o n o f
-c o m p l e x c a s e s h a s i n c r e a s e d , w h i c h h a s c a u s e d a n i n c r e a s e i n t h e l e n g t h o f t i m e s p e n t o n i n d i v i d u a l c a s e s .
-K P M # 3 P e r c e n t o f N F a n d A L F / R C F f a c i l i t i e s t o w h i c h a L o n g - T e r m C a r e C e r t i f i e d O m b u d s m a n i s a s s i g n e d . -
-D a t a C o l l e c t i o n P e r i o d : J u l 0 1 - J u n 3 0
-* U p w a r d T r e n d = p o s i t i v e r e s u l t
-R e p o r t Y e a r 2 0 2 1 2 0 2 2 2 0 2 3 2 0 2 4 2 0 2 5
-P e r c e n t o f N F a n d A L F / R C F f a c i l i t i e s t o w h i c h a L o n g - T e r m C a r e C e r t i f i e d O m b u d s m a n i s a s s i g n e d .
-A c t u a l 4 4 % 3 7 % 3 5 % 3 3 % 3 1 %
-T a r g e t 7 0 % 7 0 % 7 0 % 7 0 % 7 0 %
-H o w A r e W e D o i n g
-O n e o f t h e b e s t r e f l e c t i o n s o f h o w L T C O p r o v i d e s i t s s e r v i c e s t o O r e g o n i a n s i s t h r o u g h r e g u l a r v i s i t s t o s i n g l e c a r e f a c i l i t i e s , w h i c h o n l y o c c u r s w h e n a v o l u n t e e r C e r t i f i e d O m b u d s m a n c a n b e a s s i g n e d
-t o t h e f a c i l i t y f o r r e g u l a r v i s i t s . L T C O ’ s g o a l c o n t i n u e s t o b e f o r a v o l u n t e e r C e r t i f i e d O m b u d s m a n t o b e a s s i g n e d t o a t l e a s t 7 0 % o f l o n g - t e r m c a r e f a c i l i t i e s i n O r e g o n .
-P r i o r t o 2 0 2 0 , L T C O r e g u l a r l y h a d s u f f i c i e n t n u m b e r s o f t r a i n e d a n d c e r t i f i e d v o l u n t e e r s f o r a p p r o x i m a t e l y 6 0 % c o v e r a g e . H o w e v e r , t h e C O V I D p a n d e m i c c o n s i d e r a b l y s l o w e d a b i l i t i e s t o r e t a i n e x i s t i n g
-v o l u n t e e r s a n d r e c r u i t n e w v o l u n t e e r s . R e c r u i t m e n t a n d t r a i n i n g e f f o r t s h a v e c o n t i n u e d t o e x p a n d , b u t o v e r a l l v o l u n t e e r r e c r u i t m e n t a n d r e t e n t i o n h a s c o n s i s t e n t l y b e e n m o r e d i f f i c u l t s i n c e t h e
-p a n d e m i c .
-F a c t o r s A f f e c t i n g R e s u l t s
-I n t h e p a s t f e w y e a r s , v o l u n t e e r r e c r u i t m e n t v s . a t t r i t i o n h a s s t a b i l i z e d t o a n e a r e v e n r a t e . S o o u r t o t a l n u m b e r o f v o l u n t e e r s a p p e a r s t o h a v e r e m a i n e d c o n s i s t e n t . H o w e v e r , n e w e r v o l u n t e e r s d o n o t
-c o v e r t h e s a m e n u m b e r o f f a c i l i t i e s a s s e a s o n e d v o l u n t e e r s a s t h e y l e a r n t h e r o l e o f a C e r t i f i e d O m b u d s m a n v o l u n t e e r . T h e r e s u l t i s t h a t s t i l l f e w e r f a c i l i t i e s h a v e a n a s s i g n e d O m b u d s m a n v o l u n t e e r
-r e g u l a r l y v i s i t i n g .
-D e s p i t e t h e s e f a c t o r s , t h e a g e n c y c o n t i n u e s t o r e c o m m i t i t s e l f t o s u p p o r t i n g O r e g o n i a n s t h r o u g h o u r f o u n d a t i o n o f c o m m u n i t y v o l u n t e e r s .
-K P M # 4 P e r c e n t o f A d u l t F o s t e r H o m e s r e c e i v i n g a v i s i t b y a s t a f f m e m b e r o r v o l u n t e e r o f t h e L T C O p r o g r a m a n n u a l l y . -
-D a t a C o l l e c t i o n P e r i o d : J u l 0 1 - J u n 3 0
-* U p w a r d T r e n d = p o s i t i v e r e s u l t
-R e p o r t Y e a r 2 0 2 1 2 0 2 2 2 0 2 3 2 0 2 4 2 0 2 5
-P e r c e n t o f A d u l t F o s t e r H o m e s r e c e i v i n g a v i s i t b y a s t a f f m e m b e r o r v o l u n t e e r o f t h e L T C O p r o g r a m a n n u a l l y .
-A c t u a l 2 3 %
-T a r g e t 2 5 %
-H o w A r e W e D o i n g
-T h i s m e a s u r e r e f l e c t s t h e n u m b e r o f l i c e n s e d A d u l t F o s t e r H o m e s ( A F H s ) v i s i t e d b y a n L T C O s t a f f o r v o l u n t e e r O m b u d s m a n a t l e a s t o n c e d u r i n g t h e s t a t e f i s c a l y e a r . S u c h v i s i t s a r e o f t e n c h e c k - i n s
-w i t h t h e r e s i d e n t s w h o l i v e i n t h e h o m e t o e n s u r e t h a t t h e y c o n t i n u e t o b e a w a r e o f t h e L T C O p r o g r a m s h o u l d t h e y h a v e a n y c o n c e r n s r e g a r d i n g t h e i r c a r e t h a t c a n b e a d d r e s s e d b y L T C O . O f t h e
-a p p r o x i m a t e l y 1 , 4 0 0 A F H s t h a t f a l l u n d e r L T C O ’ s p u r v i e w , 2 3 % o f t h e h o m e s r e c e i v e d a v i s i t t h i s p a s t f i s c a l y e a r .
-F a c t o r s A f f e c t i n g R e s u l t s
-A l a r g e m a j o r i t y o f t h e s t a t e - l i c e n s e d A F H s c o v e r e d b y L T C O r e s i d e i n t h e P o r t l a n d m e t r o c o u n t i e s o f C l a c k a m a s , W a s h i n g t o n , a n d M u l t n o m a h , w i t h a p p r o x i m a t e l y 9 0 0 h o m e s i n t h e s e c o u n t i e s . W i t h
-o n l y 3 s t a f f p r i m a r i l y c o v e r i n g t h e s e c o u n t i e s , a n d w i t h L T C O ’ s d e c r e a s e i n v o l u n t e e r n u m b e r s , a s i g n i f i c a n t f o c u s f o r i n c o r p o r a t i n g v i s i t s t o A F H s i s i n i n v e s t i g a t i n g a c t u a l c o m p l a i n t s a n d c o n c e r n s
-c o n v e y e d t o L T C O . I n r e g i o n s o f t h e s t a t e w h e r e t h e n u m b e r s o f A F H s a r e s i g n i f i c a n t l y l o w e r , L T C O m o r e e a s i l y a p p r o a c h e s n e a r 1 0 0 % v i s i t a t i o n t o A F H s t o e n s u r e r e s i d e n t s i n t h o s e a r e a s m a i n t a i n
-a w a r e n e s s o f L T C O a s a r e s o u r c e .
-I f p o s s i b l e , w i t h i n o u r p r o v i d e d r e s o u r c e s , L T C O w o u l d i d e a l l y v i s i t a l l A F H s a t l e a s t o n c e a n n u a l l y , b u t a d d i t i o n a l s t a f f w o u l d b e n e e d e d t o a c c o m p l i s h t h a t g o a l . T h e m e t r i c ’ s t a r g e t o f 2 5 % t h o u g h i s
-a c h i e v a b l e w i t h i n c u r r e n t r e s o u r c e s a n d w i l l c o n t i n u e t o b e t h e m i n i m u m f o r t h e L T C O p r o g r a m m o v i n g f o r w a r d .
-K P M # 5 L o n g - T e r m C a r e C e r t i f i e d O m b u d s m a n h o u r s . -
-D a t a C o l l e c t i o n P e r i o d : J u l 0 1 - J u n 3 0
-* U p w a r d T r e n d = p o s i t i v e r e s u l t
-R e p o r t Y e a r 2 0 2 1 2 0 2 2 2 0 2 3 2 0 2 4 2 0 2 5
-L o n g - T e r m C a r e C e r t i f i e d O m b u d s m a n h o u r s .
-A c t u a l 7 , 8 1 6 1 2 , 1 8 3 1 4 , 4 9 0 1 3 , 4 7 3 1 3 , 2 9 1
-T a r g e t 2 9 , 0 0 0 2 9 , 0 0 0 2 9 , 0 0 0 2 9 , 0 0 0 2 9 , 0 0 0
-H o w A r e W e D o i n g
-T h i s t o t a l c o n s i s t s o f a l l t h e h o u r s L T C O v o l u n t e e r s s p e n d i n l o n g - t e r m c a r e f a c i l i t i e s , r e c r u i t i n g n e w v o l u n t e e r s , a n d s e r v i n g o n t h e a g e n c y a d v i s o r y c o m m i t t e e .
-N o t e t h a t t h e t a r g e t f o r t h i s m e a s u r e i n c r e a s e d f r o m 2 2 , 0 0 0 p r i o r t o 2 0 1 6 t o t h e c u r r e n t t a r g e t o f 2 9 , 0 0 0 , w i t h a p l a n n e d d e c r e a s e t o 2 0 , 0 0 0 f o r 2 0 2 6 g i v e n t h e i m p a c t t h e C O V I D p a n d e m i c h a s
-h a d o n v o l u n t e e r i s m i n t h e L T C O r o l e .
-P r i o r t o t h e p a n d e m i c , p e r f o r m a n c e h a d r a n g e d f r o m a l o w o f 2 2 , 9 8 4 i n 2 0 1 1 t o a h i g h o f 2 9 , 4 3 8 i n 2 0 1 7 w h e n t h e p r o g r a m a p p r o a c h e d a h i g h o f n e a r l y 2 0 0 C e r t i f i e d O m b u d s m a n v o l u n t e e r s .
-F a c t o r s A f f e c t i n g R e s u l t s
-T h e p a s t 5 r e p o r t i n g y e a r s r e f l e c t a p a t t e r n e d d e c r e a s e i n v o l u n t e e r h o u r s d u e t o t h e o n g o i n g i m p a c t s t o t h e L T C O v o l u n t e e r p r o g r a m f o l l o w i n g t h e C O V I D p a n d e m i c . D u r i n g t h e 2 0 2 0 - 2 0 2 2 y e a r s o f
-t h e C O V I D p a n d e m i c , L T C O ’ s t o t a l n u m b e r o f v o l u n t e e r s d r o p p e d c o n s i d e r a b l y .
-E a c h v o l u n t e e r i s a s k e d t o v i s i t t h e i r a s s i g n e d f a c i l i t i e s f o r a t o t a l o f u p t o f o u r h o u r s p e r w e e k . H o w e v e r , w i t h o u r o v e r a l l v o l u n t e e r n u m b e r s d o w n t o t h e i r l o w e s t n u m b e r s i n o v e r a d e c a d e , o u r t o t a l
-n u m b e r o f h o u r s c o n t i n u e t o b e s i g n i f i c a n t l y l o w e r t h a n p r e - p a n d e m i c .
-K P M # 6
-C o m p a r i s o n o f t h e n u m b e r o f d a y s a l l O P G p r o t e c t e d p e r s o n s w e r e a d m i t t e d i n p a t i e n t t o a h o s p i t a l i n t h e 1 y e a r p r i o r t o O P G a p p o i n t m e n t w i t h t h e n u m b e r o f d a y s i n p a t i e n t i n t h e l a s t
-r e p o r t i n g y e a r . T a r g e t : 3 0 % r e d u c t i o n i n h o s p i t a l d a y s . -
-D a t a C o l l e c t i o n P e r i o d : J u l 0 1 - J u n 3 0
-* U p w a r d T r e n d = n e g a t i v e r e s u l t
-R e p o r t Y e a r 2 0 2 1 2 0 2 2 2 0 2 3 2 0 2 4 2 0 2 5
-O r e g o n P u b l i c G u a r d i a n P r o g r a m H o s p i t a l i z a t i o n s
-A c t u a l
-T a r g e t
-H o w A r e W e D o i n g
-T h i s i s a n e w K P M a p p r o v e d i n 2 0 2 5 . O P G d o e s n o t h a v e d a t a a v a i l a b l e t o r e p o r t . T h i s K P M i n v o l v e s g a t h e r i n g h i s t o r i c a l d a t a o n O P G c l i e n t s f r o m t h e 1 - y e a r t i m e p e r i o d p r i o r t o w h e n O P G w o r k i n g
-w i t h t h e m . G a t h e r i n g a l l t h e d a t a n e e d e d f o r a l l O P G c l i e n t s w i l l b e a s i g n i f i c a n t p r o j e c t t h a t O P G w i l l c o m p l e t e t h r o u g h o u t t h i s y e a r a n d w i l l h a v e d a t a a v a i l a b l e t o r e p o r t i n 2 0 2 6 .
-F a c t o r s A f f e c t i n g R e s u l t s
-N e w K P M , n o d a t a i s a v a i l a b l e t o r e p o r t .
-K P M # 7 C o m p a r i s o n o f t h e n u m b e r o f E R v i s i t s i n t h e y e a r p r i o r t o g u a r d i a n s h i p f o r a l l O P G p r o t e c t e d p e r s o n s w i t h t h e n u m b e r o f E R v i s i t s i n t h e r e p o r t i n g y e a r . T a r g e t : 9 9 % r e d u c t i o n i n E R v i s i t s . -
-D a t a C o l l e c t i o n P e r i o d : J u l 0 1 - J u n 3 0
-* U p w a r d T r e n d = n e g a t i v e r e s u l t
-R e p o r t Y e a r 2 0 2 1 2 0 2 2 2 0 2 3 2 0 2 4 2 0 2 5
-O r e g o n P u b l i c G u a r d i a n P r o g r a m E R v i s i t s
-A c t u a l
-T a r g e t
-H o w A r e W e D o i n g
-T h i s i s a n e w K P M a p p r o v e d i n 2 0 2 5 . O P G d o e s n o t h a v e d a t a a v a i l a b l e t o r e p o r t . T h i s K P M i n v o l v e s g a t h e r i n g h i s t o r i c a l d a t a o n O P G c l i e n t s f r o m t h e 1 - y e a r t i m e p e r i o d p r i o r t o w h e n O P G w o r k i n g
-w i t h t h e m . G a t h e r i n g a l l t h e d a t a n e e d e d f o r a l l O P G c l i e n t s w i l l b e a s i g n i f i c a n t p r o j e c t t h a t O P G w i l l c o m p l e t e t h r o u g h o u t t h i s y e a r a n d w i l l h a v e d a t a a v a i l a b l e t o r e p o r t i n 2 0 2 6 .
-F a c t o r s A f f e c t i n g R e s u l t s
-N e w K P M , n o d a t a i s a v a i l a b l e t o r e p o r t .
-K P M # 8
-C o m p a r i s o n o f t h e n u m b e r o f n e w c r i m e s c h a r g e d f o r a l l O P G p r o t e c t e d p e r s o n s i n t h e y e a r p r i o r t o g u a r d i a n s h i p w i t h t h e n u m b e r o f n e w c h a r g e s i n t h e r e p o r t i n g y e a r . T a r g e t : 9 9 % r e d u c t i o n
-i n c r i m i n a l c h a r g e s . -
-D a t a C o l l e c t i o n P e r i o d : J u l 0 1 - J u n 3 0
-* U p w a r d T r e n d = n e g a t i v e r e s u l t
-R e p o r t Y e a r 2 0 2 1 2 0 2 2 2 0 2 3 2 0 2 4 2 0 2 5
-O r e g o n P u b l i c G u a r d i a n P r o g r a m C r i m i n a l c h a r g e s
-A c t u a l
-T a r g e t
-H o w A r e W e D o i n g
-T h i s i s a n e w K P M a p p r o v e d i n 2 0 2 5 . O P G d o e s n o t h a v e d a t a a v a i l a b l e t o r e p o r t . T h i s K P M i n v o l v e s g a t h e r i n g h i s t o r i c a l d a t a o n O P G c l i e n t s f r o m t h e 1 - y e a r t i m e p e r i o d p r i o r t o w h e n O P G w o r k i n g
-w i t h t h e m . G a t h e r i n g a l l t h e d a t a n e e d e d f o r a l l O P G c l i e n t s w i l l b e a s i g n i f i c a n t p r o j e c t t h a t O P G w i l l c o m p l e t e t h r o u g h o u t t h i s y e a r a n d w i l l h a v e d a t a a v a i l a b l e t o r e p o r t i n 2 0 2 6 .
-F a c t o r s A f f e c t i n g R e s u l t s
-N e w K P M , n o d a t a i s a v a i l a b l e t o r e p o r t .
-K P M # 9
-A v e r a g e t i m e f i r s t a c t i o n t a k e n i n r e s p o n s e t o r e q u e s t f o r a s s i s t a n c e f r o m t h e R F O p r o g r a m . T a r g e t : 9 0 % o f r e q u e s t s f o r a s s i s t a n c e w i l l b e r e s p o n d e d t o w i t h i n 2 b u s i n e s s d a y s , e x c l u d i n g
-w e e k e n d s a n d h o l i d a y s . -
-D a t a C o l l e c t i o n P e r i o d : J u l 0 1 - J u n 3 0
-* U p w a r d T r e n d = p o s i t i v e r e s u l t
-R e p o r t Y e a r 2 0 2 1 2 0 2 2 2 0 2 3 2 0 2 4 2 0 2 5
-R e s i d e n t i a l F a c i l i t i e s O m b u d s m a n P r o g r a m C o m p l a i n t R e s p o n s e T i m e
-A c t u a l 9 3 %
-T a r g e t 9 0 %
-H o w A r e W e D o i n g
-B y r e s p o n d i n g t o r e q u e s t s f o r a s s i s t a n c e w i t h i n t w o b u s i n e s s d a y s 9 2 . 6 % o f t h e t i m e , R F O h a s e x c e e d e d t h i s K P M s t a r g e t b y 2 . 6 % . N o t e t h a t t h e t a r g e t o f 2 b u s i n e s s d a y s t o r e s p o n d i s s e t b a s e d o n
-t h e c u r r e n t s t a f f i n g l e v e l s a l l o t t e d t o t h e R F O p r o g r a m . A d d i t i o n a l s t a f f c o u l d a l l o w f o r f a s t e r r e s p o n s e t i m e s t o r e s i d e n t s i n n e e d o f a s s i s t a n c e .
-F a c t o r s A f f e c t i n g R e s u l t s
-F a c t o r s t h a t c o n t r i b u t e d t o m e e t i n g a n d e x c e e d i n g t h e t a r g e t f o r t h i s m e t r i c [ t h i s a c h i e v e m e n t ] i n c l u d e s t r o n g c o m m u n i c a t i o n b e t w e e n t h e R F O t e a m w h e n n e w r e q u e s t s c o m e i n , s t r o n g r e l a t i o n s h i p s
-w i t h r e s i d e n t s , p r o v i d e r s a n d c a s e m a n a g e r s t h a t a l l o w R F O t o q u i c k l y r e s p o n d t o p e o p l e w h o a r e c o n t a c t i n g u s .
-K P M # 1 0 P e r c e n t a g e o f R F O h o m e s a n d f a c i l i t i e s v i s i t e d a n n u a l l y . -
-D a t a C o l l e c t i o n P e r i o d : J u l 0 1 - J u n 3 0
-* U p w a r d T r e n d = p o s i t i v e r e s u l t
-R e p o r t Y e a r 2 0 2 1 2 0 2 2 2 0 2 3 2 0 2 4 2 0 2 5
-R e s i d e n t i a l F a c i l i t i e s O m b u d s m a n P r o g r a m : H o m e / F a c i l i t y V i s i t s
-A c t u a l 2 5 %
-T a r g e t 3 0 %
-H o w A r e W e D o i n g
-I n t h e l a s t f i s c a l y e a r , R F O v i s i t e d 2 5 % o f t h e f a c i l i t i e s u n d e r i t s p u r v i e w . T h i s i s 5 % s h o r t o f t h e t a r g e t e d g o a l o f v i s i t i n g 3 0 % o f t h e h o m e s i n t h e R F O p u r v i e w e a c h y e a r .
-F a c t o r s A f f e c t i n g R e s u l t s
-R F O c o u l d n o t m e e t t h i s t a r g e t b e c a u s e R F O h a s n o t h a d a n i n c r e a s e i n s t a f f i n g s i n c e t h e p r o g r a m w a s c r e a t e d i n 2 0 1 3 . S i n c e t h a t t i m e , t h e r e h a s b e e n a 5 6 % i n c r e a s e i n p e o p l e l i v i n g i n R F O -
-c o v e r e d f a c i l i t i e s a n d a n 8 5 % i n c r e a s e i n t h e n u m b e r o f R F O - c o v e r e d f a c i l i t i e s . T h i s l a r g e i n c r e a s e i n p e o p l e s e r v e d a n d f a c i l i t i e s w i t h t h e 2 0 1 3 s t a f f i n g l e v e l s m a k e s i t v e r y d i f f i c u l t t o r e a c h t h e 3 0 %
-t a r g e t . H o w e v e r , w i t h i n t h e c u r r e n t s t a f f i n g l e v e l s , R F O h a s s t r a t e g i c a l l y r e s t r u c t u r e d t o a r e g i o n a l a p p r o a c h i n a n e f f o r t t o i n c r e a s e v i s i t n u m b e r s o v e r t h e p a s t y e a r - w h i c h h a s p r o v e n s u c c e s s f u l t o
-e v e n a c h i e v e t h e 2 5 % o f h o m e s / f a c i l i t i e s v i s i t e d .
-K P M # 1 1
-C u s t o m e r S e r v i c e - P e r c e n t o f c u s t o m e r s r a t i n g t h e i r s a t i s f a c t i o n w i t h t h e a g e n c y ' s c u s t o m e r s e r v i c e a s " g o o d " o r " e x c e l l e n t " : o v e r a l l c u s t o m e r s e r v i c e , t i m e l i n e s s , a c c u r a c y , h e l p f u l n e s s ,
-e x p e r t i s e a n d a v a i l a b i l i t y o f i n f o r m a t i o n .
-D a t a C o l l e c t i o n P e r i o d : J u l 0 1 - J u n 3 0
-R e p o r t Y e a r 2 0 2 1 2 0 2 2 2 0 2 3 2 0 2 4 2 0 2 5
-A c c u r a c y
-A c t u a l 7 8 % 7 5 % 6 4 % 7 6 % 7 2 %
-T a r g e t 9 0 % 9 0 % 9 0 % 9 0 % 9 0 %
-H e l p f u l n e s s
-A c t u a l 8 9 % 8 4 % 7 0 % 8 0 % 8 4 %
-T a r g e t 9 0 % 9 0 % 9 0 % 9 0 % 9 0 %
-E x p e r t i s e
-A c t u a l 8 9 % 8 3 % 7 3 % 8 2 % 8 5 %
-T a r g e t 9 0 % 9 0 % 9 0 % 9 0 % 9 0 %
-O v e r a l l
-A c t u a l 8 5 % 8 3 % 6 6 % 8 0 % 7 6 %
-T a r g e t 9 0 % 9 0 % 9 0 % 9 0 % 9 0 %
-T i m e l i n e s s
-A c t u a l 8 7 % 8 2 % 7 4 % 8 3 % 8 0 %
-T a r g e t 9 0 % 9 0 % 9 0 % 9 0 % 9 0 %
-A v a i l a b i l i t y o f I n f o r m a t i o n
-A c t u a l 7 6 % 7 7 % 6 7 % 7 5 % 7 1 %
-T a r g e t 9 0 % 9 0 % 9 0 % 9 0 % 9 0 %
-H o w A r e W e D o i n g
-T h i s m e a s u r e t a b u l a t e s t h e r e s u l t s o f o n - l i n e r e s p o n s e s t o a n a n o n y m o u s s u r v e y . T h i s y e a r ’ s m e a s u r e s a r e 7 6 % f o r O v e r a l l E x p e r i e n c e , 8 0 % f o r T i m e l i n e s s , 7 2 % f o r A c c u r a c y , 8 4 % f o r H e l p f u l n e s s ,
-8 5 % f o r E x p e r t i s e , a n d 7 1 % f o r A v a i l a b i l i t y o f I n f o r m a t i o n .
-N o t e t h a t t h i s m e a s u r e r e f l e c t s o n l y f e e d b a c k p r o v i d e d r e g a r d i n g t h e L T C O p r o g r a m . T h e s u r v e y r e s p o n s e s a r e b e i n g e x p a n d e d t o i n c l u d e t h e O P G a n d R F O p r o g r a m s f o r o u r 2 0 2 6 r e p o r t i n g y e a r .
-F a c t o r s A f f e c t i n g R e s u l t s
-T h i s i s a d i f f i c u l t m e a s u r e f o r t h e L T C O p r o g r a m t o g a i n m e a s u r a b l e d a t a r e f l e c t i v e o f o u r w o r k w i t h t h e c o n s u m e r w h o i s o u r f o c u s , w h i c h i s t h e r e s i d e n t i n a c a r e f a c i l i t y o r h o m e . T h e b i g g e s t
-c h a l l e n g e i s o b t a i n i n g f e e d b a c k f r o m p o t e n t i a l l y v u l n e r a b l e s e n i o r s a n d p e o p l e w i t h d i s a b i l i t i e s w h o a r e r e s i d e n t s o f c a r e s e t t i n g s a n d w h o o f t e n d o n o t h a v e t h e c a p a c i t y o r a c c e s s f o r r e s p o n d i n g t o
-q u e s t i o n s a n d s u r v e y s .
-C u r r e n t l y L T C O h a s a s u r v e y a t t a c h e d t o a l l e l e c t r o n i c c o m m u n i c a t i o n s f o r i n d i v i d u a l s t o c o m p l e t e . T h u s , t h e d a t a r e f l e c t e d i n t h i s m e a s u r e i s m o r e a r e f l e c t i o n o f i n d i v i d u a l s w h o c o m p l e t e d t h e s u r v e y
-b u t w h o a r e n o t t h e f o c u s o f L T C O s e r v i c e s , w h i c h i s , a g a i n , t h e r e s i d e n t o f c a r e f a c i l i t i e s a n d h o m e s . N o n - r e s i d e n t i n d i v i d u a l s i n t e r a c t i n g w i t h L T C O o f t e n h a v e w i s h e s t h a t c a n b e d i f f e r e n t o r
-c o n t r a d i c t o r y t o t h o s e w i s h e s o f t h e r e s i d e n t , r e s u l t i n g i n l o w e r s a t i s f a c t i o n r a t i n g s i n w o r k i n g w i t h L T C O .
+Long Term Care Ombudsman
+Annual Performance Progress Report
+Reporting Year 2025
+Published: 9/29/2025 1:56:50 PM
+KPM #    Approved Key Performance Measures (KPMs)
+1        Average initial response time, measured in business days, to LTCO non-referred cases. -
+2        Average time, measured in business days, to close LTCO non-referred cases. -
+3        Percent of NF and ALF/RCF facilities to which a Long-Term Care Certified Ombudsman is assigned. -
+4        Percent of Adult Foster Homes receiving a visit by a staff member or volunteer of the LTCO program annually. -
+5        Long-Term Care Certified Ombudsman hours. -
+6        Comparison of the number of days all OPG protected persons were admitted inpatient to a hospital in the 1 year prior to OPG appointment with the number of days inpatient in the last reporting year. Target: 30% reduction in hospital days. -
+7        Comparison of the number of ER visits in the year prior to guardianship for all OPG protected persons with the number of ER visits in the reporting year. Target: 99% reduction in ER visits. -
+8        Comparison of the number of new crimes charged for all OPG protected persons in the year prior to guardianship with the number of new charges in the reporting year. Target: 99% reduction in criminal charges . -
+9        Average time first action taken in response to request for assistance from the RFO program. Target: 90% of requests for assistance will be responded to within 2 business days, excluding weekends and holidays. -
+10       Percentage of RFO homes and facilities visited annually. -
+11       Customer Service - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness, expertise and availability of information.
+red
+green
+yellow
+Performance Summary                                                                                                                   Green                                              Yellow                                                   Red
+= Target to -5%                                 = Target -5% to -15%                                    = Target > -15%
+Summary Stats:                                                                                                                          25%                                               12.50%                                                  62.50%
+KPM #1            Average initial response time, measured in business days, to LTCO non-referred cases. -
+* Upward Trend = negative result
+actual     target
+Report Year                                                         2021                       2022                         2023                         2024                         2025
+Average initial response time, measured in business days, to LTCO non-referred cases.
+Actual                                                         1                       1                                        1                            1                            1
+Target                                                        1.50                    1.50                                    1.50                         1.50                         1.50
+How Are We Doing
+This measure is the period of time elapsed between initial receipt of a complaint and the date of first action for cases within LTCO’s purview. This measure is specific to the LTCO program.
+Prior to 2019, this measure included all calendar days, including weekends and holidays. The measure now reflects actual business days.
+This year’s response time of 1.00 business days continues to reflect program expectations, which are that all complaints, whether made in person at the facility or by phone, be addressed
+through a first action as quickly as possible during business hours.
+Factors Affecting Results
+In the past year, to maintain our goal of quickly responding to complaints called into our 1-800#, the LTCO program has had to regularly assign a second Deputy Ombudsman staff to help return case
+calls. The case volume through phone calls has continued to rise significantly in recent years. The LTCO program has historically assigned one of the 10 Deputy State Long Term Care Ombudsman
+staff persons to cover complaint calls coming in each day to our 1-800# during business hours. This long-standing practice has ensured that LTCO has a high level of expertise initially responding to
+1) address complaints almost as soon as they are made when made by phone, or 2) immediately refer a complaint to a volunteer Certified Ombudsman who is assigned to a facility from which a
+resident’s complaint is coming. But complex complaints coming in via our hotline have increased to the point of needing additional staff time on the phone calls – which directly impacts LTCO staff’s
+ability to fully support volunteers and visit facilities.
+This measure has consistently remained at 1.00 in recent years. This response rate reflects the expectations of the program’s timely response to concerns expressed on behalf of Oregonians living in
+care facilities.
+KPM #2              Average time, measured in business days, to close LTCO non-referred cases. -
+* Upward Trend = negative result
+actual    target
+Report Year                                                          2021                        2022                         2023                          2024                         2025
+Average time, measured in business days, to close LTCO non-referred cases.
+Actual                                                      24                                     22                            24                           29                            31
+Target                                                      25                                     17                            17                           17                            17
+How Are We Doing
+This measure is the period of time between intake date of a case/complaint and the time the case is closed by staff or volunteers. It is specific to the LTCO program.
+The 2022 reporting year was the first year with a new target of 17 business days, down from a target of 25 business days.
+The measure of 31 days this year falls outside of the current and old target. LTCO believes this increase in the completion of a case is a reflection of an increase in the complexity of cases, and
+a decrease in easier to resolve complaints, in recent years.
+Factors Affecting Results
+There are some potential factors leading to this need of additional days to close a case. Specifically, our overall in-person visits to facilities – where many cases can be closed more quickly – ranged in
+a 400-600 total visits per month during this reporting year. Prior to the pandemic, our volunteers averaged over 1,000 visits to facilities per month. The significant decrease in in-person visits has a
+direct impact on the average length of time for cases worked. In part, with volunteer Ombudsmen not visiting residents as frequently, the easier casework that often arises from visits are not arising as
+frequently. Rather, a larger volume of cases coming to LTCO are coming in via phone calls, and are the generally more complex cases that take more time to work. It is our belief that the proportion of
+complex cases has increased, which has caused an increase in the length of time spent on individual cases.
+KPM #3          Percent of NF and ALF/RCF facilities to which a Long-Term Care Certified Ombudsman is assigned. -
+* Upward Trend = positive result
+actual    target
+Report Year                                                         2021                       2022                         2023                         2024                         2025
+Percent of NF and ALF/RCF facilities to which a Long-Term Care Certified Ombudsman is assigned.
+Actual                                                      44%                      37%                                      35%                          33%                          31%
+Target                                                      70%                      70%                                      70%                          70%                          70%
+How Are We Doing
+One of the best reflections of how LTCO provides its services to Oregonians is through regular visits to single care facilities, which only occurs when a volunteer Certified Ombudsman can be assigned
+to the facility for regular visits. LTCO’s goal continues to be for a volunteer Certified Ombudsman to be assigned to at least 70% of long-term care facilities in Oregon.
+Prior to 2020, LTCO regularly had sufficient numbers of trained and certified volunteers for approximately 60% coverage. However, the COVID pandemic considerably slowed abilities to retain existing
+volunteers and recruit new volunteers. Recruitment and training efforts have continued to expand, but overall volunteer recruitment and retention has consistently been more difficult since the
+pandemic.
+Factors Affecting Results
+In the past few years, volunteer recruitment vs. attrition has stabilized to a near even rate. So our total number of volunteers appears to have remained consistent. However, newer volunteers do not
+cover the same number of facilities as seasoned volunteers as they learn the role of a Certified Ombudsman volunteer. The result is that still fewer facilities have an assigned Ombudsman volunteer
+regularly visiting.
+Despite these factors, the agency continues to recommit itself to supporting Oregonians through our foundation of community volunteers.
+KPM #4         Percent of Adult Foster Homes receiving a visit by a staff member or volunteer of the LTCO program annually. -
+* Upward Trend = positive result
+actual    target
+Report Year                                                         2021                        2022                         2023                          2024                         2025
+Percent of Adult Foster Homes receiving a visit by a staff member or volunteer of the LTCO program annually.
+Actual                                                                                                                                                                                   23%
+Target                                                                                                                                                                                   25%
+How Are We Doing
+This measure reflects the number of licensed Adult Foster Homes (AFHs) visited by an LTCO staff or volunteer Ombudsman at least once during the state fiscal year. Such visits are often check-ins
+with the residents who live in the home to ensure that they continue to be aware of the LTCO program should they have any concerns regarding their care that can be addressed by LTCO. Of the
+approximately 1,400 AFHs that fall under LTCO’s purview, 23% of the homes received a visit this past fiscal year.
+Factors Affecting Results
+A large majority of the state-licensed AFHs covered by LTCO reside in the Portland metro counties of Clackamas, Washington, and Multnomah, with approximately 900 homes in these counties. With
+only 3 staff primarily covering these counties, and with LTCO’s decrease in volunteer numbers, a significant focus for incorporating visits to AFHs is in investigating actual complaints and concerns
+conveyed to LTCO. In regions of the state where the numbers of AFHs are significantly lower, LTCO more easily approaches near 100% visitation to AFHs to ensure residents in those areas maintain
+awareness of LTCO as a resource.
+If possible, within our provided resources, LTCO would ideally visit all AFHs at least once annually, but additional staff would be needed to accomplish that goal. The metric’s target of 25% though is
+achievable within current resources and will continue to be the minimum for the LTCO program moving forward.
+KPM #5                         Long-Term Care Certified Ombudsman hours. -
+* Upward Trend = positive result
+actual     target
+Report Year                                                          2021                        2022                          2023                         2024                          2025
+Long-Term Care Certified Ombudsman hours.
+Actual                                                                7,816                      12,183                        14,490                       13,473                        13,291
+Target                                                                29,000                     29,000                        29,000                       29,000                        29,000
+How Are We Doing
+This total consists of all the hours LTCO volunteers spend in long-term care facilities, recruiting new volunteers, and serving on the agency advisory committee.
+Note that the target for this measure increased from 22,000 prior to 2016 to the current target of 29,000, with a planned decrease to 20,000 for 2026 given the impact the COVID pandemic has
+had on volunteerism in the LTCO role.
+Prior to the pandemic, performance had ranged from a low of 22,984 in 2011 to a high of 29,438 in 2017 when the program approached a high of nearly 200 Certified Ombudsman volunteers.
+Factors Affecting Results
+The past 5 reporting years reflect a patterned decrease in volunteer hours due to the ongoing impacts to the LTCO volunteer program following the COVID pandemic. During the 2020-2022 years of
+the COVID pandemic, LTCO’s total number of volunteers dropped considerably.
+Each volunteer is asked to visit their assigned facilities for a total of up to four hours per week. However, with our overall volunteer numbers down to their lowest numbers in over a decade, our total
+number of hours continue to be significantly lower than pre-pandemic.
+KPM #6 Comparison   of the number of days all OPG protected persons were admitted inpatient to a hospital in the 1 year prior to OPG appointment with the number of days inpatient in the last
+reporting year. Target: 30% reduction in hospital days. -
+* Upward Trend = negative result
+actual    target
+Report Year                                                       2021                       2022                         2023                         2024                        2025
+Oregon Public Guardian Program Hospitalizations
+Actual
+Target
+How Are We Doing
+This is a new KPM approved in 2025. OPG does not have data available to report. This KPM involves gathering historical data on OPG clients from the 1-year time period prior to when OPG working
+with them. Gathering all the data needed for all OPG clients will be a significant project that OPG will complete throughout this year and will have data available to report in 2026.
+Factors Affecting Results
+New KPM, no data is available to report.
+KPM #7 Comparison of the number of ER visits in the year prior to guardianship for all OPG protected persons with the number of ER visits in the reporting year. Target: 99% reduction in ER visits. -
+* Upward Trend = negative result
+actual    target
+Report Year                                                        2021                       2022                         2023                         2024                         2025
+Oregon Public Guardian Program ER visits
+Actual
+Target
+How Are We Doing
+This is a new KPM approved in 2025. OPG does not have data available to report. This KPM involves gathering historical data on OPG clients from the 1-year time period prior to when OPG working
+with them. Gathering all the data needed for all OPG clients will be a significant project that OPG will complete throughout this year and will have data available to report in 2026.
+Factors Affecting Results
+New KPM, no data is available to report.
+KPM #8 Comparison    of the number of new crimes charged for all OPG protected persons in the year prior to guardianship with the number of new charges in the reporting year. Target: 99% reduction
+in criminal charges . -
+* Upward Trend = negative result
+actual    target
+Report Year                                                       2021                       2022                        2023                        2024                         2025
+Oregon Public Guardian Program Criminal charges
+Actual
+Target
+How Are We Doing
+This is a new KPM approved in 2025. OPG does not have data available to report. This KPM involves gathering historical data on OPG clients from the 1-year time period prior to when OPG working
+with them. Gathering all the data needed for all OPG clients will be a significant project that OPG will complete throughout this year and will have data available to report in 2026.
+Factors Affecting Results
+New KPM, no data is available to report.
+KPM #9 Average time first action taken in response to request for assistance from the RFO program. Target: 90% of requests for assistance will be responded to within 2 business days, excluding
+weekends and holidays. -
+* Upward Trend = positive result
+actual    target
+Report Year                                                       2021                      2022                         2023                        2024                         2025
+Residential Facilities Ombudsman Program Complaint Response Time
+Actual                                                                                                                                                                             93%
+Target                                                                                                                                                                             90%
+How Are We Doing
+By responding to requests for assistance within two business days 92.6% of the time, RFO has exceeded this KPMs target by 2.6%. Note that the target of 2 business days to respond is set based on
+the current staffing levels allotted to the RFO program. Additional staff could allow for faster response times to residents in need of assistance.
+Factors Affecting Results
+Factors that contributed to meeting and exceeding the target for this metric [this achievement] include strong communication between the RFO team when new requests come in, strong relationships
+with residents, providers and case managers that allow RFO to quickly respond to people who are contacting us.
+KPM #10                       Percentage of RFO homes and facilities visited annually. -
+* Upward Trend = positive result
+actual     target
+Report Year                                                          2021                        2022                          2023                          2024                         2025
+Residential Facilities Ombudsman Program: Home/Facility Visits
+Actual                                                                                                                                                                                     25%
+Target                                                                                                                                                                                     30%
+How Are We Doing
+In the last fiscal year, RFO visited 25% of the facilities under its purview. This is 5% short of the targeted goal of visiting 30% of the homes in the RFO purview each year.
+Factors Affecting Results
+RFO could not meet this target because RFO has not had an increase in staffing since the program was created in 2013. Since that time, there has been a 56% increase in people living in RFO-
+covered facilities and an 85% increase in the number of RFO-covered facilities. This large increase in people served and facilities with the 2013 staffing levels makes it very difficult to reach the 30%
+target. However, within the current staffing levels, RFO has strategically restructured to a regional approach in an effort to increase visit numbers over the past year - which has proven successful to
+even achieve the 25% of homes/facilities visited.
+KPM #11 Customer   Service - Percent of customers rating their satisfaction with the agency's customer service as "good" or "excellent": overall customer service, timeliness, accuracy, helpfulness,
+expertise and availability of information.
+actual    target
+Report Year                                                        2021                        2022                         2023                         2024                         2025
+Accuracy
+Actual                                                              78%                         75%                           64%                          76%                          72%
+Target                                                              90%                         90%                           90%                          90%                          90%
+Helpfulness
+Actual                                                              89%                         84%                           70%                          80%                          84%
+Target                                                              90%                         90%                           90%                          90%                          90%
+Expertise
+Actual                                                              89%                         83%                           73%                          82%                          85%
+Target                                                              90%                         90%                           90%                          90%                          90%
+Overall
+Actual                                                              85%                         83%                           66%                          80%                          76%
+Target                                                              90%                         90%                           90%                          90%                          90%
+Timeliness
+Actual                                                              87%                         82%                           74%                          83%                          80%
+Target                                                              90%                         90%                           90%                          90%                          90%
+Availability of Information
+Actual                                                              76%                         77%                           67%                          75%                          71%
+Target                                                              90%                         90%                           90%                          90%                          90%
+How Are We Doing
+This measure tabulates the results of on-line responses to an anonymous survey. This year’s measures are 76% for Overall Experience, 80% for Timeliness, 72% for Accuracy, 84% for Helpfulness,
+85% for Expertise, and 71% for Availability of Information.
+Note that this measure reflects only feedback provided regarding the LTCO program. The survey responses are being expanded to include the OPG and RFO programs for our 2026 reporting year.
+Factors Affecting Results
+This is a difficult measure for the LTCO program to gain measurable data reflective of our work with the consumer who is our focus, which is the resident in a care facility or home. The biggest
+challenge is obtaining feedback from potentially vulnerable seniors and people with disabilities who are residents of care settings and who often do not have the capacity or access for responding to
+questions and surveys.
+Currently LTCO has a survey attached to all electronic communications for individuals to complete. Thus, the data reflected in this measure is more a reflection of individuals who completed the survey
+but who are not the focus of LTCO services, which is, again, the resident of care facilities and homes. Non-resident individuals interacting with LTCO often have wishes that can be different or
+contradictory to those wishes of the resident, resulting in lower satisfaction ratings in working with LTCO.

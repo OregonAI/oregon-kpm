@@ -51,6 +51,7 @@ from __future__ import annotations
 
 import argparse
 import re
+import subprocess
 import sys
 import time
 import urllib.error
@@ -133,6 +134,51 @@ def is_page_number(line: str, npages: int) -> bool:
         len(s) <= 16 and npages > 1
 
 
+def looks_letter_spaced(text: str) -> bool:
+    """Did the extractor put a space between EVERY character?
+
+        'A n n u a l  P e r f o r m a n c e  P r o g r e s s  R e p o r t'
+
+    Four Long-Term Care Ombudsman reports come out of pypdf like this. They are not scans
+    and not corrupt -- the text layer is complete and the anchors are all present under the
+    space-stripped comparison, so ingestion accepted them. Stage 3 could not read one line:
+    `Report Year` never matches, the year run never starts, and all four documents
+    contributed zero rows to the series while looking perfectly healthy.
+
+    Collapsing the spaces in the string is NOT a fix. Word boundaries use the same single
+    space as letter boundaries, so 'L o n g T e r m' collapses to 'LongTerm' and
+    '2 0 1 9 2 0 2 0' to '20192020' -- the years would have to be re-split by guessing.
+    Re-extracting with a different engine recovers the real spacing instead of inventing it.
+    """
+    toks = text.split()
+    if len(toks) < 50:
+        return False
+    return sum(1 for t in toks if len(t) == 1) / len(toks) > 0.6
+
+
+def pdftotext_pages(pdf_path: Path) -> list[str] | None:
+    """Poppler's extractor, used ONLY as a fallback. Returns None if it is unavailable.
+
+    `-layout` IS REQUIRED, not a preference. Plain `pdftotext` emits this table in column
+    order rather than reading order, interleaving the legend into the middle of it:
+
+        actual / Report Year / target / 2021 / 2022 / 2023 / 2024 / 2025
+
+    so the year run starts on `target`, finds no year, and the block parses to nothing --
+    the same zero-row outcome as the letter-spacing it was called in to fix. `-layout`
+    preserves x-positions, which puts the legend on its own line and the years inline after
+    `Report Year`, the layout Stage 3 already reads.
+    """
+    try:
+        r = subprocess.run(["pdftotext", "-layout", str(pdf_path), "-"],
+                           capture_output=True, timeout=180)
+    except (FileNotFoundError, subprocess.TimeoutExpired):
+        return None
+    if r.returncode != 0:
+        return None
+    return r.stdout.decode("utf-8", "replace").split("\f")
+
+
 def extract_text(pdf_path: Path) -> tuple[str, str]:
     """Returns (cleaned full text, raw first-page text).
 
@@ -142,6 +188,16 @@ def extract_text(pdf_path: Path) -> tuple[str, str]:
     """
     reader = PdfReader(str(pdf_path))
     raw_pages = [(p.extract_text() or "") for p in reader.pages]
+
+    # Fall back to poppler when pypdf letter-spaces the whole document, and ONLY then --
+    # pypdf stays the extractor of record for all 779, so this cannot quietly change the
+    # text of documents that were already fine. Verified on the fallback's own output: if
+    # poppler is missing or letter-spaces it too, keep pypdf's text and let Stage 3 report
+    # the block as unparsed rather than substitute an untested extraction.
+    if looks_letter_spaced("\n".join(raw_pages)):
+        alt = pdftotext_pages(pdf_path)
+        if alt and not looks_letter_spaced("\n".join(alt)):
+            raw_pages = alt
     pages = [t.splitlines() for t in raw_pages]
     head, foot = page_furniture(pages)
     out: list[str] = []

@@ -71,8 +71,35 @@ REPORTS = ROOT / "reports"
 SNAPSHOTS = ROOT / "_meta" / "snapshots"
 OUT = ROOT / "_meta" / "series.json"
 
-KPM_HEAD = re.compile(r"^KPM #(\d+)[ \t]*$", re.M)
+# A KPM heading. The number may be followed by end-of-line, OR by the measure title on the
+# SAME line -- 24 documents do the latter, and 10 of them put EVERY heading inline, so the
+# original `[ \t]*$` found no blocks at all in them and the whole document produced no rows.
+# `KPM ?#` because some drop the space (`KPM#2 Traffic Incident Management`).
+#
+# THE UPPERCASE LOOKAHEAD IS LOAD-BEARING, not decoration. `KPM #\d+\b` alone also matches
+# PROSE that cites a measure mid-sentence, and two documents do exactly that:
+#
+#     appr-dlcd-2024        "KPM #14 documents how much land has been removed from ..."
+#     appr-dor-2017-09-29   "KPM #1 for more details). Contingency planning for ..."
+#
+# Both would have opened a spurious block that swallowed the narrative following it. A real
+# heading is followed by a title, which is capitalised; a citation is followed by a lowercase
+# verb or preposition. Measured across all 779 snapshots: +151 headings, 24 documents, and
+# zero prose matches remaining.
+#
+# The page-1 summary table header `KPM# Approved Key Performance Measures (KPMs)` cannot
+# match either way -- there is no digit after the `#`.
+KPM_HEAD = re.compile(r"^KPM ?# ?(\d+)(?:[ \t]*$|[ \t]+(?=[A-Z]))", re.M)
 YEAR = re.compile(r"^((?:19|20)\d{2})$")
+# The label that opens the year run. `Metric` is the SAME layout under a different word, used
+# by 10 RY2016 documents (LUBA, PUC, BOLI, SoS, ODF, OPRD, OMB, OTLB, OBMI ...). The parser
+# walked off the end of every one of those blocks and returned None, discarding 615 complete,
+# unambiguous, full-length value runs -- not a truncation, an entire layout unread.
+#
+# The negative lookahead matters: these documents ALSO print `Metric Value` as a column
+# heading further down, and matching that as the start of the year run would begin the run in
+# the wrong place.
+SERIES_HEAD = re.compile(r"^(?:Report Year|Metric(?! +Value))", re.I)
 DCP = re.compile(r"Data Collection Period[:\s]*(.*)", re.I)
 STOP = re.compile(r"^(How Are We Doing|About the Targets|Factors Affecting)", re.I)
 # A value cell: a number, a percentage, a currency amount, or an EXPLICIT NON-VALUE the
@@ -110,7 +137,7 @@ def parse_block(lines: list[str]) -> dict | None:
     # --- header: title lines until Data Collection Period or Report Year
     while i < len(lines):
         l = lines[i].strip()
-        if re.match(r"^Report Year", l) or DCP.search(l):
+        if SERIES_HEAD.match(l) or DCP.search(l):
             break
         if l and not STOP.match(l):
             title.append(l)
@@ -119,7 +146,7 @@ def parse_block(lines: list[str]) -> dict | None:
     if i < len(lines) and DCP.search(lines[i]):
         d = DCP.search(lines[i]).group(1).strip()
         j = i + 1
-        while j < len(lines) and not re.match(r"^Report Year", lines[j].strip()) \
+        while j < len(lines) and not SERIES_HEAD.match(lines[j].strip()) \
                 and not YEAR.match(lines[j].strip()) and lines[j].strip():
             if lines[j].strip().lower() not in LABELS:
                 d += " " + lines[j].strip()
@@ -129,7 +156,7 @@ def parse_block(lines: list[str]) -> dict | None:
         dcp = re.sub(r"\s+", " ", d).strip(" -") or None
         i = j
     # --- the year run, either inline after the label or one per line
-    while i < len(lines) and not re.match(r"^Report Year", lines[i].strip()):
+    while i < len(lines) and not SERIES_HEAD.match(lines[i].strip()):
         i += 1
     if i >= len(lines):
         return None
@@ -172,7 +199,10 @@ def parse_block(lines: list[str]) -> dict | None:
                 runs.append(cur)
                 cur = {}
             continue
-        if l and not VALUE.match(l) and len(l) < 120:
+        # `Metric Value` is a COLUMN HEADING in the Metric-layout documents, printed between
+        # the year run and the first Actual. Left alone it becomes pending_label and every
+        # one of those measures is filed under a submeasure the agency never named.
+        if l and not VALUE.match(l) and len(l) < 120 and l.lower() != "metric value":
             pending_label = l
         i += 1
     if cur.get("actual"):
