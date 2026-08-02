@@ -9,10 +9,10 @@ jobs:
     permissions:
       contents: write
       issues: write
-    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.16.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.19.0
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
-      toolkit-ref: v1.16.0
+      toolkit-ref: v1.19.0
 
   # FULL-CORPUS validation. ci.yml only ever validates files CHANGED in a PR,
   # which leaves two real holes:
@@ -28,12 +28,12 @@ jobs:
   # the full corpus for schedule/workflow_dispatch; without these two jobs that
   # branch is dead code in every corpus built from this template.
   full-frontmatter:
-    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.16.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.19.0
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
-      toolkit-ref: v1.16.0
+      toolkit-ref: v1.19.0
   full-provenance:
-    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.16.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.19.0
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
-      toolkit-ref: v1.16.0
+      toolkit-ref: v1.19.0
