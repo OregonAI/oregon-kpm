@@ -44,7 +44,9 @@ COPY . .
 RUN python3 -c "\
 from corpus_toolkit import config as config_mod; \
 from corpus_toolkit.mcp.framework import CorpusFramework; \
-CorpusFramework(config_mod.load('_meta/corpus.yml')).ensure_index()"
+CorpusFramework(config_mod.load('_meta/corpus.yml')).ensure_index()" \
+ && python3 -c "import corpus_toolkit.mcp.server" \
+ && corpus-mcp-serve --help >/dev/null
 EXPOSE 8000
 
 # --path and --public-hostname both matter behind the tunnel and are easy to omit:
