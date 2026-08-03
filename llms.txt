@@ -1,6 +1,6 @@
 # Oregon Key Performance Measures — Annual Performance Progress Reports
 
-> Non-authoritative, AI-friendly reference for The targets, actuals, and green/yellow/red assessments Oregon state agencies report annually to the Legislature as Annual Performance Progress Reports (APPRs), against their legislatively approved Key Performance Measures. This corpus carries whether appropriated money produced the outcome an agency agreed to — the counterpart to oregon-budget, which carries what was appropriated and spent..
+> Non-authoritative, AI-friendly reference for The targets, actuals, and green/yellow/red assessments Oregon state agencies report annually to the Legislature as Annual Performance Progress Reports (APPRs), against their legislatively approved Key Performance Measures. This corpus carries whether appropriated money produced the outcome an agency agreed to — the counterpart to oregon-budget, which carries what was appropriated and spent.
 > Full verbatim text of jurisdiction-authored documents is included in-repo;
 > third-party materials are summarized with links to official sources.
 > Always verify against the authoritative source linked in each document.
@@ -12,7 +12,8 @@
 
 ## Contents
 
-<!-- One annotated link per knowledge body / index, e.g.
-     - `[Title](path/_index.md)`: when an agent should consult it
-     Written as inline code rather than a live link: lychee checks llms.txt by
-     name, and an example path that does not exist would fail CI on day one. -->
+- `[Performance reports](reports/)`: one document per agency Annual Performance Progress Report — the agency's own reported KPM targets and actuals, as submitted to the Legislature. Every value is the agency's claim, not an independent finding.
+- `[KPM time series](_meta/series.json)`: measure-level rows extracted from the committed report text across years, with restatements and conflicts recorded rather than reconciled. The green/yellow/red `assessment` is deliberately absent — it is a graphic that does not survive text extraction.
+- `[Agency crosswalk](_meta/agency-crosswalk.yml)`: report-agency names mapped to canonical platform agency identities — consult before joining outcomes to `oregon-budget` spending; unresolved names live in `_meta/unresolved-agencies.md`.
+- `[Source manifest](_meta/source-manifest.yml)`: every upstream APPR this corpus consumes, human-approved before ingestion.
+- `[Authority graph](_meta/graph.json)`: document relationships feeding `graph_neighbors` and `authority_chain`.
