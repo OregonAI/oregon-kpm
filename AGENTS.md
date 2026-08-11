@@ -186,3 +186,20 @@ evidence the words are on the page. It is NOT evidence they were read correctly,
 engines can misread the same smudged digit identically. Record the engines, both
 agreement rates and the dictionary ratio in `conversion_notes`, end with
 `NOT human-verified`, and warn the reader in the document body.
+
+## Agent skills
+
+### Issue tracker
+
+GitHub Issues on `OregonAI/oregon-kpm`, via the `gh` CLI. See
+`docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+The five canonical roles, each label string equal to its name. See
+`docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
+`docs/agents/domain.md`.
