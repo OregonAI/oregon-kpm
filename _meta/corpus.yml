@@ -54,6 +54,24 @@ plugins:
   # serves keyword-only, silently. That is the documented sharp edge, so the compose
   # healthcheck asserts availability rather than trusting a green container.
   semantic_search_module: "corpus_toolkit.semantic.search"
+
+  # WHICH FRONTMATTER KEY CARRIES THE REGISTRY SLUG (corpus-toolkit>=1.28.0).
+  #
+  # `agency_registry_slug` is written by src/link_agency_registry.py from
+  # _meta/agency-crosswalk.yml, so the crosswalk stays owned here and its result is
+  # materialised into every document -- the toolkit reads a resolved slug and never learns
+  # to read a crosswalk. Present on 785 of 785 documents; measured 0 unattributed.
+  #
+  # NOT `agency`, which is the cover-page name ("Department of Geology and Mineral
+  # Industries"), and not `agency_key`, which is this corpus's own collapsed identity
+  # ("geology-industries-mineral"). Only `agency_registry_slug` names an entry in
+  # executive-regulatory-frameworks' registry, which is what a cross-corpus caller joins on.
+  #
+  # Declaring it is what makes `documents_by_agency(slug)` answer here at all: without it
+  # every document resolves to an empty slug, because this corpus has no issuing-body-scoped
+  # content root for the toolkit to derive one from. It is the last thing standing between
+  # the M3 crosswalk work and corpus-gateway's `agency_profile(slug)`.
+  issuing_body_slug_field: "agency_registry_slug"
   citation_module: "src.citation_schemes"      # registers `appr`, plus outbound ORS/OAR
   # snapshot_slice_module: "src.slicing:slice" # (doc_id, snapshot_id, raw_text) -> str
   # issuing_body_registry: "_meta/catalog/issuing-bodies.yml"
