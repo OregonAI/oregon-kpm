@@ -16,7 +16,7 @@
 # Two precedents: v1.10.0 added `audit_report` for oregon-audits and v1.12.0 added
 # `federal_instrument` for federal-reference. A new corpus needing a doc_type release is
 # the norm here, not a surprise.
-corpus-toolkit[mcp,semantic] @ git+https://github.com/OregonAI/corpus-toolkit@v1.27.0
+corpus-toolkit[mcp,semantic] @ git+https://github.com/OregonAI/corpus-toolkit@v1.28.0
 pyyaml
 
 # src/ingest_kpm.py extracts the APPR PDFs (Stage 2). Same extractor oregon-audits and
