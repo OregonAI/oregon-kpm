@@ -5,7 +5,14 @@ note: 'Crosswalk from this corpus''s derived agency_key to the executive-regulat
   An entry under `unmapped` is a DECISION with a stated reason, never a blank: "we looked and there
   is no counterpart" and "nobody has looked yet" must not be the same state. Many keys mapping to
   one slug is expected and correct -- an agency that renamed itself appears under both names across
-  thirteen reporting years.'
+  thirteen reporting years. basis: exact means at least one name the reports STATE for that
+  agency_key is identical to the registry entry''s `oar_name` after mechanical normalisation
+  (case, punctuation, comma-inversion, a leading "Oregon"); anything more is an alias or a
+  successor and must say why in prose. THE FIELD IS NAMED ON PURPOSE: ERF#168 promotes `name` to
+  the statutory name and leaves the OAR chapter title in `oar_name` (their ADR 0003), so "matches
+  the registry name" stops being one claim. --verify-registry checks every exact claim against
+  `oar_name` and prints how many hold; any that do not are listed there for a reviewer,
+  and the count is deliberately not repeated here where it would go stale.'
 registry_corpus: executive-regulatory-frameworks
 registry_source: https://github.com/OregonAI/executive-regulatory-frameworks/blob/main/_meta/catalog/agencies.yml
 retrieved: '2026-08-01'

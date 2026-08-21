@@ -2,7 +2,7 @@
 """Crosswalk this corpus's agencies to the ERF agency registry, and keep it honest.
 
   python3 src/link_agency_registry.py --check              # CI: committed data only
-  python3 src/link_agency_registry.py --verify-registry    # local: slugs exist in ERF
+  python3 src/link_agency_registry.py --verify-registry    # local: slugs + exact-basis vs ERF
   python3 src/link_agency_registry.py --unresolved-report  # human work list
 
 WHY A CROSSWALK AND NOT A CITATION SCHEME. `siblings:` resolution is exact lookup of a
@@ -97,6 +97,93 @@ def registry_slugs(path: Path) -> set[str]:
     return {o["slug"] for o in data.get("organizations") or [] if o.get("slug")}
 
 
+def registry_oar_names(path: Path) -> dict[str, str]:
+    """slug -> oar_name, the registry string this crosswalk's `exact` claims are about.
+
+    ERF's ADR 0003 splits the registry's one name field in two: `name` becomes the body's
+    STATUTORY name, while `oar_name` keeps the OAR chapter title and "remains the string
+    OAR-derived joins must match". This crosswalk was built against the OAR chapter titles,
+    so `oar_name` is the side of that split its `basis: exact` entries were checked against.
+    Naming the field is the point: after ERF#168 "matches the registry name" is two claims,
+    and one that does not say which it means has stopped asserting anything.
+    """
+    data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    return {o["slug"]: o["oar_name"] for o in data.get("organizations") or []
+            if o.get("slug") and o.get("oar_name")}
+
+
+# --- BEGIN VERBATIM SHARED BLOCK (norm_variants / names_agree) -------------------------
+# Kept BYTE-IDENTICAL with the copy in oregon-audits/src/link_agency_registry.py, following
+# the convention src/federal_ids.py states: "copy it verbatim ... both sides then compute
+# the same [answers] by construction instead of by agreement". Both corpora define
+# `basis: exact` with the same four permitted moves, so they must normalise identically or
+# the same pair of names is exact in one repo and not the other. NOT yet covered by a
+# parity gate like the federal_ids.py one in .github/workflows/ci.yml -- if this block
+# grows a third copy, wire that gate before it drifts.
+def norm_variants(name: str) -> set[str]:
+    """Every reading the crosswalk note permits `basis: exact` to use.
+
+    The note lists the allowed moves as "case, punctuation, comma-inversion, a leading
+    Oregon" -- a SET of moves, not a pipeline that must apply all of them. A comma does two
+    different jobs in these strings: catalog inversion ("Administrative Services, Department
+    of") and a parent/child qualifier ("Secretary of State, Audits Division"). Inverting the
+    second is wrong and dropping the comma in the first is not enough, so both readings are
+    produced and a match on either is a match.
+
+    Written this way because forcing a single reading is a MEASURED bug, not a hypothetical:
+    always-invert reported 'Secretary of State Audits Division' as failing to match an
+    oar_name that is the same name with a comma in it.
+    """
+    n = name.strip().replace("\u2019", "'")
+    readings = {n.replace(",", " ")}
+    if "," in n:
+        head, tail = n.rsplit(",", 1)
+        readings.add(f"{tail.strip()} {head.strip()}")
+    out = set()
+    for r in readings:
+        r = " ".join(r.lower().replace(".", "").split())
+        for pre in ("oregon ", "state of oregon "):
+            if r.startswith(pre):
+                r = r[len(pre):]
+        out.add(r)
+    return out
+
+
+def names_agree(a: str, b: str) -> bool:
+    """True when two names are the same name under any reading the note permits."""
+    return bool(norm_variants(a) & norm_variants(b))
+# --- END VERBATIM SHARED BLOCK ---------------------------------------------------------
+
+
+def verify_exact_basis(cw: dict, keys: dict[str, set[str]],
+                       oar_names: dict[str, str]) -> list[str]:
+    """Entries claiming `basis: exact` where NO stated agency name matches the registry's
+    `oar_name` for the mapped slug.
+
+    `agency_key` is this corpus's own derived token ("advocate-public-records"), not a name,
+    so the thing an `exact` claim can be about is the agency names the reports actually
+    state -- which corpus_keys() already collects. Many keys map to one slug on purpose, and
+    a renamed agency states different names across reporting years, so ANY stated name
+    matching is enough.
+
+    REPORTED, NOT FAILED. A wrong `basis` does not break the join -- the join is the slug,
+    which verify_registry() checks and which ERF#168 does not touch -- it misdescribes why a
+    human accepted the mapping. Several of these are renames the vocabulary already has
+    better words for (`successor`, `alias`), and re-basing one is a curation decision with a
+    reviewer's name on it, not something a script should do while nobody is looking.
+    """
+    out = []
+    for k, v in sorted((cw.get("mapping") or {}).items()):
+        if not isinstance(v, dict) or v.get("basis") != "exact":
+            continue
+        want = oar_names.get(v.get("slug") or "")
+        stated = {n for n in keys.get(k, set()) if n}
+        if want is None or not any(names_agree(n, want) for n in stated):
+            out.append(f"{k!r} claims basis: exact but no stated name {sorted(stated)!r} "
+                       f"matches the registry's oar_name {want!r} for {v.get('slug')!r}")
+    return out
+
+
 def stamp_state(mapping: dict) -> tuple[int, int]:
     """(documents whose agency is mapped, of those, how many carry the stamp)."""
     want = stamped = 0
@@ -122,7 +209,7 @@ def check(cw: dict, keys: dict[str, set[str]]) -> list[str]:
     want, stamped = stamp_state(mapping)
     if want != stamped:
         bad.append(f"{want - stamped} document(s) have a mapped agency_key but no "
-                   f"agency_registry_slug — re-run `python3 src/ingest_kpm.py`")
+                   f"agency_registry_slug -- re-run `python3 src/ingest_kpm.py`")
 
     both = set(mapping) & set(unmapped)
     if both:
@@ -273,6 +360,18 @@ def main() -> int:
             print(f"FAIL  {p}", file=sys.stderr)
         print(f"{len(mapping)} mapped slug(s) checked against {len(slugs)} organizations "
               f"in {reg}.")
+
+        # The `exact` claims, checked against the registry field they are claims ABOUT.
+        # Listed rather than failed -- see verify_exact_basis().
+        oar_names = registry_oar_names(reg)
+        n_exact = sum(1 for v in mapping.values()
+                      if isinstance(v, dict) and v.get("basis") == "exact")
+        mislabelled = verify_exact_basis(cw, keys, oar_names)
+        for m in mislabelled:
+            print(f"REVIEW  {m}", file=sys.stderr)
+        print(f"{n_exact - len(mislabelled)}/{n_exact} basis: exact entries match the "
+              f"registry's oar_name; {len(mislabelled)} need a reviewer to re-base or "
+              f"re-word (not a join failure -- the join is the slug).")
         return 1 if problems else 0
 
     if args.unresolved_report:
@@ -280,7 +379,7 @@ def main() -> int:
         slugs = registry_slugs(reg) if reg else None
         REPORT_OUT.write_text(unresolved_report(cw, keys, slugs), encoding="utf-8")
         print(f"wrote {REPORT_OUT.relative_to(ROOT)}"
-              f"{'' if slugs else ' (no registry found — suggestions omitted)'}")
+              f"{'' if slugs else ' (no registry found -- suggestions omitted)'}")
         return 0
 
     ap.print_help()
