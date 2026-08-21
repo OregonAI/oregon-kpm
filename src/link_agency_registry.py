@@ -13,13 +13,17 @@ that index -- and agency identity is a frontmatter field, not a string an APPR c
 `register_scheme` can express this join. src/citation_schemes.py says the same thing about
 the budget join, for the same reason.
 
-WHY THE TABLE LIVES HERE AND NOT IN ERF. The precedent is
-`oregon-policy-repo/src/link_budget_codes.py`, which writes `budget_agency_code` INTO ERF's
-registry entries. That works for one consumer and scales badly: ERF would carry one external
-id per corpus that cites it, and `agency_key` is this corpus's own derived concept. ERF's own
-`_meta/agency-profiles.yml` is the counter-precedent -- a side-file keyed on registry slugs,
-owned by the thing that needs it. Correctness still belongs to ERF: --verify-registry
-resolves every slug against the real registry, and a slug this file invents is a failure.
+WHY THE TABLE LIVES HERE AND NOT IN ERF. The precedent is ERF's own
+`src/link_budget_codes.py` (`oregon-policy-repo/src/link_budget_codes.py` in a checkout under
+ERF's former repo name -- the same two names REGISTRY_CANDIDATES below probes for), which
+writes `das_agency_number` INTO ERF's registry entries. ERF #175 renamed that field from
+`budget_agency_code` and #177 removes the old name, so `das_agency_number` is the one a
+reader can still look up. That works for one consumer and scales badly: ERF would carry one
+external id per corpus that cites it, and `agency_key` is this corpus's own derived concept.
+ERF's own `_meta/agency-profiles.yml` is the counter-precedent -- a side-file keyed on
+registry slugs, owned by the thing that needs it. Correctness still belongs to ERF:
+--verify-registry resolves every slug against the real registry, and a slug this file
+invents is a failure.
 
 WHAT IS DELIBERATELY DIFFERENT FROM link_budget_codes.py's audit(). That one fails when two
 budget codes claim one slug, because two codes claiming one agency would silently merge
