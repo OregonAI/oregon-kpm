@@ -14,9 +14,11 @@ that index -- and agency identity is a frontmatter field, not a string an APPR c
 the budget join, for the same reason.
 
 WHY THE TABLE LIVES HERE AND NOT IN ERF. The precedent is
-`oregon-policy-repo/src/link_budget_codes.py`, which writes `budget_agency_code` INTO ERF's
-registry entries. That works for one consumer and scales badly: ERF would carry one external
-id per corpus that cites it, and `agency_key` is this corpus's own derived concept. ERF's own
+`oregon-policy-repo/src/link_budget_codes.py`, which writes `das_agency_number` INTO ERF's
+registry entries -- ERF #175 renamed that field from `budget_agency_code` and #177 removes
+the old name, so `das_agency_number` is the one a reader can still look up. That works for
+one consumer and scales badly: ERF would carry one external id per corpus that cites it, and
+`agency_key` is this corpus's own derived concept. ERF's own
 `_meta/agency-profiles.yml` is the counter-precedent -- a side-file keyed on registry slugs,
 owned by the thing that needs it. Correctness still belongs to ERF: --verify-registry
 resolves every slug against the real registry, and a slug this file invents is a failure.
