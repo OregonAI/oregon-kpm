@@ -9,6 +9,11 @@ jobs:
     permissions:
       contents: write
       issues: write
+      # v1.30.0 opens a PR for STATUS.md instead of pushing to
+      # this protected branch. A CALLER's permissions are the
+      # ceiling for a reusable workflow, so the toolkit
+      # declaring this is not enough on its own.
+      pull-requests: write
     uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.30.0
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
