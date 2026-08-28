@@ -64,7 +64,7 @@ from pypdf import PdfReader
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from corpus_toolkit.repo import hash_snapshot           # noqa: E402
+from corpus_toolkit.repo import content_hash, hash_snapshot           # noqa: E402
 
 MANIFEST = ROOT / "_meta" / "source-manifest.yml"
 SNAPSHOTS = ROOT / "_meta" / "snapshots"
@@ -118,6 +118,25 @@ def slug(text: str) -> str:
     s = re.sub(r"\.pdf$", "", text, flags=re.I).lower()
     s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
     return re.sub(r"-{2,}", "-", s) or "untitled"
+
+
+def _write_manifest(manifest_data: dict) -> None:
+    """Serialize the (possibly-updated) manifest back to disk.
+
+    `_id` is an in-memory convenience main() stamps onto every source dict (see slug())
+    and must never reach the committed file -- it is not part of the schema and
+    src/enumerate_kpm.py does not write it either. Stripped here, not at the mutation
+    site, so callers never have to remember to do it themselves.
+
+    Same yaml.safe_dump() options as src/enumerate_kpm.py uses, so a source untouched by
+    this run round-trips byte-for-byte rather than picking up incidental reformatting
+    that would show up as noise in a diff meant to carry exactly one field's change.
+    """
+    clean = dict(manifest_data)
+    clean["sources"] = [{k: v for k, v in s.items() if k != "_id"}
+                        for s in manifest_data["sources"]]
+    MANIFEST.write_text(
+        yaml.safe_dump(clean, sort_keys=False, allow_unicode=True, width=100))
 
 
 def fetch_pdf(url: str, dest: Path, refetch: bool) -> None:
@@ -575,7 +594,13 @@ def main() -> int:
                     help="OCR PDFs that have no text layer (needs ocrmypdf + tesseract-ocr)")
     args = ap.parse_args()
 
-    sources = yaml.safe_load(MANIFEST.read_text())["sources"]
+    # Loaded once, kept in full (not just the filtered subset below), so a source's
+    # dict here is the SAME object that ends up in manifest_data["sources"] -- mutating
+    # `src["sha256"]` in the ingestion loop mutates this list too, and _write_manifest()
+    # can serialize it back out with everything else (including sources this run did
+    # not touch) preserved exactly as loaded.
+    manifest_data = yaml.safe_load(MANIFEST.read_text())
+    sources = manifest_data["sources"]
     for s in sources:
         s["_id"] = slug(s["filename"])
 
@@ -677,6 +702,20 @@ def main() -> int:
                                disagrees, text_source, ocr_provenance),
                 encoding="utf-8")
             ok += 1
+            # oregon-kpm#43 ("Key interfaces -> The ingester"): keep the drift-detection
+            # baseline current as of what was ACTUALLY ingested, rather than leaving it
+            # to whatever the last scheduled `corpus-detect-changes --record-baseline`
+            # run happened to see. Same function the detector itself compares against
+            # (`content_hash()`), over the JUST-FETCHED raw bytes -- a DIFFERENT stream
+            # from `sha` above (hash_snapshot() over the committed .txt, which becomes
+            # frontmatter source_sha256). Both are legitimate; they answer different
+            # questions. See _meta/source-manifest.yml note 6. Written back immediately,
+            # not batched to the end of the run, so a partial run (--limit, a later
+            # source failing) still persists the baselines it did establish.
+            baseline = content_hash(pdf.read_bytes(), "pdf")
+            if src.get("sha256") != baseline:
+                src["sha256"] = baseline
+                _write_manifest(manifest_data)
             flag = "  ANCHORS:" + ",".join(missing) if missing else ""
             print(f"  [{i}/{len(sources)}] {rid}  RY{year}  {len(text):>7,} chars{flag}")
             if fresh:

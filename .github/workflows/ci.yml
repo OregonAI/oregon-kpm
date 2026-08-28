@@ -17,7 +17,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install pyyaml pytest
+      # PINNED, matching every other job's convention below -- a floating pytest/pyyaml
+      # can turn this gate red for a reason that has nothing to do with the corpus
+      # (oregon-kpm#43 review). Kept in sync with requirements.txt by hand; both pin the
+      # same two versions for the same reason.
+      - run: pip install pyyaml==6.0.2 pytest==9.1.1
       - run: pytest tests/ -v
 
   frontmatter:
@@ -71,8 +75,9 @@ jobs:
   #
   # What this corpus commits, and what covers it:
   #
-  #   _meta/graph.json   src/build_graph.py         this job, every PR
-  #   STATUS.md          corpus-generate-status     this job, every PR
+  #   _meta/graph.json         src/build_graph.py         this job, every PR
+  #   STATUS.md                corpus-generate-status     this job, every PR
+  #   _meta/series.json        src/build_series.py        this job, every PR
   #
   # STATUS.md is also regenerated and committed by the weekly `drift` job in
   # scheduled.yml. That is a repair, not a gate: between Mondays a PR can merge a
@@ -83,8 +88,25 @@ jobs:
   # fall behind its own corpus in a way that damages a SIBLING repo's citation
   # resolution. Do not commit one and then gate it here; publish it instead.
   #
-  # ADD A STEP HERE FOR EVERY GENERATED FILE YOU COMMIT. A generated file with no step
-  # is the failure this whole job exists to prevent, and it is silent by construction.
+  # _meta/source-manifest.yml (src/enumerate_kpm.py) is ALSO deliberately absent from
+  # this job -- not an oversight, and not the same call as corpus-index.json above.
+  # Every file in the table is a PURE FUNCTION of what is already committed, so
+  # checking it costs nothing but CPU. source-manifest.yml is not: its `--check` must
+  # re-verify each candidate URL is still a reachable, public PDF -- ~830 live HEAD
+  # requests against oregonlegislature.gov today, several minutes, every PR. That is
+  # the exact cost the `links` job's `exclude-paths` above already opted this repo out
+  # of once ("the first run of this gate took over six minutes before being excluded").
+  # It also cannot be fully covered by a per-PR gate regardless of cost: upstream
+  # renaming or removing a source makes the manifest stale with NO file in this repo
+  # touched, so a PR-triggered check can miss the exact drift it exists to catch. See
+  # `source-manifest` in scheduled.yml, which runs it weekly for the same reason
+  # `drift` and the `full-*` jobs there run on a schedule rather than per PR.
+  #
+  # ADD A STEP HERE FOR EVERY GENERATED FILE YOU COMMIT, UNLESS regenerating it needs
+  # live network -- then it belongs in scheduled.yml instead, documented the way
+  # source-manifest.yml is above, not silently dropped. A generated file with no step
+  # ANYWHERE is the failure this whole job exists to prevent, and it is silent by
+  # construction.
   #
   # Note the checks are `--check` rather than `git diff --exit-code`: STATUS.md carries
   # a "Generated <date>" line, so a raw diff would fail every day for a reason that is

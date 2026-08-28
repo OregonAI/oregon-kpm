@@ -20,6 +20,7 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
+import pytest
 import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
@@ -46,6 +47,18 @@ class TestLoadRecordedShas:
         # An empty sha256 is not a recorded baseline -- there is nothing to carry
         # forward for it, and it must not overwrite a later non-empty value with "".
         assert "APPR_NEW_2025" not in recorded
+
+    def test_an_existing_but_unparseable_manifest_raises_rather_than_erasing(self, tmp_path):
+        """oregon-kpm#43 review: a manifest that exists but fails to parse must NOT be
+        treated the same as a manifest that does not exist yet. Before this fix,
+        `load_recorded_shas` swallowed `yaml.YAMLError` and returned `{}` -- which reads
+        as "nothing recorded" and would erase all 789 baselines on the next write. The
+        file being present means baselines almost certainly ARE recorded; the correct
+        response to not being able to read them is to abort, not to guess `{}`."""
+        manifest = tmp_path / "source-manifest.yml"
+        manifest.write_text("sources:\n  - id: foo\n  bad indent: [\n")
+        with pytest.raises(yaml.YAMLError):
+            ek.load_recorded_shas(manifest)
 
 
 class TestBuildCarriesBaselinesForward:
@@ -105,6 +118,28 @@ class TestBuildCarriesBaselinesForward:
         by_id = {s["id"]: s["sha256"] for s in data["sources"]}
         assert by_id["APPR_BOA_2016-10-07"] == sha_a
         assert by_id["APPR_ODF_2016-08-18_KPMs"] == sha_b
+
+    def test_a_recorded_baseline_with_no_rediscovered_source_is_reported_as_dropped(
+            self, monkeypatch, tmp_path, capsys):
+        """oregon-kpm#43 review: carry-forward is keyed on `id`, derived from the
+        upstream filename -- when a source is renamed or genuinely disappears, its
+        recorded baseline has nowhere to land this run. That loss must be printed by
+        count and name, not only implied by the "N will be carried forward" line going
+        quiet."""
+        manifest = tmp_path / "source-manifest.yml"
+        manifest.write_text(_manifest_yaml([
+            {"id": "APPR_BOA_2016-10-07", "sha256": "aa" * 32},
+            {"id": "APPR_RENAMED_OLD_2016", "sha256": "bb" * 32},
+        ]))
+        url = "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOA_2016-10-07.pdf"
+
+        self._run(monkeypatch, tmp_path, [url])
+
+        out = capsys.readouterr().out
+        assert "1 recorded baseline(s) had no rediscovered source and were dropped" in out
+        assert "APPR_RENAMED_OLD_2016" in out
+        assert "APPR_BOA_2016-10-07" not in out.split(
+            "had no rediscovered source and were dropped:", 1)[1]
 
     def test_manifest_header_states_what_sha256_means(self, monkeypatch, tmp_path):
         """oregon-kpm#43 acceptance criterion: the note must name the producing function

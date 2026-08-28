@@ -270,15 +270,21 @@ def load_recorded_shas(manifest_path: Path) -> dict[str, str]:
     wiping it back to `""` -- which is exactly how this corpus's drift detection went
     inert the first time: every source compared unequal to everything, forever.
 
-    Missing manifest (first-ever enumeration) or unparseable YAML returns `{}` --
-    nothing recorded yet, not an error; a first run must still produce a manifest.
+    Missing manifest (first-ever enumeration) returns `{}` -- nothing recorded yet, not
+    an error; a first run must still produce a manifest.
+
+    An EXISTING but unparseable manifest is a DIFFERENT failure and must NOT return `{}`
+    too (oregon-kpm#43 review). If the file is there, its 789 baselines almost certainly
+    are too -- silently treating "cannot parse" the same as "nothing recorded yet" would
+    carry forward nothing, and the next write would clear every `sha256` back to `""`
+    while `build()` prints the reassuring "0 recorded drift baseline(s) ... will be
+    carried forward". That is this exact bug, reproduced inside the function written to
+    prevent it. So a parse error is left to propagate and abort the run instead --
+    a human should look at a corrupt manifest, not have it quietly reset.
     """
     if not manifest_path.is_file():
         return {}
-    try:
-        data = yaml.safe_load(manifest_path.read_text(encoding="utf-8")) or {}
-    except yaml.YAMLError:
-        return {}
+    data = yaml.safe_load(manifest_path.read_text(encoding="utf-8")) or {}
     return {s["id"]: s["sha256"] for s in (data.get("sources") or [])
             if s.get("id") and s.get("sha256")}
 
@@ -325,6 +331,13 @@ def build(skip_sweep: bool = False, manifest_path: Path = MANIFEST) -> dict:
 
     print("==> verifying every candidate resolves to a public PDF")
     sources, unreachable = [], []
+    # Carry-forward is keyed on `id`, which is derived from the upstream FILENAME (trap
+    # 1: at least six naming conventions, and 41 URLs already sit under `unreachable:`
+    # below). When LFO renames a file, the old id's recorded baseline has nowhere to
+    # land -- it is dropped silently unless something says so. Track which recorded ids
+    # actually get carried forward so the ones that do not can be reported by count and
+    # by name, not just implied by "N will be carried forward" going quiet.
+    carried_ids: set[str] = set()
     for i, url in enumerate(sorted(urls), 1):
         code, ctype, size = verify(url)
         fn = urllib.parse.unquote(url.rsplit("/", 1)[-1])
@@ -357,11 +370,25 @@ def build(skip_sweep: bool = False, manifest_path: Path = MANIFEST) -> dict:
                 "why_relevant": "Agency-reported targets, actuals and assessments against "
                                 "legislatively approved Key Performance Measures.",
             })
+            if sid in recorded:
+                carried_ids.add(sid)
         if i % 25 == 0:
             print(f"    {i}/{len(urls)} verified")
         time.sleep(SLEEP)
 
     sources.sort(key=lambda s: (str(s["reporting_year"]), str(s["agency_code"]), s["id"]))
+
+    # oregon-kpm#43 review: report what carry-forward DROPS, not just what it keeps. A
+    # recorded id with no rediscovered source this run (most likely an upstream rename,
+    # per trap 1) loses its baseline with nothing printed unless this says so.
+    dropped_baselines = sorted(set(recorded) - carried_ids)
+    if dropped_baselines:
+        print(f"==> {len(dropped_baselines)} recorded baseline(s) had no rediscovered "
+              f"source and were dropped:")
+        for did in dropped_baselines[:20]:
+            print(f"    {did}")
+        if len(dropped_baselines) > 20:
+            print(f"    ... and {len(dropped_baselines) - 20} more")
 
     by_year = collections.Counter(str(s["reporting_year"]) for s in sources)
     unparsed = [s["filename"] for s in sources if not s["agency_code"] or not s["reporting_year"]]
@@ -395,8 +422,14 @@ def build(skip_sweep: bool = False, manifest_path: Path = MANIFEST) -> dict:
             "   `pdftotext -layout` text for a PDF with a text layer; the raw bytes when\n"
             "   extraction yields under 200 chars, e.g. an image-only scan). It is a\n"
             "   DIFFERENT function and a DIFFERENT input than frontmatter `source_sha256`\n"
-            "   (`hash_snapshot()`, over the committed `.txt`) — the two agree only for\n"
-            "   scans, where both fall back to raw bytes (oregon-kpm#43). Only\n"
+            "   (`hash_snapshot()`, over the committed `.txt`) — the two agree only when\n"
+            "   BOTH fall back to a raw-byte hash, which needs the committed `.txt` under\n"
+            "   200 normalized chars. NOT the same thing as \"it's a scan\": this corpus's\n"
+            "   six image-only scans all carry committed OCR text well over that\n"
+            "   threshold, so `hash_snapshot()` hashes the `.txt` on every one of them —\n"
+            "   measured 0/6 agreeing with `content_hash()` (oregon-kpm#43 review). Do\n"
+            "   NOT backfill this field from `source_sha256`; it is wrong for any PDF,\n"
+            "   scan or not, whose extracted/OCR'd text clears 200 chars. Only\n"
             "   `corpus-detect-changes --record-baseline` writes this field; this\n"
             "   enumerator only ever carries a recorded value forward by `id` and never\n"
             "   clears it — a source new to the manifest starts empty, same as before.\n"

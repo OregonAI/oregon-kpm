@@ -17,11 +17,19 @@
 # `federal_instrument` for federal-reference. A new corpus needing a doc_type release is
 # the norm here, not a surprise.
 corpus-toolkit[mcp,semantic] @ git+https://github.com/OregonAI/corpus-toolkit@v1.31.1
-pyyaml
+# PINNED, matching this file's convention everywhere else -- floating meant a PyYAML
+# release could turn every `safe_load`/`safe_dump` call red for a reason that has
+# nothing to do with the corpus (oregon-kpm#43 review).
+pyyaml==6.0.2
 
 # tests/ — unit tests for this repo's own src/ scripts (network edges faked; no toolkit
 # install required to run them). Not a corpus-toolkit dependency, just the runner.
-pytest
+#
+# PINNED for the same reason pyyaml above is: unit-tests in ci.yml installs this file
+# with no toolkit checkout involved, specifically so a test failure is never confused
+# with a toolkit issue. A floating `pytest` defeats that the moment pytest ships a
+# major version with a breaking collection or fixture change (oregon-kpm#43 review).
+pytest==9.1.1
 
 # src/ingest_kpm.py extracts the APPR PDFs (Stage 2). Same extractor oregon-audits and
 # oregon-records-retention use, so the page-furniture stripping is shared behaviour rather

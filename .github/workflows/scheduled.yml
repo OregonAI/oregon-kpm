@@ -42,3 +42,30 @@ jobs:
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
       toolkit-ref: v1.31.1
+
+  # oregon-kpm#43 review: _meta/source-manifest.yml is a committed generated file
+  # (src/enumerate_kpm.py) and needs a `--check` step SOMEWHERE, same rule ci.yml's
+  # `generated` job states for graph.json/STATUS.md/series.json. It runs here, not
+  # there -- see the note beside that job's table in ci.yml for why: unlike those
+  # three, checking this file means re-verifying ~830 candidate URLs are still live,
+  # reachable, public PDFs against oregonlegislature.gov, which is minutes of live
+  # network per run, not CPU on already-committed content. Weekly, alongside `drift`
+  # above, matches the cost this repo already accepts for that same host and catches
+  # the failure mode a per-PR gate cannot: upstream renaming or pulling a document
+  # makes this file stale with no file in THIS repo touched, so nothing PR-triggered
+  # would ever see it.
+  #
+  # No --skip-sweep: the sweep cache is gitignored on purpose (a network artifact, not
+  # a source of truth) and does not survive between Actions runs, so --skip-sweep
+  # would silently no-op into a full sweep here anyway. Run the real thing.
+  source-manifest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml==6.0.2
+      - name: source-manifest.yml must be current
+        run: python3 src/enumerate_kpm.py --check
