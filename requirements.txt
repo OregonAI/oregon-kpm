@@ -19,6 +19,10 @@
 corpus-toolkit[mcp,semantic] @ git+https://github.com/OregonAI/corpus-toolkit@v1.31.1
 pyyaml
 
+# tests/ — unit tests for this repo's own src/ scripts (network edges faked; no toolkit
+# install required to run them). Not a corpus-toolkit dependency, just the runner.
+pytest
+
 # src/ingest_kpm.py extracts the APPR PDFs (Stage 2). Same extractor oregon-audits and
 # oregon-records-retention use, so the page-furniture stripping is shared behaviour rather
 # than a third implementation.

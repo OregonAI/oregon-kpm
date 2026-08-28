@@ -2,6 +2,8 @@
 __pycache__/
 .venv/
 *.pyc
+.pytest_cache/
+.hypothesis/
 
 # Toolkit-managed caches. _meta/.cache/ is written by the MCP framework itself:
 # fts.db (an SQLite full-text index over every document) and siblings/ (cached

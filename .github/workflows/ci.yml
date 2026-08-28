@@ -5,6 +5,21 @@ on:
     branches: [main]
 
 jobs:
+  # oregon-kpm#43: src/enumerate_kpm.py's own unit tests. Deliberately independent of the
+  # `generated` job's toolkit checkout below -- these tests fake the network edges
+  # (sweep_rss/socrata_rows/verify) and need only pyyaml + pytest, so a change here is
+  # caught in seconds rather than waiting on the toolkit install.
+  unit-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml pytest
+      - run: pytest tests/ -v
+
   frontmatter:
     uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.31.1
     with:
