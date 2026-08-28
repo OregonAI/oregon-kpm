@@ -260,7 +260,36 @@ def parse_name(filename: str) -> dict:
             "year_source": None, "measure_status": status}
 
 
-def build(skip_sweep: bool = False) -> dict:
+def load_recorded_shas(manifest_path: Path) -> dict[str, str]:
+    """id -> the drift baseline already recorded for that source, for every id that has one.
+
+    `corpus-detect-changes --record-baseline` is the ONLY thing that is meant to WRITE
+    `sha256` (oregon-kpm#43) -- it is `content_hash()` of freshly fetched bytes, computed
+    by the toolkit, not derivable from anything in this file. This function only READS
+    what that tool already wrote, so a re-enumeration can carry it forward instead of
+    wiping it back to `""` -- which is exactly how this corpus's drift detection went
+    inert the first time: every source compared unequal to everything, forever.
+
+    Missing manifest (first-ever enumeration) returns `{}` -- nothing recorded yet, not
+    an error; a first run must still produce a manifest.
+
+    An EXISTING but unparseable manifest is a DIFFERENT failure and must NOT return `{}`
+    too (oregon-kpm#43 review). If the file is there, its 789 baselines almost certainly
+    are too -- silently treating "cannot parse" the same as "nothing recorded yet" would
+    carry forward nothing, and the next write would clear every `sha256` back to `""`
+    while `build()` prints the reassuring "0 recorded drift baseline(s) ... will be
+    carried forward". That is this exact bug, reproduced inside the function written to
+    prevent it. So a parse error is left to propagate and abort the run instead --
+    a human should look at a corrupt manifest, not have it quietly reset.
+    """
+    if not manifest_path.is_file():
+        return {}
+    data = yaml.safe_load(manifest_path.read_text(encoding="utf-8")) or {}
+    return {s["id"]: s["sha256"] for s in (data.get("sources") or [])
+            if s.get("id") and s.get("sha256")}
+
+
+def build(skip_sweep: bool = False, manifest_path: Path = MANIFEST) -> dict:
     # The RSS sweep is ~30 minutes of polite crawling and its result changes once a year.
     # Cache it so re-running for a PARSING change does not re-crawl a state web server,
     # and so `--skip-sweep` can iterate in seconds. Gitignored: it is a network artifact,
@@ -293,8 +322,22 @@ def build(skip_sweep: bool = False) -> dict:
             urls.add(normalise(f"https://www.oregonlegislature.gov{LIBRARY}{fn}"))
     print(f"==> {len(by_file)} exact filenames from Socrata; {len(urls)} candidates total")
 
+    # BEFORE any source is (re)built, so the loop below has something to carry forward
+    # instead of a hardcoded `""`. See load_recorded_shas() for why this file is never
+    # the one writing a baseline, only ever preserving one.
+    recorded = load_recorded_shas(manifest_path)
+    print(f"==> {len(recorded)} recorded drift baseline(s) in {manifest_path.name} "
+          f"will be carried forward")
+
     print("==> verifying every candidate resolves to a public PDF")
     sources, unreachable = [], []
+    # Carry-forward is keyed on `id`, which is derived from the upstream FILENAME (trap
+    # 1: at least six naming conventions, and 41 URLs already sit under `unreachable:`
+    # below). When LFO renames a file, the old id's recorded baseline has nowhere to
+    # land -- it is dropped silently unless something says so. Track which recorded ids
+    # actually get carried forward so the ones that do not can be reported by count and
+    # by name, not just implied by "N will be carried forward" going quiet.
+    carried_ids: set[str] = set()
     for i, url in enumerate(sorted(urls), 1):
         code, ctype, size = verify(url)
         fn = urllib.parse.unquote(url.rsplit("/", 1)[-1])
@@ -304,8 +347,9 @@ def build(skip_sweep: bool = False) -> dict:
         else:
             meta = parse_name(fn)
             soc_meta = by_file.get(fn, {})
+            sid = fn[:-4] if fn.lower().endswith(".pdf") else fn
             sources.append({
-                "id": fn[:-4] if fn.lower().endswith(".pdf") else fn,
+                "id": sid,
                 "url": url,
                 "format": "pdf",
                 "filename": fn,
@@ -318,15 +362,33 @@ def build(skip_sweep: bool = False) -> dict:
                 "date_published": soc_meta.get("date_published"),
                 "bytes": size,
                 "recheck": "annual",
-                "sha256": "",
+                # Carried forward from the CURRENT manifest, not regenerated here -- this
+                # file has no way to compute the detector's hash and must not guess at
+                # one. A source rediscovered under the same id keeps whatever baseline
+                # was recorded; a genuinely new id starts empty, same as it always did.
+                "sha256": recorded.get(sid, ""),
                 "why_relevant": "Agency-reported targets, actuals and assessments against "
                                 "legislatively approved Key Performance Measures.",
             })
+            if sid in recorded:
+                carried_ids.add(sid)
         if i % 25 == 0:
             print(f"    {i}/{len(urls)} verified")
         time.sleep(SLEEP)
 
     sources.sort(key=lambda s: (str(s["reporting_year"]), str(s["agency_code"]), s["id"]))
+
+    # oregon-kpm#43 review: report what carry-forward DROPS, not just what it keeps. A
+    # recorded id with no rediscovered source this run (most likely an upstream rename,
+    # per trap 1) loses its baseline with nothing printed unless this says so.
+    dropped_baselines = sorted(set(recorded) - carried_ids)
+    if dropped_baselines:
+        print(f"==> {len(dropped_baselines)} recorded baseline(s) had no rediscovered "
+              f"source and were dropped:")
+        for did in dropped_baselines[:20]:
+            print(f"    {did}")
+        if len(dropped_baselines) > 20:
+            print(f"    ... and {len(dropped_baselines) - 20} more")
 
     by_year = collections.Counter(str(s["reporting_year"]) for s in sources)
     unparsed = [s["filename"] for s in sources if not s["agency_code"] or not s["reporting_year"]]
@@ -354,6 +416,23 @@ def build(skip_sweep: bool = False) -> dict:
             "   not drafts to discard, and for some agency-years they are the only file.\n"
             "5. Coverage here is a statement about OUR DISCOVERY, not about Oregon. The KPM\n"
             "   page states its own rule: an agency missing for a year is 'non-reported'.\n"
+            "6. `sha256` is the drift-detection baseline, not a copy of anything ingestion\n"
+            "   computed. It is `corpus_toolkit.repo.content_hash()` of the bytes\n"
+            "   `corpus-detect-changes` last fetched for that source (whitespace-normalized\n"
+            "   `pdftotext -layout` text for a PDF with a text layer; the raw bytes when\n"
+            "   extraction yields under 200 chars, e.g. an image-only scan). It is a\n"
+            "   DIFFERENT function and a DIFFERENT input than frontmatter `source_sha256`\n"
+            "   (`hash_snapshot()`, over the committed `.txt`) — the two agree only when\n"
+            "   BOTH fall back to a raw-byte hash, which needs the committed `.txt` under\n"
+            "   200 normalized chars. NOT the same thing as \"it's a scan\": this corpus's\n"
+            "   six image-only scans all carry committed OCR text well over that\n"
+            "   threshold, so `hash_snapshot()` hashes the `.txt` on every one of them —\n"
+            "   measured 0/6 agreeing with `content_hash()` (oregon-kpm#43 review). Do\n"
+            "   NOT backfill this field from `source_sha256`; it is wrong for any PDF,\n"
+            "   scan or not, whose extracted/OCR'd text clears 200 chars. Only\n"
+            "   `corpus-detect-changes --record-baseline` writes this field; this\n"
+            "   enumerator only ever carries a recorded value forward by `id` and never\n"
+            "   clears it — a source new to the manifest starts empty, same as before.\n"
         ),
         "index": INDEX_PAGE,
         "library": "https://www.oregonlegislature.gov" + LIBRARY,
