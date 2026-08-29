@@ -29,17 +29,61 @@ authoritative source.
 7. Update this knowledge body's CHANGELOG.md in the same PR as content
    changes.
 
-## Found a bug you are not fixing right now? Open an issue. Period.
+## Found a defect? Fix it. Filing an issue is the exception, and it has a cost.
 
-This is not optional and has no size threshold.
+**The default is to fix it in the change you are already making.** You are in the file with
+the context loaded, which is the cheapest this fix will ever be. Filing an issue converts a
+ten-minute fix into a future session that has to rebuild everything you currently know.
 
-If you discover a defect and do not fix it in the change you are working on, **open a
-GitHub issue before you finish the task**. Not a note in the commit message, not a
-paragraph in the PR body, not a line in your summary to the user. Those are not a work
-queue — nobody greps closed PRs six months later, and the next agent rediscovers the same
-bug from scratch, usually the expensive way.
+**Open an issue only when one of these is true:**
 
-This applies to every one of these, not just crashes:
+1. **It needs a decision you are not allowed to make** — a judgement about what the corpus
+   means, a trade-off with a real cost, anything a grilling session would have put to the
+   operator. Label it `ready-for-human`.
+2. **It is large enough to need its own review** — if fixing it would make this change's diff
+   hard for a reviewer to follow, it is separate work.
+3. **It is in a file this change does not touch**, and reaching into it would widen the change
+   beyond what its own review covers.
+
+**If none of those is true, fix it now.** "I noticed it while doing something else" is not a
+reason to defer; it is the reason it is cheap.
+
+### An issue must name its trigger
+
+Every issue states **what would make this matter** — the condition under which it stops being
+latent. "Nothing currently escapes this" with no trigger is not a ticket. It is a comment at
+the site, where the next person who can act on it will actually be standing.
+
+**A comment in the code beats a ticket in a queue** whenever the person who would fix it is
+the next person reading that code. Reserve the queue for work that has to be found by someone
+who is *not* already in that file.
+
+### Review findings are not issues
+
+A code-review finding applied in the same change is already tracked by that review. Do not
+also file it. An issue opened and closed within the hour adds a row to the backlog and tells
+nobody anything.
+
+### At most two issues per task
+
+If you found more than two things worth another person's attention, the finding is that this
+module needs work — and that is **one** issue naming the pattern, not five naming instances.
+Ranking is the point: the third-most-important thing you noticed is usually a comment.
+
+### Why this replaced "open an issue, period"
+
+Measured in `executive-regulatory-frameworks` on 2026-08-29: **49 issues opened in two days,
+20 closed, the backlog 19 → 48.** Of the 20 closures, 8 were review findings filed and fixed
+inside the same hour — tracked already, and pure ceremony. Of the 29 left open, 3 needed a
+human decision and roughly 12 were things the agent could have fixed while it was already in
+the file.
+
+The old rule's justification was that "nobody greps closed PRs six months later." True — and
+nobody greps a 48-issue backlog either. A backlog nobody works is not a record; it is where a
+defect goes to be forgotten with a clear conscience, and it buries the few issues that
+genuinely need a person.
+
+These all count as a defect, not just crashes:
 
 - a check that passes without checking anything
 - a documented command, flag, or path that does not exist or does not work
