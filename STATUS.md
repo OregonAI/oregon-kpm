@@ -1,6 +1,6 @@
 # STATUS — Oregon Key Performance Measures — Annual Performance Progress Reports
 
-Generated 2026-08-24. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-08-31. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 
