@@ -25,20 +25,12 @@ jobs:
       - run: pytest tests/ -v
 
   frontmatter:
-    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.32.0
-    with:
-      # Pin the CODE, not just the workflow file above — separate knobs.
-      toolkit-ref: v1.32.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1
   provenance:
-    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.32.0
-    with:
-      # Pin the CODE, not just the workflow file above — separate knobs.
-      toolkit-ref: v1.32.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1
   links:
-    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.32.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1
     with:
-      # Pin the CODE, not just the workflow file above — separate knobs.
-      toolkit-ref: v1.32.0
       # lychee walks './**/*.md'. Without these exclusions it crawls
       # _meta/templates/document.md — a skeleton whose example URLs are not meant
       # to resolve — and every PR fails on link rot that is not link rot.
@@ -117,19 +109,13 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      # THIRD PIN, and yes that is one more than there should be. `uses:` above selects
-      # the workflow file, `toolkit-ref:` selects the code it installs, and this selects
-      # the code THIS job installs. All three must move together; a bump that misses one
-      # runs new checks against old code. Tracked as corpus-toolkit#9.
-      - uses: actions/checkout@v4
-        with:
-          repository: OregonAI/corpus-toolkit
-          ref: v1.32.0
-          path: .toolkit
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install ./.toolkit
+      # Install the toolkit at the SERVING pin -- the one requirements.txt names and the
+      # Dockerfile bakes -- so these gates prove the toolkit this corpus actually ships. The
+      # reusable workflows above run the CI track at `@v1` (corpus-toolkit ADR-0014).
+      - run: pip install -r requirements.txt
       - name: Authority graph must be current
         run: python3 src/build_graph.py --check
       - name: STATUS.md must be current
