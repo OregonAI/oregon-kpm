@@ -16,7 +16,7 @@
 # Two precedents: v1.10.0 added `audit_report` for oregon-audits and v1.12.0 added
 # `federal_instrument` for federal-reference. A new corpus needing a doc_type release is
 # the norm here, not a surprise.
-corpus-toolkit[mcp,semantic] @ git+https://github.com/OregonAI/corpus-toolkit@v1.34.0
+corpus-toolkit[mcp,semantic] @ git+https://github.com/OregonAI/corpus-toolkit@v1.34.2
 # PINNED, matching this file's convention everywhere else -- floating meant a PyYAML
 # release could turn every `safe_load`/`safe_dump` call red for a reason that has
 # nothing to do with the corpus (oregon-kpm#43 review).
