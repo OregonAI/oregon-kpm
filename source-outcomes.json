@@ -1,0 +1,5553 @@
+{
+  "group_filter": null,
+  "groups": {
+    "manifest": {
+      "changed": 0,
+      "checked": 789,
+      "fetch_failed": 0,
+      "no_baseline": 0,
+      "unchanged": 789,
+      "unreadable_json": 0,
+      "watch_path_missing": 0
+    }
+  },
+  "groups_in_scope": [
+    "manifest"
+  ],
+  "mode": null,
+  "schema_version": 1,
+  "sources": [
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOA_2016-10-07",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOA_2016-10-07.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_BOPPPS_2016-10-14",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_BOPPPS_2016-10-14.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CEdO_2016-10-07",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CEdO_2016-10-07.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CRGC_2016-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CRGC_2016-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DCBS_2016-12-08",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DCBS_2016-12-08.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOJ_2016-11-10",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOJ_2016-11-10.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOR_2016-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOR_2016-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DPSST_2016-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DPSST_2016-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ERB_2016-12-19",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ERB_2016-12-19.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_GOVERNOR_2016-12-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_GOVERNOR_2016-12-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_HECC_2016-10-08",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_HECC_2016-10-08.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LRO_2016-12-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LRO_2016-12-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LTCO_2016-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LTCO_2016-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LUBA_2016-07-18",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LUBA_2016-07-18.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "2016 DOGAMI KPM Report",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/2016%20DOGAMI%20KPM%20Report.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "2016OYAAPPRReportwithproposedchanges-Final",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/2016OYAAPPRReportwithproposedchanges-Final.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_INDIAN SVC_2016-10-06",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_INDIAN%20SVC_2016-10-06.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LEG ADMIN_2016-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LEG%20ADMIN_2016-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LEG COUNSL_2016-11-10",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LEG%20COUNSL_2016-11-10.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODF_2016-08-18_KPMs",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODF_2016-08-18_KPMs.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSL_2016_Revised",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSL_2016_Revised.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_Speech_Path_Aud__2016-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_Speech_Path_Aud__2016-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "BOLI 2016 APPR",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/BOLI%202016%20APPR.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "CCB APPR FY 2016- 10-6-16",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/CCB%20APPR%20FY%202016-%2010-6-16.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "DA Annual Performance Progress Report September 2016",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/DA%20Annual%20Performance%20Progress%20Report%20September%202016.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "DLCDAPPR2016_Final",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/DLCDAPPR2016_Final.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "Energy KPM APPR 2016 FINAL",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/Energy%20KPM%20APPR%202016%20FINAL.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "KPM APPR_DHS_2016-10-07 (2)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/KPM%20APPR_DHS_2016-10-07%20%282%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "ODE2016appr",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/ODE2016appr.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "OMB APPR 2016",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/OMB%20APPR%202016.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "PUCAPPRFinal2016",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/PUCAPPRFinal2016.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OACO_2016-10-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OACO_2016-10-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBCE_2016-11-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBCE_2016-11-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBD_2016-09-12",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBD_2016-09-12.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBDD_2016-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBDD_2016-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBLPCT_2016-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBLPCT_2016-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBMI_2016-07-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBMI_2016-07-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBNM_2016-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBNM_2016-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBOP_2016-10-07",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBOP_2016-10-07.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBPE_2016-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBPE_2016-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OCJC_2016-09-12",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OCJC_2016-09-12.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODA_2016-10-14",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODA_2016-10-14.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODFW_2016-10-06",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODFW_2016-10-06.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODVA_2016-09-22",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODVA_2016-09-22.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OED_2016-10-14",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OED_2016-10-14.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OGEC_2016-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OGEC_2016-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OHA_2016-10-06",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OHA_2016-10-06.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OHCS_2016-10-19",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OHCS_2016-10-19.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OLCC_2016-10-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OLCC_2016-10-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMCB_2016-10-10",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMCB_2016-10-10.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMD_2016-10-05",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMD_2016-10-05.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OPRD_2016-08-18",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OPRD_2016-08-18.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSBN_2016-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSBN_2016-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSMB_2016-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSMB_2016-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSP_2016-08-18",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSP_2016-08-18.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OST_2016-10-06",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OST_2016-10-06.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTB_2016-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTB_2016-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTLB_2016-07-05",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTLB_2016-07-05.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OVMEB_2016-12-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OVMEB_2016-12-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OWEB_2016-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OWEB_2016-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PDSC_2016-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PDSC_2016-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PERS_2016-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PERS_2016-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PSRB_2016-10-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PSRB_2016-10-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_RACING_2016-10-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_RACING_2016-10-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_REA_2016-11-15",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_REA_2016-11-15.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_SOS_2016-08-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_SOS_2016-08-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_TSPC_2016-09-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_TSPC_2016-09-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_WRD_2016-10-06",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_WRD_2016-10-06.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BLSW_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BLSW_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOA_2017-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOA_2017-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOPPPS_2017",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOPPPS_2017.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BSPA_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BSPA_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CEdO_2017-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CEdO_2017-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CFB_2017-09-21",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CFB_2017-09-21.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CRGC_2017-09-14",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CRGC_2017-09-14.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DAS_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DAS_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DATD_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DATD_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DCBS_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DCBS_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DEQ_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DEQ_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DHS_2017-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DHS_2017-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DLCD_2017-09-13",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DLCD_2017-09-13.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DOC_2017-02-15",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DOC_2017-02-15.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOC_2017-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOC_2017-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOE_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOE_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOJ_2017-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOJ_2017-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOR_2017-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOR_2017-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DPSST_2017-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DPSST_2017-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DSL_2017-09-25",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DSL_2017-09-25.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ERB_2017-10-04",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ERB_2017-10-04.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_GOVERNOR_2017-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_GOVERNOR_2017-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_HECC_2017-10-20",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_HECC_2017-10-20.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LFO_2017-02-10",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LFO_2017-02-10.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LFO_2017-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LFO_2017-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LPRO_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LPRO_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LRO_2017-10-04",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LRO_2017-10-04.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LTCO_2017-09-18",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LTCO_2017-09-18.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LUBA_2017-08-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LUBA_2017-08-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOLI-2017",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOLI-2017.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CJFD_2017-10-09 KPM Report",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CJFD_2017-10-09%20KPM%20Report.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOGAMI_09_26_2017",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOGAMI_09_26_2017.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LEG ADMIN_2017-10-16",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LEG%20ADMIN_2017-10-16.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LEG COUNSL_2017-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LEG%20COUNSL_2017-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODFW_10.04.17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODFW_10.04.17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_SOS_2017-10-02-2",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_SOS_2017-10-02-2.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OACO_2017-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OACO_2017-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBCE_2017-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBCE_2017-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBD_2017",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBD_2017.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBDD_2017-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBDD_2017-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBLPCT_2017-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBLPCT_2017-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBMI_2017",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBMI_2017.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBOP_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBOP_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBPE_2017-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBPE_2017-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OCJC_2017-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OCJC_2017-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODA_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODA_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODE_2017-10-20",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODE_2017-10-20.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODF_2017-08-10",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODF_2017-08-10.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODOT_2017-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODOT_2017-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODVA_2017-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODVA_2017-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OED_2017-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OED_2017-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OGEC_2017-09-21",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OGEC_2017-09-21.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OHCS_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OHCS_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OJD_2017-10-10",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OJD_2017-10-10.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OLCC_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OLCC_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMB_2017",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMB_2017.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMCB_2017",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMCB_2017.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMD_2017",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMD_2017.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OPRD_2017-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OPRD_2017-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSBN_2017-09-25",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSBN_2017-09-25.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSL_2017-10-04",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSL_2017-10-04.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSMB_2017-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSMB_2017-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSP_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSP_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OST_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OST_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTB_2017-09-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTB_2017-09-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTLB_2017-08-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTLB_2017-08-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OWEB_2017-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OWEB_2017-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OYA_2017-10-13",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OYA_2017-10-13.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PDSC_2017-09-21",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PDSC_2017-09-21.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PERS_2017-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PERS_2017-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PSRB_2017-10-11",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PSRB_2017-10-11.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PUC_2017-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PUC_2017-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_RACING_2017-10-20",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_RACING_2017-10-20.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_REA_2017-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_REA_2017-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_TSPC_2017-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_TSPC_2017-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_WRD_2017-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_WRD_2017-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BLSW_2018-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BLSW_2018-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOA_2018-10-04",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOA_2018-10-04.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOLI_2018",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOLI_2018.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOPPPS_2018",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOPPPS_2018.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BSPA_2018-07-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BSPA_2018-07-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CCB_2018",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CCB_2018.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CEdO_2018-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CEdO_2018-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CFB_2018-08-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CFB_2018-08-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CJFD_2018-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CJFD_2018-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_CRGC_2018-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_CRGC_2018-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DAS_2018-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DAS_2018-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DATD_2018-07-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DATD_2018-07-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DCBS_2018-12-21",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DCBS_2018-12-21.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DHS_2018-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DHS_2018-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOE_2018-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOE_2018-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOGAMI_2018-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOGAMI_2018-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOJ_2018-08-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOJ_2018-08-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DPSST_2018-10-23",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DPSST_2018-10-23.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DSL_2018-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DSL_2018-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ERB_2018-07-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ERB_2018-07-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_GOVERNOR_2018-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_GOVERNOR_2018-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_HECC_2018-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_HECC_2018-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LCIS_2018-06-07",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LCIS_2018-06-07.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LPRO_2018-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LPRO_2018-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LRO_2018-10-08",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LRO_2018-10-08.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_LTCO_2018-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_LTCO_2018-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LUBA_2018-07-16",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LUBA_2018-07-16.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "12.01_DEQ KPM Report - Final",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/12.01_DEQ%20KPM%20Report%20-%20Final.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "2018-09-21_APPR_ODVA",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/2018-09-21_APPR_ODVA.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "2018_APPR_OMD",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/2018_APPR_OMD.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_LEG COUNSL_2018-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_LEG%20COUNSL_2018-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DLCD_2018-12-18FINAL",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DLCD_2018-12-18FINAL.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOR_2018_final",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOR_2018_final.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LEG ADMIN_2018-10-12",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LEG%20ADMIN_2018-10-12.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBNM_2018-10-09 KPM",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBNM_2018-10-09%20KPM.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBOP_2018-10-09 FINAL",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBOP_2018-10-09%20FINAL.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODE",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODE.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OHA_2018 revised_2019-01-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OHA_2018%20revised_2019-01-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "Annual Performance Progress Report FY18 - Agy847",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/Annual%20Performance%20Progress%20Report%20FY18%20-%20Agy847.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "ODOT 2018 APPR with Proposed",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/ODOT%202018%20APPR%20with%20Proposed.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "OMCB Annual KPM Progress Report (2018)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/OMCB%20Annual%20KPM%20Progress%20Report%20%282018%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "StateLibraryAPPR2018",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/StateLibraryAPPR2018.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OACO_2018-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OACO_2018-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBCE_2018-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBCE_2018-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "OBD 2018 Annual Performance Progress Report",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/OBD%202018%20Annual%20Performance%20Progress%20Report.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBDD_2018",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBDD_2018.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OBLPCT_2018-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OBLPCT_2018-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBMI_2018",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBMI_2018.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OBOP_2018-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OBOP_2018-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OCJC_2018-09-13",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OCJC_2018-09-13.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_ODA_2018-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_ODA_2018-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODA_2018",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODA_2018.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODF_2018-07-19",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODF_2018-07-19.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODFW_2018-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODFW_2018-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OED_2018-09-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OED_2018-09-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OGEC_2018-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OGEC_2018-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OHCS_2018-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OHCS_2018-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OLCC_2018-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OLCC_2018-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OPRD_2018-09-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OPRD_2018-09-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSBN_2018-07-20",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSBN_2018-07-20.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSMB_2018-12-21",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSMB_2018-12-21.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OSP_2018-09-23",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OSP_2018-09-23.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OST_2018-12-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OST_2018-12-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTB_2018-07-16",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTB_2018-07-16.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTLB_2018-07-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTLB_2018-07-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OVMEB_2018-10-08",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OVMEB_2018-10-08.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OWEB_2018-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OWEB_2018-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PDSC_2018",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PDSC_2018.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PERS_2018-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PERS_2018-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PSRB_2018-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PSRB_2018-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PUC_2018",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PUC_2018.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_RACING_2018-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_RACING_2018-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_REA_2018-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_REA_2018-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "SOS 2018 Annual Performance Progress Report",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/SOS%202018%20Annual%20Performance%20Progress%20Report.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_TSPC_2018-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_TSPC_2018-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_WRD_2018-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_WRD_2018-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BLSW_2019-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BLSW_2019-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOA_2019-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOA_2019-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BSPA_2019-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BSPA_2019-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CCB_2019-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CCB_2019-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CFB_2019-09-16",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CFB_2019-09-16.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CRGC_2019-09-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CRGC_2019-09-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DAS_2019-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DAS_2019-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DCBS_2019-12-19",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DCBS_2019-12-19.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DEQ_2019-09-11",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DEQ_2019-09-11.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DHS_2019-10-07",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DHS_2019-10-07.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DLCD_2019-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DLCD_2019-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DOC_2019-01-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DOC_2019-01-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOC_2019-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOC_2019-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOE_2019-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOE_2019-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOGAMI_2019-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOGAMI_2019-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DSL_2019-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DSL_2019-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ERB_2019-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ERB_2019-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_GOVERNOR_2019-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_GOVERNOR_2019-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_HECC_2019-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_HECC_2019-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "Annual Performance Progress Report - 2019 (LCIS)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/Annual%20Performance%20Progress%20Report%20-%202019%20%28LCIS%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LFO_2019-04-04",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LFO_2019-04-04.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LFO_2019-11-06",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LFO_2019-11-06.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LPRO_2019-10-07",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LPRO_2019-10-07.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LRO_2019-11-04",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LRO_2019-11-04.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LUBA_2019-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LUBA_2019-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "2019 OYA APPR Final",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/2019%20OYA%20APPR%20Final.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "2019 PSRB APPR Final",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/2019%20PSRB%20APPR%20Final.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "2019_APPR_OBDD_2019-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/2019_APPR_OBDD_2019-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "2019_APPR_OMD",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/2019_APPR_OMD.PDF"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "2019_APPR_WRD_2019-09-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/2019_APPR_WRD_2019-09-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR.RACING.2019",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR.RACING.2019.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOLI_2019-10-15 (2)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOLI_2019-10-15%20%282%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOPPPS_25500_2019",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOPPPS_25500_2019.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DATD_2019-09-27 (1)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DATD_2019-09-27%20%281%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOJ_2019-09-27 (1)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOJ_2019-09-27%20%281%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DPSST_2019_9_30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DPSST_2019_9_30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LEG ADMIN_2019-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LEG%20ADMIN_2019-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LEG COUNSL_2019-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LEG%20COUNSL_2019-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMB_2019-08-07 FINAL",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMB_2019-08-07%20FINAL.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OWEB_2019-09-19_FINAL",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OWEB_2019-09-19_FINAL.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_REA_2019-09-30 (1)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_REA_2019-09-30%20%281%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "KPM APPR 2019_final",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/KPM%20APPR%202019_final.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "ODOT APPR 2019",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/ODOT%20APPR%202019.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "OMCB Annual KPM Progress Report (2019)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/OMCB%20Annual%20KPM%20Progress%20Report%20%282019%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "SOS KPMs October 2019",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/SOS%20KPMs%20October%202019.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "StateLibraryAPPR2019",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/StateLibraryAPPR2019.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OACO_2019-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OACO_2019-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBCE_2019-10-21",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBCE_2019-10-21.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBLPCT_2019-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBLPCT_2019-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBMI_2019-08-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBMI_2019-08-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBNM_2019-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBNM_2019-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBOP_2019-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBOP_2019-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OCJC_2019-09-10",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OCJC_2019-09-10.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODA_2019-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODA_2019-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODE_2019-10-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODE_2019-10-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODF_2019-08-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODF_2019-08-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODFW_2019-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODFW_2019-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OED_2019-09-18",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OED_2019-09-18.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OGEC_2019-09-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OGEC_2019-09-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OHCS_2019-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OHCS_2019-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OJD_2019-02-14",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OJD_2019-02-14.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OJD_2019-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OJD_2019-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OLCC_2019-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OLCC_2019-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OPRD_2019-09-12",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OPRD_2019-09-12.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSBN_2019-09-25",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSBN_2019-09-25.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSP_2019-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSP_2019-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OST_2019-12-20",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OST_2019-12-20.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTB_2019-08-22",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTB_2019-08-22.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTLB_2019-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTLB_2019-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OVMEB_2019-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OVMEB_2019-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OYA_2019-03-20",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OYA_2019-03-20.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PDSC_2019-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PDSC_2019-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PERS_2019-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PERS_2019-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_TSPC_2019-10-08",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_TSPC_2019-10-08.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BLSW_2020-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BLSW_2020-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOPPPS_2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOPPPS_2020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CRGC_2020-09-16",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CRGC_2020-09-16.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DAS_2020-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DAS_2020-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DCBS_2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DCBS_2020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DHS_2020-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DHS_2020-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DLCD_2020-10-06",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DLCD_2020-10-06.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOC_2020-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOC_2020-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOE_2020-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOE_2020-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOGAMI_2020-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOGAMI_2020-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOR_2020-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOR_2020-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DSL_2020-10-19",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DSL_2020-10-19.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_HECC_2020-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_HECC_2020-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LCIS_2020-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LCIS_2020-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LFO_2020-10-05",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LFO_2020-10-05.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LPRO_2020-10-05",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LPRO_2020-10-05.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LRO_2020-10-05",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LRO_2020-10-05.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LTCO_2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LTCO_2020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LUBA_2020-09-22",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LUBA_2020-09-22.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR BOA_2020-09-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR%20BOA_2020-09-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR CCB 2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR%20CCB%202020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR ODAg 2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR%20ODAg%202020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR OYA 2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR%20OYA%202020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOLI_2020-07-24 (1)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOLI_2020-07-24%20%281%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CFB_2020-09-02 PDF",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CFB_2020-09-02%20PDF.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CJFD_2020-09-24 (1)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CJFD_2020-09-24%20%281%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DEQ_2020-09-30 (1)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DEQ_2020-09-30%20%281%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOJ_2020-09-29 FINAL",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOJ_2020-09-29%20FINAL.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_District Attorney_2020-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_District%20Attorney_2020-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ERB_2020FINAL",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ERB_2020FINAL.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_GOVERNOR_2020-09-30 (3)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_GOVERNOR_2020-09-30%20%283%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LEG ADMIN_2020-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LEG%20ADMIN_2020-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LEG COUNSL_2020-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LEG%20COUNSL_2020-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBD 2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBD%202020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBDD_2020-09-30 (1)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBDD_2020-09-30%20%281%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODVA_2020-09-17-1",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODVA_2020-09-17-1.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OGEC_2020-10-01-1",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OGEC_2020-10-01-1.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OHA_2020-02-24_V3",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OHA_2020-02-24_V3.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OHA_2020-10-12_V2",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OHA_2020-10-12_V2.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMB_2020_08_06 FINAL",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMB_2020_08_06%20FINAL.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSL 2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSL%202020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_TSPC_2020-10-01 (1)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_TSPC_2020-10-01%20%281%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR__DPSST_2020-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR__DPSST_2020-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OACO_2020-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OACO_2020-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBCE_2020-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBCE_2020-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBLPCT_2020-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBLPCT_2020-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBMI_2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBMI_2020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBNM_2020-10-08",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBNM_2020-10-08.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBOP_2020-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBOP_2020-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBOP_2020-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBOP_2020-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OCJC_2020-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OCJC_2020-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODA_2020-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODA_2020-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODE_2020-09-25",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODE_2020-09-25.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODF_2020-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODF_2020-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODFW_2020-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODFW_2020-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODOT_2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODOT_2020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OED_2020-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OED_2020-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OHCS_2020-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OHCS_2020-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OJD_2020-09-23",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OJD_2020-09-23.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OLCC_2020-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OLCC_2020-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMCB_2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMCB_2020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMD_2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMD_2020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OPRD_2020-09-14",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OPRD_2020-09-14.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSBN_2020-07-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSBN_2020-07-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSMB_2020-01-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSMB_2020-01-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSMB_2020-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSMB_2020-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSP_2020-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSP_2020-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OST_2020-12-31",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OST_2020-12-31.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTB_2020-09-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTB_2020-09-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTLB_2020-07-16",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTLB_2020-07-16.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OVMEB_2020-10-09",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OVMEB_2020-10-09.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OWEB_2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OWEB_2020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PERS_2020-09-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PERS_2020-09-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PSRB_2020-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PSRB_2020-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PUC_2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PUC_2020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_RACING_2020-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_RACING_2020-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_REA_2020-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_REA_2020-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_SOS_2020",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_SOS_2020.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BLSW_2021-10-11",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BLSW_2021-10-11.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOA_2021-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOA_2021-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOLI_2021-10-13",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOLI_2021-10-13.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BSPA_2021-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BSPA_2021-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CFB_2021-09-14",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CFB_2021-09-14.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CRGC_2021-07-08",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CRGC_2021-07-08.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DCBS_2021",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DCBS_2021.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DEQ_2021-10-04",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DEQ_2021-10-04.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DHS_2021",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DHS_2021.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DLCD_2021-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DLCD_2021-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOC_2021-09-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOC_2021-09-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOE_2021-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOE_2021-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOGAMI_2021-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOGAMI_2021-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOR_2021-09-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOR_2021-09-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DPSST_2021-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DPSST_2021-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DSL_2021-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DSL_2021-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ERB_2021-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ERB_2021-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_GOVERNOR_2021-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_GOVERNOR_2021-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_HECC_2021-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_HECC_2021-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_JUSTICE_2021",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_JUSTICE_2021.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LCIS_2021-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LCIS_2021-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LFO_2021-10-19",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LFO_2021-10-19.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LRO_2021-10-19",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LRO_2021-10-19.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LTCO_2021-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LTCO_2021-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LUBA_2021-10-15",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LUBA_2021-10-15.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "2021 OYA APPR Final",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/2021%20OYA%20APPR%20Final.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR-PUC_2021",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR-PUC_2021.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_2021_BOPPPS",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_2021_BOPPPS.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CCB2021",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CCB2021.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CJFD_2021-09-29 (1)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CJFD_2021-09-29%20%281%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DAS-2021",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DAS-2021.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LEG ADMIN_2021-10-05",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LEG%20ADMIN_2021-10-05.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LEG COUNSL_2021-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LEG%20COUNSL_2021-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBD_2021 ",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBD_2021%20.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMB_2021_08_16 FINAL",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMB_2021_08_16%20FINAL.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "Dist Atty - KPM Report for 2021",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/Dist%20Atty%20-%20KPM%20Report%20for%202021.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "LPRO KPM Report 2021",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/LPRO%20KPM%20Report%202021.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OACO_2021-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OACO_2021-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBCE_2021-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBCE_2021-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBDD_2021-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBDD_2021-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBLPCT_2021-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBLPCT_2021-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBMI_2021-09-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBMI_2021-09-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBOP_2021-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBOP_2021-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBPE_2021-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBPE_2021-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBTP_2021",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBTP_2021.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OCJC_2021-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OCJC_2021-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODA_2021-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODA_2021-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODA_2021-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODA_2021-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODE_2021-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODE_2021-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODF_2021-07-14",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODF_2021-07-14.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODOT_2021-09-23",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODOT_2021-09-23.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODVA_2021-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODVA_2021-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OED_2021-09-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OED_2021-09-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OGEC_2021-09-22",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OGEC_2021-09-22.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OHCS_2021-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OHCS_2021-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OJD_2021-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OJD_2021-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OLCC_2021-10-04",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OLCC_2021-10-04.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMCB_2021",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMCB_2021.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMD_2021",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMD_2021.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OPRD_2021-08-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OPRD_2021-08-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSBN_2021-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSBN_2021-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSL_2021-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSL_2021-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSMB_2021-10-07",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSMB_2021-10-07.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSP_2021-09-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSP_2021-09-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OST_2021",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OST_2021.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTLB_2021-09-14",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTLB_2021-09-14.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OVMEB_2021-11-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OVMEB_2021-11-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OWEB_2021-09-20",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OWEB_2021-09-20.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PDS_2021",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PDS_2021.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PDSC_2021-01-21",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PDSC_2021-01-21.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PERS_2021-09-23",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PERS_2021-09-23.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PSRB_2021-10-12",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PSRB_2021-10-12.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_RACING_2021-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_RACING_2021-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_REA_2021-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_REA_2021-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_SOS_2021",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_SOS_2021.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_TSPC_2021-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_TSPC_2021-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_WRD_2021-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_WRD_2021-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BLSW_2022-10-11",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BLSW_2022-10-11.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOA_2022-10-21",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOA_2022-10-21.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_BOLI_2022-10-05",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_BOLI_2022-10-05.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOPPPS_2022",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOPPPS_2022.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BSPA_2022-10-07",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BSPA_2022-10-07.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CFB_2022-09-08",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CFB_2022-09-08.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_CJFD_2022-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_CJFD_2022-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CRGC_2022-07-13",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CRGC_2022-07-13.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DAS_2022-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DAS_2022-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DATD_2022-09-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DATD_2022-09-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DHS_2022",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DHS_2022.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DLCD_2022",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DLCD_2022.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DOC_2022-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DOC_2022-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOE_2022-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOE_2022-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DOGAMI_2022-10-05",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DOGAMI_2022-10-05.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOR_2022-09-20",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOR_2022-09-20.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DPSST_2022-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DPSST_2022-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DSL_2022-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DSL_2022-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ERB_2022",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ERB_2022.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_GOVERNOR_2022-10-12",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_GOVERNOR_2022-10-12.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_HECC_2022-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_HECC_2022-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LCIS_2022-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LCIS_2022-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LFO_2022-10-05",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LFO_2022-10-05.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_LPRO_2022-10-21",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_LPRO_2022-10-21.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LRO_2022-10-05",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LRO_2022-10-05.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LUBA_2022-08-25",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LUBA_2022-08-25.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR-PUC_2022",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR-PUC_2022.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DOJ_2022-09-23 - FINAL",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DOJ_2022-09-23%20-%20FINAL.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_LEG COUNSL_2022-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_LEG%20COUNSL_2022-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CCB_2022-10-6",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CCB_2022-10-6.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DEQ_2022-10-03_FINAL",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DEQ_2022-10-03_FINAL.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LEG ADMIN_2022-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LEG%20ADMIN_2022-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODVA_2022-09-29-1",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODVA_2022-09-29-1.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OYA_2022-10-3",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OYA_2022-10-3.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "DCBS FY 2022 APPR",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/DCBS%20FY%202022%20APPR.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "OBD FY 2022 APPR",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/OBD%20FY%202022%20APPR.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OACO_2022-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OACO_2022-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBCE_2022-10-05",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBCE_2022-10-05.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OBDD_2022-10-04",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OBDD_2022-10-04.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBLPCT_2022-09-14",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBLPCT_2022-09-14.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OBMI_2022-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OBMI_2022-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBNM_2022-10-10",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBNM_2022-10-10.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBOP_2022-09-14",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBOP_2022-09-14.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBOP_2022-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBOP_2022-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBTP_2022",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBTP_2022.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OCJC_2022-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OCJC_2022-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODA_2022-08-22",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODA_2022-08-22.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODAviation_2022-10-07",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODAviation_2022-10-07.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODE_2022-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODE_2022-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODF_2022-07-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODF_2022-07-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODFW_2022-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODFW_2022-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_ODOT_2022-09-21",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_ODOT_2022-09-21.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OED_2022-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OED_2022-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OGEC_2022-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OGEC_2022-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OHA_2022-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OHA_2022-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OHCS_2022-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OHCS_2022-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OJD_2022-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OJD_2022-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OLCC_2022-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OLCC_2022-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OLTCO_2022-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OLTCO_2022-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OMB_2022-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OMB_2022-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMCB_2022-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMCB_2022-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OMD_2022",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OMD_2022.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OPRD_2022_08_15",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OPRD_2022_08_15.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSBN_2022-08-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSBN_2022-08-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OSL_2022-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OSL_2022-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSMB_2022-09-22",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSMB_2022-09-22.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OSP_2022-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OSP_2022-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OST_2022-10-04",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OST_2022-10-04.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTLB_2022-08-12",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTLB_2022-08-12.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OVMEB_2022-10-06",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OVMEB_2022-10-06.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OWEB_2022-08-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OWEB_2022-08-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PDSC_2022-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PDSC_2022-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PERS_2022-09-22",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PERS_2022-09-22.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PSRB_2022-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PSRB_2022-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_RACING_2022",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_RACING_2022.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_REA_2022-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_REA_2022-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_SOS_2022-08-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_SOS_2022-08-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_TSPC_2022-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_TSPC_2022-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_WRD_2022-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_WRD_2022-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BLPCT_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BLPCT_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOA_2023-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOA_2023-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOLI_2023-11-06",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOLI_2023-11-06.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOP_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOP_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOTP_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOTP_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BPPPS_2023",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BPPPS_2023.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BSPA_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BSPA_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CCB_2023-10-10",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CCB_2023-10-10.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CJFD_2023-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CJFD_2023-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CRGC_2023-07-14",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CRGC_2023-07-14.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DA_2023-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DA_2023-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DAS_2023-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DAS_2023-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DCBS_2023",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DCBS_2023.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DELC_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DELC_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DEQ_2023-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DEQ_2023-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DHS_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DHS_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DLCD_2023-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DLCD_2023-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOC_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOC_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOJ_2023-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOJ_2023-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOR_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOR_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DPSST_2023-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DPSST_2023-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DSFM_2023-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DSFM_2023-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DSL_2023-09-25",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DSL_2023-09-25.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ERB_2023-10-09",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ERB_2023-10-09.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_GOV_2023-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_GOV_2023-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_HCSD_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_HCSD_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_HECC_2023-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_HECC_2023-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LAC_2023-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LAC_2023-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LC_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LC_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LCIS_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LCIS_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LFO_2023-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LFO_2023-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LPRO_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LPRO_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LRO_2023-10-09",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LRO_2023-10-09.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LUBA_2023-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LUBA_2023-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOGAMI_2023-9-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOGAMI_2023-9-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODVA_2023-9-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODVA_2023-9-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OACO_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OACO_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBCE_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBCE_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBD_2023-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBD_2023-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBDD_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBDD_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBMI_2023-07-06",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBMI_2023-07-06.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBNM_2023-10-11",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBNM_2023-10-11.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBOP_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBOP_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OCB_2023-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OCB_2023-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OCJC_2023-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OCJC_2023-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODA_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODA_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODAV_2023-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODAV_2023-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODE_2023-09-25",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODE_2023-09-25.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODEM_2023-10-04",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODEM_2023-10-04.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODF_2023-08-15",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODF_2023-08-15.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODFW_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODFW_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODOE_2023-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODOE_2023-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODOT_2023-09-25",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODOT_2023-09-25.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OED_2023-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OED_2023-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OGEC_2023-09-21",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OGEC_2023-09-21.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OHA_2023-11-08",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OHA_2023-11-08.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OJD_2023-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OJD_2023-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OLCC_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OLCC_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OLTCO_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OLTCO_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMB_2023-08-22",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMB_2023-08-22.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMCB_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMCB_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMD_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMD_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OPRD_2023-10-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OPRD_2023-10-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ORC_2023-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ORC_2023-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSBN_2023-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSBN_2023-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSL_2023-09-22",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSL_2023-09-22.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSMB_2023-09-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSMB_2023-09-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSP_2023-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSP_2023-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OST_2023",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OST_2023.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTLB_2023-08-11",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTLB_2023-08-11.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OVMEB_2023-09-20",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OVMEB_2023-09-20.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OWEB_2023-09-20",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OWEB_2023-09-20.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OWRD_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OWRD_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OYA_2023-10-19",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OYA_2023-10-19.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PDSC_2023-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PDSC_2023-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PERS_2023-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PERS_2023-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PSRB_2023-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PSRB_2023-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PUC_2023-08-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PUC_2023-08-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_REA_2023-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_REA_2023-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_SOS_2023",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_SOS_2023.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_TSPC_2023-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_TSPC_2023-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BLPCT_2024-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BLPCT_2024-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BLSW_2024-01-18",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BLSW_2024-01-18.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BLSW_2024-11-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BLSW_2024-11-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOA_2024-10-15",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOA_2024-10-15.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_BOLI_2024-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_BOLI_2024-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOP_2024-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOP_2024-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_BSPA_2024-10-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_BSPA_2024-10-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CCB_2024",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CCB_2024.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CJFD_2024-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CJFD_2024-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CRGC_2024-07-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CRGC_2024-07-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DA_2024-07-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DA_2024-07-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DAS_2024",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DAS_2024.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DCBS_2024",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DCBS_2024.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DELC_2024-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DELC_2024-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DEQ_2024-10-16",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DEQ_2024-10-16.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DHS_2024-10-11",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DHS_2024-10-11.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DLCD_2024",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DLCD_2024.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOC_2024-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOC_2024-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOGAMI_2024-09-19",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOGAMI_2024-09-19.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOJ_2024-10-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOJ_2024-10-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOR_2024-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOR_2024-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DPSST_2024-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DPSST_2024-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DSFM_2024-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DSFM_2024-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_DSL_2024-10-09",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_DSL_2024-10-09.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ERB_2024-07-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ERB_2024-07-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_GOV_2024-09-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_GOV_2024-09-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_HCSD_2024-10-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_HCSD_2024-10-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_HECC_2024",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_HECC_2024.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LAC_2024-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LAC_2024-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LC_2024-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LC_2024-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LCIS_2024-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LCIS_2024-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LFO_2024-10-21",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LFO_2024-10-21.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LPRO_2024-10-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LPRO_2024-10-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LRO_2024-10-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LRO_2024-10-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_LTCO_2024-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_LTCO_2024-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_LUBA_2024-09-20",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_LUBA_2024-09-20.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed _OPRA_2024-10-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed%20_OPRA_2024-10-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBOP_2024-9-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBOP_2024-9-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBPPPS_2024-9-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBPPPS_2024-9-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBCE_2024-09-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBCE_2024-09-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBD_2024-09-11",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBD_2024-09-11.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBDD_2024-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBDD_2024-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBMI_2024-07-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBMI_2024-07-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBNM_2024-10-10",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBNM_2024-10-10.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBTP_2024-09-09",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBTP_2024-09-09.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OCB_2024-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OCB_2024-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OCJC_2024-10-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OCJC_2024-10-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODA_2024-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODA_2024-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_ODAV_2024-10-09",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_ODAV_2024-10-09.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_ODE_2024-10-15",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_ODE_2024-10-15.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_ODEM_2024-10-15",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_ODEM_2024-10-15.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODF_2024-08-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODF_2024-08-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODFW_2024-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODFW_2024-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODOE_2024-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODOE_2024-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODOT_2024-10-23",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODOT_2024-10-23.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODVA_2024",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODVA_2024.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OED_2024-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OED_2024-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OGEC_2024-09-23",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OGEC_2024-09-23.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OHA_2024-10-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OHA_2024-10-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OJD_2024-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OJD_2024-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OLCC_2024-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OLCC_2024-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMB_2024-07-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMB_2024-07-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMCB_2024-10-28",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMCB_2024-10-28.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMD_2024-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMD_2024-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OPRD_2024-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OPRD_2024-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_ORC_2024-10-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_ORC_2024-10-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSBN_2024-07-31",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSBN_2024-07-31.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSL_2024-09-13",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSL_2024-09-13.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSMB_2024-09-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSMB_2024-09-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSP_2024",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSP_2024.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OST_2024",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OST_2024.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTLB_2024-07-31",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTLB_2024-07-31.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OVMEB_2024",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OVMEB_2024.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OWEB_2024-09-25",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OWEB_2024-09-25.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OYA_2024-10-10",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OYA_2024-10-10.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PDSC_2024-09-11",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PDSC_2024-09-11.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PERS_2024-09-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PERS_2024-09-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PSRB_2024-08-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PSRB_2024-08-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PUC_2024-09-23",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PUC_2024-09-23.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_REA_2024-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_REA_2024-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_SOS_2024-09-16",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_SOS_2024-09-16.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_TSPC_2024-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_TSPC_2024-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_WRD_2024-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_WRD_2024-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BLPCT_2025-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BLPCT_2025-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BLSW_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BLSW_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOA_2025-10-06",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOA_2025-10-06.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOLI_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOLI_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BOP_2025-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOP_2025-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BPPPS_2025-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BPPPS_2025-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BSPA_2025-12-16",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BSPA_2025-12-16.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BTP_2025-09-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BTP_2025-09-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CCB_2025-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CCB_2025-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CJFD_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CJFD_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_CRGC_2025-07-31",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_CRGC_2025-07-31.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DA_2025-10-31",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DA_2025-10-31.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DAS_2025",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DAS_2025.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DCBS_2025",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DCBS_2025.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DELC_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DELC_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DEQ_2025-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DEQ_2025-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DHS_2025-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DHS_2025-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DLCD_2025-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DLCD_2025-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOC_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOC_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOGAMI_2025-10-10",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOGAMI_2025-10-10.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOJ_2025-10-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOJ_2025-10-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DOR_2025-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DOR_2025-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DPSST_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DPSST_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DSFM_2025-09-23",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DSFM_2025-09-23.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_DSL_2025-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_DSL_2025-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ERB_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ERB_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_GOV_2025-09-26",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_GOV_2025-09-26.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_HCSD_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_HCSD_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_HECC_2025",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_HECC_2025.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LAC_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LAC_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LC_2025-10-10",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LC_2025-10-10.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LCIS_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LCIS_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LEO_2025-10-13",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LEO_2025-10-13.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LFO_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LFO_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LPRO_2025-10-10",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LPRO_2025-10-10.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LRO_2025-09-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LRO_2025-09-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LTCO_2025-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LTCO_2025-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LUBA_2025-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LUBA_2025-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OACO_2025-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OACO_2025-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBCE_2025-09-23",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBCE_2025-09-23.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBD_2025-09-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBD_2025-09-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBDD_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBDD_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBMI_2025-07-09",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBMI_2025-07-09.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBNM_2025-10-14",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBNM_2025-10-14.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OBOP_2025-10-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OBOP_2025-10-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OCB_2025-09-19",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OCB_2025-09-19.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OCJC_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OCJC_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OCMB_2025-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OCMB_2025-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODA_2025",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODA_2025.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODAV_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODAV_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODE_2025-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODE_2025-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODEM_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODEM_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODF_2025-08-27",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODF_2025-08-27.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODFW_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODFW_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODOE_2025-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODOE_2025-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODOT_2025-09-25",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODOT_2025-09-25.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ODVA_2025-10-21",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ODVA_2025-10-21.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OED_2025-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OED_2025-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OGEC_2025-09-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OGEC_2025-09-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OHA_2025",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OHA_2025.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OJD_2025-09-12",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OJD_2025-09-12.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OLCC_2025-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OLCC_2025-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMB_2025-10-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMB_2025-10-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OMD_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OMD_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OPRA_2025-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OPRA_2025-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OPRD_2025-09-29",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OPRD_2025-09-29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_ORC_2025-09-18",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ORC_2025-09-18.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSBN_2025-10-13",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSBN_2025-10-13.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSL_2025-09-24",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSL_2025-09-24.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSMB_2025-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSMB_2025-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OSP_2025-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OSP_2025-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OST_2025",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OST_2025.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OTLB_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OTLB_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OVMEB_2025-10-03",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OVMEB_2025-10-03.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OWEB_2025-09-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OWEB_2025-09-02.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OYA_2025-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OYA_2025-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PDC_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PDC_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PERS_2025-09-30",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PERS_2025-09-30.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_PUC_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_PUC_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_REA_2025-10-01",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_REA_2025-10-01.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_SOS_2025-09-23",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_SOS_2025-09-23.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_TSPC_2025-10-16",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_TSPC_2025-10-16.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_WRD_2025-09-04",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_WRD_2025-09-04.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR-PUC",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR-PUC.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_OACO",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_OACO.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPRProposed_ODOT",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPRProposed_ODOT.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_BSLPA 9.30.20",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BSLPA%209.30.20.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_LTCO_FINAL",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_LTCO_FINAL.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_OHA",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OHA.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APPR_WRD 9.29.20",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_WRD%209.29.20.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "APR_CCB_ 9-14-17",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/APR_CCB_%209-14-17.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "DAS_APPR_FY(15-16)",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/DAS_APPR_FY%2815-16%29.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "DEQ KPM Report",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/DEQ%20KPM%20Report.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "DSL_APPR_Final11-04-16",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/DSL_APPR_Final11-04-16.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "OBD Annual Performance Progress Report",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/OBD%20Annual%20Performance%20Progress%20Report.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "ODAg KPM Reprot",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/ODAg%20KPM%20Reprot.pdf"
+    },
+    {
+      "group": "manifest",
+      "had_baseline": true,
+      "id": "Updated 2016 APPR_CFB_2017-16-02",
+      "outcome": "unchanged",
+      "url": "https://www.oregonlegislature.gov/lfo/APPR/Updated%202016%20APPR_CFB_2017-16-02.pdf"
+    }
+  ],
+  "totals": {
+    "changed": 0,
+    "fetch_failed": 0,
+    "no_baseline": 0,
+    "total": 789,
+    "unchanged": 789,
+    "unreadable_json": 0,
+    "watch_path_missing": 0
+  }
+}
