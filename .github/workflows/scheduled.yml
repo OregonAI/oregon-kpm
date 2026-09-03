@@ -1,14 +1,18 @@
 name: scheduled
 on:
   schedule:
-    - cron: "0 14 * * 1"      # weekly Monday; tighten per corpus cadence
+    - cron: "0 14 * * 1"      # weekly Monday: full validation
+    - cron: "0 14 1 * *"        # monthly, 1st: drift (corpus-toolkit ADR 0015)
   workflow_dispatch:
 
 jobs:
+  # Drift monthly, not weekly: since corpus-toolkit ADR 0015 a run writes DRIFT.md and
+  # files nothing, so nobody is waiting on a weekly result, and the full-validation jobs
+  # below are what the release canary relies on being green every week.
   drift:
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 14 1 * *'
     permissions:
       contents: write
-      issues: write
       # v1.30.0 opens a PR for STATUS.md instead of pushing to
       # this protected branch. A CALLER's permissions are the
       # ceiling for a reusable workflow, so the toolkit
