@@ -25,20 +25,20 @@ jobs:
       - run: pytest tests/ -v
 
   frontmatter:
-    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.31.1
+    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.32.0
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
-      toolkit-ref: v1.31.1
+      toolkit-ref: v1.32.0
   provenance:
-    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.31.1
+    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.32.0
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
-      toolkit-ref: v1.31.1
+      toolkit-ref: v1.32.0
   links:
-    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.31.1
+    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.32.0
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
-      toolkit-ref: v1.31.1
+      toolkit-ref: v1.32.0
       # lychee walks './**/*.md'. Without these exclusions it crawls
       # _meta/templates/document.md — a skeleton whose example URLs are not meant
       # to resolve — and every PR fails on link rot that is not link rot.
@@ -124,7 +124,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: OregonAI/corpus-toolkit
-          ref: v1.31.1
+          ref: v1.32.0
           path: .toolkit
       - uses: actions/setup-python@v5
         with:
