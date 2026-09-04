@@ -58,6 +58,13 @@ jobs:
         _meta/templates
         reports
 
+  # The gates every template-shaped corpus owes -- authority graph current, STATUS.md current,
+  # llms.txt Contents filled in -- run from the toolkit's reusable template-gates.yml, so they
+  # cannot drop out of this file one at a time (corpus-toolkit v1.35.0; CONTEXT.md "Template
+  # gates"). Corpus-specific checks stay in `generated` below.
+  template-gates:
+    uses: OregonAI/corpus-toolkit/.github/workflows/template-gates.yml@v1
+
   # EVERY COMMITTED GENERATED ARTIFACT MUST BE CURRENT, checked on every PR.
   #
   # This is the gate the toolkit cannot provide for you. It only READS
@@ -105,9 +112,18 @@ jobs:
   # not drift. Both `--check` implementations compare CONTENT and print the exact
   # command to re-run.
   generated:
+    # Waits for template-gates and fails when it failed, so the template gates are binding
+    # through this (required) check until `template-gates / gates` is itself required.
+    needs: template-gates
+    if: always()
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: template-gates must have passed
+        if: needs.template-gates.result != 'success'
+        run: |
+          echo "template-gates finished with '${{ needs.template-gates.result }}' -- see that job" >&2
+          exit 1
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
@@ -116,10 +132,6 @@ jobs:
       # Dockerfile bakes -- so these gates prove the toolkit this corpus actually ships. The
       # reusable workflows above run the CI track at `@v1` (corpus-toolkit ADR-0014).
       - run: pip install -r requirements.txt
-      - name: Authority graph must be current
-        run: python3 src/build_graph.py --check
-      - name: STATUS.md must be current
-        run: corpus-generate-status --config _meta/corpus.yml --output STATUS.md --check
       # _meta/series.json is derived from the committed report text, so it falls behind the
       # moment a document is added or re-ingested -- and nothing else would notice. The
       # series is what an agent actually queries; a stale one answers with numbers that no
