@@ -50,6 +50,8 @@ from pathlib import Path
 
 import yaml
 
+from corpus_toolkit.crosswalk import names_agree
+
 ROOT = Path(__file__).resolve().parent.parent
 REPORTS = ROOT / "reports"
 CROSSWALK = ROOT / "_meta" / "agency-crosswalk.yml"
@@ -114,49 +116,6 @@ def registry_oar_names(path: Path) -> dict[str, str]:
     data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
     return {o["slug"]: o["oar_name"] for o in data.get("organizations") or []
             if o.get("slug") and o.get("oar_name")}
-
-
-# --- BEGIN VERBATIM SHARED BLOCK (norm_variants / names_agree) -------------------------
-# Kept BYTE-IDENTICAL with the copy in oregon-audits/src/link_agency_registry.py, following
-# the convention src/federal_ids.py states: "copy it verbatim ... both sides then compute
-# the same [answers] by construction instead of by agreement". Both corpora define
-# `basis: exact` with the same four permitted moves, so they must normalise identically or
-# the same pair of names is exact in one repo and not the other. NOT yet covered by a
-# parity gate like the federal_ids.py one in .github/workflows/ci.yml -- if this block
-# grows a third copy, wire that gate before it drifts.
-def norm_variants(name: str) -> set[str]:
-    """Every reading the crosswalk note permits `basis: exact` to use.
-
-    The note lists the allowed moves as "case, punctuation, comma-inversion, a leading
-    Oregon" -- a SET of moves, not a pipeline that must apply all of them. A comma does two
-    different jobs in these strings: catalog inversion ("Administrative Services, Department
-    of") and a parent/child qualifier ("Secretary of State, Audits Division"). Inverting the
-    second is wrong and dropping the comma in the first is not enough, so both readings are
-    produced and a match on either is a match.
-
-    Written this way because forcing a single reading is a MEASURED bug, not a hypothetical:
-    always-invert reported 'Secretary of State Audits Division' as failing to match an
-    oar_name that is the same name with a comma in it.
-    """
-    n = name.strip().replace("\u2019", "'")
-    readings = {n.replace(",", " ")}
-    if "," in n:
-        head, tail = n.rsplit(",", 1)
-        readings.add(f"{tail.strip()} {head.strip()}")
-    out = set()
-    for r in readings:
-        r = " ".join(r.lower().replace(".", "").split())
-        for pre in ("oregon ", "state of oregon "):
-            if r.startswith(pre):
-                r = r[len(pre):]
-        out.add(r)
-    return out
-
-
-def names_agree(a: str, b: str) -> bool:
-    """True when two names are the same name under any reading the note permits."""
-    return bool(norm_variants(a) & norm_variants(b))
-# --- END VERBATIM SHARED BLOCK ---------------------------------------------------------
 
 
 def verify_exact_basis(cw: dict, keys: dict[str, set[str]],

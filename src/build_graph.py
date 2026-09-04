@@ -28,41 +28,22 @@ counted separately, so an unresolvable `to` means "look next door", not "broken"
 
   python3 src/build_graph.py           # write _meta/graph.json
   python3 src/build_graph.py --check   # exit 1 if stale (wire this into CI)
+
+Frontmatter parsing and the content walk come from the toolkit (`corpus_toolkit.repo`), so
+this builder sees exactly the documents the validator sees -- one scan rule, not two kept in
+step by hand.
 """
 import json
-import re
 import sys
 from pathlib import Path
 
-import yaml
+from corpus_toolkit import config as _config
+from corpus_toolkit.repo import content_files, parse_frontmatter
 
 ROOT = Path(__file__).resolve().parent.parent
-CONFIG = ROOT / "_meta/corpus.yml"
+CONFIG = _config.load(ROOT / "_meta/corpus.yml")
 
-_FM = re.compile(r"\A---\n(.*?)\n---\n", re.S)
 REL_KEYS = ("implements", "implemented_by", "references_external", "related", "supersedes")
-
-
-def frontmatter(path: Path) -> dict | None:
-    m = _FM.match(path.read_text(encoding="utf-8"))
-    return yaml.safe_load(m.group(1)) if m else None
-
-
-def content_files(config: dict):
-    """Every document under the configured content roots.
-
-    Mirrors the toolkit's own scan rules: files beginning with `_` (so `_index.md`)
-    and CHANGELOG.md are structure, not content, and are skipped. Keeping this in
-    step with the toolkit matters — a node the validator expects but the graph
-    lacks becomes an unresolvable relationship target."""
-    for root in config.get("content_roots") or []:
-        base = ROOT / root["path"]
-        if not base.is_dir():
-            continue
-        for path in sorted(base.rglob("*.md")):
-            if path.name.startswith("_") or path.name == "CHANGELOG.md":
-                continue
-            yield path
 
 
 def edges_for(fm: dict) -> list[dict]:
@@ -120,11 +101,10 @@ def series_edges(metas: list[dict]) -> list[dict]:
 
 
 def build() -> dict:
-    config = yaml.safe_load(CONFIG.read_text(encoding="utf-8"))
     nodes, edges, metas = [], [], []
-    for path in content_files(config):
-        fm = frontmatter(path)
-        if not fm or not fm.get("id"):
+    for path in content_files(CONFIG):
+        fm, _body = parse_frontmatter(path)
+        if not fm.get("id"):
             continue
         nodes.append({"id": fm["id"], "title": fm.get("title", ""),
                       "doc_type": fm.get("doc_type", ""),
@@ -134,7 +114,7 @@ def build() -> dict:
         edges.extend(edges_for(fm))
     edges.extend(series_edges(metas))
     local = {n["id"] for n in nodes}
-    return {"corpus": (config.get("corpus") or {}).get("id", ""),
+    return {"corpus": CONFIG.id,
             "n_nodes": len(nodes), "n_edges": len(edges),
             "n_edges_external": sum(1 for e in edges if e["to"] not in local),
             "nodes": nodes, "edges": edges}
@@ -143,8 +123,7 @@ def build() -> dict:
 def main():
     graph = build()
     text = json.dumps(graph, ensure_ascii=False, indent=1) + "\n"
-    out = ROOT / ((yaml.safe_load(CONFIG.read_text(encoding="utf-8")) or {})
-                  .get("graph_path") or "_meta/graph.json")
+    out = CONFIG.graph_path
     if "--check" in sys.argv:
         if not out.exists() or out.read_text(encoding="utf-8") != text:
             print(f"{out.relative_to(ROOT)} is stale — run: python3 src/build_graph.py")
