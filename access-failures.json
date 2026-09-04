@@ -1,4 +1,11 @@
 {
   "schema_version": 1,
-  "sources": []
+  "sources": [
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-04",
+      "group": "manifest",
+      "id": "APPR_BOA_2016-10-07"
+    }
+  ]
 }
