@@ -4,9 +4,9 @@
     "manifest": {
       "changed": 0,
       "checked": 789,
-      "fetch_failed": 0,
+      "fetch_failed": 1,
       "no_baseline": 0,
-      "unchanged": 789,
+      "unchanged": 788,
       "unreadable_json": 0,
       "watch_path_missing": 0
     }
@@ -21,7 +21,7 @@
       "group": "manifest",
       "had_baseline": true,
       "id": "APPR_BOA_2016-10-07",
-      "outcome": "unchanged",
+      "outcome": "fetch_failed",
       "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOA_2016-10-07.pdf"
     },
     {
@@ -5543,10 +5543,10 @@
   ],
   "totals": {
     "changed": 0,
-    "fetch_failed": 0,
+    "fetch_failed": 1,
     "no_baseline": 0,
     "total": 789,
-    "unchanged": 789,
+    "unchanged": 788,
     "unreadable_json": 0,
     "watch_path_missing": 0
   }
