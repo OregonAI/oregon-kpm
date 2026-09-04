@@ -112,18 +112,9 @@ jobs:
   # not drift. Both `--check` implementations compare CONTENT and print the exact
   # command to re-run.
   generated:
-    # Waits for template-gates and fails when it failed, so the template gates are binding
-    # through this (required) check until `template-gates / gates` is itself required.
-    needs: template-gates
-    if: always()
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: template-gates must have passed
-        if: needs.template-gates.result != 'success'
-        run: |
-          echo "template-gates finished with '${{ needs.template-gates.result }}' -- see that job" >&2
-          exit 1
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
