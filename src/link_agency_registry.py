@@ -8,7 +8,8 @@
 WHY A CROSSWALK AND NOT A CITATION SCHEME. `siblings:` resolution is exact lookup of a
 DOCUMENT ID pulled out of a citation string by regex, against a published corpus-index.json
 whose rows are [title, doc_type, path]. An agency is not a document there -- ERF's
-187-organization registry lives in `_meta/catalog/agencies.yml` and is never published to
+organization registry lives in `_meta/catalog/agencies.yml` (its size is whatever
+that file says today -- this comment stopped stating a count after being wrong twice, kpm#53) and is never published to
 that index -- and agency identity is a frontmatter field, not a string an APPR cites. No
 `register_scheme` can express this join. src/citation_schemes.py says the same thing about
 the budget join, for the same reason.
@@ -63,7 +64,6 @@ REGISTRY_CORPUS = "executive-regulatory-frameworks"
 # its former repo name `oregon-policy-repo` on others.
 REGISTRY_CANDIDATES = [
     ROOT.parent / "executive-regulatory-frameworks" / "_meta" / "catalog" / "agencies.yml",
-    ROOT.parent / "oregon-policy-repo" / "_meta" / "catalog" / "agencies.yml",
 ]
 
 BASES = {"exact", "alias", "successor", "manual"}
