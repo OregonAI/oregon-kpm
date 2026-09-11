@@ -145,6 +145,37 @@ jobs:
       # Runs WITHOUT a sibling checkout on purpose. Referential integrity against ERF
       # (--verify-registry) needs that repo and is a local/review step, the same split
       # oregon-budget's build_joins.py makes: what CI verifies must be verifiable from what
-      # is committed here.
+      # is committed here. That split is preserved: --verify-registry runs in its own job
+      # below, which checks ERF out explicitly and can fail for reasons outside this repo.
       - name: Agency registry crosswalk must be complete
         run: python3 src/link_agency_registry.py --check
+
+  # CROSS-REPO, and separated from `generated` for that reason. #52 asked for this once the
+  # nine mis-based entries were re-based, which they now are: --verify-registry checks every
+  # `basis: exact` claim against the ERF registry's own oar_name, and it went 72/81 before
+  # that work and 72/72 after. Wiring it earlier would have shipped a check that was red on
+  # arrival for reasons nobody could act on -- the thing people learn to ignore.
+  #
+  # THIS JOB CAN GO RED WITHOUT THIS REPO CHANGING. ERF renaming a row is enough. That is the
+  # point (a silent divergence is worse), and it is why the hermetic `--check` above stays
+  # where it is rather than being replaced by this.
+  verify-registry:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: OregonAI/executive-regulatory-frameworks
+          path: .registry
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # link_agency_registry imports corpus_toolkit.crosswalk (names_agree), so pyyaml alone
+      # is not enough. Installs requirements.txt, same as the `generated` job above: this
+      # repo's requirements are light (toolkit, pyyaml, pytest, pypdf -- the semantic extra
+      # pulls numpy, not torch), so there is nothing to narrow and no reason to differ.
+      - run: pip install -r requirements.txt
+      - name: "Every basis: exact claim must match the ERF registry"
+        run: |
+          python3 src/link_agency_registry.py --verify-registry \
+            --registry .registry/_meta/catalog/agencies.yml
