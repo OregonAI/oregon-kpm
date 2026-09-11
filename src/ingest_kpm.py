@@ -59,12 +59,16 @@ import urllib.request
 from pathlib import Path
 
 import yaml
-from pypdf import PdfReader
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from corpus_toolkit.repo import content_hash, hash_snapshot           # noqa: E402
+# `pypdf` and `corpus_toolkit.repo` are deliberately NOT imported at module level. The
+# `unit-tests` CI job installs only pyyaml + pytest (its own comment says so) precisely so
+# it can test this module's crosswalk seam (registry_stamp() et al.) without the heavier
+# fetch/hash dependencies those functions never touch. Import them lazily, at the top of
+# each function that actually calls into pypdf or corpus_toolkit, so `import ingest_kpm`
+# stays importable there. oregon-kpm#44 review.
 
 MANIFEST = ROOT / "_meta" / "source-manifest.yml"
 SNAPSHOTS = ROOT / "_meta" / "snapshots"
@@ -277,6 +281,7 @@ def write_layout(pdf_path: Path, rid: str) -> int:
     is what `## Full text` serves and what a reader and the FTS index want; this file is
     padded to preserve geometry and is a parsing input only.
     """
+    from pypdf import PdfReader   # lazy: see the note beside the module's imports
     try:
         pages = [p.extract_text(extraction_mode="layout") or ""
                  for p in PdfReader(str(pdf_path)).pages]
@@ -335,6 +340,7 @@ def extract_text(pdf_path: Path) -> tuple[str, str]:
     reporting year live there, and page-furniture stripping can remove a cover line that
     happens to repeat.
     """
+    from pypdf import PdfReader   # lazy: see the note beside the module's imports
     reader = PdfReader(str(pdf_path))
     raw_pages = [(p.extract_text() or "") for p in reader.pages]
 
@@ -442,8 +448,8 @@ def agency_key(name: str) -> str:
 _CROSSWALK: dict | None = None
 
 
-def registry_slug(key: str) -> str | None:
-    """The ERF registry slug for an agency_key, or None if unmapped or unrecorded.
+def _crosswalk_entry(key: str) -> dict | None:
+    """The raw crosswalk mapping entry for an agency_key, or None if unmapped or unrecorded.
 
     Read from `_meta/agency-crosswalk.yml`, which is curated and validated separately by
     src/link_agency_registry.py. Lazily, because most runs of this ingester never need it and
@@ -459,7 +465,51 @@ def registry_slug(key: str) -> str | None:
         p = ROOT / "_meta" / "agency-crosswalk.yml"
         _CROSSWALK = (yaml.safe_load(p.read_text(encoding="utf-8")) or {}) if p.is_file() else {}
     entry = (_CROSSWALK.get("mapping") or {}).get(key or "")
-    return entry.get("slug") if isinstance(entry, dict) else None
+    return entry if isinstance(entry, dict) and entry.get("slug") else None
+
+
+# The frontmatter fields a crosswalk entry can justify BEYOND the slug and corpus name --
+# each included only when the entry actually carries it. src/check_guardrails.py's
+# check_registry_link_agrees() imports this same table to verify a document against the
+# crosswalk field-for-field, so a field added here cannot silently go unverified there
+# (oregon-kpm#44 review: the two lists had drifted apart once already). `agency_registry_slug`
+# and `agency_registry_corpus` are not in this table -- they are always present whenever an
+# entry exists at all, not "present where the entry happens to carry it" like these three.
+REGISTRY_STAMP_FIELDS = (
+    ("agency_registry_basis", "basis"),
+    ("agency_registry_reviewed_by", "reviewed_by"),
+    ("agency_registry_reviewed_on", "reviewed_on"),
+)
+
+
+def registry_stamp(key: str) -> dict:
+    """Every frontmatter field this agency's crosswalk entry justifies, or {} if unmapped.
+
+    oregon-kpm#44: the crosswalk records not just the ERF slug but HOW the join was made --
+    `basis: exact` is a mechanical name match; `alias`/`successor` is a human asserting two
+    differently-named bodies are one agency, occasionally with `reviewed_by`/`reviewed_on`
+    recording who and when. Before this, only the slug reached frontmatter and the basis
+    stayed locked in `_meta/agency-crosswalk.yml` -- a reader could not tell a match from a
+    judgement. Everything here is READ from `_crosswalk_entry(key)`, the same lookup the
+    slug itself comes from, so this cannot disagree with the slug it stamps beside it.
+
+    `basis`, `reviewed_by` and `reviewed_on` (REGISTRY_STAMP_FIELDS, above) are each included
+    only when the crosswalk entry actually carries them. A `basis`-less entry stamping
+    `agency_registry_basis: null` would read as a value rather than as nothing, and a blank
+    `reviewed_by`/`reviewed_on` would read as "nobody reviewed this" exactly as wrongly as a
+    fabricated one would read as "someone did".
+    """
+    entry = _crosswalk_entry(key)
+    if not entry:
+        return {}
+    out = {
+        "agency_registry_slug": entry["slug"],
+        "agency_registry_corpus": "executive-regulatory-frameworks",
+    }
+    for field, ck in REGISTRY_STAMP_FIELDS:
+        if entry.get(ck):
+            out[field] = entry[ck]
+    return out
 
 
 def build_document(src: dict, text: str, sha: str, year: str, agency: str,
@@ -508,9 +558,12 @@ def build_document(src: dict, text: str, sha: str, year: str, agency: str,
         # The slug is a REFERENCE, not a copy. ERF's name, governance and hierarchy stay in
         # ERF; duplicating them here would create a second source of truth that drifts,
         # which is the failure `siblings:` exists to avoid.
-        **({"agency_registry_slug": registry_slug(agency_key(agency)),
-            "agency_registry_corpus": "executive-regulatory-frameworks"}
-           if registry_slug(agency_key(agency)) else {}),
+        #
+        # `agency_registry_basis` (and reviewed_by/reviewed_on where the crosswalk has them)
+        # travel alongside the slug for the same reason: a mechanical `exact` match and a
+        # human `alias`/`successor` judgement are different claims, and the slug alone does
+        # not say which one this is. See registry_stamp(), oregon-kpm#44.
+        **registry_stamp(agency_key(agency)),
         "agency_code": code,
         # From the DOCUMENT, per the module docstring. year_source says so explicitly so a
         # reader never has to guess whether a year was stated or inferred.
@@ -584,6 +637,8 @@ def build_document(src: dict, text: str, sha: str, year: str, agency: str,
 
 
 def main() -> int:
+    # lazy: see the note beside the module's imports
+    from corpus_toolkit.repo import content_hash, hash_snapshot
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--years", help="comma-separated reporting years to ingest")

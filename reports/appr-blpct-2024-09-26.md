@@ -13,6 +13,7 @@ agency: Board of Licensed Professional Counselors and Therapists
 agency_key: counselors-licensed-professional-therapists
 agency_registry_slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: alias
 agency_code: BLPCT
 reporting_year: '2024'
 year_source: document

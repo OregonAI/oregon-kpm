@@ -146,12 +146,22 @@ mcp:
   # whose provenance is invisible is a value a caller cannot weigh. Shipping
   # `agency_registry_slug` without them would put a cross-corpus link in the corpus and
   # leave it unreadable.
+  #
+  # `agency_registry_basis`/`agency_registry_reviewed_by`/`agency_registry_reviewed_on`
+  # (oregon-kpm#44) are the same trap in miniature: src/check_guardrails.py makes them
+  # mandatory on every mapped document, but without this line the server drops them same as
+  # any other field, and the cross-corpus consumers the issue was filed for
+  # (corpus-toolkit#46 `documents_by_agency`, corpus-gateway#1 `agency_profile`) could never
+  # see a `successor` join was a human judgement rather than a mechanical match.
   extra_document_fields:
     - agency
     - agency_key
     - agency_code
     - agency_registry_slug
     - agency_registry_corpus
+    - agency_registry_basis
+    - agency_registry_reviewed_by
+    - agency_registry_reviewed_on
     - reporting_year
     - year_source
     - measure_status

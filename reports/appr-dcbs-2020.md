@@ -13,6 +13,7 @@ agency: Consumer & Business Services, Department of
 agency_key: business-consumer-services
 agency_registry_slug: department-of-consumer-and-business-services
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: DCBS
 reporting_year: '2020'
 year_source: document

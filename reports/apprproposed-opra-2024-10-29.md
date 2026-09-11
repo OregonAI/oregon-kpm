@@ -12,6 +12,7 @@ agency: Public Records Advocate
 agency_key: advocate-public-records
 agency_registry_slug: public-records-advocate
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: null
 reporting_year: '2024'
 year_source: document

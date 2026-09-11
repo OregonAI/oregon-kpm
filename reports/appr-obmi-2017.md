@@ -12,6 +12,7 @@ agency: Medical Imaging, Board of
 agency_key: imaging-medical
 agency_registry_slug: board-of-medical-imaging
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: OBMI
 reporting_year: '2017'
 year_source: document

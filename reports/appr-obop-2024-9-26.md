@@ -12,6 +12,7 @@ agency: Board of Pharmacy
 agency_key: pharmacy
 agency_registry_slug: board-of-pharmacy
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: null
 reporting_year: '2024'
 year_source: document

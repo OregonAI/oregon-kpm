@@ -13,6 +13,7 @@ agency: Public Safety Standards and Training, Department of
 agency_key: public-safety-standards-training
 agency_registry_slug: department-of-public-safety-standards-and-training
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: DPSST
 reporting_year: '2021'
 year_source: document

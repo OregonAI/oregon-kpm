@@ -12,6 +12,7 @@ agency: Corrections, Department of
 agency_key: corrections
 agency_registry_slug: department-of-corrections
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: DOC
 reporting_year: '2022'
 year_source: document

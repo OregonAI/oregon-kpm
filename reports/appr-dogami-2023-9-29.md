@@ -13,6 +13,7 @@ agency: Department of Geology and Mineral Industries
 agency_key: geology-industries-mineral
 agency_registry_slug: department-of-geology-and-mineral-industries
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: null
 reporting_year: '2023'
 year_source: document

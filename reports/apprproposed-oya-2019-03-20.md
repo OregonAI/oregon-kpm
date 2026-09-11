@@ -12,6 +12,7 @@ agency: Youth Authority, Oregon
 agency_key: authority-youth
 agency_registry_slug: oregon-youth-authority
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: OYA
 reporting_year: '2018'
 year_source: document

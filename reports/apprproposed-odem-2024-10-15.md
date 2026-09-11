@@ -12,6 +12,9 @@ agency: Department of Emergency Management
 agency_key: emergency-management
 agency_registry_slug: oregon-military-department-office-of-emergency-management
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: successor
+agency_registry_reviewed_by: '@morficflux'
+agency_registry_reviewed_on: '2026-09-11'
 agency_code: ODEM
 reporting_year: '2024'
 year_source: document

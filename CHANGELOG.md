@@ -6,6 +6,40 @@ Repo-curation dates only — official effective dates live in frontmatter.
 
 ## [Unreleased]
 
+### Added
+- 2026-09-10 — `src/link_agency_registry.py` records, per agency, HOW its join to the
+  ERF registry was made — `basis: exact` (mechanical name match), `alias`/`successor` (a
+  human asserted two names denote one body, sometimes with `reviewed_by`/`reviewed_on`) —
+  but `src/ingest_kpm.py` stamped only the slug, dropping the basis on the floor: a reader
+  of a document's frontmatter could not tell a mechanical match from a human judgement
+  (#44). `registry_stamp()` now reads the same crosswalk entry (`_crosswalk_entry()`) the
+  slug itself comes from and returns every field it justifies, via a shared
+  `REGISTRY_STAMP_FIELDS` table; `agency_registry_basis` (and
+  `agency_registry_reviewed_by`/`agency_registry_reviewed_on` wherever the crosswalk
+  entry carries them) are stamped alongside `agency_registry_slug`, each omitted rather
+  than stamped `null`/blank when the entry does not carry it. Backfilled all 785
+  already-committed reports from the same function (not re-derived by hand) so the
+  corpus is 785/785 stamped with basis, matching its existing 785/785 slug coverage.
+  Measured on this corpus's 96 crosswalk entries at the moment of the fix
+  (`python3 -c "..."` over `_meta/agency-crosswalk.yml`): `exact: 72, alias: 18,
+  successor: 6` — 24 non-exact joins, not the 15 the issue was filed against; #52 had
+  since re-based nine entries between filing and this fix. `check_registry_link_agrees()`
+  in `src/check_guardrails.py` imports that same `REGISTRY_STAMP_FIELDS` table and now
+  verifies the stamped basis and review metadata against the crosswalk exactly as it
+  already verified the slug — symmetrically in both directions, so a document either
+  missing a value the crosswalk records or carrying one the crosswalk does not (including
+  a reviewer sign-off later retracted from the crosswalk) is flagged, not just the first
+  case. `_meta/corpus.yml`'s `mcp.extra_document_fields` now allow-lists all three new
+  fields too, so `get_document` actually serves them rather than silently dropping them
+  as required-by-our-own-guardrail-but-unreachable. `src/ingest_kpm.py`'s `pypdf` and
+  `corpus_toolkit.repo` imports moved from module level to the individual functions that
+  need them, so `import ingest_kpm` (what the new tests do) stays hermetic for the
+  `unit-tests` CI job, which installs only pyyaml + pytest. Removed the now-dead
+  `registry_slug()` wrapper. Added `tests/test_ingest_kpm.py` and
+  `tests/test_check_guardrails.py`.
+  Out of scope, per the issue: no crosswalk mapping or basis changed, and `unmapped`
+  entries correctly stay unstamped.
+
 ### Fixed
 - 2026-08-27 — Drift detection was inert: `src/enumerate_kpm.py` hardcoded
   `sha256: ""` on every rebuild, silently erasing whatever

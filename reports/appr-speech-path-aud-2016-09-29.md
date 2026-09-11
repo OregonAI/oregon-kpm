@@ -12,6 +12,7 @@ agency: Speech-Language Pathology and Audiology
 agency_key: audiology-language-pathology-speech
 agency_registry_slug: board-of-examiners-for-speech-language-pathology-and-audiology
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: alias
 agency_code: null
 reporting_year: '2016'
 year_source: document

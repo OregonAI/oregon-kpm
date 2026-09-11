@@ -12,6 +12,7 @@ agency: Oregon Health Authority
 agency_key: authority-health
 agency_registry_slug: oregon-health-authority
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: OHA
 reporting_year: '2025'
 year_source: document

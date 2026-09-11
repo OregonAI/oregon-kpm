@@ -13,6 +13,7 @@ agency: Board of Parole and Post-Prison Supervision
 agency_key: parole-post-prison-supervision
 agency_registry_slug: board-of-parole-and-post-prison-supervision
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: BPPPS
 reporting_year: '2025'
 year_source: document

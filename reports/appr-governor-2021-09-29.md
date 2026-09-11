@@ -12,6 +12,7 @@ agency: Governor's Office
 agency_key: governor-s
 agency_registry_slug: office-of-the-governor
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: alias
 agency_code: GOVERNOR
 reporting_year: '2021'
 year_source: document
