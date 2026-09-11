@@ -170,7 +170,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install pyyaml==6.0.2
+      # link_agency_registry imports corpus_toolkit.crosswalk (names_agree), so pyyaml alone
+      # is not enough. Installs requirements.txt, same as the `generated` job above: this
+      # repo's requirements are light (toolkit, pyyaml, pytest, pypdf -- the semantic extra
+      # pulls numpy, not torch), so there is nothing to narrow and no reason to differ.
+      - run: pip install -r requirements.txt
       - name: "Every basis: exact claim must match the ERF registry"
         run: |
           python3 src/link_agency_registry.py --verify-registry \
