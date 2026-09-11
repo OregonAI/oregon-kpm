@@ -6,6 +6,28 @@ Repo-curation dates only — official effective dates live in frontmatter.
 
 ## [Unreleased]
 
+### Added
+- 2026-09-10 — `src/link_agency_registry.py` records, per agency, HOW its join to the
+  ERF registry was made — `basis: exact` (mechanical name match), `alias`/`successor` (a
+  human asserted two names denote one body, sometimes with `reviewed_by`/`reviewed_on`) —
+  but `src/ingest_kpm.py` stamped only the slug, dropping the basis on the floor: a reader
+  of a document's frontmatter could not tell a mechanical match from a human judgement
+  (#44). `registry_stamp()` now reads the same crosswalk entry `registry_slug()` already
+  resolved and returns every field it justifies; `agency_registry_basis` (and
+  `agency_registry_reviewed_by`/`agency_registry_reviewed_on` wherever the crosswalk
+  entry carries them) are stamped alongside `agency_registry_slug`. Backfilled all 785
+  already-committed reports from the same function (not re-derived by hand) so the
+  corpus is 785/785 stamped with basis, matching its existing 785/785 slug coverage.
+  Measured on this corpus's 96 crosswalk entries at the moment of the fix
+  (`python3 -c "..."` over `_meta/agency-crosswalk.yml`): `exact: 72, alias: 18,
+  successor: 6` — 24 non-exact joins, not the 15 the issue was filed against; #52 had
+  since re-based nine entries between filing and this fix. `check_registry_link_agrees()`
+  in `src/check_guardrails.py` now verifies the stamped basis (and review metadata)
+  against the crosswalk exactly as it already verified the slug, so this cannot drift
+  silently again. Added `tests/test_ingest_kpm.py` and `tests/test_check_guardrails.py`.
+  Out of scope, per the issue: no crosswalk mapping or basis changed, and `unmapped`
+  entries correctly stay unstamped.
+
 ### Fixed
 - 2026-08-27 — Drift detection was inert: `src/enumerate_kpm.py` hardcoded
   `sha256: ""` on every rebuild, silently erasing whatever

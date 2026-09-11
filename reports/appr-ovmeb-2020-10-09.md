@@ -12,6 +12,7 @@ agency: Veterinary Medical Examining Board
 agency_key: examining-medical-veterinary
 agency_registry_slug: veterinary-medical-examining-board
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: OVMEB
 reporting_year: '2020'
 year_source: document

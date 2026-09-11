@@ -12,6 +12,7 @@ agency: Department of Education
 agency_key: education
 agency_registry_slug: oregon-department-of-education
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: ODE
 reporting_year: '2024'
 year_source: document

@@ -12,6 +12,7 @@ agency: Justice, Department of
 agency_key: justice
 agency_registry_slug: department-of-justice
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: null
 reporting_year: '2022'
 year_source: document

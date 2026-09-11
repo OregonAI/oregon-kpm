@@ -12,6 +12,7 @@ agency: Forestry, Department of
 agency_key: forestry
 agency_registry_slug: department-of-forestry
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: null
 reporting_year: '2016'
 year_source: document

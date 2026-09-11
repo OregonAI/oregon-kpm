@@ -12,6 +12,7 @@ agency: Long Term Care Ombudsman
 agency_key: care-long-ombudsman-term
 agency_registry_slug: long-term-care-ombudsman
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: OLTCO
 reporting_year: '2023'
 year_source: document

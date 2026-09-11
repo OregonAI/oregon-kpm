@@ -12,6 +12,7 @@ agency: Department of Human Services
 agency_key: human-services
 agency_registry_slug: department-of-human-services
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: DHS
 reporting_year: '2022'
 year_source: document

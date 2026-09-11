@@ -12,6 +12,7 @@ agency: Medical Board, Oregon
 agency_key: medical
 agency_registry_slug: oregon-medical-board
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: OMB
 reporting_year: '2022'
 year_source: document

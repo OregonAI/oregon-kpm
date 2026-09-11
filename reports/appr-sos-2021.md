@@ -12,6 +12,7 @@ agency: Secretary of State
 agency_key: secretary
 agency_registry_slug: secretary-of-state
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: SOS
 reporting_year: '2021'
 year_source: document

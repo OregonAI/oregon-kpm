@@ -13,6 +13,7 @@ agency: Geology & Mineral Industries, Department of
 agency_key: geology-industries-mineral
 agency_registry_slug: department-of-geology-and-mineral-industries
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: DOGAMI
 reporting_year: '2018'
 year_source: document

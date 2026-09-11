@@ -138,7 +138,8 @@ def check_ocr_is_declared(docs) -> list[str]:
 
 
 def check_registry_link_agrees(docs) -> list[str]:
-    """A document's ERF slug must be the one the crosswalk records for its agency_key.
+    """A document's ERF slug, and the basis and review metadata stamped beside it, must be
+    the ones the crosswalk records for its agency_key.
 
     Frontmatter is written by the ingester and the crosswalk is curated by hand, so the two
     can drift the moment either is edited alone -- and the failure is silent: a document
@@ -146,6 +147,14 @@ def check_registry_link_agrees(docs) -> list[str]:
     until someone follows the link. This is the same shape as check_series_is_current, which
     exists because a stale derived file answers with numbers that no longer match the
     documents citing them.
+
+    `basis` gets exactly the same treatment (oregon-kpm#44): `--check` verifies the slug
+    already, and a `basis` that silently drifted after a re-base (#52 re-based nine entries
+    that were wrongly claiming `exact`) is indistinguishable from a mechanical match at the
+    point a reader actually sees it -- which is the whole reason this corpus stamps it.
+    `reviewed_by`/`reviewed_on` are checked too wherever the crosswalk entry carries them:
+    those two fields exist to say a human asserted the identity, so a document silently
+    missing them is not stamping "provenance", it's stamping nothing.
 
     Absence is not checked here. An unmapped agency deliberately carries no slug, and
     src/link_agency_registry.py --check is what enforces that every agency_key is either
@@ -160,13 +169,26 @@ def check_registry_link_agrees(docs) -> list[str]:
         slug = fm.get("agency_registry_slug")
         if not slug:
             continue
-        want = (mapping.get(fm.get("agency_key") or "") or {}).get("slug")
+        entry = mapping.get(fm.get("agency_key") or "") or {}
+        want = entry.get("slug")
         if slug != want:
             bad.append(f"{p.name}: agency_registry_slug={slug!r} but the crosswalk maps "
                        f"agency_key={fm.get('agency_key')!r} to {want!r}")
         if fm.get("agency_registry_corpus") != "executive-regulatory-frameworks":
             bad.append(f"{p.name}: agency_registry_slug without a corpus naming where the "
                        f"slug is defined")
+        basis = fm.get("agency_registry_basis")
+        want_basis = entry.get("basis")
+        if basis != want_basis:
+            bad.append(f"{p.name}: agency_registry_basis={basis!r} but the crosswalk "
+                       f"records basis={want_basis!r} for agency_key="
+                       f"{fm.get('agency_key')!r}")
+        for field, key in (("agency_registry_reviewed_by", "reviewed_by"),
+                          ("agency_registry_reviewed_on", "reviewed_on")):
+            want_val = entry.get(key)
+            if want_val and fm.get(field) != want_val:
+                bad.append(f"{p.name}: {field}={fm.get(field)!r} but the crosswalk "
+                           f"records {key}={want_val!r}")
     return bad
 
 

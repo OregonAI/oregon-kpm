@@ -12,6 +12,7 @@ agency: Long Term Care Ombudsman, Office of
 agency_key: care-long-ombudsman-term
 agency_registry_slug: long-term-care-ombudsman
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: null
 reporting_year: '2019'
 year_source: document

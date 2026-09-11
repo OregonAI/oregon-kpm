@@ -13,6 +13,7 @@ agency: Department of Land Conservation and Development
 agency_key: conservation-development-land
 agency_registry_slug: land-conservation-and-development-department
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: DLCD
 reporting_year: '2024'
 year_source: document

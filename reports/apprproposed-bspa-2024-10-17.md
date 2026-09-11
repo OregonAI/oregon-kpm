@@ -13,6 +13,7 @@ agency: Board of Speech-Language Pathology and Audiology
 agency_key: audiology-language-pathology-speech
 agency_registry_slug: board-of-examiners-for-speech-language-pathology-and-audiology
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: alias
 agency_code: BSPA
 reporting_year: '2024'
 year_source: document

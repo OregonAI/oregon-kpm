@@ -12,6 +12,9 @@ agency: State Treasurer
 agency_key: treasurer
 agency_registry_slug: oregon-state-treasury
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: alias
+agency_registry_reviewed_by: '@morficflux'
+agency_registry_reviewed_on: '2026-09-11'
 agency_code: OST
 reporting_year: '2025'
 year_source: document

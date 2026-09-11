@@ -12,6 +12,7 @@ agency: State Lands, Department of
 agency_key: lands
 agency_registry_slug: department-of-state-lands
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: DSL
 reporting_year: '2022'
 year_source: document

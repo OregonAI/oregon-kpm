@@ -442,8 +442,8 @@ def agency_key(name: str) -> str:
 _CROSSWALK: dict | None = None
 
 
-def registry_slug(key: str) -> str | None:
-    """The ERF registry slug for an agency_key, or None if unmapped or unrecorded.
+def _crosswalk_entry(key: str) -> dict | None:
+    """The raw crosswalk mapping entry for an agency_key, or None if unmapped or unrecorded.
 
     Read from `_meta/agency-crosswalk.yml`, which is curated and validated separately by
     src/link_agency_registry.py. Lazily, because most runs of this ingester never need it and
@@ -459,7 +459,43 @@ def registry_slug(key: str) -> str | None:
         p = ROOT / "_meta" / "agency-crosswalk.yml"
         _CROSSWALK = (yaml.safe_load(p.read_text(encoding="utf-8")) or {}) if p.is_file() else {}
     entry = (_CROSSWALK.get("mapping") or {}).get(key or "")
-    return entry.get("slug") if isinstance(entry, dict) else None
+    return entry if isinstance(entry, dict) and entry.get("slug") else None
+
+
+def registry_slug(key: str) -> str | None:
+    """The ERF registry slug for an agency_key, or None if unmapped or unrecorded."""
+    entry = _crosswalk_entry(key)
+    return entry["slug"] if entry else None
+
+
+def registry_stamp(key: str) -> dict:
+    """Every frontmatter field this agency's crosswalk entry justifies, or {} if unmapped.
+
+    oregon-kpm#44: the crosswalk records not just the ERF slug but HOW the join was made --
+    `basis: exact` is a mechanical name match; `alias`/`successor` is a human asserting two
+    differently-named bodies are one agency, occasionally with `reviewed_by`/`reviewed_on`
+    recording who and when. Before this, only the slug reached frontmatter and the basis
+    stayed locked in `_meta/agency-crosswalk.yml` -- a reader could not tell a match from a
+    judgement. Everything here is READ from the entry `registry_slug` already resolved, not
+    recomputed, so this cannot disagree with the slug the linker stamps beside it.
+
+    `reviewed_by`/`reviewed_on` are included only when the crosswalk entry actually carries
+    them -- most entries do not, and a blank stamped value would read as "nobody reviewed
+    this" exactly as wrongly as a fabricated one would read as "someone did".
+    """
+    entry = _crosswalk_entry(key)
+    if not entry:
+        return {}
+    out = {
+        "agency_registry_slug": entry["slug"],
+        "agency_registry_corpus": "executive-regulatory-frameworks",
+        "agency_registry_basis": entry.get("basis"),
+    }
+    if entry.get("reviewed_by"):
+        out["agency_registry_reviewed_by"] = entry["reviewed_by"]
+    if entry.get("reviewed_on"):
+        out["agency_registry_reviewed_on"] = entry["reviewed_on"]
+    return out
 
 
 def build_document(src: dict, text: str, sha: str, year: str, agency: str,
@@ -508,9 +544,12 @@ def build_document(src: dict, text: str, sha: str, year: str, agency: str,
         # The slug is a REFERENCE, not a copy. ERF's name, governance and hierarchy stay in
         # ERF; duplicating them here would create a second source of truth that drifts,
         # which is the failure `siblings:` exists to avoid.
-        **({"agency_registry_slug": registry_slug(agency_key(agency)),
-            "agency_registry_corpus": "executive-regulatory-frameworks"}
-           if registry_slug(agency_key(agency)) else {}),
+        #
+        # `agency_registry_basis` (and reviewed_by/reviewed_on where the crosswalk has them)
+        # travel alongside the slug for the same reason: a mechanical `exact` match and a
+        # human `alias`/`successor` judgement are different claims, and the slug alone does
+        # not say which one this is. See registry_stamp(), oregon-kpm#44.
+        **registry_stamp(agency_key(agency)),
         "agency_code": code,
         # From the DOCUMENT, per the module docstring. year_source says so explicitly so a
         # reader never has to guess whether a year was stated or inferred.

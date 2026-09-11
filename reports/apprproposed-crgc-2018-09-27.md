@@ -12,6 +12,7 @@ agency: Columbia River Gorge Commission
 agency_key: columbia-gorge-river
 agency_registry_slug: columbia-river-gorge-commission
 agency_registry_corpus: executive-regulatory-frameworks
+agency_registry_basis: exact
 agency_code: CRGC
 reporting_year: '2018'
 year_source: document
