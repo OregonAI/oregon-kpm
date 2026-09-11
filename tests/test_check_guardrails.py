@@ -58,6 +58,11 @@ class TestCheckRegistryLinkAgrees:
         assert any("agency_registry_basis" in p and "successor" in p for p in problems)
 
     def test_stamped_basis_agreeing_with_the_crosswalk_is_silent(self, tmp_path, monkeypatch):
+        # Negative companion to the flagging test above: pins that a CORRECT stamp stays
+        # quiet. On its own this does not discriminate the fix in this change -- it was
+        # equally true before check_registry_link_agrees looked at basis at all, since no
+        # comparison existed to fire. Its value is only alongside the flagging tests, which
+        # do change behaviour.
         _crosswalk(tmp_path, monkeypatch)
         docs = [(Path("appr-boa-2020.md"), {
             "agency_key": "accountancy",
@@ -66,6 +71,23 @@ class TestCheckRegistryLinkAgrees:
             "agency_registry_basis": "exact",
         })]
         assert cg.check_registry_link_agrees(docs) == []
+
+    def test_stamped_basis_for_an_agency_key_the_crosswalk_does_not_map_is_flagged(
+            self, tmp_path, monkeypatch):
+        """A slug can only be stamped by an ingest that already found a crosswalk entry, so
+        this is defence in depth against a hand-edited or stale document -- `entry` comes
+        back `{}`, `want_basis` is `None`, and a document claiming ANY basis for an
+        agency_key the crosswalk no longer maps must not pass silently.
+        """
+        _crosswalk(tmp_path, monkeypatch)
+        docs = [(Path("appr-ghost-2020.md"), {
+            "agency_key": "no-such-agency",
+            "agency_registry_slug": "oregon-board-of-accountancy",
+            "agency_registry_corpus": "executive-regulatory-frameworks",
+            "agency_registry_basis": "exact",
+        })]
+        problems = cg.check_registry_link_agrees(docs)
+        assert any("agency_registry_basis" in p for p in problems)
 
     def test_missing_review_metadata_for_a_reviewed_entry_is_flagged(self, tmp_path, monkeypatch):
         _crosswalk(tmp_path, monkeypatch)
@@ -79,3 +101,26 @@ class TestCheckRegistryLinkAgrees:
         problems = cg.check_registry_link_agrees(docs)
         assert any("agency_registry_reviewed_by" in p for p in problems)
         assert any("agency_registry_reviewed_on" in p for p in problems)
+
+    def test_stamped_review_metadata_for_an_unreviewed_entry_is_flagged(
+            self, tmp_path, monkeypatch):
+        """The other direction from the test above, and the one oregon-kpm#44's review
+        found missing: a document can carry a reviewer/date the crosswalk does NOT record
+        -- either fabricated outright, or left behind after a sign-off is retracted from
+        the crosswalk (the crosswalk is the record of who actually reviewed a join; a
+        document is not allowed to outlive it). `accountancy` here has no reviewed_by/
+        reviewed_on at all, so a document stamping either must be flagged, not waved
+        through because "the crosswalk side is empty".
+        """
+        _crosswalk(tmp_path, monkeypatch)
+        docs = [(Path("appr-boa-2020.md"), {
+            "agency_key": "accountancy",
+            "agency_registry_slug": "oregon-board-of-accountancy",
+            "agency_registry_corpus": "executive-regulatory-frameworks",
+            "agency_registry_basis": "exact",
+            "agency_registry_reviewed_by": "@someone-who-never-reviewed-this",
+            "agency_registry_reviewed_on": "2099-01-01",
+        })]
+        problems = cg.check_registry_link_agrees(docs)
+        assert any("agency_registry_reviewed_by" in p and "None" in p for p in problems)
+        assert any("agency_registry_reviewed_on" in p and "None" in p for p in problems)

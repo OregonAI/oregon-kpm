@@ -26,6 +26,14 @@ ROOT = Path(__file__).resolve().parent.parent
 REPORTS = ROOT / "reports"
 SERIES = ROOT / "_meta" / "series.json"
 
+# Shared with the writer (src/ingest_kpm.py's registry_stamp()) so the fields this check
+# verifies cannot silently drift from the fields actually stamped -- oregon-kpm#44 review:
+# the two lists were maintained independently once already. `import ingest_kpm` stays
+# hermetic here because ingest_kpm's own heavy imports (pypdf, corpus_toolkit.repo) are
+# themselves lazy, loaded only inside the functions that need them.
+sys.path.insert(0, str(ROOT / "src"))
+from ingest_kpm import REGISTRY_STAMP_FIELDS  # noqa: E402
+
 YEAR_SOURCES = {"document", "filename", "filename-scan", "socrata"}
 STATUSES = {"approved", "proposed"}
 TEXT_SOURCES = {"pdf-text", "ocr"}
@@ -148,13 +156,16 @@ def check_registry_link_agrees(docs) -> list[str]:
     exists because a stale derived file answers with numbers that no longer match the
     documents citing them.
 
-    `basis` gets exactly the same treatment (oregon-kpm#44): `--check` verifies the slug
-    already, and a `basis` that silently drifted after a re-base (#52 re-based nine entries
-    that were wrongly claiming `exact`) is indistinguishable from a mechanical match at the
-    point a reader actually sees it -- which is the whole reason this corpus stamps it.
-    `reviewed_by`/`reviewed_on` are checked too wherever the crosswalk entry carries them:
-    those two fields exist to say a human asserted the identity, so a document silently
-    missing them is not stamping "provenance", it's stamping nothing.
+    `basis`, `reviewed_by` and `reviewed_on` all get exactly the same treatment as `slug`
+    (oregon-kpm#44): every comparison is symmetric, both a missing value the crosswalk
+    records AND a stamped value the crosswalk does not (or no longer does) are flagged. A
+    `basis` that silently drifted after a re-base (#52 re-based nine entries that were
+    wrongly claiming `exact`) is indistinguishable from a mechanical match at the point a
+    reader actually sees it -- which is the whole reason this corpus stamps it. The same is
+    true of `reviewed_by`/`reviewed_on`: those two fields exist to say a human asserted the
+    identity, so a document missing them when the crosswalk has them is stamping nothing
+    where it claims provenance, and a document carrying either after the crosswalk's
+    sign-off is retracted is asserting a review that no longer stands on record.
 
     Absence is not checked here. An unmapped agency deliberately carries no slug, and
     src/link_agency_registry.py --check is what enforces that every agency_key is either
@@ -177,18 +188,20 @@ def check_registry_link_agrees(docs) -> list[str]:
         if fm.get("agency_registry_corpus") != "executive-regulatory-frameworks":
             bad.append(f"{p.name}: agency_registry_slug without a corpus naming where the "
                        f"slug is defined")
-        basis = fm.get("agency_registry_basis")
-        want_basis = entry.get("basis")
-        if basis != want_basis:
-            bad.append(f"{p.name}: agency_registry_basis={basis!r} but the crosswalk "
-                       f"records basis={want_basis!r} for agency_key="
-                       f"{fm.get('agency_key')!r}")
-        for field, key in (("agency_registry_reviewed_by", "reviewed_by"),
-                          ("agency_registry_reviewed_on", "reviewed_on")):
-            want_val = entry.get(key)
-            if want_val and fm.get(field) != want_val:
-                bad.append(f"{p.name}: {field}={fm.get(field)!r} but the crosswalk "
-                           f"records {key}={want_val!r}")
+        # REGISTRY_STAMP_FIELDS (from ingest_kpm, the writer) rather than a second hand-kept
+        # list here -- so a field neither side forgets to add stays checked on both. Every
+        # comparison is symmetric: a document must neither miss a value the crosswalk records
+        # NOR carry one the crosswalk does not (or no longer does -- a `basis` that silently
+        # drifted after a re-base, as #52's nine entries did, or a reviewed_by/reviewed_on
+        # left behind after a sign-off is retracted, must not go unnoticed). `entry.get(key)
+        # or None` normalises the crosswalk's "absent" against frontmatter's "absent", so
+        # neither side's specific spelling of "nothing here" causes a false positive.
+        for field, key in REGISTRY_STAMP_FIELDS:
+            want_val = entry.get(key) or None
+            got = fm.get(field)
+            if got != want_val:
+                bad.append(f"{p.name}: {field}={got!r} but the crosswalk records "
+                           f"{key}={want_val!r} for agency_key={fm.get('agency_key')!r}")
     return bad
 
 
