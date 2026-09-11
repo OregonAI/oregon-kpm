@@ -49,7 +49,12 @@ mapping:
     basis: exact
   attorneys-deputies-district:
     slug: district-attorneys-and-deputies
-    basis: exact
+    basis: alias
+    note: The registry entry covers district attorneys and their deputies together; the reports name them
+      "District Attorneys and Their Deputies" in some years. Same body as the `attorneys-district` key
+      -- this is a third spelling, not a different office.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-09-11'
   attorneys-district:
     slug: district-attorneys-and-deputies
     basis: alias
@@ -91,10 +96,23 @@ mapping:
     basis: exact
   cannabis-liquor:
     slug: oregon-liquor-control-commission
-    basis: exact
+    basis: successor
+    note: HB 2111 (2021 regular session), Oregon Laws 2021 chapter 351, effective August 2021, renamed
+      the Oregon Liquor Control Commission as the Oregon Liquor and Cannabis Commission, keeping the acronym
+      OLCC, and updated references across the ORS -- 193 mirrored sections carry `2021 c.351`, e.g. ORS
+      471.040 "[Amended by 2001 c.785 s.10; 2021 c.351 s.41]". The reports name the successor body; the
+      registry carries the former name as oar_name with the current name among its aliases.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-09-11'
   care-early-learning:
     slug: oregon-department-of-education-early-learning-division
-    basis: exact
+    basis: successor
+    note: HB 3073 (2021 regular session), operative 2023-07-01, made the Early Learning Division an independent
+      agency titled the Department of Early Learning and Care, spun out of the Department of Education;
+      codified at ORS 326.430(1)(a). The reports name the successor body; the registry carries the predecessor
+      placement (DAS 588, OAR chapter 414) with the current name among its aliases.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-09-11'
   care-long-ombudsman-term:
     slug: long-term-care-ombudsman
     basis: exact
@@ -130,7 +148,13 @@ mapping:
     basis: exact
   counsel-legislative:
     slug: legislative-counsel-office
-    basis: exact
+    basis: alias
+    note: The reports name the office in short form, "Legislative Counsel"; the registry carries it as
+      "Legislative Counsel Office" (DAS 142). Same body -- ERF holds exactly one Legislative Counsel row,
+      with no separate committee to confuse it with. Compare the sibling key `legislative-revenue`, whose
+      reports write "Legislative Revenue Office" in full and whose exact claim therefore holds.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-09-11'
   counselors-licensed-professional-therapists:
     slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
     basis: alias
@@ -147,7 +171,14 @@ mapping:
     reviewed_on: '2026-08-01'
   defense-public-services:
     slug: office-of-public-defense-services
-    basis: exact
+    basis: alias
+    note: 'The reports name the governing commission, "Public Defense Services Commission"; the registry
+      carries the office it governs, "Office of Public Defense Services", and lists the commission among
+      its aliases. Same body. Distinct from the sibling key recording the 2023 rename to the Public Defense
+      Commission (SB 337): that is a successor claim about a later name, not this concurrent commission/office
+      pairing.'
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-09-11'
   dentistry:
     slug: oregon-board-of-dentistry
     basis: exact
@@ -163,7 +194,14 @@ mapping:
     basis: exact
   emergency-management:
     slug: oregon-military-department-office-of-emergency-management
-    basis: exact
+    basis: successor
+    note: HB 2927 (Oregon Laws 2021, chapter 539, section 2), operative 2022-07-01, renamed the Office
+      of Emergency Management as the Oregon Department of Emergency Management and established it as an
+      independent agency, spun out of the Oregon Military Department; codified at ORS 401.052(1). The
+      reports name the successor body; the registry carries the predecessor placement (DAS 258, OAR chapter
+      104) with the current name among its aliases.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-09-11'
   employees-public-retirement-system:
     slug: oregon-public-employees-retirement-system
     basis: exact
@@ -206,7 +244,16 @@ mapping:
     basis: exact
   fire-marshal:
     slug: department-of-state-police-office-of-state-fire-marshal
-    basis: exact
+    basis: successor
+    note: HB 2927 (Oregon Laws 2021, chapter 539), operative 2023-07-01 for this body, renamed the Office
+      of State Fire Marshal as the Department of the State Fire Marshal and established it as an independent
+      agency, spun out of the Department of State Police; codified at ORS 476.020(1). The reports name
+      the successor body; the registry carries the predecessor placement (DAS 260, OAR chapter 837) with
+      the current name among its aliases. The act's section for this body was not independently confirmed,
+      so none is cited -- 2022-07-01 and section 2 belong to the emergency-management row, a different
+      body under the same act.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-09-11'
   fiscal-legislative:
     slug: legislative-fiscal-officer
     basis: alias
@@ -309,7 +356,13 @@ mapping:
     basis: exact
   practitioners-tax:
     slug: state-board-of-tax-practitioners
-    basis: exact
+    basis: alias
+    note: The reports drop the leading "State" and file under both "Board of Tax Practitioners" and the
+      inverted "Tax Practitioners, Board of"; the registry carries "State Board of Tax Practitioners"
+      (DAS 119, ORS 673.725). Same board -- Oregon has one, and ERF holds one row for it. The normalisation
+      strips a leading "Oregon" but not a leading "State", which is why the exact claim did not hold.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-09-11'
   psychiatric-review-security:
     slug: psychiatric-security-review-board
     basis: exact
@@ -347,7 +400,13 @@ mapping:
     basis: exact
   treasurer:
     slug: oregon-state-treasury
-    basis: exact
+    basis: alias
+    note: The reports name the constitutional officer, "State Treasurer"; the registry carries the agency
+      that officer heads, "Oregon State Treasury" (DAS 170), and lists "State Treasurer" among its aliases.
+      Same body. Compare the sibling key `treasury`, whose reports write the agency name and whose exact
+      claim therefore holds.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-09-11'
   treasury:
     slug: oregon-state-treasury
     basis: exact
