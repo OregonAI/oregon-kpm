@@ -63,6 +63,7 @@ from __future__ import annotations
 
 import argparse
 import collections
+import http.client
 import json
 import re
 import sys
@@ -80,6 +81,18 @@ SWEEP_CACHE = ROOT / "_meta" / ".cache" / "swept-urls.txt"
 
 RSS = "https://www.oregonlegislature.gov/_layouts/15/srchrss.aspx"
 SOCRATA = "https://data.oregon.gov/resource/kvbx-erfw.json"
+
+# data.oregon.gov REMOVED kvbx-erfw: by 2026-09-28 every endpoint answers 404
+# `dataset.missing` and the portal's catalog lists nothing under that id or any APPR / KPM
+# search. Its 238 rows index 2016-2018 reports that will never change, so the Wayback
+# capture below serves as well as the live dataset did. Measured: with these rows, a
+# live sweep and live verification reproduce the committed manifest BYTE FOR BYTE. Without
+# them, 194 publication dates, 187 agency names, 5 reporting years and 40 recorded-
+# unreachable names drop out. Used only when the portal says the dataset is missing, and
+# said so on every such run; if the dataset comes back, the live copy wins again.
+SOCRATA_ARCHIVE = ROOT / "_meta" / "archive" / "socrata-kvbx-erfw.json"
+SOCRATA_ARCHIVE_SOURCE = ("https://web.archive.org/web/20250829023009/"
+                          "https://data.oregon.gov/resource/kvbx-erfw.json")
 LIBRARY = "/lfo/APPR/"
 INDEX_PAGE = "https://www.oregonlegislature.gov/lfo/Pages/KPM.aspx"
 
@@ -96,10 +109,44 @@ MAX_START = 1000   # empirically the ceiling: rows at start=601, none at start=1
 SLEEP = 0.3        # be a polite guest on a state web server
 
 
+# What a busy server does, as opposed to what a missing file does. Measured on the
+# 2026-09-28 scheduled run: a burst of 503s on consecutive search pages, then the connection
+# dropped outright (`http.client.RemoteDisconnected`, which is NOT a URLError and used to
+# crash the run). Retried with backoff; a 404 or 401 is an answer and is never retried.
+TRANSIENT_HTTP = {429, 500, 502, 503, 504}
+NETWORK_ERRORS = (urllib.error.URLError, http.client.HTTPException, ConnectionError,
+                  TimeoutError)
+RETRY_WAITS = (10, 30, 90)
+
+# Every request that still failed after its retries. Non-empty means the run saw only part
+# of upstream, so its manifest is neither current nor stale -- main() refuses to write or
+# compare it rather than report a server's bad day as a change in the corpus.
+FAILED: list[str] = []
+
+
+def _retrying(url: str, attempt):
+    for wait in (*RETRY_WAITS, None):
+        try:
+            return attempt()
+        except urllib.error.HTTPError as e:
+            if e.code not in TRANSIENT_HTTP or wait is None:
+                raise
+            err = e
+        except NETWORK_ERRORS as e:
+            if wait is None:
+                raise
+            err = e
+        print(f"    retry in {wait}s: {url}: {type(err).__name__}: {err}", file=sys.stderr)
+        time.sleep(wait)
+
+
 def get(url: str, timeout: int = 45) -> bytes:
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read()
+
+    def attempt() -> bytes:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.read()
+    return _retrying(url, attempt)
 
 
 def normalise(link: str) -> str:
@@ -125,8 +172,9 @@ def sweep_rss() -> set[str]:
             url = f"{RSS}?k={urllib.parse.quote(q)}&start={start}"
             try:
                 xml = get(url).decode("utf-8", "replace")
-            except (urllib.error.URLError, TimeoutError) as e:
-                print(f"    warn: {q!r} start={start}: {e}", file=sys.stderr)
+            except NETWORK_ERRORS as e:
+                print(f"    FAILED: {q!r} start={start}: {e}", file=sys.stderr)
+                FAILED.append(f"search {q!r} start={start}: {type(e).__name__}: {e}")
                 break
             links = re.findall(r"<link>([^<]+)</link>", xml)
             hits = [normalise(l) for l in links if LIBRARY.lower() in l.lower()]
@@ -142,7 +190,16 @@ def socrata_rows() -> list[dict]:
     """238 rows, 2016-2018 only, with exact filenames and clean agency names."""
     out: list[dict] = []
     for offset in range(0, 2000, 1000):
-        raw = get(f"{SOCRATA}?$limit=1000&$offset={offset}")
+        try:
+            raw = get(f"{SOCRATA}?$limit=1000&$offset={offset}")
+        except urllib.error.HTTPError as e:
+            if e.code != 404:
+                raise
+            rows = json.loads(SOCRATA_ARCHIVE.read_text(encoding="utf-8"))
+            print(f"    kvbx-erfw is gone from data.oregon.gov (404); using the archived "
+                  f"copy, {len(rows)} rows: {SOCRATA_ARCHIVE.relative_to(ROOT)} "
+                  f"<- {SOCRATA_ARCHIVE_SOURCE}")
+            return rows
         page = json.loads(raw)
         out.extend(page)
         if len(page) < 1000:
@@ -169,39 +226,50 @@ def verify(url: str) -> tuple[int, str, int]:
     answer 405) and checks the %PDF magic directly.
     """
     head = urllib.request.Request(url, headers={"User-Agent": UA}, method="HEAD")
-    try:
+
+    def attempt():
         with urllib.request.urlopen(head, timeout=30) as r:
-            ctype = r.headers.get("Content-Type", "")
-            length = int(r.headers.get("Content-Length") or 0)
-            if r.status == 200 and "pdf" in ctype.lower():
-                return r.status, ctype, length
-            if r.status == 200:
-                return _range_probe(url)
-            return r.status, ctype, length
+            return r.status, r.headers.get("Content-Type", ""), \
+                int(r.headers.get("Content-Length") or 0)
+    try:
+        status, ctype, length = _retrying(url, attempt)
     except urllib.error.HTTPError as e:
         if e.code in (405, 501):          # HEAD not allowed here — fall back
             return _range_probe(url)
+        if e.code in TRANSIENT_HTTP:
+            FAILED.append(f"verify {url}: HTTP {e.code}")
         return e.code, "", 0
-    except (urllib.error.URLError, TimeoutError) as e:
+    except NETWORK_ERRORS as e:
+        FAILED.append(f"verify {url}: {type(e).__name__}: {e}")
         return 0, str(e), 0
+    if status == 200 and "pdf" in ctype.lower():
+        return status, ctype, length
+    if status == 200:
+        return _range_probe(url)
+    return status, ctype, length
 
 
 def _range_probe(url: str) -> tuple[int, str, int]:
     """Read the first KB only and trust the magic bytes over any declared type."""
     req = urllib.request.Request(
         url, headers={"User-Agent": UA, "Range": "bytes=0-1023"})
-    try:
+
+    def attempt():
         with urllib.request.urlopen(req, timeout=45) as r:
-            head_bytes = r.read(1024)
-            ctype = r.headers.get("Content-Type", "")
-            length = int(r.headers.get("Content-Length") or 0)
-            if head_bytes.startswith(b"%PDF"):
-                return 200, "application/pdf", length
-            return r.status, ctype or "not-a-pdf", length
+            return r.read(1024), r.status, r.headers.get("Content-Type", ""), \
+                int(r.headers.get("Content-Length") or 0)
+    try:
+        head_bytes, status, ctype, length = _retrying(url, attempt)
     except urllib.error.HTTPError as e:
+        if e.code in TRANSIENT_HTTP:
+            FAILED.append(f"range-probe {url}: HTTP {e.code}")
         return e.code, "", 0
-    except (urllib.error.URLError, TimeoutError) as e:
+    except NETWORK_ERRORS as e:
+        FAILED.append(f"range-probe {url}: {type(e).__name__}: {e}")
         return 0, str(e), 0
+    if head_bytes.startswith(b"%PDF"):
+        return 200, "application/pdf", length
+    return status, ctype or "not-a-pdf", length
 
 
 # Filename → (agency_code, reporting_year, status). Ordered most specific first. Every
@@ -300,8 +368,9 @@ def build(skip_sweep: bool = False, manifest_path: Path = MANIFEST) -> dict:
     else:
         print("==> sweeping the SharePoint search RSS feed")
         urls = sweep_rss()
-        SWEEP_CACHE.parent.mkdir(parents=True, exist_ok=True)
-        SWEEP_CACHE.write_text("\n".join(sorted(urls)) + "\n")
+        if not FAILED:  # a partial sweep must not be replayed by --skip-sweep as whole
+            SWEEP_CACHE.parent.mkdir(parents=True, exist_ok=True)
+            SWEEP_CACHE.write_text("\n".join(sorted(urls)) + "\n")
         print(f"==> {len(urls)} distinct /lfo/APPR/ URLs from search")
 
     print("==> pulling Socrata kvbx-erfw (exact names, 2016-2018)")
@@ -459,7 +528,16 @@ def main() -> int:
                     help="reuse the cached RSS sweep instead of re-crawling (iteration aid)")
     args = ap.parse_args()
 
+    started = time.monotonic()
     data = build(skip_sweep=args.skip_sweep)
+    print(f"==> enumeration took {(time.monotonic() - started) / 60:.1f} min")
+    if FAILED:
+        print(f"\n{len(FAILED)} request(s) still failed after {len(RETRY_WAITS)} retries, so this "
+              f"run saw only part of upstream. The manifest is neither current nor stale; "
+              f"it was not {'compared' if args.check else 'written'}.", file=sys.stderr)
+        for f in FAILED[:20]:
+            print(f"  {f}", file=sys.stderr)
+        return 1
     text = yaml.safe_dump(data, sort_keys=False, allow_unicode=True, width=100)
 
     if args.check:
