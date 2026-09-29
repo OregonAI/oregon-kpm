@@ -56,9 +56,13 @@ jobs:
   # No --skip-sweep: the sweep cache is gitignored on purpose (a network artifact, not
   # a source of truth) and does not survive between Actions runs, so --skip-sweep
   # would silently no-op into a full sweep here anyway. Run the real thing.
+  # 180, not 60: measured 2026-09-28 from outside GitHub, the sweep took ~30 min and the
+  # whole run ~36, with no retries. On runners it was cancelled at 60 min four weeks running
+  # (2026-08-31 to 09-21) while still sweeping, and a 503 now costs up to 130 s of backoff
+  # per request before it is recorded as FAILED rather than crashing the run.
   source-manifest:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

@@ -6,6 +6,22 @@ Repo-curation dates only — official effective dates live in frontmatter.
 
 ## [Unreleased]
 
+### Fixed
+- 2026-09-28 — the weekly `source-manifest` job can finish, and says so honestly when it
+  cannot. It had not passed since it was added (2026-08-27): cancelled at its 60-minute
+  limit four weeks running, then crashed on 2026-09-28 when the Legislature's search feed
+  dropped the connection (`RemoteDisconnected` is not a URLError). `src/enumerate_kpm.py`
+  now retries 503s and dropped connections with backoff; a request that still fails is
+  recorded, and a run that saw only part of upstream refuses to write or compare the
+  manifest instead of reporting an outage as staleness. Timeout 60 → 180 minutes
+  (measured ~36 minutes end to end from outside GitHub).
+- 2026-09-28 — data.oregon.gov has **removed** Socrata dataset `kvbx-erfw` (404
+  `dataset.missing`; absent from the portal catalog), the exact-name index for 2016-2018.
+  Its 238 rows are now committed from the Wayback Machine's 2025-08-29 capture at
+  `_meta/archive/socrata-kvbx-erfw.json` (sha256 `410aef62…`) and used only when the portal
+  answers 404. With them, a live sweep and live verification reproduce the committed
+  manifest byte for byte; without them 194 publication dates and 187 agency names drop out.
+
 ### Added
 - 2026-09-10 — `src/link_agency_registry.py` records, per agency, HOW its join to the
   ERF registry was made — `basis: exact` (mechanical name match), `alias`/`successor` (a
