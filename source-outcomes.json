@@ -2,11 +2,12 @@
   "group_filter": null,
   "groups": {
     "manifest": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 789,
-      "fetch_failed": 1,
+      "fetch_failed": 3,
       "no_baseline": 0,
-      "unchanged": 788,
+      "unchanged": 786,
       "unreadable_json": 0,
       "watch_path_missing": 0
     }
@@ -21,7 +22,7 @@
       "group": "manifest",
       "had_baseline": true,
       "id": "APPR_BOA_2016-10-07",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOA_2016-10-07.pdf"
     },
     {
@@ -4158,7 +4159,7 @@
       "group": "manifest",
       "had_baseline": true,
       "id": "APPR_ORC_2023-09-26",
-      "outcome": "unchanged",
+      "outcome": "fetch_failed",
       "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_ORC_2023-09-26.pdf"
     },
     {
@@ -4193,7 +4194,7 @@
       "group": "manifest",
       "had_baseline": true,
       "id": "APPR_OST_2023",
-      "outcome": "unchanged",
+      "outcome": "fetch_failed",
       "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_OST_2023.pdf"
     },
     {
@@ -4284,7 +4285,7 @@
       "group": "manifest",
       "had_baseline": true,
       "id": "APPR_BLPCT_2024-09-26",
-      "outcome": "unchanged",
+      "outcome": "fetch_failed",
       "url": "https://www.oregonlegislature.gov/lfo/APPR/APPR_BLPCT_2024-09-26.pdf"
     },
     {
@@ -5542,11 +5543,12 @@
     }
   ],
   "totals": {
+    "archive_unreadable": 0,
     "changed": 0,
-    "fetch_failed": 1,
+    "fetch_failed": 3,
     "no_baseline": 0,
     "total": 789,
-    "unchanged": 788,
+    "unchanged": 786,
     "unreadable_json": 0,
     "watch_path_missing": 0
   }

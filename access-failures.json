@@ -3,9 +3,21 @@
   "sources": [
     {
       "consecutive_failures": 1,
-      "first_failed_at": "2026-09-04",
+      "first_failed_at": "2026-10-02",
       "group": "manifest",
-      "id": "APPR_BOA_2016-10-07"
+      "id": "APPR_BLPCT_2024-09-26"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-02",
+      "group": "manifest",
+      "id": "APPR_ORC_2023-09-26"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-02",
+      "group": "manifest",
+      "id": "APPR_OST_2023"
     }
   ]
 }
