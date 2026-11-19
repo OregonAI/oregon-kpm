@@ -143,11 +143,21 @@ def test_an_incomplete_write_run_still_fails_and_writes_nothing(monkeypatch, cap
 
 
 def test_a_failure_message_cannot_break_out_of_its_annotation(monkeypatch, capsys, tmp_path):
-    _incomplete_run(monkeypatch, tmp_path, ["--check"], ("verify u: a\nb\r::error::x",))
+    _incomplete_run(monkeypatch, tmp_path, ["--check"], ("verify u: 100%\nb\r::error::x",))
     assert ek.main() == 0
-    out = capsys.readouterr()
-    lines = [l for l in (out.out + out.err).splitlines() if "::error::" in l]
-    assert all(l.startswith("::warning") for l in lines)
+    cap = capsys.readouterr()
+    lines = (cap.out + cap.err).splitlines()
+    warnings = [l for l in lines if l.startswith("::warning")]
+    assert len(warnings) == 1
+    assert warnings[0].endswith("verify u: 100%25%0Ab%0D::error::x")
+    assert not [l for l in lines if l.startswith("::error")]
+
+
+def test_a_missing_manifest_fails_even_when_a_request_also_failed(monkeypatch, capsys, tmp_path):
+    manifest = _incomplete_run(monkeypatch, tmp_path, ["--check"])
+    manifest.unlink()
+    assert ek.main() == 1
+    assert "missing" in capsys.readouterr().err
 
 
 def test_real_staleness_still_fails_a_complete_check(monkeypatch, capsys, tmp_path):

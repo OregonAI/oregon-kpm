@@ -537,8 +537,8 @@ def build(skip_sweep: bool = False, manifest_path: Path = MANIFEST) -> dict:
 
 
 def _annotation(text: str) -> str:
-    """One line, so an upstream-supplied message cannot open a second workflow command."""
-    return " ".join(text.split()).replace("::", ": :")
+    """GitHub's workflow-command escaping: one line, no way to open a second command."""
+    return text.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
 
 
 def main() -> int:
@@ -550,6 +550,11 @@ def main() -> int:
                     help="reuse the cached RSS sweep instead of re-crawling (iteration aid)")
     args = ap.parse_args()
 
+    # A missing manifest is a verdict that needs no network: it fails before, and regardless
+    # of, whether the fetch was complete.
+    if args.check and not MANIFEST.exists():
+        print("source-manifest.yml is missing", file=sys.stderr)
+        return 1
     started = time.monotonic()
     data = build(skip_sweep=args.skip_sweep)
     print(f"==> enumeration took {(time.monotonic() - started) / 60:.1f} min")
@@ -572,9 +577,6 @@ def main() -> int:
     text = yaml.safe_dump(data, sort_keys=False, allow_unicode=True, width=100)
 
     if args.check:
-        if not MANIFEST.exists():
-            print("source-manifest.yml is missing", file=sys.stderr)
-            return 1
         if MANIFEST.read_text() != text:
             print("source-manifest.yml is out of date — re-run enumerate_kpm.py",
                   file=sys.stderr)
