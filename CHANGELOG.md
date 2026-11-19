@@ -7,6 +7,14 @@ Repo-curation dates only — official effective dates live in frontmatter.
 ## [Unreleased]
 
 ### Fixed
+- 2026-11-18 — the weekly `source-manifest` job failed 2026-10-26, 11-02, 11-09 and 11-16
+  with "neither current nor stale" and was never a statement about staleness. The one
+  request that failed after its retries each time was `HEAD /lfo/APPR/Forms/AllItems.aspx`,
+  a SharePoint library view that search now returns under `/lfo/APPR/` and that the host
+  answers by dropping the connection (a search-page 503 in each run recovered on its first
+  retry). `src/enumerate_kpm.py` no longer verifies library views (`is_library_view`), and
+  an inconclusive `--check` now emits one `::warning::` per failed request and exits 0;
+  real staleness still exits 1, and a write run on a partial fetch still exits 1.
 - 2026-09-28 — the weekly `source-manifest` job can finish, and says so honestly when it
   cannot. It had not passed since it was added (2026-08-27): cancelled at its 60-minute
   limit four weeks running, then crashed on 2026-09-28 when the Legislature's search feed

@@ -2,7 +2,7 @@
 """Discover every Annual Performance Progress Report and write _meta/source-manifest.yml.
 
   python3 src/enumerate_kpm.py            # rewrite the manifest
-  python3 src/enumerate_kpm.py --check    # exit 1 if the manifest would change (CI)
+  python3 src/enumerate_kpm.py --check    # exit 1 if stale; 0 + ::warning:: if upstream was partly unreachable
 
 WHERE THE DATA COMES FROM, because the obvious path is closed and the working one is not
 the page a human would guess.
@@ -147,6 +147,17 @@ def get(url: str, timeout: int = 45) -> bytes:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             return r.read()
     return _retrying(url, attempt)
+
+
+def is_library_view(url: str) -> bool:
+    """A SharePoint library VIEW (`/lfo/APPR/Forms/AllItems.aspx`), not a document.
+
+    Search surfaces it under /lfo/APPR/, but it can never be a source. Since 2026-10-26 the
+    host drops the HEAD sent to it every time (curl: timeout; GET still answers 200 HTML),
+    which verify() records as FAILED -- so one page that is not a report made the weekly
+    check inconclusive four weeks running. Never requested, never a candidate.
+    """
+    return "/forms/" in urllib.parse.urlsplit(url).path.lower()
 
 
 def normalise(link: str) -> str:
@@ -407,6 +418,11 @@ def build(skip_sweep: bool = False, manifest_path: Path = MANIFEST) -> dict:
     # actually get carried forward so the ones that do not can be reported by count and
     # by name, not just implied by "N will be carried forward" going quiet.
     carried_ids: set[str] = set()
+    skipped = sorted(u for u in urls if is_library_view(u))
+    if skipped:
+        print(f"==> {len(skipped)} library view(s) are pages, not documents; not verified: "
+              f"{', '.join(skipped)}")
+    urls = {u for u in urls if not is_library_view(u)}
     for i, url in enumerate(sorted(urls), 1):
         code, ctype, size = verify(url)
         fn = urllib.parse.unquote(url.rsplit("/", 1)[-1])
@@ -520,10 +536,16 @@ def build(skip_sweep: bool = False, manifest_path: Path = MANIFEST) -> dict:
     }
 
 
+def _annotation(text: str) -> str:
+    """One line, so an upstream-supplied message cannot open a second workflow command."""
+    return " ".join(text.split()).replace("::", ": :")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--check", action="store_true",
-                    help="exit 1 if the manifest would change")
+                    help="exit 1 if the manifest is stale; a partial upstream fetch is a "
+                         "::warning:: and exit 0, not a verdict")
     ap.add_argument("--skip-sweep", action="store_true",
                     help="reuse the cached RSS sweep instead of re-crawling (iteration aid)")
     args = ap.parse_args()
@@ -532,12 +554,21 @@ def main() -> int:
     data = build(skip_sweep=args.skip_sweep)
     print(f"==> enumeration took {(time.monotonic() - started) / 60:.1f} min")
     if FAILED:
+        # Inconclusive is not stale. A server's bad day must not fail the job (that taught
+        # the owner to ignore it: four red weeks, none of them staleness), so --check
+        # annotates and exits 0; real staleness below still exits 1. Writing a manifest
+        # from a partial view is never right, so the write path still fails.
         print(f"\n{len(FAILED)} request(s) still failed after {len(RETRY_WAITS)} retries, so this "
               f"run saw only part of upstream. The manifest is neither current nor stale; "
               f"it was not {'compared' if args.check else 'written'}.", file=sys.stderr)
         for f in FAILED[:20]:
-            print(f"  {f}", file=sys.stderr)
-        return 1
+            print(f"  {_annotation(f)}", file=sys.stderr)
+            if args.check:
+                print(f"::warning title=source-manifest inconclusive::{_annotation(f)}")
+        if len(FAILED) > 20 and args.check:
+            print(f"::warning title=source-manifest inconclusive::"
+                  f"...and {len(FAILED) - 20} more failed request(s)")
+        return 0 if args.check else 1
     text = yaml.safe_dump(data, sort_keys=False, allow_unicode=True, width=100)
 
     if args.check:
