@@ -109,18 +109,90 @@ def test_a_search_page_that_never_answers_is_recorded(urlopen, monkeypatch):
     assert len(ek.FAILED) == 1 and "start=1" in ek.FAILED[0]
 
 
-@pytest.mark.parametrize("argv", [["--check"], []])
-def test_an_incomplete_run_neither_compares_nor_writes(argv, monkeypatch, capsys, tmp_path):
+def _incomplete_run(monkeypatch, tmp_path, argv, failures=("verify https://x/a.aspx: boom",)):
     manifest = tmp_path / "source-manifest.yml"
     manifest.write_text("sources: []\n")
     monkeypatch.setattr(ek, "MANIFEST", manifest)
     monkeypatch.setattr(ek, "FAILED", [])
-    monkeypatch.setattr(ek, "build", lambda skip_sweep=False: (ek.FAILED.append("x"), {})[1])
+    monkeypatch.setattr(ek, "build",
+                        lambda skip_sweep=False: (ek.FAILED.extend(failures), {})[1])
     monkeypatch.setattr(sys, "argv", ["enumerate_kpm.py", *argv])
-    assert ek.main() == 1
-    err = capsys.readouterr().err
-    assert "neither current nor stale" in err and "out of date" not in err
+    return manifest
+
+
+def test_an_incomplete_check_is_a_warning_naming_the_failed_request_not_a_failure(
+        monkeypatch, capsys, tmp_path):
+    manifest = _incomplete_run(monkeypatch, tmp_path, ["--check"],
+                               ("verify https://x/a.aspx: boom", "search 'APPR' start=1: 503"))
+    assert ek.main() == 0
+    cap = capsys.readouterr()
+    out = cap.out + cap.err
+    warnings = [l for l in out.splitlines() if l.startswith("::warning")]
+    assert len(warnings) == 2
+    assert "verify https://x/a.aspx: boom" in warnings[0]
+    assert "search 'APPR' start=1: 503" in warnings[1]
+    assert "neither current nor stale" in out and "out of date" not in out
     assert manifest.read_text() == "sources: []\n"
+
+
+def test_an_incomplete_write_run_still_fails_and_writes_nothing(monkeypatch, capsys, tmp_path):
+    manifest = _incomplete_run(monkeypatch, tmp_path, [])
+    assert ek.main() == 1
+    assert "neither current nor stale" in capsys.readouterr().err
+    assert manifest.read_text() == "sources: []\n"
+
+
+def test_a_failure_message_cannot_break_out_of_its_annotation(monkeypatch, capsys, tmp_path):
+    _incomplete_run(monkeypatch, tmp_path, ["--check"], ("verify u: 100%\nb\r::error::x",))
+    assert ek.main() == 0
+    cap = capsys.readouterr()
+    lines = (cap.out + cap.err).splitlines()
+    warnings = [l for l in lines if l.startswith("::warning")]
+    assert len(warnings) == 1
+    assert warnings[0].endswith("verify u: 100%25%0Ab%0D::error::x")
+    assert not [l for l in lines if l.startswith("::error")]
+
+
+def test_a_missing_manifest_fails_even_when_a_request_also_failed(monkeypatch, capsys, tmp_path):
+    manifest = _incomplete_run(monkeypatch, tmp_path, ["--check"])
+    manifest.unlink()
+    assert ek.main() == 1
+    assert "missing" in capsys.readouterr().err
+
+
+def test_real_staleness_still_fails_a_complete_check(monkeypatch, capsys, tmp_path):
+    manifest = tmp_path / "source-manifest.yml"
+    manifest.write_text("sources: []\n")
+    monkeypatch.setattr(ek, "MANIFEST", manifest)
+    monkeypatch.setattr(ek, "FAILED", [])
+    monkeypatch.setattr(ek, "build", lambda skip_sweep=False: {"sources": [{"id": "new"}]})
+    monkeypatch.setattr(sys, "argv", ["enumerate_kpm.py", "--check"])
+    assert ek.main() == 1
+    assert "out of date" in capsys.readouterr().err
+
+
+class TestLibraryViews:
+    """The four failures of 2026-10-26..11-16 were not a busy server. A SharePoint library
+    VIEW (`/Forms/AllItems.aspx`) reached the candidate set and upstream now drops the
+    HEAD it is sent, every time. It is a page, never a document, so it is not verified."""
+
+    def test_a_forms_view_is_not_a_candidate(self):
+        assert ek.is_library_view(
+            "https://www.oregonlegislature.gov/lfo/APPR/Forms/AllItems.aspx")
+
+    def test_a_report_is_a_candidate(self):
+        assert not ek.is_library_view(
+            "https://www.oregonlegislature.gov/lfo/APPR/APPR_BOA_2016-10-07.pdf")
+
+    def test_build_never_sends_a_request_for_one(self, urlopen, monkeypatch, tmp_path):
+        view = "https://www.oregonlegislature.gov/lfo/APPR/Forms/AllItems.aspx"
+        monkeypatch.setattr(ek, "sweep_rss", lambda: {view})
+        monkeypatch.setattr(ek, "socrata_rows", lambda: [])
+        monkeypatch.setattr(ek, "SWEEP_CACHE", tmp_path / "sweep.txt")
+        monkeypatch.setattr(ek, "SLEEP", 0)
+        calls = urlopen()
+        ek.build(manifest_path=tmp_path / "none.yml")
+        assert calls == [] and ek.FAILED == []
 
 
 class TestSocrata:
